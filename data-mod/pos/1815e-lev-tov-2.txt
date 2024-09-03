@@ -1,0 +1,38 @@
+SENT	1815E-LEV-TOV-2,35.3
+1	du	PRO	דו	dv	_
+2	zalst	MDF	זאַלסט	zAalst	_
+3	nit	NEG	ניט	nyt	_
+4	reydin	VB	רײדין	rYdyN	_
+5	zelkhi	ADJ	זעלכי	zelxy	_
+6	reyd	N	רײד	rYd	_
+7	,	PUNC	,	,	_
+8	vos	C	װאָס	VAos	_
+9	mit	P	מיט	myt	_
+10	zey	PRO	זײ	zY	_
+11-12	makhstu	VBF~PRO	מאַכסטו	mAaxstv	_
+11	makhs	VBF	מאַכס	mAaxs	_
+12	tu	PRO	טו	tv	_
+13	zindeyn	ADJ	זינדײן	zyndYN	_
+14	deyn	PRO$	דײן	dYN	_
+15	layb	N	לײַב	lYab	_
+16	.	PUNC	.	.	_
+
+SENT	1815E-LEV-TOV-2,35.4
+1	helft	VBF	העלפֿט	helft	_
+2	im	PRO	אים	AyM	_
+3	keyn	Q	קײן	kYN	_
+4	tshubh	N	טשובה	t$vbh	_
+5	nit	NEG	ניט	nyt	_
+6	biz	C	ביז	byz	_
+7	er	PRO	ער	er	_
+8	muz	MDF	מוז	mvz	_
+9	iberbetin	VB	איבערבעטין	AyberbetyN	_
+10	zeyn	PRO$	זײן	zYN	_
+11	khaver	N	חבֿר	H~r	_
+12	vos	C	װאָס	VAos	_
+13	er	PRO	ער	er	_
+14	hot	HVF	האָט	hAot	_
+15	im	PRO	אים	AyM	_
+16	gishaltin	VBN	גישאַלטין	gy$AaltyN	_
+17	.	PUNC	.	.	_
+

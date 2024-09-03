@@ -1,0 +1,2041 @@
+SENT	1783E-UKRAINE-1,31.3
+1	ukraine	NPR	אוקראַיִנע	AvkrAayine	_
+2	grenitst	VBF	גרעניצט	grenyqt	_
+3	mit	P	מיט	myt	_
+4	rusin	NPR	רוסין	rvsyN	_
+5	und	CONJ	אונד	Avnd	_
+6	tatrey	NPR	טאַטרײ	tAatrY	_
+
+SENT	1783E-UKRAINE-1,31.4
+1	das	D	דת	dS	_
+2	bikhleyn	N	ביכלײן	byxlYN	_
+3	fun	P	פֿון	fvN	_
+4	umn	NPR	אומן	AvmN	_
+5	und	CONJ	אונד	Avnd	_
+6	gantsin	ADJ	גאַנצין	gAanqyN	_
+7	ukreyna	NPR	אוקרײנאַ	AvkrYnAa	_
+8	zal	MDF	ז"ל	z"l	_
+9	itlikhr	Q	איטליכר	Aytlyxr	_
+10	mensh	N	מענש	men$	_
+11	leyanin	VB	לײאַנין	lYAanyN	_
+
+SENT	1783E-UKRAINE-1,31.5
+1	und	CONJ	אונד	Avnd	_
+2	zal	MDF	ז"ל	z"l	_
+3	zikh	PRO	זיך	zyX	_
+4	tsu	P	צו	qv	_
+5	hertsin	N	הערצין	herqyN	_
+6	nehmn	VB	נעהמן	nehmN	_
+7	di	D	די	dy	_
+8	groyzi	ADJ	גרױזי	grWzy	_
+9	tsrh	N	צרה	qrh	_
+10	vas	C	װאַס	VAas	_
+11	gat	NPR	גאַט	gAat	_
+12	tsu	RP	צו	qv	_
+13	gisikht	VBN	גיסיכט	gysyxt	_
+14	hat	HVF	האַט	hAat	_
+15	oyf	P	אױף	AWF	_
+16	gants	ADJ	גאַנץ	gAanQ	_
+17	ukraina	NPR	אוקראַיִנאַ	AvkrAayinAa	_
+18	in	P	אין	AyN	_
+19	yar	N	יאַר	yAar	_
+20	tk"l	NUM	טק"ל	tk"l	_
+
+SENT	1783E-UKRAINE-1,31.6
+1	fil	Q	פֿיל	fyl	_
+2	steti	N	סטעטי	stety	_
+3	zeyn	BEF	זײן	zYN	_
+4	nhrg	RP-H	נהרג	nhrg	_
+5	vardn	VBN	װאַרדן	VAardN	_
+6	durkh	P	דורך	dvrX	_
+7	mitut	N	מיטוט	mytvt	_
+8	msugut	N	מסוגוט	msvgvt	_
+9	und	CONJ	אונד	Avnd	_
+10	groyzi	ADJ	גרױזי	grWzy	_
+11	isurim	N	איסורים	AysvryM	_
+
+SENT	1783E-UKRAINE-1,31.7
+1	gat	NPR	גאַט	gAat	_
+2	zal	MDF	ז"ל	z"l	_
+3	veytr	ADV	װײטר	VYtr	_
+4	uns	PRO	אונס	Avns	_
+5	hitn	VB	היטן	hytN	_
+6	fun	P	פֿון	fvN	_
+7	ali	Q	אַלי	Aaly	_
+8	beyzn	N	בײזן	bYzN	_
+
+SENT	1783E-UKRAINE-1,31.8
+1	und	CONJ	אונד	Avnd	_
+2	zal	MDF	ז"ל	z"l	_
+3	nkmut	N	נקמוט	nkmvt	_
+4	veyzn	VB	װײזן	VYzN	_
+5	in	P	אין	AyN	_
+6	di	D	די	dy	_
+7	sunaim	N	סונאַיִם	svnAayiM	_
+
+SENT	1783E-UKRAINE-1,32.10
+1	und	CONJ	אונד	Avnd	_
+2	zal	MDF	ז"ל	z"l	_
+3	unz	PRO	אונז	Avnz	_
+4	oys	P	אױס	AWs	_
+5	dem	D	דעם	deM	_
+6	bitrn	ADJ	ביטרן	bytrN	_
+7	glut	N	גלוט	glvt	_
+8	erlizn	VB	ערליזן	erlyzN	_
+
+SENT	1783E-UKRAINE-1,32.11
+1	di	D	די	dy	_
+2	urzkh	N	אורזך	AvrzX	_
+3	fun	P	פֿון	fvN	_
+4	den	D	דען	deN	_
+5	gantsin	ADJ	גאַנצין	gAanqyN	_
+6	uhn-glik	N	אוהן-גליק	AvhN-glyk	_
+7	bstehit	VBF	בסטעהיט	bstehyt	_
+8	in	P	אין	AyN	_
+9	dem	D	דעם	deM	_
+
+SENT	1783E-UKRAINE-1,32.12
+1	bey	P	בײ	bY	_
+2	der	D	דער	der	_
+3	gimelti	ADJ	גימעלטי	gymelty	_
+4	grents	N	גרענץ	grenQ	_
+5	hoben	VBF	האָבען	hAobeN	_
+6	ali	Q	אַלי	Aaly	_
+7	den	D	דען	deN	_
+8	ruzishn	ADJ	רוזישן	rvzy$N	_
+9	gloybn	N	גלױבן	glWbN	_
+10	velkhi	WPRO	װעלכי	Velxy	_
+11	ginent	VAN	גינענט	gynent	_
+12	verdn	RDF	װערדן	VerdN	_
+13	ivnim	N	איװנים	AyVnyM	_
+14	velkhi	WPRO	װעלכי	Velxy	_
+15	groyse	ADJ	גרױסע	grWse	_
+16	feynt	N	פֿײנט	fYnt	_
+17	fun	P	פֿון	fvN	_
+18	ihudim	N	איהודים	AyhvdyM	_
+19	zeynen	VBF	זײנען	zYneN	_
+20	vaz	WPRO	װאַז	VAaz	_
+21	ribr	P	ריבר	rybr	_
+22	yedr	Q	יעדר	yedr	_
+23	tseyt	N	צײט	qYt	_
+24	eyn	D	אײן	AYN	_
+25	groys	ADJ	גרױס	grWs	_
+26	khil	N	כיל	xyl	_
+27	hat	VBF	האַט	hAat	_
+
+SENT	1783E-UKRAINE-1,32.13
+1	muzin	MDF	מוזין	mvzyN	_
+2	akhtung	RP-N	אַכטונג	Aaxtvng	_
+3	gebn	VB	געבן	gebN	_
+4	oyf	P	אױף	AWF	_
+5	der	D	דער	der	_
+6	grents	N	גרענץ	grenQ	_
+7	fun	P	פֿון	fvN	_
+8	ukreyna	NPR	אוקרײנאַ	AvkrYnAa	_
+9	alz	C	אַלז	Aalz	_
+10	gur	ADV	גור	gvr	_
+11	keyn	Q	קײן	kYN	_
+12	ibr_fal	N	איבר_פֿאַל	Aybr_fAal	_
+13	gsehn	VB	גסעהן	gsehN	_
+14	zal	MDF	ז"ל	z"l	_
+
+SENT	1783E-UKRAINE-1,32.14
+1	endlikh	ADV	ענדליך	endlyX	_
+2	treft	VBF	טרעפֿט	treft	_
+3	zikh	PRO	זיך	zyX	_
+4	das	D	דת	dS	_
+5	khil	N	כיל	xyl	_
+6	hat	HVF	האַט	hAat	_
+7	fun	P	פֿון	fvN	_
+8	da	ADV	דאַ	dAa	_
+9	ab	RP	אַב	Aab	_
+10	rukin	VB	רוקין	rvkyN	_
+11	gimuzt	MDN	גימוזט	gymvzt	_
+12	vegn	P	װעגן	VegN	_
+13	eyni	D	אײני	AYny	_
+14	mlkhmh	N	מלכמה	mlxmh	_
+15	vos	WPRO	װאָס	VAos	_
+16	tsu	P	צו	qv	_
+17	man	PRO	מאַן	mAaN	_
+18	zi	PRO	זי	zy	_
+19	gibroykht	VBN	גיברױכט	gybrWxt	_
+20	hat	HVF	האַט	hAat	_
+
+SENT	1783E-UKRAINE-1,33.16
+1	do	ADV	דאָ	dAo	_
+2	krign	VBF	קריגן	krygN	_
+3	beu"h	H	בעו"ה	bev"h	for_sins_our_the_many
+4	di	D	די	dy	_
+5	ivnim	N	איװנים	AyVnyM	_
+6	di	D	די	dy	_
+7	gelegnheyt	N	געלעגנהײט	gelegnhYt	_
+8	an	P	אַן	AaN	_
+9	ihr	PRO	איהר	Ayhr	_
+10	sunaim	N	סונאַיִם	svnAayiM	_
+11	zikh	PRO	זיך	zyX	_
+12	nukm	RP-H	נוקם	nvkM	_
+13	zeyn	VB	זײן	zYN	_
+
+SENT	1783E-UKRAINE-1,33.17
+1	und	CONJ	אונד	Avnd	_
+2	fangin	VBF	פֿאַנגין	fAangyN	_
+3	beu"h	H	בעו"ה	bev"h	for_sins_our_the_many
+4	an	RP	אַן	AaN	_
+5	untr	P	אונטר	Avntr	_
+6	isral	NPR	איסראַל	AysrAal	_
+7	mmit	RP-H	ממיט	mmyt	_
+8	tsu	TO	צו	qv	_
+9	zeyn	VB	זײן	zYN	_
+
+SENT	1783E-UKRAINE-1,33.18
+1	ah	INTJ	אַה	Aah	_
+2	gut	NPR	גוט	gvt	_
+3	ershefr	N	ערשעפֿר	er$efr	_
+4	ali	Q	אַלי	Aaly	_
+5	gimihtr	N	גימיהטר	gymyhtr	_
+6	vi	WADV	װי	Vy	_
+7-8	kenstu	MDF~PRO	קענסטו	kenstv	_
+7	kens	MDF	קענס	kens	_
+8	tu	PRO	טו	tv	_
+9	tsu	RP	צו	qv	_
+10	zehn	VB	זעהן	zehN	_
+11	di	D	די	dy	_
+12	menshin	N	מענשין	men$yN	_
+13	tsu	TO	צו	qv	_
+14	teytin	VB	טײטין	tYtyN	_
+15	fihrn	VB	פֿיהרן	fyhrN	_
+16	alz	P	אַלז	Aalz	_
+17	di	D	די	dy	_
+18	shafi	N	שאַפֿי	$Aafy	_
+19-20	tsum	P~D	צום	qvM	_
+19	tsu	P	צו	qv	_
+20	m	D	מ	m	_
+21	shekhtin	N	שעכטין	$extyN	_
+
+SENT	1783E-UKRAINE-1,33.19
+1	der	D	דער	der	_
+2	anfang	N	אַנפֿאַנג	AanfAang	_
+3	vahr	VBF	װאַהר	VAahr	_
+4	in	P	אין	AyN	_
+5	k"k	H	ק"ק	k"k	community_holy
+6	toytub	NPR	טױטוב	tWtvb	_
+
+SENT	1783E-UKRAINE-1,33.20
+1	gingn	VBF	גינגן	gyngN	_
+2	tsvey	NUM	צװײ	qVY	_
+3	yudn_veybr	N	יודנ_װײבר	yvdn_VYbr	_
+4	oyf	P	אױף	AWF	_
+5	den	D	דען	deN	_
+6	feld	N	פֿעלד	feld	_
+7	tsu	P	צו	qv	_
+8	fri	ADV	פֿרי	fry	_
+
+SENT	1783E-UKRAINE-1,33.21
+1	da	ADV	דאַ	dAa	_
+2	zehn	VBF	זעהן	zehN	_
+3	zi	PRO	זי	zy	_
+4	ruzishn	ADJ	רוזישן	rvzy$N	_
+5	boyarn	N	בױאַרן	bWAarN	_
+6	an	RP	אַן	AaN	_
+7	rukin	VB	רוקין	rvkyN	_
+
+SENT	1783E-UKRAINE-1,33.22
+1	er_shrekin	VBF	ער_שרעקין	er_$rekyN	_
+2	mekhtig	ADV	מעכטיג	mextyg	_
+
+SENT	1783E-UKRAINE-1,33.23
+1	loyftn	VBF	לױפֿטן	lWftN	_
+2	gleykh	ADV	גלײך	glYX	_
+3	in	P	אין	AyN	_
+4	der	D	דער	der	_
+5	khilh	N	כילה	xylh	_
+
+SENT	1783E-UKRAINE-1,33.24
+1	und	CONJ	אונד	Avnd	_
+2	ruftin	VBF	רופֿטין	rvftyN	_
+3	mit	P	מיט	myt	_
+4	folir	ADJ	פֿאָליר	fAolyr	_
+5	stimi	N	סטימי	stymy	_
+6	oyz	P	אױז	AWz	_
+7	gott	NPR	גאָטט	gAott	_
+8	vilin	N	װילין	VylyN	_
+9	ir	PRO	איר	Ayr	_
+10	ihudim	N	איהודים	AyhvdyM	_
+11	di	D	די	dy	_
+12	rutskhnim	N	רוצכנים	rvqxnyM	_
+13	kumn	VBF	קומן	kvmN	_
+14	yetsunt	ADV	יעצונט	yeqvnt	_
+15	her	ADV	הער	her	_
+16	uns	PRO	אונס	Avns	_
+17	fun	P	פֿון	fvN	_
+18	unzr	PRO$	אונזר	Avnzr	_
+19	gloybin	N	גלױבין	glWbyN	_
+20	dt	H	דט	dt	religion
+21	isral	H	איסראַל	AysrAal	Israel
+22	tsu	TO	צו	qv	_
+23	farfihrn	VB	פֿאַרפֿיהרן	fAarfyhrN	_
+
+SENT	1783E-UKRAINE-1,33.25
+1	denkt	VBI	דענקט	denkt	_
+2	an	P	אַן	AaN	_
+3	unzr	PRO$	אונזר	Avnzr	_
+4	heylign	ADJ	הײליגן	hYlygN	_
+5	gott	NPR	גאָטט	gAott	_
+
+SENT	1783E-UKRAINE-1,33.26
+1	und	CONJ	אונד	Avnd	_
+2	zeyt	VBI	זײט	zYt	_
+3	mkds	RP-H	מקדס	mkds	_
+4	hshm	H	השם	h$M	the_name
+
+SENT	1783E-UKRAINE-1,33.27
+1	an	P	אַן	AaN	_
+2	anfang	N	אַנפֿאַנג	AanfAang	_
+3	ir	PRO$	איר	Ayr	_
+4	kumn	N	קומן	kvmN	_
+5	titn	VBF	טיטן	tytN	_
+6	zi	PRO	זי	zy	_
+7	gleykh	ADV	גלײך	glYX	_
+8	fir_hunrt	NUM	פֿיר_הונרט	fyr_hvnrt	_
+9	nfsut	N	נפֿסוט	nfsvt	_
+10	fun	P	פֿון	fvN	_
+11	isral	NPR	איסראַל	AysrAal	_
+
+SENT	1783E-UKRAINE-1,33.28
+1	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+2	far_spreytin	VBF	פֿאַר_ספּרײטין	fAar_sprYtyN	_
+3	zi	PRO	זי	zy	_
+4	zikh	PRO	זיך	zyX	_
+5	in	P	אין	AyN	_
+6	di	D	די	dy	_
+7	heyzr	N	הײזר	hYzr	_
+
+SENT	1783E-UKRAINE-1,33.29
+1	und	CONJ	אונד	Avnd	_
+2	habin	HVF	האַבין	hAabyN	_
+3	gitoyt	VBN	גיטױט	gytWt	_
+4	mehr	QR	מעהר	mehr	_
+5	als	P	אַלס	Aals	_
+6	finf_toyznt	NUM	פֿינפֿ_טױזנט	fynf_tWznt	_
+7	nfsut	N	נפֿסוט	nfsvt	_
+8	fun	P	פֿון	fvN	_
+9	isral	NPR	איסראַל	AysrAal	_
+
+SENT	1783E-UKRAINE-1,33.30
+1	fil	Q	פֿיל	fyl	_
+2	valtin	MDF	װאַלטין	VAaltyN	_
+3	zikh	PRO	זיך	zyX	_
+4	mit	P	מיט	myt	_
+5	gelt	N	געלט	gelt	_
+6	oyz	RP	אױז	AWz	_
+7	lezin	VB	לעזין	lezyN	_
+
+SENT	1783E-UKRAINE-1,33.31
+1	ez	PRO	עז	ez	_
+2	helft	VBF	העלפֿט	helft	_
+3	alz	Q	אַלז	Aalz	_
+4	niks	Q	ניקס	nyks	_
+
+SENT	1783E-UKRAINE-1,33.32
+1	ver	WPRO	װער	Ver	_
+2	nit	NEG	ניט	nyt	_
+3	loyfin	VB	לױפֿין	lWfyN	_
+4	hat	HVF	האַט	hAat	_
+5	kenin	MDN-IPP	קענין	kenyN	_
+6	den	D	דען	deN	_
+7	hat	HVF	האַט	hAat	_
+8	ez	PRO	עז	ez	_
+9	daz	D	דאַז	dAaz	_
+10	lebn	N	לעבן	lebN	_
+11	gikast	VBN	גיקאַסט	gykAast	_
+12	el	H	על	el	on
+13	kidush	H	קידוש	kydv$	the_holy
+14	hshm	H	השם	h$M	the_name
+
+SENT	1783E-UKRAINE-1,33.33
+1-2	tsum	P~D	צום	qvM	_
+1	tsu	P	צו	qv	_
+2	m	D	מ	m	_
+3	shukht	N	שוכט	$vxt	_
+4	kumn	VBF	קומן	kvmN	_
+5	zi	PRO	זי	zy	_
+6	yust	ADV	יוסט	yvst	_
+
+SENT	1783E-UKRAINE-1,33.34
+1	stit	VBF	סטיט	styt	_
+2	er	PRO	ער	er	_
+3	in	P	אין	AyN	_
+4	tlit	N	טליט	tlyt	_
+5	un	CONJ	און	AvN	_
+6	tfilin	N	טפֿילין	tfylyN	_
+
+SENT	1783E-UKRAINE-1,33.35
+1	und	CONJ	אונד	Avnd	_
+2	tut	VBF	טוט	tvt	_
+3	tflh	N	טפֿלה	tflh	_
+4	tsu	P	צו	qv	_
+5	gott	NPR	גאָטט	gAott	_
+
+SENT	1783E-UKRAINE-1,33.36
+1	vi	C	װי	Vy	_
+2	zi	PRO	זי	zy	_
+3	ihm	PRO	איהם	AyhM	_
+4	valin	MDF	װאַלין	VAalyN	_
+5	mimit	RP-H	מימיט	mymyt	_
+6	zeyn	VB	זײן	zYN	_
+7	nemt	VBF	נעמט	nemt	_
+8	er	PRO	ער	er	_
+9	zeyn	PRO$	זײן	zYN	_
+10	khlif	N	כליף	xlyF	_
+
+SENT	1783E-UKRAINE-1,33.37
+1	und	CONJ	אונד	Avnd	_
+2	bet	VBF	בעט	bet	_
+3	zi	PRO	זי	zy	_
+4	mit	P	מיט	myt	_
+5	zeyn	PRO$	זײן	zYN	_
+6	khlif	N	כליף	xlyF	_
+7	ihm	PRO	איהם	AyhM	_
+8	tsu	TO	צו	qv	_
+9	shekhtin	VB	שעכטין	$extyN	_
+
+SENT	1783E-UKRAINE-1,33.38
+1	zi	PRO	זי	zy	_
+2	tetin	VBF	טעטין	tetyN	_
+3	ez	PRO	עז	ez	_
+4	,	PUNC	,	,	_
+
+SENT	1783E-UKRAINE-1,33.39
+1	shekhtin	VBF	שעכטין	$extyN	_
+2	ihm	PRO	איהם	AyhM	_
+3	und	CONJ	אונד	Avnd	_
+4	zeyn	PRO$	זײן	zYN	_
+5	veyb	N	װײב	VYb	_
+6	und	CONJ	אונד	Avnd	_
+7	kind	N	קינד	kynd	_
+8	mit	P	מיט	myt	_
+9	zeyn	PRO$	זײן	zYN	_
+10	eygn	ADJ	אײגן	AYgN	_
+11	khlif	N	כליף	xlyF	_
+
+SENT	1783E-UKRAINE-1,33.40
+1	fun	P	פֿון	fvN	_
+2	da	ADV	דאַ	dAa	_
+3	gingn	VBF	גינגן	gyngN	_
+4	zi	PRO	זי	zy	_
+5	lk"k	H	לק"ק	lk"k	to_community_holy
+6	uman	NPR	אומאַן	AvmAaN	_
+
+SENT	1783E-UKRAINE-1,33.41
+1	oyf	P	אױף	AWF	_
+2	di	D	די	dy	_
+3	strasi	N	סטראַסי	strAasy	_
+4	titn	VBF	טיטן	tytN	_
+5	zi	PRO	זי	zy	_
+6	mehr	QR	מעהר	mehr	_
+7	alz	P	אַלז	Aalz	_
+8	fir_hundrt	NUM	פֿיר_הונדרט	fyr_hvndrt	_
+9	vegin	N	װעגין	VegyN	_
+10	mit	P	מיט	myt	_
+11	npsut	N	נפּסוט	npsvt	_
+12	fun	P	פֿון	fvN	_
+13	isral	NPR	איסראַל	AysrAal	_
+14	velkhi	WPRO	װעלכי	Velxy	_
+15	fun	P	פֿון	fvN	_
+16	k"k	H	ק"ק	k"k	community_holy
+17	tutsib	NPR	טוציב	tvqyb	_
+18	gilafin	VBN	גילאַפֿין	gylAafyN	_
+19	zeyn	BEF	זײן	zYN	_
+20	nakh	P	נ"ך	n"X	_
+21	k"k	H	ק"ק	k"k	community_holy
+22	umn	NPR	אומן	AvmN	_
+23	um	P	אום	AvM	_
+24	zikh	PRO	זיך	zyX	_
+25	mtsil	RP-H	מציל	mqyl	_
+26	tsu	TO	צו	qv	_
+27	zeyn	VB	זײן	zYN	_
+28	biveyl	C	ביװײל	byVYl	_
+29	eyn	D	אײן	AYN	_
+30	khzkh	N	כזך	xzX	_
+31	zelt	ADJ	זעלט	zelt	_
+32	izt	VBF	איזט	Ayzt	_
+
+SENT	1783E-UKRAINE-1,33.42
+1	byum	H	ביום	byvM	in_days
+2	b'	H	ב'	b'	2
+3	h'	H	ה'	h'	5
+4	tmuz	H	טמוז	tmvz	Tamuz
+5	kumin	VBF	קומין	kvmyN	_
+6	zi	PRO	זי	zy	_
+7	far	P	פֿאַר	fAar	_
+8	di	D	די	dy	_
+9	stat	N	סטאַט	stAat	_
+10	uman	NPR	אומאַן	AvmAaN	_
+
+SENT	1783E-UKRAINE-1,33.43
+1	und	CONJ	אונד	Avnd	_
+2	titn	VBF	טיטן	tytN	_
+3	mehr	QR	מעהר	mehr	_
+4	alz	P	אַלז	Aalz	_
+5	fir_hundrt	NUM	פֿיר_הונדרט	fyr_hvndrt	_
+6	npsut	N	נפּסוט	npsvt	_
+7	vaz	C	װאַז	VAaz	_
+8	nit	NEG	ניט	nyt	_
+9	mehr	ADV	מעהר	mehr	_
+10	in	P	אין	AyN	_
+11	di	D	די	dy	_
+12	khzkt	N	כזקט	xzkt	_
+13	gilangt	VBN	גילאַנגט	gylAangt	_
+14	zeynen	BEF	זײנען	zYneN	_
+
+SENT	1783E-UKRAINE-1,33.44
+1	vi	C	װי	Vy	_
+2	di	D	די	dy	_
+3	stat_leyt	N	סטאַט_לײט	stAat_lYt	_
+4	zalkhiz	N	זאַלכיז	zAalxyz	_
+5	givar	ADJ	גיװאַר	gyVAar	_
+6	verdn	VBF	װערדן	VerdN	_
+7	feyarin	VBF	פֿײאַרין	fYAaryN	_
+8	zi	PRO	זי	zy	_
+9	mit	P	מיט	myt	_
+10	kanunin	N	קאַנונין	kAanvnyN	_
+11	vaz	WPRO	װאַז	VAaz	_
+12	mit	P	מיט	myt	_
+13	di	D	די	dy	_
+14	stat_leyt	N	סטאַט_לײט	stAat_lYt	_
+15	zi	PRO	זי	zy	_
+16	a	D	אַ	Aa	_
+17	vinig	Q	װיניג	Vynyg	_
+18	fr_treybtn	VBF	פֿר_טרײבטן	fr_trYbtN	_
+
+SENT	1783E-UKRAINE-1,33.45
+1	yunral	NPR	יונראַל	yvnrAal	_
+2	gonti	NPR	גאָנטי	gAonty	_
+3	im"s	H	אימ"ס	Aym"s	may_be_erased_name
+4	eynr	PRO	אײנר	AYnr	_
+5	fun	P	פֿון	fvN	_
+6	di	D	די	dy	_
+7	ivnim	N	איװנים	AyVnyM	_
+8	shreybt	VBF	שרײבט	$rYbt	_
+9	eyn	D	אײן	AYN	_
+10	brib	N	בריב	bryb	_
+11	an	P	אַן	AaN	_
+12	hoybtman	N	הױבטמאַן	hWbtmAaN	_
+13	mit	P	מיט	myt	_
+14	dizn	D	דיזן	dyzN	_
+15	inhlt	N	אינהלט	Aynhlt	_
+
+SENT	1783E-UKRAINE-1,33.46
+1	dez	D	דעז	dez	_
+2	bfehl	N	בפֿעהל	bfehl	_
+3	fun	P	פֿון	fvN	_
+4	meyn	PRO$	מײן	mYN	_
+5	rusishi	ADJ	רוסישי	rvsy$y	_
+6	keysrin	N	קײסרין	kYsryN	_
+7-8	veystu	VBF~PRO	װײסטו	VYstv	_
+7	veys	VBF	װײס	VYs	_
+8	tu	PRO	טו	tv	_
+9	valh	ADV	װאַלה	VAalh	_
+10	izt	VBF	איזט	Ayzt	_
+11	stark	ADV	סטאַרק	stAark	_
+12	ihudim	N	איהודים	AyhvdyM	_
+13	um	RP	אום	AvM	_
+14	tsu	TO	צו	qv	_
+15	bringn	VB	ברינגן	bryngN	_
+
+SENT	1783E-UKRAINE-1,33.47
+1	alz_den	ADV	אַלז_דען	Aalz_deN	_
+2	van	C	װאַן	VAaN	_
+3	du	PRO	דו	dv	_
+4	soynt	ADV	סױנט	sWnt	_
+5	tsvey	NUM	צװײ	qVY	_
+6	adr	CONJ	אַדר	Aadr	_
+7	drey	NUM	דרײ	drY	_
+8	vakhin	N	װאַכין	VAaxyN	_
+9	mnuth	H	מנוטה	mnvth	UNKNOWN
+10	hast	VBF	האַסט	hAast	_
+11	ikh	PRO	איך	AyX	_
+12	kumi	VBF	קומי	kvmy	_
+13	dokh	ADV	דאָך	dAoX	_
+14	in	P	אין	AyN	_
+15	di	D	די	dy	_
+16	stot	N	סטאָט	stAot	_
+17	durkh	P	דורך	dvrX	_
+18	meyn	PRO$	מײן	mYN	_
+19	groyz	ADJ	גרױז	grWz	_
+20	khil	N	כיל	xyl	_
+
+SENT	1783E-UKRAINE-1,33.48
+1	und	CONJ	אונד	Avnd	_
+2	lazi	VBF	לאַזי	lAazy	_
+3	keyn	Q	קײן	kYN	_
+4	zehl	N	זעהל	zehl	_
+5	lebn	VB	לעבן	lebN	_
+
+SENT	1783E-UKRAINE-1,34.50
+1	van	C	װאַן	VAaN	_
+2	du	PRO	דו	dv	_
+3	mir	PRO	מיר	myr	_
+4	abr	ADV	אַבר	Aabr	_
+5	di	D	די	dy	_
+6	stat	N	סטאַט	stAat	_
+7	gleykh	ADV	גלײך	glYX	_
+8	efnen	VB	עפֿנען	efneN	_
+9	vilst	MDF	װילסט	Vylst	_
+10	shvehr	VBF	שװעהר	$Vehr	_
+11	ikh	PRO	איך	AyX	_
+12	dir	PRO	דיר	dyr	_
+13	keyn	Q	קײן	kYN	_
+14	nutsri	N	נוצרי	nvqry	_
+15	niks	Q	ניקס	nyks	_
+16	tsu	TO	צו	qv	_
+17	thun	VB	טהון	thvN	_
+18	nur	FP	נור	nvr	_
+19	aleyn	ADV	אַלײן	AalYN	_
+20	di	D	די	dy	_
+21	ihudim	N	איהודים	AyhvdyM	_
+
+SENT	1783E-UKRAINE-1,34.51
+1	der	D	דער	der	_
+2	hoybtman	N	הױבטמאַן	hWbtmAaN	_
+3	lazt	VBF	לאַזט	lAazt	_
+4	zikh	PRO	זיך	zyX	_
+5	ibr_redn	VB	איבר_רעדן	Aybr_redN	_
+
+SENT	1783E-UKRAINE-1,34.52
+1	und	CONJ	אונד	Avnd	_
+2	lazt	VBF	לאַזט	lAazt	_
+3	zi	PRO	זי	zy	_
+4	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1783E-UKRAINE-1,34.53
+1	di	D	די	dy	_
+2	armi	ADJ	אַרמי	Aarmy	_
+3	ihudim	N	איהודים	AyhvdyM	_
+4	hbn	HVF	הבן	hbN	_
+5	fun	P	פֿון	fvN	_
+6	den	D	דען	deN	_
+7	alin	Q	אַלין	AalyN	_
+8	niks	Q	ניקס	nyks	_
+9	givuzt	VBN	גיװוּזט	gyVUzt	_
+
+SENT	1783E-UKRAINE-1,34.54
+1	gonti	NPR	גאָנטי	gAonty	_
+2	im"s	H	אימ"ס	Aym"s	may_be_erased_name
+3	ruft	VBF	רופֿט	rvft	_
+4	mit	P	מיט	myt	_
+5	herstr	ADJS	הערסטר	herstr	_
+6	stimi	N	סטימי	stymy	_
+7	tsu	P	צו	qv	_
+8	zeyn	PRO$	זײן	zYN	_
+9	khil	N	כיל	xyl	_
+10	starkt	VBI	סטאַרקט	stAarkt	_
+11	eykh	PRO	אײך	AYX	_
+
+SENT	1783E-UKRAINE-1,34.55
+1	mir	PRO	מיר	myr	_
+2	valin	MDF	װאַלין	VAalyN	_
+3	oyz	RP	אױז	AWz	_
+4	lezn	VB	לעזן	lezN	_
+5	den	D	דען	deN	_
+6	karn	N	קאַרן	kAarN	_
+7	oyz	P	אױז	AWz	_
+8	den	D	דען	deN	_
+9	veytsn	N	װײצן	VYqN	_
+
+SENT	1783E-UKRAINE-1,34.56
+1	yum	N	יום	yvM	_
+2	g'	ADJ	ג'	g'	_
+3	komin	VBF	קאָמין	kAomyN	_
+4	zi	PRO	זי	zy	_
+5	in	P	אין	AyN	_
+6	di	D	די	dy	_
+7	stot	N	סטאָט	stAot	_
+
+SENT	1783E-UKRAINE-1,34.57
+1	zi	PRO	זי	zy	_
+2	shreyen	VBF	שרײען	$rYeN	_
+3	alli	Q	אַללי	Aally	_
+4	di	D	די	dy	_
+5	eynvanir	N	אײנװאַניר	AYnVAanyr	_
+6	ihudim	N	איהודים	AyhvdyM	_
+7	und	CONJ	אונד	Avnd	_
+8	nutsrim	N	נוצרים	nvqryM	_
+9	oykh	ADV	אױך	AWX	_
+10	di	D	די	dy	_
+11	fun	P	פֿון	fvN	_
+12	fremdi	ADJ	פֿרעמדי	fremdy	_
+13	lendir	N	לענדיר	lendyr	_
+14	vas	C	װאַס	VAas	_
+15	lk"k	H	לק"ק	lk"k	to_community_holy
+16	umn	NPR	אומן	AvmN	_
+17	gilafin	VBN	גילאַפֿין	gylAafyN	_
+18	zeyn	BEF	זײן	zYN	_
+19	in	P	אין	AyN	_
+20	das	D	דת	dS	_
+21	khzkh	N	כזך	xzX	_
+22	zikh	PRO	זיך	zyX	_
+23	mtsil	RP-H	מציל	mqyl	_
+24	tsu	TO	צו	qv	_
+25	zeyn	VB	זײן	zYN	_
+
+SENT	1783E-UKRAINE-1,34.58
+1	shreyen	VBF	שרײען	$rYeN	_
+2	alli	Q	אַללי	Aally	_
+3	oys	RP	אױס	AWs	_
+4	ir	PRO$	איר	Ayr	_
+5	tsrut	N	צרוט	qrvt	_
+
+SENT	1783E-UKRAINE-1,34.59
+1	das_veyl	C	דאַס_װײל	dAas_VYl	_
+2	di	D	די	dy	_
+3	velt	N	װעלט	Velt	_
+4	stiht	VBF	סטיהט	styht	_
+5	iz	BEF	איז	Ayz	_
+6	keyn	Q	קײן	kYN	_
+7	zua	ADV	זואַ	zvAa	_
+8	fil	Q	פֿיל	fyl	_
+9	illh	N	איללה	Ayllh	_
+10	gihert	VAN	גיהערט	gyhert	_
+11	vardin	RDN	װאַרדין	VAardyN	_
+
+SENT	1783E-UKRAINE-1,34.60
+1	kmh	H	קמה	kmh	a_few
+2	alpim	H	אַלפּים	AalpyM	thousands
+3	ihudim	N	איהודים	AyhvdyM	_
+4	zeyn	BEF	זײן	zYN	_
+5	nhrg	RP-H	נהרג	nhrg	_
+6	vardin	VBN	װאַרדין	VAardyN	_
+7	in	P	אין	AyN	_
+8	k"k	H	ק"ק	k"k	community_holy
+9	umn	NPR	אומן	AvmN	_
+
+SENT	1783E-UKRAINE-1,34.61
+1	alli	Q	אַללי	Aally	_
+2	kleyne	ADJ	קלײנע	klYne	_
+3	kindr	N	קינדר	kyndr	_
+4	bindet	VBF	בינדעט	byndet	_
+5	er	PRO	ער	er	_
+6	in	P	אין	AyN	_
+7	der	D	דער	der	_
+8	gasin	N	גאַסין	gAasyN	_
+
+SENT	1783E-UKRAINE-1,34.62
+1	und	CONJ	אונד	Avnd	_
+2	lis	VBF	ליס	lys	_
+3	zi	PRO	זי	zy	_
+4	zi	PRO	זי	zy	_
+5	mit	P	מיט	myt	_
+6	pferd	N	פּפֿערד	pferd	_
+7	tsu_tretin	VB	צו_טרעטין	qv_tretyN	_
+
+SENT	1783E-UKRAINE-1,34.63
+1	eyn	D	אײן	AYN	_
+2	btulh	N	בטולה	btvlh	_
+3	vahr	VBF	װאַהר	VAahr	_
+4	do	ADV	דאָ	dAo	_
+
+SENT	1783E-UKRAINE-1,34.64
+1	ihr	PRO$	איהר	Ayhr	_
+2	shoynheyt	N	שױנהײט	$WnhYt	_
+3	vahr	VBF	װאַהר	VAahr	_
+4	tsu	TO	צו	qv	_
+5	zukhn	VB	זוכן	zvxN	_
+6	in	P	אין	AyN	_
+7	der	D	דער	der	_
+8	velt	N	װעלט	Velt	_
+
+SENT	1783E-UKRAINE-1,34.65
+1	zi	PRO	זי	zy	_
+2	valtin	MDF	װאַלטין	VAaltyN	_
+3	zi	PRO	זי	zy	_
+4	gerin	ADV	גערין	geryN	_
+5	mans	RP-H	מאַנס	mAans	_
+6	zeyn	VB	זײן	zYN	_
+7	vau	C	װאַו	VAav	_
+8	nur	ADV	נור	nvr	_
+9	nit	NEG	ניט	nyt	_
+10	ir	PRO$	איר	Ayr	_
+11	sdr	N	סדר	sdr	_
+12	vehr	VBF	װעהר	Vehr	_
+13	an	P	אַן	AaN	_
+14	eyn	D	אײן	AYN	_
+15	ihuda	N	איהודאַ	AyhvdAa	_
+16	zikh	PRO	זיך	zyX	_
+17	nit	NEG	ניט	nyt	_
+18	mtma	RP-H	מטמאַ	mtmAa	_
+19	tsu	TO	צו	qv	_
+20	zeyn	VB	זײן	zYN	_
+
+SENT	1783E-UKRAINE-1,34.66
+1	zi	PRO	זי	zy	_
+2	redn	VBF	רעדן	redN	_
+3	zi	PRO	זי	zy	_
+4	an	RP	אַן	AaN	_
+5	das	C	דת	dS	_
+6	zi	PRO	זי	zy	_
+7	zikh	PRO	זיך	zyX	_
+8	mimr_dt	RP-H	מימר_דט	mymr_dt	_
+9	zeyn	VB	זײן	zYN	_
+10	zali	MDF	זאַלי	zAaly	_
+11	mit	P	מיט	myt	_
+12	allir	Q	אַלליר	Aallyr	_
+13	gvald	N	גװאַלד	gVAald	_
+
+SENT	1783E-UKRAINE-1,34.67
+1	zi	PRO	זי	zy	_
+2	zagt	VBF	זאַגט	zAagt	_
+3	abr	ADV	אַבר	Aabr	_
+4	meyn	PRO$	מײן	mYN	_
+5	nshmh	N	נשמה	n$mh	_
+6	habi	HVF	האַבי	hAaby	_
+7	ikh	PRO	איך	AyX	_
+8	ibr_entfert	VBN	איבר_ענטפֿערט	Aybr_entfert	_
+9	tsu	P	צו	qv	_
+10	gat	NPR	גאַט	gAat	_
+
+SENT	1783E-UKRAINE-1,34.68
+1	brengt	VBI	ברענגט	brengt	_
+2	mikh	PRO	מיך	myX	_
+3	nur	ADV	נור	nvr	_
+4	um	RP	אום	AvM	_
+
+SENT	1783E-UKRAINE-1,34.69
+1	zi	PRO	זי	zy	_
+2	sharfin	VBF	שאַרפֿין	$AarfyN	_
+3	dos	D	דאָס	dAos	_
+4	mesir	N	מעסיר	mesyr	_
+5	fr	P	פֿר	fr	_
+6	ir	PRO$	איר	Ayr	_
+7	oygin	N	אױגין	AWgyN	_
+
+SENT	1783E-UKRAINE-1,34.70
+1	und	CONJ	אונד	Avnd	_
+2	zogin	VBF	זאָגין	zAogyN	_
+3	van	C	װאַן	VAaN	_
+4	du	PRO	דו	dv	_
+5	nit	NEG	ניט	nyt	_
+6	falgst	VBF	פֿאַלגסט	fAalgst	_
+7	tsu_shneydin	VBF	צו_שנײדין	qv_$nYdyN	_
+8	mir	PRO	מיר	myr	_
+9	deyn	PRO$	דײן	dYN	_
+10	fleysh	N	פֿלײש	flY$	_
+11	mit	P	מיט	myt	_
+12	dizen	D	דיזען	dyzeN	_
+13	mesir	N	מעסיר	mesyr	_
+
+SENT	1783E-UKRAINE-1,34.71
+1	zi	PRO	זי	zy	_
+2	entvort	VBF	ענטװאָרט	entVAort	_
+3	abr	ADV	אַבר	Aabr	_
+4	ir	PRO	איר	Ayr	_
+5	umh	H	אומה	Avmh	nation
+6	sflh	H	ספֿלה	sflh	despised
+7	utmah	H	אוטמאַה	AvtmAah	UNKNOWN
+8	ir	PRO	איר	Ayr	_
+9	vert	RDF	װערט	Vert	_
+10	mikh	PRO	מיך	myX	_
+11	da-tsu	DR+P	דאַ-צו	dAa-qv	_
+12	nisht	NEG	נישט	ny$t	_
+13	brengin	VB	ברענגין	brengyN	_
+14	alls	C	אַללס	Aalls	_
+15	ikh	PRO	איך	AyX	_
+16	mimr_dt	RP-H	מימר_דט	mymr_dt	_
+17	zal	MDF	ז"ל	z"l	_
+18	zeyn	VB	זײן	zYN	_
+19	khlilh	INTJ	כלילה	xlylh	_
+
+SENT	1783E-UKRAINE-1,34.72
+1	shekht	VBI	שעכט	$ext	_
+2	mikh	PRO	מיך	myX	_
+3	nur	FP	נור	nvr	_
+
+SENT	1783E-UKRAINE-1,34.73
+1	makht	VBI	מאַכט	mAaxt	_
+2	mit	P	מיט	myt	_
+3	mir	PRO	מיר	myr	_
+4	vi	WADV	װי	Vy	_
+5	ir	PRO	איר	Ayr	_
+6	velt	MDF	װעלט	Velt	_
+
+SENT	1783E-UKRAINE-1,34.74
+1	zi	PRO	זי	zy	_
+2	bindin	VBF	בינדין	byndyN	_
+3	zi	PRO	זי	zy	_
+
+SENT	1783E-UKRAINE-1,34.75
+1	und	CONJ	אונד	Avnd	_
+2	verfin	VBF	װערפֿין	VerfyN	_
+3	zi	PRO	זי	zy	_
+4	in	P	אין	AyN	_
+5	eyn	D	אײן	AYN	_
+6	brune	N	ברונע	brvne	_
+
+SENT	1783E-UKRAINE-1,34.76
+1	zi	PRO	זי	zy	_
+2	starbt	VBF	סטאַרבט	stAarbt	_
+
+SENT	1783E-UKRAINE-1,34.77
+1	di	D	די	dy	_
+2	ihudim	N	איהודים	AyhvdyM	_
+3	loyfin	VBF	לױפֿין	lWfyN	_
+4	ali	Q	אַלי	Aaly	_
+5	in	P	אין	AyN	_
+6	shoyl	N	שױל	$Wl	_
+
+SENT	1783E-UKRAINE-1,34.78
+1	shreyen	VBF	שרײען	$rYeN	_
+
+SENT	1783E-UKRAINE-1,34.79
+1	un	CONJ	און	AvN	_
+2	tuhn	VBF	טוהן	tvhN	_
+3	tflh	N	טפֿלה	tflh	_
+
+SENT	1783E-UKRAINE-1,34.80
+1	vi	C	װי	Vy	_
+2	di	D	די	dy	_
+3	sunaim	N	סונאַיִם	svnAayiM	_
+4	in	P	אין	AyN	_
+5	der	D	דער	der	_
+6	soyl	N	סױל	sWl	_
+7	kumin	VBF	קומין	kvmyN	_
+8	fangin	VBF	פֿאַנגין	fAangyN	_
+9	di	D	די	dy	_
+10	ihudim	N	איהודים	AyhvdyM	_
+11	zikh	PRO	זיך	zyX	_
+12	an	RP	אַן	AaN	_
+13	tsu	TO	צו	qv	_
+14	verin	VB	װערין	VeryN	_
+15	kegin	P	קעגין	kegyN	_
+16	zi	PRO	זי	zy	_
+
+SENT	1783E-UKRAINE-1,34.81
+1	eynr	PRO	אײנר	AYnr	_
+2	var	BEF	װאַר	VAar	_
+3	heysin	VAG	הײסין	hYsyN	_
+4	r.	NPR	ר.	r.	_
+5	lib	NPR	ליב	lyb	_
+
+SENT	1783E-UKRAINE-1,34.82
+1	der	D	דער	der	_
+2	arvekt	VBF	אַרװעקט	AarVekt	_
+3	zikh	PRO	זיך	zyX	_
+
+SENT	1783E-UKRAINE-1,34.83
+1	und	CONJ	אונד	Avnd	_
+2	nemt	VBF	נעמט	nemt	_
+3	dos	D	דאָס	dAos	_
+4	shvert	N	שװערט	$Vert	_
+5	eyn	D	אײן	AYN	_
+6	soyne	N	שׂונא	CvnA	_
+7	oys	P	אױס	AWs	_
+8	der	D	דער	der	_
+9	hand	N	האַנד	hAand	_
+
+SENT	1783E-UKRAINE-1,34.84
+1	und	CONJ	אונד	Avnd	_
+2	hrgit	VBF	הרגיט	hrgyt	_
+3	damit	DR+P	דאַמיט	dAamyt	_
+4	tsvantsig	NUM	צװאַנציג	qVAanqyg	_
+5	soynim	N	סױנים	sWnyM	_
+
+SENT	1783E-UKRAINE-1,34.85
+1	der	D	דער	der	_
+2	ander	ADJ	אַנדער	Aander	_
+3	vahr	VBF	װאַהר	VAahr	_
+4	r'	NPR	ר'	r'	_
+5	msh	NPR	מש	m$	_
+6	mukr	NPR	מוקר	mvkr	_
+
+SENT	1783E-UKRAINE-1,34.86
+1	starkt	VBF	סטאַרקט	stAarkt	_
+2	zikh	PRO	זיך	zyX	_
+3	oykh	ADV	אױך	AWX	_
+
+SENT	1783E-UKRAINE-1,34.87
+1	un	CONJ	און	AvN	_
+2	titet	VBF	טיטעט	tytet	_
+3	dreysig	NUM	דרײסיג	drYsyg	_
+4	soynim	N	סױנים	sWnyM	_
+
+SENT	1783E-UKRAINE-1,34.88
+1	endlikh	ADV	ענדליך	endlyX	_
+2	zi	PRO	זי	zy	_
+3	kontin	MDF	קאָנטין	kAontyN	_
+4	in	P	אין	AyN	_
+5	der	D	דער	der	_
+6	shoyl	N	שױל	$Wl	_
+7	nit	NEG	ניט	nyt	_
+8	tsu	RP	צו	qv	_
+9	tretin	VB	טרעטין	tretyN	_
+
+SENT	1783E-UKRAINE-1,34.89
+1	zi	PRO	זי	zy	_
+2	brengin	VBF	ברענגין	brengyN	_
+3	abr	ADV	אַבר	Aabr	_
+4	knonin	N	קנאָנין	knAonyN	_
+
+SENT	1783E-UKRAINE-1,34.90
+1	und	CONJ	אונד	Avnd	_
+2	shisn	VBF	שיסן	$ysN	_
+3	oyf	P	אױף	AWF	_
+4	di	D	די	dy	_
+5	shoyl	N	שױל	$Wl	_
+
+SENT	1783E-UKRAINE-1,34.91
+1	es	ES	עס	es	_
+2	verdin	VBF	װערדין	VerdyN	_
+3	in	P	אין	AyN	_
+4	der	D	דער	der	_
+5	shoyl	N	שױל	$Wl	_
+6	kmh	H	קמה	kmh	a_few
+7	alpim	H	אַלפּים	AalpyM	thousands
+8	npsut	N	נפּסוט	npsvt	_
+9	isral	NPR	איסראַל	AysrAal	_
+10	nhhrg	RP-H	נההרג	nhhrg	_
+11	el	H	על	el	on
+12	kdush	H	קדוש	kdv$	holy
+13	hshm	H	השם	h$M	the_name
+
+SENT	1783E-UKRAINE-1,34.92
+1	eyn	D	אײן	AYN	_
+2	ish	N	איש	Ay$	_
+3	vahr	VBF	װאַהר	VAahr	_
+4	usmh	H	אוסמה	Avsmh	and_her_name
+5	breynli	NPR	ברײנלי	brYnly	_
+6	di	D	די	dy	_
+7	ferikht	VBF	פֿעריכט	feryxt	_
+8	zikh	PRO	זיך	zyX	_
+9	van	C	װאַן	VAaN	_
+10	zi	PRO	זי	zy	_
+11	gitit	VAN	גיטיט	gytyt	_
+12	verd	RDF	װערד	Verd	_
+13	mekhtin	MDF	מעכטין	mextyN	_
+14	ire	PRO$	אירע	Ayre	_
+15	kinder	N	קינדער	kynder	_
+16	gshmad	VAN	גשמאַד	g$mAad	_
+17	verin	RD	װערין	VeryN	_
+
+SENT	1783E-UKRAINE-1,34.93
+1	nemt	VBF	נעמט	nemt	_
+2	zi	PRO	זי	zy	_
+3	ir	PRO$	איר	Ayr	_
+4	eygni	ADJ	אײגני	AYgny	_
+5	kindr	N	קינדר	kyndr	_
+
+SENT	1783E-UKRAINE-1,34.94
+1	und	CONJ	אונד	Avnd	_
+2	trenkt	VBF	טרענקט	trenkt	_
+3	zi	PRO	זי	zy	_
+4	tsu	P	צו	qv	_
+5	toyt	N	טױט	tWt	_
+6	in	P	אין	AyN	_
+7	vasir	N	װאַסיר	VAasyr	_
+
+SENT	1783E-UKRAINE-1,34.95
+1	der	D	דער	der	_
+2	gonti	NPR	גאָנטי	gAonty	_
+3	im"s	H	אימ"ס	Aym"s	may_be_erased_name
+4	vi	C	װי	Vy	_
+5	er	PRO	ער	er	_
+6	in	P	אין	AyN	_
+7	uman	NPR	אומאַן	AvmAaN	_
+8	kam	VBF	קאַם	kAaM	_
+9	lis	VBF	ליס	lys	_
+10	er	PRO	ער	er	_
+11	oys	RP	אױס	AWs	_
+12	rufn	VB	רופֿן	rvfN	_
+13	di	D	די	dy	_
+14	groysi	ADJ	גרױסי	grWsy	_
+15	soykhrim	N	סױכרים	sWxryM	_
+16	fun	P	פֿון	fvN	_
+17	ihudim	N	איהודים	AyhvdyM	_
+18	zallin	MDF	זאַללין	zAallyN	_
+19	nur	FP	נור	nvr	_
+20	gelt	N	געלט	gelt	_
+21	gnug	Q	גנוג	gnvg	_
+22	brengin	VB	ברענגין	brengyN	_
+23	es	ES	עס	es	_
+24	gsikht	VBF	גסיכט	gsyxt	_
+25	keyn	Q	קײן	kYN	_
+26	nikhts	Q	ניכץ	nyxQ	_
+
+SENT	1783E-UKRAINE-1,34.96
+1	di	D	די	dy	_
+2	sukhrim	N	סוכרים	svxryM	_
+3	gloybtin	VBF	גלױבטין	glWbtyN	_
+4	es	PRO	עס	es	_
+
+SENT	1783E-UKRAINE-1,34.97
+1	und	CONJ	אונד	Avnd	_
+2	nemin	VBF	נעמין	nemyN	_
+3	ir	PRO$	איר	Ayr	_
+4	gants	ADJ	גאַנץ	gAanQ	_
+5	esiriut	N	עסיריִוט	esyryivt	_
+
+SENT	1783E-UKRAINE-1,34.98
+1	und	CONJ	אונד	Avnd	_
+2	tragin	VBF	טראַגין	trAagyN	_
+3	es	PRO	עס	es	_
+4	oyf	P	אױף	AWF	_
+5	dos	D	דאָס	dAos	_
+6	etsh_hoyz	N	עטש_הױז	et$_hWz	_
+
+SENT	1783E-UKRAINE-1,34.99
+1	vi	C	װי	Vy	_
+2	ganti	NPR	גאַנטי	gAanty	_
+3	imkh"s	H	אימכ"ס	Aymx"s	may_be_erased_name
+4	das	D	דת	dS	_
+5	gelt	N	געלט	gelt	_
+6	vahl	ADV	װאַהל	VAahl	_
+7	gihat	VBN	גיהאַט	gyhAat	_
+8	hat	HVF	האַט	hAat	_
+9	lis	VBF	ליס	lys	_
+10	er	PRO	ער	er	_
+11	zi	PRO	זי	zy	_
+12-13	tsum	P~D	צום	qvM	_
+12	tsu	P	צו	qv	_
+13	m	D	מ	m	_
+14	fenstr	N	פֿענסטר	fenstr	_
+15	aruntir	ADV	אַרונטיר	Aarvntyr	_
+16	varfin	VB	װאַרפֿין	VAarfyN	_
+
+SENT	1783E-UKRAINE-1,35.101
+1	zi	PRO	זי	zy	_
+2	starbin	VBF	סטאַרבין	stAarbyN	_
+3	alli	Q	אַללי	Aally	_
+
+SENT	1783E-UKRAINE-1,35.102
+1	der	D	דער	der	_
+2	drsin	N	דרסין	drsyN	_
+3	fun	P	פֿון	fvN	_
+4	umn	NPR	אומן	AvmN	_
+5	ging	VBF	גינג	gyng	_
+6	in	P	אין	AyN	_
+7	eyn	D	אײן	AYN	_
+8	kelir	N	קעליר	kelyr	_
+9	gants	ADV	גאַנץ	gAanQ	_
+10	tif	ADV	טיף	tyF	_
+11	unter	P	אונטער	Avnter	_
+12	di	D	די	dy	_
+13	erdi	N	ערדי	erdy	_
+14	mit	P	מיט	myt	_
+15	fil	Q	פֿיל	fyl	_
+16	ihudim	N	איהודים	AyhvdyM	_
+
+SENT	1783E-UKRAINE-1,35.103
+1	und	CONJ	אונד	Avnd	_
+2	vahrin	BEF	װאַהרין	VAahryN	_
+3	mtpll	RP-H	מטפּלל	mtpll	_
+4	zeyn	VAG	זײן	zYN	_
+5	tsu	P	צו	qv	_
+6	gat	NPR	גאַט	gAat	_
+7	das	C	דת	dS	_
+8	er	PRO	ער	er	_
+9	zi	PRO	זי	zy	_
+10	mtsil	RP-H	מציל	mqyl	_
+11	zal	MDF	ז"ל	z"l	_
+12	zeyn	VB	זײן	zYN	_
+13	in	P	אין	AyN	_
+14	der	D	דער	der	_
+15	kelir	N	קעליר	kelyr	_
+
+SENT	1783E-UKRAINE-1,35.104
+1	es	PRO	עס	es	_
+2	vird	RDF	װירד	Vyrd	_
+3	abr	ADV	אַבר	Aabr	_
+4	gleykh	ADV	גלײך	glYX	_
+5	fr_msrt	VAN	פֿר_מסרט	fr_msrt	_
+
+SENT	1783E-UKRAINE-1,35.105
+1	di	D	די	dy	_
+2	soynim	N	סױנים	sWnyM	_
+3	gehin	VBF	געהין	gehyN	_
+4	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1783E-UKRAINE-1,35.106
+1	und	CONJ	אונד	Avnd	_
+2	hakin	VBF	האַקין	hAakyN	_
+3	den	D	דען	deN	_
+4	drsin	N	דרסין	drsyN	_
+5	zeyn	PRO$	זײן	zYN	_
+6	kopf	N	קאָפּף	kAopF	_
+7	aruntir	ADV	אַרונטיר	Aarvntyr	_
+8	oyf	P	אױף	AWF	_
+9	der	D	דער	der	_
+10	shvel	N	שװעל	$Vel	_
+
+SENT	1783E-UKRAINE-1,35.107
+1	und	CONJ	אונד	Avnd	_
+2	di	D	די	dy	_
+3	ibrigi	ADJ	איבריגי	Aybrygy	_
+4	titin	VBF	טיטין	tytyN	_
+5	zi	PRO	זי	zy	_
+6	ed	H	עד	ed	until
+7	in	H	אין	AyN	there_is_not
+8	mspr	H	מספּר	mspr	number
+9	uain	H	אואַיִן	AvAayiN	and_there_is_not
+10	suf	H	סוף	svF	end
+
+SENT	1783E-UKRAINE-1,35.108
+1	fun	P	פֿון	fvN	_
+2	do	ADV	דאָ	dAo	_
+3	gihn	VBF	גיהן	gyhN	_
+4	zi	PRO	זי	zy	_
+5	in	P	אין	AyN	_
+6	ds	D	דס	ds	_
+7	bit_hmdrs	N	ביט_המדרס	byt_hmdrs	_
+
+SENT	1783E-UKRAINE-1,35.109
+1	vi	C	װי	Vy	_
+2	di	D	די	dy	_
+3	ihudim	N	איהודים	AyhvdyM	_
+4	das	D	דת	dS	_
+5	zehin	VBF	זעהין	zehyN	_
+6	loyfin	VBF	לױפֿין	lWfyN	_
+7	zi	PRO	זי	zy	_
+8	alli	Q	אַללי	Aally	_
+
+SENT	1783E-UKRAINE-1,35.110
+1	und	CONJ	אונד	Avnd	_
+2	nemin	VBF	נעמין	nemyN	_
+3	di	D	די	dy	_
+4	sfri	H	ספֿרי	sfry	books
+5	turut	H	טורוט	tvrvt	Torah
+6	oys	P	אױס	AWs	_
+7	den	D	דען	deN	_
+8	hikhl	N	היכל	hyxl	_
+
+SENT	1783E-UKRAINE-1,35.111
+1	und	CONJ	אונד	Avnd	_
+2	shreyen	VBF	שרײען	$rYeN	_
+
+SENT	1783E-UKRAINE-1,35.112
+1	oykh	ADV	אױך	AWX	_
+2	greynin	VBF	גרײנין	grYnyN	_
+3	tsu	P	צו	qv	_
+4	gott	NPR	גאָטט	gAott	_
+
+SENT	1783E-UKRAINE-1,35.113
+1	di	D	די	dy	_
+2	soynim	N	סױנים	sWnyM	_
+3	imkh"s	H	אימכ"ס	Aymx"s	may_be_erased_name
+4	nemin	VBF	נעמין	nemyN	_
+5	di	D	די	dy	_
+6	sfr	H	ספֿר	sfr	book
+7	turut	H	טורוט	tvrvt	Torah
+
+SENT	1783E-UKRAINE-1,35.114
+1	und	CONJ	אונד	Avnd	_
+2	spreytin	VBF	ספּרײטין	sprYtyN	_
+3	zi	PRO	זי	zy	_
+4	oyf	P	אױף	AWF	_
+5	erdi	N	ערדי	erdy	_
+
+SENT	1783E-UKRAINE-1,35.115
+1	und	CONJ	אונד	Avnd	_
+2	titn	VBF	טיטן	tytN	_
+3	droyf	DR+P	דרױף	drWF	_
+4	khmh	H	כמה	xmh	a_few
+5	alpim	H	אַלפּים	AalpyM	thousand
+6	npsut	N	נפּסוט	npsvt	souls
+
+SENT	1783E-UKRAINE-1,35.116
+1	das	D	דת	dS	_
+2	blut	N	בלוט	blvt	_
+3	iz	BEF	איז	Ayz	_
+4	grunin	VBN	גרונין	grvnyN	_
+5	ibr	P	איבר	Aybr	_
+6	di	D	די	dy	_
+7	shvelin	N	שװעלין	$VelyN	_
+
+SENT	1783E-UKRAINE-1,35.117
+1	mirah	H	מיראַה	myrAah	from_fear
+2	kzat	H	קזאַט	kzAat	like_this
+3	ver	WPRO	װער	Ver	_
+4	hat	HVF	האַט	hAat	_
+5	ghert	VBN	גהערט	ghert	_
+6	adr	CONJ	אַדר	Aadr	_
+7	gezehn	VBN	געזעהן	gezehN	_
+8	das_gleykhn	D	דאַס_גלײכן	dAas_glYxN	_
+
+SENT	1783E-UKRAINE-1,35.118
+1	ihudim	N	איהודים	AyhvdyM	_
+2	zeyn	BEF	זײן	zYN	_
+3	gishakhtin	VAN	גישאַכטין	gy$AaxtyN	_
+4	givarin	RDN	גיװאַרין	gyVAaryN	_
+5	alls	P	אַללס	Aalls	_
+6	di	D	די	dy	_
+7	shafi	N	שאַפֿי	$Aafy	_
+
+SENT	1783E-UKRAINE-1,35.119
+1	di	D	די	dy	_
+2	kinder	N	קינדער	kynder	_
+3	fun	P	פֿון	fvN	_
+4	brust	N	ברוסט	brvst	_
+5	tretin	VBF	טרעטין	tretyN	_
+6	di	D	די	dy	_
+7	soynim	N	סױנים	sWnyM	_
+8	far	P	פֿאַר	fAar	_
+9	muter	N	מוטער	mvter	_
+10	oygin	N	אױגין	AWgyN	_
+
+SENT	1783E-UKRAINE-1,35.120
+1	zi	PRO	זי	zy	_
+2	stekhtin	VBF	סטעכטין	stextyN	_
+3	kleyni	ADJ	קלײני	klYny	_
+4	kindr	N	קינדר	kyndr	_
+5	oyf	P	אױף	AWF	_
+6	der	D	דער	der	_
+7	spisin	N	ספּיסין	spysyN	_
+8	lebndigr_heyt	ADV	לעבנדיגר_הײט	lebndygr_hYt	_
+
+SENT	1783E-UKRAINE-1,35.121
+1	und	CONJ	אונד	Avnd	_
+2	tragtin	VBF	טראַגטין	trAagtyN	_
+3	zi	PRO	זי	zy	_
+4	in	P	אין	AyN	_
+5	di	D	די	dy	_
+6	gasn	N	גאַסן	gAasN	_
+
+SENT	1783E-UKRAINE-1,35.122
+1	di	D	די	dy	_
+2	hrugim	N	הרוגים	hrvgyM	_
+3	varftin	VBF	װאַרפֿטין	VAarftyN	_
+4	zi	PRO	זי	zy	_
+5	oys	P	אױס	AWs	_
+6	der	D	דער	der	_
+7	stod	N	סטאָד	stAod	_
+8	oyf	P	אױף	AWF	_
+9	eyn	D	אײן	AYN	_
+10	tkhum	H	תּחום	THvM	UNKNOWN
+11	sbt	N	סבט	sbt	_
+12	veyt	ADV	װײט	VYt	_
+
+SENT	1783E-UKRAINE-1,35.123
+1	hund	N	הונד	hvnd	_
+2	un	CONJ	און	AvN	_
+3	hzirim	N	הזירים	hzyryM	_
+4	shleptin	VBF	שלעפּטין	$leptyN	_
+5	zi	PRO	זי	zy	_
+6	hrum	ADV	הרום	hrvM	_
+7	in	P	אין	AyN	_
+8	alli	Q	אַללי	Aally	_
+9	gasin	N	גאַסין	gAasyN	_
+
+SENT	1783E-UKRAINE-1,35.124
+1	ir	PRO	איר	Ayr	_
+2	libe	ADJ	ליבע	lybe	_
+3	leyt	N	לײט	lYt	_
+4	denkt	VBI	דענקט	denkt	_
+5	amol	ADV	אַמאָל	AamAol	_
+6	di	D	די	dy	_
+7	hrugi	N	הרוגי	hrvgy	_
+8	hat	HVF	האַט	hAat	_
+9	givehrt	VBN	גיװעהרט	gyVehrt	_
+10	akht	NUM	אַכט	Aaxt	_
+11	tagi	N	טאַגי	tAagy	_
+12	lang	ADV	לאַנג	lAang	_
+
+SENT	1783E-UKRAINE-1,35.125
+1	der	D	דער	der	_
+2	rse	N	רסע	rse	_
+3	gonti	NPR	גאָנטי	gAonty	_
+4	imkh"s	H	אימכ"ס	Aymx"s	may_be_erased_name
+5	lis	VBF	ליס	lys	_
+6-7	oysrufn	RP~VB	אױסרופֿן	AWsrvfN	_
+6	oys	RP	אױס	AWs	_
+7	rufn	VB	רופֿן	rvfN	_
+8	velkhr	WD	װעלכר	Velxr	_
+9	nutsri	N	נוצרי	nvqry	_
+10	zikh	PRO	זיך	zyX	_
+11	untrstiht	VBF	אונטרסטיהט	Avntrstyht	_
+12	eyn	D	אײן	AYN	_
+13	ihudi	N	איהודי	Ayhvdy	_
+14	tsu	TO	צו	qv	_
+15	ferbergin	VB	פֿערבערגין	ferbergyN	_
+16	in	P	אין	AyN	_
+17	zeyn	PRO$	זײן	zYN	_
+18	hoyz	N	הױז	hWz	_
+
+SENT	1783E-UKRAINE-1,35.126
+1	alzu	ADV	אַלזו	Aalzv	_
+2	brengtin	VBF	ברענגטין	brengtyN	_
+3	di	D	די	dy	_
+4	nutsrim	N	נוצרים	nvqryM	_
+5	ihudim	N	איהודים	AyhvdyM	_
+6	tsu	TO	צו	qv	_
+7	shlepin	VB	שלעפּין	$lepyN	_
+8	tsu	P	צו	qv	_
+9	der	D	דער	der	_
+10	hrigh	N	הריגה	hrygh	_
+11	ber"h	H	בער"ה	ber"h	UNKNOWN
+
+SENT	1783E-UKRAINE-1,35.127
+1	es	ES	עס	es	_
+2	izt	VBF	איזט	Ayzt	_
+3	gar	ADV	גאַר	gAar	_
+4	nit	NEG	ניט	nyt	_
+5	meglikh	ADJ	מעגליך	meglyX	_
+6	gnug	Q	גנוג	gnvg	_
+7	tsu	TO	צו	qv	_
+8	shreybin	VB	שרײבין	$rYbyN	_
+9	fun	P	פֿון	fvN	_
+10	der	D	דער	der	_
+11	gzrh	N	גזרה	gzrh	_
+12	beu"h	H	בעו"ה	bev"h	for_sins_our_the_many
+
+SENT	1783E-UKRAINE-1,35.128
+1	vi	C	װי	Vy	_
+2	ganta	NPR	גאַנטאַ	gAantAa	_
+3	imkh"s	H	אימכ"ס	Aymx"s	may_be_erased_name
+4	mit	P	מיט	myt	_
+5	di	D	די	dy	_
+6	ihudim	N	איהודים	AyhvdyM	_
+7	vahl	ADV	װאַהל	VAahl	_
+8	fertig	ADJ	פֿערטיג	fertyg	_
+9	vahr	VBF	װאַהר	VAahr	_
+10	ging	VBF	גינג	gyng	_
+11	er	PRO	ער	er	_
+12	ibr	P	איבר	Aybr	_
+13	den	D	דען	deN	_
+14	hoyptman	N	הױפּטמאַן	hWptmAaN	_
+15	vas	C	װאַס	VAas	_
+16	di	D	די	dy	_
+17	stad	N	סטאַד	stAad	_
+18	oyf	RP	אױף	AWF	_
+19	gmakht	VBN	גמאַכט	gmAaxt	_
+20	hat	HVF	האַט	hAat	_
+
+SENT	1783E-UKRAINE-1,35.129
+1	und	CONJ	אונד	Avnd	_
+2	lis	VBF	ליס	lys	_
+3	ihn	PRO	איהן	AyhN	_
+4	naknt	ADJ	נאַקנט	nAaknt	_
+5	oys	RP	אױס	AWs	_
+6	tsihen	VB	ציהען	qyheN	_
+
+SENT	1783E-UKRAINE-1,35.130
+1	und	CONJ	אונד	Avnd	_
+2	trib	VBF	טריב	tryb	_
+3	alli	Q	אַללי	Aally	_
+4	gspet	N	גספּעט	gspet	_
+5	mit	P	מיט	myt	_
+6	ihm	PRO	איהם	AyhM	_
+
+SENT	1783E-UKRAINE-1,35.131
+1	er	PRO	ער	er	_
+2	muz	MDF	מוז	mvz	_
+3	den	D	דען	deN	_
+4	gantsin	ADJ	גאַנצין	gAanqyN	_
+5	mark	N	מאַרק	mAark	_
+6	hrum	P	הרום	hrvM	_
+7	tantsin	VB	טאַנצין	tAanqyN	_
+8	erum	H	ערום	ervM	naked
+9	ueri'	H	אוערי'	Avery'	and_bare
+
+SENT	1783E-UKRAINE-1,35.132
+1	der	D	דער	der	_
+2	hoyptman	N	הױפּטמאַן	hWptmAaN	_
+3	zogt	VBF	זאָגט	zAogt	_
+4	du	PRO	דו	dv	_
+5	shvehrst	VBF	שװעהרסט	$Vehrst	_
+6	ya	ADV	יאַ	yAa	_
+7	du	PRO	דו	dv	_
+8	vilst	MDF	װילסט	Vylst	_
+9	mikh	PRO	מיך	myX	_
+10	lebn	VB	לעבן	lebN	_
+11	lazin	VB	לאַזין	lAazyN	_
+
+SENT	1783E-UKRAINE-1,35.133
+1	und	CONJ	אונד	Avnd	_
+2	yetsund	ADV	יעצונד	yeqvnd	_
+3-4	bistu	VBF~PRO	ביסטו	bystv	_
+3	bis	VBF	ביס	bys	_
+4	tu	PRO	טו	tv	_
+5	eubr_sbueh	RP-H	עובר_סבועה	evbr_sbveh	_
+
+SENT	1783E-UKRAINE-1,35.134
+1	zogt	VBF	זאָגט	zAogt	_
+2	imkh"s	H	אימכ"ס	Aymx"s	may_be_erased_name
+3	antvort	N	אַנטװאָרט	AantVAort	_
+4	veyl	C	װײל	VYl	_
+5	du	PRO	דו	dv	_
+6	di	D	די	dy	_
+7	ihudim	N	איהודים	AyhvdyM	_
+8	eubr_sbueh	RP-H	עובר_סבועה	evbr_sbveh	_
+9	hast	HVF	האַסט	hAast	_
+10	givezin	VBN	גיװעזין	gyVezyN	_
+11	bin	VBF	בין	byN	_
+12	ikh	PRO	איך	AyX	_
+13	mit	P	מיט	myt	_
+14	dir	PRO	דיר	dyr	_
+15	oykh	ADV	אױך	AWX	_
+16	eubr_sbueh	RP-H	עובר_סבועה	evbr_sbveh	_
+
+SENT	1783E-UKRAINE-1,35.135
+1	und	CONJ	אונד	Avnd	_
+2	lis	VBF	ליס	lys	_
+3	ihn	PRO	איהן	AyhN	_
+4	titn	VB	טיטן	tytN	_
+
+SENT	1783E-UKRAINE-1,35.136
+1	fun	P	פֿון	fvN	_
+2	umn	NPR	אומן	AvmN	_
+3	gihen	VBF	גיהען	gyheN	_
+4	zi	PRO	זי	zy	_
+5	nakh	P	נ"ך	n"X	_
+6	k"k	H	ק"ק	k"k	community_holy
+7	belti	NPR	בעלטי	belty	_
+8	in	P	אין	AyN	_
+9	di	D	די	dy	_
+10	tatirshi	ADJ	טאַטירשי	tAatyr$y	_
+11	grenits	N	גרעניץ	grenyQ	_
+
+SENT	1783E-UKRAINE-1,35.137
+1	und	CONJ	אונד	Avnd	_
+2	habin	HVF	האַבין	hAabyN	_
+3	eyn	D	אײן	AYN	_
+4	hrg	N	הרג	hrg	_
+5	rb	N	רב	rb	_
+6	githun	VBN	גיטהון	gythvN	_
+
+SENT	1783E-UKRAINE-1,35.138
+1	zi	PRO	זי	zy	_
+2	habin	HVF	האַבין	hAabyN	_
+3	di	D	די	dy	_
+4	tatirn	N	טאַטירן	tAatyrN	_
+5	mskhd	RP-H	מסכד	msxd	_
+6	givezin	VBN	גיװעזין	gyVezyN	_
+7	das	C	דת	dS	_
+8	zi	PRO	זי	zy	_
+9	niks	Q	ניקס	nyks	_
+10	an	RP	אַן	AaN	_
+11	nemn	VB	נעמן	nemN	_
+12	fr	P	פֿר	fr	_
+13	di	D	די	dy	_
+14	ihudim	N	איהודים	AyhvdyM	_
+15	zalltin	MDF	זאַללטין	zAalltyN	_
+
+SENT	1783E-UKRAINE-1,35.139
+1	in	P	אין	AyN	_
+2	di	D	די	dy	_
+3	khlt	H	כלט	xlt	communities
+4	kdush	H	קדוש	kdv$	holy
+5	balti	NPR	באַלטי	bAalty	_
+6	gsehn	VBF	גסעהן	gsehN	_
+7	oykh	ADV	אױך	AWX	_
+8	mitut	H	מיטוט	mytvt	deaths
+9	khmurut	H	כמורוט	xmvrvt	UNKNOWN
+10	vas	C	װאַס	VAas	_
+11	nit	NEG	ניט	nyt	_
+12	tsu	TO	צו	qv	_
+13	bshreybn	VB	בשרײבן	b$rYbN	_
+14	zeyn	VBF	זײן	zYN	_
+15	gleykh	ADJ	גלײך	glYX	_
+16	in	P	אין	AyN	_
+17	umn	NPR	אומן	AvmN	_
+
+SENT	1783E-UKRAINE-1,35.140
+1	bkitsr	ADV	בקיצר	bkyqr	_
+2	di	D	די	dy	_
+3	ihudim	N	איהודים	AyhvdyM	_
+4	vistin	VBF	װיסטין	VystyN	_
+5	zikh	PRO	זיך	zyX	_
+6	gar	ADV	גאַר	gAar	_
+7	keyn	Q	קײן	kYN	_
+8	etsh	N	עטש	et$	_
+
+SENT	1783E-UKRAINE-1,35.141
+1	di	D	די	dy	_
+2	bradir	ADJ	בראַדיר	brAadyr	_
+3	ihudim	N	איהודים	AyhvdyM	_
+4	oykh	ADV	אױך	AWX	_
+5	andri	ADJ	אַנדרי	Aandry	_
+6	khlut	N	כלוט	xlvt	_
+7	lafin	VBF	לאַפֿין	lAafyN	_
+8-9	tsum	P~D	צום	qvM	_
+8	tsu	P	צו	qv	_
+9	m	D	מ	m	_
+10	pulshin	ADJ	פּולשין	pvl$yN	_
+11	yenral	N	יענראַל	yenrAal	_
+12	branitski	NPR	בראַניצקי	brAanyqky	_
+13	zkhr	H	זכר	zxr	memory
+14	ltub	H	לטוב	ltvb	for_good
+
+SENT	1783E-UKRAINE-1,35.142
+1	und	CONJ	אונד	Avnd	_
+2	shreyen	VBF	שרײען	$rYeN	_
+3	fr	P	פֿר	fr	_
+4	ihm	PRO	איהם	AyhM	_
+5	er	PRO	ער	er	_
+6	zal	MDF	ז"ל	z"l	_
+7	dakh	ADV	דאַך	dAaX	_
+8	helfin	VB	העלפֿין	helfyN	_
+
+SENT	1783E-UKRAINE-1,35.143
+1	er	PRO	ער	er	_
+2	antvort	VBF	אַנטװאָרט	AantVAort	_
+3	zi	PRO	זי	zy	_
+4	ferikht	VBI	פֿעריכט	feryxt	_
+5	eykh	PRO	אײך	AYX	_
+6	niks	Q	ניקס	nyks	_
+
+SENT	1783E-UKRAINE-1,35.144
+1	ikh	PRO	איך	AyX	_
+2	ver	RDF	װער	Ver	_
+3	zi	PRO	זי	zy	_
+4	soynd	ADV	סױנד	sWnd	_
+5	a	D	אַ	Aa	_
+6	kts	N	קץ	kQ	_
+7	makhin	VB	מאַכין	mAaxyN	_
+
+SENT	1783E-UKRAINE-1,35.145
+1	zi	PRO	זי	zy	_
+2	verin	RDF	װערין	VeryN	_
+3	veytr	ADV	װײטר	VYtr	_
+4	nit	NEG	ניט	nyt	_
+5	der_lebin	VB	דער_לעבין	der_lebyN	_
+6	tsu	TO	צו	qv	_
+7	gihn	VB	גיהן	gyhN	_
+
+SENT	1783E-UKRAINE-1,36.147
+1	der	D	דער	der	_
+2	khsid	N	כסיד	xsyd	_
+3	branitski	NPR	בראַניצקי	brAanyqky	_
+4	pulishir	ADJ	פּולישיר	pvly$yr	_
+5	oykh	CONJ	אױך	AWX	_
+6	russhir	ADJ	רוסשיר	rvs$yr	_
+7	yenral	N	יענראַל	yenrAal	_
+8	shikt	VBF	שיקט	$ykt	_
+9	etlikhi	Q	עטליכי	etlyxy	_
+10	hundrt	NUM	הונדרט	hvndrt	_
+11	man	N	מאַן	mAaN	_
+12	kazakin	N	קאַזאַקין	kAazAakyN	_
+13	bermh	H	בערמה	bermh	in_craftiness
+14	zi	PRO	זי	zy	_
+15	zalin	MDF	זאַלין	zAalyN	_
+16	zikh	PRO	זיך	zyX	_
+17	ibr_gebin	VB	איבר_געבין	Aybr_gebyN	_
+18	bey	P	בײ	bY	_
+19	den	D	דען	deN	_
+20	rshe	N	רשע	r$e	_
+21	ganti	NPR	גאַנטי	gAanty	_
+22	imkh"s	H	אימכ"ס	Aymx"s	may_be_erased_name
+
+SENT	1783E-UKRAINE-1,36.148
+1	zi	PRO	זי	zy	_
+2	tetin	VBF	טעטין	tetyN	_
+3	es	PRO	עס	es	_
+
+SENT	1783E-UKRAINE-1,36.149
+1	und	CONJ	אונד	Avnd	_
+2	gihn	VBF	גיהן	gyhN	_
+3	bermh	H	בערמה	bermh	in_craftiness
+4	nokh	P	נאָך	nAoX	_
+5	umn	NPR	אומן	AvmN	_
+
+SENT	1783E-UKRAINE-1,36.150
+1	und	CONJ	אונד	Avnd	_
+2	stihn	VBF	סטיהן	styhN	_
+3	tsu	P	צו	qv	_
+4	den	D	דען	deN	_
+5	gonti	NPR	גאָנטי	gAonty	_
+6	imkh"s	H	אימכ"ס	Aymx"s	may_be_erased_name
+
+SENT	1783E-UKRAINE-1,36.151
+1	und	CONJ	אונד	Avnd	_
+2	shvehrin	VBF	שװעהרין	$VehryN	_
+3	ihn	PRO	איהן	AyhN	_
+4	tsu	TO	צו	qv	_
+5	helfin	VB	העלפֿין	helfyN	_
+6	tsu	TO	צו	qv	_
+7	titn	VB	טיטן	tytN	_
+8	vas	WPRO	װאַס	VAas	_
+9	nur	FP	נור	nvr	_
+10	miglikh	ADJ	מיגליך	myglyX	_
+11	ist	VBF	איסט	Ayst	_
+12	fun	P	פֿון	fvN	_
+13	di	D	די	dy	_
+14	ihudim	N	איהודים	AyhvdyM	_
+
+SENT	1783E-UKRAINE-1,36.152
+1	der	D	דער	der	_
+2	rse	N	רסע	rse	_
+3	gonti	NPR	גאָנטי	gAonty	_
+4	imkh"s	H	אימכ"ס	Aymx"s	may_be_erased_name
+5	makht	VBF	מאַכט	mAaxt	_
+6	zikh	PRO	זיך	zyX	_
+7	zehr	ADV	זעהר	zehr	_
+8	lustig	ADJ	לוסטיג	lvstyg	_
+9	mit	P	מיט	myt	_
+10	di	D	די	dy	_
+11	kazakin	N	קאַזאַקין	kAazAakyN	_
+
+SENT	1783E-UKRAINE-1,36.153
+1	fresin	VBF	פֿרעסין	fresyN	_
+2	und	CONJ	אונד	Avnd	_
+3	zoyfin	VBF	זױפֿין	zWfyN	_
+
+SENT	1783E-UKRAINE-1,36.154
+1	er	PRO	ער	er	_
+2	veyzt	VBF	װײזט	VYzt	_
+3	zi	PRO	זי	zy	_
+4	di	D	די	dy	_
+5	utsrut	N	אוצרוט	Avqrvt	_
+6	vas	C	װאַס	VAas	_
+7	er	PRO	ער	er	_
+8	fun	P	פֿון	fvN	_
+9	ihudim	N	איהודים	AyhvdyM	_
+10	gnumn	VBN	גנומן	gnvmN	_
+11	hat	HVF	האַט	hAat	_
+
+SENT	1783E-UKRAINE-1,36.155
+1	di	D	די	dy	_
+2	kazakin	N	קאַזאַקין	kAazAakyN	_
+3	abr	ADV	אַבר	Aabr	_
+4	trinktin	VBF	טרינקטין	trynktyN	_
+5	falsh	ADV	פֿאַלש	fAal$	_
+6	nit	NEG	ניט	nyt	_
+7	shikr	ADJ	שיקר	$ykr	_
+
+SENT	1783E-UKRAINE-1,36.156
+1	den	D	דען	deN	_
+2	gonti	NPR	גאָנטי	gAonty	_
+3	un	CONJ	און	AvN	_
+4	zeyn	PRO$	זײן	zYN	_
+5	khil	N	כיל	xyl	_
+6	trinkt	VBF	טרינקט	trynkt	_
+7	zikh	PRO	זיך	zyX	_
+8	rekht	ADV	רעכט	rext	_
+9	shikr	ADJ	שיקר	$ykr	_
+
+SENT	1783E-UKRAINE-1,36.157
+1	branitski	NPR	בראַניצקי	brAanyqky	_
+2	mit	P	מיט	myt	_
+3	zeyn	PRO$	זײן	zYN	_
+4	khil	N	כיל	xyl	_
+5	komin	VBF	קאָמין	kAomyN	_
+6	oykh	ADV	אױך	AWX	_
+7	an	RP	אַן	AaN	_
+8	tsu	TO	צו	qv	_
+9	rukin	VB	רוקין	rvkyN	_
+
+SENT	1783E-UKRAINE-1,36.158
+1	di	D	די	dy	_
+2	kazakin	N	קאַזאַקין	kAazAakyN	_
+3	bnakhrikhtin	VBF	בנאַכריכטין	bnAaxryxtyN	_
+4	den	D	דען	deN	_
+5	khsid	N	כסיד	xsyd	_
+6	branitski	NPR	בראַניצקי	brAanyqky	_
+
+SENT	1783E-UKRAINE-1,36.159
+1	er	PRO	ער	er	_
+2	ibr_falt	VBF	איבר_פֿאַלט	Aybr_fAalt	_
+3	die	D	דיִע	dyie	_
+4	plats	N	פּלאַץ	plAaQ	_
+5	upkhaum	N	אופּכאַום	AvpxAavM	_
+
+SENT	1783E-UKRAINE-1,36.160
+1	und	CONJ	אונד	Avnd	_
+2	fangt	VBF	פֿאַנגט	fAangt	_
+3	zi	PRO	זי	zy	_
+4	alli	Q	אַללי	Aally	_
+5	lebndig	ADJ	לעבנדיג	lebndyg	_
+6	khmh	H	כמה	xmh	a_few
+7	ukmh	H	אוקמה	Avkmh	and_a_few
+8	alpim	H	אַלפּים	AalpyM	thousands
+
+SENT	1783E-UKRAINE-1,36.161
+1	doz	D	דאָז	dAoz	_
+2	esirut	N	עסירוט	esyrvt	_
+3	un	CONJ	און	AvN	_
+4	utsrut	N	אוצרוט	Avqrvt	_
+5	nam	VBF	נאַם	nAaM	_
+6	er	PRO	ער	er	_
+7	mit	P	מיט	myt	_
+8	zikh	PRO	זיך	zyX	_
+
+SENT	1783E-UKRAINE-1,36.162
+1	und	CONJ	אונד	Avnd	_
+2	fihrt	VBF	פֿיהרט	fyhrt	_
+3	zi	PRO	זי	zy	_
+4	gbundin	ADJ	גבונדין	gbvndyN	_
+5	mit	P	מיט	myt	_
+6	enoym	H	ענױם	enWM	UNKNOWN
+7	ksim	H	קסים	ksyM	UNKNOWN
+
+SENT	1783E-UKRAINE-1,36.163
+1	di	D	די	dy	_
+2	eltsti	N	עלטסטי	eltsty	_
+3	oykh	ADV	אױך	AWX	_
+4	den	D	דען	deN	_
+5	rse	N	רסע	rse	_
+6	gonti	NPR	גאָנטי	gAonty	_
+7	im"s	H	אימ"ס	Aym"s	may_be_erased_name
+8	bindt	VBF	בינדט	byndt	_
+9	er	PRO	ער	er	_
+10	mit	P	מיט	myt	_
+11	eyzrni	ADJ	אײזרני	AYzrny	_
+12	ketin	N	קעטין	ketyN	_
+
+SENT	1783E-UKRAINE-1,36.164
+1	gonti	NPR	גאָנטי	gAonty	_
+2	shreyt	VBF	שרײט	$rYt	_
+3	und	CONJ	אונד	Avnd	_
+4	veynt	VBF	װײנט	VYnt	_
+
+SENT	1783E-UKRAINE-1,36.165
+1	akh	INTJ	אַך	AaX	_
+2	ez	ES	עז	ez	_
+3	kehrt	VBF	קעהרט	kehrt	_
+4	mir	PRO	מיר	myr	_
+5	za	ADV	זאַ	zAa	_
+6	oys	RP	אױס	AWs	_
+7	gehin	VB	געהין	gehyN	_
+
+SENT	1783E-UKRAINE-1,36.166
+1	ikh	PRO	איך	AyX	_
+2	hab	HVF	האַב	hAab	_
+3	keyn	Q	קײן	kYN	_
+4	rkhmnut	N	רכמנוט	rxmnvt	_
+5	gihabt	VBN	גיהאַבט	gyhAabt	_
+
+SENT	1783E-UKRAINE-1,36.167
+1	gher	MDF	גהער	gher	_
+2	man	PRO	מאַן	mAaN	_
+3	ibr	P	איבר	Aybr	_
+4	mikh	PRO	מיך	myX	_
+5	oykh	ADV	אױך	AWX	_
+6	keyn	Q	קײן	kYN	_
+7	rkhmnut	N	רכמנוט	rxmnvt	_
+8	habin	VB	האַבין	hAabyN	_
+
+SENT	1783E-UKRAINE-1,36.168
+1	khsid	N	כסיד	xsyd	_
+2	branitski	NPR	בראַניצקי	brAanyqky	_
+3	lis	VBF	ליס	lys	_
+4	tsu_zam	ADV	צו_זאַם	qv_zAaM	_
+5	kumin	VB	קומין	kvmyN	_
+6	fuftsehn_hundrt	NUM	פֿופֿצעהנ_הונדרט	fvfqehn_hvndrt	_
+7	vegin	N	װעגין	VegyN	_
+
+SENT	1783E-UKRAINE-1,36.169
+1	und	CONJ	אונד	Avnd	_
+2	fihert	VBF	פֿיהערט	fyhert	_
+3	zi	PRO	זי	zy	_
+4	ltfish	H	לטפֿיש	ltfy$	to_prison
+
+SENT	1783E-UKRAINE-1,36.170
+1	di	D	די	dy	_
+2	rseim	N	רסעיִם	rseyiM	_
+3	abr	ADV	אַבר	Aabr	_
+4	makhtin	VBF	מאַכטין	mAaxtyN	_
+5	zikh	PRO	זיך	zyX	_
+6	gar	ADV	גאַר	gAar	_
+7	nikhts	Q	ניכץ	nyxQ	_
+8	drus	DR+P	דרוס	drvs	_
+
+SENT	1783E-UKRAINE-1,36.171
+1	vi	C	װי	Vy	_
+2	zi	PRO	זי	zy	_
+3	in	P	אין	AyN	_
+4	di	D	די	dy	_
+5	tfish	N	טפֿיש	tfy$	_
+6	kamn	VBF	קאַמן	kAamN	_
+7	shrektin	VBF	שרעקטין	$rektyN	_
+8	zi	PRO	זי	zy	_
+9	mekhtig	ADV	מעכטיג	mextyg	_
+10	imkh"s	H	אימכ"ס	Aymx"s	may_be_erased_name
+
+SENT	1783E-UKRAINE-1,36.172
+1	man	PRO	מאַן	mAaN	_
+2	fr_shikt	VBF	פֿר_שיקט	fr_$ykt	_
+3	zi	PRO	זי	zy	_
+4	in	P	אין	AyN	_
+5	alli	Q	אַללי	Aally	_
+6	derfer	N	דערפֿער	derfer	_
+7-8	tsum	P~D	צום	qvM	_
+7	tsu	P	צו	qv	_
+8	m	D	מ	m	_
+9	hengin	N	הענגין	hengyN	_
+10	funftsehn	NUM	פֿונפֿצעהן	fvnfqehN	_
+11	oyf	P	אױף	AWF	_
+12	eyn	D	אײן	AYN	_
+13	tli	N	טלי	tly	_
+
+SENT	1783E-UKRAINE-1,36.173
+1	mit	P	מיט	myt	_
+2	dem	D	דעם	deM	_
+3	rse	N	רסע	rse	_
+4	gonti	NPR	גאָנטי	gAonty	_
+5	abr	ADV	אַבר	Aabr	_
+6	und	CONJ	אונד	Avnd	_
+7	zeyn	PRO$	זײן	zYN	_
+8	eltsti	N	עלטסטי	eltsty	_
+9	makht	VBF	מאַכט	mAaxt	_
+10	zikh	PRO	זיך	zyX	_
+11	der	D	דער	der	_
+12	khsid	N	כסיד	xsyd	_
+13	branitski	NPR	בראַניצקי	brAanyqky	_
+14	eyn	D	אײן	AYN	_
+15	gants	ADJ	גאַנץ	gAanQ	_
+16	gispeyz	N	גיספּײז	gyspYz	_
+
+SENT	1783E-UKRAINE-1,36.174
+1	er	PRO	ער	er	_
+2	lis	VBF	ליס	lys	_
+3	kamn	VB	קאַמן	kAamN	_
+4	eyn	D	אײן	AYN	_
+5	sharf-rikhtr	N	שאַרף-ריכטר	$AarF-ryxtr	_
+6	fr	P	פֿר	fr	_
+7	ihn	PRO	איהן	AyhN	_
+
+SENT	1783E-UKRAINE-1,36.175
+1	und	CONJ	אונד	Avnd	_
+2	lis	VBF	ליס	lys	_
+3	ihudim	N	איהודים	AyhvdyM	_
+4	tsuzam	ADV	צוזאַם	qvzAaM	_
+5	rufin	VB	רופֿין	rvfyN	_
+6	mkmh	H	מקמה	mkmh	from_a_few
+7	khlut	H	כלוט	xlvt	communities
+8	oysubim	H	אױסובים	AWsvbyM	and_settlements
+9	di	D	די	dy	_
+10	nkmh	N	נקמה	nkmh	_
+11	tsu	TO	צו	qv	_
+12	zehn	VB	זעהן	zehN	_
+
+SENT	1783E-UKRAINE-1,36.176
+1	brashun	H	בראַשון	brAa$vN	at_first
+2	iz	VBF	איז	Ayz	_
+3	man	PRO	מאַן	mAaN	_
+4	ihm	PRO	איהם	AyhM	_
+5	mkbr	RP-H	מקבר	mkbr	_
+6	mit	P	מיט	myt	_
+7	eyn	D	אײן	AYN	_
+8	stul	N	סטול	stvl	_
+
+SENT	1783E-UKRAINE-1,36.177
+1	und	CONJ	אונד	Avnd	_
+2	mit	P	מיט	myt	_
+3	eyn	D	אײן	AYN	_
+4	eyzrnen	ADJ	אײזרנען	AYzrneN	_
+5	kam	N	קאַם	kAaM	_
+6	reyst	VBF	רײסט	rYst	_
+7	man	PRO	מאַן	mAaN	_
+8	zeyn	PRO$	זײן	zYN	_
+9	trph	ADJ	טרפּה	trph	_
+10	fleysh	N	פֿלײש	flY$	_
+
+SENT	1783E-UKRAINE-1,36.178
+1	eyn	D	אײן	AYN	_
+2	eyzrnin	ADJ	אײזרנין	AYzrnyN	_
+3	kroyn	N	קרױן	krWN	_
+4	glid	VBF	גליד	glyd	_
+5	men	PRO	מען	meN	_
+6	in	P	אין	AyN	_
+7	feyer	N	פֿײער	fYer	_
+
+SENT	1783E-UKRAINE-1,36.179
+1	und	CONJ	אונד	Avnd	_
+2	zetst	VBF	זעצט	zeqt	_
+3	zi	PRO	זי	zy	_
+4	oyf	P	אױף	AWF	_
+5	zeyn	PRO$	זײן	zYN	_
+6	kopf	N	קאָפּף	kAopF	_
+
+SENT	1783E-UKRAINE-1,36.180
+1	er	PRO	ער	er	_
+2	zitst	VBF	זיצט	zyqt	_
+3	do	ADV	דאָ	dAo	_
+4	als	P	אַלס	Aals	_
+5	eyn	D	אײן	AYN	_
+6	kinig	N	קיניג	kynyg	_
+
+SENT	1783E-UKRAINE-1,36.181
+1	lahbin	VB	לאַהבין	lAahbyN	_
+2	tut	DOF	טוט	tvt	_
+3	ihn	PRO	איהן	AyhN	_
+4	mit	P	מיט	myt	_
+5	allr_hand	Q	אַללר_האַנד	Aallr_hAand	_
+6	shmekin	ADJ	שמעקין	$mekyN	_
+7	vaser	N	װאַסער	VAaser	_
+8	alls	C	אַללס	Aalls	_
+9	er	PRO	ער	er	_
+10	nikht	NEG	ניכט	nyxt	_
+11	bald	ADV	באַלד	bAald	_
+12	starbin	VB	סטאַרבין	stAarbyN	_
+13	zal	MDF	ז"ל	z"l	_
+
+SENT	1783E-UKRAINE-1,36.182
+1	men	PRO	מען	meN	_
+2	shneydet	VBF	שנײדעט	$nYdet	_
+3	zeyn	PRO$	זײן	zYN	_
+4	trph	ADJ	טרפּה	trph	_
+5	fleysh	N	פֿלײש	flY$	_
+6	zo	ADV	זאָ	zAo	_
+7	lang	ADV	לאַנג	lAang	_
+8	biz	C	ביז	byz	_
+9	er	PRO	ער	er	_
+10	hin	RP-ADV	הין	hyN	_
+11	felt	VBF	פֿעלט	felt	_
+12	un	CONJ	און	AvN	_
+13	sterbt	VBF	סטערבט	sterbt	_
+
+SENT	1783E-UKRAINE-1,36.183
+1	dz_gleykhin	D	דז_גלײכין	dz_glYxyN	_
+2	gshikht	VBF	גשיכט	g$yxt	_
+3	zeyn	PRO$	זײן	zYN	_
+4	mit_brider	N	מיט_ברידער	myt_bryder	_
+5	alli	Q	אַללי	Aally	_
+6	eltsti	ADJS	עלטסטי	eltsty	_
+
+SENT	1783E-UKRAINE-1,36.184
+1	mir	PRO	מיר	myr	_
+2	velin	MDF	װעלין	VelyN	_
+3	veyter	ADV	װײטער	VYter	_
+4	niks	Q	ניקס	nyks	_
+5	shreybn	VB	שרײבן	$rYbN	_
+
+SENT	1783E-UKRAINE-1,36.185
+1	und	CONJ	אונד	Avnd	_
+2	velin	MDF	װעלין	VelyN	_
+3	bey	P	בײ	bY	_
+4	dem	D	דעם	deM	_
+5	bleybin	VB	בלײבין	blYbyN	_
+
+SENT	1783E-UKRAINE-1,36.186
+1	got	NPR	גאָט	gAot	_
+2	hat	HVF	האַט	hAat	_
+3	fargasin	VBN	פֿאַרגאַסין	fAargAasyN	_
+4	zeyn	PRO$	זײן	zYN	_
+5	tsuarin	N	צואַרין	qvAaryN	_
+6	oyf	P	אױף	AWF	_
+7	di	D	די	dy	_
+8	sunaim	N	סונאַיִם	svnAayiM	_
+9	zi	PRO	זי	zy	_
+10	tsu	TO	צו	qv	_
+11	strafin	VB	סטראַפֿין	strAafyN	_
+12	mit	P	מיט	myt	_
+13	ngeim	N	נגעיִם	ngeyiM	_
+14	gegin	P	געגין	gegyN	_
+15	dia	D	דיִאַ	dyiAa	_
+16	tsrut	N	צרוט	qrvt	_
+17	fun	P	פֿון	fvN	_
+18	ukreyna	NPR	אוקרײנאַ	AvkrYnAa	_
+19	und	CONJ	אונד	Avnd	_
+20	k"k	H	ק"ק	k"k	community_holy
+21	umn	NPR	אומן	AvmN	_
+
+SENT	1783E-UKRAINE-1,36.187
+1	un	CONJ	און	AvN	_
+2	mir	PRO	מיר	myr	_
+3	zalin	MDF	זאַלין	zAalyN	_
+4	zukhh	RP-H	זוכה	zvxh	_
+5	zeyn	VB	זײן	zYN	_
+6	den	D	דען	deN	_
+7	gual	H	גואַל	gvAal	redeemer
+8	tsdk	N	צדק	qdk	_
+9	tsu	TO	צו	qv	_
+10	zehn	VB	זעהן	zehN	_
+

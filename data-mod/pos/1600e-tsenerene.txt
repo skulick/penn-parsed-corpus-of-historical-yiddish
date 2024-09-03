@@ -1,0 +1,227 @@
+SENT	1600E-TSENERENE,171.3
+1	der	D	דער	der	_
+2	mineg	N	מינהג	mynhg	_
+3	iz	BEF	איז	Ayz	_
+4	gevezen	VBN	געװעזען	geVezeN	_
+5	fin	P	פֿין	fyN	_
+6	ale	Q	אַלע	Aale	_
+7	tsadikem	N	צאַדיקעם	qAadykeM	_
+8	dos	C	דאָס	dAos	_
+9	zey	PRO	זײ	zY	_
+10	pflegen	MDF	פּפֿלעגען	pflegeN	_
+11	tsi	TO	צי	qy	_
+12	veyden	VB	װײדען	VYdeN	_
+13	shof	N	שאָף	$AoF	_
+14	in	P	אין	AyN	_
+15	der	D	דער	der	_
+16	midber	N	מדבר	mdbr	_
+17	der_varten	ADV	דער_װאַרטען	der_VAarteN	_
+18	zey	PRO	זײ	zY	_
+19	velen	MDF	װעלען	VeleN	_
+20	zikh	PRO	זיך	zyX	_
+21	vayt	ADV	װײַט	VYat	_
+22	ayn_vek	ADV	אײַנ_װעק	AYan_Vek	_
+23	makhen	VB	מאַכען	mAaxeN	_
+24	fin	P	פֿין	fyN	_
+25	den	D	דען	deN	_
+26	layten	N	לײַטען	lYateN	_
+
+SENT	1600E-TSENERENE,171.4
+1	den	CONJ	דען	deN	_
+2	ven	C	װען	VeN	_
+3	men	PRO	מען	meN	_
+4	bay	P	בײַ	bYa	_
+5	layten	N	לײַטען	lYateN	_
+6	iz	VBF	איז	Ayz	_
+7	do	ADV	דאָ	dAo	_
+8	kimt	VBF	קימט	kymt	_
+9	fil	Q	פֿיל	fyl	_
+10	aveyres	N	עבֿירות	e~yrvS	_
+11	der_fin	DR+P	דער_פֿין	der_fyN	_
+12	rekhhiles	H	רעכהילעס	rexhyles	slander
+13	in	X	אין	AyN	_
+14	kine	N	כּינה	Kynh	_
+15	in	P	אין	AyN	_
+16	loshen	H	לאָשען	lAo$eN	language
+17	hore	H	האָרע	hAore	the_evil
+18	imasig	H	אימאַסיג	AymAasyg	it_will_restrict
+19	gvil	H	גװיל	gVyl	border
+
+SENT	1600E-TSENERENE,171.5
+1	in	CONJ	אין	AyN	_
+2	derim	DR+P	דערים	deryM	_
+3	shteyt	VBF	שטײט	$tYt	_
+4	geshriben	ADJ	געשריבען	ge$rybeN	_
+5	akher	H	אַחר	AaHr	after
+6	hamidber	H	האַמידבער	hAamydber	the_desert
+7	,	PUNC	,	,	_
+
+SENT	1600E-TSENERENE,171.6
+1	klomer	H	קלאָמער	klAomer	that_is_to_say
+2	er	PRO	ער	er	_
+3	ging	VBF	גינג	gyng	_
+4	vayt	ADV	װײַט	VYat	_
+
+SENT	1600E-TSENERENE,171.7
+1	er	PRO	ער	er	_
+2	volt	MDF	װאָלט	VAolt	_
+3	nit	NEG	ניט	nyt	_
+4	veyden	VB	װײדען	VYdeN	_
+5	oyf	P	אױף	AWF	_
+6	fremde	ADJ	פֿרעמדע	fremde	_
+7	felder	N	פֿעלדער	felder	_
+
+SENT	1600E-TSENERENE,171.8
+1	in	CONJ	אין	AyN	_
+2	di	D	די	dy	_
+3	khakhomem	N	כאַכאָמעם	xAaxAomeM	_
+4	zogen	VBF	זאָגען	zAogeN	_
+5	fertsik	NUM	פֿערציק	ferqyk	_
+6	yor	N	יאָר	yAor	_
+7	iz	BEF	איז	Ayz	_
+8	moyshe	NPR	משה	m$h	_
+9	gezesen	VBN	געזעסען	gezeseN	_
+10	in	P	אין	AyN	_
+11	mitsrayim	NPR	מיצרײַיִם	myqrYayiM	_
+12	un	CONJ	און	AvN	_
+13	fertsik	NUM	פֿערציק	ferqyk	_
+14	yor	N	יאָר	yAor	_
+15	in	P	אין	AyN	_
+16	midien	NPR	מידיִען	mydyieN	_
+17	un	CONJ	און	AvN	_
+18	fertsik	NUM	פֿערציק	ferqyk	_
+19	yor	N	יאָר	yAor	_
+20	in	P	אין	AyN	_
+21	der	D	דער	der	_
+22	midber	N	מדבר	mdbr	_
+
+SENT	1600E-TSENERENE,171.9
+1	in	CONJ	אין	AyN	_
+2	azoy	ADV	אַזױ	AazW	_
+3	vor	BEF	װאָר	VAor	_
+4	oykh	ADV	אױך	AWX	_
+5	reb	NPR	ר'	r'	_
+6	akive	NPR	עקיבֿא	eky~A	_
+7	fertsik	NUM	פֿערציק	ferqyk	_
+8	yor	N	יאָר	yAor	_
+9	handlen	VAG	האַנדלען	hAandleN	_
+10	mit	P	מיט	myt	_
+11	skhoyre	N	סחורה	sHvrh	_
+
+SENT	1600E-TSENERENE,171.10
+1	in	CONJ	אין	AyN	_
+2	der_nokh	DR+P	דער_נאָך	der_nAoX	_
+3	vor	BEF	װאָר	VAor	_
+4	er	PRO	ער	er	_
+5	fertsik	NUM	פֿערציק	ferqyk	_
+6	yor	N	יאָר	yAor	_
+7	lernen	VAG	לערנען	lerneN	_
+
+SENT	1600E-TSENERENE,171.11
+1	in	CONJ	אין	AyN	_
+2	der_nokh	DR+P	דער_נאָך	der_nAoX	_
+3	vor	BEF	װאָר	VAor	_
+4	er	PRO	ער	er	_
+5	fertsik	NUM	פֿערציק	ferqyk	_
+6	yor	N	יאָר	yAor	_
+7	yeshive	RP-H	ישיבֿה	y$y~h	_
+8	halten	VAG	האַלטען	hAalteN	_
+
+SENT	1600E-TSENERENE,171.12
+1	in	CONJ	אין	AyN	_
+2	moyshe	NPR	משה	m$h	_
+3	vor	BEF	װאָר	VAor	_
+4	kimen	VAG	קימען	kymeN	_
+5	bay	P	בײַ	bYa	_
+6	dem	D	דעם	deM	_
+7	berg	N	בערג	berg	_
+8	khorev	NPR	חרובֿ	Hrv~	_
+9	vi	WADV	װי	Vy	_
+10	men	PRO	מען	meN	_
+11	vert	RDF	װערט	Vert	_
+12	di	D	די	dy	_
+13	toyre	NPR	תּורה	Tvrh	_
+14	geben	VB	געבען	gebeN	_
+
+SENT	1600E-TSENERENE,171.13
+1	do	ADV	דאָ	dAo	_
+2	hot	HVF	האָט	hAot	_
+3	zikh	PRO	זיך	zyX	_
+4	bevizen	VBN	בעװיזען	beVyzeN	_
+5	di	D	די	dy	_
+6	skhine	N	סכינע	sxyne	_
+7	dorkh	P	דאָרך	dAorX	_
+8	fayer	N	פֿײַער	fYaer	_
+
+SENT	1600E-TSENERENE,171.14
+1	in	CONJ	אין	AyN	_
+2	dos	D	דאָס	dAos	_
+3	fayer	N	פֿײַער	fYaer	_
+4	vor	VBF	װאָר	VAor	_
+5	oyf	P	אױף	AWF	_
+6	eynem	D	אײנעם	AYneM	_
+7	dorn_boym	N	דאָרנ_בױם	dAorn_bWM	_
+
+SENT	1600E-TSENERENE,171.15
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	dorn	N	דאָרן	dAorN	_
+4	vor	BEF	װאָר	VAor	_
+5	nit	NEG	ניט	nyt	_
+6	fer_brent	VAN	פֿער_ברענט	fer_brent	_
+7	.	PUNC	.	.	_
+
+SENT	1600E-TSENERENE,171.16
+1	der	D	דער	der	_
+2	khizkine	N	כיזקינע	xyzkyne	_
+3	in	CONJ	אין	AyN	_
+4	der	D	דער	der	_
+5	bekhaye	N	בעכײַע	bexYae	_
+6	shrayben	VBF	שרײַבען	$rYabeN	_
+7	vorim	WPRO+P	װאָרים	VAoryM	_
+8	hot	HVF	האָט	hAot	_
+9	zikh	PRO	זיך	zyX	_
+10	koydesh	NPR	קודש	kvd$	_
+11	borkhi	NPR	באָרכי	bAorxy	_
+12	bevizen	VBN	בעװיזען	beVyzeN	_
+13	dorkh	P	דאָרך	dAorX	_
+14	fayer	N	פֿײַער	fYaer	_
+
+SENT	1600E-TSENERENE,171.17
+1	dos	D	דאָס	dAos	_
+2	iz	VBF	איז	Ayz	_
+3	derim	DR+P	דערים	deryM	_
+4	,	PUNC	,	,	_
+5	dos	C	דאָס	dAos	_
+6	moyshe	NPR	משה	m$h	_
+7	zol	MDF	זאָל	zAol	_
+8	zikh	PRO	זיך	zyX	_
+9	kenen	MD	קענען	keneN	_
+10	geveynen	VB	געװײנען	geVYneN	_
+11	fayer	N	פֿײַער	fYaer	_
+12	tsi	TO	צי	qy	_
+13	zehen	VB	זעהען	zeheN	_
+
+SENT	1600E-TSENERENE,171.18
+1	in	CONJ	אין	AyN	_
+2	ven	C	װען	VeN	_
+3	er	PRO	ער	er	_
+4	vert	RDF	װערט	Vert	_
+5	kimen	VB	קימען	kymeN	_
+6	tsi	P	צי	qy	_
+7	dem	D	דעם	deM	_
+8	berg	N	בערג	berg	_
+9	sine	NPR	שׂינאה	CynAh	_
+10	vi	WADV	װי	Vy	_
+11	men	PRO	מען	meN	_
+12	der_nokh	DR+P	דער_נאָך	der_nAoX	_
+13	vert	RDF	װערט	Vert	_
+14	di	D	די	dy	_
+15	toyre	NPR	תּורה	Tvrh	_
+16	geben	VB	געבען	gebeN	_
+17	do	ADV	דאָ	dAo	_
+18	ver	RDF	װער	Ver	_
+19	fil	Q	פֿיל	fyl	_
+20	fayer	N	פֿײַער	fYaer	_
+21	zayn	VB	זײַן	zYaN	_
+

@@ -1,0 +1,717 @@
+SENT	1792W-HISTORIE,551.3
+1	eyn	D	אײן	AYN	_
+2	shinh	ADJ	שינה	$ynh	_
+3	historie	N	היסטאָריִע	hystAoryie	_
+4	fun	P	פֿון	fvN	_
+5	eyn	D	אײן	AYN	_
+6	palak	N	פּאַלאַק	pAalAak	_
+7	velkhi	WPRO	װעלכי	Velxy	_
+8	nakh	ADV	נ"ך	n"X	_
+9	ni_mahl	ADV	ני_מאַהל	ny_mAahl	_
+10	iz	BEF	איז	Ayz	_
+11	gedrukt	VAN	געדרוקט	gedrvkt	_
+12	vardn	RDN	װאַרדן	VAardN	_
+
+SENT	1792W-HISTORIE,551.4
+1	oyf	P	אױף	AWF	_
+2	sdrut	H	סדרוט	sdrvt	series
+3	veyz	X	װײז	VYz	_
+4	fun	P	פֿון	fvN	_
+5	brasit	H	בראַסיט	brAasyt	in_beginning
+6	biz	P	ביז	byz	_
+7	uzat	H	אוזאַט	AvzAat	and_this
+8	hbrkh	H	הברך	hbrX	the_blessing
+9	eyn	D	אײן	AYN	_
+10	gdikht	N	גדיכט	gdyxt	_
+11	vi	WADV	װי	Vy	_
+12	er	PRO	ער	er	_
+13	zeyn	PRO$	זײן	zYN	_
+14	velt_loyf	N	װעלט_לױף	Velt_lWF	_
+15	fr_brengn	VB	פֿר_ברענגן	fr_brengN	_
+16	tut	DOF	טוט	tvt	_
+17	fun	P	פֿון	fvN	_
+18	mahl	N	מאַהל	mAahl	_
+19	an	RP	אַן	AaN	_
+20	als	C	אַלס	Aals	_
+21	er	PRO	ער	er	_
+22	zikh	PRO	זיך	zyX	_
+23	eyn	D	אײן	AYN	_
+24	veyb	N	װײב	VYb	_
+25	nemt	VBF	נעמט	nemt	_
+
+SENT	1792W-HISTORIE,552.6
+1	der	D	דער	der	_
+2	an_fang	N	אַנ_פֿאַנג	Aan_fAang	_
+3	izt	VBF	איזט	Ayzt	_
+4	der	D	דער	der	_
+5	palak	N	פּאַלאַק	pAalAak	_
+6	tut	DOF	טוט	tvt	_
+7	libr	ADVR	ליבר	lybr	_
+8	den	D	דען	deN	_
+9	hlz	N	הלז	hlz	_
+10	brekhn	VB	ברעכן	brexN	_
+11	i	C	אי	Ay	_
+12	er	PRO	ער	er	_
+13	den	D	דען	deN	_
+14	tkun	N	טקון	tkvN	_
+15	brekht	VBF	ברעכט	brext	_
+
+SENT	1792W-HISTORIE,552.7
+1	tsu	P	צו	qv	_
+2	18	NUM	18	18	_
+3	yahr	N	יאַהר	yAahr	_
+4	nemt	VBF	נעמט	nemt	_
+5	er	PRO	ער	er	_
+6	zikh	PRO	זיך	zyX	_
+7	eyn	D	אײן	AYN	_
+8	vab	N	װאַב	VAab	_
+
+SENT	1792W-HISTORIE,552.8
+1	hat	VBF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	keyn	Q	קײן	kYN	_
+4	gelt	N	געלט	gelt	_
+
+SENT	1792W-HISTORIE,552.9
+1	geht	VBF	געהט	geht	_
+2	er	PRO	ער	er	_
+3	tsu	P	צו	qv	_
+4	der	D	דער	der	_
+5	srrh	N	סררה	srrh	_
+
+SENT	1792W-HISTORIE,552.10
+1	udr	CONJ	אודר	Avdr	_
+2	bargt	VBF	באַרגט	bAargt	_
+3	zikh	PRO	זיך	zyX	_
+4	geld	N	געלד	geld	_
+5	oyz	RP	אױז	AWz	_
+
+SENT	1792W-HISTORIE,552.11
+1	nakh	P	נ"ך	n"X	_
+2	der	D	דער	der	_
+3	tseyt	N	צײט	qYt	_
+4	kumt	VBF	קומט	kvmt	_
+5	di	D	די	dy	_
+6	srrh	N	סררה	srrh	_
+
+SENT	1792W-HISTORIE,552.12
+1	und	CONJ	אונד	Avnd	_
+2	zagt	VBF	זאַגט	zAagt	_
+3	palak	N	פּאַלאַק	pAalAak	_
+4	btsahl	VBI	בצאַהל	bqAahl	_
+5	mir	PRO	מיר	myr	_
+
+SENT	1792W-HISTORIE,552.13
+1	zagt	VBF	זאַגט	zAagt	_
+2	der	D	דער	der	_
+3	palk	N	פּאַלק	pAalk	_
+4	git	VBI	גיט	gyt	_
+5	tsu	RP	צו	qv	_
+
+SENT	1792W-HISTORIE,552.14
+1	zagt	VBF	זאַגט	zAagt	_
+2	der	D	דער	der	_
+3	srrh	N	סררה	srrh	_
+4	nkh	ADV	נך	nX	_
+5	iz	VBF	איז	Ayz	_
+6	mir	PRO	מיר	myr	_
+7	niks	Q	ניקס	nyks	_
+8	shuldig	ADJ	שולדיג	$vldyg	_
+
+SENT	1792W-HISTORIE,552.15
+1	zeht	VBF	זעהט	zeht	_
+2	der	D	דער	der	_
+3	palak	N	פּאַלאַק	pAalAak	_
+4	es	ES	עס	es	_
+5	kan	MDF	ק"ן	k"N	_
+6	niks	Q	ניקס	nyks	_
+7	gutts	ADJ	גוטץ	gvtQ	_
+8	der_fun	DR+P	דער_פֿון	der_fvN	_
+9	her	RP-ADV	הער	her	_
+10	kumen	VB	קומען	kvmeN	_
+
+SENT	1792W-HISTORIE,552.16
+1	giht	VBF	גיהט	gyht	_
+2	er	PRO	ער	er	_
+3	fun	P	פֿון	fvN	_
+4	pulin	NPR	פּולין	pvlyN	_
+5	nakh	P	נ"ך	n"X	_
+6	ashknz	NPR	אַשקנז	Aa$knz	_
+
+SENT	1792W-HISTORIE,552.17
+1	zeht	VBF	זעהט	zeht	_
+2	er	PRO	ער	er	_
+3	,	PUNC	,	,	_
+4	ashknz	NPR	אַשקנז	Aa$knz	_
+5	izt	VBF	איזט	Ayzt	_
+6	eyn	D	אײן	AYN	_
+7	shinh	ADJ	שינה	$ynh	_
+8	mdinh	N	מדינה	mdynh	_
+9	als	P	אַלס	Aals	_
+10	vi	P	װי	Vy	_
+11	pulin	NPR	פּולין	pvlyN	_
+
+SENT	1792W-HISTORIE,552.18
+1	nemt	VBF	נעמט	nemt	_
+2	er	PRO	ער	er	_
+3	zikh	PRO	זיך	zyX	_
+4	nakh	ADV	נ"ך	n"X	_
+5	eyn	D	אײן	AYN	_
+6	vab	N	װאַב	VAab	_
+
+SENT	1792W-HISTORIE,552.19
+1	di	D	די	dy	_
+2	heyst	VBF	הײסט	hYst	_
+3	kheysrh	NPR	כײסרה	xYsrh	_
+
+SENT	1792W-HISTORIE,552.20
+1	der	D	דער	der	_
+2	palak	N	פּאַלאַק	pAalAak	_
+3	fangt	VBF	פֿאַנגט	fAangt	_
+4	an	RP	אַן	AaN	_
+5	kindr	N	קינדר	kyndr	_
+6	tsu	TO	צו	qv	_
+7	krign	VB	קריגן	krygN	_
+
+SENT	1792W-HISTORIE,552.21
+1	und	CONJ	אונד	Avnd	_
+2	eyn	D	אײן	AYN	_
+3	polak	N	פּאָלאַק	pAolAak	_
+4	ken	MDF	קען	keN	_
+5	keynh	Q	קײנה	kYnh	_
+6	kindr	N	קינדר	kyndr	_
+7	oys	RP	אױס	AWs	_
+8	stehn	VB	סטעהן	stehN	_
+
+SENT	1792W-HISTORIE,552.22
+1	geht	VBF	געהט	geht	_
+2	er	PRO	ער	er	_
+3	fun	P	פֿון	fvN	_
+4	ashknz	NPR	אַשקנז	Aa$knz	_
+5	oykh	ADV	אױך	AWX	_
+6	eyn_vek	ADV	אײנ_װעק	AYn_Vek	_
+
+SENT	1792W-HISTORIE,552.23
+1	ibr_shikn	VBF	איבר_שיקן	Aybr_$ykN	_
+2	ihm	PRO	איהם	AyhM	_
+3	di	D	די	dy	_
+4	tsvey	NUM	צװײ	qVY	_
+5	veybr	N	װײבר	VYbr	_
+6	vau	WADV	װאַו	VAav	_
+7	der	D	דער	der	_
+8	palak	N	פּאַלאַק	pAalAak	_
+9	izt	VBF	איזט	Ayzt	_
+
+SENT	1792W-HISTORIE,552.24
+1	vau	WADV	װאַו	VAav	_
+2	zitst	VBF	זיצט	zyqt	_
+3	eyn	D	אײן	AYN	_
+4	palak	N	פּאַלאַק	pAalAak	_
+
+SENT	1792W-HISTORIE,552.25
+1	in	P	אין	AyN	_
+2	spil	N	ספּיל	spyl	_
+3	und	CONJ	אונד	Avnd	_
+4	hurn_heyzr	N	הורנ_הײזר	hvrn_hYzr	_
+
+SENT	1792W-HISTORIE,552.26
+1	mn	PRO	מן	mN	_
+2	lazt	VBF	לאַזט	lAazt	_
+3	den	D	דען	deN	_
+4	palak	N	פּאַלאַק	pAalAak	_
+5	zukhn	VB	זוכן	zvxN	_
+6	fun	P	פֿון	fvN	_
+7	eyn	D	אײן	AYN	_
+8	end	N	ענד	end	_
+9	tsu	P	צו	qv	_
+10	den	D	דען	deN	_
+11	andrn	ADJ	אַנדרן	AandrN	_
+
+SENT	1792W-HISTORIE,552.27
+1	tut	DOF	טוט	tvt	_
+2	er	PRO	ער	er	_
+3	tsu	P	צו	qv	_
+4	zi	PRO	זי	zy	_
+5	gnenn	VB	גנענן	gnenN	_
+
+SENT	1792W-HISTORIE,552.28
+1	zagn	VBF	זאַגן	zAagN	_
+2	di	D	די	dy	_
+3	veybr	N	װײבר	VYbr	_
+4-5	lebstu	VBF~PRO	לעבסטו	lebstv	_
+4	lebs	VBF	לעבס	lebs	_
+5	tu	PRO	טו	tv	_
+6	nakh	ADV	נ"ך	n"X	_
+
+SENT	1792W-HISTORIE,552.29
+1	zagt	VBF	זאַגט	zAagt	_
+2	der	D	דער	der	_
+3	palak	N	פּאַלאַק	pAalAak	_
+4	sehn	ADJ	סעהן	sehN	_
+5	ver	VBF	װער	Ver	_
+6	ez	PRO	עז	ez	_
+7	ven	C	װען	VeN	_
+8	etts	PRO	עטץ	etQ	_
+9	ali	Q	אַלי	Aaly	_
+10	beydi	Q	בײדי	bYdy	_
+11	suhn	ADV	סוהן	svhN	_
+12	tut	ADJ	טוט	tvt	_
+13	verit	VBF	װעריט	Veryt	_
+
+SENT	1792W-HISTORIE,552.30
+1	zagn	VBF	זאַגן	zAagN	_
+2	di	D	די	dy	_
+3	veybr	N	װײבר	VYbr	_
+4	nun	ADV	נ	n	_
+5-6	hastu	HVF~PRO	האַסטו	hAastv	_
+5	has	HVF	האַס	hAas	_
+6	tu	PRO	טו	tv	_
+7	dikh	PRO	דיך	dyX	_
+8	tsu	P	צו	qv	_
+9	unz	PRO	אונז	Avnz	_
+10	bvizn	VBN	בװיזן	bVyzN	_
+
+SENT	1792W-HISTORIE,552.31
+1	kum	VBI	קום	kvM	_
+2	mir	PRO	מיר	myr	_
+3	velin	MDF	װעלין	VelyN	_
+4	zikh	PRO	זיך	zyX	_
+5	getn	VB	גטן	gtN	_
+
+SENT	1792W-HISTORIE,552.32
+1	shikt	VBF	שיקט	$ykt	_
+2	mn	PRO	מן	mN	_
+3	dn	D	דן	dN	_
+4	palak	N	פּאַלאַק	pAalAak	_
+
+SENT	1792W-HISTORIE,552.33
+1	makht	VBF	מאַכט	mAaxt	_
+2	:	PUNC	:	:	_
+3	kl	H	קל	kl	all
+4	itr	H	איטר	Aytr	addition
+5	kn	H	קן	kN	yes
+6	ntl	H	נטל	ntl	took
+7	dmh	H	דמה	dmh	value
+
+SENT	1792W-HISTORIE,552.34
+1	zetst	VBF	זעצט	zeqt	_
+2	zikh	PRO	זיך	zyX	_
+3	ds	D	דס	ds	_
+4	grikht	N	גריכט	gryxt	_
+
+SENT	1792W-HISTORIE,552.35
+1	und	CONJ	אונד	Avnd	_
+2	zagt	VBF	זאַגט	zAagt	_
+3	an	RP	אַן	AaN	_
+4	du	PRO	דו	dv	_
+5	zalst	MDF	זאַלסט	zAalst	_
+6	dikh	PRO	דיך	dyX	_
+7	mit	P	מיט	myt	_
+8	eyne	PRO	אײנע	AYne	_
+9	fun	P	פֿון	fvN	_
+10	di	D	די	dy	_
+11	tsvey	NUM	צװײ	qVY	_
+12	veybr	N	װײבר	VYbr	_
+13	sheydn	VB	שײדן	$YdN	_
+
+SENT	1792W-HISTORIE,552.36
+1	man	PRO	מאַן	mAaN	_
+2	tut	DOF	טוט	tvt	_
+3	gbitn	VB	גביטן	gbytN	_
+4	makhn	VBF	מאַכן	mAaxN	_
+5	mir	PRO	מיר	myr	_
+6	eyn	D	אײן	AYN	_
+7	tsum	N	צום	qvM	_
+8	vau	WADV	װאַו	VAav	_
+9	mir	PRO	מיר	myr	_
+10	pskinn	VB	פּסקינן	pskynN	_
+11	zalin	MDF	זאַלין	zAalyN	_
+
+SENT	1792W-HISTORIE,552.37
+1	zamlt	VBF	זאַמלט	zAamlt	_
+2	zikh	PRO	זיך	zyX	_
+3	ds	D	דס	ds	_
+4	gantsi	ADJ	גאַנצי	gAanqy	_
+5	bit_din	N	ביט_דין	byt_dyN	court
+
+SENT	1792W-HISTORIE,553.39
+1	ruft	VBF	רופֿט	rvft	_
+2	mn	PRO	מן	mN	_
+3	den	D	דען	deN	_
+4	palak	N	פּאַלאַק	pAalAak	_
+
+SENT	1792W-HISTORIE,553.40
+1	gbitt	VBF	גביטט	gbytt	_
+2	man	PRO	מאַן	mAaN	_
+3	ihm	PRO	איהם	AyhM	_
+4	er	PRO	ער	er	_
+5	zal	MDF	ז"ל	z"l	_
+6	eyne	PRO	אײנע	AYne	_
+7	fun	P	פֿון	fvN	_
+8	di	D	די	dy	_
+9	tsvey	ADJ	צװײ	qVY	_
+10	veybr	N	װײבר	VYbr	_
+11	gt	NPR	גט	gt	_
+12	gebn	VB	געבן	gebN	_
+
+SENT	1792W-HISTORIE,553.41
+1	zagt	VBF	זאַגט	zAagt	_
+2	der	D	דער	der	_
+3	palak	N	פּאַלאַק	pAalAak	_
+4	gibt	VBI	גיבט	gybt	_
+5	mir	PRO	מיר	myr	_
+6	akht	NUM	אַכט	Aaxt	_
+7	tag	N	תּג	Tg	_
+8	tseyt	N	צײט	qYt	_
+
+SENT	1792W-HISTORIE,553.42
+1	ikh	PRO	איך	AyX	_
+2	veri	RDF	װערי	Very	_
+3	mikh	PRO	מיך	myX	_
+4	bezinn	VB	בעזינן	bezynN	_
+5	velkhe	WPRO	װעלכע	Velxe	_
+6	ikh	PRO	איך	AyX	_
+7	zal	MDF	ז"ל	z"l	_
+8	gt	NPR	גט	gt	_
+9	gebn	VB	געבן	gebN	_
+
+SENT	1792W-HISTORIE,553.43
+1	nun	ADV	נ	n	_
+2	kumn	VBF	קומן	kvmN	_
+3	di	D	די	dy	_
+4	tsvey	NUM	צװײ	qVY	_
+5	veybr	N	װײבר	VYbr	_
+6	tsu_zam	ADV	צו_זאַם	qv_zAaM	_
+
+SENT	1792W-HISTORIE,553.44
+1	ds	D	דס	ds	_
+2	izt	VBF	איזט	Ayzt	_
+3	di	D	די	dy	_
+4	eyne	ADJ	אײנע	AYne	_
+5	zagt	VBF	זאַגט	zAagt	_
+
+SENT	1792W-HISTORIE,553.45
+1	di	D	די	dy	_
+2	andri	ADJ	אַנדרי	Aandry	_
+3	zagt	VBF	זאַגט	zAagt	_
+
+SENT	1792W-HISTORIE,553.46
+1	eynh	PRO	אײנה	AYnh	_
+2	zagt	VBF	זאַגט	zAagt	_
+3	ikh	PRO	איך	AyX	_
+4	valt	VBF	װאַלט	VAalt	_
+5	du	PRO	דו	dv	_
+6	verist	BEF	װעריסט	Veryst	_
+7	shuhn	ADV	שוהן	$vhN	_
+8	lang	ADV	לאַנג	lAang	_
+9	gstarbn	VBN	גסטאַרבן	gstAarbN	_
+
+SENT	1792W-HISTORIE,553.47
+1	di	D	די	dy	_
+2	andri	ADJ	אַנדרי	Aandry	_
+3	zagt	VBF	זאַגט	zAagt	_
+4	ikh	PRO	איך	AyX	_
+5	valt	VBF	װאַלט	VAalt	_
+6	du	PRO	דו	dv	_
+7	verist	BEF	װעריסט	Veryst	_
+8	eyn	D	אײן	AYN	_
+9	kdush	N	קדוש	kdv$	_
+10	gvarn	VBN	גװאַרן	gVAarN	_
+11	fr	P	פֿר	fr	_
+12	der	D	דער	der	_
+13	khtunh	N	כטונה	xtvnh	_
+
+SENT	1792W-HISTORIE,553.48
+1	hetin	HVF	העטין	hetyN	_
+2	mir	PRO	מיר	myr	_
+3	aliz	Q	אַליז	Aalyz	_
+4	er_spart	VBN	ער_ספּאַרט	er_spAart	_
+
+SENT	1792W-HISTORIE,553.49
+1	zagt	VBF	זאַגט	zAagt	_
+2	der	D	דער	der	_
+3	palak	N	פּאַלאַק	pAalAak	_
+4	ikh	PRO	איך	AyX	_
+5	ver	RDF	װער	Ver	_
+6	enk	PRO	ענק	enk	_
+7	veytr	ADV	װײטר	VYtr	_
+8	yagn	VB	יאַגן	yAagN	_
+
+SENT	1792W-HISTORIE,553.50
+1	loyft	VBF	לױפֿט	lWft	_
+2	er	PRO	ער	er	_
+3	ibr	P	איבר	Aybr	_
+4	di	D	די	dy	_
+5	berg	N	בערג	berg	_
+6	nakh	P	נ"ך	n"X	_
+7	pulin	NPR	פּולין	pvlyN	_
+
+SENT	1792W-HISTORIE,553.51
+1	lazt	VBF	לאַזט	lAazt	_
+2	er	PRO	ער	er	_
+3	zikh	PRO	זיך	zyX	_
+4	di	D	די	dy	_
+5	tukhkhh	N	טוככה	tvxxh	_
+6	far	RP	פֿאַר	fAar	_
+7	leyann	VB	לײאַנן	lYAanN	_
+
+SENT	1792W-HISTORIE,553.52
+1	brumt	VBF	ברומט	brvmt	_
+2	er	PRO	ער	er	_
+3	7_1/2	NUM	7_1/2	7_1/2	_
+4	grashin	N	גראַשין	grAa$yN	_
+
+SENT	1792W-HISTORIE,553.53
+1	izt	VBF	איזט	Ayzt	_
+2	er	PRO	ער	er	_
+3	in	P	אין	AyN	_
+4	pulin	NPR	פּולין	pvlyN	_
+5	eyn	D	אײן	AYN	_
+6	ktsin	N	קצין	kqyN	_
+
+SENT	1792W-HISTORIE,553.54
+1	loyft	VBF	לױפֿט	lWft	_
+2	er	PRO	ער	er	_
+3	in	P	אין	AyN	_
+4	der	D	דער	der	_
+5	mdbr	N	מדבר	mdbr	_
+
+SENT	1792W-HISTORIE,553.55
+1	vert	RDF	װערט	Vert	_
+2	er	PRO	ער	er	_
+3	gfangin	VAN	גפֿאַנגין	gfAangyN	_
+
+SENT	1792W-HISTORIE,553.56
+1	fr	P	פֿר	fr	_
+2	gzirut	H	גזירוט	gzyrvt	decrees
+3	tsindt	VBF	צינדט	qyndt	_
+4	er	PRO	ער	er	_
+5	zikh	PRO	זיך	zyX	_
+6	di	D	די	dy	_
+7	luzge	N	לוזגע	lvzge	_
+8	an	RP	אַן	AaN	_
+9	mit	P	מיט	myt	_
+10	brantiveyn	N	בראַנטיװײן	brAantyVYN	_
+
+SENT	1792W-HISTORIE,553.57
+1	un	CONJ	און	AvN	_
+2	vert	VBF	װערט	Vert	_
+3	krank	ADJ	קראַנק	krAank	_
+
+SENT	1792W-HISTORIE,553.58
+1	vau	WADV	װאַו	VAav	_
+2	shikt	VBF	שיקט	$ykt	_
+3	mn	PRO	מן	mN	_
+4	eyn	D	אײן	AYN	_
+5	krankin	N	קראַנקין	krAankyN	_
+6	ahin	ADV	אַהין	AahyN	_
+7	?	PUNC	?	?	_
+
+SENT	1792W-HISTORIE,553.59
+1	fun	P	פֿון	fvN	_
+2	eyn	D	אײן	AYN	_
+3	hkds	N	הקדס	hkds	_
+4	tsu	P	צו	qv	_
+5	den	D	דען	deN	_
+6	den	D	דען	deN	_
+7	andrn	ADJ	אַנדרן	AandrN	_
+8	hkds	N	הקדס	hkds	_
+
+SENT	1792W-HISTORIE,553.60
+1	fragn	VBF	פֿראַגן	frAagN	_
+2	ihm	PRO	איהם	AyhM	_
+3	di	D	די	dy	_
+4	gbaim	N	גבאַיִם	gbAayiM	_
+5	vaz	WPRO	װאַז	VAaz	_
+6	foylt	VBF	פֿױלט	fWlt	_
+7	oykh	PRO	אױך	AWX	_
+
+SENT	1792W-HISTORIE,553.61
+1	zagt	VBF	זאַגט	zAagt	_
+2	der	D	דער	der	_
+3	palak	N	פּאַלאַק	pAalAak	_
+4	krkh	N	קרך	krX	_
+5	makht	VBF	מאַכט	mAaxt	_
+6	kdkht	H	קדכט	kdxt	fever
+7	rbieit	H	רביִעיט	rbyieyt	fourth
+8	khulat	H	כולאַט	xvlAat	sick
+
+SENT	1792W-HISTORIE,553.62
+1	ds	D	דס	ds	_
+2	zeynn	VBF	זײנן	zYnN	_
+3	di	D	די	dy	_
+4	gzetts	N	גזעטץ	gzetQ	_
+5	fun	P	פֿון	fvN	_
+6	blk	X	בלק	blk	_
+7	makht	VBF	מאַכט	mAaxt	_
+8	brantveyn	N	בראַנטװײן	brAantVYN	_
+9	lidrlikh	N	לידרליך	lydrlyX	_
+10	kartn	N	קאַרטן	kAartN	_
+
+SENT	1792W-HISTORIE,554.64
+1	nun	ADV	נ	n	_
+2	hibt	VBF	היבט	hybt	_
+3	der	D	דער	der	_
+4	palak	N	פּאַלאַק	pAalAak	_
+5	an	RP	אַן	AaN	_
+6	eykhus	N	אײכוס	AYxvs	_
+7	tsu	TO	צו	qv	_
+8	rekhnn	VB	רעכנן	rexnN	_
+
+SENT	1792W-HISTORIE,554.65
+1	r'	NPR	ר'	r'	_
+2	tudrum	NPR	טודרום	tvdrvM	_
+3	izt	BEF	איזט	Ayzt	_
+4	meyn	PRO$	מײן	mYN	_
+5	zidh	N	זידה	zydh	_
+6	gvezn	VBN	גװעזן	gVezN	_
+
+SENT	1792W-HISTORIE,554.66
+1	r'	NPR	ר'	r'	_
+2	septl	NPR	סעפּטל	septl	_
+3	izt	BEF	איזט	Ayzt	_
+4	meyn	PRO$	מײן	mYN	_
+5	fetr	N	פֿעטר	fetr	_
+6	gvezn	VBN	גװעזן	gVezN	_
+
+SENT	1792W-HISTORIE,554.67
+1	nun	ADV	נ	n	_
+2	izt	BEF	איזט	Ayzt	_
+3	bn	NPR	בן	bN	_
+4	aliezr	NPR	אַליִעזר	Aalyiezr	_
+5	bn	NPR	בן	bN	_
+6	ahrn	NPR	אַהרן	AahrN	_
+7	hkhhn	NPR	הכהן	hxhN	_
+8	meyn	PRO$	מײן	mYN	_
+9	tatin	N	טאַטין	tAatyN	_
+10	svestr	N	סװעסטר	sVestr	_
+11	takhtr	N	טאַכטר	tAaxtr	_
+12	givezin	VBN	גיװעזין	gyVezyN	_
+
+SENT	1792W-HISTORIE,554.68
+1	heyst	VBF	הײסט	hYst	_
+2	di	D	די	dy	_
+3	srrh	N	סררה	srrh	_
+
+SENT	1792W-HISTORIE,554.69
+1	heyst	VBF	הײסט	hYst	_
+2	der	D	דער	der	_
+3	palak	N	פּאַלאַק	pAalAak	_
+
+SENT	1792W-HISTORIE,554.70
+1	nun	ADV	נ	n	_
+2	izt	VBF	איזט	Ayzt	_
+3	di	D	די	dy	_
+4	srrh	N	סררה	srrh	_
+5	und	CONJ	אונד	Avnd	_
+6	der	D	דער	der	_
+7	palak	N	פּאַלאַק	pAalAak	_
+8	in	P	אין	AyN	_
+9	di	D	די	dy	_
+10	klem	N	קלעם	kleM	_
+
+SENT	1792W-HISTORIE,554.71
+1	das	D	דת	dS	_
+2	zeyn	VBF	זײן	zYN	_
+3	di	D	די	dy	_
+4	straf_rid	N	סטראַפֿ_ריד	strAaf_ryd	_
+
+SENT	1792W-HISTORIE,554.72
+1	zagt	VBF	זאַגט	zAagt	_
+2	der	D	דער	der	_
+3	srrh	N	סררה	srrh	_
+4	ikh	PRO	איך	AyX	_
+5	bet	VBF	בעט	bet	_
+6	dikh	PRO	דיך	dyX	_
+7	palak	N	פּאַלאַק	pAalAak	_
+8	btsal	VBI	בצאַל	bqAal	_
+9	mir	PRO	מיר	myr	_
+
+SENT	1792W-HISTORIE,554.73
+1	vau	C	װאַו	VAav	_
+2	nit	NEG	ניט	nyt	_
+3	drum	DR+P	דרום	drvM	_
+4	azu	ADV	אַזו	Aazv	_
+5	ver	BEF	װער	Ver	_
+6	s	PRO	ס	s	_
+7	dr_zehn	VAG	דר_זעהן	dr_zehN	_
+
+SENT	1792W-HISTORIE,554.74
+1	ikh	PRO	איך	AyX	_
+2	ver	RDF	װער	Ver	_
+3	dikh	PRO	דיך	dyX	_
+4	durkh	P	דורך	dvrX	_
+5	eyn	D	אײן	AYN	_
+6	stroys	N	סטרױס	strWs	_
+7	lazn	VB	לאַזן	lAazN	_
+8	in	P	אין	AyN	_
+9	der	D	דער	der	_
+10	tfish	N	טפֿיש	tfy$	_
+11	shmeysn	VB	שמײסן	$mYsN	_
+
+SENT	1792W-HISTORIE,554.75
+1	zagt	VBF	זאַגט	zAagt	_
+2	der	D	דער	der	_
+3	palk	N	פּאַלק	pAalk	_
+4	i	C	אי	Ay	_
+5	du	PRO	דו	dv	_
+6	verst	RDF	װערסט	Verst	_
+7	aroyz	ADV	אַרױז	AarWz	_
+8	gihn	VB	גיהן	gyhN	_
+9	ven	C	װען	VeN	_
+10	du	PRO	דו	dv	_
+11	verst	RDF	װערסט	Verst	_
+12	areyn	ADV	אַרײן	AarYN	_
+13	kumn	VB	קומן	kvmN	_
+14	ver	RDF	װער	Ver	_
+15	ikh	PRO	איך	AyX	_
+16	mikh	PRO	מיך	myX	_
+17	stelin	VB	סטעלין	stelyN	_
+
+SENT	1792W-HISTORIE,554.76
+1	ver	RDF	װער	Ver	_
+2	ikh	PRO	איך	AyX	_
+3	gehn	VB	געהן	gehN	_
+
+SENT	1792W-HISTORIE,554.77
+1	und	CONJ	אונד	Avnd	_
+2	ver	RDF	װער	Ver	_
+3	meynh	PRO$	מײנה	mYnh	_
+4	subitsh	N	סוביטש	svbyt$	_
+5	mit	P	מיט	myt	_
+6	zilbri	ADJ	זילברי	zylbry	_
+7	heklikh	N	העקליך	heklyX	_
+8	fr_koyfn	VB	פֿר_קױפֿן	fr_kWfN	_
+
+SENT	1792W-HISTORIE,554.78
+1	ver	RDF	װער	Ver	_
+2	ikh	PRO	איך	AyX	_
+3	krign	VB	קריגן	krygN	_
+4	drey	NUM	דרײ	drY	_
+5	pulish	ADJ	פּוליש	pvly$	_
+6	gildn	N	גילדן	gyldN	_
+
+SENT	1792W-HISTORIE,554.79
+1	verst	RDF	װערסט	Verst	_
+2	du	PRO	דו	dv	_
+3	mikh	PRO	מיך	myX	_
+4	fr_nemn	VB	פֿר_נעמן	fr_nemN	_
+
+SENT	1792W-HISTORIE,554.80
+1	und	CONJ	אונד	Avnd	_
+2	verst	RDF	װערסט	Verst	_
+3	du	PRO	דו	dv	_
+4	nemn	VB	נעמן	nemN	_
+5	di	D	די	dy	_
+6	drey	NUM	דרײ	drY	_
+7	pulish	ADJ	פּוליש	pvly$	_
+8	gildn	N	גילדן	gyldN	_
+
+SENT	1792W-HISTORIE,554.81
+1	verst	RDF	װערסט	Verst	_
+2	du	PRO	דו	dv	_
+3	der_mit	DR+P	דער_מיט	der_myt	_
+4	habn	VB	האַבן	hAabN	_
+5	mzl	H	מזל	mzl	luck
+6	ubrkhh	H	אוברכה	Avbrxh	and_blessing
+

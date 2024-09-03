@@ -1,0 +1,7217 @@
+SENT	1507W-BOVO,Title.3
+1	bovo	NPR	באָװאָ	bAoVAo	_
+2	dantuna	NPR	דאַנטונאַ	dAantvnAa	_
+3	heyst	VBF	הײסט	hYst	_
+4	ds	D	דס	ds	_
+5	bukh	N	בוך	bvX	_
+6	eyn	D	אײן	AYN	_
+7	hupsh	ADJ	הופּש	hvp$	_
+8	gitrekht	N	גיטרעכט	gytrext	_
+
+SENT	1507W-BOVO,Title.4
+1	mn	PRO	מן	mN	_
+2	kent	VBF	קענט	kent	_
+3	val	ADV	װאַל	VAal	_
+4	alih	NPR	אַליה	Aalyh	_
+5	bhur	NPR	בהור	bhvr	_
+6	s	PRO	ס	s	_
+7	gimekht	VBF	גימעכט	gymext	_
+
+SENT	1507W-BOVO,Title.5
+1	iz	BEF	איז	Ayz	_
+2	vardn	RDN	װאַרדן	VAardN	_
+3	gidrukt	VAN	גידרוקט	gydrvkt	_
+4	tsu	P	צו	qv	_
+5	eyznh	NPR	אײזנה	AYznh	_
+6	in	P	אין	AyN	_
+7	der	D	דער	der	_
+8	stat	N	סטאַט	stAat	_
+
+SENT	1507W-BOVO,Title.6
+1	un	CONJ	און	AvN	_
+2	alih	NPR	אַליה	Aalyh	_
+3	hmkhbr	NPR	המכבר	hmxbr	_
+4	iz	VBF	איז	Ayz	_
+5	gleykh	P	גלײך	glYX	_
+6	ds	D	דס	ds	_
+7	port	N	פּאָרט	pAort	_
+
+SENT	1507W-BOVO,Preface.8
+1	ir	PRO	איר	Ayr	_
+2	alih	NPR	אַליה	Aalyh	_
+3	lvi	NPR	לװי	lVy	_
+4	der	D	דער	der	_
+5	shreybr	N	שרײבר	$rYbr	_
+6	dinr	N	דינר	dynr	_
+7	alr	Q	אַלר	Aalr	_
+8	vrumn	ADJ	װרומן	VrvmN	_
+9	veybr	N	װײבר	VYbr	_
+10	mit	P	מיט	myt	_
+11	irn	N	אירן	AyrN	_
+12	un'	CONJ	אונ'	Avn'	_
+13	mit	P	מיט	myt	_
+14	tsukhtn	N	צוכטן	qvxtN	_
+15	un'	CONJ	אונ'	Avn'	_
+16	ikh	PRO	איך	AyX	_
+17	lus	VBF	לוס	lvs	_
+18	mikh	PRO	מיך	myX	_
+19	alzu	ADV	אַלזו	Aalzv	_
+20	bidukhtn	VB	בידוכטן	bydvxtN	_
+
+SENT	1507W-BOVO,Preface.9
+1	un'	CONJ	אונ'	Avn'	_
+2	shtit	VBF	שטיט	$tyt	_
+3	oykh	ADV	אױך	AWX	_
+4	val	ADV	װאַל	VAal	_
+5	tsu	TO	צו	qv	_
+6	glbn	VB	גלבן	glbN	_
+7	ds	C	דס	ds	_
+8	mir	PRO	מיר	myr	_
+9	etlikhi	Q	עטליכי	etlyxy	_
+10	vroyan	N	װרױאַן	VrWAaN	_
+11	vur	P	װוּר	VUr	_
+12	ubl	N	אובל	Avbl	_
+13	hbn	VBF	הבן	hbN	_
+14	varum	WPRO+P	װאַרום	VAarvM	_
+15	ikh	PRO	איך	AyX	_
+16	nit	NEG	ניט	nyt	_
+17	oykh	ADV	אױך	AWX	_
+18	vur	P	װוּר	VUr	_
+19	zi	PRO	זי	zy	_
+20	druk	VBF	דרוק	drvk	_
+21	eynr	D	אײנר	AYnr	_
+22	toytsh	ADJ	טױטש	tWt$	_
+23	bukhr	N	בוכר	bvxr	_
+24	eyn	D	אײן	AYN	_
+25	shtuk	N	שטוק	$tvk	_
+26	ds	C	דס	ds	_
+27	zi	PRO	זי	zy	_
+28	zikh	PRO	זיך	zyX	_
+29	mugn	MDF	מוגן	mvgN	_
+30	dinn	ADV	דינן	dynN	_
+31	dr_meyan	VB	דר_מײאַן	dr_mYAaN	_
+32	un'	CONJ	אונ'	Avn'	_
+33	sbthuth	N	סבטהוטה	sbthvth	_
+34	un'	CONJ	אונ'	Avn'	_
+35	imim_tuvim	N	אימימ_טוּװים	Aymym_tUVyM	_
+36	dinn	ADV	דינן	dynN	_
+37	leyan	VB	לײאַן	lYAaN	_
+
+SENT	1507W-BOVO,Preface.10
+1	nun	INTJ	נ	n	_
+2	di	D	די	dy	_
+3	varheyt	N	װאַרהײט	VAarhYt	_
+4	zgn	VB	זגן	zgN	_
+5	vil	MDF	װיל	Vyl	_
+6	ikh	PRO	איך	AyX	_
+
+SENT	1507W-BOVO,Preface.11
+1	ez	ES	עז	ez	_
+2	dukht	VBF	דוכט	dvxt	_
+3	mikh	PRO	מיך	myX	_
+4	oykh	ADV	אױך	AWX	_
+5	zeyn	VB	זײן	zYN	_
+6	rekht	ADJ	רעכט	rext	_
+7	un'	CONJ	אונ'	Avn'	_
+8	bilikh	ADJ	ביליך	bylyX	_
+
+SENT	1507W-BOVO,Preface.12
+1	da_veyl	C	דאַ_װײל	dAa_VYl	_
+2	ikh	PRO	איך	AyX	_
+3	in	P	אין	AyN	_
+4	der	D	דער	der	_
+5	heylign	ADJ	הײליגן	hYlygN	_
+6	gishrift	N	גישריפֿט	gy$ryft	_
+7	ekht	NUM	עכט	ext	_
+8	udr	CONJ	אודר	Avdr	_
+9	noyn	NUM	נױן	nWN	_
+10	bukhr	N	בוכר	bvxr	_
+11	hun	HVF	הון	hvN	_
+12	gishtift	VBN	גישטיפֿט	gy$tyft	_
+13	un'	CONJ	אונ'	Avn'	_
+14	mit	P	מיט	myt	_
+15	der	D	דער	der	_
+16	druk	N	דרוק	drvk	_
+17	in	P	אין	AyN	_
+18	di	D	די	dy	_
+19	velt	N	װעלט	Velt	_
+20	hun	HVF	הון	hvN	_
+21	mkhn	VBN	מכן	mxN	_
+22	kumn	VB	קומן	kvmN	_
+23	za	ADV	זאַ	zAa	_
+24	hun	HVF	הון	hvN	_
+25	ikh	PRO	איך	AyX	_
+26	mir	PRO	מיר	myr	_
+27	oykh	ADV	אױך	AWX	_
+28	bur	RP	בור	bvr	_
+29	ginumn	VBN	גינומן	gynvmN	_
+
+SENT	1507W-BOVO,Preface.13
+1	di_veyl	C	די_װײל	dy_VYl	_
+2	ikh	PRO	איך	AyX	_
+3	halt	VBF	האַלט	hAalt	_
+4	an	P	אַן	AaN	_
+5	end	N	ענד	end	_
+6	meynr	PRO$	מײנר	mYnr	_
+7	tagn	N	תּגין	TgyN	_
+8	un'	CONJ	אונ'	Avn'	_
+9	hoyt	ADV	הױט	hWt	_
+10	udr	CONJ	אודר	Avdr	_
+11	murgn	ADV	מורגן	mvrgN	_
+12	kir	VBF	קיר	kyr	_
+13	ikh	PRO	איך	AyX	_
+14	oyf	RP	אױף	AWF	_
+15	di	D	די	dy	_
+16	gagn	N	גאַגן	gAagN	_
+17	da	ADV	דאַ	dAa	_
+18	vern	RDF	װערן	VerN	_
+19	al	Q	אַל	Aal	_
+20	meyni	PRO$	מײני	mYny	_
+21	bukhr	N	בוכר	bvxr	_
+22	un'	CONJ	אונ'	Avn'	_
+23	meyni	PRO$	מײני	mYny	_
+24	lidr	N	לידר	lydr	_
+25	vr_gesn	VAN	װר_געסן	Vr_gesN	_
+26	un'	CONJ	אונ'	Avn'	_
+27	giligt	VAN	גיליגט	gylygt	_
+28	dr_nidr	ADV	דר_נידר	dr_nydr	_
+
+SENT	1507W-BOVO,Preface.14
+1	drum	DR+P	דרום	drvM	_
+2	zul	MDF	זול	zvl	_
+3	mir	PRO	מיר	myr	_
+4	keyns	Q	קײנס	kYns	_
+5	dr_vun	DR+P	דר_װוּן	dr_VUN	_
+6	rukn	VB	רוקן	rvkN	_
+
+SENT	1507W-BOVO,Preface.15
+1	ikh	PRO	איך	AyX	_
+2	vil	MDF	װיל	Vyl	_
+3	zi	PRO	זי	zy	_
+4	al	Q	אַל	Aal	_
+5	nukh	P	נוך	nvX	_
+6	anndr	PRO	אַננדר	Aanndr	_
+7	drukn	VB	דרוקן	drvkN	_
+
+SENT	1507W-BOVO,Preface.16
+1	un'	CONJ	אונ'	Avn'	_
+2	vern	VBF	װערן	VerN	_
+3	ir	PRO	איר	Ayr	_
+4	hlt	ADV	הלט	hlt	_
+5	nukh	ADV	נוך	nvX	_
+6	azu	ADV	אַזו	Aazv	_
+7	vil	Q	װיל	Vyl	_
+8	vert	VBF	װערט	Vert	_
+9	ir	PRO	איר	Ayr	_
+10	andrs	ADV	אַנדרס	Aandrs	_
+11	nit	NEG	ניט	nyt	_
+12	tsu	ADV	צו	qv	_
+13	kurts	ADJ	קורץ	kvrQ	_
+14	ds	D	דס	ds	_
+15	tsil	N	ציל	qyl	_
+
+SENT	1507W-BOVO,Preface.17
+1	un'	CONJ	אונ'	Avn'	_
+2	vil	MDF	װיל	Vyl	_
+3	an	RP	אַן	AaN	_
+4	hibn	VB	היבן	hybN	_
+5	bseh	H	בסעה	bseh	at_time
+6	tuvh	H	טוּװה	tUVh	good
+7	an	P	אַן	AaN	_
+8	dem	D	דעם	deM	_
+9	duzign	ADJ	דוזיגן	dvzygN	_
+10	bukh	N	בוך	bvX	_
+11	ds	WPRO	דס	ds	_
+12	da	ADV	דאַ	dAa	_
+13	heyst	VBF	הײסט	hYst	_
+14	buvo	NPR	בוּװאָ	bUVAo	_
+
+SENT	1507W-BOVO,Preface.18
+1	un'	CONJ	אונ'	Avn'	_
+2	ds	D	דס	ds	_
+3	iz	VBF	איז	Ayz	_
+4	verlikh	ADV	װערליך	VerlyX	_
+5	un'	CONJ	אונ'	Avn'	_
+6	gut	ADV	גוט	gvt	_
+7	var	ADJ	װאַר	VAar	_
+8	ds	C	דס	ds	_
+9	ez	ES	עז	ez	_
+10	iz	VBF	איז	Ayz	_
+11	nun	ADV	נ	n	_
+12	vir_un'_dreysig	NUM	װיר_ונ'_דרײסיג	Vyr_vn'_drYsyg	_
+13	yar	N	יאַר	yAar	_
+14	ds	C	דס	ds	_
+15	ikh	PRO	איך	AyX	_
+16	es	PRO	עס	es	_
+17	oyz	P	אױז	AWz	_
+18	eynm	D	אײנם	AYnM	_
+19	vels	ADJ	װעלס	Vels	_
+20	bukh	N	בוך	bvX	_
+21	hun	HVF	הון	hvN	_
+22	gimakht	VBN	גימאַכט	gymAaxt	_
+
+SENT	1507W-BOVO,Preface.19
+1	abr	CONJ	אַבר	Aabr	_
+2	vil	Q	װיל	Vyl	_
+3	hun	HVF	הון	hvN	_
+4	ikh	PRO	איך	AyX	_
+5	dr_tsu	DR+P	דר_צו	dr_qv	_
+6	gitrakht	VBN	גיטראַכט	gytrAaxt	_
+
+SENT	1507W-BOVO,Preface.20
+1	ver	WPRO	װער	Ver	_
+2	dinn	ADV	דינן	dynN	_
+3	leyt	VBF	לײט	lYt	_
+4	der	D	דער	der	_
+5	vert	VBF	װערט	Vert	_
+6	ez	PRO	עז	ez	_
+7	inn	RP	אינן	AynN	_
+
+SENT	1507W-BOVO,Preface.21
+1	abr	CONJ	אַבר	Aabr	_
+2	ez	ES	עז	ez	_
+3	zeyn	VBF	זײן	zYN	_
+4	etlikhi	Q	עטליכי	etlyxy	_
+5	velshi	ADJ	װעלשי	Vel$y	_
+6	vertr	N	װערטר	Vertr	_
+7	dinn	ADV	דינן	dynN	_
+
+SENT	1507W-BOVO,Preface.22
+1	ver	WPRO	װער	Ver	_
+2	zi	PRO	זי	zy	_
+3	nit	NEG	ניט	nyt	_
+4	vur_stit	VBF	װוּר_סטיט	VUr_styt	_
+5	der	D	דער	der	_
+6	zukh	VBF	זוך	zvX	_
+7	an	P	אַן	AaN	_
+8	dem	D	דעם	deM	_
+9	alr_hintrstn	ADJ	אַלר_הינטרסטן	Aalr_hyntrstN	_
+10	bletln	N	בלעטלן	bletlN	_
+11	in	P	אין	AyN	_
+12	dem	D	דעם	deM	_
+13	bukh	N	בוך	bvX	_
+
+SENT	1507W-BOVO,Preface.23
+1	da	ADV	דאַ	dAa	_
+2	vil	MDF	װיל	Vyl	_
+3	ikh	PRO	איך	AyX	_
+4	zi	PRO	זי	zy	_
+5	oyz	RP	אױז	AWz	_
+6	lign	VB	ליגן	lygN	_
+7	veydlikh	ADV	װײדליך	VYdlyX	_
+8	nukh	P	נוך	nvX	_
+9	dem	D	דעם	deM	_
+10	alf_bit	N	אַלפֿ_ביט	Aalf_byt	_
+11	gr	ADV	גר	gr	_
+12	bisheydlikh	ADV	בישײדליך	by$YdlyX	_
+
+SENT	1507W-BOVO,Preface.24
+1	abr	CONJ	אַבר	Aabr	_
+2	der	D	דער	der	_
+3	nigun	N	ניגון	nygvN	_
+4	der	WPRO	דער	der	_
+5	dahroyf	DR+P	דאַהרױף	dAahrWF	_
+6	vert	RDF	װערט	Vert	_
+7	gin	VB	גין	gyN	_
+8	den	D	דען	deN	_
+9	kan	MDF	ק"ן	k"N	_
+10	ikh	PRO	איך	AyX	_
+11	oykh	PRO	אױך	AWX	_
+12	nit	NEG	ניט	nyt	_
+13	gebn	VB	געבן	gebN	_
+14	tsu	TO	צו	qv	_
+15	vur_stin	VB	װוּר_סטין	VUr_styN	_
+
+SENT	1507W-BOVO,Preface.25
+1	den	C	דען	deN	_
+2	eynr	PRO	אײנר	AYnr	_
+3	kunt	VBF	קונט	kvnt	_
+4	muzigh	N	מוזיגה	mvzygh	_
+5	udr	CONJ	אודר	Avdr	_
+6	sulfh	N	סולפֿה	svlfh	_
+7	za	ADV	זאַ	zAa	_
+8	valt	MDF	װאַלט	VAalt	_
+9	ikh	PRO	איך	AyX	_
+10	im	PRO	אים	AyM	_
+11	val	ADV	װאַל	VAal	_
+12	hbn	HV	הבן	hbN	_
+13	gihulfn	VBN	גיהולפֿן	gyhvlfN	_
+
+SENT	1507W-BOVO,Preface.26
+1	abr	CONJ	אַבר	Aabr	_
+2	ikh	PRO	איך	AyX	_
+3	zing	VBF	זינג	zyng	_
+4	es	PRO	עס	es	_
+5	mit	P	מיט	myt	_
+6	eynm	D	אײנם	AYnM	_
+7	velshn	ADJ	װעלשן	Vel$N	_
+8	giznk	N	גיזנק	gyznk	_
+
+SENT	1507W-BOVO,Preface.27
+1	kan	MDF	ק"ן	k"N	_
+2	er	PRO	ער	er	_
+3	droyf	DR+P	דרױף	drWF	_
+4	mkhn	VB	מכן	mxN	_
+5	eyn	D	אײן	AYN	_
+6	bizrn	ADJR	ביזרן	byzrN	_
+7	za	ADV	זאַ	zAa	_
+8	hb	VBF	הב	hb	_
+9	er	PRO	ער	er	_
+10	dank	N	דאַנק	dAank	_
+
+SENT	1507W-BOVO,1.29
+1	gut	N	גוט	gvt	_
+2	den	D	דען	deN	_
+3	zul	MDF	זול	zvl	_
+4	mn	PRO	מן	mN	_
+5	ibig	ADV	איביג	Aybyg	_
+6	lubn	VB	לובן	lvbN	_
+
+SENT	1507W-BOVO,1.30
+1	un'	CONJ	אונ'	Avn'	_
+2	zeyni	PRO$	זײני	zYny	_
+3	vundr	N	װוּנדר	VUndr	_
+4	zul	MDF	זול	zvl	_
+5	mn	PRO	מן	mN	_
+6	kundn	VB	קונדן	kvndN	_
+
+SENT	1507W-BOVO,1.31
+1	ven	CONJ	װען	VeN	_
+2	er	PRO	ער	er	_
+3	iz	BEF	איז	Ayz	_
+4	giakhprt	VAN	גיִאַכפּרט	gyiAaxprt	_
+5	un	CONJ	און	AvN	_
+6	drhubn	VAN	דרהובן	drhvbN	_
+7	in	P	אין	AyN	_
+8	vrumr	ADJ	װרומר	Vrvmr	_
+9	loytn	N	לױטן	lWtN	_
+10	mundn	N	מונדן	mvndN	_
+
+SENT	1507W-BOVO,1.32
+1	er	PRO	ער	er	_
+2	iz	VBF	איז	Ayz	_
+3	giveltig	ADJ	גיװעלטיג	gyVeltyg	_
+4	untn	ADV	אונטן	AvntN	_
+5	un'	CONJ	אונ'	Avn'	_
+6	ubn	ADV	אובן	AvbN	_
+
+SENT	1507W-BOVO,1.33
+1	zeyn	PRO$	זײן	zYN	_
+2	lub	N	לוב	lvb	_
+3	iz	VBF	איז	Ayz	_
+4	nit	NEG	ניט	nyt	_
+5	tsu	TO	צו	qv	_
+6	grundn	VB	גרונדן	grvndN	_
+
+SENT	1507W-BOVO,1.34
+1	keyn	Q	קײן	kYN	_
+2	mensh	N	מענש	men$	_
+3	der	WPRO	דער	der	_
+4	es	PRO	עס	es	_
+5	kan	MDF	ק"ן	k"N	_
+6	vulendn	VB	װוּלענדן	VUlendN	_
+
+SENT	1507W-BOVO,1.35
+1	ven	CONJ	װען	VeN	_
+2	es	PRO	עס	es	_
+3	hut	VBF	הוט	hvt	_
+4	nukh	CONJ	נוך	nvX	_
+5	drum	N	דרום	drvM	_
+6	nukh	CONJ	נוך	nvX	_
+7	endn	N	ענדן	endN	_
+
+SENT	1507W-BOVO,2.37
+1	zeyn	PRO$	זײן	zYN	_
+2	heyligr	ADJ	הײליגר	hYlygr	_
+3	namn	N	נאַמן	nAamN	_
+4	zul	MDF	זול	zvl	_
+5	mikh	PRO	מיך	myX	_
+6	sterkn	VB	סטערקן	sterkN	_
+7	ds	C	דס	ds	_
+8	mir	PRO	מיר	myr	_
+9	nit	NEG	ניט	nyt	_
+10	mus	MDF	מוס	mvs	_
+11	mislingn	VB	מיסלינגן	myslyngN	_
+12	tsu	TO	צו	qv	_
+13	vulendn	VB	װוּלענדן	VUlendN	_
+14	ds	D	דס	ds	_
+15	duzig	ADJ	דוזיג	dvzyg	_
+16	verkn	N	װערקן	VerkN	_
+17	eyn	D	אײן	AYN	_
+18	vels	ADJ	װעלס	Vels	_
+19	bukh	N	בוך	bvX	_
+20	tsu	P	צו	qv	_
+21	toytsh	N	טױטש	tWt$	_
+22	tsu	TO	צו	qv	_
+23	bringn	VB	ברינגן	bryngN	_
+24	un'	CONJ	אונ'	Avn'	_
+25	ds	C	דס	ds	_
+26	ikh	PRO	איך	AyX	_
+27	zul	MDF	זול	zvl	_
+28	vur	P	װוּר	VUr	_
+29	mikh	PRO	מיך	myX	_
+30	merkn	VB	מערקן	merkN	_
+31	un'	CONJ	אונ'	Avn'	_
+32	nit	NEG	ניט	nyt	_
+33	veln	VB	װעלן	VelN	_
+34	an	P	אַן	AaN	_
+35	keynr_ley	Q	קײנר_לײ	kYnr_lY	_
+36	dingn	N	דינגן	dyngN	_
+37	un'	CONJ	אונ'	Avn'	_
+38	ds	C	דס	ds	_
+39	di	D	די	dy	_
+40	loyt	N	לוט	lvt	_
+41	zuln	MDF	זולן	zvlN	_
+42	meynr	PRO	מײנר	mYnr	_
+43	lakhn	VB	לאַכן	lAaxN	_
+
+SENT	1507W-BOVO,2.38
+1	nun	ADV	נ	n	_
+2	hurt	VBI	הורט	hvrt	_
+3	oyf	RP	אױף	AWF	_
+
+SENT	1507W-BOVO,2.39
+1	es	PRO	עס	es	_
+2	vil	MDF	װיל	Vyl	_
+3	zikh	PRO	זיך	zyX	_
+4	makhn	VB	מאַכן	mAaxN	_
+
+SENT	1507W-BOVO,3.41
+1	mn	PRO	מן	mN	_
+2	shprikht	VBF	שפּריכט	$pryxt	_
+3	vi	C	װי	Vy	_
+4	in	P	אין	AyN	_
+5	lamprtn	NPR	לאַמפּרטן	lAamprtN	_
+6	vs	BEF	װס	Vs	_
+7	gizesn	VBN	גיזעסן	gyzesN	_
+8	vur	P	װוּר	VUr	_
+9	lngn	ADJ	לנגן	lngN	_
+10	tseytn	N	צײטן	qYtN	_
+11	eyn	D	אײן	AYN	_
+12	hertsug	N	הערצוג	herqvg	_
+13	vun	P	װוּן	VUN	_
+14	huhr	ADJ	הוהר	hvhr	_
+15	artn	N	אַרטן	AartN	_
+
+SENT	1507W-BOVO,3.42
+1	zeyn	PRO$	זײן	zYN	_
+2	gleykhn	N	גלײכן	glYxN	_
+3	var	VBF	װאַר	VAar	_
+4	nit	NEG	ניט	nyt	_
+5	in	P	אין	AyN	_
+6	veytn	ADV	װײטן	VYtN	_
+
+SENT	1507W-BOVO,3.43
+1	hertsug	N	הערצוג	herqvg	_
+2	gvidun	NPR	גװידון	gVydvN	_
+3	his	VBF	היס	hys	_
+4	man	PRO	מאַן	mAaN	_
+5	den	D	דען	deN	_
+6	tsartn	ADJ	צאַרטן	qAartN	_
+7	eyn	D	אײן	AYN	_
+8	starkr	ADJ	סטאַרקר	stAarkr	_
+9	rekn	N	רעקן	rekN	_
+10	in	P	אין	AyN	_
+11	aln	Q	אַלן	AalN	_
+12	streytn	N	סטרײטן	strYtN	_
+
+SENT	1507W-BOVO,3.44
+1	un'	CONJ	אונ'	Avn'	_
+2	mit	P	מיט	myt	_
+3	grusr	ADJ	גרוסר	grvsr	_
+4	irn	N	אירן	AyrN	_
+5	trug	VBF	טרוג	trvg	_
+6	er	PRO	ער	er	_
+7	di	D	די	dy	_
+8	krunh	N	קרונה	krvnh	_
+9	in	P	אין	AyN	_
+10	eynr	D	אײנר	AYnr	_
+11	stt	N	סטט	stt	_
+12	di	D	די	dy	_
+13	his	VBF	היס	hys	_
+14	antuna	NPR	אַנטונאַ	AantvnAa	_
+
+SENT	1507W-BOVO,4.46
+1	da_inn	ADV	דאַ_ינן	dAa_ynN	_
+2	ht	HVF	הט	ht	_
+3	er	PRO	ער	er	_
+4	zeyn	PRO$	זײן	zYN	_
+5	tseyt	N	צײט	qYt	_
+6	vrtribn	VBN	װרטריבן	VrtrybN	_
+
+SENT	1507W-BOVO,4.47
+1	un'	CONJ	אונ'	Avn'	_
+2	var	VBF	װאַר	VAar	_
+3	nun	ADV	נ	n	_
+4	eyn	D	אײן	AYN	_
+5	mn	N	מן	mN	_
+6	bun	P	בון	bvN	_
+7	zekhtsig	NUM	זעכציג	zexqyg	_
+8	yarn	N	יאַרן	yAarN	_
+
+SENT	1507W-BOVO,4.48
+1	ds	D	דס	ds	_
+2	bukh	N	בוך	bvX	_
+3	hut	HVF	הוט	hvt	_
+4	unz	PRO	אונז	Avnz	_
+5	azu	ADV	אַזו	Aazv	_
+6	gisribn	VBN	גיסריבן	gysrybN	_
+7	vi	C	װי	Vy	_
+8	der	D	דער	der	_
+9	hertsug	N	הערצוג	herqvg	_
+10	za	ADV	זאַ	zAa	_
+11	hukh_giburn	ADJ	הוכ_גיבורן	hvx_gybvrN	_
+12	al	Q	אַל	Aal	_
+13	zeyn	PRO$	זײן	zYN	_
+14	tag	N	תּג	Tg	_
+15	un	P	און	AvN	_
+16	veyb	N	װײב	VYb	_
+17	vs	BEF	װס	Vs	_
+18	giblibn	VBN	גיבליבן	gyblybN	_
+19	un'	CONJ	אונ'	Avn'	_
+20	mit	P	מיט	myt	_
+21	vroyan	N	װרױאַן	VrWAaN	_
+22	givezn	VBN	גיװעזן	gyVezN	_
+23	un_vur_vern	ADJ	אונ_װוּר_װערן	Avn_VUr_VerN	_
+
+SENT	1507W-BOVO,4.49
+1	un'	CONJ	אונ'	Avn'	_
+2	da	C	דאַ	dAa	_
+3	er	PRO	ער	er	_
+4	kam	VBF	קאַם	kAaM	_
+5	in	P	אין	AyN	_
+6	zeyn	PRO$	זײן	zYN	_
+7	iltr	N	אילטר	Ayltr	_
+8	ven	C	װען	VeN	_
+9	man	PRO	מאַן	mAaN	_
+10	in	PRO	אין	AyN	_
+11	sun	ADV	סון	svN	_
+12	tsu	RP	צו	qv	_
+13	dikt	VBF	דיקט	dykt	_
+14	za	ADV	זאַ	zAa	_
+15	vaurt	VBF	װאַורט	VAavrt	_
+16	im	PRO	אים	AyM	_
+17	nurt	FP	נורט	nvrt	_
+18	kiltr	ADJR	קילטר	kyltr	_
+
+SENT	1507W-BOVO,5.51
+1	al	Q	אַל	Aal	_
+2	ds	D	דס	ds	_
+3	vermn	N	װערמן	VermN	_
+4	valt	MDF	װאַלט	VAalt	_
+5	in	PRO	אין	AyN	_
+6	nit	NEG	ניט	nyt	_
+7	klekn	VB	קלעקן	klekN	_
+
+SENT	1507W-BOVO,5.52
+1	er	PRO	ער	er	_
+2	tet	VBF	טעט	tet	_
+3	az	P	אַז	Aaz	_
+4	valt	MDF	װאַלט	VAalt	_
+5	er	PRO	ער	er	_
+6	dr_vrirn	VB	דר_װרירן	dr_VryrN	_
+
+SENT	1507W-BOVO,5.53
+1	ez	ES	עז	ez	_
+2	sprkhn	VBF	ספּרכן	sprxN	_
+3	tsu	P	צו	qv	_
+4	im	PRO	אים	AyM	_
+5	zeyni	PRO$	זײני	zYny	_
+6	veyzi	ADJ	װײזי	VYzy	_
+7	rikn	N	ריקן	rykN	_
+8	ginedigr	ADJ	גינעדיגר	gynedygr	_
+9	her	N	הער	her	_
+10	vulgt	VBI	װוּלגט	VUlgt	_
+11	unzrm	PRO$	אונזרם	AvnzrM	_
+12	hirn	N	הירן	hyrN	_
+
+SENT	1507W-BOVO,5.54
+1	shikt	VBI	שיקט	$ykt	_
+2	oyz	RP	אױז	AWz	_
+3	zukhn	VB	זוכן	zvxN	_
+4	in	P	אין	AyN	_
+5	aln	Q	אַלן	AalN	_
+6	ikn	N	איקן	AykN	_
+7	irnt	ADV	אירנט	Ayrnt	_
+8	nukh	P	נוך	nvX	_
+9	eynr	D	אײנר	AYnr	_
+10	iungi	ADJ	איונגי	Ayvngy	_
+11	varmi	ADJ	װאַרמי	VAarmy	_
+12	dirn	N	דירן	dyrN	_
+13	di	WPRO	די	dy	_
+14	oykh	PRO	אױך	AWX	_
+15	zul	MDF	זול	zvl	_
+16	vermn	VB	װערמן	VermN	_
+17	un'	CONJ	אונ'	Avn'	_
+18	oyer	PRO	אױער	AWer	_
+19	pflegn	VB	פּפֿלעגן	pflegN	_
+
+SENT	1507W-BOVO,5.55
+1	val	N	װאַל	VAal	_
+2	im	PRO	אים	AyM	_
+3	ver	BEF	װער	Ver	_
+4	lengr	ADV	לענגר	lengr	_
+5	aleyn	ADJ	אַלײן	AalYN	_
+6	gilegn	VBN	גילעגן	gylegN	_
+
+SENT	1507W-BOVO,6.57
+1	dis	D	דיס	dys	_
+2	hertsugn	N	הערצוגן	herqvgN	_
+3	tukhtr	N	טוכטר	tvxtr	_
+4	vun	P	װוּן	VUN	_
+5	burguneyh	NPR	בורגונײה	bvrgvnYh	_
+6	di	D	די	dy	_
+7	var	BEF	װאַר	VAar	_
+8	im	PRO	אים	AyM	_
+9	tsu	P	צו	qv	_
+10	der	D	דער	der	_
+11	i	N	אי	Ay	_
+12	gigebn	VAN	גיגעבן	gygebN	_
+
+SENT	1507W-BOVO,6.58
+1	ir	PRO$	איר	Ayr	_
+2	gleykhn	N	גלײכן	glYxN	_
+3	var	VBF	װאַר	VAar	_
+4	nit	NEG	ניט	nyt	_
+5	biz	P	ביז	byz	_
+6	gi	P	גי	gy	_
+7	babilubeya	NPR	באַבילובײאַ	bAabylvbYAa	_
+
+SENT	1507W-BOVO,6.59
+1	zi	PRO	זי	zy	_
+2	givil	VBF	גיװיל	gyVyl	_
+3	im	PRO	אים	AyM	_
+4	val	ADV	װאַל	VAal	_
+
+SENT	1507W-BOVO,6.60
+1	un'	CONJ	אונ'	Avn'	_
+2	var	VBF	װאַר	VAar	_
+3	im	PRO	אים	AyM	_
+4	ebn	ADJ	עבן	ebN	_
+
+SENT	1507W-BOVO,6.61
+1	zi	PRO	זי	zy	_
+2	var	BEF	װאַר	VAar	_
+3	giheysn	VAN	גיהײסן	gyhYsN	_
+4	di	D	די	dy	_
+5	sun	ADJ	סון	svN	_
+6	branduneyh	NPR	בראַנדונײה	brAandvnYh	_
+
+SENT	1507W-BOVO,6.62
+1	bey	P	בײ	bY	_
+2	im	PRO	אים	AyM	_
+3	ht	VBF	הט	ht	_
+4	zi	PRO	זי	zy	_
+5	eyn	D	אײן	AYN	_
+6	kustlikh	ADJ	קוסטליך	kvstlyX	_
+7	lebn	N	לעבן	lebN	_
+
+SENT	1507W-BOVO,6.63
+1	vas	WPRO	װאַס	VAas	_
+2	zi	PRO	זי	zy	_
+3	bigert	VBF	ביגערט	bygert	_
+4	vaur	BEF	װאַור	VAavr	_
+5	ir	PRO	איר	Ayr	_
+6	giakht	VAN	גיִאַכט	gyiAaxt	_
+
+SENT	1507W-BOVO,6.64
+1	zi	PRO	זי	zy	_
+2	ht	VBF	הט	ht	_
+3	guti	ADJ	גוטי	gvty	_
+4	teg	N	טעג	teg	_
+5	un'	CONJ	אונ'	Avn'	_
+6	buzi	ADJ	בוזי	bvzy	_
+7	nakht	N	נאַכט	nAaxt	_
+
+SENT	1507W-BOVO,7.66
+1	zi	PRO	זי	zy	_
+2	vermt	VBF	װערמט	Vermt	_
+3	in	PRO	אין	AyN	_
+4	mit	P	מיט	myt	_
+5	gutn	ADJ	גוטן	gvtN	_
+6	mudn	N	מודן	mvdN	_
+
+SENT	1507W-BOVO,7.67
+1	ikh	PRO	איך	AyX	_
+2	kan	MDF	ק"ן	k"N	_
+3	oykh	PRO	אױך	AWX	_
+4	nit	NEG	ניט	nyt	_
+5	min	QR	מין	myN	_
+6	gizagn	VB	גיזאַגן	gyzAagN	_
+
+SENT	1507W-BOVO,7.68
+1	dem	D	דעם	deM	_
+2	shimpfa	N	שימפּפֿאַ	$ympfAa	_
+3	brakh	VBF	בראַך	brAaX	_
+4	oyz	P	אױז	AWz	_
+5	der	D	דער	der	_
+6	budn	N	בודן	bvdN	_
+
+SENT	1507W-BOVO,7.69
+1	dia	D	דיִאַ	dyiAa	_
+2	sun	ADJ	סון	svN	_
+3	branduneyh	NPR	בראַנדונײה	brAandvnYh	_
+4	di	D	די	dy	_
+5	vur	BEF	װוּר	VUr	_
+6	trgn	VAG	טרגן	trgN	_
+
+SENT	1507W-BOVO,7.70
+1	un'	CONJ	אונ'	Avn'	_
+2	givan	VBF	גיװאַן	gyVAaN	_
+3	eyn	D	אײן	AYN	_
+4	zun	N	זון	zvN	_
+5	vun	P	װוּן	VUN	_
+6	guts	NPR$	גוטס	gvts	_
+7	ginudn	N	גינודן	gynvdN	_
+
+SENT	1507W-BOVO,7.71
+1	keyn	Q	קײן	kYN	_
+2	shunr	ADJR	שונר	$vnr	_
+3	kind	N	קינד	kynd	_
+4	zkh	VBF	זך	zX	_
+5	mn	PRO	מן	mN	_
+6	ni	ADV	ני	ny	_
+7	mit	P	מיט	myt	_
+8	oygn	N	אױגן	AWgN	_
+9	dem	WPRO	דעם	deM	_
+10	zeyn	PRO$	זײן	zYN	_
+11	giberd	N	גיבערד	gyberd	_
+12	za	ADV	זאַ	zAa	_
+13	val	ADV	װאַל	VAal	_
+14	an	RP	אַן	AaN	_
+15	tsamn	VBF	צאַמן	qAamN	_
+
+SENT	1507W-BOVO,7.72
+1	er	PRO	ער	er	_
+2	his	VBF	היס	hys	_
+3	ez	ES	עז	ez	_
+4	buvo	NPR	בוּװאָ	bUVAo	_
+5	mit	P	מיט	myt	_
+6	zeynm	PRO$	זײנם	zYnM	_
+7	namn	N	נאַמן	nAamN	_
+
+SENT	1507W-BOVO,8.74
+1	vs	WPRO	װס	Vs	_
+2	grusi	ADJ	גרוסי	grvsy	_
+3	vroyd	N	װרױד	VrWd	_
+4	treyb	VBF	טרײב	trYb	_
+5	nun	ADV	נ	n	_
+6	zeyn	PRO$	זײן	zYN	_
+7	vatir	N	װאַטיר	VAatyr	_
+8	dz	D	דז	dz	_
+9	mukht	MDF	מוכט	mvxt	_
+10	ir	PRO	איר	Ayr	_
+11	nun	ADV	נ	n	_
+12	val	ADV	װאַל	VAal	_
+13	glabn	VB	גלאַבן	glAabN	_
+
+SENT	1507W-BOVO,8.75
+1	nun	ADV	נ	n	_
+2	ht	VBF	הט	ht	_
+3	er	PRO	ער	er	_
+4	eyn	D	אײן	AYN	_
+5	burggruvn	N	בורגגרוּװן	bvrggrUVN	_
+6	den	D	דען	deN	_
+7	bat	VBF	באַט	bAat	_
+8	er	PRO	ער	er	_
+9	ds	C	דס	ds	_
+10	er	PRO	ער	er	_
+11	im	PRO	אים	AyM	_
+12	zult	MDF	זולט	zvlt	_
+13	hibn	VB	היבן	hybN	_
+14	den	D	דען	deN	_
+15	knabn	N	קנאַבן	knAabN	_
+16	un'	CONJ	אונ'	Avn'	_
+17	zult	MDF	זולט	zvlt	_
+18	zeyn	VB	זײן	zYN	_
+19	zeyn	PRO$	זײן	zYN	_
+20	rekhtr	ADJ	רעכטר	rextr	_
+21	givatr	N	גיװאַטר	gyVAatr	_
+
+SENT	1507W-BOVO,8.76
+1	der	D	דער	der	_
+2	gruv	N	גרוּװ	grUV	_
+3	tet	VBF	טעט	tet	_
+4	vs	WPRO	װס	Vs	_
+5	er	PRO	ער	er	_
+6	valt	MDF	װאַלט	VAalt	_
+7	hbn	VB	הבן	hbN	_
+
+SENT	1507W-BOVO,8.77
+1	der	D	דער	der	_
+2	zelbig	ADJ	זעלביג	zelbyg	_
+3	gruv	N	גרוּװ	grUV	_
+4	his	VBF	היס	hys	_
+5	sinibld	NPR	סיניבלד	synybld	_
+
+SENT	1507W-BOVO,8.78
+1	zeyn	PRO$	זײן	zYN	_
+2	shlus	N	שלוס	$lvs	_
+3	his	VBF	היס	hys	_
+4	snsimun	NPR	סנסימון	snsymvN	_
+5	in	P	אין	AyN	_
+6	eynm	D	אײנם	AYnM	_
+7	vald	N	װאַלד	VAald	_
+
+SENT	1507W-BOVO,9.80
+1	keyn	Q	קײן	kYN	_
+2	vestr	ADJR	װעסטר	Vestr	_
+3	slus	N	סלוס	slvs	_
+4	var	BEF	װאַר	VAar	_
+5	ni	ADV	ני	ny	_
+6	gizehn	VAN	גיזעהן	gyzehN	_
+
+SENT	1507W-BOVO,9.81
+1	dinn	ADV	דינן	dynN	_
+2	hilt	VBF	הילט	hylt	_
+3	der	D	דער	der	_
+4	hertsug	N	הערצוג	herqvg	_
+5	vs	WPRO	װס	Vs	_
+6	er	PRO	ער	er	_
+7	ht	VBF	הט	ht	_
+8	eygn	ADJ	אײגן	AYgN	_
+
+SENT	1507W-BOVO,9.82
+1	es	PRO	עס	es	_
+2	lag	VBF	לאַג	lAag	_
+3	vun	P	װוּן	VUN	_
+4	antuna	NPR	אַנטונאַ	AantvnAa	_
+5	eyn	NUM	אײן	AYN	_
+6	meyl	N	מײל	mYl	_
+7	uder	CONJ	אודער	Avder	_
+8	tsehn	NUM	צעהן	qehN	_
+
+SENT	1507W-BOVO,9.83
+1	vs	BEF	װס	Vs	_
+2	giboyt	VAN	גיבױט	gybWt	_
+3	oyf	P	אױף	AWF	_
+4	eyn	D	אײן	AYN	_
+5	huhn	ADJ	הוהן	hvhN	_
+6	steygn	N	סטײגן	stYgN	_
+
+SENT	1507W-BOVO,9.84
+1	der	D	דער	der	_
+2	hertsug	N	הערצוג	herqvg	_
+3	bigund	VBF	ביגונד	bygvnd	_
+4	tsu	P	צו	qv	_
+5	sinibld	NPR	סיניבלד	synybld	_
+6	tsu	TO	צו	qv	_
+7	yehn	VB	יעהן	yehN	_
+8	nim	VBI	נים	nyM	_
+9	meyn	PRO$	מײן	mYN	_
+10	zun	N	זון	zvN	_
+
+SENT	1507W-BOVO,9.85
+1	un'	CONJ	אונ'	Avn'	_
+2	lus	VBI	לוס	lvs	_
+3	in	PRO	אין	AyN	_
+4	deyn	PRO$	דײן	dYN	_
+5	veyb	N	װײב	VYb	_
+6	zeygn	VB	זײגן	zYgN	_
+
+SENT	1507W-BOVO,9.86
+1	un	CONJ	און	AvN	_
+2	heys	VBI	הײס	hYs	_
+3	im	PRO	אים	AyM	_
+4	oyz	RP	אױז	AWz	_
+5	vartn	VB	װאַרטן	VAartN	_
+6	mit	P	מיט	myt	_
+7	aln	Q	אַלן	AalN	_
+8	dingn	N	דינגן	dyngN	_
+
+SENT	1507W-BOVO,9.87
+1	un'	CONJ	אונ'	Avn'	_
+2	ven	C	װען	VeN	_
+3	er	PRO	ער	er	_
+4	veynt	VBF	װײנט	VYnt	_
+5	za	ADV	זאַ	zAa	_
+6	heys	VBI	הײס	hYs	_
+7	im	PRO	אים	AyM	_
+8	zingn	VB	זינגן	zyngN	_
+
+SENT	1507W-BOVO,10.89
+1	sinibld	NPR	סיניבלד	synybld	_
+2	nm	VBF	נם	nM	_
+3	den	D	דען	deN	_
+4	yungn	ADJ	יונגן	yvngN	_
+5	hern	N	הערן	herN	_
+
+SENT	1507W-BOVO,10.90
+1	un'	CONJ	אונ'	Avn'	_
+2	brukht	VBF	ברוכט	brvxt	_
+3	in	PRO	אין	AyN	_
+4	gin	P	גין	gyN	_
+5	sansimun	NPR	סאַנסימון	sAansymvN	_
+6	zeymn	PRO$	זײמן	zYmN	_
+7	veybn	N	װײבן	VYbN	_
+
+SENT	1507W-BOVO,10.91
+1	zi	PRO	זי	zy	_
+2	zeygt	VBF	זײגט	zYgt	_
+3	in	PRO	אין	AyN	_
+4	vun	P	װוּן	VUN	_
+5	hertsn	N	הערצן	herqN	_
+6	gern	ADV	גערן	gerN	_
+
+SENT	1507W-BOVO,10.92
+1	zi	PRO	זי	zy	_
+2	vaust	VBF	װאַוסט	VAavst	_
+3	nit	NEG	ניט	nyt	_
+4	vas	WPRO	װאַס	VAas	_
+5	zi	PRO	זי	zy	_
+6	mit	P	מיט	myt	_
+7	im	PRO	אים	AyM	_
+8	zult	MDF	זולט	zvlt	_
+9	treybn	VB	טרײבן	trYbN	_
+
+SENT	1507W-BOVO,10.93
+1	mn	PRO	מן	mN	_
+2	zakh	VBF	זאַך	zAaX	_
+3	da	C	דאַ	dAa	_
+4	er	PRO	ער	er	_
+5	bigund	VBF	ביגונד	bygvnd	_
+6	grus	ADJ	גרוס	grvs	_
+7	tsu	TO	צו	qv	_
+8	vern	VB	װערן	VerN	_
+9	ds	C	דס	ds	_
+10	er	PRO	ער	er	_
+11	var	VBF	װאַר	VAar	_
+12	eyn	D	אײן	AYN	_
+13	man	N	מאַן	mAaN	_
+14	zeyns	PRO$	זײנס	zYns	_
+15	leybn	N	לײבן	lYbN	_
+
+SENT	1507W-BOVO,10.94
+1	da	C	דאַ	dAa	_
+2	er	PRO	ער	er	_
+3	var	VBF	װאַר	VAar	_
+4	eyn	D	אײן	AYN	_
+5	iungr	N	איונגר	Ayvngr	_
+6	vun	P	װוּן	VUN	_
+7	tsihn	NUM	ציהן	qyhN	_
+8	yarn	N	יאַרן	yAarN	_
+9	da	ADV	דאַ	dAa	_
+10	trug	VBF	טרוג	trvg	_
+11	er	PRO	ער	er	_
+12	stet	P	סטעט	stet	_
+13	tsvin	NUM	צװין	qVyN	_
+14	drey	NUM	דרײ	drY	_
+15	in	P	אין	AyN	_
+16	harn	N	האַרן	hAarN	_
+
+SENT	1507W-BOVO,11.96
+1	un'	CONJ	אונ'	Avn'	_
+2	sinibld	NPR	סיניבלד	synybld	_
+3	der	D	דער	der	_
+4	lernt	VBF	לערנט	lernt	_
+5	in	PRO	אין	AyN	_
+6	vekhtn	VB	װעכטן	VextN	_
+7	stekhn	VB	סטעכן	stexN	_
+8	shirmn	VB	שירמן	$yrmN	_
+9	un'	CONJ	אונ'	Avn'	_
+10	turnirn	VB	טורנירן	tvrnyrN	_
+
+SENT	1507W-BOVO,11.97
+1	idrmn	Q	אידרמן	AydrmN	_
+2	valt	MDF	װאַלט	VAalt	_
+3	er	PRO	ער	er	_
+4	hrgn	VB	הרגן	hrgN	_
+5	un'	CONJ	אונ'	Avn'	_
+6	shekhtn	VB	שחטן	$HtN	_
+
+SENT	1507W-BOVO,11.98
+1	gr	ADV	גר	gr	_
+2	vild	ADV	װילד	Vyld	_
+3	vlukh	VBF	װלוך	VlvX	_
+4	im	PRO	אים	AyM	_
+5	zeyn	PRO$	זײן	zYN	_
+6	hirn	N	הירן	hyrN	_
+
+SENT	1507W-BOVO,11.99
+1	untr	P	אונטר	Avntr	_
+2	veyln	N	װײלן	VYlN	_
+3	mit	P	מיט	myt	_
+4	vir	NUM	װיר	Vyr	_
+5	vunf	NUM	װוּנף	VUnF	_
+6	knekhtn	N	קנעכטן	knextN	_
+7	tsukh	VBF	צוך	qvX	_
+8	er	PRO	ער	er	_
+9	tsu	P	צו	qv	_
+10	zeynir	PRO$	זײניר	zYnyr	_
+11	mutr	N	מוטר	mvtr	_
+12	spatsirn	RP-V	ספּאַצירן	spAaqyrN	_
+
+SENT	1507W-BOVO,11.100
+1	abr	CONJ	אַבר	Aabr	_
+2	zi	PRO	זי	zy	_
+3	vs	BEF	װס	Vs	_
+4	im	PRO	אים	AyM	_
+5	vintsig	Q	װינציג	Vynqyg	_
+6	libshaft	N	ליבשאַפֿט	lyb$Aaft	_
+7	pflegn	VAG	פּפֿלעגן	pflegN	_
+
+SENT	1507W-BOVO,11.101
+1	zi	PRO	זי	zy	_
+2	ht	VBF	הט	ht	_
+3	in	PRO	אין	AyN	_
+4	veynt	RP-N	װײנט	VYnt	_
+5	vun	P	װוּן	VUN	_
+6	zeyns	PRO$	זײנס	zYns	_
+7	vatir	N	װאַטיר	VAatyr	_
+8	vegn	N	װעגן	VegN	_
+
+SENT	1507W-BOVO,12.103
+1	den	D	דען	deN	_
+2	mukht	MDF	מוכט	mvxt	_
+3	zi	PRO	זי	zy	_
+4	nit	NEG	ניט	nyt	_
+5	min	QR	מין	myN	_
+6	hurn	VB	הורן	hvrN	_
+7	nukh	CONJ	נוך	nvX	_
+8	zehn	VB	זעהן	zehN	_
+
+SENT	1507W-BOVO,12.104
+1	er	PRO	ער	er	_
+2	gb	VBF	גב	gb	_
+3	ir	PRO	איר	Ayr	_
+4	eyn	D	אײן	AYN	_
+5	kleyni	ADJ	קלײני	klYny	_
+6	vreydn	N	װרײדן	VrYdN	_
+
+SENT	1507W-BOVO,12.105
+1	eyn_mal	ADV	אײנ_מאַל	AYn_mAal	_
+2	bigund	VBF	ביגונד	bygvnd	_
+3	zi	PRO	זי	zy	_
+4	tsu	P	צו	qv	_
+5	ir	PRO	איר	Ayr	_
+6	zelbs	ADV	זעלבס	zelbs	_
+7	tsu	TO	צו	qv	_
+8	yehn	VB	יעהן	yehN	_
+9	oyvi	INTJ	אױװי	AWVy	_
+10	meyns	PRO$	מײנס	mYns	_
+11	grusn	ADJ	גרוסן	grvsN	_
+12	hertsn_leydn	N	הערצנ_לײדן	herqn_lYdN	_
+13	vun	P	װוּן	VUN	_
+14	vatir	N	װאַטיר	VAatyr	_
+15	un'	CONJ	אונ'	Avn'	_
+16	mutr	N	מוטר	mvtr	_
+17	iz	BEF	איז	Ayz	_
+18	ez	PRO	עז	ez	_
+19	mir	PRO	מיר	myr	_
+20	gisehn	VBN	גיסעהן	gysehN	_
+
+SENT	1507W-BOVO,12.106
+1	gut	N	גוט	gvt	_
+2	geb	VBF	געב	geb	_
+3	in	PRO	אין	AyN	_
+4	den	D	דען	deN	_
+5	hilukh	N	הילוך	hylvX	_
+6	ali	Q	אַלי	Aaly	_
+7	beydn	Q	בײדן	bYdN	_
+
+SENT	1507W-BOVO,12.107
+1	vi	WADV	װי	Vy	_
+2	hbn	HVF	הבן	hbN	_
+3	zi	PRO	זי	zy	_
+4	giht	VBN	גיהט	gyht	_
+5	di	D	די	dy	_
+6	bustn	ADJS	בוסטן	bvstN	_
+7	hertsr	N	הערצר	herqr	_
+8	ds	C	דס	ds	_
+9	zi	PRO	זי	zy	_
+10	mir	PRO	מיר	myr	_
+11	hbn	HVF	הבן	hbN	_
+12	gebn	VBN	געבן	gebN	_
+13	den	D	דען	deN	_
+14	altn	ADJ	אַלטן	AaltN	_
+15	vertsr	N	װערצר	Verqr	_
+
+SENT	1507W-BOVO,13.109
+1	eyn	D	אײן	AYN	_
+2	zin	N	זין	zyN	_
+3	vil	MDF	װיל	Vyl	_
+4	ikh	PRO	איך	AyX	_
+5	dr_tsu	DR+P	דר_צו	dr_qv	_
+6	trakhtn	VB	טראַכטן	trAaxtN	_
+
+SENT	1507W-BOVO,13.110
+1	un'	CONJ	אונ'	Avn'	_
+2	zult	MDF	זולט	zvlt	_
+3	ez	PRO	עז	ez	_
+4	mikh	PRO	מיך	myX	_
+5	meyn	PRO$	מײן	mYN	_
+6	lebn	N	לעבן	lebN	_
+7	kustn	VB	קוסטן	kvstN	_
+8	ikh	PRO	איך	AyX	_
+9	vil	MDF	װיל	Vyl	_
+10	nit	NEG	ניט	nyt	_
+11	bey	P	בײ	bY	_
+12	im	PRO	אים	AyM	_
+13	azu	ADV	אַזו	Aazv	_
+14	vur_shmakhtn	VB	װוּר_שמאַכטן	VUr_$mAaxtN	_
+15	un'	CONJ	אונ'	Avn'	_
+16	vur_shimln	VB	װוּר_שימלן	VUr_$ymlN	_
+17	un'	CONJ	אונ'	Avn'	_
+18	vur_rustn	VB	װוּר_רוסטן	VUr_rvstN	_
+
+SENT	1507W-BOVO,13.111
+1	eyn	D	אײן	AYN	_
+2	veynn	ADJ	װײנן	VYnN	_
+3	yungn	N	יונגן	yvngN	_
+4	vil	MDF	װיל	Vyl	_
+5	ikh	PRO	איך	AyX	_
+6	mir	PRO	מיר	myr	_
+7	akhtn	VB	אַכטן	AaxtN	_
+8	der	WPRO	דער	der	_
+9	nukh	P	נוך	nvX	_
+10	mimn	PRO$	מימן	mymN	_
+11	viln	N	װילן	VylN	_
+12	mit	P	מיט	myt	_
+13	mir	PRO	מיר	myr	_
+14	vert	RDF	װערט	Vert	_
+15	pustn	VB	פּוסטן	pvstN	_
+
+SENT	1507W-BOVO,13.112
+1	nun	ADV	נ	n	_
+2	ht	VBF	הט	ht	_
+3	zi	PRO	זי	zy	_
+4	eyn	D	אײן	AYN	_
+5	huf_mn	N	הופֿ_מן	hvf_mN	_
+6	der	D	דער	der	_
+7	his	VBF	היס	hys	_
+8	ritsard	NPR	ריצאַרד	ryqAard	_
+
+SENT	1507W-BOVO,13.113
+1	oyf	P	אױף	AWF	_
+2	busheyt	N	בושײט	bv$Yt	_
+3	gr	ADV	גר	gr	_
+4	gisheyd	ADJ	גישײד	gy$Yd	_
+5	er	PRO	ער	er	_
+6	vard	VBF	װאַרד	VAard	_
+
+SENT	1507W-BOVO,14.115
+1	eyn_mal	ADV	אײנ_מאַל	AYn_mAal	_
+2	ruft	VBF	רופֿט	rvft	_
+3	zi	PRO	זי	zy	_
+4	in	PRO	אין	AyN	_
+5	in	P	אין	AyN	_
+6	di	D	די	dy	_
+7	kemnuth	N	קעמנוטה	kemnvth	_
+8	dia	WPRO	דיִאַ	dyiAa	_
+9	ir	PRO	איר	Ayr	_
+10	der	D	דער	der	_
+11	hertsug	N	הערצוג	herqvg	_
+12	ht	HVF	הט	ht	_
+13	lusn	VBN-IPP	לוסן	lvsN	_
+14	boyan	VB	בױאַן	bWAaN	_
+
+SENT	1507W-BOVO,14.116
+1	un	CONJ	און	AvN	_
+2	sprkh	VBF	ספּרך	sprX	_
+3-4	vilstu	MDF~PRO	װילסטו	Vylstv	_
+3	vils	MDF	װילס	Vyls	_
+4	tu	PRO	טו	tv	_
+5	mikh	PRO	מיך	myX	_
+6	nit	NEG	ניט	nyt	_
+7	vur_rutn	VB	װוּר_רוטן	VUr_rvtN	_
+8	eyn	D	אײן	AYN	_
+9	grusi	ADJ	גרוסי	grvsy	_
+10	zkh	N	זך	zX	_
+11	vil	MDF	װיל	Vyl	_
+12	ikh	PRO	איך	AyX	_
+13	dir	PRO	דיר	dyr	_
+14	gitroyan	VB	גיטרױאַן	gytrWAaN	_
+
+SENT	1507W-BOVO,14.117
+1	un'	CONJ	אונ'	Avn'	_
+2	vil	MDF	װיל	Vyl	_
+3	dir	PRO	דיר	dyr	_
+4	senkn	VB	סענקן	senkN	_
+5	toyznt	NUM	טױזנט	tWznt	_
+6	dukutn	N	דוקוטן	dvkvtN	_
+
+SENT	1507W-BOVO,14.118
+1	un'	CONJ	אונ'	Avn'	_
+2-3	tustu	VBF~PRO	טוסטו	tvstv	_
+2	tus	VBF	טוס	tvs	_
+3	tu	PRO	טו	tv	_
+4	es	PRO	עס	es	_
+5	nit	NEG	ניט	nyt	_
+6	es	PRO	עס	es	_
+7	vert	RDF	װערט	Vert	_
+8	dikh	PRO	דיך	dyX	_
+9	giroyan	VB	גירױאַן	gyrWAaN	_
+
+SENT	1507W-BOVO,14.119
+1	ikh	PRO	איך	AyX	_
+2	vil	MDF	װיל	Vyl	_
+3	dikh	PRO	דיך	dyX	_
+4	mkhn	VB	מכן	mxN	_
+5	itsund	ADV	איצונד	Ayqvnd	_
+6	tutn	VB	טוטן	tvtN	_
+
+SENT	1507W-BOVO,14.120
+1	ikh	PRO	איך	AyX	_
+2	vil	MDF	װיל	Vyl	_
+3	sreyan	VB	סרײאַן	srYAaN	_
+4	du	PRO	דו	dv	_
+5	hbst	HVF	הבסט	hbst	_
+6	mikh	PRO	מיך	myX	_
+7	veln	MDN-IPP	װעלן	VelN	_
+8	nutn	VB	נוטן	nvtN	_
+
+SENT	1507W-BOVO,15.122
+1	ritsrd	NPR	ריצרד	ryqrd	_
+2	der	D	דער	der	_
+3	sprakh	VBF	ספּראַך	sprAaX	_
+4	ginedgi	ADJ	גינעדגי	gynedgy	_
+5	mdunh	N	מדונה	mdvnh	_
+6	vs	WPRO	װס	Vs	_
+7	durft	MDF	דורפֿט	dvrft	_
+8	ir	PRO	איר	Ayr	_
+9	mir	PRO	מיר	myr	_
+10	s	PRO	ס	s	_
+11	azu	ADV	אַזו	Aazv	_
+12	hukh	ADV	הוך	hvX	_
+13	dr_bitn	VB	דר_ביטן	dr_bytN	_
+
+SENT	1507W-BOVO,15.123
+1	iz	VBF	איז	Ayz	_
+2	dukh	ADV	דוך	dvX	_
+3	keynrley	Q	קײנרלײ	kYnrlY	_
+4	untr	P	אונטר	Avntr	_
+5	der	D	דער	der	_
+6	zunn	N	זונן	zvnN	_
+7	ds	WPRO	דס	ds	_
+8	ikh	PRO	איך	AyX	_
+9	nit	NEG	ניט	nyt	_
+10	tu	VBF	טו	tv	_
+11	ven	C	װען	VeN	_
+12	ir	PRO	איר	Ayr	_
+13	mir	PRO	מיר	myr	_
+14	s	PRO	ס	s	_
+15	tut	DOF	טוט	tvt	_
+16	gibitn	VB	גיביטן	gybytN	_
+
+SENT	1507W-BOVO,15.124
+1	er	PRO	ער	er	_
+2	ht	HVF	הט	ht	_
+3	abr	ADV	אַבר	Aabr	_
+4	denukh	ADV	דענוך	denvX	_
+5	sir	ADV	סיר	syr	_
+6	di	D	די	dy	_
+7	seysn	N	סײסן	sYsN	_
+8	gvunn	VBN	גװוּנן	gVUnN	_
+
+SENT	1507W-BOVO,15.125
+1	er	PRO	ער	er	_
+2	tsitrt	VBF	ציטרט	qytrt	_
+3	gleykh	ADV	גלײך	glYX	_
+4	az	P	אַז	Aaz	_
+5	het	VBF	העט	het	_
+6	er	PRO	ער	er	_
+7	den	D	דען	deN	_
+8	ritn	N	ריטן	rytN	_
+
+SENT	1507W-BOVO,15.126
+1	er	PRO	ער	er	_
+2	gidukht	VBF	גידוכט	gydvxt	_
+3	kum	VBF	קום	kvM	_
+4	ikh	PRO	איך	AyX	_
+5	dir	PRO	דיר	dyr	_
+6	oyz	P	אױז	AWz	_
+7	der	D	דער	der	_
+8	grapn	N	גראַפּן	grAapN	_
+9	du	PRO	דו	dv	_
+10	zulst	MDF	זולסט	zvlst	_
+11	mikh	PRO	מיך	myX	_
+12	nit	NEG	ניט	nyt	_
+13	min	QR	מין	myN	_
+14	hinn	ADV	הינן	hynN	_
+15	dr_snapn	VB	דר_סנאַפּן	dr_snAapN	_
+
+SENT	1507W-BOVO,16.128
+1	brnduneyh	NPR	ברנדונײה	brndvnYh	_
+2	sprkh	VBF	ספּרך	sprX	_
+3	du	PRO	דו	dv	_
+4	must	MDF	מוסט	mvst	_
+5	dikh	PRO	דיך	dyX	_
+6	dr_vegn	VB	דר_װעגן	dr_VegN	_
+7	eyn	D	אײן	AYN	_
+8	tsukh	N	צוך	qvX	_
+9	tsu	TO	צו	qv	_
+10	tsihn	VB	ציהן	qyhN	_
+11	biz	P	ביז	byz	_
+12	in	P	אין	AyN	_
+13	frantsh	NPR	פֿראַנטש	frAant$	_
+
+SENT	1507W-BOVO,16.129
+1	da	ADV	דאַ	dAa	_
+2	zitst	VBF	זיצט	zyqt	_
+3	eyn	D	אײן	AYN	_
+4	yungr	ADJ	יונגר	yvngr	_
+5	stultsr	ADJ	סטולצר	stvlqr	_
+6	rekn	N	רעקן	rekN	_
+7	der	D	דער	der	_
+8	heyst	VBF	הײסט	hYst	_
+9	hertsug	N	הערצוג	herqvg	_
+10	dudun	NPR	דודון	dvdvN	_
+11	bun	P	בון	bvN	_
+12	magntsh	NPR	מאַגנטש	mAagnt$	_
+
+SENT	1507W-BOVO,16.130
+1	meyn	PRO$	מײן	mYN	_
+2	man	N	מאַן	mAaN	_
+3	stakh	VBF	סטאַך	stAaX	_
+4	eyn_mul	ADV	אײנ_מול	AYn_mvl	_
+5	eyn	D	אײן	AYN	_
+6	degn	N	דעגן	degN	_
+7	zeynm	PRO$	זײנם	zYnM	_
+8	libn	ADJ	ליבן	lybN	_
+9	vatr	N	װאַטר	VAatr	_
+10	in	P	אין	AyN	_
+11	zeyn	PRO$	זײן	zYN	_
+12	pantsh	N	פּאַנטש	pAant$	_
+
+SENT	1507W-BOVO,16.131
+1	drum	DR+P	דרום	drvM	_
+2-3	zulstu	MDF~PRO	זולסטו	zvlstv	_
+2	zuls	MDF	זולס	zvls	_
+3	tu	PRO	טו	tv	_
+4	tsu	P	צו	qv	_
+5	im	PRO	אים	AyM	_
+6	sprekhn	VB	ספּרעכן	sprexN	_
+
+SENT	1507W-BOVO,16.132
+1	ikh	PRO	איך	AyX	_
+2	vel	MDF	װעל	Vel	_
+3	im	PRO	אים	AyM	_
+4	zeyn	PRO$	זײן	zYN	_
+5	vatr	N	װאַטר	VAatr	_
+6	helfn	VB	העלפֿן	helfN	_
+7	rekhn	VB	רעכן	rexN	_
+
+SENT	1507W-BOVO,17.134
+1	un'	CONJ	אונ'	Avn'	_
+2	den	D	דען	deN	_
+3	duzign	ADJ	דוזיגן	dvzygN	_
+4	brif	N	בריף	bryF	_
+5-6	zulstu	MDF~PRO	זולסטו	zvlstv	_
+5	zuls	MDF	זולס	zvls	_
+6	tu	PRO	טו	tv	_
+7	im	PRO	אים	AyM	_
+8	tragn	VB	טראַגן	trAagN	_
+9	ds	C	דס	ds	_
+10	er	PRO	ער	er	_
+11	her	RP-ADV	הער	her	_
+12	kumt	VBF	קומט	kvmt	_
+13	in	P	אין	AyN	_
+14	lamprtn	NPR	לאַמפּרטן	lAamprtN	_
+
+SENT	1507W-BOVO,17.135
+1	meyn	PRO$	מײן	mYN	_
+2	mn	N	מן	mN	_
+3	zul	MDF	זול	zvl	_
+4	er	PRO	ער	er	_
+5	tsu	P	צו	qv	_
+6	tut	N	טוט	tvt	_
+7	dr_slagn	VB	דר_סלאַגן	dr_slAagN	_
+
+SENT	1507W-BOVO,17.136
+1	in	P	אין	AyN	_
+2	eynem	D	אײנעם	AYneM	_
+3	vald	N	װאַלד	VAald	_
+4	iz	VBF	איז	Ayz	_
+5	zeyn	PRO$	זײן	zYN	_
+6	tir_gartn	N	טיר_גאַרטן	tyr_gAartN	_
+7	da	DR	דאַ	dAa	_
+8	vil	MDF	װיל	Vyl	_
+9	ikh	PRO	איך	AyX	_
+10	in	PRO	אין	AyN	_
+11	eyn	P	אײן	AYN	_
+12	sikn	VB	סיקן	sykN	_
+13	iagn	VB	איאַגן	AyAagN	_
+
+SENT	1507W-BOVO,17.137
+1	heys	VBI	הײס	hYs	_
+2	in	PRO	אין	AyN	_
+3	mit	P	מיט	myt	_
+4	zeyn	PRO$	זײן	zYN	_
+5	knekhtn	N	קנעכטן	knextN	_
+6	oyf	P	אױף	AWF	_
+7	in	PRO	אין	AyN	_
+8	vartn	VB	װאַרטן	VAartN	_
+
+SENT	1507W-BOVO,17.138
+1	er	PRO	ער	er	_
+2	vert	RDF	װערט	Vert	_
+3	nit	NEG	ניט	nyt	_
+4	vil	Q	װיל	Vyl	_
+5	durfn	MD	דורפֿן	dvrfN	_
+6	vekhtn	VB	װעכטן	VextN	_
+7	nukh	CONJ	נוך	nvX	_
+8	skarmutsln	VB	סקאַרמוצלן	skAarmvqlN	_
+
+SENT	1507W-BOVO,17.139
+1	heys	VBI	הײס	hYs	_
+2	im	PRO	אים	AyM	_
+3	nurt	FP	נורט	nvrt	_
+4	gebn	VB	געבן	gebN	_
+5	durt	ADV	דורט	dvrt	_
+6	dis	D	דיס	dys	_
+7	kutsln	N	קוצלן	kvqlN	_
+
+SENT	1507W-BOVO,18.141
+1	den	ADV	דען	deN	_
+2	zul	MDF	זול	zvl	_
+3	er	PRO	ער	er	_
+4	her	RP-ADV	הער	her	_
+5	kumn	VB	קומן	kvmN	_
+6	ubr	P	אובר	Avbr	_
+7	stuk	N	סטוק	stvk	_
+8	un'	CONJ	אונ'	Avn'	_
+9	ubr	P	אובר	Avbr	_
+10	steynn	N	סטײנן	stYnN	_
+11	un'	CONJ	אונ'	Avn'	_
+12	eyn	RP	אײן	AYN	_
+13	nemn	VB	נעמן	nemN	_
+14	di	D	די	dy	_
+15	stt	N	סטט	stt	_
+16	vur	P	װוּר	VUr	_
+17	aln	Q	אַלן	AalN	_
+18	zkhn	N	זכן	zxN	_
+
+SENT	1507W-BOVO,18.142
+1	za	ADV	זאַ	zAa	_
+2	vil	MDF	װיל	Vyl	_
+3	ikh	PRO	איך	AyX	_
+4	den	ADV	דען	deN	_
+5	zer	ADV	זער	zer	_
+6	sreyan	VB	סרײאַן	srYAaN	_
+7	un'	CONJ	אונ'	Avn'	_
+8	veynn	VB	װײנן	VYnN	_
+9	ver	RDF	װער	Ver	_
+10	ikh	PRO	איך	AyX	_
+11	noyart	FP	נױאַרט	nWAart	_
+12	kenn	MD	קענן	kenN	_
+13	vur	P	װוּר	VUr	_
+14	grusm	ADJ	גרוסם	grvsM	_
+15	lakhn	N	לאַכן	lAaxN	_
+
+SENT	1507W-BOVO,18.143
+1	mit	P	מיט	myt	_
+2	im	PRO	אים	AyM	_
+3	vil	MDF	װיל	Vyl	_
+4	ikh	PRO	איך	AyX	_
+5	mikh	PRO	מיך	myX	_
+6	bld	ADV	בלד	bld	_
+7	vr_eynn	VB	װר_ײנן	Vr_YnN	_
+
+SENT	1507W-BOVO,18.144
+1	gr	ADV	גר	gr	_
+2	bld	ADV	בלד	bld	_
+3	veln	MDF	װעלן	VelN	_
+4	mir	PRO	מיר	myr	_
+5	di	D	די	dy	_
+6	hukhtseyt	N	הוכצײט	hvxqYt	_
+7	mkhn	VB	מכן	mxN	_
+
+SENT	1507W-BOVO,18.145
+1	un'	CONJ	אונ'	Avn'	_
+2	tag	N	תּג	Tg	_
+3	un'	CONJ	אונ'	Avn'	_
+4	nkht	N	נכט	nxt	_
+5	vil	MDF	װיל	Vyl	_
+6	ikh	PRO	איך	AyX	_
+7	an	P	אַן	AaN	_
+8	im	PRO	אים	AyM	_
+9	hengn	VB	הענגן	hengN	_
+
+SENT	1507W-BOVO,18.146
+1	vs	WPRO	װס	Vs	_
+2	ikh	PRO	איך	AyX	_
+3	vur_zoymt	VBN	װוּר_זױמט	VUr_zWmt	_
+4	han	HVF	האַן	hAaN	_
+5	vil	MDF	װיל	Vyl	_
+6	ikh	PRO	איך	AyX	_
+7	eyn	RP	אײן	AYN	_
+8	brengn	VB	ברענגן	brengN	_
+
+SENT	1507W-BOVO,19.148
+1	azbld	ADV	אַזבלד	Aazbld	_
+2	nm	VBF	נם	nM	_
+3	ritsrd	NPR	ריצרד	ryqrd	_
+
+SENT	1507W-BOVO,19.149
+1	un'	CONJ	אונ'	Avn'	_
+2	bun	P	בון	bvN	_
+3	ir	PRO	איר	Ayr	_
+4	shid	VBF	שיד	$yd	_
+5	er	PRO	ער	er	_
+
+SENT	1507W-BOVO,19.150
+1	un'	CONJ	אונ'	Avn'	_
+2	nm	VBF	נם	nM	_
+3	den	D	דען	deN	_
+4	brif	N	בריף	bryF	_
+
+SENT	1507W-BOVO,19.151
+1	un'	CONJ	אונ'	Avn'	_
+2	tsukh	VBF	צוך	qvX	_
+3	zeyn	PRO$	זײן	zYN	_
+4	strusn	N	סטרוסן	strvsN	_
+
+SENT	1507W-BOVO,19.152
+1	dukh	ADV	דוך	dvX	_
+2	gidukht	VBF	גידוכט	gydvxt	_
+3	er	PRO	ער	er	_
+4	an	P	אַן	AaN	_
+5	zeyn	PRO$	זײן	zYN	_
+6	hern	N	הערן	herN	_
+7	alza	ADV	אַלזאַ	AalzAa	_
+8	bider	ADJ	בידער	byder	_
+
+SENT	1507W-BOVO,19.153
+1	un'	CONJ	אונ'	Avn'	_
+2	treyb	VBF	טרײב	trYb	_
+3	mit	P	מיט	myt	_
+4	im	PRO	אים	AyM	_
+5	zelbr	ADV	זעלבר	zelbr	_
+6	eyn	D	אײן	AYN	_
+7	yamr	N	יאַמר	yAamr	_
+8	grusn	ADJ	גרוסן	grvsN	_
+
+SENT	1507W-BOVO,19.154
+1	er	PRO	ער	er	_
+2	ht	VBF	הט	ht	_
+3	uft	ADV	אופֿט	Avft	_
+4	mut	N	מוט	mvt	_
+5	um	RP	אום	AvM	_
+6	tsu	TO	צו	qv	_
+7	kern	VB	קרן	krN	_
+8	vidr	ADV	װידר	Vydr	_
+
+SENT	1507W-BOVO,19.155
+1	dukh	ADV	דוך	dvX	_
+2	valt	MDF	װאַלט	VAalt	_
+3	in	PRO	אין	AyN	_
+4	der	D	דער	der	_
+5	toyvl	N	טובֿל	tv~l	_
+6	nit	NEG	ניט	nyt	_
+7	lusn	VB	לוסן	lvsN	_
+
+SENT	1507W-BOVO,19.156
+1	ds	D	דס	ds	_
+2	unklig	N	אונקליג	Avnklyg	_
+3	zult	MDF	זולט	zvlt	_
+4	zikh	PRO	זיך	zyX	_
+5	azu	ADV	אַזו	Aazv	_
+6	sntsn	VB	סנצן	snqN	_
+
+SENT	1507W-BOVO,19.157
+1	er	PRO	ער	er	_
+2	tsukh	VBF	צוך	qvX	_
+3	da_hin	ADV	דאַ_הין	dAa_hyN	_
+
+SENT	1507W-BOVO,19.158
+1	un'	CONJ	אונ'	Avn'	_
+2	km	VBF	קם	kM	_
+3	gin	P	גין	gyN	_
+4	mgntsh	NPR	מגנטש	mgnt$	_
+
+SENT	1507W-BOVO,20.160
+1	er	PRO	ער	er	_
+2	reyt	VBF	רײט	rYt	_
+3-4	tsum	P~D	צום	qvM	_
+3	tsu	P	צו	qv	_
+4	m	D	מ	m	_
+5	palis	N	פּאַליס	pAalys	_
+
+SENT	1507W-BOVO,20.161
+1	un'	CONJ	אונ'	Avn'	_
+2	band	VBF	באַנד	bAand	_
+3	an	RP	אַן	AaN	_
+4	zeyn	PRO$	זײן	zYN	_
+5	fuln	N	פֿולן	fvlN	_
+
+SENT	1507W-BOVO,20.162
+1	un'	CONJ	אונ'	Avn'	_
+2	km	VBF	קם	kM	_
+3	hnoyf	ADV	הנױף	hnWF	_
+4	in	P	אין	AyN	_
+5	zal	N	ז"ל	z"l	_
+6	gitretn	VBN	גיטרעטן	gytretN	_
+
+SENT	1507W-BOVO,20.163
+1	un'	CONJ	אונ'	Avn'	_
+2	zgt	VBF	זגט	zgt	_
+3	dudun	NPR	דודון	dvdvN	_
+4	vs	WPRO	װס	Vs	_
+5	zi	PRO	זי	zy	_
+6	im	PRO	אים	AyM	_
+7	ht	HVF	הט	ht	_
+8	bivuln	VBN	ביװוּלן	byVUlN	_
+
+SENT	1507W-BOVO,20.164
+1	un'	CONJ	אונ'	Avn'	_
+2	gb	VBF	גב	gb	_
+3	im	PRO	אים	AyM	_
+4	den	D	דען	deN	_
+5	brif	N	בריף	bryF	_
+6	as	C	אַס	Aas	_
+7	zi	PRO	זי	zy	_
+8	in	PRO	אין	AyN	_
+9	ht	HVF	הט	ht	_
+10	gibetn	VBN	גיבעטן	gybetN	_
+
+SENT	1507W-BOVO,20.165
+1	er	PRO	ער	er	_
+2	leyt	VBF	לײט	lYt	_
+3	den	D	דען	deN	_
+4	brif	N	בריף	bryF	_
+5	tsvey	NUM	צװײ	qVY	_
+6	drey	NUM	דרײ	drY	_
+7	muln	N	מולן	mvlN	_
+
+SENT	1507W-BOVO,20.166
+1	un'	CONJ	אונ'	Avn'	_
+2	dr_nukh	DR+P	דר_נוך	dr_nvX	_
+3	veyz	VBF	װײז	VYz	_
+4	er	PRO	ער	er	_
+5	in	PRO	אין	AyN	_
+6	zeynn	PRO$	זײנן	zYnN	_
+7	veyzn	ADJ	װײזן	VYzN	_
+8	retn	N	רעטן	retN	_
+
+SENT	1507W-BOVO,20.167
+1	un'	CONJ	אונ'	Avn'	_
+2	mit	P	מיט	myt	_
+3	grusn	ADJ	גרוסן	grvsN	_
+4	tsurn	N	צורן	qvrN	_
+5	zgt	VBF	זגט	zgt	_
+6	er	PRO	ער	er	_
+7	tsu	P	צו	qv	_
+8	zeyn	PRO$	זײן	zYN	_
+9	kutiln	N	קוטילן	kvtylN	_
+10	shlgt	VBI	שלגט	$lgt	_
+11	vluks	ADV	װלוקס	Vlvks	_
+12	oyf	P	אױף	AWF	_
+13	den	D	דען	deN	_
+14	mit	P	מיט	myt	_
+15	knutiln	N	קנוטילן	knvtylN	_
+
+SENT	1507W-BOVO,21.169
+1	vangt	VBI	װאַנגט	VAangt	_
+2	in	PRO	אין	AyN	_
+
+SENT	1507W-BOVO,21.170
+1	un'	CONJ	אונ'	Avn'	_
+2	verft	VBI	װערפֿט	Verft	_
+3	in	PRO	אין	AyN	_
+4	in	P	אין	AyN	_
+5	turn	N	טורן	tvrN	_
+
+SENT	1507W-BOVO,21.171
+1	der	D	דער	der	_
+2	vr_retr	N	װר_רעטר	Vr_retr	_
+3	der	D	דער	der	_
+4	mus	MDF	מוס	mvs	_
+5	hengn	VB	הענגן	hengN	_
+
+SENT	1507W-BOVO,21.172
+1	ikh	PRO	איך	AyX	_
+2	vil	MDF	װיל	Vyl	_
+3	nit	NEG	ניט	nyt	_
+4	gitroyan	VB	גיטרױאַן	gytrWAaN	_
+5	der	D	דער	der	_
+6	valsn	ADJ	װאַלסן	VAalsN	_
+7	hurn	N	הורן	hvrN	_
+
+SENT	1507W-BOVO,21.173
+1	zi	PRO	זי	zy	_
+2	meynt	VBF	מײנט	mYnt	_
+3	mikh	PRO	מיך	myX	_
+4	durt_hin	ADV	דורט_הין	dvrt_hyN	_
+5	tsu	TO	צו	qv	_
+6	sprengn	VB	ספּרענגן	sprengN	_
+
+SENT	1507W-BOVO,21.174
+1	di	D	די	dy	_
+2	vur_retrey	N	װוּר_רעטרײ	VUr_retrY	_
+3	di	WPRO	די	dy	_
+4	zi	PRO	זי	zy	_
+5	an	P	אַן	AaN	_
+6	meyn	PRO$	מײן	mYN	_
+7	vatir	N	װאַטיר	VAatyr	_
+8	vurn	VBF	װוּרן	VUrN	_
+9	da	DR	דאַ	dAa	_
+10	meynn	VBF	מײנן	mYnN	_
+11	zi	PRO	זי	zy	_
+12	mikh	PRO	מיך	myX	_
+13	tsu	P	צו	qv	_
+14	tsu	TO	צו	qv	_
+15	brengn	VB	ברענגן	brengN	_
+
+SENT	1507W-BOVO,21.175
+1	ritsrd	NPR	ריצרד	ryqrd	_
+2	dr_shrk	VBF	דר_שרק	dr_$rk	_
+
+SENT	1507W-BOVO,21.176
+1	un'	CONJ	אונ'	Avn'	_
+2	hub	VBF	הוב	hvb	_
+3	an	RP	אַן	AaN	_
+4	tsu	TO	צו	qv	_
+5	eyehn	VB	אײעהן	AYehN	_
+6	genidgr	ADJ	גענידגר	genydgr	_
+7	her	N	הער	her	_
+8	ir	PRO	איר	Ayr	_
+9	zult	MDF	זולט	zvlt	_
+10	oykh	PRO	אױך	AWX	_
+11	nit	NEG	ניט	nyt	_
+12	vr_gehn	VB	װר_געהן	Vr_gehN	_
+
+SENT	1507W-BOVO,22.178
+1	shikt	VBI	שיקט	$ykt	_
+2	oyz	RP	אױז	AWz	_
+
+SENT	1507W-BOVO,22.179
+1	un'	CONJ	אונ'	Avn'	_
+2	zeyt	BEI	זײט	zYt	_
+3	oykh	PRO	אױך	AWX	_
+4	s	PRO	ס	s	_
+5	dr_vragn	VAG	דר_װראַגן	dr_VrAagN	_
+
+SENT	1507W-BOVO,22.180
+1	ikh	PRO	איך	AyX	_
+2	vil	MDF	װיל	Vyl	_
+3	mikh	PRO	מיך	myX	_
+4	gign	P	גיגן	gygN	_
+5	oykh	PRO	אױך	AWX	_
+6	vur_bindn	VB	װוּר_בינדן	VUr_byndN	_
+
+SENT	1507W-BOVO,22.181
+1	vint	VBF	װינט	Vynt	_
+2	ir	PRO	איר	Ayr	_
+3	ds	C	דס	ds	_
+4	ikh	PRO	איך	AyX	_
+5	hun	HVF	הון	hvN	_
+6	gilugn	VBN	גילוגן	gylvgN	_
+7	za	ADV	זאַ	zAa	_
+8	zult	MDF	זולט	zvlt	_
+9	ir	PRO	איר	Ayr	_
+10	mikh	PRO	מיך	myX	_
+11	lebndig	ADJ	לעבנדיג	lebndyg	_
+12	sindn	VB	סינדן	syndN	_
+
+SENT	1507W-BOVO,22.182
+1	dudun	NPR	דודון	dvdvN	_
+2	gidukht	VBF	גידוכט	gydvxt	_
+3	ikh	PRO	איך	AyX	_
+4	zult	MDF	זולט	zvlt	_
+5	es	PRO	עס	es	_
+6	vagn	VB	װאַגן	VAagN	_
+
+SENT	1507W-BOVO,22.183
+1	er	PRO	ער	er	_
+2	hut	VBF	הוט	hvt	_
+3	lekht	ADV	לעכט	lext	_
+4	var	ADJ	װאַר	VAar	_
+
+SENT	1507W-BOVO,22.184
+1	ds	D	דס	ds	_
+2	vurd	RDF	װוּרד	VUrd	_
+3	ikh	PRO	איך	AyX	_
+4	vindn	VB	װינדן	VyndN	_
+
+SENT	1507W-BOVO,22.185
+1	es	PRO	עס	es	_
+2	iz	VBF	איז	Ayz	_
+3	eyn	D	אײן	AYN	_
+4	zkh	N	זך	zX	_
+5	di	WPRO	די	dy	_
+6	da	ADV	דאַ	dAa	_
+7	iz	VBF	איז	Ayz	_
+8	tsu	TO	צו	qv	_
+9	glbn	VB	גלבן	glbN	_
+
+SENT	1507W-BOVO,22.186
+1	ven	CONJ	װען	VeN	_
+2	keyn	Q	קײן	kYN	_
+3	iungi	ADJ	איונגי	Ayvngy	_
+4	vroy	N	װרױ	VrW	_
+5	mag	MDF	מאַג	mAag	_
+6	keyn	Q	קײן	kYN	_
+7	altn	ADJ	אַלטן	AaltN	_
+8	mn	N	מן	mN	_
+9	hbn	VB	הבן	hbN	_
+
+SENT	1507W-BOVO,23.188
+1	er	PRO	ער	er	_
+2	sprkh	VBF	ספּרך	sprX	_
+3	tsu	P	צו	qv	_
+4	ritsrd	NPR	ריצרד	ryqrd	_
+5	tsikh	VBI	ציך	qyX	_
+6	hin	RP-ADV	הין	hyN	_
+7	gr	ADV	גר	gr	_
+8	drut	ADV	דרוט	drvt	_
+
+SENT	1507W-BOVO,23.189
+1	un'	CONJ	אונ'	Avn'	_
+2	heys	VBI	הײס	hYs	_
+3	zi	PRO	זי	zy	_
+4	zikh	PRO	זיך	zyX	_
+5	val	ADV	װאַל	VAal	_
+6	droyf	DR+P	דרױף	drWF	_
+7	rikhtn	VB	ריכטן	ryxtN	_
+
+SENT	1507W-BOVO,23.190
+1	sprikh	VBI	ספּריך	spryX	_
+2	ikh	PRO	איך	AyX	_
+3	vil	MDF	װיל	Vyl	_
+4	ir	PRO	איר	Ayr	_
+5	helfn	VB	העלפֿן	helfN	_
+6	oyz	P	אױז	AWz	_
+7	ir	PRO$	איר	Ayr	_
+8	nut	N	נוט	nvt	_
+
+SENT	1507W-BOVO,23.191
+1	ds	D	דס	ds	_
+2	vil	MDF	װיל	Vyl	_
+3	ikh	PRO	איך	AyX	_
+4	mikh	PRO	מיך	myX	_
+5	gign	P	גיגן	gygN	_
+6	ir	PRO	איר	Ayr	_
+7	vur_pflikhtn	VB	װוּר_פּפֿליכטן	VUr_pflyxtN	_
+
+SENT	1507W-BOVO,23.192
+1	azu	ADV	אַזו	Aazv	_
+2	brukht	VBF	ברוכט	brvxt	_
+3	ir	PRO	איר	Ayr	_
+4	ritsrd	NPR	ריצרד	ryqrd	_
+5	ds	D	דס	ds	_
+6	butn_brut	N	בוטנ_ברוט	bvtn_brvt	_
+
+SENT	1507W-BOVO,23.193
+1	nun	ADV	נ	n	_
+2	hurt	VBI	הורט	hvrt	_
+3	oyf	RP	אױף	AWF	_
+4	vs	WPRO	װס	Vs	_
+5	zi	PRO	זי	zy	_
+6	kunt	MDF	קונט	kvnt	_
+7	dikhtn	VB	דיכטן	dyxtN	_
+
+SENT	1507W-BOVO,23.194
+1	da	C	דאַ	dAa	_
+2	es	PRO	עס	es	_
+3	zi	PRO	זי	zy	_
+4	nun	ADV	נ	n	_
+5	dukht	VBF	דוכט	dvxt	_
+6	tseyt	N	צײט	qYt	_
+7	der	D	דער	der	_
+8	zkhn	N	זכן	zxN	_
+9	da	ADV	דאַ	dAa	_
+10	bigund	VBF	ביגונד	bygvnd	_
+11	zi	PRO	זי	zy	_
+12	zikh	PRO	זיך	zyX	_
+13	gr	ADV	גר	gr	_
+14	krnk	ADJ	קרנק	krnk	_
+15	tsu	TO	צו	qv	_
+16	makhn	VB	מאַכן	mAaxN	_
+
+SENT	1507W-BOVO,24.196
+1	an	P	אַן	AaN	_
+2	eynm	D	אײנם	AYnM	_
+3	zuntg	N	זונטג	zvntg	_
+4	nkht	N	נכט	nxt	_
+5	tsu	P	צו	qv	_
+6	dreyan	NUM	דרײאַן	drYAaN	_
+7	der	D	דער	der	_
+8	bura	N	בוראַ	bvrAa	_
+9	mus	MDF	מוס	mvs	_
+10	zi	PRO	זי	zy	_
+11	veln	VB	װעלן	VelN	_
+12	un'	CONJ	אונ'	Avn'	_
+13	veygn	VB	װײגן	VYgN	_
+14	da	ADV	דאַ	dAa	_
+15	hub	VBF	הוב	hvb	_
+16	zi	PRO	זי	zy	_
+17	an	RP	אַן	AaN	_
+18	tsu	TO	צו	qv	_
+19	krukhtsn	VB	קרוכצן	krvxqN	_
+20	un'	CONJ	אונ'	Avn'	_
+21	tsu	TO	צו	qv	_
+22	sreyan	VB	סרײאַן	srYAaN	_
+
+SENT	1507W-BOVO,24.197
+1	keyn	Q	קײן	kYN	_
+2	mens	N	מענס	mens	_
+3	kunt	MDF	קונט	kvnt	_
+4	zi	PRO	זי	zy	_
+5	dr_sveygn	VB	דר_סװײגן	dr_sVYgN	_
+
+SENT	1507W-BOVO,24.198
+1	lung	N	לונג	lvng	_
+2	un'	CONJ	אונ'	Avn'	_
+3	lebr	N	לעבר	lebr	_
+4	mkht	VBF	מכט	mxt	_
+5	zi	PRO	זי	zy	_
+6	zikh	PRO	זיך	zyX	_
+7	speyan	VB	ספּײאַן	spYAaN	_
+
+SENT	1507W-BOVO,24.199
+1	zi	PRO	זי	zy	_
+2	sprkh	VBF	ספּרך	sprX	_
+3	dis	D	דיס	dys	_
+4	tuts	N	טוץ	tvQ	_
+5	dis	D	דיס	dys	_
+6	bin	VBF	בין	byN	_
+7	ikh	PRO	איך	AyX	_
+8	eygn	ADJ	אײגן	AYgN	_
+
+SENT	1507W-BOVO,24.200
+1	oyvi	INTJ	אױװי	AWVy	_
+2	meyn	PRO$	מײן	mYN	_
+3	lebn	N	לעבן	lebN	_
+4	mus	MDF	מוס	mvs	_
+5	ikh	PRO	איך	AyX	_
+6	lusn	VB	לוסן	lvsN	_
+
+SENT	1507W-BOVO,24.201
+1	di	D	די	dy	_
+2	mutr	N	מוטר	mvtr	_
+3	vil	MDF	װיל	Vyl	_
+4	mir	PRO	מיר	myr	_
+5	ds	D	דס	ds	_
+6	herts	N	הערץ	herQ	_
+7	ab	RP	אַב	Aab	_
+8	stusn	VB	סטוסן	stvsN	_
+
+SENT	1507W-BOVO,25.203
+1	der	D	דער	der	_
+2	hertsug	N	הערצוג	herqvg	_
+3	kam	VBF	קאַם	kAaM	_
+4	tsu	P	צו	qv	_
+5	ir	PRO	איר	Ayr	_
+6	gigangn	VBN	גיגאַנגן	gygAangN	_
+
+SENT	1507W-BOVO,25.204
+1	du	PRO	דו	dv	_
+2	libi	ADJ	ליבי	lyby	_
+3	krun	N	קרון	krvN	_
+4	vas	WPRO	װאַס	VAas	_
+5	iz	BEF	איז	Ayz	_
+6	dir	PRO	דיר	dyr	_
+7	vidr_uarn	VBN	װידר_ואַרן	Vydr_vAarN	_
+
+SENT	1507W-BOVO,25.205
+1	ds	D	דס	ds	_
+2	harn_glaz	N	האַרנ_גלאַז	hAarn_glAaz	_
+3	tet	DOF	טעט	tet	_
+4	er	PRO	ער	er	_
+5	ir	PRO	איר	Ayr	_
+6	langn	VB	לאַנגן	lAangN	_
+
+SENT	1507W-BOVO,25.206
+1	un'	CONJ	אונ'	Avn'	_
+2	sprkh	VBF	ספּרך	sprX	_
+3	libs	ADJ	ליבס	lybs	_
+4	herts	N	הערץ	herQ	_
+5	da	ADV	דאַ	dAa	_
+6	vang	VBI	װאַנג	VAang	_
+7	deyn	PRO$	דײן	dYN	_
+8	harn	N	האַרן	hAarN	_
+
+SENT	1507W-BOVO,25.207
+1	un'	CONJ	אונ'	Avn'	_
+2	zag	VBI	זאַג	zAag	_
+3	mir	PRO	מיר	myr	_
+4	vaur	WPRO	װאַור	VAavr	_
+5	nukh	P	נוך	nvX	_
+6-7	hustu	VBF~PRO	הוסטו	hvstv	_
+6	hus	VBF	הוס	hvs	_
+7	tu	PRO	טו	tv	_
+8	vur_langn	N	װוּר_לאַנגן	VUr_lAangN	_
+
+SENT	1507W-BOVO,25.208
+1	keynrley	Q	קײנרלײ	kYnrlY	_
+2-3	zulstu	MDF~PRO	זולסטו	zvlstv	_
+2	zuls	MDF	זולס	zvls	_
+3	tu	PRO	טו	tv	_
+4	dir	PRO	דיר	dyr	_
+5	nit	NEG	ניט	nyt	_
+6	sparn	VB	ספּאַרן	spAarN	_
+
+SENT	1507W-BOVO,25.209
+1	zag	VBI	זאַג	zAag	_
+2	mir	PRO	מיר	myr	_
+3	vas	WPRO	װאַס	VAas	_
+4	du	PRO	דו	dv	_
+5	vilst	MDF	װילסט	Vylst	_
+6	hbn	VB	הבן	hbN	_
+7	gern	ADV	גערן	gerN	_
+
+SENT	1507W-BOVO,25.210
+1	iz	VBF	איז	Ayz	_
+2	es	PRO	עס	es	_
+3	in	P	אין	AyN	_
+4	der	D	דער	der	_
+5	velt	N	װעלט	Velt	_
+6	zul	MDF	זול	zvl	_
+7	es	PRO	עס	es	_
+8	dir	PRO	דיר	dyr	_
+9	vern	VB	װערן	VerN	_
+
+SENT	1507W-BOVO,26.212
+1	brnduneya	NPR	ברנדונײאַ	brndvnYAa	_
+2	sprkh	VBF	ספּרך	sprX	_
+3	turst	MDF	טורסט	tvrst	_
+4	ikh	PRO	איך	AyX	_
+5	oykh	PRO	אױך	AWX	_
+6	muan	VB	מואַן	mvAaN	_
+7	ikh	PRO	איך	AyX	_
+8	valt	MDF	װאַלט	VAalt	_
+9	oykh	PRO	אױך	AWX	_
+10	gern	ADV	גערן	gerN	_
+11	bitn	VB	ביטן	bytN	_
+12	eyn	D	אײן	AYN	_
+13	betleyn	N	בעטלײן	betlYN	_
+14	dz	C	דז	dz	_
+15	ir	PRO	איר	Ayr	_
+16	oykh	PRO	אױך	AWX	_
+17	zult	MDF	זולט	zvlt	_
+18	murgn	ADV	מורגן	mvrgN	_
+19	uruan	VB	אורואַן	AvrvAaN	_
+20	un'	CONJ	אונ'	Avn'	_
+21	reytn	VB	רײטן	rYtN	_
+22	yagn	VB	יאַגן	yAagN	_
+23	nukh	P	נוך	nvX	_
+24	eyn	D	אײן	AYN	_
+25	vild_bretln	N	װילד_ברעטלן	Vyld_bretlN	_
+
+SENT	1507W-BOVO,26.213
+1	ds	D	דס	ds	_
+2	valt	MDF	װאַלט	VAalt	_
+3	ikh	PRO	איך	AyX	_
+4	esn	VB	עסן	esN	_
+5	in	P	אין	AyN	_
+6	eynr	D	אײנר	AYnr	_
+7	bruan	N	ברואַן	brvAaN	_
+8	udr	CONJ	אודר	Avdr	_
+9	droys	DR+P	דרױס	drWs	_
+10	mkhn	VB	מכן	mxN	_
+11	eyn	D	אײן	AYN	_
+12	varm	ADJ	װאַרם	VAarM	_
+13	bretln	N	ברעטלן	bretlN	_
+
+SENT	1507W-BOVO,26.214
+1	un'	CONJ	אונ'	Avn'	_
+2	libr	ADJ	ליבר	lybr	_
+3	her	N	הער	her	_
+4	kunt	MDF	קונט	kvnt	_
+5	ir	PRO	איר	Ayr	_
+6	mir	PRO	מיר	myr	_
+7	s	PRO	ס	s	_
+8	gisikn	VB	גיסיקן	gysykN	_
+9	mikh	PRO	מיך	myX	_
+10	dukht	VBF	דוכט	dvxt	_
+11	es	PRO	עס	es	_
+12	vaurd	RDF	װאַורד	VAavrd	_
+13	mikh	PRO	מיך	myX	_
+14	gnts	ADV	גנץ	gnQ	_
+15	dr_kvikn	VB	דר_קװיקן	dr_kVykN	_
+
+SENT	1507W-BOVO,27.216
+1	er	PRO	ער	er	_
+2	ligt	VBF	ליגט	lygt	_
+3	zikh	PRO	זיך	zyX	_
+4	tsu	P	צו	qv	_
+5	ir	PRO	איר	Ayr	_
+
+SENT	1507W-BOVO,27.217
+1	un'	CONJ	אונ'	Avn'	_
+2	zi	PRO	זי	zy	_
+3	mit	P	מיט	myt	_
+4	anndr	PRO	אַננדר	Aanndr	_
+5	ritn	VBF	ריטן	rytN	_
+6	bis	C	ביס	bys	_
+7	es	PRO	עס	es	_
+8	bigund	VBF	ביגונד	bygvnd	_
+9	da_her	ADV	דאַ_הער	dAa_her	_
+10	tsu	TO	צו	qv	_
+11	tgn	VB	טגן	tgN	_
+
+SENT	1507W-BOVO,27.218
+1	da	ADV	דאַ	dAa	_
+2	vur	VBF	װוּר	VUr	_
+3	er	PRO	ער	er	_
+4	vluks	ADV	װלוקס	Vlvks	_
+5	oyz	P	אױז	AWz	_
+6	zeynm	PRO$	זײנם	zYnM	_
+7	bitn	N	ביטן	bytN	_
+
+SENT	1507W-BOVO,27.219
+1	un'	CONJ	אונ'	Avn'	_
+2	his	VBF	היס	hys	_
+3	im	PRO	אים	AyM	_
+4	zeyn	PRO$	זײן	zYN	_
+5	hrnis	N	הרניס	hrnys	_
+6	an	RP	אַן	AaN	_
+7	dr_trgn	VB	דר_טרגן	dr_trgN	_
+
+SENT	1507W-BOVO,27.220
+1	un'	CONJ	אונ'	Avn'	_
+2	sprkh	VBF	ספּרך	sprX	_
+3	mn	PRO	מן	mN	_
+4	zult	MDF	זולט	zvlt	_
+5	oyf	RP	אױף	AWF	_
+6	trumbitn	VB	טרומביטן	trvmbytN	_
+
+SENT	1507W-BOVO,27.221
+1	mit	P	מיט	myt	_
+2	al	Q	אַל	Aal	_
+3	zeyni	PRO$	זײני	zYny	_
+4	knekhtn	N	קנעכטן	knextN	_
+5	valt	MDF	װאַלט	VAalt	_
+6	er	PRO	ער	er	_
+7	tsihn	VB	ציהן	qyhN	_
+8	iagn	VB	איאַגן	AyAagN	_
+
+SENT	1507W-BOVO,27.222
+1	da	C	דאַ	dAa	_
+2	bruduneyh	NPR	ברודונײה	brvdvnYh	_
+3	bigund	VBF	ביגונד	bygvnd	_
+4	ds	D	דס	ds	_
+5	tsu	TO	צו	qv	_
+6	zehn	VB	זעהן	zehN	_
+7	da	ADV	דאַ	dAa	_
+8	sprkh	VBF	ספּרך	sprX	_
+9	zi	PRO	זי	zy	_
+10	libr	ADJ	ליבר	lybr	_
+11	her	N	הער	her	_
+12	ds	D	דס	ds	_
+13	zul	MDF	זול	zvl	_
+14	nit	NEG	ניט	nyt	_
+15	gisehn	VB	גיסעהן	gysehN	_
+
+SENT	1507W-BOVO,28.224
+1	ikh	PRO	איך	AyX	_
+2	zg	VBF	זג	zg	_
+3	oykh	PRO	אױך	AWX	_
+4	libr	ADJ	ליבר	lybr	_
+5	her	N	הער	her	_
+6	troyan	ADV	טרױאַן	trWAaN	_
+7-8	im	P~D	אים	AyM	_
+7	i	P	אי	Ay	_
+8	m	D	מ	m	_
+9	rekhtn	N	רעכטן	rextN	_
+10	ds	D	דס	ds	_
+11	harnish	N	האַרניש	hAarny$	_
+12	mukht	VBF	מוכט	mvxt	_
+13	oykh	PRO	אױך	AWX	_
+14	dr_hitsn	VB	דר_היצן	dr_hyqN	_
+
+SENT	1507W-BOVO,28.225
+1	durft	MDF	דורפֿט	dvrft	_
+2	ir	PRO	איר	Ayr	_
+3	dukh	ADV	דוך	dvX	_
+4	mit	P	מיט	myt	_
+5	nimnt	Q	נימנט	nymnt	_
+6	vekhtn	VB	װעכטן	VextN	_
+
+SENT	1507W-BOVO,28.226
+1	drum	DR+P	דרום	drvM	_
+2	rut	VBF	רוט	rvt	_
+3	ikh	PRO	איך	AyX	_
+4	oykh	PRO	אױך	AWX	_
+5	mit	P	מיט	myt	_
+6	vitsn	N	װיצן	VyqN	_
+
+SENT	1507W-BOVO,28.227
+1	tsikht	VBI	ציכט	qyxt	_
+2	noyiart	FP	נױיִאַרט	nWyiAart	_
+3	da_hin	ADV	דאַ_הין	dAa_hyN	_
+4	mit	P	מיט	myt	_
+5	tsvin	NUM	צװין	qVyN	_
+6	knekhtn	N	קנעכטן	knextN	_
+
+SENT	1507W-BOVO,28.228
+1	di	D	די	dy	_
+2	ibrign	ADJ	איבריגן	AybrygN	_
+3	lust	VBI	לוסט	lvst	_
+4	da_heymn	ADV	דאַ_הײמן	dAa_hYmN	_
+5	zitsn	VB	זיצן	zyqN	_
+
+SENT	1507W-BOVO,28.229
+1	ir	PRO	איר	Ayr	_
+2	ht	VBF	הט	ht	_
+3	ginugn	Q	גינוגן	gynvgN	_
+4	gizelspt	N	גיזעלספּט	gyzelspt	_
+5	an	X	אַן	AaN	_
+6	in	P	אין	AyN	_
+7	ridn	N	רידן	rydN	_
+
+SENT	1507W-BOVO,28.230
+1	der	D	דער	der	_
+2	lib	ADJ	ליב	lyb	_
+3	ludil	N	לודיל	lvdyl	_
+4	lis	VBF	ליס	lys	_
+5	zikh	PRO	זיך	zyX	_
+6	ubr_ridn	VB	אובר_רידן	Avbr_rydN	_
+
+SENT	1507W-BOVO,29.232
+1	un'	CONJ	אונ'	Avn'	_
+2	reyt	VBF	רײט	rYt	_
+3	da_hin	ADV	דאַ_הין	dAa_hyN	_
+4	den	D	דען	deN	_
+5	zelvig	ADJ	זעלװיג	zelVyg	_
+6	murgn	N	מורגן	mvrgN	_
+7	der	D	דער	der	_
+8	hertsug	N	הערצוג	herqvg	_
+9	vrum	ADJ	װרום	VrvM	_
+10	un'	CONJ	אונ'	Avn'	_
+11	der_tsu	DR+P	דער_צו	der_qv	_
+12	erbr	ADJ	ערבר	erbr	_
+13	mit	P	מיט	myt	_
+14	tsvin	NUM	צװין	qVyN	_
+15	knekhtn	N	קנעכטן	knextN	_
+16	un	P	און	AvN	_
+17	ali	Q	אַלי	Aaly	_
+18	zurgn	N	זורגן	zvrgN	_
+
+SENT	1507W-BOVO,29.233
+1	oyf	P	אױף	AWF	_
+2	zeynr	PRO$	זײנר	zYnr	_
+3	hnt	N	הנט	hnt	_
+4	vurt	VBF	װוּרט	VUrt	_
+5	er	PRO	ער	er	_
+6	eyn	D	אײן	AYN	_
+7	sperbr	N	ספּערבר	sperbr	_
+
+SENT	1507W-BOVO,29.234
+1	nun	ADV	נ	n	_
+2	ht	HVF	הט	ht	_
+3	zikh	PRO	זיך	zyX	_
+4	in	P	אין	AyN	_
+5	dem	D	דעם	deM	_
+6	vald	N	װאַלד	VAald	_
+7	vur_burgn	VBN	װוּר_בורגן	VUr_bvrgN	_
+8	hertsug	N	הערצוג	herqvg	_
+9	dudun	NPR	דודון	dvdvN	_
+10	der	D	דער	der	_
+11	lands_vur_derbr	N	לאַנדס_װוּר_דערבר	lAands_VUr_derbr	_
+
+SENT	1507W-BOVO,29.235
+1	un'	CONJ	אונ'	Avn'	_
+2	vartt	VBF	װאַרטט	VAartt	_
+3	durt	ADV	דורט	dvrt	_
+4	nit	NEG	ניט	nyt	_
+5	veyt	ADV	װײט	VYt	_
+6	fun	P	פֿון	fvN	_
+7	dann	ADV	דאַנן	dAanN	_
+8	mit	P	מיט	myt	_
+9	vir_hundrt	NUM	װיר_הונדרט	Vyr_hvndrt	_
+10	giharnishte	ADJ	גיהאַרנישטע	gyhAarny$te	_
+11	mann	N	מאַנן	mAanN	_
+
+SENT	1507W-BOVO,30.237
+1	hertsug	N	הערצוג	herqvg	_
+2	gvidun	NPR	גװידון	gVydvN	_
+3	mit	P	מיט	myt	_
+4	zeynn	PRO$	זײנן	zYnN	_
+5	hundn	N	הונדן	hvndN	_
+6	der	D	דער	der	_
+7	yagt	VBF	יאַגט	yAagt	_
+8	nurt	FP	נורט	nvrt	_
+9	eyn	D	אײן	AYN	_
+10	kleynis	ADJ	קלײניס	klYnys	_
+11	veyln	N	װײלן	VYlN	_
+
+SENT	1507W-BOVO,30.238
+1	da	C	דאַ	dAa	_
+2	es	PRO	עס	es	_
+3	dukht	VBF	דוכט	dvxt	_
+4	dudun	NPR	דודון	dvdvN	_
+5	zeyn	PRO$	זײן	zYN	_
+6	stundn	N	סטונדן	stvndN	_
+7	da	ADV	דאַ	dAa	_
+8	km	VBF	קם	kM	_
+9	er	PRO	ער	er	_
+10	vluks	ADV	װלוקס	Vlvks	_
+11	hr_vur	ADV	הר_װוּר	hr_VUr	_
+12	tsu	TO	צו	qv	_
+13	eyln	VB	אײלן	AYlN	_
+
+SENT	1507W-BOVO,30.239
+1	un'	CONJ	אונ'	Avn'	_
+2	shlug	VBF	שלוג	$lvg	_
+3	gvidun	NPR	גװידון	gVydvN	_
+4	gr	ADV	גר	gr	_
+5	tifi	ADJ	טיפֿי	tyfy	_
+6	vaundn	N	װאַונדן	VAavndN	_
+
+SENT	1507W-BOVO,30.240
+1	un'	CONJ	אונ'	Avn'	_
+2	shusn	VBF	שוסן	$vsN	_
+3	oyf	P	אױף	AWF	_
+4	in	PRO	אין	AyN	_
+5	mit	P	מיט	myt	_
+6	irn	PRO$	אירן	AyrN	_
+7	pfeyln	N	פּפֿײלן	pfYlN	_
+8	ds	C	דס	ds	_
+9	di	D	די	dy	_
+10	pfeyl	N	פּפֿײל	pfYl	_
+11	bleybn	VBF	בלײבן	blYbN	_
+12	in	P	אין	AyN	_
+13	im	PRO	אים	AyM	_
+14	stekn	RP-V	סטעקן	stekN	_
+
+SENT	1507W-BOVO,30.241
+1	da	ADV	דאַ	dAa	_
+2	starb	VBF	סטאַרב	stAarb	_
+3	er	PRO	ער	er	_
+4	leydr	ADV	לײדר	lYdr	_
+5	oyf	P	אױף	AWF	_
+6	dem	D	דעם	deM	_
+7	vlekn	N	װלעקן	VlekN	_
+
+SENT	1507W-BOVO,31.243
+1	un'	CONJ	אונ'	Avn'	_
+2	da	C	דאַ	dAa	_
+3	dz	D	דז	dz	_
+4	duzig	ADJ	דוזיג	dvzyg	_
+5	nun	ADV	נ	n	_
+6	var	BEF	װאַר	VAar	_
+7	gisehn	VBN	גיסעהן	gysehN	_
+8	hineyn	ADV	הינײן	hynYN	_
+9	in	P	אין	AyN	_
+10	di	D	די	dy	_
+11	stt	N	סטט	stt	_
+12	kamn	VBF	קאַמן	kAamN	_
+13	zi	PRO	זי	zy	_
+14	tsu	TO	צו	qv	_
+15	renn	VB	רענן	renN	_
+
+SENT	1507W-BOVO,31.244
+1	dudun	NPR	דודון	dvdvN	_
+2	dudun	NPR	דודון	dvdvN	_
+3	hubn	VBF	הובן	hvbN	_
+4	zi	PRO	זי	zy	_
+5	an	RP	אַן	AaN	_
+6	tsu	TO	צו	qv	_
+7	eyehn	VB	אײעהן	AYehN	_
+
+SENT	1507W-BOVO,31.245
+1	un'	CONJ	אונ'	Avn'	_
+2	hubn	VBF	הובן	hvbN	_
+3	an	RP	אַן	AaN	_
+4	tsu	TO	צו	qv	_
+5	murdn	VB	מורדן	mvrdN	_
+6	un'	CONJ	אונ'	Avn'	_
+7	tsu	TO	צו	qv	_
+8	brenn	VB	ברענן	brenN	_
+
+SENT	1507W-BOVO,31.246
+1	az	ADV	אַז	Aaz	_
+2	bld	ADV	בלד	bld	_
+3	az	C	אַז	Aaz	_
+4	in	PRO	אין	AyN	_
+5	brndunih	N	ברנדוניה	brndvnyh	_
+6	vr	BEF	װר	Vr	_
+7	dr_zehn	VAG	דר_זעהן	dr_zehN	_
+8	vun	P	װוּן	VUN	_
+9	veytn	ADV	װײטן	VYtN	_
+10	vs	BEF	װס	Vs	_
+11	zi	PRO	זי	zy	_
+12	in	PRO	אין	AyN	_
+13	val	ADV	װאַל	VAal	_
+14	kenn	VAG	קענן	kenN	_
+
+SENT	1507W-BOVO,31.247
+1	un'	CONJ	אונ'	Avn'	_
+2	gr	ADV	גר	gr	_
+3	bihend	ADV	ביהענד	byhend	_
+4	luf	VBF	לוף	lvF	_
+5	zi	PRO	זי	zy	_
+6	im	PRO	אים	AyM	_
+7	antgign	ADV	אַנטגיגן	AantgygN	_
+
+SENT	1507W-BOVO,31.248
+1	un'	CONJ	אונ'	Avn'	_
+2	vurt	VBF	װוּרט	VUrt	_
+3	in	PRO	אין	AyN	_
+4	heym	ADV	הײם	hYM	_
+
+SENT	1507W-BOVO,31.249
+1	er	PRO	ער	er	_
+2	must	MDF	מוסט	mvst	_
+3	zikh	PRO	זיך	zyX	_
+4	tsu	P	צו	qv	_
+5	ir	PRO	איר	Ayr	_
+6	lign	VB	ליגן	lygN	_
+
+SENT	1507W-BOVO,32.251
+1	drum	DR+P	דרום	drvM	_
+2	libn	ADJ	ליבן	lybN	_
+3	hern	N	הערן	herN	_
+4	ir	PRO	איר	Ayr	_
+5	zult	MDF	זולט	zvlt	_
+6	shoyan	VB	שױאַן	$WAaN	_
+7	vs	WPRO	װס	Vs	_
+8	unglik	N	אונגליק	Avnglyk	_
+9	kumt	VBF	קומט	kvmt	_
+10	vun	P	װוּן	VUN	_
+11	den	D	דען	deN	_
+12	buzn	ADJ	בוזן	bvzN	_
+13	veybn	N	װײבן	VYbN	_
+
+SENT	1507W-BOVO,32.252
+1	vi	WADV	װי	Vy	_
+2	mkht	VBF	מכט	mxt	_
+3	di	D	די	dy	_
+4	irn	PRO$	אירן	AyrN	_
+5	mn	N	מן	mN	_
+6	tsu	P	צו	qv	_
+7	stukn	N	סטוקן	stvkN	_
+8	hoyan	VB	הױאַן	hWAaN	_
+9	ds	C	דס	ds	_
+10	zi	PRO	זי	zy	_
+11	iri	PRO$	אירי	Ayry	_
+12	bubrey	N	בוברײ	bvbrY	_
+13	mit	P	מיט	myt	_
+14	dem	D	דעם	deM	_
+15	valt	MDF	װאַלט	VAalt	_
+16	treybn	VB	טרײבן	trYbN	_
+
+SENT	1507W-BOVO,32.253
+1	al	Q	אַל	Aal	_
+2	unglik	N	אונגליק	Avnglyk	_
+3	kumt	VBF	קומט	kvmt	_
+4	vun	P	װוּן	VUN	_
+5	den	D	דען	deN	_
+6	vroyan	N	װרױאַן	VrWAaN	_
+
+SENT	1507W-BOVO,32.254
+1	zekht	VBI	זעכט	zext	_
+2	vs	WPRO	װס	Vs	_
+3	slmh	NPR$	סלמה	slmh	_
+4	hmlkh	H	המלך	hmlX	the_king@
+5	s	$	ס	s	_
+6	bukhr	N	בוכר	bvxr	_
+7	sreybn	VBF	סרײבן	srYbN	_
+8	vi	C	װי	Vy	_
+9	er	PRO	ער	er	_
+10	zukht	VBF	זוכט	zvxt	_
+11	eyn	D	אײן	AYN	_
+12	uroya	N	אורױאַ	AvrWAa	_
+13	eyn	D	אײן	AYN	_
+14	reyni	ADJ	רײני	rYny	_
+15	un	CONJ	און	AvN	_
+16	al	Q	אַל	Aal	_
+17	zeyn	PRO$	זײן	zYN	_
+18	tag	N	תּג	Tg	_
+19	vand	VBF	װאַנד	VAand	_
+20	er	PRO	ער	er	_
+21	ni	ADV	ני	ny	_
+22	keyni	Q	קײני	kYny	_
+
+SENT	1507W-BOVO,33.256
+1	nun	ADV	נ	n	_
+2	hurt	VBF	הורט	hvrt	_
+3	mn	PRO	מן	mN	_
+4	in	P	אין	AyN	_
+5	der	D	דער	der	_
+6	stt	N	סטט	stt	_
+7	grus	ADJ	גרוס	grvs	_
+8	iamrn	N	איאַמרן	AyAamrN	_
+9	un	CONJ	און	AvN	_
+10	menkhn	Q	מענכן	menxN	_
+11	mensn	N	מענסן	mensN	_
+12	veynn	VB	װײנן	VYnN	_
+13	varmn	ADJ	װאַרמן	VAarmN	_
+14	vun	P	װוּן	VUN	_
+15	burgr	N	בורגר	bvrgr	_
+16	un'	CONJ	אונ'	Avn'	_
+17	ientlumrn	N	איענטלומרן	AyentlvmrN	_
+18	vun	P	װוּן	VUN	_
+19	reykhn	N	רײכן	rYxN	_
+20	un	CONJ	און	AvN	_
+21	vun	P	װוּן	VUN	_
+22	den	D	דען	deN	_
+23	armn	N	אַרמן	AarmN	_
+24	vun	P	װוּן	VUN	_
+25	koyf_loytn	N	קױפֿ_לױטן	kWf_lWtN	_
+26	un'	CONJ	אונ'	Avn'	_
+27	fun	P	פֿון	fvN	_
+28	krumirn	N	קרומירן	krvmyrN	_
+
+SENT	1507W-BOVO,33.257
+1	es	PRO	עס	es	_
+2	het	HVF	העט	het	_
+3	mugn	MDN-IPP	מוגן	mvgN	_
+4	eyn	D	אײן	AYN	_
+5	steyn	N	סטײן	stYN	_
+6	dr_barmn	VB	דר_באַרמן	dr_bAarmN	_
+
+SENT	1507W-BOVO,33.258
+1	oyvi	INTJ	אױװי	AWVy	_
+2	oyvi	INTJ	אױװי	AWVy	_
+3	unzrs	PRO$	אונזרס	Avnzrs	_
+4	libn	ADJ	ליבן	lybN	_
+5	hern	N	הערן	herN	_
+
+SENT	1507W-BOVO,34.260
+1	es	ES	עס	es	_
+2	varn	VBF	װאַרן	VAarN	_
+3	irr	PRO	אירר	Ayrr	_
+4	vil	Q	װיל	Vyl	_
+5	di	WPRO	די	dy	_
+6	valtn	MDF	װאַלטן	VAaltN	_
+7	es	PRO	עס	es	_
+8	vendn	VB	װענדן	VendN	_
+
+SENT	1507W-BOVO,34.261
+1	irn	PRO$	אירן	AyrN	_
+2	libn	ADJ	ליבן	lybN	_
+3	hern	N	הערן	herN	_
+4	valtn	MDF	װאַלטן	VAaltN	_
+5	zi	PRO	זי	zy	_
+6	ya	ADV	יאַ	yAa	_
+7	rekhn	VB	רעכן	rexN	_
+
+SENT	1507W-BOVO,34.262
+1	shvert	N	שװערט	$Vert	_
+2	un'	CONJ	אונ'	Avn'	_
+3	spis	N	ספּיס	spys	_
+4	namn	VBF	נאַמן	nAamN	_
+5	zi	PRO	זי	zy	_
+6	in	P	אין	AyN	_
+7	iri	PRO$	אירי	Ayry	_
+8	hendn	N	הענדן	hendN	_
+
+SENT	1507W-BOVO,34.263
+1	den	D	דען	deN	_
+2	murdr	N	מורדר	mvrdr	_
+3	valtn	MDF	װאַלטן	VAaltN	_
+4	zi	PRO	זי	zy	_
+5	ya	ADV	יאַ	yAa	_
+6	dr_stekhn	VB	דר_סטעכן	dr_stexN	_
+
+SENT	1507W-BOVO,34.264
+1	branduneyh	NPR	בראַנדונײה	brAandvnYh	_
+2	shikt	VBF	שיקט	$ykt	_
+3	nukh	RP	נוך	nvX	_
+4	min	QR	מין	myN	_
+5	bihendn	ADV	ביהענדן	byhendN	_
+
+SENT	1507W-BOVO,34.265
+1	un'	CONJ	אונ'	Avn'	_
+2	mit	P	מיט	myt	_
+3	gutn	ADJ	גוטן	gvtN	_
+4	vartn	N	װאַרטן	VAartN	_
+5	hub	VBF	הוב	hvb	_
+6	zi	PRO	זי	zy	_
+7	an	RP	אַן	AaN	_
+8	tsu	TO	צו	qv	_
+9	sprekhn	VB	ספּרעכן	sprexN	_
+10	vs	WPRO	װס	Vs	_
+11	valt	MDF	װאַלט	VAalt	_
+12	ir	PRO	איר	Ayr	_
+13	an	RP	אַן	AaN	_
+14	hibn	VB	היבן	hybN	_
+15	mit	P	מיט	myt	_
+16	uns	PRO	אונס	Avns	_
+17	bidn	Q	בידן	bydN	_
+
+SENT	1507W-BOVO,34.266
+1	es	PRO	עס	es	_
+2	iz	BEF	איז	Ayz	_
+3	gisehn	VBN	גיסעהן	gysehN	_
+
+SENT	1507W-BOVO,34.267
+1	ir	PRO	איר	Ayr	_
+2	zult	MDF	זולט	zvlt	_
+3	ds	D	דס	ds	_
+4	bist	ADJS	ביסט	byst	_
+5	dr_tsu	DR+P	דר_צו	dr_qv	_
+6	ridn	VB	רידן	rydN	_
+
+SENT	1507W-BOVO,35.269
+1	un	CONJ	און	AvN	_
+2	hut	HVF	הוט	hvt	_
+3	oykh	PRO	אױך	AWX	_
+4	der	D	דער	der	_
+5	alt	ADJ	אַלט	Aalt	_
+6	hertsug	N	הערצוג	herqvg	_
+7	gvidun	NPR	גװידון	gVydvN	_
+8	oyer	PRO$	אױער	AWer	_
+9	tg	N	טג	tg	_
+10	grusi	ADJ	גרוסי	grvsy	_
+11	trueya	N	טרוײאַ	trvYAa	_
+12	bivizn	VBN	ביװיזן	byVyzN	_
+13	da	ADV	דאַ	dAa	_
+14	zekht	VBI	זעכט	zext	_
+15	an	RP	אַן	AaN	_
+16	meyn	PRO$	מײן	mYN	_
+17	libn	ADJ	ליבן	lybN	_
+18	mn	N	מן	mN	_
+19	dudun	NPR	דודון	dvdvN	_
+20	den	D	דען	deN	_
+21	yung	ADJ	יונג	yvng	_
+22	strkn	ADJ	סטרקן	strkN	_
+23	stultsn	ADJ	סטולצן	stvlqN	_
+24	rizn	N	ריזן	ryzN	_
+
+SENT	1507W-BOVO,35.270
+1	ir	PRO	איר	Ayr	_
+2	zult	MDF	זולט	zvlt	_
+3	al	Q	אַל	Aal	_
+4	vun	P	װוּן	VUN	_
+5	im	PRO	אים	AyM	_
+6	gisenkt	VAN	גיסענקט	gysenkt	_
+7	hun	VB	הון	hvN	_
+8	veyn_gertn	N	װײנ_גערטן	VYn_gertN	_
+9	un'	CONJ	אונ'	Avn'	_
+10	veld	N	װעלד	Veld	_
+11	un'	CONJ	אונ'	Avn'	_
+12	vizn	N	װיזן	VyzN	_
+
+SENT	1507W-BOVO,35.271
+1	un'	CONJ	אונ'	Avn'	_
+2	oyer	PRO	אױער	AWer	_
+3	keynr	Q	קײנר	kYnr	_
+4	zul	MDF	זול	zvl	_
+5	bidurfn	MD	בידורפֿן	bydvrfN	_
+6	tsaln	VB	צאַלן	qAalN	_
+7	hoyer	ADV	הױער	hWer	_
+8	nukh	CONJ	נוך	nvX	_
+9	tsul	N	צול	qvl	_
+10	nukh	CONJ	נוך	nvX	_
+11	tsinz	N	צינז	qynz	_
+12	nukh	CONJ	נוך	nvX	_
+13	stoyer	N	סטױער	stWer	_
+
+SENT	1507W-BOVO,36.273
+1	drum	DR+P	דרום	drvM	_
+2	zult	MDF	זולט	zvlt	_
+3	ir	PRO	איר	Ayr	_
+4	valgn	VB	װאַלגן	VAalgN	_
+5	meynr	PRO$	מײנר	mYnr	_
+6	lirn	N	לירן	lyrN	_
+
+SENT	1507W-BOVO,36.274
+1	un'	CONJ	אונ'	Avn'	_
+2	lust	VBI	לוסט	lvst	_
+3	es	PRO	עס	es	_
+4	bleybn	VB	בלײבן	blYbN	_
+5	bey	P	בײ	bY	_
+6	eynm	D	אײנם	AYnM	_
+7	gleykhn	ADJ	גלײכן	glYxN	_
+
+SENT	1507W-BOVO,36.275
+1	un'	CONJ	אונ'	Avn'	_
+2	oyer	PRO$	אױער	AWer	_
+3	trueya	N	טרוײאַ	trvYAa	_
+4	zult	MDF	זולט	zvlt	_
+5	ir	PRO	איר	Ayr	_
+6	im	PRO	אים	AyM	_
+7	svirn	VB	סװירן	sVyrN	_
+8	ds	C	דס	ds	_
+9	ir	PRO	איר	Ayr	_
+10	im	PRO	אים	AyM	_
+11	valt	MDF	װאַלט	VAalt	_
+12	huldn	VB	הולדן	hvldN	_
+13	al	Q	אַל	Aal	_
+14	tugntleykhn	N	טוגנטלײכן	tvgntlYxN	_
+
+SENT	1507W-BOVO,36.276
+1	zi	PRO	זי	zy	_
+2	gidukhtn	VBF	גידוכטן	gydvxtN	_
+3	oykh	ADV	אױך	AWX	_
+4	vs	WPRO	װס	Vs	_
+5	zultn	MDF	זולטן	zvltN	_
+6	mir	PRO	מיר	myr	_
+7	uns	PRO	אונס	Avns	_
+8	vil	Q	װיל	Vyl	_
+9	virn	VB	װירן	VyrN	_
+
+SENT	1507W-BOVO,36.277
+1	mir	PRO	מיר	myr	_
+2	veln	MDF	װעלן	VelN	_
+3	es	PRO	עס	es	_
+4	azu	ADV	אַזו	Aazv	_
+5	lasn	VB	לאַסן	lAasN	_
+6	hin	RP-ADV	הין	hyN	_
+7	sleykhn	VB	סלײכן	slYxN	_
+
+SENT	1507W-BOVO,36.278
+1	un'	CONJ	אונ'	Avn'	_
+2	shvaurn	VBF	שװאַורן	$VAavrN	_
+3	im	PRO	אים	AyM	_
+4	al	Q	אַל	Aal	_
+5	iri	PRO$	אירי	Ayry	_
+6	troyan	N	טרױאַן	trWAaN	_
+7	abr	CONJ	אַבר	Aabr	_
+8	ubr	P	אובר	Avbr	_
+9	irn	PRO$	אירן	AyrN	_
+10	dnk	N	דנק	dnk	_
+11	un'	CONJ	אונ'	Avn'	_
+12	mit	P	מיט	myt	_
+13	grusn	ADJ	גרוסן	grvsN	_
+14	royan	N	רױאַן	rWAaN	_
+
+SENT	1507W-BOVO,37.280
+1	nun	ADV	נ	n	_
+2	ht	HVF	הט	ht	_
+3	buva	NPR	בוּװאַ	bUVAa	_
+4	ds	D	דס	ds	_
+5	gisreya	N	גיסרײאַ	gysrYAa	_
+6	vur_numn	VBN	װוּר_נומן	VUr_nvmN	_
+
+SENT	1507W-BOVO,37.281
+1	un'	CONJ	אונ'	Avn'	_
+2	ht	HVF	הט	ht	_
+3	zikh	PRO	זיך	zyX	_
+4	vur	P	װוּר	VUr	_
+5	vurkht	N	װוּרכט	VUrxt	_
+6	vur_burgn	VBN	װוּר_בורגן	VUr_bvrgN	_
+
+SENT	1507W-BOVO,37.282
+1	sinibld	NPR	סיניבלד	synybld	_
+2	zeyn	PRO$	זײן	zYN	_
+3	givatr	N	גיװאַטר	gyVAatr	_
+4	alzu	ADV	אַלזו	Aalzv	_
+5	vrumn	ADJ	װרומן	VrvmN	_
+6	der	D	דער	der	_
+7	hat	VBF	האַט	hAat	_
+8	dis	D	דיס	dys	_
+9	yungn	N	יונגן	yvngN	_
+10	grusn	ADJ	גרוסן	grvsN	_
+11	zurgn	N	זורגן	zvrgN	_
+
+SENT	1507W-BOVO,37.283
+1	er	PRO	ער	er	_
+2	vaust	VBF	װאַוסט	VAavst	_
+3	nit	NEG	ניט	nyt	_
+4	vu	WADV	װוּ	VU	_
+5	er	PRO	ער	er	_
+6	var	BEF	װאַר	VAar	_
+7	hin	RP-ADV	הין	hyN	_
+8	kumn	VBN	קומן	kvmN	_
+
+SENT	1507W-BOVO,37.284
+1	er	PRO	ער	er	_
+2	zukht	VBF	זוכט	zvxt	_
+3	in	PRO	אין	AyN	_
+4	den	D	דען	deN	_
+5	gntsn	ADJ	גנצן	gnqN	_
+6	murgn	N	מורגן	mvrgN	_
+
+SENT	1507W-BOVO,37.285
+1	er	PRO	ער	er	_
+2	zukht	VBF	זוכט	zvxt	_
+3	in	PRO	אין	AyN	_
+4-5	im	P~D	אים	AyM	_
+4	i	P	אי	Ay	_
+5	m	D	מ	m	_
+6	hoyz	N	הױז	hWz	_
+7	in	P	אין	AyN	_
+8	aln	Q	אַלן	AalN	_
+9	ekn	N	עקן	ekN	_
+10	hintr	P	הינטר	hyntr	_
+11	aln	Q	אַלן	AalN	_
+12	vetrn	N	װעטרן	VetrN	_
+13	un'	CONJ	אונ'	Avn'	_
+14	hintr	P	הינטר	hyntr	_
+15	aln	Q	אַלן	AalN	_
+16	zekn	N	זעקן	zekN	_
+
+SENT	1507W-BOVO,38.287
+1	dr_nukh	DR+P	דר_נוך	dr_nvX	_
+2	zukht	VBF	זוכט	zvxt	_
+3	er	PRO	ער	er	_
+4	in	PRO	אין	AyN	_
+5-6	im	P~D	אים	AyM	_
+5	i	P	אי	Ay	_
+6	m	D	מ	m	_
+7	stl	N	סטל	stl	_
+8	hin	RP-ADV	הין	hyN	_
+9	un	CONJ	און	AvN	_
+10	vidr	RP	װידר	Vydr	_
+11	in	P	אין	AyN	_
+12	ali	Q	אַלי	Aaly	_
+13	vinkln	N	װינקלן	VynklN	_
+14	di	WPRO	די	dy	_
+15	da	ADV	דאַ	dAa	_
+16	varn	VBF	װאַרן	VAarN	_
+
+SENT	1507W-BOVO,38.288
+1	nun	ADV	נ	n	_
+2	ht	HVF	הט	ht	_
+3	zikh	PRO	זיך	zyX	_
+4	buva	NPR	בוּװאַ	bUVAa	_
+5	giligt	VBN	גיליגט	gylygt	_
+6	durt	ADV	דורט	dvrt	_
+7	nidr	ADV	נידר	nydr	_
+8	in	P	אין	AyN	_
+9	eyn	D	אײן	AYN	_
+10	grusn	ADJ	גרוסן	grvsN	_
+11	pfert_barn	N	פּפֿערט_באַרן	pfert_bAarN	_
+
+SENT	1507W-BOVO,38.289
+1	un	CONJ	און	AvN	_
+2	da	C	דאַ	dAa	_
+3	er	PRO	ער	er	_
+4	hurt	VBF	הורט	hvrt	_
+5	zeyn	PRO$	זײן	zYN	_
+6	givatr	N	גיװאַטר	gyVAatr	_
+7	bidr	ADJ	בידר	bydr	_
+8	da	ADV	דאַ	dAa	_
+9	km	VBF	קם	kM	_
+10	er	PRO	ער	er	_
+11	vluks	ADV	װלוקס	Vlvks	_
+12	hr_vur	ADV	הר_װוּר	hr_VUr	_
+13	tsu	TO	צו	qv	_
+14	varn	VB	װאַרן	VAarN	_
+
+SENT	1507W-BOVO,38.290
+1	un'	CONJ	אונ'	Avn'	_
+2	mit	P	מיט	myt	_
+3	beydn	Q	בײדן	bYdN	_
+4	armn	N	אַרמן	AarmN	_
+5	vs	BEF	װס	Vs	_
+6	er	PRO	ער	er	_
+7	in	PRO	אין	AyN	_
+8	um	RP	אום	AvM	_
+9	vangn	VAG	װאַנגן	VAangN	_
+
+SENT	1507W-BOVO,38.291
+1	un'	CONJ	אונ'	Avn'	_
+2	sprkh	VBF	ספּרך	sprX	_
+3	vi	WADV	װי	Vy	_
+4	iz	BEF	איז	Ayz	_
+5	es	PRO	עס	es	_
+6	gngn	VBN	גנגן	gngN	_
+
+SENT	1507W-BOVO,39.293
+1	da	ADV	דאַ	dAa	_
+2	zgt	VBF	זגט	zgt	_
+3	im	PRO	אים	AyM	_
+4	sinbld	NPR	סינבלד	synbld	_
+5	gnts	ADV	גנץ	gnQ	_
+6	ds	D	דס	ds	_
+7	vezn	N	װעזן	VezN	_
+8	un'	CONJ	אונ'	Avn'	_
+9	vun	P	װוּן	VUN	_
+10	zeynm	PRO$	זײנם	zYnM	_
+11	vatr	N	װאַטר	VAatr	_
+12	di	D	די	dy	_
+13	leydign	ADJ	לײדיגן	lYdygN	_
+14	mern	N	מערן	merN	_
+
+SENT	1507W-BOVO,39.294
+1	dr_nukh	DR+P	דר_נוך	dr_nvX	_
+2	ging	VBF	גינג	gyng	_
+3	sinbld	NPR	סינבלד	synbld	_
+4	vluks	ADV	װלוקס	Vlvks	_
+5	oys	RP	אױס	AWs	_
+6	lezn	VB	לעזן	lezN	_
+7	vu	WADV	װוּ	VU	_
+8	er	PRO	ער	er	_
+9	vust	VBF	װוּסט	VUst	_
+10	di	D	די	dy	_
+11	altn	ADJ	אַלטן	AaltN	_
+12	hern	N	הערן	herN	_
+13	di	WPRO	די	dy	_
+14	stets	ADV	סטעץ	steQ	_
+15	gvidun	NPR	גװידון	gVydvN	_
+16	gitrueya	ADJ	גיטרוײאַ	gytrvYAa	_
+17	varn	BEF	װאַרן	VAarN	_
+18	givezn	VBN	גיװעזן	gyVezN	_
+
+SENT	1507W-BOVO,39.295
+1	un	CONJ	און	AvN	_
+2	zgt	VBF	זגט	zgt	_
+3	in	PRO	אין	AyN	_
+4	ds	C	דס	ds	_
+5	zi	PRO	זי	zy	_
+6	droyf	DR+P	דרױף	drWF	_
+7	givarnt	VAN	גיװאַרנט	gyVAarnt	_
+8	vern	RDF	װערן	VerN	_
+9	un'	CONJ	אונ'	Avn'	_
+10	zultn	MDF	זולטן	zvltN	_
+11	mit	P	מיט	myt	_
+12	im	PRO	אים	AyM	_
+13	dr_vun	DR+P	דר_װוּן	dr_VUN	_
+14	tsihn	VB	ציהן	qyhN	_
+15	un'	CONJ	אונ'	Avn'	_
+16	mit	P	מיט	myt	_
+17	buva	NPR	בוּװאַ	bUVAa	_
+18	gn	P	גן	gN	_
+19	snsimun	NPR	סנסימון	snsymvN	_
+20	vlihn	VB	װליהן	VlyhN	_
+
+SENT	1507W-BOVO,40.297
+1	azu	ADV	אַזו	Aazv	_
+2	shidn	VBF	שידן	$ydN	_
+3	zi	PRO	זי	zy	_
+4	heymlikh	ADV	הײמליך	hYmlyX	_
+5	vun	P	װוּן	VUN	_
+6	dann	ADV	דאַנן	dAanN	_
+7	tsu	P	צו	qv	_
+8	dreyan	NUM	דרײאַן	drYAaN	_
+9	in	P	אין	AyN	_
+10	di	D	די	dy	_
+11	nkht	N	נכט	nxt	_
+12	uder	CONJ	אודער	Avder	_
+13	spetr	ADVR	ספּעטר	spetr	_
+14	mit	P	מיט	myt	_
+15	eynm	D	אײנם	AYnM	_
+16	grusn	ADJ	גרוסן	grvsN	_
+17	shreyan	N	שרײאַן	$rYAaN	_
+18	un	CONJ	און	AvN	_
+19	tsann	N	צאַנן	qAanN	_
+20	un'	CONJ	אונ'	Avn'	_
+21	in	P	אין	AyN	_
+22	eynm	D	אײנם	AYnM	_
+23	buzn	ADJ	בוזן	bvzN	_
+24	regn_vetr	N	רעגנ_װעטר	regn_Vetr	_
+
+SENT	1507W-BOVO,40.298
+1	es	ES	עס	es	_
+2	varn	VBF	װאַרן	VAarN	_
+3	lekht	ADV	לעכט	lext	_
+4	ir	PRO	איר	Ayr	_
+5	zekhtsig	NUM	זעכציג	zexqyg	_
+6	mann	N	מאַנן	mAanN	_
+
+SENT	1507W-BOVO,40.299
+1	untr	P	אונטר	Avntr	_
+2	in	PRO	אין	AyN	_
+3	var	VBF	װאַר	VAar	_
+4	der	D	דער	der	_
+5	vur_retr	N	װוּר_רעטר	VUr_retr	_
+6	ritsrd	NPR	ריצרד	ryqrd	_
+7	der	WPRO	דער	der	_
+8	dudun	NPR	דודון	dvdvN	_
+9	den	D	דען	deN	_
+10	brif	N	בריף	bryF	_
+11	ht	HVF	הט	ht	_
+12	gitragn	VBN	גיטראַגן	gytrAagN	_
+
+SENT	1507W-BOVO,40.300
+1	abr	CONJ	אַבר	Aabr	_
+2	ir	PRO	איר	Ayr	_
+3	keynr	Q	קײנר	kYnr	_
+4	vaust	VBF	װאַוסט	VAavst	_
+5	nist	NEG	ניסט	nyst	_
+6	da_vun	DR+P	דאַ_װוּן	dAa_VUN	_
+7	tsu	TO	צו	qv	_
+8	zagn	VB	זאַגן	zAagN	_
+
+SENT	1507W-BOVO,41.302
+1	zi	PRO	זי	zy	_
+2	gitroyatn	VBF	גיטרױאַטן	gytrWAatN	_
+3	im	PRO	אים	AyM	_
+4	mit	P	מיט	myt	_
+5	aln	Q	אַלן	AalN	_
+6	zakhn	N	זאַכן	zAaxN	_
+
+SENT	1507W-BOVO,41.303
+1	zi	PRO	זי	zy	_
+2	meyntn	VBF	מײנטן	mYntN	_
+3	er	PRO	ער	er	_
+4	ver	VBF	װער	Ver	_
+5	nukh	ADV	נוך	nvX	_
+6	az	P	אַז	Aaz	_
+7	vur	P	װוּר	VUr	_
+8	tseytn	N	צײטן	qYtN	_
+
+SENT	1507W-BOVO,41.304
+1	der	D	דער	der	_
+2	vur_retr	N	װוּר_רעטר	VUr_retr	_
+3	valt	MDF	װאַלט	VAalt	_
+4	zikh	PRO	זיך	zyX	_
+5	baz	ADVR	באַז	bAaz	_
+6	bizakhn	VB	ביזאַכן	byzAaxN	_
+
+SENT	1507W-BOVO,41.305
+1	er	PRO	ער	er	_
+2	gidukht	VBF	גידוכט	gydvxt	_
+3	da	ADV	דאַ	dAa	_
+4	iz	VBF	איז	Ayz	_
+5	nit	NEG	ניט	nyt	_
+6	min	QR	מין	myN	_
+7	tsu	TO	צו	qv	_
+8	beytn	VB	בײטן	bYtN	_
+
+SENT	1507W-BOVO,41.306
+1	vi	WADV	װי	Vy	_
+2	vil	MDF	װיל	Vyl	_
+3	ikh	PRO	איך	AyX	_
+4	mikh	PRO	מיך	myX	_
+5	mit	P	מיט	myt	_
+6	dudun	NPR	דודון	dvdvN	_
+7	bz	ADVR	בז	bz	_
+8	tsu	TO	צו	qv	_
+9	mkhn	VB	מכן	mxN	_
+
+SENT	1507W-BOVO,41.307
+1	heymlikh	ADV	הײמליך	hYmlyX	_
+2	vil	MDF	װיל	Vyl	_
+3	ikh	PRO	איך	AyX	_
+4	um	RP	אום	AvM	_
+5	reytn	VB	רײטן	rYtN	_
+
+SENT	1507W-BOVO,41.308
+1	un'	CONJ	אונ'	Avn'	_
+2	vil	MDF	װיל	Vyl	_
+3	zi	PRO	זי	zy	_
+4	gign	P	גיגן	gygN	_
+5	dudun	NPR	דודון	dvdvN	_
+6	al	Q	אַל	Aal	_
+7	vr_pfeyfn	VB	װר_פּפֿײפֿן	Vr_pfYfN	_
+
+SENT	1507W-BOVO,41.309
+1	un'	CONJ	אונ'	Avn'	_
+2	vil	MDF	װיל	Vyl	_
+3	mkhn	VB	מכן	mxN	_
+4	ds	C	דס	ds	_
+5	er	PRO	ער	er	_
+6	zi	PRO	זי	zy	_
+7	mus	MDF	מוס	mvs	_
+8	dr_greyfn	VB	דר_גרײפֿן	dr_grYfN	_
+
+SENT	1507W-BOVO,41.310
+1	vluks	ADV	װלוקס	Vlvks	_
+2	er	PRO	ער	er	_
+3	in	P	אין	AyN	_
+4	di	D	די	dy	_
+5	stt	N	סטט	stt	_
+6	vidr	ADV	װידר	Vydr	_
+7	um	RP	אום	AvM	_
+8	rent	VBF	רענט	rent	_
+
+SENT	1507W-BOVO,41.311
+1	un'	CONJ	אונ'	Avn'	_
+2	gign	P	גיגן	gygN	_
+3	dudun	NPR	דודון	dvdvN	_
+4	vr_rit	VBF	װר_ריט	Vr_ryt	_
+5	er	PRO	ער	er	_
+6	zi	PRO	זי	zy	_
+7	ali	Q	אַלי	Aaly	_
+8	zamn	ADV	זאַמן	zAamN	_
+
+SENT	1507W-BOVO,42.313
+1	eyn	PRO	אײן	AYN	_
+2	un'	CONJ	אונ'	Avn'	_
+3	eyn	PRO	אײן	AYN	_
+4	er	PRO	ער	er	_
+5	zi	PRO	זי	zy	_
+6	mit	P	מיט	myt	_
+7	al	Q	אַל	Aal	_
+8	nent	VBF	נענט	nent	_
+9	di	WPRO	די	dy	_
+10	da	ADV	דאַ	dAa	_
+11	vurtn	VBF	װוּרטן	VUrtN	_
+12	buva	NPR	בוּװאַ	bUVAa	_
+13	tsu	P	צו	qv	_
+14	zeynr	PRO$	זײנר	zYnr	_
+15	amn	N	אַמן	AamN	_
+
+SENT	1507W-BOVO,42.314
+1	dudun	NPR	דודון	dvdvN	_
+2	gleykh	ADV	גלײך	glYX	_
+3	vur	P	װוּר	VUr	_
+4	tsurn	N	צורן	qvrN	_
+5	brent	VBF	ברענט	brent	_
+
+SENT	1507W-BOVO,42.315
+1	er	PRO	ער	er	_
+2	sprkh	VBF	ספּרך	sprX	_
+3	kumn	VBF	קומן	kvmN	_
+4	zi	PRO	זי	zy	_
+5	mir	PRO	מיר	myr	_
+6	in	P	אין	AyN	_
+7	di	D	די	dy	_
+8	klamn	N	קלאַמן	klAamN	_
+9	bey	P	בײ	bY	_
+10	dem	D	דעם	deM	_
+11	altn	ADJ	אַלטן	AaltN	_
+12	buk	N	בוק	bvk	_
+13	vun	P	װוּן	VUN	_
+14	shuf_hoyzn	NPR	שופֿ_הױזן	$vf_hWzN	_
+15	ikh	PRO	איך	AyX	_
+16	vil	MDF	װיל	Vyl	_
+17	in	PRO	אין	AyN	_
+18	veydlikh	ADV	װײדליך	VYdlyX	_
+19	mit	P	מיט	myt	_
+20	kulbn	N	קולבן	kvlbN	_
+21	loyzn	VB	לױזן	lWzN	_
+
+SENT	1507W-BOVO,43.317
+1	iri	PRO$	אירי	Ayry	_
+2	loyiz	N	לױיִז	lWyiz	_
+3	vil	MDF	װיל	Vyl	_
+4	ikh	PRO	איך	AyX	_
+5	in	PRO	אין	AyN	_
+6	oyf	RP	אױף	AWF	_
+7	vikn	VB	װיקן	VykN	_
+8	nit	NEG	ניט	nyt	_
+9	andrst	ADV	אַנדרסט	Aandrst	_
+10	ven	P	װען	VeN	_
+11	mit	P	מיט	myt	_
+12	grusn	ADJ	גרוסן	grvsN	_
+13	streykhn	N	סטרײכן	strYxN	_
+
+SENT	1507W-BOVO,43.318
+1	vluks	ADV	װלוקס	Vlvks	_
+2	sprkh	VBF	ספּרך	sprX	_
+3	er	PRO	ער	er	_
+4	tsu	P	צו	qv	_
+5	zeyn	PRO$	זײן	zYN	_
+6	strkn	ADJ	סטרקן	strkN	_
+7	rikn	N	ריקן	rykN	_
+
+SENT	1507W-BOVO,43.319
+1	git	VBI	גיט	gyt	_
+2	zekht	VBI	זעכט	zext	_
+3	ub	C	אוב	Avb	_
+4	ir	PRO	איר	Ayr	_
+5	zi	PRO	זי	zy	_
+6	kunt	MDF	קונט	kvnt	_
+7	dr_reykhn	VB	דר_רײכן	dr_rYxN	_
+
+SENT	1507W-BOVO,43.320
+1	un'	CONJ	אונ'	Avn'	_
+2	oyer	PRO$	אױער	AWer	_
+3	pferd	N	פּפֿערד	pferd	_
+4	mkht	VBI	מכט	mxt	_
+5	val	ADV	װאַל	VAal	_
+6	strekn	VB	סטרעקן	strekN	_
+
+SENT	1507W-BOVO,43.321
+1	un'	CONJ	אונ'	Avn'	_
+2	spurnt	VBI	ספּורנט	spvrnt	_
+3	zi	PRO	זי	zy	_
+4	zir	ADV	זיר	zyr	_
+5	in	P	אין	AyN	_
+6	ir	PRO$	איר	Ayr	_
+7	veykhn	N	װײכן	VYxN	_
+
+SENT	1507W-BOVO,43.322
+1	zi	PRO	זי	zy	_
+2	sprkhn	VBF	ספּרכן	sprxN	_
+3	gern	ADV	גערן	gerN	_
+4	ginidigr	ADJ	גינידיגר	gynydygr	_
+5	hern	N	הערן	herN	_
+
+SENT	1507W-BOVO,43.323
+1	un'	CONJ	אונ'	Avn'	_
+2	rentn	VBF	רענטן	rentN	_
+3	da_hin	ADV	דאַ_הין	dAa_hyN	_
+4	az	P	אַז	Aaz	_
+5	zi	PRO	זי	zy	_
+6	unznig	ADJ	אונזניג	Avnznyg	_
+7	vern	VBF	װערן	VerN	_
+
+SENT	1507W-BOVO,44.325
+1	un'	CONJ	אונ'	Avn'	_
+2	da	C	דאַ	dAa	_
+3	zi	PRO	זי	zy	_
+4	ritsrd	NPR	ריצרד	ryqrd	_
+5	nun	ADV	נ	n	_
+6	ht	HVF	הט	ht	_
+7	vr_rutn	VBN	װר_רוטן	Vr_rvtN	_
+8	da	ADV	דאַ	dAa	_
+9	hub	VBF	הוב	hvb	_
+10	er	PRO	ער	er	_
+11	an	RP	אַן	AaN	_
+12	vidr	ADV	װידר	Vydr	_
+13	nukh	RP	נוך	nvX	_
+14	tsu	TO	צו	qv	_
+15	trabn	VB	טראַבן	trAabN	_
+
+SENT	1507W-BOVO,44.326
+1	un'	CONJ	אונ'	Avn'	_
+2	sprakh	VBF	ספּראַך	sprAaX	_
+3	libi	ADJ	ליבי	lyby	_
+4	gizeln	N	גיזעלן	gyzelN	_
+5	ikh	PRO	איך	AyX	_
+6	vil	MDF	װיל	Vyl	_
+7	oykh	PRO	אױך	AWX	_
+8	rutn	VB	רוטן	rvtN	_
+9	reyt	VBI	רײט	rYt	_
+10	eyn	D	אײן	AYN	_
+11	vintsig	Q	װינציג	Vynqyg	_
+12	lntsum	ADV	לנצום	lnqvM	_
+13	mit	P	מיט	myt	_
+14	dem	D	דעם	deM	_
+15	knabn	N	קנאַבן	knAabN	_
+
+SENT	1507W-BOVO,44.327
+1	vs	WPRO	װס	Vs	_
+2	durft	MDF	דורפֿט	dvrft	_
+3	ir	PRO	איר	Ayr	_
+4	ir	PRO	איר	Ayr	_
+5	eyln	VB	אײלן	AYlN	_
+6	azu	ADV	אַזו	Aazv	_
+7	drutn	ADV	דרוטן	drvtN	_
+
+SENT	1507W-BOVO,44.328
+1	keyn	Q	קײן	kYN	_
+2	zurg	N	זורג	zvrg	_
+3	durfn	MDF	דורפֿן	dvrfN	_
+4	mir	PRO	מיר	myr	_
+5	vur	P	װוּר	VUr	_
+6	nimts	Q	נימץ	nymQ	_
+7	hbn	VB	הבן	hbN	_
+
+SENT	1507W-BOVO,44.329
+1	vun	P	װוּן	VUN	_
+2	idrman	Q	אידרמאַן	AydrmAaN	_
+3	zeyn	VBF	זײן	zYN	_
+4	mir	PRO	מיר	myr	_
+5	nun	ADV	נ	n	_
+6	val	ADV	װאַל	VAal	_
+7	zikhr	ADJ	זיכר	zyxr	_
+
+SENT	1507W-BOVO,44.330
+1	um	P	אום	AvM	_
+2	nimnt	Q	נימנט	nymnt	_
+3	durfn	MDF	דורפֿן	dvrfN	_
+4	mir	PRO	מיר	myr	_
+5	gebn	VB	געבן	gebN	_
+6	eyn	D	אײן	AYN	_
+7	kikhr	N	קיכר	kyxr	_
+
+SENT	1507W-BOVO,45.332
+1	azu	ADV	אַזו	Aazv	_
+2	hubn	VBF	הובן	hvbN	_
+3	zi	PRO	זי	zy	_
+4	an	RP	אַן	AaN	_
+5	gr	ADV	גר	gr	_
+6	lntsum	ADV	לנצום	lnqvM	_
+7	tsu	TO	צו	qv	_
+8	reytn	VB	רײטן	rYtN	_
+
+SENT	1507W-BOVO,45.333
+1	un'	CONJ	אונ'	Avn'	_
+2	reytn	VBF	רײטן	rYtN	_
+3	noyart	FP	נױאַרט	nWAart	_
+4	eyn	D	אײן	AYN	_
+5	kleyni	ADJ	קלײני	klYny	_
+6	veyln	N	װײלן	VYlN	_
+
+SENT	1507W-BOVO,45.334
+1	da	ADV	דאַ	dAa	_
+2	zahn	VBF	זאַהן	zAahN	_
+3	zi	PRO	זי	zy	_
+4	durtn	ADV	דורטן	dvrtN	_
+5	bun	P	בון	bvN	_
+6	veytn	ADV	װײטן	VYtN	_
+7	hintr	P	הינטר	hyntr	_
+8	in	PRO	אין	AyN	_
+9	bey	P	בײ	bY	_
+10	eynr	D	אײנר	AYnr	_
+11	hlbn	ADJ	הלבן	hlbN	_
+12	meyln	N	מײלן	mYlN	_
+13	her	RP-ADV	הער	her	_
+14	kumn	VB	קומן	kvmN	_
+15	ubr	P	אובר	Avbr	_
+16	tsverkh	X	צװערך	qVerX	_
+17	veld	N	װעלד	Veld	_
+18	bizeytn	X	ביזײטן	byzYtN	_
+19	eyn	D	אײן	AYN	_
+20	grus	ADJ	גרוס	grvs	_
+21	ueyntlikh	ADJ	אוײנטליך	AvYntlyX	_
+22	hir	N	היר	hyr	_
+23	nukh	RP	נוך	nvX	_
+24	eyln	VB	אײלן	AYlN	_
+
+SENT	1507W-BOVO,45.335
+1	sinibld	NPR	סיניבלד	synybld	_
+2	sprakh	VBF	ספּראַך	sprAaX	_
+3	ds	D	דס	ds	_
+4	iz	BEF	איז	Ayz	_
+5	ubr	P	אובר	Avbr	_
+6	unz	PRO	אונז	Avnz	_
+7	dr_gngn	VBN	דר_גנגן	dr_gngN	_
+
+SENT	1507W-BOVO,45.336
+1	vlihn	VBF	װליהן	VlyhN	_
+2	mir	PRO	מיר	myr	_
+3	nit	NEG	ניט	nyt	_
+4	za	ADV	זאַ	zAa	_
+5	zeynn	VBF	זײנן	zYnN	_
+6	mir	PRO	מיר	myr	_
+7	givangn	ADJ	גיװאַנגן	gyVAangN	_
+
+SENT	1507W-BOVO,46.338
+1	ritsard	NPR	ריצאַרד	ryqAard	_
+2	sprkh	VBF	ספּרך	sprX	_
+3	ikh	PRO	איך	AyX	_
+4	vil	MDF	װיל	Vyl	_
+5	gin	VB	גין	gyN	_
+6	zehn	VB	זעהן	zehN	_
+7	vau	WADV	װאַו	VAav	_
+8	zi	PRO	זי	zy	_
+9	hin	RP-ADV	הין	hyN	_
+10	tsihn	VBF	ציהן	qyhN	_
+11	udr	CONJ	אודר	Avdr	_
+12	ver	WPRO	װער	Ver	_
+13	zi	PRO	זי	zy	_
+14	zenn	VBF	זענן	zenN	_
+
+SENT	1507W-BOVO,46.339
+1	i	C	אי	Ay	_
+2	er	PRO	ער	er	_
+3	ht	HVF	הט	ht	_
+4	s	PRO	ס	s	_
+5	girit	VBN	גיריט	gyryt	_
+6	za	ADV	זאַ	zAa	_
+7	var	BEF	װאַר	VAar	_
+8	es	PRO	עס	es	_
+9	gisehn	VBN	גיסעהן	gysehN	_
+
+SENT	1507W-BOVO,46.340
+1	er	PRO	ער	er	_
+2	rent	VBF	רענט	rent	_
+3	az	P	אַז	Aaz	_
+4	eyn	D	אײן	AYN	_
+5	pfeyl	N	פּפֿײל	pfYl	_
+6	vun	P	װוּן	VUN	_
+7	der	D	דער	der	_
+8	zenn	N	זענן	zenN	_
+
+SENT	1507W-BOVO,46.341
+1	un'	CONJ	אונ'	Avn'	_
+2	tsu	P	צו	qv	_
+3	in	PRO	אין	AyN	_
+4	bigund	VBF	ביגונד	bygvnd	_
+5	er	PRO	ער	er	_
+6	tsu	TO	צו	qv	_
+7	eyehn	VB	אײעהן	AYehN	_
+8	ey	INTJ	אײ	AY	_
+9	lust	VBI	לוסט	lvst	_
+10	oyer	PRO$	אױער	AWer	_
+11	pfert	N	פּפֿערט	pfert	_
+12	vluks	ADV	װלוקס	Vlvks	_
+13	renn	VB	רענן	renN	_
+
+SENT	1507W-BOVO,46.342
+1	ven	CONJ	װען	VeN	_
+2	zi	PRO	זי	zy	_
+3	zeyn	BEF	זײן	zYN	_
+4	oyer	PRO	אױער	AWer	_
+5	givarn	VBN	גיװאַרן	gyVAarN	_
+6	inn	RP	אינן	AynN	_
+
+SENT	1507W-BOVO,46.343
+1	rent	VBF	רענט	rent	_
+2	ir	PRO	איר	Ayr	_
+3	nit	NEG	ניט	nyt	_
+4	bald	ADV	באַלד	bAald	_
+5	za	ADV	זאַ	zAa	_
+6	vern	RDF	װערן	VerN	_
+7	zi	PRO	זי	zy	_
+8	oykh	PRO	אױך	AWX	_
+9	antrinn	VB	אַנטרינן	AantrynN	_
+
+SENT	1507W-BOVO,46.344
+1	un'	CONJ	אונ'	Avn'	_
+2	gr	ADV	גר	gr	_
+3	bihend	ADV	ביהענד	byhend	_
+4	er	PRO	ער	er	_
+5	vidr	ADV	װידר	Vydr	_
+6	um	RP	אום	AvM	_
+7	kirt	VBF	קירט	kyrt	_
+
+SENT	1507W-BOVO,46.345
+1	di	D	די	dy	_
+2	vr_retrey	N	װר_רעטרײ	Vr_retrY	_
+3	greyf	VBF	גרײף	grYF	_
+4	er	PRO	ער	er	_
+5	an	RP	אַן	AaN	_
+6	mit	P	מיט	myt	_
+7	vitsn	N	װיצן	VyqN	_
+
+SENT	1507W-BOVO,46.346
+1	nun	ADV	נ	n	_
+2	ht	VBF	הט	ht	_
+3	sinibld	NPR	סיניבלד	synybld	_
+4	eyn	D	אײן	AYN	_
+5	zun	N	זון	zvN	_
+6	hukh	ADV	הוך	hvX	_
+7	giirt	ADJ	גיִיִרט	gyiyirt	_
+8	den	D	דען	deN	_
+9	his	VBF	היס	hys	_
+10	mn	PRO	מן	mN	_
+11	den	D	דען	deN	_
+12	starkn	ADJ	סטאַרקן	stAarkN	_
+13	tiritsn	NPR	טיריצן	tyryqN	_
+
+SENT	1507W-BOVO,46.347
+1	gign	P	גיגן	gygN	_
+2	tsihn	NUM	ציהן	qyhN	_
+3	mn	N	מן	mN	_
+4	er	PRO	ער	er	_
+5	zikh	PRO	זיך	zyX	_
+6	vaul	ADV	װאַול	VAavl	_
+7	vert	VBF	װערט	Vert	_
+
+SENT	1507W-BOVO,46.348
+1	der	D	דער	der	_
+2	reyt	VBF	רײט	rYt	_
+3	varn	ADV	װאַרן	VAarN	_
+4	an	P	אַן	AaN	_
+5	der	D	דער	der	_
+6	spitsn	N	ספּיצן	spyqN	_
+
+SENT	1507W-BOVO,46.349
+1	un'	CONJ	אונ'	Avn'	_
+2	zkh	VBF	זך	zX	_
+3	ritsrd	NPR	ריצרד	ryqrd	_
+4	oyf	ADV	אױף	AWF	_
+5	un'	CONJ	אונ'	Avn'	_
+6	nidr	ADV	נידר	nydr	_
+7	renn	VB	רענן	renN	_
+
+SENT	1507W-BOVO,47.351
+1	ds	C	דס	ds	_
+2	es	PRO	עס	es	_
+3	vr	VBF	װר	Vr	_
+4	eyn	D	אײן	AYN	_
+5	ur_retrey	N	אור_רעטרײ	Avr_retrY	_
+6	kunt	MDF	קונט	kvnt	_
+7	er	PRO	ער	er	_
+8	val	ADV	װאַל	VAal	_
+9	kenn	VB	קענן	kenN	_
+
+SENT	1507W-BOVO,48.353
+1	tsu	P	צו	qv	_
+2	zeynm	PRO$	זײנם	zYnM	_
+3	vatir	N	װאַטיר	VAatyr	_
+4	hub	VBF	הוב	hvb	_
+5	er	PRO	ער	er	_
+6	an	RP	אַן	AaN	_
+7	tsu	TO	צו	qv	_
+8	sprekhn	VB	ספּרעכן	sprexN	_
+
+SENT	1507W-BOVO,48.354
+1	kunt	MDF	קונט	kvnt	_
+2	ir	PRO	איר	Ayr	_
+3	ds	D	דס	ds	_
+4	duzig	ADJ	דוזיג	dvzyg	_
+5	al	Q	אַל	Aal	_
+6	nit	NEG	ניט	nyt	_
+7	merkn	VB	מערקן	merkN	_
+
+SENT	1507W-BOVO,48.355
+1	verlikh	ADV	װערליך	VerlyX	_
+2	ritsrd	NPR	ריצרד	ryqrd	_
+3	vil	MDF	װיל	Vyl	_
+4	an	P	אַן	AaN	_
+5	unz	PRO	אונז	Avnz	_
+6	brekhn	VB	ברעכן	brexN	_
+
+SENT	1507W-BOVO,48.356
+1	ikh	PRO	איך	AyX	_
+2	zikh	VBF	זיך	zyX	_
+3	er	PRO	ער	er	_
+4	vurt	VBF	װוּרט	VUrt	_
+5	vur_retrishi	ADJ	װוּר_רעטרישי	VUr_retry$y	_
+6	verkn	N	װערקן	VerkN	_
+
+SENT	1507W-BOVO,48.357
+1	ikh	PRO	איך	AyX	_
+2	vil	MDF	װיל	Vyl	_
+3	in	PRO	אין	AyN	_
+4	beya	P	בײאַ	bYAa	_
+5	buk	N	בוק	bvk	_
+6	gin	VB	גין	gyN	_
+7	dr_stekhn	VB	דר_סטעכן	dr_stexN	_
+
+SENT	1507W-BOVO,48.358
+1	er	PRO	ער	er	_
+2	rent	VBF	רענט	rent	_
+3	gign	P	גיגן	gygN	_
+4	zi	PRO	זי	zy	_
+5	mit	P	מיט	myt	_
+6	grusn	ADJ	גרוסן	grvsN	_
+7	sterkn	N	סטערקן	sterkN	_
+
+SENT	1507W-BOVO,48.359
+1	un'	CONJ	אונ'	Avn'	_
+2	stakh	VBF	סטאַך	stAaX	_
+3	in	PRO	אין	AyN	_
+4	mit	P	מיט	myt	_
+5	der	D	דער	der	_
+6	lants	N	לאַנץ	lAanQ	_
+7	in	P	אין	AyN	_
+8	zeynm	PRO$	זײנם	zYnM	_
+9	magn	N	מאַגן	mAagN	_
+10	ds	C	דס	ds	_
+11	er	PRO	ער	er	_
+12	da_hin	ADV	דאַ_הין	dAa_hyN	_
+13	vil	VBF	װיל	Vyl	_
+14	un'	CONJ	אונ'	Avn'	_
+15	kert	VBF	קערט	kert	_
+16	oyf	RP	אױף	AWF	_
+17	di	D	די	dy	_
+18	gagn	N	גאַגן	gAagN	_
+
+SENT	1507W-BOVO,49.361
+1	zeyn	PRO$	זײן	zYN	_
+2	halz	N	האַלז	hAalz	_
+3	var	BEF	װאַר	VAar	_
+4	im	PRO	אים	AyM	_
+5	nun	ADV	נ	n	_
+6	gibrukhn	VAN	גיברוכן	gybrvxN	_
+
+SENT	1507W-BOVO,49.362
+1	nukh	CONJ	נוך	nvX	_
+2	vi	N	װי	Vy	_
+3	nukh	CONJ	נוך	nvX	_
+4	ukh	N	אוך	AvX	_
+5	hat	HVF	האַט	hAat	_
+6	er	PRO	ער	er	_
+7	nia	ADV	ניִאַ	nyiAa	_
+8	gi_eyehn	VBN	גי_ײעהן	gy_YehN	_
+
+SENT	1507W-BOVO,49.363
+1	zeyn	PRO$	זײן	zYN	_
+2	vur_retrey	N	װוּר_רעטרײ	VUr_retrY	_
+3	var	BEF	װאַר	VAar	_
+4	sun	ADV	סון	svN	_
+5	girukhn	VAN	גירוכן	gyrvxN	_
+
+SENT	1507W-BOVO,49.364
+1	alzu	ADV	אַלזו	Aalzv	_
+2	zul	MDF	זול	zvl	_
+3	al	Q	אַל	Aal	_
+4	den	D	דען	deN	_
+5	vur_retrn	N	װוּר_רעטרן	VUr_retrN	_
+6	gisehn	VB	גיסעהן	gysehN	_
+
+SENT	1507W-BOVO,49.365
+1	un'	CONJ	אונ'	Avn'	_
+2	da	C	דאַ	dAa	_
+3	in	PRO	אין	AyN	_
+4	tirits	NPR	טיריץ	tyryQ	_
+5	nun	ADV	נ	n	_
+6	hat	HVF	האַט	hAat	_
+7	dr_stukhn	VBN	דר_סטוכן	dr_stvxN	_
+8	da	ADV	דאַ	dAa	_
+9	kert	VBF	קערט	kert	_
+10	er	PRO	ער	er	_
+11	um	RP	אום	AvM	_
+
+SENT	1507W-BOVO,49.366
+1	un'	CONJ	אונ'	Avn'	_
+2	hub	VBF	הוב	hvb	_
+3	an	RP	אַן	AaN	_
+4	tsu	TO	צו	qv	_
+5	yehn	VB	יעהן	yehN	_
+6	ver	WPRO	װער	Ver	_
+7	da	ADV	דאַ	dAa	_
+8	vil	MDF	װיל	Vyl	_
+9	slufn	VB	סלופֿן	slvfN	_
+10	oyf	P	אױף	AWF	_
+11	hoyt	N	הױט	hWt	_
+12	gantsr	ADJ	גאַנצר	gAanqr	_
+13	der	D	דער	der	_
+14	nim	VBF	נים	nyM	_
+15	eyn	D	אײן	AYN	_
+16	meyl	N	מײל	mYl	_
+17	vur	P	װוּר	VUr	_
+18	eyn	D	אײן	AYN	_
+19	pantsr	N	פּאַנצר	pAanqr	_
+
+SENT	1507W-BOVO,50.368
+1	da	ADV	דאַ	dAa	_
+2	hubn	VBF	הובן	hvbN	_
+3	yeni	D	יעני	yeny	_
+4	an	RP	אַן	AaN	_
+5	vluks	ADV	װלוקס	Vlvks	_
+6	tsu	TO	צו	qv	_
+7	yagn	VB	יאַגן	yAagN	_
+8	nakh	RP	נ"ך	n"X	_
+
+SENT	1507W-BOVO,50.369
+1	un'	CONJ	אונ'	Avn'	_
+2	di	D	די	dy	_
+3	duzign	ADJ	דוזיגן	dvzygN	_
+4	hubn	VBF	הובן	hvbN	_
+5	an	RP	אַן	AaN	_
+6	tsu	TO	צו	qv	_
+7	vlihn	VB	װליהן	VlyhN	_
+
+SENT	1507W-BOVO,50.370
+1	gi	P	גי	gy	_
+2	snsimaun	NPR	סנסימאַון	snsymAavN	_
+3	var	VBF	װאַר	VAar	_
+4	in	PRO	אין	AyN	_
+5	gukh	X	גוך	gvX	_
+
+SENT	1507W-BOVO,50.371
+1	abr	CONJ	אַבר	Aabr	_
+2	buva	NPR	בוּװאַ	bUVAa	_
+3	kuntn	MDF	קונטן	kvntN	_
+4	zi	PRO	זי	zy	_
+5	nit	NEG	ניט	nyt	_
+6	hr_nukh	ADV	הר_נוך	hr_nvX	_
+7	tsihn	VB	ציהן	qyhN	_
+
+SENT	1507W-BOVO,50.372
+1	er	PRO	ער	er	_
+2	zs	VBF	זס	zs	_
+3	oyf	P	אױף	AWF	_
+4	eyn	D	אײן	AYN	_
+5	pferd	N	פּפֿערד	pferd	_
+6	ds	D	דס	ds	_
+7	var	VBF	װאַר	VAar	_
+8	gr	ADV	גר	gr	_
+9	hukh	ADJ	הוך	hvX	_
+
+SENT	1507W-BOVO,50.373
+1	ds	D	דס	ds	_
+2	vas	BEF	װאַס	VAas	_
+3	im	PRO	אים	AyM	_
+4	ubl	ADV	אובל	Avbl	_
+5	gidihn	VBN	גידיהן	gydyhN	_
+
+SENT	1507W-BOVO,50.374
+1	ven	C	װען	VeN	_
+2	er	PRO	ער	er	_
+3	es	PRO	עס	es	_
+4	stakh	VBF	סטאַך	stAaX	_
+5	mit	P	מיט	myt	_
+6	zeynn	PRO$	זײנן	zYnN	_
+7	spurn	N	ספּורן	spvrN	_
+8	da	ADV	דאַ	dAa	_
+9	slug	VBF	סלוג	slvg	_
+10	es	PRO	עס	es	_
+11	oyf	RP	אױף	AWF	_
+12	hintn	ADV	הינטן	hyntN	_
+13	un'	CONJ	אונ'	Avn'	_
+14	uarn	ADV	אואַרן	AvAarN	_
+
+SENT	1507W-BOVO,51.376
+1	vun	P	װוּן	VUN	_
+2	dem	D	דעם	deM	_
+3	pferd	N	פּפֿערד	pferd	_
+4	must	MDF	מוסט	mvst	_
+5	er	PRO	ער	er	_
+6	springn	VB	ספּרינגן	spryngN	_
+
+SENT	1507W-BOVO,51.377
+1	un'	CONJ	אונ'	Avn'	_
+2	vil	VBF	װיל	Vyl	_
+3	da_nidr	ADV	דאַ_נידר	dAa_nydr	_
+4	oyf	P	אױף	AWF	_
+5	den	D	דען	deN	_
+6	rukn	N	רוקן	rvkN	_
+
+SENT	1507W-BOVO,51.378
+1	di	D	די	dy	_
+2	veynt	N	װײנט	VYnt	_
+3	rentn	VBF	רענטן	rentN	_
+4	gar	ADV	גאַר	gAar	_
+5	gringn	ADV	גרינגן	gryngN	_
+
+SENT	1507W-BOVO,51.379
+1	vi	WADV	װי	Vy	_
+2	bld	ADV	בלד	bld	_
+3	tetn	DOF	טעטן	tetN	_
+4	zi	PRO	זי	zy	_
+5	in	PRO	אין	AyN	_
+6	oyf	RP	אױף	AWF	_
+7	tsukn	VB	צוקן	qvkN	_
+
+SENT	1507W-BOVO,51.380
+1	yeni	D	יעני	yeny	_
+2	kamn	VBF	קאַמן	kAamN	_
+3	gi	P	גי	gy	_
+4	snsimun	NPR	סנסימון	snsymvN	_
+5	tsu	TO	צו	qv	_
+6	dringn	VB	דרינגן	dryngN	_
+
+SENT	1507W-BOVO,51.381
+1	un'	CONJ	אונ'	Avn'	_
+2	tsuhn	VBF	צוהן	qvhN	_
+3	vluks	ADV	װלוקס	Vlvks	_
+4	oyf	RP	אױף	AWF	_
+5	di	D	די	dy	_
+6	slk_brukn	N	סלק_ברוקן	slk_brvkN	_
+
+SENT	1507W-BOVO,51.382
+1	da	C	דאַ	dAa	_
+2	zi	PRO	זי	zy	_
+3	zahn	VBF	זאַהן	zAahN	_
+4	ds	C	דס	ds	_
+5	buva	NPR	בוּװאַ	bUVAa	_
+6	var	BEF	װאַר	VAar	_
+7	doysn	ADV	דױסן	dWsN	_
+8	giblibn	VBN	גיבליבן	gyblybN	_
+9	vs	WPRO	װס	Vs	_
+10	grusn	ADJ	גרוסן	grvsN	_
+11	yamr	N	יאַמר	yAamr	_
+12	var	BEF	װאַר	VAar	_
+13	da	ADV	דאַ	dAa	_
+14	gitribn	VAN	גיטריבן	gytrybN	_
+
+SENT	1507W-BOVO,52.384
+1	buva	NPR	בוּװאַ	bUVAa	_
+2	ver	BEF	װער	Ver	_
+3	gern	ADV	גערן	gerN	_
+4	oyf	P	אױף	AWF	_
+5	ds	D	דס	ds	_
+6	pferd	N	פּפֿערד	pferd	_
+7	gisprungn	VBN	גיספּרונגן	gysprvngN	_
+
+SENT	1507W-BOVO,52.385
+1	er	PRO	ער	er	_
+2	kunt	MDF	קונט	kvnt	_
+3	zikh	PRO	זיך	zyX	_
+4	abr	ADV	אַבר	Aabr	_
+5	vur	P	װוּר	VUr	_
+6	in	PRO	אין	AyN	_
+7	nit	NEG	ניט	nyt	_
+8	girurn	VB	גירורן	gyrvrN	_
+
+SENT	1507W-BOVO,52.386
+1	zi	PRO	זי	zy	_
+2	namn	VBF	נאַמן	nAamN	_
+3	mit	P	מיט	myt	_
+4	in	PRO	אין	AyN	_
+5	den	D	דען	deN	_
+6	armn	ADJ	אַרמן	AarmN	_
+7	yungen	N	יונגען	yvngeN	_
+
+SENT	1507W-BOVO,52.387
+1	un'	CONJ	אונ'	Avn'	_
+2	hineyn	ADV	הינײן	hynYN	_
+3	gi	P	גי	gy	_
+4	antunh	NPR	אַנטונה	Aantvnh	_
+5	varn	BEF	װאַרן	VAarN	_
+6	zi	PRO	זי	zy	_
+7	in	PRO	אין	AyN	_
+8	vurn	VAG	װוּרן	VUrN	_
+
+SENT	1507W-BOVO,52.388
+1	in	P	אין	AyN	_
+2	di	D	די	dy	_
+3	stt	N	סטט	stt	_
+4	kamn	VBF	קאַמן	kAamN	_
+5	zi	PRO	זי	zy	_
+6	gidrungn	VBN	גידרונגן	gydrvngN	_
+
+SENT	1507W-BOVO,52.389
+1	un'	CONJ	אונ'	Avn'	_
+2	spertn	VBF	ספּערטן	spertN	_
+3	tsu	RP	צו	qv	_
+4	turn	N	טורן	tvrN	_
+5	un'	CONJ	אונ'	Avn'	_
+6	turn	N	טורן	tvrN	_
+
+SENT	1507W-BOVO,52.390
+1	un'	CONJ	אונ'	Avn'	_
+2	tsu	P	צו	qv	_
+3	dudun	NPR	דודון	dvdvN	_
+4	un'	CONJ	אונ'	Avn'	_
+5	brnduneyh	NPR	ברנדונײה	brndvnYh	_
+6	ali	Q	אַלי	Aaly	_
+7	beydn	Q	בײדן	bYdN	_
+8	brakhtn	VBF	בראַכטן	brAaxtN	_
+9	zi	PRO	זי	zy	_
+10	buva	NPR	בוּװאַ	bUVAa	_
+11	mit	P	מיט	myt	_
+12	grusn	ADJ	גרוסן	grvsN	_
+13	vreydn	N	װרײדן	VrYdN	_
+
+SENT	1507W-BOVO,53.392
+1	zi	PRO	זי	zy	_
+2	zahn	VBF	זאַהן	zAahN	_
+3	in	PRO	אין	AyN	_
+4	an	RP	אַן	AaN	_
+5	ubr	P	אובר	Avbr	_
+6	di	D	די	dy	_
+7	zeytn	N	זײטן	zYtN	_
+
+SENT	1507W-BOVO,53.393
+1	un'	CONJ	אונ'	Avn'	_
+2	varn	VBF	װאַרן	VAarN	_
+3	mit	P	מיט	myt	_
+4	im	PRO	אים	AyM	_
+5	vun	P	װוּן	VUN	_
+6	vinig	Q	װיניג	Vynyg	_
+7	vartn	N	װאַרטן	VAartN	_
+
+SENT	1507W-BOVO,53.394
+1	ds	D	דס	ds	_
+2	lusn	VBF	לוסן	lvsN	_
+3	mir	PRO	מיר	myr	_
+4	stin	VB	סטין	styN	_
+5	tsu	P	צו	qv	_
+6	dizn	D	דיזן	dyzN	_
+7	tseytn	N	צײטן	qYtN	_
+
+SENT	1507W-BOVO,53.395
+1	un'	CONJ	אונ'	Avn'	_
+2	valn	MDF	װאַלן	VAalN	_
+3	zgn	VB	זגן	zgN	_
+4	vun	P	װוּן	VUN	_
+5	den	D	דען	deN	_
+6	vun	P	װוּן	VUN	_
+7	snsimun	NPR	סנסימון	snsymvN	_
+8	durtn	ADV	דורטן	dvrtN	_
+
+SENT	1507W-BOVO,53.396
+1	in	P	אין	AyN	_
+2	dem	D	דעם	deM	_
+3	slus	N	סלוס	slvs	_
+4	valtn	MDF	װאַלטן	VAaltN	_
+5	zi	PRO	זי	zy	_
+6	nit	NEG	ניט	nyt	_
+7	lenger	ADVR	לענגער	lenger	_
+8	beytn	VB	בײטן	bYtN	_
+
+SENT	1507W-BOVO,53.397
+1	zi	PRO	זי	zy	_
+2	reytn	VBF	רײטן	rYtN	_
+3	hroyz	ADV	הרױז	hrWz	_
+4	vur	P	װוּר	VUr	_
+5	di	D	די	dy	_
+6	pfurtn	N	פּפֿורטן	pfvrtN	_
+7	tsu	TO	צו	qv	_
+8	brenn	VB	ברענן	brenN	_
+9	un'	CONJ	אונ'	Avn'	_
+10	tsu	TO	צו	qv	_
+11	vangn	VB	װאַנגן	VAangN	_
+12	un'	CONJ	אונ'	Avn'	_
+13	tsu	TO	צו	qv	_
+14	rabn	VB	ראַבן	rAabN	_
+
+SENT	1507W-BOVO,53.398
+1	un'	CONJ	אונ'	Avn'	_
+2	namn	VBF	נאַמן	nAamN	_
+3	vs	WPRO	װס	Vs	_
+4	zi	PRO	זי	zy	_
+5	kuntn	MDF	קונטן	kvntN	_
+6	hbn	VB	הבן	hbN	_
+
+SENT	1507W-BOVO,54.400
+1	zi	PRO	זי	zy	_
+2	tetn	VBF	טעטן	tetN	_
+3	rekht	ADV	רעכט	rext	_
+4	az	P	אַז	Aaz	_
+5	di	D	די	dy	_
+6	veyzn	N	װײזן	VYzN	_
+
+SENT	1507W-BOVO,54.401
+1	zi	PRO	זי	zy	_
+2	vern	BEF	װערן	VerN	_
+3	givezn	VBN	גיװעזן	gyVezN	_
+4	zunst	ADV	זונסט	zvnst	_
+5	gants	ADV	גאַנץ	gAanQ	_
+6	vr_lurn	ADJ	װר_לורן	Vr_lvrN	_
+
+SENT	1507W-BOVO,54.402
+1	un'	CONJ	אונ'	Avn'	_
+2	ds	D	דס	ds	_
+3	slus	N	סלוס	slvs	_
+4	tetn	DOF	טעטן	tetN	_
+5	zi	PRO	זי	zy	_
+6	val	ADV	װאַל	VAal	_
+7	speyzn	VB	ספּײזן	spYzN	_
+8	oyf	P	אױף	AWF	_
+9	menkh	Q	מענך	menX	_
+10	tseyt	N	צײט	qYt	_
+11	un'	CONJ	אונ'	Avn'	_
+12	ibgi	ADJ	איבגי	Aybgy	_
+13	iarn	N	איאַרן	AyAarN	_
+14	mit	P	מיט	myt	_
+15	vikh	N	װיך	VyX	_
+16	mit	P	מיט	myt	_
+17	hults	N	הולץ	hvlQ	_
+18	un'	CONJ	אונ'	Avn'	_
+19	mit	P	מיט	myt	_
+20	eyzn	N	אײזן	AYzN	_
+21	un'	CONJ	אונ'	Avn'	_
+22	mit	P	מיט	myt	_
+23	veyn	N	װײן	VYN	_
+24	un'	CONJ	אונ'	Avn'	_
+25	mul	N	מול	mvl	_
+26	un'	CONJ	אונ'	Avn'	_
+27	kurn	N	קורן	kvrN	_
+
+SENT	1507W-BOVO,54.403
+1	irr	PRO	אירר	Ayrr	_
+2	vir_hundrt	NUM	װיר_הונדרט	Vyr_hvndrt	_
+3	hiltn	VBF	הילטן	hyltN	_
+4	zikh	PRO	זיך	zyX	_
+5	dinn	ADV	דינן	dynN	_
+
+SENT	1507W-BOVO,54.404
+1	der	D	דער	der	_
+2	toyvl	N	טובֿל	tv~l	_
+3	het	HVF	העט	het	_
+4	es	PRO	עס	es	_
+5	nit	NEG	ניט	nyt	_
+6	kunn	MDN-IPP	קונן	kvnN	_
+7	givinn	VB	גיװינן	gyVynN	_
+
+SENT	1507W-BOVO,55.406
+1	hertsug	N	הערצוג	herqvg	_
+2	dudun	NPR	דודון	dvdvN	_
+3	dem	D	דעם	deM	_
+4	tet	DOF	טעט	tet	_
+5	es	PRO	עס	es	_
+6	uast	ADV	אואַסט	AvAast	_
+7	tsurn	VB	צורן	qvrN	_
+
+SENT	1507W-BOVO,55.407
+1	un'	CONJ	אונ'	Avn'	_
+2	sprkh	VBF	ספּרך	sprX	_
+3	ds	D	דס	ds	_
+4	vil	MDF	װיל	Vyl	_
+5	ikh	PRO	איך	AyX	_
+6	nit	NEG	ניט	nyt	_
+7	lusn	VB	לוסן	lvsN	_
+8	lign	VB	ליגן	lygN	_
+
+SENT	1507W-BOVO,55.408
+1	al	Q	אַל	Aal	_
+2	ds	D	דס	ds	_
+3	land	N	לאַנד	lAand	_
+4	ds	WPRO	דס	ds	_
+5	mir	PRO	מיר	myr	_
+6	ist	BEF	איסט	Ayst	_
+7	givarn	VBN	גיװאַרן	gyVAarN	_
+8	ds	D	דס	ds	_
+9	vil	MDF	װיל	Vyl	_
+10	ikh	PRO	איך	AyX	_
+11	alz	Q	אַלז	Aalz	_
+12	droyf	DR+P	דרױף	drWF	_
+13	vr_krign	VB	װר_קריגן	Vr_krygN	_
+
+SENT	1507W-BOVO,55.409
+1	nun	ADV	נ	n	_
+2	ht	VBF	הט	ht	_
+3	er	PRO	ער	er	_
+4	eyn	D	אײן	AYN	_
+5	brudr	N	ברודר	brvdr	_
+6	hukh_gibarn	ADJ	הוכ_גיבאַרן	hvx_gybAarN	_
+7	den	D	דען	deN	_
+8	his	VBF	היס	hys	_
+9	man	PRO	מאַן	mAaN	_
+10	den	D	דען	deN	_
+11	strkn	ADJ	סטרקן	strkN	_
+12	alburign	NPR	אַלבוריגן	AalbvrygN	_
+
+SENT	1507W-BOVO,55.410
+1	da	ADV	דאַ	dAa	_
+2	shikt	VBF	שיקט	$ykt	_
+3	er	PRO	ער	er	_
+4	nukh	ADV	נוך	nvX	_
+5	val	ADV	װאַל	VAal	_
+6	biz	P	ביז	byz	_
+7	in	P	אין	AyN	_
+8	frantsh	NPR	פֿראַנטש	frAant$	_
+
+SENT	1507W-BOVO,55.411
+1	der	D	דער	der	_
+2	km	VBF	קם	kM	_
+3	tsu	TO	צו	qv	_
+4	reytn	VB	רײטן	rYtN	_
+5	mit	P	מיט	myt	_
+6	toyznt	NUM	טױזנט	tWznt	_
+7	lantsn	N	לאַנצן	lAanqN	_
+
+SENT	1507W-BOVO,56.413
+1	da	ADV	דאַ	dAa	_
+2	shikt	VBF	שיקט	$ykt	_
+3	er	PRO	ער	er	_
+4	in	PRO	אין	AyN	_
+5	mit	P	מיט	myt	_
+6	al	Q	אַל	Aal	_
+7	zeyn	PRO$	זײן	zYN	_
+8	rikn	N	ריקן	rykN	_
+9	ds	C	דס	ds	_
+10	zi	PRO	זי	zy	_
+11	snsimun	NPR	סנסימון	snsymvN	_
+12	zultn	MDF	זולטן	zvltN	_
+13	dr_steygn	VB	דר_סטײגן	dr_stYgN	_
+
+SENT	1507W-BOVO,56.414
+1	zi	PRO	זי	zy	_
+2	umringltn	VBF	אומרינגלטן	AvmryngltN	_
+3	es	PRO	עס	es	_
+4	tsu	P	צו	qv	_
+5	aln	Q	אַלן	AalN	_
+6	ikn	N	איקן	AykN	_
+
+SENT	1507W-BOVO,56.415
+1	zi	PRO	זי	zy	_
+2	veyzn	VBF	װײזן	VYzN	_
+3	in	PRO	אין	AyN	_
+4	al	Q	אַל	Aal	_
+5	hroyz	ADV	הרױז	hrWz	_
+6	di	D	די	dy	_
+7	ueygn	N	אוײגן	AvYgN	_
+
+SENT	1507W-BOVO,56.416
+1	den	D	דען	deN	_
+2	thxth	N	טהxטה	thxth	_
+3	tetn	DOF	טעטן	tetN	_
+4	zi	PRO	זי	zy	_
+5	oyf	RP	אױף	AWF	_
+6	dikn	VB	דיקן	dykN	_
+
+SENT	1507W-BOVO,56.417
+1	denukh	ADV	דענוך	denvX	_
+2	mustn	MDF	מוסטן	mvstN	_
+3	zi	PRO	זי	zy	_
+4	val	ADV	װאַל	VAal	_
+5	stil	ADV	סטיל	styl	_
+6	sveygn	VB	סװײגן	sVYgN	_
+
+SENT	1507W-BOVO,56.418
+1	azu	ADV	אַזו	Aazv	_
+2	vert	VBF	װערט	Vert	_
+3	der	D	דער	der	_
+4	krig	N	קריג	kryg	_
+5	menkhi	Q	מענכי	menxy	_
+6	tgn	N	טגן	tgN	_
+7	az	C	אַז	Aaz	_
+8	ir	PRO	איר	Ayr	_
+9	hintn	ADV	הינטן	hyntN	_
+10	nukh	ADV	נוך	nvX	_
+11	val	ADV	װאַל	VAal	_
+12	vert	RDF	װערט	Vert	_
+13	hurn	VB	הורן	hvrN	_
+14	zagn	VB	זאַגן	zAagN	_
+
+SENT	1507W-BOVO,57.420
+1	da	C	דאַ	dAa	_
+2	er	PRO	ער	er	_
+3	ht	HVF	הט	ht	_
+4	givert	VBN	גיװערט	gyVert	_
+5	bey	P	בײ	bY	_
+6	den	D	דען	deN	_
+7	iarn	N	איאַרן	AyAarN	_
+8	drey	NUM	דרײ	drY	_
+9	da	ADV	דאַ	dAa	_
+10	tsukh	VBF	צוך	qvX	_
+11	dudun	NPR	דודון	dvdvN	_
+12	zelbst	ADV	זעלבסט	zelbst	_
+13	oyz	P	אױז	AWz	_
+14	antuna	NPR	אַנטונאַ	AantvnAa	_
+
+SENT	1507W-BOVO,57.421
+1	in	P	אין	AyN	_
+2	ds	D	דס	ds	_
+3	veld	N	װעלד	Veld	_
+4	ligt	VBF	ליגט	lygt	_
+5	er	PRO	ער	er	_
+6	zikh	PRO	זיך	zyX	_
+7	gr	ADV	גר	gr	_
+8	vrey	ADJ	װרײ	VrY	_
+9	mit	P	מיט	myt	_
+10	al	Q	אַל	Aal	_
+11	zeyn	PRO$	זײן	zYN	_
+12	hern	N	הערן	herN	_
+13	un'	CONJ	אונ'	Avn'	_
+14	baruna	N	באַרונאַ	bAarvnAa	_
+
+SENT	1507W-BOVO,57.422
+1	zeyn	PRO$	זײן	zYN	_
+2	gitselt	N	גיצעלט	gyqelt	_
+3	strikt	VBF	סטריקט	strykt	_
+4	er	PRO	ער	er	_
+5	nuhnt	ADV	נוהנט	nvhnt	_
+6	der_bey	DR+P	דער_בײ	der_bY	_
+
+SENT	1507W-BOVO,57.423
+1	eyn	D	אײן	AYN	_
+2	nkht	N	נכט	nxt	_
+3	da	ADV	דאַ	dAa	_
+4	lagn	VBF	לאַגן	lAagN	_
+5	zi	PRO	זי	zy	_
+6	al	Q	אַל	Aal	_
+7	in	P	אין	AyN	_
+8	dem	D	דעם	deM	_
+9	plunh	N	פּלונה	plvnh	_
+
+SENT	1507W-BOVO,57.424
+1	un'	CONJ	אונ'	Avn'	_
+2	idrmn	Q	אידרמן	AydrmN	_
+3	var	BEF	װאַר	VAar	_
+4	nun	ADV	נ	n	_
+5	val	ADV	װאַל	VAal	_
+6	antslufn	VBN	אַנצלופֿן	AanqlvfN	_
+
+SENT	1507W-BOVO,57.425
+1	da	ADV	דאַ	dAa	_
+2	hub	VBF	הוב	hvb	_
+3	dudun	NPR	דודון	dvdvN	_
+4	an	RP	אַן	AaN	_
+5	tsu	TO	צו	qv	_
+6	sreyan	VB	סרײאַן	srYAaN	_
+7	tsi	P	צי	qy	_
+8	tr	D	טר	tr	_
+9	vafn	N	װאַפֿן	VAafN	_
+
+SENT	1507W-BOVO,58.427
+1	idrmn	Q	אידרמן	AydrmN	_
+2	der	D	דער	der	_
+3	var	BEF	װאַר	VAar	_
+4	dr_vun	DR+P	דר_װוּן	dr_VUN	_
+5	antvkhn	VAG	אַנטװכן	AantVxN	_
+
+SENT	1507W-BOVO,58.428
+1	un'	CONJ	אונ'	Avn'	_
+2	eyn	D	אײן	AYN	_
+3	grusn	ADJ	גרוסן	grvsN	_
+4	shrekn	N	שרעקן	$rekN	_
+5	zi	PRO	זי	zy	_
+6	eyn	RP	אײן	AYN	_
+7	namn	VBF	נאַמן	nAamN	_
+
+SENT	1507W-BOVO,58.429
+1	zeyn	PRO$	זײן	zYN	_
+2	brudr	N	ברודר	brvdr	_
+3	der	D	דער	der	_
+4	vrugt	VBF	װרוגט	Vrvgt	_
+5	in	PRO	אין	AyN	_
+6	der	D	דער	der	_
+7	zakhn	N	זאַכן	zAaxN	_
+8	vs	WPRO	װס	Vs	_
+9	da	ADV	דאַ	dAa	_
+10	vern	VBF	װערן	VerN	_
+11	di	D	די	dy	_
+12	grimn	N	גרימן	grymN	_
+13	di	WPRO	די	dy	_
+14	da	ADV	דאַ	dAa	_
+15	im	PRO	אים	AyM	_
+16	kamn	VBF	קאַמן	kAamN	_
+
+SENT	1507W-BOVO,58.430
+1	dudun	NPR	דודון	dvdvN	_
+2	der	D	דער	der	_
+3	sprkh	VBF	ספּרך	sprX	_
+4	ikh	PRO	איך	AyX	_
+5	mus	MDF	מוס	mvs	_
+6	zelbs	ADV	זעלבס	zelbs	_
+7	lakhn	VB	לאַכן	lAaxN	_
+8	vi	C	װי	Vy	_
+9	ikh	PRO	איך	AyX	_
+10	bin	BEF	בין	byN	_
+11	gilegn	VBN	גילעגן	gylegN	_
+12	in	P	אין	AyN	_
+13	eynm	D	אײנם	AYnM	_
+14	tramn	N	טראַמן	trAamN	_
+15	vi	C	װי	Vy	_
+16	buva	NPR	בוּװאַ	bUVAa	_
+17	ver	BEF	װער	Ver	_
+18	her	RP-ADV	הער	her	_
+19	ubr	P	אובר	Avbr	_
+20	mikh	PRO	מיך	myX	_
+21	giritn	VBN	גיריטן	gyrytN	_
+22	un'	CONJ	אונ'	Avn'	_
+23	het	HVF	העט	het	_
+24	mir	PRO	מיר	myr	_
+25	meyn	PRO$	מײן	mYN	_
+26	drusl	N	דרוסל	drvsl	_
+27	ab	RP	אַב	Aab	_
+28	gisnitn	VBN	גיסניטן	gysnytN	_
+
+SENT	1507W-BOVO,59.432
+1	da	ADV	דאַ	dAa	_
+2	sprkh	VBF	ספּרך	sprX	_
+3	alburig	NPR	אַלבוריג	Aalbvryg	_
+4	valg	VBI	װאַלג	VAalg	_
+5	meynr	PRO$	מײנר	mYnr	_
+6	lirn	N	לירן	lyrN	_
+
+SENT	1507W-BOVO,59.433
+1	ikh	PRO	איך	AyX	_
+2	zg	VBF	זג	zg	_
+3	dir	PRO	דיר	dyr	_
+4	di	D	די	dy	_
+5	trm	N	טרם	trM	_
+6	zeyn	VBF	זײן	zYN	_
+7	nit	NEG	ניט	nyt	_
+8	al	Q	אַל	Aal	_
+9	gilugn	ADJ	גילוגן	gylvgN	_
+
+SENT	1507W-BOVO,59.434
+1	ikh	PRO	איך	AyX	_
+2	shvir	VBF	שװיר	$Vyr	_
+3	dir	PRO	דיר	dyr	_
+4	brudr	N	ברודר	brvdr	_
+5	bey	P	בײ	bY	_
+6	meyn	PRO$	מײן	mYN	_
+7	irn	N	אירן	AyrN	_
+8	der	D	דער	der	_
+9	duzig	ADJ	דוזיג	dvzyg	_
+10	iung	N	איונג	Ayvng	_
+11	vert	RDF	װערט	Vert	_
+12	dikh	PRO	דיך	dyX	_
+13	nukh	ADV	נוך	nvX	_
+14	plugn	VB	פּלוגן	plvgN	_
+
+SENT	1507W-BOVO,59.435
+1	drum	DR+P	דרום	drvM	_
+2-3	vilstu	MDF~PRO	װילסטו	Vylstv	_
+2	vils	MDF	װילס	Vyls	_
+3	tu	PRO	טו	tv	_
+4	dikh	PRO	דיך	dyX	_
+5	ds	D	דס	ds	_
+6	duzig	ADJ	דוזיג	dvzyg	_
+7	dr_vern	VB	דר_װערן	dr_VerN	_
+8	du	PRO	דו	dv	_
+9	zulst	MDF	זולסט	zvlst	_
+10	tsu_mul	ADV	צו_מול	qv_mvl	_
+11	nit	NEG	ניט	nyt	_
+12	veytr	ADV	װײטר	VYtr	_
+13	vrugn	VB	װרוגן	VrvgN	_
+
+SENT	1507W-BOVO,59.436
+1	un	CONJ	און	AvN	_
+2	du	PRO	דו	dv	_
+3	zulst	MDF	זולסט	zvlst	_
+4	zeynr	PRO$	זײנר	zYnr	_
+5	mutr	N	מוטר	mvtr	_
+6	anpitn	VB	אַנפּיטן	AanpytN	_
+7	zgn	VB	זגן	zgN	_
+8	ds	C	דס	ds	_
+9	zi	PRO	זי	zy	_
+10	irn	PRO$	אירן	AyrN	_
+11	zun	N	זון	zvN	_
+12	lust	VBF	לוסט	lvst	_
+13	heymlikh	ADV	הײמליך	hYmlyX	_
+14	dr_slagn	VB	דר_סלאַגן	dr_slAagN	_
+
+SENT	1507W-BOVO,60.438
+1	dudun	NPR	דודון	dvdvN	_
+2	sprkh	VBF	ספּרך	sprX	_
+3	tsikh	VBI	ציך	qyX	_
+4	vluks	ADV	װלוקס	Vlvks	_
+5	dr_{fun}	DR+P	דר_{פֿון}	dr_{fvN}	_
+
+SENT	1507W-BOVO,60.439
+1	un'	CONJ	אונ'	Avn'	_
+2	zag	VBI	זאַג	zAag	_
+3	den	D	דען	deN	_
+4	tram	N	טראַם	trAaM	_
+5	meyn	PRO$	מײן	mYN	_
+6	veybn	N	װײבן	VYbN	_
+
+SENT	1507W-BOVO,60.440
+1	ikh	PRO	איך	AyX	_
+2	veys	VBF	װײס	VYs	_
+3	val	ADV	װאַל	VAal	_
+4	ven	C	װען	VeN	_
+5	zi	PRO	זי	zy	_
+6	es	PRO	עס	es	_
+7	vert	VBF	װערט	Vert	_
+8	givar	ADJ	גיװאַר	gyVAar	_
+9	za	ADV	זאַ	zAa	_
+10	vert	RDF	װערט	Vert	_
+11	zi	PRO	זי	zy	_
+12	irn	PRO$	אירן	AyrN	_
+13	zun	N	זון	zvN	_
+14	vr_treybn	VB	װר_טרײבן	Vr_trYbN	_
+
+SENT	1507W-BOVO,60.441
+1	udr	CONJ	אודר	Avdr	_
+2	vert	RDF	װערט	Vert	_
+3	in	PRO	אין	AyN	_
+4	lusn	VB	לוסן	lvsN	_
+5	hin	RP-ADV	הין	hyN	_
+6	rikhtn	VB	ריכטן	ryxtN	_
+7	gr	ADV	גר	gr	_
+
+SENT	1507W-BOVO,60.442
+1	azu	ADV	אַזו	Aazv	_
+2	gr	ADV	גר	gr	_
+3	hult	ADJ	הולט	hvlt	_
+4	hut	VBF	הוט	hvt	_
+5	zi	PRO	זי	zy	_
+6	meynn	PRO$	מײנן	mYnN	_
+7	leybn	N	לײבן	lYbN	_
+8	ds	C	דס	ds	_
+9	der	D	דער	der	_
+10	tram	N	טראַם	trAaM	_
+11	nit	NEG	ניט	nyt	_
+12	mukht	MDF	מוכט	mvxt	_
+13	var	ADJ	װאַר	VAar	_
+14	vern	VB	װערן	VerN	_
+
+SENT	1507W-BOVO,60.443
+1	alburign	NPR	אַלבוריגן	AalbvrygN	_
+2	sprkh	VBF	ספּרך	sprX	_
+3	ikh	PRO	איך	AyX	_
+4	vil	MDF	װיל	Vyl	_
+5	es	PRO	עס	es	_
+6	tun	VB	טון	tvN	_
+7	gern	ADV	גערן	gerN	_
+
+SENT	1507W-BOVO,61.445
+1	da	ADV	דאַ	dAa	_
+2	tsukh	VBF	צוך	qvX	_
+3	er	PRO	ער	er	_
+4	in	P	אין	AyN	_
+5	di	D	די	dy	_
+6	stt	N	סטט	stt	_
+7	hineyn	ADV	הינײן	hynYN	_
+
+SENT	1507W-BOVO,61.446
+1	un'	CONJ	אונ'	Avn'	_
+2	zgt	VBF	זגט	zgt	_
+3	brndunh	NPR	ברנדונה	brndvnh	_
+4	di	D	די	dy	_
+5	gishikhtn	N	גישיכטן	gy$yxtN	_
+
+SENT	1507W-BOVO,61.447
+1	da	ADV	דאַ	dAa	_
+2	nam	VBF	נאַם	nAaM	_
+3	zi	PRO	זי	zy	_
+4	eyn	D	אײן	AYN	_
+5	grusn	ADJ	גרוסן	grvsN	_
+6	shrekn	N	שרעקן	$rekN	_
+7	eyn	RP	אײן	AYN	_
+
+SENT	1507W-BOVO,61.448
+1	dukh	ADV	דוך	dvX	_
+2	valt	MDF	װאַלט	VAalt	_
+3	zi	PRO	זי	zy	_
+4	es	PRO	עס	es	_
+5	nit	NEG	ניט	nyt	_
+6	vr_nikhtn	VB	װר_ניכטן	Vr_nyxtN	_
+
+SENT	1507W-BOVO,61.449
+1	un'	CONJ	אונ'	Avn'	_
+2	sprkh	VBF	ספּרך	sprX	_
+3	heys	VBI	הײס	hYs	_
+4	in	PRO	אין	AyN	_
+5	un	P	און	AvN	_
+6	zurgn	N	זורגן	zvrgN	_
+7	zeyn	VB	זײן	zYN	_
+
+SENT	1507W-BOVO,61.450
+1	di	D	די	dy	_
+2	zkh	N	זך	zX	_
+3	vil	MDF	װיל	Vyl	_
+4	ikh	PRO	איך	AyX	_
+5	im	PRO	אים	AyM	_
+6	val	ADV	װאַל	VAal	_
+7	oyz	RP	אױז	AWz	_
+8	rikhtn	VB	ריכטן	ryxtN	_
+
+SENT	1507W-BOVO,61.451
+1	mit	P	מיט	myt	_
+2	buva	NPR	בוּװאַ	bUVAa	_
+3	lus	VBI	לוס	lvs	_
+4	er	PRO	ער	er	_
+5	mikh	PRO	מיך	myX	_
+6	shafn	VB	שאַפֿן	$AafN	_
+
+SENT	1507W-BOVO,61.452
+1	er	PRO	ער	er	_
+2	vert	RDF	װערט	Vert	_
+3	es	PRO	עס	es	_
+4	nit	NEG	ניט	nyt	_
+5	durfn	MD	דורפֿן	dvrfN	_
+6	peykhtn	VB	פּײכטן	pYxtN	_
+7	keynm	Q	קײנם	kYnM	_
+8	pfafn	N	פּפֿאַפֿן	pfAafN	_
+
+SENT	1507W-BOVO,62.454
+1	alburign	NPR	אַלבוריגן	AalbvrygN	_
+2	der	D	דער	der	_
+3	tsukh	VBF	צוך	qvX	_
+4	da	ADV	דאַ	dAa	_
+5	vidr	ADV	װידר	Vydr	_
+6	hin	RP-ADV	הין	hyN	_
+7	ds	C	דס	ds	_
+8	er	PRO	ער	er	_
+9	dudun	NPR	דודון	dvdvN	_
+10	di	D	די	dy	_
+11	entvrt	N	ענטװרט	entVrt	_
+12	valt	MDF	װאַלט	VAalt	_
+13	zgn	VB	זגן	zgN	_
+
+SENT	1507W-BOVO,62.455
+1	nun	ADV	נ	n	_
+2	trakhtt	VBF	טראַכטט	trAaxtt	_
+3	brnduneyh	NPR	ברנדונײה	brndvnYh	_
+4	eynn	D	אײנן	AYnN	_
+5	zin	N	זין	zyN	_
+6	ds	C	דס	ds	_
+7	zi	PRO	זי	zy	_
+8	der	D	דער	der	_
+9	buz	ADJ	בוז	bvz	_
+10	xulh	N	xולה	xvlh	_
+11	mus	MDF	מוס	mvs	_
+12	slagn	VB	סלאַגן	slAagN	_
+13	vi	C	װי	Vy	_
+14	zi	PRO	זי	zy	_
+15	irn	PRO$	אירן	AyrN	_
+16	zun	N	זון	zvN	_
+17	valt	MDF	װאַלט	VAalt	_
+18	rikhtn	VB	ריכטן	ryxtN	_
+19	hin	RP-ADV	הין	hyN	_
+20	ds	C	דס	ds	_
+21	es	PRO	עס	es	_
+22	nit	NEG	ניט	nyt	_
+23	zult	MDF	זולט	zvlt	_
+24	kumn	VB	קומן	kvmN	_
+25	an	P	אַן	AaN	_
+26	den	D	דען	deN	_
+27	tgn	N	טגן	tgN	_
+
+SENT	1507W-BOVO,62.456
+1	un'	CONJ	אונ'	Avn'	_
+2	da	C	דאַ	dAa	_
+3	zi	PRO	זי	zy	_
+4	nun	ADV	נ	n	_
+5	vund	N	װוּנד	VUnd	_
+6	ht	HVF	הט	ht	_
+7	givundn	VBN	גיװוּנדן	gyVUndN	_
+8	da	ADV	דאַ	dAa	_
+9	shikt	VBF	שיקט	$ykt	_
+10	zi	PRO	זי	zy	_
+11	nukh	P	נוך	nvX	_
+12	buvu	NPR	בוּװוּ	bUVU	_
+13	tsu	P	צו	qv	_
+14	der	D	דער	der	_
+15	zelbign	ADJ	זעלביגן	zelbygN	_
+16	stundn	N	סטונדן	stvndN	_
+
+SENT	1507W-BOVO,63.458
+1	buva	NPR	בוּװאַ	bUVAa	_
+2	der	D	דער	der	_
+3	kam	VBF	קאַם	kAaM	_
+4	tsu	P	צו	qv	_
+5	ir	PRO	איר	Ayr	_
+6	gigngn	VBN	גיגנגן	gygngN	_
+
+SENT	1507W-BOVO,63.459
+1	un'	CONJ	אונ'	Avn'	_
+2	zgt	VBF	זגט	zgt	_
+3	libi	ADJ	ליבי	lyby	_
+4	mutr	N	מוטר	mvtr	_
+5	vs	WPRO	װס	Vs	_
+6	iz	VBF	איז	Ayz	_
+7	oyer	PRO$	אױער	AWer	_
+8	bigern	N	ביגערן	bygerN	_
+
+SENT	1507W-BOVO,63.460
+1	zi	PRO	זי	zy	_
+2	zgt	VBF	זגט	zgt	_
+3	ikh	PRO	איך	AyX	_
+4	hun	HVF	הון	hvN	_
+5	giht	VBN	גיהט	gyht	_
+6	nukh	P	נוך	nvX	_
+7	dir	PRO	דיר	dyr	_
+8	vur_lngn	N	װוּר_לנגן	VUr_lngN	_
+
+SENT	1507W-BOVO,63.461
+1	kum	VBI	קום	kvM	_
+2	lus	VBI	לוס	lvs	_
+3	unz	PRO	אונז	Avnz	_
+4	gin	VB	גין	gyN	_
+5	sptsirn	RP-V	ספּצירן	spqyrN	_
+
+SENT	1507W-BOVO,63.462
+1	mit	P	מיט	myt	_
+2	zeynr	PRO$	זײנר	zYnr	_
+3	hnt	N	הנט	hnt	_
+4	vs	BEF	װס	Vs	_
+5	zi	PRO	זי	zy	_
+6	in	PRO	אין	AyN	_
+7	vangn	VAG	װאַנגן	VAangN	_
+
+SENT	1507W-BOVO,64.464
+1	un'	CONJ	אונ'	Avn'	_
+2	vurt	VBF	װוּרט	VUrt	_
+3	in	PRO	אין	AyN	_
+4	durkh	P	דורך	dvrX	_
+5	eyn	NUM	אײן	AYN	_
+6	kamr	N	קאַמר	kAamr	_
+7	uder	CONJ	אודער	Avder	_
+8	virn	NUM	װירן	VyrN	_
+
+SENT	1507W-BOVO,64.465
+1	un'	CONJ	אונ'	Avn'	_
+2	in	P	אין	AyN	_
+3	der	D	דער	der	_
+4	hintrstn	ADJS	הינטרסטן	hyntrstN	_
+5	zi	PRO	זי	zy	_
+6	da	ADV	דאַ	dAa	_
+7	in	PRO	אין	AyN	_
+8	vr_spert	VBF	װר_ספּערט	Vr_spert	_
+
+SENT	1507W-BOVO,64.466
+1	der	D	דער	der	_
+2	arm	ADJ	אַרם	AarM	_
+3	yung	N	יונג	yvng	_
+4	shrey	VBF	שרײ	$rY	_
+5	un'_kert	ADJ	אונ'_קערט	Avn'_kert	_
+
+SENT	1507W-BOVO,64.467
+1	zi	PRO	זי	zy	_
+2	valt	MDF	װאַלט	VAalt	_
+3	nun	ADV	נ	n	_
+4	gnts	ADV	גנץ	gnQ	_
+5	spiln	VB	ספּילן	spylN	_
+6	dis	D	דיס	dys	_
+7	givisn	ADJ	גיװיסן	gyVysN	_
+8	ds	C	דס	ds	_
+9	mn	PRO	מן	mN	_
+10	in	PRO	אין	AyN	_
+11	nit	NEG	ניט	nyt	_
+12	zult	MDF	זולט	zvlt	_
+13	sreyan	VB	סרײאַן	srYAaN	_
+14	hurn	VB	הורן	hvrN	_
+
+SENT	1507W-BOVO,64.468
+1	di	D	די	dy	_
+2	kamrn	N	קאַמרן	kAamrN	_
+3	dr_vur	DR+P	דר_װוּר	dr_VUr	_
+4	vz	BEF	װז	Vz	_
+5	zi	PRO	זי	zy	_
+6	tsu	RP	צו	qv	_
+7	slisn	VAG	סליסן	slysN	_
+
+SENT	1507W-BOVO,64.469
+1	un'	CONJ	אונ'	Avn'	_
+2	vur	P	װוּר	VUr	_
+3	itlikhi	Q	איטליכי	Aytlyxy	_
+4	tur	N	טור	tvr	_
+5	hing	VBF	הינג	hyng	_
+6	zi	PRO	זי	zy	_
+7	tsvau	NUM	צװאַו	qVAav	_
+8	sturn	N	סטורן	stvrN	_
+
+SENT	1507W-BOVO,64.470
+1	buva	NPR	בוּװאַ	bUVAa	_
+2	bigund	VBF	ביגונד	bygvnd	_
+3	der	D	דער	der	_
+4	shimpfa	N	שימפּפֿאַ	$ympfAa	_
+5	tsu	TO	צו	qv	_
+6	vr_drisn	VB	װר_דריסן	Vr_drysN	_
+
+SENT	1507W-BOVO,64.471
+1	er	PRO	ער	er	_
+2	gidukht	VBF	גידוכט	gydvxt	_
+3	ven	WADV	װען	VeN	_
+4	vil	MDF	װיל	Vyl	_
+5	ds	D	דס	ds	_
+6	oyf	RP	אױף	AWF	_
+7	hurn	VB	הורן	hvrN	_
+
+SENT	1507W-BOVO,64.472
+1	oy	INTJ	אױ	AW	_
+2	vi	INTJ	װי	Vy	_
+3	hut	HVF	הוט	hvt	_
+4	mikh	PRO	מיך	myX	_
+5	meyn	PRO$	מײן	mYN	_
+6	mutr	N	מוטר	mvtr	_
+7	da	ADV	דאַ	dAa	_
+8	vr_gesn	VBN	װר_געסן	Vr_gesN	_
+
+SENT	1507W-BOVO,64.473
+1	nun	ADV	נ	n	_
+2	valt	MDF	װאַלט	VAalt	_
+3	ikh	PRO	איך	AyX	_
+4	bin	H	בין	byN	son
+5	eyn	D	אײן	AYN	_
+6	mmzr	N	ממזר	mmzr	_
+7	gern	ADV	גערן	gerN	_
+8	esn	VB	עסן	esN	_
+
+SENT	1507W-BOVO,65.475
+1	er	PRO	ער	er	_
+2	hub	VBF	הוב	hvb	_
+3	an	RP	אַן	AaN	_
+4	tsu	TO	צו	qv	_
+5	shreyan	VB	שרײאַן	$rYAaN	_
+
+SENT	1507W-BOVO,65.476
+1	un'	CONJ	אונ'	Avn'	_
+2	shrey	VBF	שרײ	$rY	_
+3	gr	ADV	גר	gr	_
+4	loyt	ADV	לוט	lvt	_
+5	drey	NUM	דרײ	drY	_
+6	tg	N	טג	tg	_
+7	un'	CONJ	אונ'	Avn'	_
+8	drey	NUM	דרײ	drY	_
+9	nkht	N	נכט	nxt	_
+10	gr	ADV	גר	gr	_
+11	ebn	ADV	עבן	ebN	_
+
+SENT	1507W-BOVO,65.477
+1	nun	ADV	נ	n	_
+2	varkhtt	VBF	װאַרכטט	VAarxtt	_
+3	zikh	PRO	זיך	zyX	_
+4	brnduneyh	NPR	ברנדונײה	brndvnYh	_
+5	di	D	די	dy	_
+6	boyz	ADJ	בױז	bWz	_
+7	hoyt	N	הױט	hWt	_
+8	mn	PRO	מן	mN	_
+9	vur	BEF	װוּר	VUr	_
+10	hurn	VAG	הורן	hvrN	_
+11	ds	D	דס	ds	_
+12	gsrey	N	גסרײ	gsrY	_
+13	dr_nebn	DR+P	דר_נעבן	dr_nebN	_
+
+SENT	1507W-BOVO,65.478
+1	un'	CONJ	אונ'	Avn'	_
+2	gidukht	VBF	גידוכט	gydvxt	_
+3	ikh	PRO	איך	AyX	_
+4	vil	MDF	װיל	Vyl	_
+5	im	PRO	אים	AyM	_
+6	eyn	D	אײן	AYN	_
+7	kroyt	N	קרױט	krWt	_
+8	in	P	אין	AyN	_
+9	eynm	D	אײנם	AYnM	_
+10	esn	N	עסן	esN	_
+11	gr	ADV	גר	gr	_
+12	heymlikh	ADV	הײמליך	hYmlyX	_
+13	gebn	VB	געבן	gebN	_
+
+SENT	1507W-BOVO,65.479
+1	az	ADV	אַז	Aaz	_
+2	bld	ADV	בלד	bld	_
+3	az	C	אַז	Aaz	_
+4	er	PRO	ער	er	_
+5	es	PRO	עס	es	_
+6	ist	VBF	איסט	Ayst	_
+7	za	ADV	זאַ	zAa	_
+8	dr_strt	VBF	דר_סטרט	dr_strt	_
+9	er	PRO	ער	er	_
+
+SENT	1507W-BOVO,65.480
+1	mh	H	מה	mh	what
+2	rius	H	ריִוס	ryivs	UNKNOWN
+3	ds	C	דס	ds	_
+4	ikh	PRO	איך	AyX	_
+5	in	PRO	אין	AyN	_
+6	azu	ADV	אַזו	Aazv	_
+7	lng	ADV	לנג	lng	_
+8	mrter	VBF	מרטער	mrter	_
+
+SENT	1507W-BOVO,66.482
+1	eyn	D	אײן	AYN	_
+2	gibrutn	ADJ	גיברוטן	gybrvtN	_
+3	hunleyn	N	הונלײן	hvnlYN	_
+4	zi	PRO	זי	zy	_
+5	im	PRO	אים	AyM	_
+6	breyt	VBF	ברײט	brYt	_
+
+SENT	1507W-BOVO,66.483
+1	un'	CONJ	אונ'	Avn'	_
+2	ds	D	דס	ds	_
+3	krut	N	קרוט	krvt	_
+4	lis	VBF	ליס	lys	_
+5	zi	PRO	זי	zy	_
+6	im	PRO	אים	AyM	_
+7	dreyn	DR+P	דרײן	drYN	_
+8	reybn	VB	רײבן	rYbN	_
+
+SENT	1507W-BOVO,66.484
+1	un'	CONJ	אונ'	Avn'	_
+2	dr_nukh	DR+P	דר_נוך	dr_nvX	_
+3	ruft	VBF	רופֿט	rvft	_
+4	zi	PRO	זי	zy	_
+5	ir	PRO$	איר	Ayr	_
+6	meyt	N	מײט	mYt	_
+7	gr	ADV	גר	gr	_
+8	eyn	D	אײן	AYN	_
+9	alts	ADJ	אַלץ	AalQ	_
+10	kamr_veybn	N	קאַמר_װײבן	kAamr_VYbN	_
+
+SENT	1507W-BOVO,66.485
+1	zi	PRO	זי	zy	_
+2	sprkh	VBF	ספּרך	sprX	_
+3	ikh	PRO	איך	AyX	_
+4	hun	HVF	הון	hvN	_
+5	bey	P	בײ	bY	_
+6	meynm	PRO$	מײנם	mYnM	_
+7	eyd	N	עד	ed	_
+8	bva	NPR	בװאַ	bVAa	_
+9	meyn	PRO$	מײן	mYN	_
+10	zun	N	זון	zvN	_
+11	min	X	מין	myN	_
+12	libn	ADJ	ליבן	lybN	_
+13	leybn	N	לײבן	lYbN	_
+14	ds	D	דס	ds	_
+15	lib	ADJ	ליב	lyb	_
+16	meyn	PRO$	מײן	mYN	_
+17	kind	N	קינד	kynd	_
+18	ds	D	דס	ds	_
+19	tpts	N	טפּץ	tpQ	_
+20	grusn	ADJ	גרוסן	grvsN	_
+21	da_nidn	ADV	דאַ_נידן	dAa_nydN	_
+22	aleyn	ADJ	אַלײן	AalYN	_
+23	in	P	אין	AyN	_
+24	eyn	D	אײן	AYN	_
+25	kamr	N	קאַמר	kAamr	_
+26	gilusn	VBN	גילוסן	gylvsN	_
+
+SENT	1507W-BOVO,67.487
+1	den	D	דען	deN	_
+2	gntsn	ADJ	גנצן	gnqN	_
+3	tg	N	טג	tg	_
+4	iz	BEF	איז	Ayz	_
+5	er	PRO	ער	er	_
+6	da_nidn	ADV	דאַ_נידן	dAa_nydN	_
+7	gizsn	VBN	גיזסן	gyzsN	_
+
+SENT	1507W-BOVO,67.488
+1	breng	VBI	ברענג	breng	_
+2	im	PRO	אים	AyM	_
+3	ds	D	דס	ds	_
+4	hunleyn	N	הונלײן	hvnlYN	_
+
+SENT	1507W-BOVO,67.489
+1	un'	CONJ	אונ'	Avn'	_
+2	heys	VBI	הײס	hYs	_
+3	zikh	PRO	זיך	zyX	_
+4	labn	VB	לאַבן	lAabN	_
+
+SENT	1507W-BOVO,67.490
+1	ungiverd	ADV	אונגיװערד	AvngyVerd	_
+2	hun	HVF	הון	hvN	_
+3	ikh	PRO	איך	AyX	_
+4	in	PRO	אין	AyN	_
+5	vr_gesn	VBN	װר_געסן	Vr_gesN	_
+
+SENT	1507W-BOVO,67.491
+1	heys	VBI	הײס	hYs	_
+2	in	PRO	אין	AyN	_
+3	mir	PRO	מיר	myr	_
+4	s	PRO	ס	s	_
+5	nit	NEG	ניט	nyt	_
+6	vr	P	װר	Vr	_
+7	ubil	N	אוביל	Avbyl	_
+8	hbn	VB	הבן	hbN	_
+
+SENT	1507W-BOVO,67.492
+1	ds	D	דס	ds	_
+2	kamr_veyb	N	קאַמר_װײב	kAamr_VYb	_
+3	nam	VBF	נאַם	nAaM	_
+4	ds	D	דס	ds	_
+5	esn	N	עסן	esN	_
+
+SENT	1507W-BOVO,67.493
+1	un'	CONJ	אונ'	Avn'	_
+2	vluks	ADV	װלוקס	Vlvks	_
+3	brukht	VBF	ברוכט	brvxt	_
+4	zi	PRO	זי	zy	_
+5	es	PRO	עס	es	_
+6	hinab	ADV	הינאַב	hynAab	_
+7	dem	D	דעם	deM	_
+8	knabn	N	קנאַבן	knAabN	_
+
+SENT	1507W-BOVO,67.494
+1	zi	PRO	זי	zy	_
+2	spert	VBF	ספּערט	spert	_
+3	oyf	RP	אױף	AWF	_
+4	di	D	די	dy	_
+5	kamr	N	קאַמר	kAamr	_
+
+SENT	1507W-BOVO,67.495
+1	un'	CONJ	אונ'	Avn'	_
+2	vand	VBF	װאַנד	VAand	_
+3	in	PRO	אין	AyN	_
+4	zitsn	VB	זיצן	zyqN	_
+5	ds	C	דס	ds	_
+6	er	PRO	ער	er	_
+7	var	VBF	װאַר	VAar	_
+8	unmekhtig	ADJ	אונמעכטיג	Avnmextyg	_
+9	un'	CONJ	אונ'	Avn'	_
+10	kunt	MDF	קונט	kvnt	_
+11	koym	ADV	קױם	kWM	_
+12	gitsn	VB	גיצן	gyqN	_
+
+SENT	1507W-BOVO,68.497
+1	er	PRO	ער	er	_
+2	kam	VBF	קאַם	kAaM	_
+3	tsu	P	צו	qv	_
+4	ir	PRO	איר	Ayr	_
+5	tsu	TO	צו	qv	_
+6	krikhn	VB	קריכן	kryxN	_
+7	an	P	אַן	AaN	_
+8	den	D	דען	deN	_
+9	vendn	N	װענדן	VendN	_
+
+SENT	1507W-BOVO,68.498
+1	di	D	די	dy	_
+2	zil	N	זיל	zyl	_
+3	vas	BEF	װאַס	VAas	_
+4	im	PRO	אים	AyM	_
+5	koym	ADV	קױם	kWM	_
+6	in	P	אין	AyN	_
+7	der	D	דער	der	_
+8	naz	N	נאַז	nAaz	_
+9	giblibn	VBN	גיבליבן	gyblybN	_
+
+SENT	1507W-BOVO,68.499
+1	er	PRO	ער	er	_
+2	vil	VBF	װיל	Vyl	_
+3	in	P	אין	AyN	_
+4	ds	D	דס	ds	_
+5	hunleyn	N	הונלײן	hvnlYN	_
+6	mit	P	מיט	myt	_
+7	beydn	Q	בײדן	bYdN	_
+8	hendn	N	הענדן	hendN	_
+
+SENT	1507W-BOVO,68.500
+1-2	tsum	P~D	צום	qvM	_
+1	tsu	P	צו	qv	_
+2	m	D	מ	m	_
+3	moyl	N	מױל	mWl	_
+4	valt	MDF	װאַלט	VAalt	_
+5	er	PRO	ער	er	_
+6	eyn	D	אײן	AYN	_
+7	bisn	N	ביסן	bysN	_
+8	sibn	VB	סיבן	sybN	_
+
+SENT	1507W-BOVO,68.501
+1	di	D	די	dy	_
+2	meyd	N	מײד	mYd	_
+3	vil	VBF	װיל	Vyl	_
+4	im	PRO	אים	AyM	_
+5	druntr	DR+P	דרונטר	drvntr	_
+6	gr	ADV	גר	gr	_
+7	bihendn	ADV	ביהענדן	byhendN	_
+
+SENT	1507W-BOVO,68.502
+1	ven	CONJ	װען	VeN	_
+2	vun	P	װוּן	VUN	_
+3	zeyns	PRO$	זײנס	zYns	_
+4	vatrs	N$	װאַטרס	VAatrs	_
+5	vegn	N	װעגן	VegN	_
+6	vz	BEF	װז	Vz	_
+7	zi	PRO	זי	zy	_
+8	im	PRO	אים	AyM	_
+9	libn	VAG	ליבן	lybN	_
+
+SENT	1507W-BOVO,68.503
+1	un'	CONJ	אונ'	Avn'	_
+2	sprkh	VBF	ספּרך	sprX	_
+3	libr	ADJ	ליבר	lybr	_
+4	zun	N	זון	zvN	_
+5	hoyr	VBI	הױר	hWr	_
+6	mir	PRO	מיר	myr	_
+7	tsu	RP	צו	qv	_
+8	gr	ADV	גר	gr	_
+9	ebn	ADV	עבן	ebN	_
+
+SENT	1507W-BOVO,68.504
+1	un'	CONJ	אונ'	Avn'	_
+2	is	VBI	איס	Ays	_
+3	keyn	Q	קײן	kYN	_
+4	bisn	N	ביסן	bysN	_
+5	bey	P	בײ	bY	_
+6	deym	PRO$	דײם	dYM	_
+7	lebn	N	לעבן	lebN	_
+
+SENT	1507W-BOVO,69.506
+1	deyn	PRO$	דײן	dYN	_
+2	mutr	N	מוטר	mvtr	_
+3	vil	MDF	װיל	Vyl	_
+4	unglik	N	אונגליק	Avnglyk	_
+5	stiftn	VB	סטיפֿטן	styftN	_
+
+SENT	1507W-BOVO,69.507
+1	deyn	PRO$	דײן	dYN	_
+2	lebn	N	לעבן	lebN	_
+3	vert	RDF	װערט	Vert	_
+4	dir	PRO	דיר	dyr	_
+5	vun	P	װוּן	VUN	_
+6	ir	PRO	איר	Ayr	_
+7	ginumn	VAN	גינומן	gynvmN	_
+
+SENT	1507W-BOVO,69.508
+1	ds	D	דס	ds	_
+2	hunleyn	N	הונלײן	hvnlYN	_
+3	hut	HVF	הוט	hvt	_
+4	zi	PRO	זי	zy	_
+5	dir	PRO	דיר	dyr	_
+6	tun	VBN	טון	tvN	_
+7	vr_giftn	VB	װר_גיפֿטן	Vr_gyftN	_
+
+SENT	1507W-BOVO,69.509
+1-2	istu	VBF~PRO	איסטו	Aystv	_
+1	is	VBF	איס	Ays	_
+2	tu	PRO	טו	tv	_
+3	es	PRO	עס	es	_
+4	vert	RDF	װערט	Vert	_
+5	dir	PRO	דיר	dyr	_
+6	ubl	N	אובל	Avbl	_
+7	gikumn	VB	גיקומן	gykvmN	_
+
+SENT	1507W-BOVO,69.510
+1	nun	ADV	נ	n	_
+2	hnt	HVF	הנט	hnt	_
+3	unz	PRO	אונז	Avnz	_
+4	gizagt	VBN	גיזאַגט	gyzAagt	_
+5	di	D	די	dy	_
+6	gisriftn	N	גיסריפֿטן	gysryftN	_
+7	vi	C	װי	Vy	_
+8	eyn	D	אײן	AYN	_
+9	huntleyn	N	הונטלײן	hvntlYN	_
+10	vs	BEF	װס	Vs	_
+11	gikumn	VBN	גיקומן	gykvmN	_
+12	mit	P	מיט	myt	_
+13	ir	PRO	איר	Ayr	_
+14	in	P	אין	AyN	_
+15	der	D	דער	der	_
+16	kamr	N	קאַמר	kAamr	_
+17	hineyn	ADV	הינײן	hynYN	_
+18	gilufn	VBN	גילופֿן	gylvfN	_
+19	azu	ADV	אַזו	Aazv	_
+20	bld	ADV	בלד	bld	_
+21	az	C	אַז	Aaz	_
+22	di	D	די	dy	_
+23	kamr	N	קאַמר	kAamr	_
+24	vs	BEF	װס	Vs	_
+25	givezn	VBN	גיװעזן	gyVezN	_
+26	ufn	ADJ	אופֿן	AvfN	_
+
+SENT	1507W-BOVO,70.512
+1	di	D	די	dy	_
+2	vroy	N	װרױ	VrW	_
+3	di	D	די	dy	_
+4	veynt	VBF	װײנט	VYnt	_
+5	gign	P	גיגן	gygN	_
+6	dem	D	דעם	deM	_
+7	knabn	N	קנאַבן	knAabN	_
+
+SENT	1507W-BOVO,70.513
+1	un'	CONJ	אונ'	Avn'	_
+2	sprkh	VBF	ספּרך	sprX	_
+3	tsu	P	צו	qv	_
+4	im	PRO	אים	AyM	_
+5	in	P	אין	AyN	_
+6	zulkhr	ADJ	זולכר	zvlxr	_
+7	musn	N	מוסן	mvsN	_
+8-9	vilstu	MDF~PRO	װילסטו	Vylstv	_
+8	vils	MDF	װילס	Vyls	_
+9	tu	PRO	טו	tv	_
+10	mir	PRO	מיר	myr	_
+11	ds	D	דס	ds	_
+12	duzig	ADJ	דוזיג	dvzyg	_
+13	nit	NEG	ניט	nyt	_
+14	glabn	VB	גלאַבן	glAabN	_
+15	za	ADV	זאַ	zAa	_
+16	vil	MDF	װיל	Vyl	_
+17	ikh	PRO	איך	AyX	_
+18	dikh	PRO	דיך	dyX	_
+19	es	PRO	עס	es	_
+20	da	ADV	דאַ	dAa	_
+21	zehn	VB	זעהן	zehN	_
+22	lusn	VB	לוסן	lvsN	_
+
+SENT	1507W-BOVO,70.514
+1	eyn	D	אײן	AYN	_
+2	bisn	N	ביסן	bysN	_
+3	tut	DOF	טוט	tvt	_
+4	zi	PRO	זי	zy	_
+5-6	vum	P~D	װוּם	VUM	_
+5	vu	P	װוּ	VU	_
+6	m	D	מ	m	_
+7	hunleyn	N	הונלײן	hvnlYN	_
+8	sabn	VB	סאַבן	sAabN	_
+
+SENT	1507W-BOVO,70.515
+1	dem	D	דעם	deM	_
+2	huntleyn	N	הונטלײן	hvntlYN	_
+3	vas	BEF	װאַס	VAas	_
+4	zi	PRO	זי	zy	_
+5	es	PRO	עס	es	_
+6	dar	ADV	דאַר	dAar	_
+7	stusn	VAG	סטוסן	stvsN	_
+
+SENT	1507W-BOVO,70.516
+1	un'	CONJ	אונ'	Avn'	_
+2	i	C	אי	Ay	_
+3	es	PRO	עס	es	_
+4	den	D	דען	deN	_
+5	bisn	N	ביסן	bysN	_
+6	ab	RP	אַב	Aab	_
+7	hin	RP-ADV	הין	hyN	_
+8	slikt	VBF	סליקט	slykt	_
+9	da	ADV	דאַ	dAa	_
+10	gishval	VBF	גישװאַל	gy$VAal	_
+11	es	PRO	עס	es	_
+12	ds	C	דס	ds	_
+13	es	PRO	עס	es	_
+14	gnts	ADV	גנץ	gnQ	_
+15	dr_stikt	VBF	דר_סטיקט	dr_stykt	_
+
+SENT	1507W-BOVO,71.518
+1	az	ADV	אַז	Aaz	_
+2	bld	ADV	בלד	bld	_
+3	az	C	אַז	Aaz	_
+4	buva	NPR	בוּװאַ	bUVAa	_
+5	ds	D	דס	ds	_
+6	ht	HVF	הט	ht	_
+7	gizehn	VBN	גיזעהן	gyzehN	_
+8	da	ADV	דאַ	dAa	_
+9	hub	VBF	הוב	hvb	_
+10	er	PRO	ער	er	_
+11	zikh	PRO	זיך	zyX	_
+12	an	RP	אַן	AaN	_
+13	tsu	TO	צו	qv	_
+14	slagn	VB	סלאַגן	slAagN	_
+15	un'	CONJ	אונ'	Avn'	_
+16	tsu	TO	צו	qv	_
+17	rafn	VB	ראַפֿן	rAafN	_
+
+SENT	1507W-BOVO,71.519
+1	oyfvi	INTJ	אױפֿװי	AWfVy	_
+2	leydr	INTJ	לײדר	lYdr	_
+3	vi	WADV	װי	Vy	_
+4	zul	MDF	זול	zvl	_
+5	mir	PRO	מיר	myr	_
+6	gisehn	VB	גיסעהן	gysehN	_
+
+SENT	1507W-BOVO,71.520
+1	ikh	PRO	איך	AyX	_
+2	valt	MDF	װאַלט	VAalt	_
+3	mikh	PRO	מיך	myX	_
+4	gern	ADV	גערן	gerN	_
+5	zelbst	ADV	זעלבסט	zelbst	_
+6	vur_koyfn	VB	װוּר_קױפֿן	VUr_kWfN	_
+
+SENT	1507W-BOVO,71.521
+1	kum	VBF	קום	kvM	_
+2	ikh	PRO	איך	AyX	_
+3	hinoys	ADV	הינױס	hynWs	_
+4	mn	PRO	מן	mN	_
+5	vert	RDF	װערט	Vert	_
+6	mikh	PRO	מיך	myX	_
+7	zehn	VB	זעהן	zehN	_
+
+SENT	1507W-BOVO,71.522
+1	dukh	ADV	דוך	dvX	_
+2	hub	VBF	הוב	hvb	_
+3	er	PRO	ער	er	_
+4	an	RP	אַן	AaN	_
+5	gr	ADV	גר	gr	_
+6	zer	ADV	זער	zer	_
+7	tsu	TO	צו	qv	_
+8	loyfn	VB	לױפֿן	lWfN	_
+
+SENT	1507W-BOVO,71.523
+1	un'	CONJ	אונ'	Avn'	_
+2	vluks	ADV	װלוקס	Vlvks	_
+3	durkh	P	דורך	dvrX	_
+4	di	D	די	dy	_
+5	stt	N	סטט	stt	_
+6	luf	VBF	לוף	lvF	_
+7	er	PRO	ער	er	_
+8	hin_vek	ADV	הינ_װעק	hyn_Vek	_
+9	mitn	ADV	מיטן	mytN	_
+10	durkh	P	דורך	dvrX	_
+11	den	D	דען	deN	_
+12	kut	N	קוט	kvt	_
+13	un'	CONJ	אונ'	Avn'	_
+14	durkh	P	דורך	dvrX	_
+15	den	D	דען	deN	_
+16	drek	N	דרעק	drek	_
+
+SENT	1507W-BOVO,72.525
+1	nukh	CONJ	נוך	nvX	_
+2	veg	N	װעג	Veg	_
+3	nukh	CONJ	נוך	nvX	_
+4	steg	N	סטעג	steg	_
+5	mn	PRO	מן	mN	_
+6	im	PRO	אים	AyM	_
+7	nit	NEG	ניט	nyt	_
+8	nent	VBF	נענט	nent	_
+
+SENT	1507W-BOVO,72.526
+1	er	PRO	ער	er	_
+2	remt	VBF	רעמט	remt	_
+3	zikh	PRO	זיך	zyX	_
+4	nit	NEG	ניט	nyt	_
+5	andrs	ADV	אַנדרס	Aandrs	_
+6	ven	P	װען	VeN	_
+7	der	D	דער	der	_
+8	turn	N	טורן	tvrN	_
+
+SENT	1507W-BOVO,72.527
+1	durkh	P	דורך	dvrX	_
+2	di	D	די	dy	_
+3	loyit	N	לױיִט	lWyit	_
+4	hin_vek	ADV	הינ_װעק	hyn_Vek	_
+5	er	PRO	ער	er	_
+6	rent	VBF	רענט	rent	_
+
+SENT	1507W-BOVO,72.528
+1	un'	CONJ	אונ'	Avn'	_
+2	dr_tsu	DR+P	דר_צו	dr_qv	_
+3	var	VBF	װאַר	VAar	_
+4	er	PRO	ער	er	_
+5	oykh	ADV	אױך	AWX	_
+6	tsu_strublt	ADJ	צו_סטרובלט	qv_strvblt	_
+7	mit	P	מיט	myt	_
+8	zeyn	PRO$	זײן	zYN	_
+9	hurn	N	הורן	hvrN	_
+
+SENT	1507W-BOVO,72.529
+1	keyn	Q	קײן	kYN	_
+2	mens	N	מענס	mens	_
+3	der	WPRO	דער	der	_
+4	in	PRO	אין	AyN	_
+5	tsu_mul	ADV	צו_מול	qv_mvl	_
+6	nit	NEG	ניט	nyt	_
+7	kent	VBF	קענט	kent	_
+8	azu	ADV	אַזו	Aazv	_
+9	gr	ADV	גר	gr	_
+10	yemrklikh	ADJ	יעמרקליך	yemrklyX	_
+11	var	BEF	װאַר	VAar	_
+12	er	PRO	ער	er	_
+13	givarn	VBN	גיװאַרן	gyVAarN	_
+
+SENT	1507W-BOVO,72.530
+1	zeyn	PRO$	זײן	zYN	_
+2	suni	ADJ	סוני	svny	_
+3	varb	N	װאַרב	VAarb	_
+4	var	BEF	װאַר	VAar	_
+5	im	PRO	אים	AyM	_
+6	vur_blikhn	VBN	װוּר_בליכן	VUr_blyxN	_
+
+SENT	1507W-BOVO,72.531
+1	un'	CONJ	אונ'	Avn'	_
+2	da	C	דאַ	dAa	_
+3	er	PRO	ער	er	_
+4-5	tsum	P~D	צום	qvM	_
+4	tsu	P	צו	qv	_
+5	m	D	מ	m	_
+6	tur	N	טור	tvr	_
+7	vaz	BEF	װאַז	VAaz	_
+8	hinoys	ADV	הינױס	hynWs	_
+9	gistrikhn	VBN	גיסטריכן	gystryxN	_
+10	da	ADV	דאַ	dAa	_
+11	hub	VBF	הוב	hvb	_
+12	er	PRO	ער	er	_
+13	an	RP	אַן	AaN	_
+14	ubr	P	אובר	Avbr	_
+15	tsverkh	ADJ	צװערך	qVerX	_
+16	veld	N	װעלד	Veld	_
+17	tsu	TO	צו	qv	_
+18	streykhn	VB	סטרײכן	strYxN	_
+
+SENT	1507W-BOVO,73.533
+1	keyn	Q	קײן	kYN	_
+2	veg	N	װעג	Veg	_
+3	var	BEF	װאַר	VAar	_
+4	im	PRO	אים	AyM	_
+5	nit	NEG	ניט	nyt	_
+6	givizn	VAN	גיװיזן	gyVyzN	_
+
+SENT	1507W-BOVO,73.534
+1	keyn	Q	קײן	kYN	_
+2	pferd	N	פּפֿערד	pferd	_
+3	hit	HVF	היט	hyt	_
+4	im	PRO	אים	AyM	_
+5	nit	NEG	ניט	nyt	_
+6	kunn	MDN-IPP	קונן	kvnN	_
+7	gleykhn	VB	גלײכן	glYxN	_
+
+SENT	1507W-BOVO,73.535
+1	es	PRO	עס	es	_
+2	ver	BEF	װער	Ver	_
+3	ginugn	ADJ	גינוגן	gynvgN	_
+4	givezn	VBN	גיװעזן	gyVezN	_
+5	vun	P	װוּן	VUN	_
+6	eynm	D	אײנם	AYnM	_
+7	rizn	N	ריזן	ryzN	_
+
+SENT	1507W-BOVO,73.536
+1	zeyn	PRO$	זײן	zYN	_
+2	kraft	N	קראַפֿט	krAaft	_
+3	bigund	VBF	ביגונד	bygvnd	_
+4	im	PRO	אים	AyM	_
+5	tsu	TO	צו	qv	_
+6	antveykhn	VB	אַנטװײכן	AantVYxN	_
+
+SENT	1507W-BOVO,73.537
+1	er	PRO	ער	er	_
+2	zitst	VBF	זיצט	zyqt	_
+3	zikh	PRO	זיך	zyX	_
+4	nidr	ADV	נידר	nydr	_
+5	in	P	אין	AyN	_
+6	eynr	D	אײנר	AYnr	_
+7	vizn	N	װיזן	VyzN	_
+
+SENT	1507W-BOVO,73.538
+1	un'	CONJ	אונ'	Avn'	_
+2	da	C	דאַ	dAa	_
+3	er	PRO	ער	er	_
+4	ht	HVF	הט	ht	_
+5	girut	VBN	גירוט	gyrvt	_
+6	eyn	D	אײן	AYN	_
+7	kleyns	ADJ	קלײנס	klYns	_
+8	veyln	N	װײלן	VYlN	_
+9	da	ADV	דאַ	dAa	_
+10	hub	VBF	הוב	hvb	_
+11	er	PRO	ער	er	_
+12	an	RP	אַן	AaN	_
+13	vidr	ADV	װידר	Vydr	_
+14	dr_vun	DR+P	דר_װוּן	dr_VUN	_
+15	tsu	TO	צו	qv	_
+16	eyln	VB	אײלן	AYlN	_
+
+SENT	1507W-BOVO,74.540
+1	un'	CONJ	אונ'	Avn'	_
+2	luf	VBF	לוף	lvF	_
+3	eyn	D	אײן	AYN	_
+4	vintsig	Q	װינציג	Vynqyg	_
+5	bur	P	בור	bvr	_
+6	zikh	PRO	זיך	zyX	_
+7	baz	ADVR	באַז	bAaz	_
+
+SENT	1507W-BOVO,74.541
+1	un'	CONJ	אונ'	Avn'	_
+2	kam	VBF	קאַם	kAaM	_
+3	biz	P	ביז	byz	_
+4	tsu	P	צו	qv	_
+5	dem	D	דעם	deM	_
+6	mer	N	מער	mer	_
+
+SENT	1507W-BOVO,74.542
+1	un'	CONJ	אונ'	Avn'	_
+2	ruat	VBF	רואַט	rvAat	_
+3	vidr	ADV	װידר	Vydr	_
+
+SENT	1507W-BOVO,74.543
+1	bur	P	בור	bvr	_
+2	grusm	ADJ	גרוסם	grvsM	_
+3	hungr	N	הונגר	hvngr	_
+4	as	VBF	אַס	Aas	_
+5	er	PRO	ער	er	_
+6	ds	D	דס	ds	_
+7	graz	N	גראַז	grAaz	_
+
+SENT	1507W-BOVO,74.544
+1	dr_shlugn	VAN	דר_שלוגן	dr_$lvgN	_
+2	varn	BEF	װאַרן	VAarN	_
+3	im	PRO	אים	AyM	_
+4	al	Q	אַל	Aal	_
+5	zeyni	PRO$	זײני	zYny	_
+6	glidr	N	גלידר	glydr	_
+
+SENT	1507W-BOVO,74.545
+1	un'	CONJ	אונ'	Avn'	_
+2	da	C	דאַ	dAa	_
+3	er	PRO	ער	er	_
+4	nun	ADV	נ	n	_
+5	eyn	D	אײן	AYN	_
+6	veyl	N	װײל	VYl	_
+7	da	ADV	דאַ	dAa	_
+8	gizesn	VBN	גיזעסן	gyzesN	_
+9	vaz	BEF	װאַז	VAaz	_
+10	da	ADV	דאַ	dAa	_
+11	ligt	VBF	ליגט	lygt	_
+12	er	PRO	ער	er	_
+13	zikh	PRO	זיך	zyX	_
+14	shlufn	VB	שלופֿן	$lvfN	_
+15	nidr	ADV	נידר	nydr	_
+
+SENT	1507W-BOVO,74.546
+1	un'	CONJ	אונ'	Avn'	_
+2	bey	P	בײ	bY	_
+3	dem	D	דעם	deM	_
+4	mir	N	מיר	myr	_
+5	bleyb	VBF	בלײב	blYb	_
+6	er	PRO	ער	er	_
+7	da	ADV	דאַ	dAa	_
+8	lign	RP-V	ליגן	lygN	_
+
+SENT	1507W-BOVO,74.547
+1	un'	CONJ	אונ'	Avn'	_
+2	shlif	VBF	שליף	$lyF	_
+3	di	D	די	dy	_
+4	gnts	ADJ	גנץ	gnQ	_
+5	nkht	N	נכט	nxt	_
+
+SENT	1507W-BOVO,74.548
+1	mn	PRO	מן	mN	_
+2	durft	MDF	דורפֿט	dvrft	_
+3	in	PRO	אין	AyN	_
+4	nit	NEG	ניט	nyt	_
+5	vign	VB	װיגן	VygN	_
+
+SENT	1507W-BOVO,75.550
+1	an	P	אַן	AaN	_
+2	dem	D	דעם	deM	_
+3	zelbn	ADJ	זעלבן	zelbN	_
+4	urt	N	אורט	Avrt	_
+5	da	WADV	דאַ	dAa	_
+6	er	PRO	ער	er	_
+7	da	ADV	דאַ	dAa	_
+8	lag	VBF	לאַג	lAag	_
+9	er	PRO	ער	er	_
+10	shlif	VBF	שליף	$lyF	_
+11	val	ADV	װאַל	VAal	_
+12	drey	NUM	דרײ	drY	_
+13	stund	N	סטונד	stvnd	_
+14	oyf	P	אױף	AWF	_
+15	den	D	דען	deN	_
+16	tag	N	תּג	Tg	_
+17	da	ADV	דאַ	dAa	_
+18	kam	VBF	קאַם	kAaM	_
+19	tsu	TO	צו	qv	_
+20	varn	VB	װאַרן	VAarN	_
+21	eyn	D	אײן	AYN	_
+22	hupshi	ADJ	הופּשי	hvp$y	_
+23	gliah	N	גליִאַה	glyiAah	_
+
+SENT	1507W-BOVO,75.551
+1	es	PRO	עס	es	_
+2	iz	VBF	איז	Ayz	_
+3	verlikh	ADV	װערליך	VerlyX	_
+4	var	ADJ	װאַר	VAar	_
+5	vs	WPRO	װס	Vs	_
+6	ikh	PRO	איך	AyX	_
+7	oykh	PRO	אױך	AWX	_
+8	zg	VBF	זג	zg	_
+
+SENT	1507W-BOVO,75.552
+1	zi	PRO	זי	zy	_
+2	kam	VBF	קאַם	kAaM	_
+3	tsu	TO	צו	qv	_
+4	varn	VB	װאַרן	VAarN	_
+5	vun	P	װוּן	VUN	_
+6	barbriah	NPR	באַרבריִאַה	bAarbryiAah	_
+
+SENT	1507W-BOVO,75.553
+1	eynr	PRO	אײנר	AYnr	_
+2	zakh	VBF	זאַך	zAaX	_
+3	hroys	ADV	הרױס	hrWs	_
+4	un	P	און	AvN	_
+5	alz	Q	אַלז	Aalz	_
+6	giverdn	N	גיװערדן	gyVerdN	_
+
+SENT	1507W-BOVO,75.554
+1	un'	CONJ	אונ'	Avn'	_
+2	zakh	VBF	זאַך	zAaX	_
+3	in	PRO	אין	AyN	_
+4	durt	ADV	דורט	dvrt	_
+5	lign	VB	ליגן	lygN	_
+6	oyf	P	אױף	AWF	_
+7	der	D	דער	der	_
+8	erdn	N	ערדן	erdN	_
+
+SENT	1507W-BOVO,76.556
+1	tsu	P	צו	qv	_
+2	den	D	דען	deN	_
+3	koyf_loytn	N	קױפֿ_לױטן	kWf_lWtN	_
+4	hub	VBF	הוב	hvb	_
+5	er	PRO	ער	er	_
+6	an	RP	אַן	AaN	_
+7	tsu	TO	צו	qv	_
+8	zgn	VB	זגן	zgN	_
+9	ikh	PRO	איך	AyX	_
+10	zikh	VBF	זיך	zyX	_
+11	durt	ADV	דורט	dvrt	_
+12	nit	NEG	ניט	nyt	_
+13	veyt	ADV	װײט	VYt	_
+14	vun	P	װוּן	VUN	_
+15	hinn	ADV	הינן	hynN	_
+16	da	ADV	דאַ	dAa	_
+17	ligt	VBF	ליגט	lygt	_
+18	eyn	D	אײן	AYN	_
+19	mn	N	מן	mN	_
+20	tut	ADJ	טוט	tvt	_
+21	dr_shlgn	VAN	דר_שלגן	dr_$lgN	_
+22	den	C	דען	deN	_
+23	mikh	PRO	מיך	myX	_
+24	trign	VBF	טריגן	trygN	_
+25	al	Q	אַל	Aal	_
+26	meyn	PRO$	מײן	mYN	_
+27	zinn	N	זינן	zynN	_
+
+SENT	1507W-BOVO,76.557
+1	eynr	PRO	אײנר	AYnr	_
+2	zeyt	VBF	זײט	zYt	_
+3	mir	PRO	מיר	myr	_
+4	veln	MDF	װעלן	VelN	_
+5	in	PRO	אין	AyN	_
+6	hreyn	ADV	הרײן	hrYN	_
+7	tragn	VB	טראַגן	trAagN	_
+
+SENT	1507W-BOVO,76.558
+1	ver	WPRO	װער	Ver	_
+2	er	PRO	ער	er	_
+3	iz	VBF	איז	Ayz	_
+4	dz	D	דז	dz	_
+5	vern	VBF	װערן	VerN	_
+6	mir	PRO	מיר	myr	_
+7	leykht	ADV	לײכט	lYxt	_
+8	inn	RP	אינן	AynN	_
+
+SENT	1507W-BOVO,76.559
+1	irr	PRO	אירר	Ayrr	_
+2	vir	NUM	װיר	Vyr	_
+3	in	P	אין	AyN	_
+4	ds	D	דס	ds	_
+5	kleyn	ADJ	קלײן	klYN	_
+6	shifln	N	שיפֿלן	$yflN	_
+7	sprungn	VBF	ספּרונגן	sprvngN	_
+
+SENT	1507W-BOVO,76.560
+1	un'	CONJ	אונ'	Avn'	_
+2	vurtn	VBF	װוּרטן	VUrtN	_
+3	in	P	אין	AyN	_
+4	di	D	די	dy	_
+5	gliah	N	גליִאַה	glyiAah	_
+6	den	D	דען	deN	_
+7	armn	ADJ	אַרמן	AarmN	_
+8	yungn	N	יונגן	yvngN	_
+
+SENT	1507W-BOVO,77.562
+1	er	PRO	ער	er	_
+2	ht	VBF	הט	ht	_
+3	eyn	D	אײן	AYN	_
+4	gistlt	N	גיסטלט	gystlt	_
+5	az	P	אַז	Aaz	_
+6	zult	MDF	זולט	zvlt	_
+7	mn	PRO	מן	mN	_
+8	in	PRO	אין	AyN	_
+9	bigrabn	VB	ביגראַבן	bygrAabN	_
+
+SENT	1507W-BOVO,77.563
+1	er	PRO	ער	er	_
+2	rurt	VBF	רורט	rvrt	_
+3	zikh	PRO	זיך	zyX	_
+4	nit	NEG	ניט	nyt	_
+5	um	P	אום	AvM	_
+6	eyn	D	אײן	AYN	_
+7	herln	N	הערלן	herlN	_
+
+SENT	1507W-BOVO,77.564
+1	er	PRO	ער	er	_
+2	var	VBF	װאַר	VAar	_
+3	un_mekhtig	ADJ	אונ_מעכטיג	Avn_mextyg	_
+
+SENT	1507W-BOVO,77.565
+1	zi	PRO	זי	zy	_
+2	mustn	MDF	מוסטן	mvstN	_
+3	in	PRO	אין	AyN	_
+4	labn	VB	לאַבן	lAabN	_
+5	mit	P	מיט	myt	_
+6	tsukr	N	צוקר	qvkr	_
+7	un'	CONJ	אונ'	Avn'	_
+8	mit	P	מיט	myt	_
+9	triziah	X	טריזיִאַה	tryzyiAah	_
+10	perln	N	פּערלן	perlN	_
+
+SENT	1507W-BOVO,77.566
+1	un'	CONJ	אונ'	Avn'	_
+2	mit	P	מיט	myt	_
+3	esig	N	עסיג	esyg	_
+4	reybn	VBF	רײבן	rYbN	_
+5	zi	PRO	זי	zy	_
+6	den	D	דען	deN	_
+7	knabn	N	קנאַבן	knAabN	_
+8	un'	CONJ	אונ'	Avn'	_
+9	mit	P	מיט	myt	_
+10	malbzir	N	מאַלבזיר	mAalbzyr	_
+11	vun	P	װוּן	VUN	_
+12	eyn	D	אײן	AYN	_
+13	gnts	ADJ	גנץ	gnQ	_
+14	kerln	N	קערלן	kerlN	_
+15	al	Q	אַל	Aal	_
+16	zeyni	PRO$	זײני	zYny	_
+17	glidr	N	גלידר	glydr	_
+18	di	D	די	dy	_
+19	ubrn	ADJ	אוברן	AvbrN	_
+20	un'	CONJ	אונ'	Avn'	_
+21	di	D	די	dy	_
+22	untrn	ADJ	אונטרן	AvntrN	_
+23	biz	C	ביז	byz	_
+24	er	PRO	ער	er	_
+25	zikh	PRO	זיך	zyX	_
+26	bigund	VBF	ביגונד	bygvnd	_
+27	tsu	TO	צו	qv	_
+28	dr_muntrn	VB	דר_מונטרן	dr_mvntrN	_
+
+SENT	1507W-BOVO,78.568
+1	un	CONJ	און	AvN	_
+2	da	C	דאַ	dAa	_
+3	er	PRO	ער	er	_
+4	nun	ADV	נ	n	_
+5	tsu	P	צו	qv	_
+6	im	PRO	אים	AyM	_
+7	zelbr	ADV	זעלבר	zelbr	_
+8	kam	VBF	קאַם	kAaM	_
+9	un'	CONJ	אונ'	Avn'	_
+10	ds	C	דס	ds	_
+11	zi	PRO	זי	zy	_
+12	in	PRO	אין	AyN	_
+13	hatn	HVF	האַטן	hAatN	_
+14	tun	DON-IPP	טון	tvN	_
+15	dr_kvikn	VB	דר_קװיקן	dr_kVykN	_
+16	er	PRO	ער	er	_
+17	an	P	אַן	AaN	_
+18	im	PRO	אים	AyM	_
+19	zelbrt	ADV	זעלברט	zelbrt	_
+20	vaundr	N	װאַונדר	VAavndr	_
+21	nam	VBF	נאַם	nAaM	_
+
+SENT	1507W-BOVO,78.569
+1	mit	P	מיט	myt	_
+2	zeyn	PRO$	זײן	zYN	_
+3	oygn	N	אױגן	AWgN	_
+4	var	BEF	װאַר	VAar	_
+5	er	PRO	ער	er	_
+6	um	P	אום	AvM	_
+7	zikh	PRO	זיך	zyX	_
+8	plikn	VAG	פּליקן	plykN	_
+
+SENT	1507W-BOVO,78.570
+1	er	PRO	ער	er	_
+2	gidukht	VBF	גידוכט	gydvxt	_
+3	bin	BEF	בין	byN	_
+4	ikh	PRO	איך	AyX	_
+5	givezn	VBN	גיװעזן	gyVezN	_
+6	lam	ADJ	לאַם	lAaM	_
+
+SENT	1507W-BOVO,78.571
+1	udr	CONJ	אודר	Avdr	_
+2	hun	HVF	הון	hvN	_
+3	ikh	PRO	איך	AyX	_
+4	nit	NEG	ניט	nyt	_
+5	gizehn	VBN	גיזעהן	gyzehN	_
+6	eyn	D	אײן	AYN	_
+7	stikn	N	סטיקן	stykN	_
+
+SENT	1507W-BOVO,78.572
+1	vi	WADV	װי	Vy	_
+2	bin	BEF	בין	byN	_
+3	ikh	PRO	איך	AyX	_
+4	iz	ADV	איז	Ayz	_
+5	in	P	אין	AyN	_
+6	der	D	דער	der	_
+7	gliah	N	גליִאַה	glyiAah	_
+8	gikumn	VBN	גיקומן	gykvmN	_
+
+SENT	1507W-BOVO,78.573
+1	hut	HVF	הוט	hvt	_
+2	mikh	PRO	מיך	myX	_
+3	der	D	דער	der	_
+4	toyfil	N	טױפֿיל	tWfyl	_
+5	hreyn	ADV	הרײן	hrYN	_
+6	ginumn	VBN	גינומן	gynvmN	_
+
+SENT	1507W-BOVO,78.574
+1	zi	PRO	זי	zy	_
+2	zeytn	VBF	זײטן	zYtN	_
+3	im	PRO	אים	AyM	_
+4	vau	WADV	װאַו	VAav	_
+5	er	PRO	ער	er	_
+6	var	BEF	װאַר	VAar	_
+7	givezn	VBN	גיװעזן	gyVezN	_
+8	un'	CONJ	אונ'	Avn'	_
+9	vi	WADV	װי	Vy	_
+10	zi	PRO	זי	zy	_
+11	in	PRO	אין	AyN	_
+12	in	P	אין	AyN	_
+13	di	D	די	dy	_
+14	gliah	N	גליִאַה	glyiAah	_
+15	hatn	HVF	האַטן	hAatN	_
+16	gitragn	VBN	גיטראַגן	gytrAagN	_
+
+SENT	1507W-BOVO,78.575
+1	buva	NPR	בוּװאַ	bUVAa	_
+2	var	BEF	װאַר	VAar	_
+3	nun	ADV	נ	n	_
+4	gnts	ADV	גנץ	gnQ	_
+5	ginezn	VBN	גינעזן	gynezN	_
+
+SENT	1507W-BOVO,78.576
+1	un'	CONJ	אונ'	Avn'	_
+2	zeyn	PRO$	זײן	zYN	_
+3	grusi	ADJ	גרוסי	grvsy	_
+4	sunheyt	N	סונהײט	svnhYt	_
+5	di	D	די	dy	_
+6	stit	VBF	סטיט	styt	_
+7	nit	NEG	ניט	nyt	_
+8	tsu	TO	צו	qv	_
+9	zagn	VB	זאַגן	zAagN	_
+
+SENT	1507W-BOVO,79.578
+1	zi	PRO	זי	zy	_
+2	hatn	VBF	האַטן	hAatN	_
+3	mit	P	מיט	myt	_
+4	im	PRO	אים	AyM	_
+5	eyn	D	אײן	AYN	_
+6	grus	ADJ	גרוס	grvs	_
+7	vezn	N	װעזן	VezN	_
+
+SENT	1507W-BOVO,79.579
+1	gar	ADV	גאַר	gAar	_
+2	grusi	ADJ	גרוסי	grvsy	_
+3	libshaft	N	ליבשאַפֿט	lyb$Aaft	_
+4	zi	PRO	זי	zy	_
+5	mit	P	מיט	myt	_
+6	im	PRO	אים	AyM	_
+7	pflagn	VBF	פּפֿלאַגן	pflAagN	_
+
+SENT	1507W-BOVO,79.580
+1	zi	PRO	זי	zy	_
+2	trugn	VBF	טרוגן	trvgN	_
+3	in	PRO	אין	AyN	_
+4	al	Q	אַל	Aal	_
+5	oyf	P	אױף	AWF	_
+6	ir	PRO$	איר	Ayr	_
+7	hendn	N	הענדן	hendN	_
+
+SENT	1507W-BOVO,79.581
+1	ven	CONJ	װען	VeN	_
+2	vas	WPRO	װאַס	VAas	_
+3	zi	PRO	זי	zy	_
+4	in	PRO	אין	AyN	_
+5	hisn	VBF	היסן	hysN	_
+6	var	VBF	װאַר	VAar	_
+7	er	PRO	ער	er	_
+8	bihendn	ADJ	ביהענדן	byhendN	_
+
+SENT	1507W-BOVO,80.583
+1	i	C	אי	Ay	_
+2	zi	PRO	זי	zy	_
+3	es	PRO	עס	es	_
+4	ridtn	VBF	רידטן	rydtN	_
+5	za	ADV	זאַ	zAa	_
+6	var	BEF	װאַר	VAar	_
+7	er	PRO	ער	er	_
+8	sun	ADV	סון	svN	_
+9	dar	ADV	דאַר	dAar	_
+10	gisprungn	VBN	גיספּרונגן	gysprvngN	_
+
+SENT	1507W-BOVO,80.584
+1	un'	CONJ	אונ'	Avn'	_
+2	dint	VBF	דינט	dynt	_
+3	den	D	דען	deN	_
+4	koyf_loytn	N	קױפֿ_לױטן	kWf_lWtN	_
+5	aln	Q	אַלן	AalN	_
+6	mit	P	מיט	myt	_
+7	vrulikhn	ADJ	װרוליכן	VrvlyxN	_
+8	mut	N	מוט	mvt	_
+9	un'	CONJ	אונ'	Avn'	_
+10	stet	ADV	סטעט	stet	_
+11	gizungn	VBN	גיזונגן	gyzvngN	_
+12	mit	P	מיט	myt	_
+13	yukhtsn	N	יוכצן	yvxqN	_
+14	un'	CONJ	אונ'	Avn'	_
+15	vreydn	N	װרײדן	VrYdN	_
+16	un'	CONJ	אונ'	Avn'	_
+17	shaln	N	שאַלן	$AalN	_
+
+SENT	1507W-BOVO,80.585
+1	nun	ADV	נ	n	_
+2	valt	MDF	װאַלט	VAalt	_
+3	iklikhr	Q	איקליכר	Ayklyxr	_
+4	hbn	VB	הבן	hbN	_
+5	vur	P	װוּר	VUr	_
+6	zikh	PRO	זיך	zyX	_
+7	den	D	דען	deN	_
+8	iungn	N	איונגן	AyvngN	_
+
+SENT	1507W-BOVO,80.586
+1	eyn	D	אײן	AYN	_
+2	grusr	ADJ	גרוסר	grvsr	_
+3	krig	N	קריג	kryg	_
+4	vas	BEF	װאַס	VAas	_
+5	tsvishn	P	צװישן	qVy$N	_
+6	zi	PRO	זי	zy	_
+7	valn	VAG	װאַלן	VAalN	_
+
+SENT	1507W-BOVO,80.587
+1	eynr	PRO	אײנר	AYnr	_
+2	sprakh	VBF	ספּראַך	sprAaX	_
+3	ikh	PRO	איך	AyX	_
+4	hun	HVF	הון	hvN	_
+5	in	PRO	אין	AyN	_
+6-7	tsum	P~D	צום	qvM	_
+6	tsu	P	צו	qv	_
+7	m	D	מ	m	_
+8	alr_erstn	ADJ	אַלר_ערסטן	Aalr_erstN	_
+9	gizehn	VBN	גיזעהן	gyzehN	_
+
+SENT	1507W-BOVO,80.588
+1	za	ADV	זאַ	zAa	_
+2	hun	HVF	הון	hvN	_
+3	ikh	PRO	איך	AyX	_
+4	in	PRO	אין	AyN	_
+5	gilabt	VBN	גילאַבט	gylAabt	_
+6	var	BEF	װאַר	VAar	_
+7	der	D	דער	der	_
+8	andr	ADJ	אַנדר	Aandr	_
+9	eyehn	VAG	אײעהן	AYehN	_
+
+SENT	1507W-BOVO,81.590
+1	za	ADV	זאַ	zAa	_
+2	hub	VBF	הוב	hvb	_
+3	der	D	דער	der	_
+4	drit	ADJ	דריט	dryt	_
+5	an	RP	אַן	AaN	_
+6	tsu	TO	צו	qv	_
+7	sprekhn	VB	ספּרעכן	sprexN	_
+8	za	ADV	זאַ	zAa	_
+9	hun	HVF	הון	hvN	_
+10	ikh	PRO	איך	AyX	_
+11	in	PRO	אין	AyN	_
+12	gitragn	VBN	גיטראַגן	gytrAagN	_
+13	oyf	P	אױף	AWF	_
+14	meynm	PRO$	מײנם	mYnM	_
+15	rukn	N	רוקן	rvkN	_
+
+SENT	1507W-BOVO,81.591
+1	der	D	דער	der	_
+2	vird	ADJ	װירד	Vyrd	_
+3	sprkh	VBF	ספּרך	sprX	_
+4	ikh	PRO	איך	AyX	_
+5	lis	VBF	ליס	lys	_
+6	mikh	PRO	מיך	myX	_
+7	i	ADVR	אי	Ay	_
+8	dr_stekhn	VB	דר_סטעכן	dr_stexN	_
+9	i	P	אי	Ay	_
+10	das	C	דת	dS	_
+11	mikh	PRO	מיך	myX	_
+12	oyer	PRO	אױער	AWer	_
+13	keynr	Q	קײנר	kYnr	_
+14	zult	MDF	זולט	zvlt	_
+15	iukn	VB	איוקן	AyvkN	_
+
+SENT	1507W-BOVO,81.592
+1	di	D	די	dy	_
+2	kupf	N	קופּף	kvpF	_
+3	di	D	די	dy	_
+4	valtn	MDF	װאַלטן	VAaltN	_
+5	zi	PRO	זי	zy	_
+6-7	anandr	P~PRO	אַנאַנדר	AanAandr	_
+6	an	P	אַן	AaN	_
+7	andr	PRO	אַנדר	Aandr	_
+8	tsu_brekhn	VB	צו_ברעכן	qv_brexN	_
+
+SENT	1507W-BOVO,81.593
+1	zi	PRO	זי	zy	_
+2	hubn	VBF	הובן	hvbN	_
+3	an	RP	אַן	AaN	_
+4	ir	PRO$	איר	Ayr	_
+5	vir	N	װיר	Vyr	_
+6	oyz	RP	אױז	AWz	_
+7	tsu	TO	צו	qv	_
+8	tsukn	VB	צוקן	qvkN	_
+
+SENT	1507W-BOVO,81.594
+1	un'	CONJ	אונ'	Avn'	_
+2	shrian	VBF	שריִאַן	$ryiAaN	_
+
+SENT	1507W-BOVO,81.595
+1	un'	CONJ	אונ'	Avn'	_
+2	htn	VBF	הטן	htN	_
+3	eyn	D	אײן	AYN	_
+4	grus	ADJ	גרוס	grvs	_
+5	gipludr	N	גיפּלודר	gyplvdr	_
+
+SENT	1507W-BOVO,81.596
+1	bva	NPR	בװאַ	bVAa	_
+2	der	D	דער	der	_
+3	tsukt	VBF	צוקט	qvkt	_
+4	vluks	ADV	װלוקס	Vlvks	_
+5	eyn	D	אײן	AYN	_
+6	rudr	N	רודר	rvdr	_
+
+SENT	1507W-BOVO,82.598
+1	un'	CONJ	אונ'	Avn'	_
+2	shlug	VBF	שלוג	$lvg	_
+3	in	P	אין	AyN	_
+4	hoyfn	N	הױפֿן	hWfN	_
+5	hineyn	ADV	הינײן	hynYN	_
+6	mit	P	מיט	myt	_
+7	vreydn	N	װרײדן	VrYdN	_
+8	ds	C	דס	ds	_
+9	zikh	PRO	זיך	zyX	_
+10	di	D	די	dy	_
+11	rudr	N	רודר	rvdr	_
+12	vs	BEF	װס	Vs	_
+13	gleykh	ADV	גלײך	glYX	_
+14	bign	VAG	ביגן	bygN	_
+
+SENT	1507W-BOVO,82.599
+1	mit	P	מיט	myt	_
+2	der	D	דער	der	_
+3	rudr	N	רודר	rvdr	_
+4	vs	BEF	װס	Vs	_
+5	er	PRO	ער	er	_
+6	zi	PRO	זי	zy	_
+7	seydn	VAG	סײדן	sYdN	_
+
+SENT	1507W-BOVO,82.600
+1	iri	PRO$	אירי	Ayry	_
+2	vir	N	װיר	Vyr	_
+3	mustn	MDF	מוסטן	mvstN	_
+4	zi	PRO	זי	zy	_
+5	al	Q	אַל	Aal	_
+6	lusn	VB	לוסן	lvsN	_
+7	lign	VB	ליגן	lygN	_
+
+SENT	1507W-BOVO,82.601
+1	un'	CONJ	אונ'	Avn'	_
+2	sprkh	VBF	ספּרך	sprX	_
+3	ikh	PRO	איך	AyX	_
+4	shvir	VBF	שװיר	$Vyr	_
+5	bey	P	בײ	bY	_
+6	meynm	PRO$	מײנם	mYnM	_
+7	eydn	N	אײדן	AYdN	_
+
+SENT	1507W-BOVO,82.602
+1	ir	PRO	איר	Ayr	_
+2	durft	MDF	דורפֿט	dvrft	_
+3	tsu_mul	ADV	צו_מול	qv_mvl	_
+4	um	P	אום	AvM	_
+5	mikh	PRO	מיך	myX	_
+6	nit	NEG	ניט	nyt	_
+7	krign	VB	קריגן	krygN	_
+
+SENT	1507W-BOVO,82.603
+1	lust	VBI	לוסט	lvst	_
+2	dreyn	DR+P	דרײן	drYN	_
+3	ridn	VB	רידן	rydN	_
+4	bidr	ADJ	בידר	bydr	_
+5	mann	N	מאַנן	mAanN	_
+
+SENT	1507W-BOVO,82.604
+1	un'	CONJ	אונ'	Avn'	_
+2	git	VBF	גיט	gyt	_
+3	al	Q	אַל	Aal	_
+4	eyn	D	אײן	AYN	_
+5	vinig	Q	װיניג	Vynyg	_
+6	dann	ADV	דאַנן	dAanN	_
+
+SENT	1507W-BOVO,83.606
+1	un'	CONJ	אונ'	Avn'	_
+2	valt	MDF	װאַלט	VAalt	_
+3	ir	PRO	איר	Ayr	_
+4	valgn	VB	װאַלגן	VAalgN	_
+5	meynm	PRO$	מײנם	mYnM	_
+6	hirn	N	הירן	hyrN	_
+7	za	ADV	זאַ	zAa	_
+8	tret	VBI	טרעט	tret	_
+9	eyn	D	אײן	AYN	_
+10	vinig	Q	װיניג	Vynyg	_
+11	oyf	P	אױף	AWF	_
+12	eyn	D	אײן	AYN	_
+13	urtn	N	אורטן	AvrtN	_
+
+SENT	1507W-BOVO,83.607
+1	ikh	PRO	איך	AyX	_
+2	zg	VBF	זג	zg	_
+3	oykh	PRO	אױך	AWX	_
+4	ir	PRO	איר	Ayr	_
+5	zult	MDF	זולט	zvlt	_
+6	nit	NEG	ניט	nyt	_
+7	dran	DR+P	דראַן	drAaN	_
+8	vr_lirn	VB	װר_לירן	Vr_lyrN	_
+
+SENT	1507W-BOVO,83.608
+1	hurt	VBI	הורט	hvrt	_
+2	mir	PRO	מיר	myr	_
+3	tsu	RP	צו	qv	_
+4	eyn	NUM	אײן	AYN	_
+5	tsvey	NUM	צװײ	qVY	_
+6	vartn	N	װאַרטן	VAartN	_
+
+SENT	1507W-BOVO,83.609
+1	ikh	PRO	איך	AyX	_
+2	zag	VBF	זאַג	zAag	_
+3	ikh	PRO	איך	AyX	_
+4	vil	MDF	װיל	Vyl	_
+5	oykh	PRO	אױך	AWX	_
+6	aln	Q	אַלן	AalN	_
+7	servirn	VB	סערװירן	serVyrN	_
+8	biz	C	ביז	byz	_
+9	mir	PRO	מיר	myr	_
+10	kumn	VBF	קומן	kvmN	_
+11-12	tsum	P~D	צום	qvM	_
+11	tsu	P	צו	qv	_
+12	m	D	מ	m	_
+13	nestn	ADJ	נעסטן	nestN	_
+14	purtn	N	פּורטן	pvrtN	_
+
+SENT	1507W-BOVO,83.610
+1	za	ADV	זאַ	zAa	_
+2	vurkoyft	VBI	װוּרקױפֿט	VUrkWft	_
+3	mikh	PRO	מיך	myX	_
+4	den	ADV	דען	deN	_
+5	tsu	P	צו	qv	_
+6	eymn	D	אײמן	AYmN	_
+7	knekhtn	N	קנעכטן	knextN	_
+
+SENT	1507W-BOVO,83.611
+1	za	ADV	זאַ	zAa	_
+2	mukht	MDF	מוכט	mvxt	_
+3	ir	PRO	איר	Ayr	_
+4	teyln	VB	טײלן	tYlN	_
+5	ds	D	דס	ds	_
+6	zelbig	ADJ	זעלביג	zelbyg	_
+7	gelt	N	געלט	gelt	_
+8	mit	P	מיט	myt	_
+9	rekhtn	N	רעכטן	rextN	_
+
+SENT	1507W-BOVO,84.613
+1	azu	ADV	אַזו	Aazv	_
+2	lisn	VBF	ליסן	lysN	_
+3	zi	PRO	זי	zy	_
+4	zikh	PRO	זיך	zyX	_
+5	al	Q	אַל	Aal	_
+6	bva	NPR	בװאַ	bVAa	_
+7	slikhtn	VB	סליכטן	slyxtN	_
+
+SENT	1507W-BOVO,84.614
+1	di	D	די	dy	_
+2	eynug	N	אײנוג	AYnvg	_
+3	di	D	די	dy	_
+4	vaz	VBF	װאַז	VAaz	_
+5	in	PRO	אין	AyN	_
+6	al	Q	אַל	Aal	_
+7	ebn	ADJ	עבן	ebN	_
+
+SENT	1507W-BOVO,84.615
+1	zi	PRO	זי	zy	_
+2	hubn	VBF	הובן	hvbN	_
+3	zikh	PRO	זיך	zyX	_
+4	an	RP	אַן	AaN	_
+5	mit	P	מיט	myt	_
+6	anndr	PRO	אַננדר	Aanndr	_
+7	tsu	TO	צו	qv	_
+8	vr_rikhtn	VB	װר_ריכטן	Vr_ryxtN	_
+
+SENT	1507W-BOVO,84.616
+1	bva	NPR	בװאַ	bVAa	_
+2	mkht	VBF	מכט	mxt	_
+3	zi	PRO	זי	zy	_
+4	iri	PRO$	אירי	Ayry	_
+5	hent	N	הענט	hent	_
+6	anndr	PRO	אַננדר	Aanndr	_
+7	gebn	VB	געבן	gebN	_
+
+SENT	1507W-BOVO,84.617
+1	un'	CONJ	אונ'	Avn'	_
+2	da	C	דאַ	dAa	_
+3	nun	ADV	נ	n	_
+4	varn	BEF	װאַרן	VAarN	_
+5	gisehn	VBN	גיסעהן	gysehN	_
+6	di	D	די	dy	_
+7	gisikhtn	N	גיסיכטן	gysyxtN	_
+8	oyf	P	אױף	AWF	_
+9	dem	D	דעם	deM	_
+10	mer	N	מער	mer	_
+11	varn	BEF	װאַרן	VAarN	_
+12	zi	PRO	זי	zy	_
+13	um	RP	אום	AvM	_
+14	svebn	VAG	סװעבן	sVebN	_
+15	eyn	D	אײן	AYN	_
+16	veyl	N	װײל	VYl	_
+17	mit	P	מיט	myt	_
+18	vind	N	װינד	Vynd	_
+19	eyn	D	אײן	AYN	_
+20	veyl	N	װײל	VYl	_
+21	mit	P	מיט	myt	_
+22	bunatsh	N	בונאַטש	bvnAat$	_
+
+SENT	1507W-BOVO,84.618
+1	un'	CONJ	אונ'	Avn'	_
+2	mit	P	מיט	myt	_
+3	buva	NPR	בוּװאַ	bUVAa	_
+4	htn	VBF	הטן	htN	_
+5	zi	PRO	זי	zy	_
+6	eyn	D	אײן	AYN	_
+7	grus	ADJ	גרוס	grvs	_
+8	shvatsh	N	שװאַטש	$VAat$	_
+
+SENT	1507W-BOVO,85.620
+1	er	PRO	ער	er	_
+2	zgt	VBF	זגט	zgt	_
+3	in	PRO	אין	AyN	_
+4	gr	ADV	גר	gr	_
+5	vil	Q	װיל	Vyl	_
+6	noyer	ADJ	נױער	nWer	_
+7	mer	N	מער	mer	_
+
+SENT	1507W-BOVO,85.621
+1	un'	CONJ	אונ'	Avn'	_
+2	dr_nukh	DR+P	דר_נוך	dr_nvX	_
+3	hubn	VBF	הובן	hvbN	_
+4	zi	PRO	זי	zy	_
+5	in	PRO	אין	AyN	_
+6	an	RP	אַן	AaN	_
+7	tsu	TO	צו	qv	_
+8	vrugn	VB	װרוגן	VrvgN	_
+9	ver	WPRO	װער	Ver	_
+10	zeyn	PRO$	זײן	zYN	_
+11	vatir	N	װאַטיר	VAatyr	_
+12	un'	CONJ	אונ'	Avn'	_
+13	zeyn	PRO$	זײן	zYN	_
+14	mutr	N	מוטר	mvtr	_
+15	ver	VBF	װער	Ver	_
+16	un'	CONJ	אונ'	Avn'	_
+17	ub	C	אוב	Avb	_
+18	er	PRO	ער	er	_
+19	het	VBF	העט	het	_
+20	vroyint	N	װרױיִנט	VrWyint	_
+21	udr	CONJ	אודר	Avdr	_
+22	mugn	N	מוגן	mvgN	_
+
+SENT	1507W-BOVO,85.622
+1	buva	NPR	בוּװאַ	bUVAa	_
+2	sprkh	VBF	ספּרך	sprX	_
+3	gut	NPR	גוט	gvt	_
+4	der	D	דער	der	_
+5	her	N	הער	her	_
+6	hut	HVF	הוט	hvt	_
+7	meyn	PRO$	מײן	mYN	_
+8	vatr	N	װאַטר	VAatr	_
+9	un'	CONJ	אונ'	Avn'	_
+10	mutr	N	מוטר	mvtr	_
+11	tun	DON-IPP	טון	tvN	_
+12	plugn	VB	פּלוגן	plvgN	_
+
+SENT	1507W-BOVO,85.623
+1	zi	PRO	זי	zy	_
+2	zeyn	VBF	זײן	zYN	_
+3	arm	ADJ	אַרם	AarM	_
+
+SENT	1507W-BOVO,85.624
+1	es	ES	עס	es	_
+2	hltn	VBF	הלטן	hltN	_
+3	zi	PRO	זי	zy	_
+4	di	D	די	dy	_
+5	loyt	N	לוט	lvt	_
+6	oyz	RP	אױז	AWz	_
+
+SENT	1507W-BOVO,85.625
+1	tsu	P	צו	qv	_
+2	nurberk	NPR	נורבערק	nvrberk	_
+3	lign	VBF	ליגן	lygN	_
+4	zi	PRO	זי	zy	_
+5	beyd	Q	בײד	bYd	_
+6-7	im	P~D	אים	AyM	_
+6	i	P	אי	Ay	_
+7	m	D	מ	m	_
+8	broyt_hoyz	N	ברױט_הױז	brWt_hWz	_
+
+SENT	1507W-BOVO,86.627
+1	meyn	PRO$	מײן	mYN	_
+2	vatir	N	װאַטיר	VAatyr	_
+3	iz	VBF	איז	Ayz	_
+4	eyn	D	אײן	AYN	_
+5	giburnr	ADJ	גיבורנר	gybvrnr	_
+6	ungr	N	אונגר	Avngr	_
+
+SENT	1507W-BOVO,86.628
+1	un'	CONJ	אונ'	Avn'	_
+2	meyn	PRO$	מײן	mYN	_
+3	mutr	N	מוטר	mvtr	_
+4	iz	VBF	איז	Ayz	_
+5	eyn	D	אײן	AYN	_
+6	frntsuzin	N	פֿרנצוזין	frnqvzyN	_
+
+SENT	1507W-BOVO,86.629
+1	di	D	די	dy	_
+2	hut	HVF	הוט	hvt	_
+3	mikh	PRO	מיך	myX	_
+4	lusn	VBN	לוסן	lvsN	_
+5	sterbn	VB	סטערבן	sterbN	_
+6	hungr	N	הונגר	hvngr	_
+
+SENT	1507W-BOVO,86.630
+1	zi	PRO	זי	zy	_
+2	iz	VBF	איז	Ayz	_
+3	eyn	D	אײן	AYN	_
+4	krgi	ADJ	קרגי	krgy	_
+5	hoyt	N	הױט	hWt	_
+6	eyn	D	אײן	AYN	_
+7	buzi	ADJ	בוזי	bvzy	_
+
+SENT	1507W-BOVO,86.631
+1	ikh	PRO	איך	AyX	_
+2	bin	BEF	בין	byN	_
+3	givezn	VBN	גיװעזן	gyVezN	_
+4	eyn	D	אײן	AYN	_
+5	boyzr	ADJ	בױזר	bWzr	_
+6	yungr	N	יונגר	yvngr	_
+
+SENT	1507W-BOVO,86.632
+1	ikh	PRO	איך	AyX	_
+2	het	HVF	העט	het	_
+3	ir	PRO	איר	Ayr	_
+4	gishisn	VBN	גישיסן	gy$ysN	_
+5	in	P	אין	AyN	_
+6	di	D	די	dy	_
+7	tsuzin	N	צוזין	qvzyN	_
+8	i	C	אי	Ay	_
+9	ikh	PRO	איך	AyX	_
+10	s	PRO	ס	s	_
+11	lengr	ADVR	לענגר	lengr	_
+12	vun	P	װוּן	VUN	_
+13	ir	PRO	איר	Ayr	_
+14	hit	HVF	היט	hyt	_
+15	gilitn	VBN	גיליטן	gylytN	_
+
+SENT	1507W-BOVO,86.633
+1	ds	D	דס	ds	_
+2	gnts	ADJ	גנץ	gnQ	_
+3	lnd	N	לנד	lnd	_
+4	hun	HVF	הון	hvN	_
+5	ikh	PRO	איך	AyX	_
+6	drum	DR+P	דרום	drvM	_
+7	gimitn	VBN	גימיטן	gymytN	_
+
+SENT	1507W-BOVO,87.635
+1	di	D	די	dy	_
+2	koyf_loyt	N	קױפֿ_לױט	kWf_lWt	_
+3	lakhtn	VBF	לאַכטן	lAaxtN	_
+4	eyn	D	אײן	AYN	_
+5	gutn	ADJ	גוטן	gvtN	_
+6	veyl	N	װײל	VYl	_
+
+SENT	1507W-BOVO,87.636
+1	un'	CONJ	אונ'	Avn'	_
+2	in	P	אין	AyN	_
+3	ir	PRO$	איר	Ayr	_
+4	voyist	N	װױיִסט	VWyist	_
+5	varn	BEF	װאַרן	VAarN	_
+6	zi	PRO	זי	zy	_
+7	al	Q	אַל	Aal	_
+8	kitrn	VAG	קיטרן	kytrN	_
+
+SENT	1507W-BOVO,87.637
+1	zi	PRO	זי	zy	_
+2	vurn	VBF	װוּרן	VUrN	_
+3	lekht	ADV	לעכט	lext	_
+4	nukh	ADV	נוך	nvX	_
+5	tvau	NUM	טװאַו	tVAav	_
+6	drey	NUM	דרײ	drY	_
+7	meyl	N	מײל	mYl	_
+
+SENT	1507W-BOVO,87.638
+1	da	ADV	דאַ	dAa	_
+2	bigund	VBF	ביגונד	bygvnd	_
+3	es	PRO	עס	es	_
+4	gr	ADV	גר	gr	_
+5	vild	ADV	װילד	Vyld	_
+6	tsu	TO	צו	qv	_
+7	vitrn	VB	װיטרן	VytrN	_
+
+SENT	1507W-BOVO,87.639
+1-2	tsum	P~D	צום	qvM	_
+1	tsu	P	צו	qv	_
+2	m	D	מ	m	_
+3	land	N	לאַנד	lAand	_
+4	tsu	ADV	צו	qv	_
+5	htn	VBF	הטן	htN	_
+6	zi	PRO	זי	zy	_
+7	grus	ADJ	גרוס	grvs	_
+8	eyl	N	אל	Al	_
+
+SENT	1507W-BOVO,87.640
+1	vur	P	װוּר	VUr	_
+2	angst	N	אַנגסט	Aangst	_
+3	varn	BEF	װאַרן	VAarN	_
+4	zi	PRO	זי	zy	_
+5	al	Q	אַל	Aal	_
+6	tsitrn	VAG	ציטרן	qytrN	_
+
+SENT	1507W-BOVO,87.641
+1	zi	PRO	זי	zy	_
+2	valtn	MDF	װאַלטן	VAaltN	_
+3	varn	VB	װאַרן	VAarN	_
+4	biz	P	ביז	byz	_
+5	ds	D	דס	ds	_
+6	purt	N	פּורט	pvrt	_
+7	vun	P	װוּן	VUN	_
+8	ankunh	NPR	אַנקונה	Aankvnh	_
+
+SENT	1507W-BOVO,87.642
+1	da	ADV	דאַ	dAa	_
+2	hub	VBF	הוב	hvb	_
+3	an	RP	אַן	AaN	_
+4	eyn	D	אײן	AYN	_
+5	grusi	ADJ	גרוסי	grvsy	_
+6	frtunh	N	פֿרטונה	frtvnh	_
+
+SENT	1507W-BOVO,88.644
+1	es	ES	עס	es	_
+2	vs	VBF	װס	Vs	_
+3	eyn	D	אײן	AYN	_
+4	grusr	ADJ	גרוסר	grvsr	_
+5	vind	N	װינד	Vynd	_
+6	un'	CONJ	אונ'	Avn'	_
+7	regn	N	רעגן	regN	_
+8	un'	CONJ	אונ'	Avn'	_
+9	eyn	D	אײן	AYN	_
+10	veyntlikh	ADJ	װײנטליך	VYntlyX	_
+11	plitsn	N	פּליצן	plyqN	_
+12	un'	CONJ	אונ'	Avn'	_
+13	dundrn	N	דונדרן	dvndrN	_
+
+SENT	1507W-BOVO,88.645
+1	irs	PRO$	אירס	Ayrs	_
+2	lebn	N	לעבן	lebN	_
+3	htn	HVF	הטן	htN	_
+4	zi	PRO	זי	zy	_
+5	zikh	PRO	זיך	zyX	_
+6	al	Q	אַל	Aal	_
+7	dr_vegn	VBN	דר_װעגן	dr_VegN	_
+
+SENT	1507W-BOVO,88.646
+1	in	P	אין	AyN	_
+2	ds	D	דס	ds	_
+3	mer	N	מער	mer	_
+4	varfn	VBF	װאַרפֿן	VAarfN	_
+5	zi	PRO	זי	zy	_
+6	iri	PRO$	אירי	Ayry	_
+7	plundrn	N	פּלונדרן	plvndrN	_
+
+SENT	1507W-BOVO,88.647
+1	zi	PRO	זי	zy	_
+2	hubn	VBF	הובן	hvbN	_
+3	an	RP	אַן	AaN	_
+4	tsu	TO	צו	qv	_
+5	zgn	VB	זגן	zgN	_
+6	iri	PRO$	אירי	Ayry	_
+7	besti	ADJS	בעסטי	besty	_
+8	zegn	N	זעגן	zegN	_
+
+SENT	1507W-BOVO,88.648
+1	itlikhr	Q	איטליכר	Aytlyxr	_
+2	der	D	דער	der	_
+3	zgt	VBF	זגט	zgt	_
+4	eyn	D	אײן	AYN	_
+5	bizundrn	ADJ	ביזונדרן	byzvndrN	_
+
+SENT	1507W-BOVO,88.649
+1	un'	CONJ	אונ'	Avn'	_
+2	gar	ADV	גאַר	gAar	_
+3	in	P	אין	AyN	_
+4	eynr	D	אײנר	AYnr	_
+5	kurts	N	קורץ	kvrQ	_
+6	burn	VBF	בורן	bvrN	_
+7	zi	PRO	זי	zy	_
+8	gar	ADV	גאַר	gAar	_
+9	veytn	ADV	װײטן	VYtN	_
+
+SENT	1507W-BOVO,88.650
+1	un'	CONJ	אונ'	Avn'	_
+2	ds	D	דס	ds	_
+3	vasr	N	װאַסר	VAasr	_
+4	shlug	VBF	שלוג	$lvg	_
+5	hineyn	ADV	הינײן	hynYN	_
+6	tsu	P	צו	qv	_
+7	aln	Q	אַלן	AalN	_
+8	zeytn	N	זײטן	zYtN	_
+
+SENT	1507W-BOVO,89.652
+1	un'	CONJ	אונ'	Avn'	_
+2	der	D	דער	der	_
+3	zegil	N	זעגיל	zegyl	_
+4	ging	VBF	גינג	gyng	_
+5	in	P	אין	AyN	_
+6	hadrn	N	האַדרן	hAadrN	_
+
+SENT	1507W-BOVO,89.653
+1	un'	CONJ	אונ'	Avn'	_
+2	der	D	דער	der	_
+3	tinum	N	טינום	tynvM	_
+4	brakh	VBF	בראַך	brAaX	_
+5	in	P	אין	AyN	_
+6	stukn	N	סטוקן	stvkN	_
+
+SENT	1507W-BOVO,89.654
+1-2	im	P~D	אים	AyM	_
+1	i	P	אי	Ay	_
+2	m	D	מ	m	_
+3	vasr	N	װאַסר	VAasr	_
+4	gingn	VBF	גינגן	gyngN	_
+5	zi	PRO	זי	zy	_
+6	um	RP	אום	AvM	_
+7	pfldrn	VB	פּפֿלדרן	pfldrN	_
+8	bis	P	ביס	bys	_
+9	mitn	ADV	מיטן	mytN	_
+10	in	P	אין	AyN	_
+11	den	D	דען	deN	_
+12	rukn	N	רוקן	rvkN	_
+
+SENT	1507W-BOVO,89.655
+1	zi	PRO	זי	zy	_
+2	vaurn	VBF	װאַורן	VAavrN	_
+3	gleykh	ADJ	גלײך	glYX	_
+4	tsu	P	צו	qv	_
+5	badrn	N	באַדרן	bAadrN	_
+
+SENT	1507W-BOVO,89.656
+1	dukh	ADV	דוך	dvX	_
+2	gab	VBF	גאַב	gAab	_
+3	in	PRO	אין	AyN	_
+4	gut	NPR	גוט	gvt	_
+5	ds	D	דס	ds	_
+6	glukn	N	גלוקן	glvkN	_
+7	ds	C	דס	ds	_
+8	zi	PRO	זי	zy	_
+9	mitn	ADV	מיטן	mytN	_
+10	in	P	אין	AyN	_
+11	mer	N	מער	mer	_
+12	eyn	D	אײן	AYN	_
+13	izulh	N	איזולה	Ayzvlh	_
+14	vundn	VBF	װוּנדן	VUndN	_
+15	un'	CONJ	אונ'	Avn'	_
+16	di	D	די	dy	_
+17	gliah	N	גליִאַה	glyiAah	_
+18	vluks	ADV	װלוקס	Vlvks	_
+19	da	ADV	דאַ	dAa	_
+20	an	RP	אַן	AaN	_
+21	bundn	VBF	בונדן	bvndN	_
+
+SENT	1507W-BOVO,90.658
+1	zi	PRO	זי	zy	_
+2	bandn	VBF	באַנדן	bAandN	_
+3	zi	PRO	זי	zy	_
+4	ds	C	דס	ds	_
+5	zi	PRO	זי	zy	_
+6	zikh	PRO	זיך	zyX	_
+7	nit	NEG	ניט	nyt	_
+8	kunt	MDF	קונט	kvnt	_
+9	rign	VB	ריגן	rygN	_
+
+SENT	1507W-BOVO,90.659
+1	un'	CONJ	אונ'	Avn'	_
+2	keyn	Q	קײן	kYN	_
+3	supfn	N	סופּפֿן	svpfN	_
+4	tetn	DOF	טעטן	tetN	_
+5	zi	PRO	זי	zy	_
+6	nit	NEG	ניט	nyt	_
+7	sparn	VB	ספּאַרן	spAarN	_
+
+SENT	1507W-BOVO,90.660
+1	der	D	דער	der	_
+2	vind	N	װינד	Vynd	_
+3	bigund	VBF	ביגונד	bygvnd	_
+4	zikh	PRO	זיך	zyX	_
+5	nun	ADV	נ	n	_
+6	tsu	TO	צו	qv	_
+7	lign	VB	ליגן	lygN	_
+
+SENT	1507W-BOVO,90.661
+1	da	ADV	דאַ	dAa	_
+2	zahn	VBF	זאַהן	zAahN	_
+3	zi	PRO	זי	zy	_
+4	ds	C	דס	ds	_
+5	zi	PRO	זי	zy	_
+6	in	P	אין	AyN	_
+7	vlandrn	NPR	װלאַנדרן	VlAandrN	_
+8	varn	VBF	װאַרן	VAarN	_
+
+SENT	1507W-BOVO,90.662
+1	eyn	D	אײן	AYN	_
+2	shuni	ADJ	שוני	$vny	_
+3	stt	N	סטט	stt	_
+4	stund	VBF	סטונד	stvnd	_
+5	in	PRO	אין	AyN	_
+6	antgign	ADV	אַנטגיגן	AantgygN	_
+
+SENT	1507W-BOVO,90.663
+1	zi	PRO	זי	zy	_
+2	hubn	VBF	הובן	hvbN	_
+3	an	RP	אַן	AaN	_
+4	hin_tsu	ADV	הינ_צו	hyn_qv	_
+5	tsu	TO	צו	qv	_
+6	varn	VB	װאַרן	VAarN	_
+
+SENT	1507W-BOVO,90.664
+1	di	D	די	dy	_
+2	zelbig	ADJ	זעלביג	zelbyg	_
+3	stt	N	סטט	stt	_
+4	di	D	די	dy	_
+5	his	VBF	היס	hys	_
+6	armuniah	NPR	אַרמוניִאַה	AarmvnyiAah	_
+
+SENT	1507W-BOVO,90.665
+1	zi	PRO	זי	zy	_
+2	vurn	VBF	װוּרן	VUrN	_
+3	hin_tsu	ADV	הינ_צו	hyn_qv	_
+4	mit	P	מיט	myt	_
+5	der	D	דער	der	_
+6	gliah	N	גליִאַה	glyiAah	_
+
+SENT	1507W-BOVO,91.667
+1	es	ES	עס	es	_
+2	vs	VBF	װס	Vs	_
+3	gr	ADV	גר	gr	_
+4	eyn	D	אײן	AYN	_
+5	reykhr	ADJ	רײכר	rYxr	_
+6	kunig	N	קוניג	kvnyg	_
+7	dinn	ADV	דינן	dynN	_
+
+SENT	1507W-BOVO,91.668
+1	den	D	דען	deN	_
+2	zelbign	ADJ	זעלביגן	zelbygN	_
+3	kunig	N	קוניג	kvnyg	_
+4	zi	PRO	זי	zy	_
+5	armineyn	NPR	אַרמינײן	AarmynYN	_
+6	hisn	VBF	היסן	hysN	_
+
+SENT	1507W-BOVO,91.669
+1	in	P	אין	AyN	_
+2	der	D	דער	der	_
+3	stt	N	סטט	stt	_
+4	vr	VBF	װר	Vr	_
+5	mn	PRO	מן	mN	_
+6	der	D	דער	der	_
+7	gliah	N	גליִאַה	glyiAah	_
+8	inn	RP	אינן	AynN	_
+
+SENT	1507W-BOVO,91.670
+1	di	D	די	dy	_
+2	buksn	N	בוקסן	bvksN	_
+3	hurt	VBF	הורט	hvrt	_
+4	mn	PRO	מן	mN	_
+5	dinn	ADV	דינן	dynN	_
+6	sisn	VB	סיסן	sysN	_
+
+SENT	1507W-BOVO,91.671
+1	der	D	דער	der	_
+2	kunig	N	קוניג	kvnyg	_
+3	ging	VBF	גינג	gyng	_
+4	mit	P	מיט	myt	_
+5	zeyn	PRO$	זײן	zYN	_
+6	hern	N	הערן	herN	_
+7	oyf	P	אױף	AWF	_
+8	di	D	די	dy	_
+9	tsinn	N	צינן	qynN	_
+
+SENT	1507W-BOVO,91.672
+1	zi	PRO	זי	zy	_
+2	zahn	VBF	זאַהן	zAahN	_
+3	di	D	די	dy	_
+4	gliah	N	גליִאַה	glyiAah	_
+5	her	RP-ADV	הער	her	_
+6	vlisn	VB	װליסן	VlysN	_
+
+SENT	1507W-BOVO,91.673
+1	zi	PRO	זי	zy	_
+2	vurn	VBF	װוּרן	VUrN	_
+3	bis	P	ביס	bys	_
+4	in	P	אין	AyN	_
+5	ds	D	דס	ds	_
+6	purth	N	פּורטה	pvrth	_
+
+SENT	1507W-BOVO,91.674
+1	un'	CONJ	אונ'	Avn'	_
+2	di	D	די	dy	_
+3	ankr	N	אַנקר	Aankr	_
+4	varfn	VBF	װאַרפֿן	VAarfN	_
+5	zi	PRO	זי	zy	_
+6	eyn	RP	אײן	AYN	_
+7	durth	ADV	דורטה	dvrth	_
+
+SENT	1507W-BOVO,92.676
+1	un'	CONJ	אונ'	Avn'	_
+2	da	C	דאַ	dAa	_
+3	ds	D	דס	ds	_
+4	duzig	ADJ	דוזיג	dvzyg	_
+5	var	BEF	װאַר	VAar	_
+6	gisehn	VBN	גיסעהן	gysehN	_
+7	der	D	דער	der	_
+8	kunig	N	קוניג	kvnyg	_
+9	un'	CONJ	אונ'	Avn'	_
+10	zeyn	PRO$	זײן	zYN	_
+11	hern	N	הערן	herN	_
+12	gingn	VBF	גינגן	gyngN	_
+13	dar	ADV	דאַר	dAar	_
+14	slatsn	RP-V	סלאַצן	slAaqN	_
+
+SENT	1507W-BOVO,92.677
+1	un'	CONJ	אונ'	Avn'	_
+2	zi	PRO	זי	zy	_
+3	hubn	VBF	הובן	hvbN	_
+4	di	D	די	dy	_
+5	gliah	N	גליִאַה	glyiAah	_
+6	an	RP	אַן	AaN	_
+7	tsu	TO	צו	qv	_
+8	zehn	VB	זעהן	zehN	_
+
+SENT	1507W-BOVO,92.678
+1	der	D	דער	der	_
+2	kunig	N	קוניג	kvnyg	_
+3	vs	BEF	װס	Vs	_
+4	mit	P	מיט	myt	_
+5	den	D	דען	deN	_
+6	koyf_loytn	N	קױפֿ_לױטן	kWf_lWtN	_
+7	svatsn	VAG	סװאַצן	sVAaqN	_
+
+SENT	1507W-BOVO,92.679
+1	di	D	די	dy	_
+2	koyf_loytn	N	קױפֿ_לױטן	kWf_lWtN	_
+3	hubn	VBF	הובן	hvbN	_
+4	an	RP	אַן	AaN	_
+5	tsu	TO	צו	qv	_
+6	yehn	VB	יעהן	yehN	_
+7	ginedigr	ADJ	גינעדיגר	gynedygr	_
+8	kunig	N	קוניג	kvnyg	_
+9	valt	MDF	װאַלט	VAalt	_
+10	ir	PRO	איר	Ayr	_
+11	koyfn	VB	קױפֿן	kWfN	_
+12	eyn	D	אײן	AYN	_
+13	rigatsn	N	ריגאַצן	rygAaqN	_
+14	mir	PRO	מיר	myr	_
+15	veln	MDF	װעלן	VelN	_
+16	oykh	PRO	אױך	AWX	_
+17	eyn	PRO	אײן	AYN	_
+18	gebn	VB	געבן	gebN	_
+19	un	P	און	AvN	_
+20	aln	Q	אַלן	AalN	_
+21	vandil	N	װאַנדיל	VAandyl	_
+
+SENT	1507W-BOVO,92.680
+1	vun	P	װוּן	VUN	_
+2	bva	NPR	בװאַ	bVAa	_
+3	zagtn	VBF	זאַגטן	zAagtN	_
+4	zi	PRO	זי	zy	_
+5	im	PRO	אים	AyM	_
+6	gants	ADV	גאַנץ	gAanQ	_
+7	den	D	דען	deN	_
+8	hndil	N	הנדיל	hndyl	_
+9	al	Q	אַל	Aal	_
+10	ding	N	דינג	dyng	_
+11	vi	WADV	װי	Vy	_
+12	er	PRO	ער	er	_
+13	in	PRO	אין	AyN	_
+14	var	BEF	װאַר	VAar	_
+15	givarn	VBN	גיװאַרן	gyVAarN	_
+
+SENT	1507W-BOVO,92.681
+1	un'	CONJ	אונ'	Avn'	_
+2	dr_nukh	DR+P	דר_נוך	dr_nvX	_
+3	vizn	VBF	װיזן	VyzN	_
+4	zi	PRO	זי	zy	_
+5	im	PRO	אים	AyM	_
+6	den	D	דען	deN	_
+7	knabn	N	קנאַבן	knAabN	_
+
+SENT	1507W-BOVO,92.682
+1	er	PRO	ער	er	_
+2	vs	VBF	װס	Vs	_
+3	veys	ADJ	װײס	VYs	_
+4	un'	CONJ	אונ'	Avn'	_
+5	rut	ADJ	רוט	rvt	_
+6	mit	P	מיט	myt	_
+7	shunn	ADJ	שונן	$vnN	_
+8	harn	N	האַרן	hAarN	_
+
+SENT	1507W-BOVO,92.683
+1	keyn	Q	קײן	kYN	_
+2	gibrekhn	N	גיברעכן	gybrexN	_
+3	kunt	MDF	קונט	kvnt	_
+4	mn	PRO	מן	mN	_
+5	an	P	אַן	AaN	_
+6	im	PRO	אים	AyM	_
+7	tsu_mul	ADV	צו_מול	qv_mvl	_
+8	nit	NEG	ניט	nyt	_
+9	habn	VB	האַבן	hAabN	_
+
+SENT	1507W-BOVO,92.684
+1	er	PRO	ער	er	_
+2	zakh	VBF	זאַך	zAaX	_
+3	in	PRO	אין	AyN	_
+4	an	RP	אַן	AaN	_
+5	hintn	ADV	הינטן	hyntN	_
+6	un'	CONJ	אונ'	Avn'	_
+7	varn	ADV	װאַרן	VAarN	_
+
+SENT	1507W-BOVO,93.686
+1	un'	CONJ	אונ'	Avn'	_
+2	oyf	ADV	אױף	AWF	_
+3	un'	CONJ	אונ'	Avn'	_
+4	nidr	ADV	נידר	nydr	_
+5	mkht	VBF	מכט	mxt	_
+6	er	PRO	ער	er	_
+7	in	PRO	אין	AyN	_
+8	trabn	VB	טראַבן	trAabN	_
+
+SENT	1507W-BOVO,93.687
+1	rekht	ADV	רעכט	rext	_
+2	az	P	אַז	Aaz	_
+3	eyn	D	אײן	AYN	_
+4	pferd	N	פּפֿערד	pferd	_
+5	ds	WPRO	דס	ds	_
+6	mn	PRO	מן	mN	_
+7	vil	MDF	װיל	Vyl	_
+8	vur_koyfn	VB	װוּר_קױפֿן	VUr_kWfN	_
+9	mkht	VBF	מכט	mxt	_
+10	er	PRO	ער	er	_
+11	in	PRO	אין	AyN	_
+12	oyf	ADV	אױף	AWF	_
+13	un'	CONJ	אונ'	Avn'	_
+14	nidr	ADV	נידר	nydr	_
+15	loyfn	VB	לױפֿן	lWfN	_
+
+SENT	1507W-BOVO,94.689
+1	darum	DR+P	דאַרום	dAarvM	_
+2	libn	ADJ	ליבן	lybN	_
+3	hern	N	הערן	herN	_
+4	gidenkt	VBI	גידענקט	gydenkt	_
+5	durn	DR+P	דורן	dvrN	_
+6	vi	WADV	װי	Vy	_
+7	eyns	D	אײנס	AYns	_
+8	hertsugn	N	הערצוגן	herqvgN	_
+9	zun	N	זון	zvN	_
+10	kam	VBF	קאַם	kAaM	_
+11	tsu	P	צו	qv	_
+12	zulkhr	ADJ	זולכר	zvlxr	_
+13	musn	N	מוסן	mvsN	_
+
+SENT	1507W-BOVO,94.690
+1	drum	DR+P	דרום	drvM	_
+2	zul	MDF	זול	zvl	_
+3	zikh	PRO	זיך	zyX	_
+4	ureylikh	ADV	אורײליך	AvrYlyX	_
+5	nrmr	ADV	נרמר	nrmr	_
+6	keyn	Q	קײן	kYN	_
+7	mn	N	מן	mN	_
+8	oyf	P	אױף	AWF	_
+9	gut	N	גוט	gvt	_
+10	nukh	CONJ	נוך	nvX	_
+11	oyf	P	אױף	AWF	_
+12	gelt	N	געלט	gelt	_
+13	vr_lusn	VB	װר_לוסן	Vr_lvsN	_
+
+SENT	1507W-BOVO,94.691
+1	ven	CONJ	װען	VeN	_
+2	er	PRO	ער	er	_
+3	veys	VBF	װײס	VYs	_
+4	nit	NEG	ניט	nyt	_
+5	var	WPRO	װאַר	VAar	_
+6	tsu	P	צו	qv	_
+7	er	PRO	ער	er	_
+8	kumn	VB	קומן	kvmN	_
+9	kn	MDF	קן	kN	_
+10	ven	C	װען	VeN	_
+11	in	PRO	אין	AyN	_
+12	ds	D	דס	ds	_
+13	unlik	N	אונליק	Avnlyk	_
+14	vert	RDF	װערט	Vert	_
+15	stusn	VB	סטוסן	stvsN	_
+
+SENT	1507W-BOVO,94.692
+1	ven	CONJ	װען	VeN	_
+2	di	D	די	dy	_
+3	velt	N	װעלט	Velt	_
+4	iz	BEF	איז	Ayz	_
+5	tsu	P	צו	qv	_
+6	eynr	D	אײנר	AYnr	_
+7	leytr	N	לײטר	lYtr	_
+8	giglikhn	VAN	גיגליכן	gyglyxN	_
+
+SENT	1507W-BOVO,94.693
+1	der	D	דער	der	_
+2	git	VBF	גיט	gyt	_
+3	oyf	RP	אױף	AWF	_
+
+SENT	1507W-BOVO,94.694
+1	der	D	דער	der	_
+2	kumt	VBF	קומט	kvmt	_
+3	her_ab	ADV	הער_אַב	her_Aab	_
+4	gislikhn	VBN	גיסליכן	gyslyxN	_
+5	az	C	אַז	Aaz	_
+6	unzrm	PRO$	אונזרם	AvnzrM	_
+7	bva	NPR	בװאַ	bVAa	_
+8	da	ADV	דאַ	dAa	_
+9	oykh	ADV	אױך	AWX	_
+10	var	BEF	װאַר	VAar	_
+11	gisehn	VBN	גיסעהן	gysehN	_
+
+SENT	1507W-BOVO,95.696
+1	zekht	VBI	זעכט	zext	_
+2	vuhr	WPRO	װוּהר	VUhr	_
+3	tsu	P	צו	qv	_
+4	drng	VBF	דרנג	drng	_
+5	in	PRO	אין	AyN	_
+6	grus	ADJ	גרוס	grvs	_
+7	nutn	N	נוטן	nvtN	_
+
+SENT	1507W-BOVO,95.697
+1	da	C	דאַ	dAa	_
+2	in	PRO	אין	AyN	_
+3	der	D	דער	der	_
+4	kunig	N	קוניג	kvnyg	_
+5	nun	ADV	נ	n	_
+6	ht	HVF	הט	ht	_
+7	gizehn	VBN	גיזעהן	gyzehN	_
+8	za	ADV	זאַ	zAa	_
+9	vrugt	VBF	װרוגט	Vrvgt	_
+10	er	PRO	ער	er	_
+11	vi	WADV	װי	Vy	_
+12	zi	PRO	זי	zy	_
+13	in	PRO	אין	AyN	_
+14	butn	VBF	בוטן	bvtN	_
+
+SENT	1507W-BOVO,95.698
+1	di	D	די	dy	_
+2	koyf_loytn	N	קױפֿ_לױטן	kWf_lWtN	_
+3	hubn	VBF	הובן	hvbN	_
+4	an	RP	אַן	AaN	_
+5	tsu	TO	צו	qv	_
+6	yehn	VB	יעהן	yehN	_
+7	keyn	Q	קײן	kYN	_
+8	pfenig	N	פּפֿעניג	pfenyg	_
+9	minr	QR	מינר	mynr	_
+10	ven	P	װען	VeN	_
+11	hundrt	ADJ	הונדרט	hvndrt	_
+12	dukutn	N	דוקוטן	dvkvtN	_
+
+SENT	1507W-BOVO,95.699
+1	der	D	דער	der	_
+2	kunig	N	קוניג	kvnyg	_
+3	sprkh	VBF	ספּרך	sprX	_
+4	valt	MDF	װאַלט	VAalt	_
+5	ir	PRO	איר	Ayr	_
+6	nit	NEG	ניט	nyt	_
+7	minr	QR	מינר	mynr	_
+8	hbn	VB	הבן	hbN	_
+9	za	ADV	זאַ	zAa	_
+10	hbt	VBI	הבט	hbt	_
+11	oykh	PRO	אױך	AWX	_
+12	ds	D	דס	ds	_
+13	gelt	N	געלט	gelt	_
+
+SENT	1507W-BOVO,95.700
+1	get	VBI	גט	gt	_
+2	mir	PRO	מיר	myr	_
+3	den	D	דען	deN	_
+4	knabn	N	קנאַבן	knAabN	_
+
+SENT	1507W-BOVO,96.702
+1	nun	ADV	נ	n	_
+2	ht	VBF	הט	ht	_
+3	der	D	דער	der	_
+4	kunig	N	קוניג	kvnyg	_
+5	eyn	D	אײן	AYN	_
+6	marshalk	N	מאַרשאַלק	mAar$Aalk	_
+
+SENT	1507W-BOVO,96.703
+1	dem	D	דעם	deM	_
+2	gab	VBF	גאַב	gAab	_
+3	er	PRO	ער	er	_
+4	den	D	דען	deN	_
+5	yungn	ADJ	יונגן	yvngN	_
+6	tsartn	ADJ	צאַרטן	qAartN	_
+
+SENT	1507W-BOVO,96.704
+1	un'	CONJ	אונ'	Avn'	_
+2	sprkh	VBF	ספּרך	sprX	_
+3	da	INTJ	דאַ	dAa	_
+4	ikh	PRO	איך	AyX	_
+5	bivel	VBF	ביװעל	byVel	_
+6	dir	PRO	דיר	dyr	_
+7	den	D	דען	deN	_
+8	shalk	N	שאַלק	$Aalk	_
+
+SENT	1507W-BOVO,96.705
+1	mkh	VBI	מך	mX	_
+2	in	PRO	אין	AyN	_
+3	di	D	די	dy	_
+4	pferd	N	פּפֿערד	pferd	_
+5	oyz	RP	אױז	AWz	_
+6	vartn	VB	װאַרטן	VAartN	_
+
+SENT	1507W-BOVO,96.706
+1	tut	VBF	טוט	tvt	_
+2	er	PRO	ער	er	_
+3	s	PRO	ס	s	_
+4	nit	NEG	ניט	nyt	_
+5	za	ADV	זאַ	zAa	_
+6	tsu_bir	VBI	צו_ביר	qv_byr	_
+7	im	PRO	אים	AyM	_
+8	zeyn	PRO$	זײן	zYN	_
+9	balk	N	באַלק	bAalk	_
+
+SENT	1507W-BOVO,96.707
+1	reys	VBI	רײס	rYs	_
+2	im	PRO	אים	AyM	_
+3	zeyn	PRO$	זײן	zYN	_
+4	har	N	האַר	hAar	_
+5	oyz	P	אױז	AWz	_
+6	der	D	דער	der	_
+7	shvartn	N	שװאַרטן	$VAartN	_
+
+SENT	1507W-BOVO,96.708
+1	ven	CONJ	װען	VeN	_
+2	ikh	PRO	איך	AyX	_
+3	zikh	VBF	זיך	zyX	_
+4	im	PRO	אים	AyM	_
+5	val	ADV	װאַל	VAal	_
+6	an	RP	אַן	AaN	_
+7	an	P	אַן	AaN	_
+8	zeyn	PRO$	זײן	zYN	_
+9	oygn	N	אױגן	AWgN	_
+10	ds	C	דס	ds	_
+11	nit	NEG	ניט	nyt	_
+12	iz	BEF	איז	Ayz	_
+13	vr_lurn	VAN	װר_לורן	Vr_lvrN	_
+14	an	P	אַן	AaN	_
+15	im	PRO	אים	AyM	_
+16	keyn	Q	קײן	kYN	_
+17	slagn	N	סלאַגן	slAagN	_
+
+SENT	1507W-BOVO,97.710
+1	der	D	דער	der	_
+2	marshlk	N	מאַרשלק	mAar$lk	_
+3	tet	VBF	טעט	tet	_
+4	in	PRO	אין	AyN	_
+5	in	P	אין	AyN	_
+6	den	D	דען	deN	_
+7	staln	N	סטאַלן	stAalN	_
+
+SENT	1507W-BOVO,97.711
+1	bey	P	בײ	bY	_
+2	im	PRO	אים	AyM	_
+3	var	VBF	װאַר	VAar	_
+4	er	PRO	ער	er	_
+5	bey	P	בײ	bY	_
+6	den	D	דען	deN	_
+7	yarn	N	יאַרן	yAarN	_
+8	tsveyan	NUM	צװײאַן	qVYAaN	_
+
+SENT	1507W-BOVO,97.712
+1	den	D	דען	deN	_
+2	pferdn	N	פּפֿערדן	pferdN	_
+3	must	MDF	מוסט	mvst	_
+4	er	PRO	ער	er	_
+5	oyz	RP	אױז	AWz	_
+6	vartn	VB	װאַרטן	VAartN	_
+7	aln	Q	אַלן	AalN	_
+
+SENT	1507W-BOVO,97.713
+1	er	PRO	ער	er	_
+2	must	MDF	מוסט	mvst	_
+3	in	PRO	אין	AyN	_
+4	mistn	VB	מיסטן	mystN	_
+5	un'	CONJ	אונ'	Avn'	_
+6	streyan	VB	סטרײאַן	strYAaN	_
+
+SENT	1507W-BOVO,97.714
+1	in	P	אין	AyN	_
+2	idrmns	Q$	אידרמנס	Aydrmns	_
+3	oygn	N	אױגן	AWgN	_
+4	vs	BEF	װס	Vs	_
+5	er	PRO	ער	er	_
+6	val	ADV	װאַל	VAal	_
+7	givaln	VAG	גיװאַלן	gyVAalN	_
+
+SENT	1507W-BOVO,97.715
+1	ver	WPRO	װער	Ver	_
+2	in	PRO	אין	AyN	_
+3	nurt	FP	נורט	nvrt	_
+4	zakh	VBF	זאַך	zAaX	_
+5	den	D	דען	deN	_
+6	var	BEF	װאַר	VAar	_
+7	er	PRO	ער	er	_
+8	dr_vreyan	VAG	דר_װרײאַן	dr_VrYAaN	_
+
+SENT	1507W-BOVO,97.716
+1	ven	CONJ	װען	VeN	_
+2	er	PRO	ער	er	_
+3	vaurd	VBF	װאַורד	VAavrd	_
+4	al	Q	אַל	Aal	_
+5	tgi	N	טגי	tgy	_
+6	veynr	ADJR	װײנר	VYnr	_
+
+SENT	1507W-BOVO,97.717
+1	gr	ADV	גר	gr	_
+2	gut	ADV	גוט	gvt	_
+3	dukht	VBF	דוכט	dvxt	_
+4	zikh	PRO	זיך	zyX	_
+5	der	D	דער	der	_
+6	marshlk	N	מאַרשלק	mAar$lk	_
+7	zeynr	PRO	זײנר	zYnr	_
+
+SENT	1507W-BOVO,98.719
+1	er	PRO	ער	er	_
+2	var	VBF	װאַר	VAar	_
+3	veyst	ADJ	װײסט	VYst	_
+4	un'	CONJ	אונ'	Avn'	_
+5	shun	ADJ	שון	$vN	_
+6	gleykh	P	גלײך	glYX	_
+7	oyf_gibluzn	ADJ	אױפֿ_גיבלוזן	AWf_gyblvzN	_
+
+SENT	1507W-BOVO,98.720
+1	un'	CONJ	אונ'	Avn'	_
+2	zeyn	PRO$	זײן	zYN	_
+3	hur	N	הור	hvr	_
+4	vs	VBF	װס	Vs	_
+5	gleykh	ADJ	גלײך	glYX	_
+6	az	P	אַז	Aaz	_
+7	guld	N	גולד	gvld	_
+8	gishlagn	ADJ	גישלאַגן	gy$lAagN	_
+
+SENT	1507W-BOVO,98.721
+1	oyf	P	אױף	AWF	_
+2	zeyn	PRO$	זײן	zYN	_
+3	bakn	N	באַקן	bAakN	_
+4	brent	VBF	ברענט	brent	_
+5	er	PRO	ער	er	_
+6	az	P	אַז	Aaz	_
+7	tsvau	NUM	צװאַו	qVAav	_
+8	ruzn	N	רוזן	rvzN	_
+
+SENT	1507W-BOVO,98.722
+1	ven	C	װען	VeN	_
+2	er	PRO	ער	er	_
+3	hreyn	ADV	הרײן	hrYN	_
+4	reyt	VBF	רײט	rYt	_
+5	in	P	אין	AyN	_
+6	vams	N	װאַמס	VAams	_
+7	un'	CONJ	אונ'	Avn'	_
+8	in	P	אין	AyN	_
+9	huzn	N	הוזן	hvzN	_
+10	da	ADV	דאַ	dAa	_
+11	ht	VBF	הט	ht	_
+12	di	D	די	dy	_
+13	gnts	ADJ	גנץ	gnQ	_
+14	stt	N	סטט	stt	_
+15	dr_vun	DR+P	דר_װוּן	dr_VUN	_
+16	tsu	TO	צו	qv	_
+17	zagn	VB	זאַגן	zAagN	_
+
+SENT	1507W-BOVO,98.723
+1	nun	ADV	נ	n	_
+2	ht	VBF	הט	ht	_
+3	der	D	דער	der	_
+4	kunig	N	קוניג	kvnyg	_
+5	hukh_giburn	ADJ	הוכ_גיבורן	hvx_gybvrN	_
+6	eyn	D	אײן	AYN	_
+7	hupshi	ADJ	הופּשי	hvp$y	_
+8	tukhtr	N	טוכטר	tvxtr	_
+9	vun	P	װוּן	VUN	_
+10	tsihn	NUM	ציהן	qyhN	_
+11	yarn	N	יאַרן	yAarN	_
+
+SENT	1507W-BOVO,99.725
+1	keyn	Q	קײן	kYN	_
+2	hupshr	ADJR	הופּשר	hvp$r	_
+3	gistalt	N	גיסטאַלט	gystAalt	_
+4	un'	CONJ	אונ'	Avn'	_
+5	shunrn	ADJR	שונרן	$vnrN	_
+6	leybn	N	לײבן	lYbN	_
+7	nukh	CONJ	נוך	nvX	_
+8	vroy	N	װרױ	VrW	_
+9	nukh	CONJ	נוך	nvX	_
+10	man	N	מאַן	mAaN	_
+11	ni	ADV	ני	ny	_
+12	gevann	VBF	געװאַנן	geVAanN	_
+
+SENT	1507W-BOVO,99.726
+1	zi	PRO	זי	zy	_
+2	ht	VBF	הט	ht	_
+3	tsvey	NUM	צװײ	qVY	_
+4	oygn	N	אױגן	AWgN	_
+5	az	P	אַז	Aaz	_
+6	tsvau	NUM	צװאַו	qVAav	_
+7	sheybn	N	שײבן	$YbN	_
+8	in	P	אין	AyN	_
+9	irm	PRO$	אירם	AyrM	_
+10	kupf	N	קופּף	kvpF	_
+11	az	P	אַז	Aaz	_
+12	eyn	D	אײן	AYN	_
+13	krvunkil	N	קרװוּנקיל	krVUnkyl	_
+14	brann	VB	בראַנן	brAanN	_
+
+SENT	1507W-BOVO,99.727
+1	ir	PRO$	איר	Ayr	_
+2	shunheyt	N	שונהײט	$vnhYt	_
+3	stit	VBF	סטיט	styt	_
+4	nit	NEG	ניט	nyt	_
+5	gnts	ADV	גנץ	gnQ	_
+6	tsu	TO	צו	qv	_
+7	shreybn	VB	שרײבן	$rYbN	_
+
+SENT	1507W-BOVO,99.728
+1	zi	PRO	זי	zy	_
+2	vs	BEF	װס	Vs	_
+3	giheysn	VAN	גיהײסן	gyhYsN	_
+4	di	D	די	dy	_
+5	sune	ADJ	סונע	svne	_
+6	druzeyanh	NPR	דרוזײאַנה	drvzYAanh	_
+
+SENT	1507W-BOVO,99.729
+1	eyn_mul	ADV	אײנ_מול	AYn_mvl	_
+2	da	ADV	דאַ	dAa	_
+3	zkh	VBF	זך	zX	_
+4	zi	PRO	זי	zy	_
+5	durt	ADV	דורט	dvrt	_
+6	vun	P	װוּן	VUN	_
+7	veytn	ADV	װײטן	VYtN	_
+8	bva	NPR	בװאַ	bVAa	_
+9	ubr	P	אובר	Avbr	_
+10	den	D	דען	deN	_
+11	plats	N	פּלאַץ	plAaQ	_
+12	da_her	ADV	דאַ_הער	dAa_her	_
+13	reytn	VB	רײטן	rYtN	_
+
+SENT	1507W-BOVO,100.731
+1	zi	PRO	זי	zy	_
+2	zakh	VBF	זאַך	zAaX	_
+3	vi	C	װי	Vy	_
+4	er	PRO	ער	er	_
+5	zs	VBF	זס	zs	_
+6	azu	ADV	אַזו	Aazv	_
+7	val	ADV	װאַל	VAal	_
+8	tsu	P	צו	qv	_
+9	pferd	N	פּפֿערד	pferd	_
+10	un'	CONJ	אונ'	Avn'	_
+11	mit	P	מיט	myt	_
+12	zeyn	PRO$	זײן	zYN	_
+13	spurn	N	ספּורן	spvrN	_
+14	tet	DOF	טעט	tet	_
+15	er	PRO	ער	er	_
+16	s	PRO	ס	s	_
+17	hoyan	VB	הױאַן	hWAaN	_
+
+SENT	1507W-BOVO,100.732
+1	eynr	D	אײנר	AYnr	_
+2	iln	N	אילן	AylN	_
+3	hukh	ADV	הוך	hvX	_
+4	makht	VBF	מאַכט	mAaxt	_
+5	er	PRO	ער	er	_
+6	es	PRO	עס	es	_
+7	oyf	RP	אױף	AWF	_
+8	springn	VB	ספּרינגן	spryngN	_
+9	vun	P	װוּן	VUN	_
+10	der	D	דער	der	_
+11	erd	N	ערד	erd	_
+
+SENT	1507W-BOVO,100.733
+1	di	D	די	dy	_
+2	gnts	ADJ	גנץ	gnQ	_
+3	stt	N	סטט	stt	_
+4	vs	BEF	װס	Vs	_
+5	im	PRO	אים	AyM	_
+6	nukh	RP	נוך	nvX	_
+7	shoyan	VAG	שױאַן	$WAaN	_
+
+SENT	1507W-BOVO,100.734
+1	da	C	דאַ	dAa	_
+2	in	PRO	אין	AyN	_
+3	zakh	VBF	זאַך	zAaX	_
+4	di	D	די	dy	_
+5	yung_vroy	N	יונג_װרױ	yvng_VrW	_
+6	verd	ADJ	װערד	Verd	_
+7	da	ADV	דאַ	dAa	_
+8	sprkh	VBF	ספּרך	sprX	_
+9	zi	PRO	זי	zy	_
+10	tsu	P	צו	qv	_
+11	irn	PRO$	אירן	AyrN	_
+12	yunk_vroyan	N	יונק_װרױאַן	yvnk_VrWAaN	_
+13	udr	CONJ	אודר	Avdr	_
+14	ikh	PRO	איך	AyX	_
+15	mus	MDF	מוס	mvs	_
+16	da	ADV	דאַ	dAa	_
+17	hin_ab	ADV	הינ_אַב	hyn_Aab	_
+18-19	vum	P~D	װוּם	VUM	_
+18	vu	P	װוּ	VU	_
+19	m	D	מ	m	_
+20	uenstr	N	אוענסטר	Avenstr	_
+21	platsn	VB	פּלאַצן	plAaqN	_
+
+SENT	1507W-BOVO,100.735
+1	meyn	PRO$	מײן	mYN	_
+2	leb_tg	N	לעב_טג	leb_tg	_
+3	zkh	VBF	זך	zX	_
+4	ikh	PRO	איך	AyX	_
+5	keyn	Q	קײן	kYN	_
+6	hupshrn	ADJR	הופּשרן	hvp$rN	_
+7	rigatsn	N	ריגאַצן	rygAaqN	_
+
+SENT	1507W-BOVO,101.737
+1	dr_nukh	DR+P	דר_נוך	dr_nvX	_
+2	bigund	VBF	ביגונד	bygvnd	_
+3	zi	PRO	זי	zy	_
+4	in	P	אין	AyN	_
+5	ir	PRO	איר	Ayr	_
+6	zelbrt	ADV	זעלברט	zelbrt	_
+7	tsu	TO	צו	qv	_
+8	gedenkn	VB	געדענקן	gedenkN	_
+9	akh	INTJ	אַך	AaX	_
+10	gt	NPR	גט	gt	_
+11	vi	WADV	װי	Vy	_
+12	iz	VBF	איז	Ayz	_
+13	ds	D	דס	ds	_
+14	der	D	דער	der	_
+15	shunstn	ADJS	שונסטן	$vnstN	_
+16	knabn	N	קנאַבן	knAabN	_
+
+SENT	1507W-BOVO,101.738
+1	vs	WPRO	װס	Vs	_
+2	gelt	N	געלט	gelt	_
+3	un'	CONJ	אונ'	Avn'	_
+4	gut	N	גוט	gvt	_
+5	valt	MDF	װאַלט	VAalt	_
+6	ikh	PRO	איך	AyX	_
+7	drum	DR+P	דרום	drvM	_
+8	senkn	VB	סענקן	senkN	_
+9	ds	C	דס	ds	_
+10	ikh	PRO	איך	AyX	_
+11	eyn	D	אײן	AYN	_
+12	zulkhn	ADJ	זולכן	zvlxN	_
+13	man	N	מאַן	mAaN	_
+14	zult	MDF	זולט	zvlt	_
+15	hbn	VB	הבן	hbN	_
+
+SENT	1507W-BOVO,101.739
+1	zeyn	PRO$	זײן	zYN	_
+2	sunheyt	N	סונהײט	svnhYt	_
+3	hut	HVF	הוט	hvt	_
+4	mikh	PRO	מיך	myX	_
+5	gnts	ADV	גנץ	gnQ	_
+6	tun	DON-IPP	טון	tvN	_
+7	krenkn	VB	קרענקן	krenkN	_
+
+SENT	1507W-BOVO,101.740
+1	ver	VBF	װער	Ver	_
+2	er	PRO	ער	er	_
+3	bey	P	בײ	bY	_
+4	mir	PRO	מיר	myr	_
+5	er	PRO	ער	er	_
+6	must	MDF	מוסט	mvst	_
+7	mikh	PRO	מיך	myX	_
+8	labn	VB	לאַבן	lAabN	_
+
+SENT	1507W-BOVO,101.741
+1	zul	MDF	זול	zvl	_
+2	ikh	PRO	איך	AyX	_
+3	in	PRO	אין	AyN	_
+4	nit	NEG	ניט	nyt	_
+5	bald	ADV	באַלד	bAald	_
+6	vidr_zehn	VB	װידר_זעהן	Vydr_zehN	_
+7	za	ADV	זאַ	zAa	_
+8	veys	VBF	װײס	VYs	_
+9	ikh	PRO	איך	AyX	_
+10	nit	NEG	ניט	nyt	_
+11	vi	WADV	װי	Vy	_
+12	mir	PRO	מיר	myr	_
+13	zul	MDF	זול	zvl	_
+14	gisehn	VB	גיסעהן	gysehN	_
+

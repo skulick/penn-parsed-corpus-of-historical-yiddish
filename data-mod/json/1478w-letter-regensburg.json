@@ -1,0 +1,674 @@
+[
+    {
+        "leaves": [],
+        "tree": "(CODE <BEGIN_1478w-letter>)",
+        "tree_id": "notreeid"
+    },
+    {
+        "leaves": [],
+        "tree": "(CODE <P_156>)",
+        "tree_id": "notreeid"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "liebe",
+                "start": 1,
+                "ycode": "lyiebe",
+                "yid": "ליִעבע"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "froyndin",
+                "start": 2,
+                "ycode": "frWndyN",
+                "yid": "פֿרױנדין"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": ",",
+                "start": 3,
+                "ycode": ",",
+                "yid": ","
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "du",
+                "start": 4,
+                "ycode": "dv",
+                "yid": "דו"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "liebe",
+                "start": 5,
+                "ycode": "lyiebe",
+                "yid": "ליִעבע"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "kron",
+                "start": 6,
+                "ycode": "krAoN",
+                "yid": "קראָן"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": ",",
+                "start": 7,
+                "ycode": ",",
+                "yid": ","
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "ikh",
+                "start": 8,
+                "ycode": "AyX",
+                "yid": "איך"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "kasven",
+                "start": 9,
+                "ycode": "KS~eN",
+                "yid": "כּתבֿען"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "dir",
+                "start": 10,
+                "ycode": "dyr",
+                "yid": "דיר"
+            },
+            {
+                "ltype": "st",
+                "pos": "Q",
+                "rom": "fil",
+                "start": 11,
+                "ycode": "fyl",
+                "yid": "פֿיל"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": ",",
+                "start": 12,
+                "ycode": ",",
+                "yid": ","
+            }
+        ],
+        "tree": "(IP-MAT (NP-VOC (ADJ liebe) (N froyndin)) (PUNC ,) (NP-VOC (PRO du) (ADJ liebe) (N kron)) (PUNC ,) (NP-SBJ (PRO ikh)) (VBF kasven) (NP-DTV (PRO dir)) (CODE (-NONE- {TEXT:di})) (NP-MSR (Q fil)) (PUNC ,))",
+        "tree_id": "1478W-LETTER-REGENSBURG,156.3"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "du",
+                "start": 1,
+                "ycode": "dv",
+                "yid": "דו"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "entv{erst}",
+                "start": 2,
+                "ycode": "entV{erst}",
+                "yid": "ענטװ{ערסט}"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "mir",
+                "start": 3,
+                "ycode": "myr",
+                "yid": "מיר"
+            },
+            {
+                "ltype": "st",
+                "pos": "Q",
+                "rom": "nikhtsit",
+                "start": 4,
+                "ycode": "nyxqyt",
+                "yid": "ניכציט"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": ".",
+                "start": 5,
+                "ycode": ".",
+                "yid": "."
+            }
+        ],
+        "tree": "(IP-MAT (NP-SBJ (PRO du)) (VBF entv{erst}) (NP-DTV (PRO mir)) (NP-MSR (Q nikhtsit)) (PUNC .))",
+        "tree_id": "1478W-LETTER-REGENSBURG,156.4"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "C",
+                "rom": "ob",
+                "start": 1,
+                "ycode": "Aob",
+                "yid": "אָב"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "du",
+                "start": 2,
+                "ycode": "dv",
+                "yid": "דו"
+            },
+            {
+                "ltype": "st",
+                "pos": "NEG",
+                "rom": "nit",
+                "start": 3,
+                "ycode": "nyt",
+                "yid": "ניט"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "kasven",
+                "start": 4,
+                "ycode": "KS~eN",
+                "yid": "כּתבֿען"
+            },
+            {
+                "ltype": "st",
+                "pos": "MDF",
+                "rom": "kanst",
+                "start": 5,
+                "ycode": "kAanst",
+                "yid": "קאַנסט"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "on",
+                "start": 6,
+                "ycode": "AoN",
+                "yid": "אָן"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "di",
+                "start": 7,
+                "ycode": "dy",
+                "yid": "די"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "inoyem",
+                "start": 8,
+                "ycode": "AynWeM",
+                "yid": "אינױעם"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": "?",
+                "start": 9,
+                "ycode": "?",
+                "yid": "?"
+            }
+        ],
+        "tree": "(CP-QUE-SUB (C ob) (IP-SUB (NP-SBJ (PRO du)) (NEG nit) (VB kasven) (MDF kanst) (PP (P on) (NP (D di) (N inoyem)))) (PUNC ?))",
+        "tree_id": "1478W-LETTER-REGENSBURG,156.5"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "ikh",
+                "start": 1,
+                "ycode": "AyX",
+                "yid": "איך"
+            },
+            {
+                "ltype": "st",
+                "pos": "RDF",
+                "rom": "ver",
+                "start": 2,
+                "ycode": "Ver",
+                "yid": "װער"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "morgen",
+                "start": 3,
+                "ycode": "mAorgeN",
+                "yid": "מאָרגען"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "mit",
+                "start": 4,
+                "ycode": "myt",
+                "yid": "מיט"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "dem",
+                "start": 5,
+                "ycode": "deM",
+                "yid": "דעם"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "iren",
+                "start": 6,
+                "ycode": "AyreN",
+                "yid": "אירען"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "reden",
+                "start": 7,
+                "ycode": "redeN",
+                "yid": "רעדען"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": ",",
+                "start": 8,
+                "ycode": ",",
+                "yid": ","
+            },
+            {
+                "ltype": "st",
+                "pos": "C",
+                "rom": "ob",
+                "start": 9,
+                "ycode": "Aob",
+                "yid": "אָב"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "ikh",
+                "start": 10,
+                "ycode": "AyX",
+                "yid": "איך"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO$",
+                "rom": "deyn",
+                "start": 11,
+                "ycode": "dYN",
+                "yid": "דײן"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "zakh",
+                "start": 12,
+                "ycode": "zAaX",
+                "yid": "זאַך"
+            },
+            {
+                "ltype": "st",
+                "pos": "MDF",
+                "rom": "kont",
+                "start": 13,
+                "ycode": "kAont",
+                "yid": "קאָנט"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "tsu",
+                "start": 14,
+                "ycode": "qv",
+                "yid": "צו"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "guet",
+                "start": 15,
+                "ycode": "gvet",
+                "yid": "גועט"
+            },
+            {
+                "ltype": "st",
+                "pos": "RP",
+                "rom": "ous",
+                "start": 16,
+                "ycode": "Aovs",
+                "yid": "אָוס"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "makhen",
+                "start": 17,
+                "ycode": "mAaxeN",
+                "yid": "מאַכען"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": ".",
+                "start": 18,
+                "ycode": ".",
+                "yid": "."
+            }
+        ],
+        "tree": "(IP-MAT (NP-SBJ (PRO ikh)) (RDF ver) (ADVP-TMP (ADV morgen)) (PP (P mit) (NP (D dem) (N iren))) (VB reden) (PUNC ,) (CP-QUE-SUB (C ob) (IP-SUB (NP-SBJ (PRO ikh)) (NP-ACC (PRO$ deyn) (N zakh)) (MDF kont) (PP (P tsu) (NP (N guet))) (RP ous) (VB makhen))) (PUNC .))",
+        "tree_id": "1478W-LETTER-REGENSBURG,156.6"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "VBI",
+                "rom": "shik",
+                "start": 1,
+                "ycode": "$yk",
+                "yid": "שיק"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "di",
+                "start": 2,
+                "ycode": "dy",
+                "yid": "די"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "haub",
+                "start": 3,
+                "ycode": "hAavb",
+                "yid": "האַוב"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "vider",
+                "start": 4,
+                "ycode": "Vyder",
+                "yid": "װידער"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "heraus",
+                "start": 5,
+                "ycode": "herAavs",
+                "yid": "העראַוס"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": ".",
+                "start": 6,
+                "ycode": ".",
+                "yid": "."
+            }
+        ],
+        "tree": "(IP-IMP (VBI shik) (NP-ACC (D di) (N haub)) (ADVP (ADV vider)) (ADVP-DIR (ADV heraus)) (PUNC .))",
+        "tree_id": "1478W-LETTER-REGENSBURG,156.7"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "VBI",
+                "rom": "hays",
+                "start": 1,
+                "ycode": "hYas",
+                "yid": "הײַס"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "das",
+                "start": 2,
+                "ycode": "dS",
+                "yid": "דת"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "lokh",
+                "start": 3,
+                "ycode": "lAoX",
+                "yid": "לאָך"
+            },
+            {
+                "ltype": "st",
+                "pos": "DR+P",
+                "rom": "doheran",
+                "start": 4,
+                "ycode": "dAoherAaN",
+                "yid": "דאָהעראַן"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "fer_makhen",
+                "start": 5,
+                "ycode": "fer_mAaxeN",
+                "yid": "פֿער_מאַכען"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": ".",
+                "start": 6,
+                "ycode": ".",
+                "yid": "."
+            }
+        ],
+        "tree": "(IP-IMP (VBI hays) (IP-INF (NP-SBJ (-NONE- *arb*)) (NP-ACC (D das) (N lokh) (PP (DR+P doheran))) (VB fer_makhen)) (PUNC .))",
+        "tree_id": "1478W-LETTER-REGENSBURG,156.8"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "VBI",
+                "rom": "kokh",
+                "start": 1,
+                "ycode": "kAoX",
+                "yid": "קאָך"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "rayn",
+                "start": 2,
+                "ycode": "rYaN",
+                "yid": "רײַן"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "pulver",
+                "start": 3,
+                "ycode": "pvlVer",
+                "yid": "פּולװער"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "in",
+                "start": 4,
+                "ycode": "AyN",
+                "yid": "אין"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "aynem",
+                "start": 5,
+                "ycode": "AYaneM",
+                "yid": "אײַנעם"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "apel",
+                "start": 6,
+                "ycode": "Aapel",
+                "yid": "אַפּעל"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": ".",
+                "start": 7,
+                "ycode": ".",
+                "yid": "."
+            }
+        ],
+        "tree": "(IP-IMP (VBI kokh) (NP-ACC (ADJ rayn) (N pulver)) (PP (P in) (NP (D aynem) (N apel))) (PUNC .))",
+        "tree_id": "1478W-LETTER-REGENSBURG,156.9"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "host",
+                "start": 1,
+                "ycode": "hAost",
+                "yid": "האָסט"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "vol",
+                "start": 2,
+                "ycode": "VAol",
+                "yid": "װאָל"
+            },
+            {
+                "gloss": "the",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "h",
+                "start": 3,
+                "ycode": "h",
+                "yid": "ה"
+            },
+            {
+                "gloss": "UNKNOWN",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "yomem",
+                "start": 4,
+                "ycode": "yAomeM",
+                "yid": "יאָמעם"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": ".",
+                "start": 5,
+                "ycode": ".",
+                "yid": "."
+            }
+        ],
+        "tree": "(IP-MAT (NP-SBJ (-NONE- *2s*)) (VBF host) (ADVP (ADV vol)) (NP-ACC (H h) (H yomem)) (PUNC .))",
+        "tree_id": "1478W-LETTER-REGENSBURG,156.10"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "VBI",
+                "rom": "shrayb",
+                "start": 1,
+                "ycode": "$rYab",
+                "yid": "שרײַב"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "guet",
+                "start": 2,
+                "ycode": "gvet",
+                "yid": "גועט"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "doytsh",
+                "start": 3,
+                "ycode": "dWt$",
+                "yid": "דױטש"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": ".",
+                "start": 4,
+                "ycode": ".",
+                "yid": "."
+            }
+        ],
+        "tree": "(IP-IMP (VBI shrayb) (NP-ACC (ADJ guet) (N doytsh)) (PUNC .))",
+        "tree_id": "1478W-LETTER-REGENSBURG,156.11"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "X",
+                "rom": "nay",
+                "start": 1,
+                "ycode": "nYa",
+                "yid": "נײַ"
+            },
+            {
+                "ltype": "st",
+                "pos": "X",
+                "rom": "ayn",
+                "start": 2,
+                "ycode": "AYaN",
+                "yid": "אײַן"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": ".",
+                "start": 3,
+                "ycode": ".",
+                "yid": "."
+            }
+        ],
+        "tree": "(FRAG (X nay) (X ayn) (PUNC .))",
+        "tree_id": "1478W-LETTER-REGENSBURG,156.12"
+    }
+]

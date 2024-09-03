@@ -1,0 +1,3272 @@
+SENT	1648W-KINE,198.3
+1	kinh	H	קינה	kynh	lament
+2	el	H	על	el	on
+3	gzirut	H	גזירוט	gzyrvt	decrees
+4	hkhilut	H	הכילוט	hxylvt	the_communities
+5	dk"k	H	דק"ק	dk"k	that_community_holy
+6	akr"eyni	H	אַקר"אײני	Aakr"AYny	Ukraine
+7	.	PUNC	.	.	_
+
+SENT	1648W-KINE,198.4
+1	ir	PRO	איר	Ayr	_
+2	libn	ADJ	ליבן	lybN	_
+3	rbuti	N	רבוטי	rbvty	_
+4	,	PUNC	,	,	_
+5	vist	VBI	װיסט	Vyst	_
+6	,	PUNC	,	,	_
+7	az	C	אַז	Aaz	_
+8	di	D	די	dy	_
+9	kinh	N	קינה	kynh	_
+10	gar	ADV	גאַר	gAar	_
+11	shin	ADV	ש	$	_
+12	oyf	P	אױף	AWF	_
+13	lsun	H	לסון	lsvN	language
+14	hkuds	H	הקודס	hkvds	the_holy
+15	gimkht	VAN	גימכט	gymxt	_
+16	izt	BEF	איזט	Ayzt	_
+
+SENT	1648W-KINE,198.5
+1	un	CONJ	און	AvN	_
+2	dr_veyl	C	דר_װײל	dr_VYl	_
+3	fil	Q	פֿיל	fyl	_
+4	leyt	N	לײט	lYt	_
+5	nit	NEG	ניט	nyt	_
+6	kenin	MDF	קענין	kenyN	_
+7	ez	PRO	עז	ez	_
+8	fr_stin	VB	פֿר_סטין	fr_styN	_
+9	ken	MDF	קען	keN	_
+10	ez	PRO	עז	ez	_
+11	nit	NEG	ניט	nyt	_
+12	azu	ADV	אַזו	Aazv	_
+13-14	tsum	P~D	צום	qvM	_
+13	tsu	P	צו	qv	_
+14	m	D	מ	m	_
+15	hertsn	N	הערצן	herqN	_
+16	gin	VB	גין	gyN	_
+
+SENT	1648W-KINE,198.6
+1	habn	HVF	האַבן	hAabN	_
+2	gibetn	VBN	גיבעטן	gybetN	_
+3	leyt	N	לײט	lYt	_
+4	kign	P	קיגן	kygN	_
+5	der	D	דער	der	_
+6	heyligi	ADJ	הײליגי	hYlygy	_
+7	tseyt	N	צײט	qYt	_
+8	in	P	אין	AyN	_
+9	deytshn	N	דײטשן	dYt$N	_
+10	tsu	TO	צו	qv	_
+11	drukn	VB	דרוקן	drvkN	_
+12	hlbi	ADJ	הלבי	hlby	_
+13	virtl_bign	N	װירטל_ביגן	Vyrtl_bygN	_
+14	in	P	אין	AyN	_
+15	sdur	N	סדור	sdvr	_
+16	tsu	TO	צו	qv	_
+17	lign	VB	ליגן	lygN	_
+18	got	NPR	גאָט	gAot	_
+19	straf	N	סטראַף	strAaF	_
+20	far	P	פֿאַר	fAar	_
+21	zikh	PRO	זיך	zyX	_
+22	zehn	VB	זעהן	zehN	_
+23	zikh	PRO	זיך	zyX	_
+24	tsu	P	צו	qv	_
+25	gats_farkht	N	גאַצ_פֿאַרכט	gAaq_fAarxt	_
+26	ginehn	VB	גינעהן	gynehN	_
+
+SENT	1648W-KINE,198.7
+1	darinn	ADV	דאַרינן	dAarynN	_
+2	vert	RDF	װערט	Vert	_
+3	als	Q	אַלס	Aals	_
+4	bkitsur	ADV	בקיצור	bkyqvr	_
+5	lezn	VB	לעזן	lezN	_
+6	az	P	אַז	Aaz	_
+7	ver	BEF	װער	Ver	_
+8	er	PRO	ער	er	_
+9	zelbrt	ADV	זעלברט	zelbrt	_
+10	dr_bey	DR+P	דר_בײ	dr_bY	_
+11	givezn	VBN	גיװעזן	gyVezN	_
+12	vas	WPRO	װאַס	VAas	_
+13	zikh	PRO	זיך	zyX	_
+14	far	P	פֿאַר	fAar	_
+15	mesim	N	מעסים	mesyM	_
+16	habn	HVF	האַבן	hAabN	_
+17	far_lafn	VBN	פֿאַר_לאַפֿן	fAar_lAafN	_
+18	un	CONJ	און	AvN	_
+19	eyn	D	אײן	AYN	_
+20	teyl	N	טײל	tYl	_
+21	khlut	N	כלוט	xlvt	_
+22	di	WPRO	די	dy	_
+23	es	PRO	עס	es	_
+24	hat	HVF	האַט	hAat	_
+25	gitrafn	VBN	גיטראַפֿן	gytrAafN	_
+
+SENT	1648W-KINE,198.8
+1	ver	WPRO	װער	Ver	_
+2	vert	RDF	װערט	Vert	_
+3	leyann	VB	לײאַנן	lYAanN	_
+4	di	D	די	dy	_
+5	kinh	N	קינה	kynh	_
+6	vert	RDF	װערט	Vert	_
+7	zikh	PRO	זיך	zyX	_
+8	gvis	ADV	גװיס	gVys	_
+9	bzinh	VB	בזינה	bzynh	_
+10	tsubh	H	צובה	qvbh	repentance
+11	tfilh	H	טפֿילה	tfylh	prayer
+12	tsdkh	H	צדך	qdX	charity
+13	tsu	TO	צו	qv	_
+14	tan	VB	טאַן	tAaN	_
+
+SENT	1648W-KINE,198.9
+1	az	C	אַז	Aaz	_
+2	er	PRO	ער	er	_
+3	zal	MDF	ז"ל	z"l	_
+4	mal	ADV	מל	ml	_
+5	oyf	RP	אױף	AWF	_
+6	hern	VB	הערן	herN	_
+7	lan	VB	לאַן	lAaN	_
+8	kign	P	קיגן	kygN	_
+9	gzirut	H	גזירוט	gzyrvt	decrees
+10	lnd	N	לנד	lnd	_
+11	akrey"ni	NPR	אַקרײ"ני	AakrY"ny	_
+12	lit"a	NPR	ליט"אַ	lyt"Aa	_
+13	merri"n	NPR	מעררי"נ	merry"n	_
+14	bld	ADV	בלד	bld	_
+15	in	P	אין	AyN	_
+16	heylgn	ADJ	הײלגן	hYlgN	_
+17	land	N	לאַנד	lAand	_
+18	firn	VB	פֿירן	fyrN	_
+
+SENT	1648W-KINE,198.10
+1	ver	WPRO	װער	Ver	_
+2	zi	PRO	זי	zy	_
+3	hat	HVF	האַט	hAat	_
+4	gimkht	VBN	גימכט	gymxt	_
+5	vil	MDF	װיל	Vyl	_
+6	ikh	PRO	איך	AyX	_
+7	zagn	VB	זאַגן	zAagN	_
+
+SENT	1648W-KINE,198.11
+1	der	D	דער	der	_
+2	shvid	N	שװיד	$Vyd	_
+3	hat	HVF	האַט	hAat	_
+4	in	PRO	אין	AyN	_
+5	akh	ADV	אַך	AaX	_
+6	tun	DON-IPP	טון	tvN	_
+7	yagn	VB	יאַגן	yAagN	_
+8	oyz	P	אױז	AWz	_
+9	zeynm	PRO$	זײנם	zYnM	_
+10	steyni_hoyz	N	סטײני_הױז	stYny_hWz	_
+
+SENT	1648W-KINE,198.12
+1	itsund	ADV	איצונד	Ayqvnd	_
+2	eyn	D	אײן	AYN	_
+3	mlmd	N	מלמד	mlmd	_
+4	in	P	אין	AyN	_
+5	der	D	דער	der	_
+6	kloyz	N	קלױז	klWz	_
+7	dr_veyl	C	דר_װײל	dr_VYl	_
+8	za	ADV	זאַ	zAa	_
+9	eyn	D	אײן	AYN	_
+10	tsrh	N	צרה	qrh	_
+11	iz	BEF	איז	Ayz	_
+12	kumn	VBN	קומן	kvmN	_
+
+SENT	1648W-KINE,198.13
+1	gilernt	VBN	גילערנט	gylernt	_
+2	fun	P	פֿון	fvN	_
+3	abinu	H	אַבינו	Aabynv	father_our
+4	iekb	NPR	איעקב	Ayekb	_
+5	der	D	דער	der	_
+6	frumr	N	פֿרומר	frvmr	_
+7	mhnh_usfiza	RP-H	מהנה_וספֿיזאַ	mhnh_vsfyzAa	_
+8	tsu	TO	צו	qv	_
+9	zeyn	VB	זײן	zYN	_
+10	un	CONJ	און	AvN	_
+11	bhitn	VB	בהיטן	bhytN	_
+12	veytr	ADVR	װײטר	VYtr	_
+13	fr	P	פֿר	fr	_
+14	feyn	ADJ	פֿײן	fYN	_
+
+SENT	1648W-KINE,198.14
+1	tut	DOI	טוט	tvt	_
+2	eyn	D	אײן	AYN	_
+3	mtsuh	N	מצוה	mqvh	_
+4	koyfn	VB	קױפֿן	kWfN	_
+5	gshvind	ADV	גשװינד	g$Vynd	_
+6	dr_tsu	DR+P	דר_צו	dr_qv	_
+7	loyfn	VB	לױפֿן	lWfN	_
+
+SENT	1648W-KINE,198.15
+1	lazt	VBI	לאַזט	lAazt	_
+2	zi	PRO	זי	zy	_
+3	nit	NEG	ניט	nyt	_
+4	zeyn	VB	זײן	zYN	_
+5	tsu	ADV	צו	qv	_
+6	teyar	ADJ	טײאַר	tYAar	_
+
+SENT	1648W-KINE,198.16
+1	mn	PRO	מן	mN	_
+2	gibt	VBF	גיבט	gybt	_
+3	dakh	ADV	דאַך	dAaX	_
+4	fr	P	פֿר	fr	_
+5	eyn	D	אײן	AYN	_
+6	brib	N	בריב	bryb	_
+7	eyn	D	אײן	AYN	_
+8	dreyar	N	דרײאַר	drYAar	_
+
+SENT	1648W-KINE,198.17
+1	bzkhut	H	בזכוט	bzxvt	in_merit
+2	zh	H	זש	z$	this
+3	uns	PRO	אונס	Avns	_
+4	dr_lizn	VB	דר_ליזן	dr_lyzN	_
+5	fun	P	פֿון	fvN	_
+6	hend	N	הענד	hend	_
+7	di	D	די	dy	_
+8	bizn	N	ביזן	byzN	_
+9	iruslim	NPR	אירוסלים	AyrvslyM	_
+10	tsu	TO	צו	qv	_
+11	zehn	VB	זעהן	zehN	_
+12	krbnut	N	קרבנוט	krbnvt	_
+13	binehn	VB	בינעהן	bynehN	_
+14	kign	P	קיגן	kygN	_
+15	der	D	דער	der	_
+16	kinh	N	קינה	kynh	_
+17	ba	H	באַ	bAa	UNKNOWN
+18	iba	H	איבאַ	AybAa	UNKNOWN
+19	rnh	H	רנה	rnh	UNKNOWN
+20	di	D	די	dy	_
+21	fr_spreytn	ADJ	פֿר_ספּרײטן	fr_sprYtN	_
+22	tsu	P	צו	qv	_
+23	anndr	PRO	אַננדר	Aanndr	_
+24	treybn	VB	טרײבן	trYbN	_
+25	in	P	אין	AyN	_
+26	sfr	H	ספֿר	sfr	book
+27	khaim	H	חײם	HYM	life
+28	eyn	RP	אײן	AYN	_
+29	shreybn	VB	שרײבן	$rYbN	_
+
+SENT	1648W-KINE,198.18
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	nigun	N	ניגון	nygvN	_
+4	git	VBF	גיט	gyt	_
+5	az	P	אַז	Aaz	_
+6	oyf	P	אױף	AWF	_
+7	adir	H	אַדיר	Aadyr	mighty
+8	yum	H	יום	yvM	day
+9	unura	H	אונוראַ	AvnvrAa	and_awe-inspiring
+
+SENT	1648W-KINE,199.1.20
+1	ir	PRO	איר	Ayr	_
+2	libi	ADJ	ליבי	lyby	_
+3	freynd	N	פֿרײנד	frYnd	_
+4	lat	VBI	לאַט	lAat	_
+5	uns	PRO	אונס	Avns	_
+6	veynn	VB	װײנן	VYnN	_
+7	un	CONJ	און	AvN	_
+8	klagn	VB	קלאַגן	klAagN	_
+9	oyf	P	אױף	AWF	_
+10	di	D	די	dy	_
+11	gzrut	N	גזרוט	gzrvt	_
+12	vas	C	װאַס	VAas	_
+13	gisehn	VBN	גיסעהן	gysehN	_
+14	zeyn	BEF	זײן	zYN	_
+15	in	P	אין	AyN	_
+16	unzrn	PRO$	אונזרן	AvnzrN	_
+17	tagn	N	תּגין	TgyN	_
+
+SENT	1648W-KINE,199.1.21
+1	bsnh	H	בסנה	bsnh	in_year
+2	khbl"i	H	כבל"אי	xbl"Ay	UNKNOWN
+3	msi"h	H	מסי"ה	msy"h	Messiah
+4	tetn	DOF	טעטן	tetN	_
+5	uns	PRO	אונס	Avns	_
+6	kaskin	N	קאַסקין	kAaskyN	_
+7	yagn	VB	יאַגן	yAagN	_
+8	mit	P	מיט	myt	_
+9	grus	ADJ	גרוס	grvs	_
+10	akhzriut	N	אַכזריִוט	Aaxzryivt	_
+
+SENT	1648W-KINE,199.1.22
+1	iz	VBF	איז	Ayz	_
+2	nit	NEG	ניט	nyt	_
+3	miglkh	ADJ	מיגלך	myglX	_
+4	tsu	TO	צו	qv	_
+5	zagn	VB	זאַגן	zAagN	_
+
+SENT	1648W-KINE,199.2.24
+1	bfrt	ADV	בפֿרט	bfrt	_
+2	ir	PRO	איר	Ayr	_
+3	frumi	ADJ	פֿרומי	frvmy	_
+4	veybr	N	װײבר	VYbr	_
+5	un	CONJ	און	AvN	_
+6	meydn	N	מײדן	mYdN	_
+7	vi	WADV	װי	Vy	_
+8	iz	BEF	איז	Ayz	_
+9	far_stert	VAN	פֿאַר_סטערט	fAar_stert	_
+10	vardn	RDN	װאַרדן	VAardN	_
+11	unzr	PRO$	אונזר	Avnzr	_
+12	freydn	N	פֿרײדן	frYdN	_
+
+SENT	1648W-KINE,199.2.25
+1	ez	ES	עז	ez	_
+2	iz	VBF	איז	Ayz	_
+3	bilkh	ADJ	בילך	bylX	_
+4	tsu	TO	צו	qv	_
+5	reysn	VB	רײסן	rYsN	_
+6	di	D	די	dy	_
+7	kleydn	N	קלײדן	klYdN	_
+
+SENT	1648W-KINE,199.2.26
+1	azu	ADJ	אַזו	Aazv	_
+2	vi	N	װי	Vy	_
+3	gshrian	VBN	גשריִאַן	g$ryiAaN	_
+4	ibr	P	איבר	Aybr	_
+5	der	D	דער	der	_
+6	grusi	ADJ	גרוסי	grvsy	_
+7	leydn	N	לײדן	lYdN	_
+
+SENT	1648W-KINE,199.3.28
+1	grus	ADJ	גרוס	grvs	_
+2	nemrab	N	נעמראַב	nemrAab	_
+3	di	D	די	dy	_
+4	khlh	H	כלה	xlh	community
+5	kdush	H	קדוש	kdv$	holy
+6	fr_lngn	VBF	פֿר_לנגן	fr_lngN	_
+
+SENT	1648W-KINE,199.3.29
+1	velin	MDF	װעלין	VelyN	_
+2	shreybn	VB	שרײבן	$rYbN	_
+3	vi	WADV	װי	Vy	_
+4	ez	PRO	עז	ez	_
+5	beunutinu	H	בעונוטינו	bevnvtynv	for_sins_our
+6	hrbim	H	הרבים	hrbyM	the_many
+7	iz	BEF	איז	Ayz	_
+8	der_gngn	VBN	דער_גנגן	der_gngN	_
+
+SENT	1648W-KINE,199.3.30
+1	mit	P	מיט	myt	_
+2	kasis	N	קאַסיס	kAasys	_
+3	zenn	BEF	זענן	zenN	_
+4	di	D	די	dy	_
+5	rseim	N	רסעיִם	rseyiM	_
+6	gilafin	VBN	גילאַפֿין	gylAafyN	_
+7	az	C	אַז	Aaz	_
+8	men	PRO	מען	meN	_
+9	shneyd	N	שנײד	$nYd	_
+10	zngn	VBF	זנגן	zngN	_
+
+SENT	1648W-KINE,199.3.31
+1	zi	PRO	זי	zy	_
+2	hetn	HVF	העטן	hetN	_
+3	zikh	PRO	זיך	zyX	_
+4	librst	ADV	ליברסט	lybrst	_
+5	lazn	VBN-IPP	לאַזן	lAazN	_
+6	fun	P	פֿון	fvN	_
+7	tatrin	N	טאַטרין	tAatryN	_
+8	fangin	VB	פֿאַנגין	fAangyN	_
+
+SENT	1648W-KINE,200.4.33
+1	der	D	דער	der	_
+2	yask"i	NPR	יאַסק"אי	yAask"Ay	_
+3	un	CONJ	און	AvN	_
+4	der	D	דער	der	_
+5	alksnd"r	NPR	אַלקסנד"ר	Aalksnd"r	_
+6	di	D	די	dy	_
+7	sunaim	N	סונאַיִם	svnAayiM	_
+8	imkh	H	אימך	AymX	may_be_erased
+9	smm	H	סמם	smM	name_their
+10	eynr	PRO	אײנר	AYnr	_
+11	vi	P	װי	Vy	_
+12	der	D	דער	der	_
+13	andr	ADJ	אַנדר	Aandr	_
+14	vi	C	װי	Vy	_
+15	zi	PRO	זי	zy	_
+16	zakhn	VBF	זאַכן	zAaxN	_
+17	zibntsehn	NUM	זיבנצעהן	zybnqehN	_
+18	khilut	H	כילוט	xylvt	communities
+19	kdusut	H	קדוסוט	kdvsvt	holy
+20	kamn	VB	קאַמן	kAamN	_
+21	tsu	P	צו	qv	_
+22	anndr	PRO	אַננדר	Aanndr	_
+23	azu	ADV	אַזו	Aazv	_
+24	bald	ADV	באַלד	bAald	_
+25	zamltn	VBF	זאַמלטן	zAamltN	_
+26	zi	PRO	זי	zy	_
+27	zikh	PRO	זיך	zyX	_
+28	oyz	P	אױז	AWz	_
+29	ali	Q	אַלי	Aaly	_
+30	lndn	N	לנדן	lndN	_
+
+SENT	1648W-KINE,200.5.35
+1	habn	HVF	האַבן	hAabN	_
+2	zikh	PRO	זיך	zyX	_
+3-4	tsum	P~D	צום	qvM	_
+3	tsu	P	צו	qv	_
+4	m	D	מ	m	_
+5	erstn	ADJ	ערסטן	erstN	_
+6	nist	NEG	ניסט	nyst	_
+7	in	P	אין	AyN	_
+8	az	ADV	אַז	Aaz	_
+9	fi{?}	Q	פֿי{?}	fy{?}	_
+10	lazn	VBN-IPP	לאַזן	lAazN	_
+11	zehn	VB	זעהן	zehN	_
+
+SENT	1648W-KINE,200.5.36
+1	klumr	H	קלומר	klvmr	that_is_to_say
+2	msuh	H	מסוה	msvh	comparable
+3	zeyn	VB	זײן	zYN	_
+4	tetn	DOF	טעטן	tetN	_
+5	zi	PRO	זי	zy	_
+6	yehn	VB	יעהן	yehN	_
+
+SENT	1648W-KINE,200.5.37
+1	abr	CONJ	אַבר	Aabr	_
+2	di	D	די	dy	_
+3	stat_leyt	N	סטאַט_לײט	stAat_lYt	_
+4	tetn	DOF	טעטן	tetN	_
+5	inn	PRO	אינן	AynN	_
+6	di	D	די	dy	_
+7	kep	N	קעפּ	kep	_
+8	fr_drehn	VB	פֿר_דרעהן	fr_drehN	_
+
+SENT	1648W-KINE,200.5.38
+1	di	D	די	dy	_
+2	mkh	N	מך	mX	_
+3	iz	BEF	איז	Ayz	_
+4	leydr	ADV	לײדר	lYdr	_
+5	yum	H	יום	yvM	day
+6	d	H	ד	d	4
+7	kh	H	כ	x	month
+8	siun	H	סיִון	syivN	Sivan
+9	gisehn	VBN	גיסעהן	gysehN	_
+
+SENT	1648W-KINE,200.6.40
+1	varn	BEF	װאַרן	VAarN	_
+2	zikh	PRO	זיך	zyX	_
+3	vidr	ADV	װידר	Vydr	_
+4	gshvind	ADV	גשװינד	g$Vynd	_
+5	zetsn	VAG	זעצן	zeqN	_
+6	tsu	P	צו	qv	_
+7	pferd	N	פּפֿערד	pferd	_
+8	az	P	אַז	Aaz	_
+9	hetn	HVF	העטן	hetN	_
+10	zi	PRO	זי	zy	_
+11	avek	ADV	אַװעק	AaVek	_
+12	tsu	TO	צו	qv	_
+13	reytn	VB	רײטן	rYtN	_
+14	bigert	VBN	ביגערט	bygert	_
+
+SENT	1648W-KINE,200.6.41
+1	der_veyl	ADV	דער_װײל	der_VYl	_
+2	hat	HVF	האַט	hAat	_
+3	mn	PRO	מן	mN	_
+4	eyn	D	אײן	AYN	_
+5	gshrey	N	גשרײ	g$rY	_
+6	fun	P	פֿון	fvN	_
+7	pulshi	ADJ	פּולשי	pvl$y	_
+8	zelner	N	זעלנער	zelner	_
+9	gihert	VBN	גיהערט	gyhert	_
+10	dz	C	דז	dz	_
+11	di	D	די	dy	_
+12	yhudim	N	יהודים	yhvdyM	_
+13	zaltn	MDF	זאַלטן	zAaltN	_
+14	loyfn	VB	לױפֿן	lWfN	_
+15	in	P	אין	AyN	_
+16	slas	N	סלאַס	slAas	_
+17	an	P	אַן	AaN	_
+18	biks	N	ביקס	byks	_
+19	,	PUNC	,	,	_
+20	an	P	אַן	AaN	_
+21	svert	N	סװערט	sVert	_
+
+SENT	1648W-KINE,200.7.43
+1	ziar	H	זיִאַר	zyiAar	UNKNOWN
+2	mkhsbh	H	מכסבה	mxsbh	UNKNOWN
+3	reh	H	רעה	reh	bad
+4	iz	BEF	איז	Ayz	_
+5	beu"h	H	בעו"ה	bev"h	for_sins_our_the_many
+6	giratn	VBN	גיראַטן	gyrAatN	_
+
+SENT	1648W-KINE,200.7.44
+1	vidr	ADV	װידר	Vydr	_
+2	eyn	D	אײן	AYN	_
+3	kul	N	קול	kvl	_
+4	gimkht	VBN	גימכט	gymxt	_
+5	ez	ES	עז	ez	_
+6	zeyn	VBF	זײן	zYN	_
+7	kazkin	N	קאַזקין	kAazkyN	_
+8	sluti	H	סלוטי	slvty	UNKNOWN
+9	stn	H	סטן	stN	devil?
+
+SENT	1648W-KINE,200.7.45
+1	oyf	P	אױף	AWF	_
+2	dem	D	דעם	deM	_
+3	kll	H	קלל	kll	general_public
+4	isral	NPR	איסראַל	AysrAal	_
+5	habn	HVF	האַבן	hAabN	_
+6	zikh	PRO	זיך	zyX	_
+7	di	D	די	dy	_
+8	poyarn	N	פּױאַרן	pWAarN	_
+9	biratn	VBN	ביראַטן	byrAatN	_
+10	mit	P	מיט	myt	_
+11	hkin	N	הקין	hkyN	_
+12	un	CONJ	און	AvN	_
+13	spisn	N	ספּיסן	spysN	_
+14	az	P	אַז	Aaz	_
+15	vert	RDF	װערט	Vert	_
+16	mn	PRO	מן	mN	_
+17	fleysh	N	פֿלײש	flY$	_
+18	bratn	VB	בראַטן	brAatN	_
+
+SENT	1648W-KINE,200.8.47
+1	hzirim	N	הזירים	hzyryM	_
+2	,	PUNC	,	,	_
+3	sunaim	N	סונאַיִם	svnAayiM	_
+4	zeynn	BEF	זײנן	zYnN	_
+5	in	P	אין	AyN	_
+6	slas	N	סלאַס	slAas	_
+7	gilafn	VBN	גילאַפֿן	gylAafN	_
+8	als	Q	אַלס	Aals	_
+9	gihrgt	VBN	גיהרגט	gyhrgt	_
+10	vas	WPRO	װאַס	VAas	_
+11	zi	PRO	זי	zy	_
+12	habn	HVF	האַבן	hAabN	_
+13	an	RP	אַן	AaN	_
+14	gitrafn	VBN	גיטראַפֿן	gytrAafN	_
+15	mit	P	מיט	myt	_
+16	eyn	D	אײן	AYN	_
+17	bitr	ADJ	ביטר	bytr	_
+18	gshrey	N	גשרײ	g$rY	_
+19	az	P	אַז	Aaz	_
+20	hetn	HVF	העטן	hetN	_
+21	zikh	PRO	זיך	zyX	_
+22	sikud	N	סיקוד	sykvd	_
+23	an	RP	אַן	AaN	_
+24	gzafn	VBN	גזאַפֿן	gzAafN	_
+
+SENT	1648W-KINE,200.8.48
+1	rbs"e	H	רבס"ע	rbs"e	master_of_the_world
+2	helf	VBI	העלף	helF	_
+3	di	WPRO	די	dy	_
+4	tsu	P	צו	qv	_
+5	dir	PRO	דיר	dyr	_
+6	hafn	VBF	האַפֿן	hAafN	_
+
+SENT	1648W-KINE,200.9.50
+1	teyl	N	טײל	tYl	_
+2	ihudim	N	איהודים	AyhvdyM	_
+3	meynitn	VBF	מײניטן	mYnytN	_
+4	nebkh	INTJ	נעבך	nebX	_
+5	tsu	TO	צו	qv	_
+6	antrinn	VB	אַנטרינן	AantrynN	_
+
+SENT	1648W-KINE,200.9.51
+1	den	CONJ	דען	deN	_
+2	zi	PRO	זי	zy	_
+3	htin	HVF	הטין	htyN	_
+4	eyn	D	אײן	AYN	_
+5	lakh	N	לאַך	lAaX	_
+6	hintr	P	הינטר	hyntr	_
+7	dem	D	דעם	deM	_
+8	slas	N	סלאַס	slAas	_
+9	tan	DON-IPP	טאַן	tAaN	_
+10	gfinn	VB	גפֿינן	gfynN	_
+
+SENT	1648W-KINE,200.9.52
+1	iz	BEF	איז	Ayz	_
+2	abr	ADV	אַבר	Aabr	_
+3	givezin	VBN	גיװעזין	gyVezyN	_
+4	keyn	Q	קײן	kYN	_
+5	khiluk	N	כילוק	xylvk	_
+6	droysn	ADV	דרױסן	drWsN	_
+7	adr	CONJ	אַדר	Aadr	_
+8	drinn	ADV	דרינן	drynN	_
+
+SENT	1648W-KINE,200.9.53
+1	es	PRO	עס	es	_
+2	het	HVF	העט	het	_
+3	zikh	PRO	זיך	zyX	_
+4	nit	NEG	ניט	nyt	_
+5	argir	ADV	אַרגיר	Aargyr	_
+6	kenn	MDN-IPP	קענן	kenN	_
+7	spinn	VB	ספּינן	spynN	_
+
+SENT	1648W-KINE,200.10.55
+1	yagn	VB	יאַגן	yAagN	_
+2	,	PUNC	,	,	_
+3	shlagn	VB	שלאַגן	$lAagN	_
+4	tetn	DOF	טעטן	tetN	_
+5	zi	PRO	זי	zy	_
+6	ali	Q	אַלי	Aaly	_
+7	gleykh	ADV	גלײך	glYX	_
+
+SENT	1648W-KINE,200.10.56
+1	es	ES	עס	es	_
+2	dr_trankin	VBF	דר_טראַנקין	dr_trAankyN	_
+3	fil	Q	פֿיל	fyl	_
+4-5	im	P~D	אים	AyM	_
+4	i	P	אי	Ay	_
+5	m	D	מ	m	_
+6	tifn	ADJ	טיפֿן	tyfN	_
+7	teykh	N	טײך	tYX	_
+
+SENT	1648W-KINE,200.10.57
+1	di	WPRO	די	dy	_
+2	sun	ADV	סון	svN	_
+3	varn	BEF	װאַרן	VAarN	_
+4	oyz	RP	אױז	AWz	_
+5	gisvumn	VBN	גיסװוּמן	gysVUmN	_
+6	varn	BEF	װאַרן	VAarN	_
+7	gihrgt	VAN	גיהרגט	gyhrgt	_
+8	an	P	אַן	AaN	_
+9	dr	D	דר	dr	_
+10	brmigleykh	N	ברמיגלײך	brmyglYX	_
+
+SENT	1648W-KINE,200.10.58
+1	nit	NEG	ניט	nyt	_
+2	gishunt	VAN	גישונט	gy$vnt	_
+3	yung	ADJ	יונג	yvng	_
+4	nakh	CONJ	נ"ך	n"X	_
+5	alt	ADJ	אַלט	Aalt	_
+6	arum	ADJ	אַרום	AarvM	_
+7	udr	CONJ	אודר	Avdr	_
+8	reykh	ADJ	רײך	rYX	_
+
+SENT	1648W-KINE,200.11.60
+1	kbud	H	קבוד	kbvd	honor
+2	hgaun	H	הגאַון	hgAavN	the_Gaon
+3	muhrr	H	מוהרר	mvhrr	teacher_our_and_rabbi_our_the_master
+4	mikhl	NPR	מיכל	myxl	_
+5	eyn	D	אײן	AYN	_
+6	rb	N	רב	rb	_
+7	fr	P	פֿר	fr	_
+8	di	D	די	dy	_
+9	gntsi	ADJ	גנצי	gnqy	_
+10	velt	N	װעלט	Velt	_
+11	iz	BEF	איז	Ayz	_
+12	akh	ADV	אַך	AaX	_
+13	durkh	P	דורך	dvrX	_
+14	iri	PRO$	אירי	Ayry	_
+15	hend	N	הענד	hend	_
+16	varn	RDN	װאַרן	VAarN	_
+17	gifelt	VAN	גיפֿעלט	gyfelt	_
+
+SENT	1648W-KINE,200.11.61
+1	mit	P	מיט	myt	_
+2	grush	ADJ	גרוש	grv$	_
+3	akhuriut	N	אַכוריִוט	Aaxvryivt	_
+4	oyf	P	אױף	AWF	_
+5	der	D	דער	der	_
+6	gsin	N	גסין	gsyN	_
+7	un	CONJ	און	AvN	_
+8	feld	N	פֿעלד	feld	_
+9	mer	QR	מער	mer	_
+10	az	C	אַז	Aaz	_
+11	ikh	PRO	איך	AyX	_
+12	sreybn	VB	סרײבן	srYbN	_
+13	kan	MDF	ק"ן	k"N	_
+14	odr	CONJ	אָדר	Aodr	_
+15	meld	VBF	מעלד	meld	_
+
+SENT	1648W-KINE,201.12.63
+1	leydr	ADV	לײדר	lYdr	_
+2	vi	WADV	װי	Vy	_
+3	hat	HVF	האַט	hAat	_
+4	der	D	דער	der	_
+5	khurbn	N	חורבן	HvrbN	_
+6	kenn	MDN-IPP	קענן	kenN	_
+7	gresr	ADJ	גרעסר	gresr	_
+8	zeyn	VB	זײן	zYN	_
+9	az	C	אַז	Aaz	_
+10	zelkhi	ADJ	זעלכי	zelxy	_
+11	rbnim	N	רבנים	rbnyM	_
+12	azu	ADV	אַזו	Aazv	_
+13	eyn	D	אײן	AYN	_
+14	tut	N	טוט	tvt	_
+15	zeln	MDF	זעלן	zelN	_
+16	nemn	VB	נעמן	nemN	_
+17	eyn	RP	אײן	AYN	_
+18	hkdush	H	הקדוש	hkdv$	the_holy
+19	rbi	H	רבי	rby	rabbi
+20	isral	NPR	איסראַל	AysrAal	_
+21	vrbi	H	װרבי	Vrby	and_rabbi
+22	ezrial	NPR	עזריִאַל	ezryiAal	_
+23	azu	ADV	אַזו	Aazv	_
+24	vi	WADV	װי	Vy	_
+25	der	D	דער	der	_
+26	grusi	ADJ	גרוסי	grvsy	_
+27	peyn	N	פּײן	pYN	_
+28	hkdush	H	הקדוש	hkdv$	the_holy
+29	rbi	H	רבי	rby	rabbi
+30	kheym	NPR	כײם	xYM	_
+31	urbi	H	אורבי	Avrby	and_rabbi
+32	slmh	NPR	סלמה	slmh	_
+33	fr_finstrt	VBF	פֿר_פֿינסטרט	fr_fynstrt	_
+34	der	D	דער	der	_
+35	zunn_sheyn	N	זוננ_שײן	zvnn_$YN	_
+
+SENT	1648W-KINE,201.13.65
+1	mir	PRO	מיר	myr	_
+2	megn	MDF	מעגן	megN	_
+3	val	ADV	װאַל	VAal	_
+4	klagn	VB	קלאַגן	klAagN	_
+5	mit	P	מיט	myt	_
+6	vi	N	װי	Vy	_
+7	un	CONJ	און	AvN	_
+8	brumn	N	ברומן	brvmN	_
+9	az	C	אַז	Aaz	_
+10	uns	PRO	אונס	Avns	_
+11	zeyn	BEF	זײן	zYN	_
+12	zelkhi	ADJ	זעלכי	zelxy	_
+13	kdusim	N	קדוסים	kdvsyM	_
+14	vek	RP-ADV	װעק	Vek	_
+15	kumn	VBN	קומן	kvmN	_
+
+SENT	1648W-KINE,201.13.66
+1	iri	PRO$	אירי	Ayry	_
+2	nshmut	N	נשמוט	n$mvt	_
+3	vern	RDF	װערן	VerN	_
+4	gvis	ADV	גװיס	gVys	_
+5	ruan	VB	רואַן	rvAaN	_
+6	bey	P	בײ	bY	_
+7	andri	ADJ	אַנדרי	Aandry	_
+8	frumn	N	פֿרומן	frvmN	_
+9	di	WPRO	די	dy	_
+10	el	H	על	el	on
+11	kidush	H	קידוש	kydv$	sanctification
+12	hsm	H	הסם	hsM	the_name
+13	zeyn	BEF	זײן	zYN	_
+14	um	RP	אום	AvM	_
+15	kumn	VBN	קומן	kvmN	_
+
+SENT	1648W-KINE,201.14.68
+1	nun	ADV	נ	n	_
+2	mag	MDF	מאַג	mAag	_
+3	val	ADV	װאַל	VAal	_
+4	itlkhr	Q	איטלכר	Aytlxr	_
+5	veynn	VB	װײנן	VYnN	_
+6	un	CONJ	און	AvN	_
+7	krieh	N	קריִעה	kryieh	_
+8	reysn	VB	רײסן	rYsN	_
+9	vas	WPRO	װאַס	VAas	_
+10	da	ADV	דאַ	dAa	_
+11	habn	HVF	האַבן	hAabN	_
+12	gitan	VBN	גיטאַן	gytAaN	_
+13	rikm	ADJ	ריקם	rykM	_
+14	poyarn	N	פּױאַרן	pWAarN	_
+15	in	P	אין	AyN	_
+16	reysn	NPR	רײסן	rYsN	_
+
+SENT	1648W-KINE,201.14.69
+1	di	D	די	dy	_
+2	heyligi	ADJ	הײליגי	hYlygy	_
+3	sfri	H	ספֿרי	sfry	books
+4	turut	H	טורוט	tvrvt	Torah
+5	tsurisn	VBN	צוריסן	qvrysN	_
+6	mit	P	מיט	myt	_
+7	fleysn	N	פֿלײסן	flYsN	_
+
+SENT	1648W-KINE,201.14.70
+1	drum	DR+P	דרום	drvM	_
+2	tut	DOI	טוט	tvt	_
+3	shreyan	VB	שרײאַן	$rYAaN	_
+4	az	C	אַז	Aaz	_
+5	eyn	D	אײן	AYN	_
+6	froy	N	פֿרױ	frW	_
+7	tut	DOF	טוט	tvt	_
+8	shver	ADV	שװער	$Ver	_
+9	kreysn	VB	קרײסן	krYsN	_
+
+SENT	1648W-KINE,201.15.72
+1	sfri	H	ספֿרי	sfry	books
+2	turut	H	טורוט	tvrvt	Torah
+3	tsu_hkit	VBN	צו_הקיט	qv_hkyt	_
+
+SENT	1648W-KINE,201.15.73
+1	droyz	DR+P	דרױז	drWz	_
+2	gimkht	VBN	גימכט	gymxt	_
+3	pastliz	N	פּאַסטליז	pAastlyz	_
+4	oyf	P	אױף	AWF	_
+5	fisn	N	פֿיסן	fysN	_
+
+SENT	1648W-KINE,201.15.74
+1	heyligi	ADJ	הײליגי	hYlygy	_
+2	turh	NPR	טורה	tvrh	_
+3	vi	WADV	װי	Vy	_
+4	zal	MDF	ז"ל	z"l	_
+5	dikh	PRO	דיך	dyX	_
+6	das	D	דת	dS	_
+7	nit	NEG	ניט	nyt	_
+8	far_drisn	VB	פֿאַר_דריסן	fAar_drysN	_
+
+SENT	1648W-KINE,201.15.75
+1	oy	INTJ	אױ	AW	_
+2	vi	INTJ	װי	Vy	_
+3	vi	WADV	װי	Vy	_
+4	hat	HVF	האַט	hAat	_
+5	men	PRO	מען	meN	_
+6	fr_unreyngt	VBN	פֿר_ונרײנגט	fr_vnrYngt	_
+7	deyni	PRO$	דײני	dYny	_
+8	rid	N	ריד	ryd	_
+9	za	ADV	זאַ	zAa	_
+10	zisn	ADJ	זיסן	zysN	_
+
+SENT	1648W-KINE,201.15.76
+1	drum	DR+P	דרום	drvM	_
+2	meyn	PRO$	מײן	mYN	_
+3	oygn	N	אױגן	AWgN	_
+4	mit	P	מיט	myt	_
+5	trern	N	טרערן	trerN	_
+6	az	P	אַז	Aaz	_
+7	eyn	D	אײן	AYN	_
+8	bakh	N	באַך	bAaX	_
+9	flisn	VBF	פֿליסן	flysN	_
+
+SENT	1648W-KINE,201.16.78
+1	erd	N	ערד	erd	_
+2	un	CONJ	און	AvN	_
+3	ash	N	אַש	Aa$	_
+4	zal	MDF	ז"ל	z"l	_
+5	mn	PRO	מן	mN	_
+6	zikh	PRO	זיך	zyX	_
+7	oyf	P	אױף	AWF	_
+8	den	D	דען	deN	_
+9	kap	N	קאַפּ	kAap	_
+10	lign	VB	ליגן	lygN	_
+
+SENT	1648W-KINE,201.16.79
+1	den	CONJ	דען	deN	_
+2	di	D	די	dy	_
+3	tsrh	N	צרה	qrh	_
+4	iz	VBF	איז	Ayz	_
+5	nit	NEG	ניט	nyt	_
+6	tsu	TO	צו	qv	_
+7	sreybn	VB	סרײבן	srYbN	_
+8	oyf	P	אױף	AWF	_
+9	fil	Q	פֿיל	fyl	_
+10	bign	N	ביגן	bygN	_
+
+SENT	1648W-KINE,201.16.80
+1	far	P	פֿאַר	fAar	_
+2	tsr	N	צר	qr	_
+3	kenn	MDF	קענן	kenN	_
+4	mir	PRO	מיר	myr	_
+5	zikh	PRO	זיך	zyX	_
+6	nit	NEG	ניט	nyt	_
+7	rirn	VB	רירן	ryrN	_
+8	nakh	CONJ	נ"ך	n"X	_
+9	rign	VB	ריגן	rygN	_
+
+SENT	1648W-KINE,201.16.81
+1	her_gat	NPR	הער_גאַט	her_gAat	_
+2	,	PUNC	,	,	_
+3	bhit	VBI	בהיט	bhyt	_
+4	veytr	ADV	װײטר	VYtr	_
+5	far	P	פֿאַר	fAar	_
+6	iri	PRO$	אירי	Ayry	_
+7	feylr	N	פֿײלר	fYlr	_
+8	un	CONJ	און	AvN	_
+9	bign	N	ביגן	bygN	_
+
+SENT	1648W-KINE,201.17.83
+1	fart	ADV	פֿאַרט	fAart	_
+2	vil	MDF	װיל	Vyl	_
+3	ikh	PRO	איך	AyX	_
+4	di	D	די	dy	_
+5	turh	NPR	טורה	tvrh	_
+6	eyn	D	אײן	AYN	_
+7	ksia	N	קסיִאַ	ksyiAa	_
+8	frugn	VB	פֿרוגן	frvgN	_
+
+SENT	1648W-KINE,201.17.84
+1	zeyn	BEF	זײן	zYN	_
+2	den	ADV	דען	deN	_
+3	di	D	די	dy	_
+4	heyligi	ADJ	הײליגי	hYlygy	_
+5	utiut	N	אוטיִוט	Avtyivt	_
+6	vidr	ADV	װידר	Vydr	_
+7	in	P	אין	AyN	_
+8	himl	N	הימל	hyml	_
+9	giflugn	VBN	גיפֿלוגן	gyflvgN	_
+
+SENT	1648W-KINE,201.17.85
+1	eyn	D	אײן	AYN	_
+2	tiruts	N	טירוץ	tyrvQ	_
+3	kan	MDF	ק"ן	k"N	_
+4	mn	PRO	מן	mN	_
+5	zagn	VB	זאַגן	zAagN	_
+
+SENT	1648W-KINE,201.17.86
+1	iz	BEF	איז	Ayz	_
+2	nit	NEG	ניט	nyt	_
+3	gilugn	VAN	גילוגן	gylvgN	_
+
+SENT	1648W-KINE,201.17.87
+1	veyl	C	װײל	VYl	_
+2	iri	PRO$	אירי	Ayry	_
+3	lerner	N	לערנער	lerner	_
+4	zenn	BEF	זענן	zenN	_
+5	gihrgt	VAN	גיהרגט	gyhrgt	_
+6	varn	RDN	װאַרן	VAarN	_
+7	mit	P	מיט	myt	_
+8	svert	N	סװערט	sVert	_
+9	un	CONJ	און	AvN	_
+10	bugn	N	בוגן	bvgN	_
+
+SENT	1648W-KINE,201.18.89
+1	tsu	P	צו	qv	_
+2	vas	WPRO	װאַס	VAas	_
+3	zal	MDF	ז"ל	z"l	_
+4	di	D	די	dy	_
+5	heyligi	ADJ	הײליגי	hYlygy	_
+6	turh	NPR	טורה	tvrh	_
+7	vern	RD	װערן	VerN	_
+8	gibrkht	VAN	גיברכט	gybrxt	_
+9	klumr	H	קלומר	klvmr	that_is_to_say
+10	ven	C	װען	VeN	_
+11	isral	NPR	איסראַל	AysrAal	_
+12	az	P	אַז	Aaz	_
+13	di	D	די	dy	_
+14	bhmut	N	בהמוט	bhmvt	_
+15	vern	RDF	װערן	VerN	_
+16	gishkht	VAN	גישכט	gy$xt	_
+
+SENT	1648W-KINE,201.18.90
+1	ver	WPRO	װער	Ver	_
+2	vert	RDF	װערט	Vert	_
+3	zi	PRO	זי	zy	_
+4	lernn	VB	לערנן	lernN	_
+5	tag	N	תּג	Tg	_
+6	un	CONJ	און	AvN	_
+7	nkht	N	נכט	nxt	_
+
+SENT	1648W-KINE,201.18.91
+1	der	PRO$	דער	der	_
+2	hlbn	N	הלבן	hlbN	_
+3	hat	HVF	האַט	hAat	_
+4	zi	PRO	זי	zy	_
+5	ir	PRO$	איר	Ayr	_
+6	kbud	N	קבוד	kbvd	_
+7	veng	Q	װענג	Veng	_
+8	giakht	VBN	גיִאַכט	gyiAaxt	_
+
+SENT	1648W-KINE,202.19.93
+1	kleyn	ADJ	קלײן	klYN	_
+2	un	CONJ	און	AvN	_
+3	grus	ADJ	גרוס	grvs	_
+4	,	PUNC	,	,	_
+5	yung	ADJ	יונג	yvng	_
+6	un	CONJ	און	AvN	_
+7	alt	ADJ	אַלט	Aalt	_
+8	,	PUNC	,	,	_
+9	als	Q	אַלס	Aals	_
+10	gihrgt	VAN	גיהרגט	gyhrgt	_
+11	vardn	RDN	װאַרדן	VAardN	_
+12	beu"h	H	בעו"ה	bev"h	for_sins_our_the_many
+13	mit	P	מיט	myt	_
+14	givlt	N	גיװלט	gyVlt	_
+
+SENT	1648W-KINE,202.19.94
+1	vi	WADV	װי	Vy	_
+2	lign	VBF	ליגן	lygN	_
+3	in_mitn	P	אינ_מיטן	Ayn_mytN	_
+4	leybr	N	לײבר	lYbr	_
+5	val	ADV	װאַל	VAal	_
+6	gishtlt	ADJ	גישטלט	gy$tlt	_
+7	kmh	H	קמה	kmh	a_few
+8	nfsut	H	נפֿסוט	nfsvt	souls
+9	az	P	אַז	Aaz	_
+10	boymr	N	בױמר	bWmr	_
+11	in	P	אין	AyN	_
+12	der	D	דער	der	_
+13	vld	N	װלד	Vld	_
+
+SENT	1648W-KINE,202.20.96
+1	rabn	N	ראַבן	rAabN	_
+2	un	CONJ	און	AvN	_
+3	klbim	N	קלבים	klbyM	_
+4	habin	HVF	האַבין	hAabyN	_
+5	mtim	N	מטים	mtyM	_
+6	oyf	RP	אױף	AWF	_
+7	gigesn	VBN	גיגעסן	gygesN	_
+
+SENT	1648W-KINE,202.20.97
+1	nar	FP	נאַר	nAar	_
+2	beynr	N	בײנר	bYnr	_
+3	bigrabn	VBN	ביגראַבן	bygrAabN	_
+
+SENT	1648W-KINE,202.20.98
+1	vi	WADV	װי	Vy	_
+2	seytslikh	ADV	סײצליך	sYqlyX	_
+3	hat	HVF	האַט	hAat	_
+4	mn	PRO	מן	mN	_
+5	uns	PRO	אונס	Avns	_
+6	gimesn	VBN	גימעסן	gymesN	_
+
+SENT	1648W-KINE,202.20.99
+1	tmaim	H	טמאַיִם	tmAayiM	UNKNOWN
+2	uthurim	H	אוטהורים	AvthvryM	and_UNKNOWN
+3	fr_mist	VBN	פֿר_מיסט	fr_myst	_
+4	ver	WPRO	װער	Ver	_
+5	kan	MDF	ק"ן	k"N	_
+6	daz	D	דאַז	dAaz	_
+7	far_gesn	VB	פֿאַר_געסן	fAar_gesN	_
+
+SENT	1648W-KINE,202.20.100
+1	vi	WADV	װי	Vy	_
+2	zeynn	BEF	זײנן	zYnN	_
+3	di	D	די	dy	_
+4	khsubim	N	כסובים	xsvbyM	_
+5	tsu	P	צו	qv	_
+6	dr	D	דר	dr	_
+7	erd	N	ערד	erd	_
+8	gizesn	VBN	גיזעסן	gyzesN	_
+
+SENT	1648W-KINE,202.21.102
+1	shini	ADJ	שיני	$yny	_
+2	zun	N	זון	zvN	_
+3	,	PUNC	,	,	_
+4	vi	WADV	װי	Vy	_
+5-6	hastu	HVF~PRO	האַסטו	hAastv	_
+5	has	HVF	האַס	hAas	_
+6	tu	PRO	טו	tv	_
+7	kenn	MDN-IPP	קענן	kenN	_
+8	deyn	PRO$	דײן	dYN	_
+9	likht	N	ליכט	lyxt	_
+10	sheynn	VB	שײנן	$YnN	_
+11-12	am	P~D	עם	eM	_
+11	a	P	אַ	Aa	_
+12	m	D	מ	m	_
+13	tag	N	תּג	Tg	_
+14	mn	PRO	מן	mN	_
+15	hat	HVF	האַט	hAat	_
+16	tan	DON-IPP	טאַן	tAaN	_
+17	fr_lirn	VB	פֿר_לירן	fr_lyrN	_
+18	al	Q	אַל	Aal	_
+19	di	D	די	dy	_
+20	meynn	ADJ	מײנן	mYnN	_
+
+SENT	1648W-KINE,202.21.103
+1	in	P	אין	AyN	_
+2	shus	N	שוס	$vs	_
+3	der	D	דער	der	_
+4	mutr	N	מוטר	mvtr	_
+5	iri	PRO$	אירי	Ayry	_
+6	kindr	N	קינדר	kyndr	_
+7	di	D	די	dy	_
+8	kleynn	ADJ	קלײנן	klYnN	_
+9	oyf	P	אױף	AWF	_
+10	ir	PRO$	איר	Ayr	_
+11	eygnn	ADJ	אײגנן	AYgnN	_
+12	mnin	N	מנין	mnyN	_
+13	giskht	VBN	גיסכט	gysxt	_
+14	di	D	די	dy	_
+15	veybr	N	װײבר	VYbr	_
+16	reynn	ADJ	רײנן	rYnN	_
+
+SENT	1648W-KINE,202.22.105
+1	tmimim	N	טמימים	tmymyM	_
+2	zenn	BEF	זענן	zenN	_
+3	gilegn	VBN	גילעגן	gylegN	_
+4	tut	ADJ	טוט	tvt	_
+5	hin	RP-ADV	הין	hyN	_
+6	un	CONJ	און	AvN	_
+7	vidr	ADV	װידר	Vydr	_
+
+SENT	1648W-KINE,202.22.106
+1	ir	PRO$	איר	Ayr	_
+2	veybr	N	װײבר	VYbr	_
+3	giveynt	VBN	גיװײנט	gyVYnt	_
+4	oyf	P	אױף	AWF	_
+5	inn	PRO	אינן	AynN	_
+6	gifalin	VBN	גיפֿאַלין	gyfAalyN	_
+7	nidr	ADV	נידר	nydr	_
+
+SENT	1648W-KINE,202.22.107
+1	azu	ADV	אַזו	Aazv	_
+2	hat	HVF	האַט	hAat	_
+3	mn	PRO	מן	mN	_
+4	zi	PRO	זי	zy	_
+5	oyf	P	אױף	AWF	_
+6	inn	PRO	אינן	AynN	_
+7	gshkht	VBN	גשכט	g$xt	_
+8	az	P	אַז	Aaz	_
+9	di	D	די	dy	_
+10	shaf	N	שאַף	$AaF	_
+11	un	CONJ	און	AvN	_
+12	vidr	N	װידר	Vydr	_
+
+SENT	1648W-KINE,202.22.108
+1	vi	WADV	װי	Vy	_
+2	kenn	MDF	קענן	kenN	_
+3	fr	P	פֿר	fr	_
+4	tser	N	צער	qer	_
+5	gnts	ADJ	גנץ	gnQ	_
+6	bleybn	VB	בלײבן	blYbN	_
+7	di	D	די	dy	_
+8	glidr	N	גלידר	glydr	_
+
+SENT	1648W-KINE,202.23.110
+1	aufin	ADJ	אַופֿין	AavfyN	_
+2	lagn	VBF	לאַגן	lAagN	_
+3	di	D	די	dy	_
+4	mtim	N	מטים	mtyM	_
+5	untr	P	אונטר	Avntr	_
+6	der	D	דער	der	_
+7	zunn	N	זונן	zvnN	_
+
+SENT	1648W-KINE,202.23.111
+1	eyn	D	אײן	AYN	_
+2	kdus	N	קדוס	kdvs	_
+3	den	D	דען	deN	_
+4	andrn	ADJ	אַנדרן	AandrN	_
+5	bidekt	VBN	בידעקט	bydekt	_
+
+SENT	1648W-KINE,202.23.112
+1	der	D	דער	der	_
+2	intrst	ADJS	אינטרסט	Ayntrst	_
+3	hot	HVF	האָט	hAot	_
+4	s	PRO	ס	s	_
+5	givaunn	VBN	גיװאַונן	gyVAavnN	_
+
+SENT	1648W-KINE,202.23.113
+1	oy	INTJ	אױ	AW	_
+2	vi	INTJ	װי	Vy	_
+3	ibr	P	איבר	Aybr	_
+4	der	D	דער	der	_
+5	mkh	N	מך	mX	_
+6	urblitsling	ADV	אורבליצלינג	Avrblyqlyng	_
+7	un_fr_zunn	ADV	אונ_פֿר_זונן	Avn_fr_zvnN	_
+8	finf_hundrt	NUM	פֿינפֿ_הונדרט	fynf_hvndrt	_
+9	kindr	N	קינדר	kyndr	_
+10	tsu	TO	צו	qv	_
+11	gfinn	VB	גפֿינן	gfynN	_
+12	in	P	אין	AyN	_
+13	brunn	N	ברונן	brvnN	_
+14	nebikh	INTJ	נעביך	nebyX	_
+15	az	C	אַז	Aaz	_
+16	di	D	די	dy	_
+17	uksin	N	אוקסין	AvksyN	_
+18	tsu	P	צו	qv	_
+19	shkhith	N	שכיטה	$xyth	_
+20	varn	BEF	װאַרן	VAarN	_
+21	gfirt	VAN	גפֿירט	gfyrt	_
+
+SENT	1648W-KINE,202.24.115
+1	nimt	Q	נימט	nymt	_
+2	hat	HVF	האַט	hAat	_
+3	ir	PRO$	איר	Ayr	_
+4	blut	N	בלוט	blvt	_
+5	bidekt	VBN	בידעקט	bydekt	_
+6	az	C	אַז	Aaz	_
+7	zikh	PRO	זיך	zyX	_
+8	gbirt	VBF	גבירט	gbyrt	_
+
+SENT	1648W-KINE,202.24.116
+1	bilkh	ADJ	בילך	bylX	_
+2	iz	VBF	איז	Ayz	_
+3	zikh	PRO	זיך	zyX	_
+4	tsu	TO	צו	qv	_
+5	kleydn	VB	קלײדן	klYdN	_
+6	in	P	אין	AyN	_
+7	eyn	D	אײן	AYN	_
+8	zk	N	זק	zk	_
+9	bshmirt	ADJ	בשמירט	b$myrt	_
+10	den	D	דען	deN	_
+11	kap	N	קאַפּ	kAap	_
+12	kaln	VB	קאַלן	kAalN	_
+13	az	P	אַז	Aaz	_
+14	eyn	D	אײן	AYN	_
+15	adlir	N	אַדליר	Aadlyr	_
+16	der	WPRO	דער	der	_
+17	di	D	די	dy	_
+18	fedrn	N	פֿעדרן	fedrN	_
+19	fr_lirt	VBF	פֿר_לירט	fr_lyrt	_
+
+SENT	1648W-KINE,203.25.118
+1	yegr	N	יעגר	yegr	_
+2	un	CONJ	און	AvN	_
+3	kazkin	N	קאַזקין	kAazkyN	_
+4	zikh	PRO	זיך	zyX	_
+5	gizmlit	VBN	גיזמליט	gyzmlyt	_
+6	az	P	אַז	Aaz	_
+7	di	D	די	dy	_
+8	binn	N	בינן	bynN	_
+
+SENT	1648W-KINE,203.25.119
+1	es	ES	עס	es	_
+2	iz	VBF	איז	Ayz	_
+3	keyn	Q	קײן	kYN	_
+4	tem	H	טעם	teM	reason
+5	usbrut	H	אוסברוט	Avsbrvt	and_hypotheses
+6	tsu	TO	צו	qv	_
+7	ridn	VB	רידן	rydN	_
+8	mit	P	מיט	myt	_
+9	inn	PRO	אינן	AynN	_
+
+SENT	1648W-KINE,203.25.120
+1	dr_veyl	C	דר_װײל	dr_VYl	_
+2	zi	PRO	זי	zy	_
+3	zeyn	VBF	זײן	zYN	_
+4	poyarn	N	פּױאַרן	pWAarN	_
+
+SENT	1648W-KINE,203.25.121
+1	haben	HVF	האַבען	hAabeN	_
+2	flegn	MDN-IPP	פֿלעגן	flegN	_
+3	tsu	TO	צו	qv	_
+4	dinn	VB	דינן	dynN	_
+
+SENT	1648W-KINE,203.25.122
+1	habn	HVF	האַבן	hAabN	_
+2	gishekht	VBN	גישעכט	gy$ext	_
+3	an	P	אַן	AaN	_
+4	eynm	D	אײנם	AYnM	_
+5	tag	N	תּג	Tg	_
+6	di	D	די	dy	_
+7	fetr	N	פֿעטר	fetr	_
+8	mit	P	מיט	myt	_
+9	ir	PRO$	איר	Ayr	_
+10	zinn	N	זינן	zynN	_
+
+SENT	1648W-KINE,203.26.124
+1	ikhid	N	איכיד	Ayxyd	_
+2	,	PUNC	,	,	_
+3	ze	VBI	זע	ze	_
+4	vi	WADV	װי	Vy	_
+5	hrgt	VBF	הרגט	hrgt	_
+6	mn	PRO	מן	mN	_
+7	di	D	די	dy	_
+8	mutr	N	מוטר	mvtr	_
+9	mit	P	מיט	myt	_
+10	ir	PRO$	איר	Ayr	_
+11	kind	N	קינד	kynd	_
+12	mit	P	מיט	myt	_
+13	akhzriut	N	אַכזריִוט	Aaxzryivt	_
+14	nit	NEG	ניט	nyt	_
+15	vi	WADV	װי	Vy	_
+16	mn	PRO	מן	mN	_
+17	es	PRO	עס	es	_
+18	in	P	אין	AyN	_
+19	der	D	דער	der	_
+20	turh	NPR	טורה	tvrh	_
+21	gfind	VBF	גפֿינד	gfynd	_
+
+SENT	1648W-KINE,203.26.125
+1	di	D	די	dy	_
+2	mtim	N	מטים	mtyM	_
+3	lazn	VB	לאַזן	lAazN	_
+4	lign	VB	ליגן	lygN	_
+5-6	im	P~D	אים	AyM	_
+5	i	P	אי	Ay	_
+6	m	D	מ	m	_
+7	regn	N	רעגן	regN	_
+8	un	CONJ	און	AvN	_
+9	vind	N	װינד	Vynd	_
+
+SENT	1648W-KINE,203.26.126
+1	akh	ADV	אַך	AaX	_
+2	vil	Q	װיל	Vyl	_
+3	lebndigr_heyt	ADV	לעבנדיגר_הײט	lebndygr_hYt	_
+4	in	P	אין	AyN	_
+5	grubn	N	גרובן	grvbN	_
+6	givarfn	VBN	גיװאַרפֿן	gyVAarfN	_
+7	gshvind	ADV	גשװינד	g$Vynd	_
+
+SENT	1648W-KINE,203.27.128
+1	ver	WPRO	װער	Ver	_
+2	hat	HVF	האַט	hAat	_
+3	zelkhi	ADJ	זעלכי	zelxy	_
+4	mesim	N	מעסים	mesyM	_
+5	gihert	VBN	גיהערט	gyhert	_
+6	far	P	פֿאַר	fAar	_
+7	alti	ADJ	אַלטי	Aalty	_
+8	tseytn	N	צײטן	qYtN	_
+9	azu	ADV	אַזו	Aazv	_
+10	bakhzriut	H	באַכזריִוט	bAaxzryivt	with_UNKNOWN
+11	um	RP	אום	AvM	_
+12	tsu	TO	צו	qv	_
+13	gin	VB	גין	gyN	_
+14	mit	P	מיט	myt	_
+15	den	D	דען	deN	_
+16	leytn	N	לײטן	lYtN	_
+17	tsu	TO	צו	qv	_
+18	titn	VB	טיטן	tytN	_
+19	oyf	P	אױף	AWF	_
+20	dem	D	דעם	deM	_
+21	kbrut	N	קברוט	kbrvt	_
+22	gabn	X	גאַבן	gAabN	_
+23	sukhd	X	סוכד	svxd	_
+24	oyf	P	אױף	AWF	_
+25	aln	Q	אַלן	AalN	_
+26	zeytn	N	זײטן	zYtN	_
+27	loyfnt	VAG	לױפֿנט	lWfnt	_
+28-29	tsum	P~D	צום	qvM	_
+28	tsu	P	צו	qv	_
+29	m	D	מ	m	_
+30	tut	N	טוט	tvt	_
+31	az	P	אַז	Aaz	_
+32	velt	MDF	װעלט	Velt	_
+33	mn	PRO	מן	mN	_
+34	eyn	D	אײן	AYN	_
+35	khsn	N	כסן	xsN	_
+36	antkegn	ADV	אַנטקעגן	AantkegN	_
+37	reytn	VB	רײטן	rYtN	_
+
+SENT	1648W-KINE,203.28.130
+1	sudut	N	סודוט	svdvt	_
+2	hturh	H	הטורה	htvrh	the_Torah
+3	varn	BEF	װאַרן	VAarN	_
+4	tsu_risn	VAN	צו_ריסן	qv_rysN	_
+5	un	CONJ	און	AvN	_
+6	fr_stert	VAN	פֿר_סטערט	fr_stert	_
+
+SENT	1648W-KINE,203.28.131
+1	fil	Q	פֿיל	fyl	_
+2	gishekht	VBN	גישעכט	gy$ext	_
+
+SENT	1648W-KINE,203.28.132
+1	un	CONJ	און	AvN	_
+2	ving	Q	װינג	Vyng	_
+3	tsu	RP	צו	qv	_
+4	gidekt	VBN	גידעקט	gydekt	_
+5	mit	P	מיט	myt	_
+6	erd	N	ערד	erd	_
+
+SENT	1648W-KINE,203.28.133
+1	habn	HVF	האַבן	hAabN	_
+2	als	Q	אַלס	Aals	_
+3	gitan	VBN	גיטאַן	gytAaN	_
+
+SENT	1648W-KINE,203.28.134
+1	nimnt	Q	נימנט	nymnt	_
+2	hat	HVF	האַט	hAat	_
+3	s	PRO	ס	s	_
+4	givert	VBN	גיװערט	gyVert	_
+
+SENT	1648W-KINE,203.28.135
+1	den	CONJ	דען	deN	_
+2	der	D	דער	der	_
+3	mlkh	N	מלך	mlX	_
+4	iz	BEF	איז	Ayz	_
+5	gileykh	ADV	גילײך	gylYX	_
+6	gistarbn	VBN	גיסטאַרבן	gystAarbN	_
+7	in	P	אין	AyN	_
+8	dem	D	דעם	deM	_
+9	giberd	N	גיבערד	gyberd	_
+
+SENT	1648W-KINE,203.29.137
+1	faribist	NPR	פֿאַריביסט	fAarybyst	_
+2	un	CONJ	און	AvN	_
+3	priluk	NPR	פּרילוק	prylvk	_
+4	,	PUNC	,	,	_
+5	khlut	N	כלוט	xlvt	_
+6	hetn	HVF	העטן	hetN	_
+7	nit	NEG	ניט	nyt	_
+8	kenn	MDN-IPP	קענן	kenN	_
+9	zeyn	VB	זײן	zYN	_
+10	besr	ADJ	בעסר	besr	_
+
+SENT	1648W-KINE,203.29.138
+1	zeynn	BEF	זײנן	zYnN	_
+2	gihrgt	VAN	גיהרגט	gyhrgt	_
+3	gvarn	RDN	גװאַרן	gVAarN	_
+4	mit	P	מיט	myt	_
+5	shvertir	N	שװערטיר	$Vertyr	_
+6	un	CONJ	און	AvN	_
+7	mesir	N	מעסיר	mesyr	_
+
+SENT	1648W-KINE,203.29.139
+1	heyzr	N	הײזר	hYzr	_
+2	mkhrib	RP-H	מכריב	mxryb	_
+3	givezn	VBN	גיװעזן	gyVezN	_
+4	az	P	אַז	Aaz	_
+5	di	D	די	dy	_
+6	shlesr	N	שלעסר	$lesr	_
+
+SENT	1648W-KINE,203.29.140
+1	ali	Q	אַלי	Aaly	_
+2	tag	N	תּג	Tg	_
+3	zeyn	BEF	זײן	zYN	_
+4	givezn	VBN	גיװעזן	gyVezN	_
+5	di	D	די	dy	_
+6	tsrut	N	צרוט	qrvt	_
+7	lengr	ADJR	לענגר	lengr	_
+8	un	CONJ	און	AvN	_
+9	gresr	ADJR	גרעסר	gresr	_
+
+SENT	1648W-KINE,203.30.142
+1	bin	VBF	בין	byN	_
+2	gleykh	ADJ	גלײך	glYX	_
+3	az	P	אַז	Aaz	_
+4	eyn	D	אײן	AYN	_
+5	shaf	N	שאַף	$AaF	_
+6	veys	VBF	װײס	VYs	_
+7	zikh	PRO	זיך	zyX	_
+8	nit	NEG	ניט	nyt	_
+9	tsu	TO	צו	qv	_
+10	vendn	VB	װענדן	VendN	_
+
+SENT	1648W-KINE,203.30.143
+1	tut	DOF	טוט	tvt	_
+2	uns	PRO	אונס	Avns	_
+3	biroybn	VB	בירױבן	byrWbN	_
+4	un	CONJ	און	AvN	_
+5	shendn	VB	שענדן	$endN	_
+
+SENT	1648W-KINE,203.30.144
+1	mit	P	מיט	myt	_
+2	gelt	N	געלט	gelt	_
+3	nakh	CONJ	נ"ך	n"X	_
+4	gut	N	גוט	gvt	_
+5	hat	HVF	האַט	hAat	_
+6	mn	PRO	מן	mN	_
+7	niks	Q	ניקס	nyks	_
+8	kenn	MDN-IPP	קענן	kenN	_
+9	endn	VB	ענדן	endN	_
+10	mtsil	RP-H	מציל	mqyl	_
+11	tsu	TO	צו	qv	_
+12	zeyn	VB	זײן	zYN	_
+13	fun	P	פֿון	fvN	_
+14	irn	PRO$	אירן	AyrN	_
+15	hendn	N	הענדן	hendN	_
+
+SENT	1648W-KINE,203.31.146
+1	nsim	H	נסים	nsyM	women
+2	ubtulut	H	אובטולוט	Avbtvlvt	and_girls
+3	mtma	RP-H	מטמאַ	mtmAa	_
+4	givezn	VBN	גיװעזן	gyVezN	_
+5	un	CONJ	און	AvN	_
+6	gishent	VBN	גישענט	gy$ent	_
+
+SENT	1648W-KINE,203.31.147
+1	akh	ADV	אַך	AaX	_
+2	fil	Q	פֿיל	fyl	_
+3	kupr	RP-H	קופּר	kvpr	_
+4	givezn	VBN	גיװעזן	gyVezN	_
+
+SENT	1648W-KINE,203.31.148
+1	fun	P	פֿון	fvN	_
+2	ikhud	N	איכוד	Ayxvd	_
+3	vek	RP-ADV	װעק	Vek	_
+4	givent	VBN	גיװענט	gyVent	_
+
+SENT	1648W-KINE,203.31.149
+1	fil	Q	פֿיל	fyl	_
+2	shuln	N	שולן	$vlN	_
+3	eyn	RP	אײן	AYN	_
+4	giligt	VAN	גיליגט	gylygt	_
+5	biz	P	ביז	byz	_
+6	oyf	P	אױף	AWF	_
+7	fir	NUM	פֿיר	fyr	_
+8	vend	N	װענד	Vend	_
+
+SENT	1648W-KINE,203.31.150
+1	libr	ADJ	ליבר	lybr	_
+2	gat	NPR	גאַט	gAat	_
+3	varum	WPRO+P	װאַרום	VAarvM	_
+4-5	hlstu	VBF~PRO	הלסטו	hlstv	_
+4	hls	VBF	הלס	hls	_
+5	tu	PRO	טו	tv	_
+6	dikh	PRO	דיך	dyX	_
+7	oyf	RP	אױף	AWF	_
+
+SENT	1648W-KINE,203.31.151
+1	ze	VBI	זע	ze	_
+2	unzr	PRO$	אונזר	Avnzr	_
+3	ilend	N	אילענד	Aylend	_
+
+SENT	1648W-KINE,203.32.153
+1	hert	VBI	הערט	hert	_
+2	tsu	P	צו	qv	_
+3	den	D	דען	deN	_
+4	khurbn	N	חורבן	HvrbN	_
+
+SENT	1648W-KINE,203.32.154
+1	ver	WPRO	װער	Ver	_
+2	ken	MDF	קען	keN	_
+3	s	PRO	ס	s	_
+4	shreybn	VB	שרײבן	$rYbN	_
+5	adr	CONJ	אַדר	Aadr	_
+6	drukn	VB	דרוקן	drvkN	_
+
+SENT	1648W-KINE,203.32.155
+1	far	P	פֿאַר	fAar	_
+2	leyd	N	לײד	lYd	_
+3	zal	MDF	ז"ל	z"l	_
+4	mn	PRO	מן	mN	_
+5	di	D	די	dy	_
+6	har	N	האַר	hAar	_
+7	oys	RP	אױס	AWs	_
+8	pflukn	VB	פּפֿלוקן	pflvkN	_
+
+SENT	1648W-KINE,203.32.156
+1	di	D	די	dy	_
+2	menshn	N	מענשן	men$N	_
+3	givezn	VBN	גיװעזן	gyVezN	_
+4	in	P	אין	AyN	_
+5	ir	PRO$	איר	Ayr	_
+6	oygn	N	אױגן	AWgN	_
+7	az	P	אַז	Aaz	_
+8	mukin	N	מוקין	mvkyN	_
+
+SENT	1648W-KINE,203.32.157
+1	mit	P	מיט	myt	_
+2	hrugim	N	הרוגים	hrvgyM	_
+3	het	HVF	העט	het	_
+4	mn	PRO	מן	mN	_
+5	kenin	MDN-IPP	קענין	kenyN	_
+6	mkhin	VB	מכין	mxyN	_
+7	eyn	D	אײן	AYN	_
+8	brukn	N	ברוקן	brvkN	_
+
+SENT	1648W-KINE,204.33.159
+1	rbun	H	רבון	rbvN	master
+2	heulm	H	העולם	hevlM	the_world
+3	di	D	די	dy	_
+4	leyt	N	לײט	lYt	_
+5	az	P	אַז	Aaz	_
+6	bhmut	N	בהמוט	bhmvt	_
+7	giskht	VBN	גיסכט	gysxt	_
+
+SENT	1648W-KINE,204.33.160
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	brkhh	H	ברכה	brxh	blessing
+4	el	H	על	el	on
+5	hskhith	H	הסכיטה	hsxyth	the_slaughter
+6	gar	ADV	גאַר	gAar	_
+7	hukh	ADJ	הוך	hvX	_
+8	gimkht	VBN	גימכט	gymxt	_
+
+SENT	1648W-KINE,204.33.161
+1	di	D	די	dy	_
+2	ibrigi	N	איבריגי	Aybrygy	_
+3	amn	INTJ	אַמן	AamN	_
+4	gsrian	VBN	גסריִאַן	gsryiAaN	_
+5	az	C	אַז	Aaz	_
+6	hat	HVF	האַט	hAat	_
+7	gikrkht	VBN	גיקרכט	gykrxt	_
+
+SENT	1648W-KINE,204.33.162
+1	vi	WADV	װי	Vy	_
+2	habn	HVF	האַבן	hAabN	_
+3	zi	PRO	זי	zy	_
+4	uns	PRO	אונס	Avns	_
+5	gispat	VBN	גיספּאַט	gyspAat	_
+6	un	CONJ	און	AvN	_
+7	oyz	RP	אױז	AWz	_
+8	gilkht	VBN	גילכט	gylxt	_
+
+SENT	1648W-KINE,204.34.164
+1	rbusi	N	רבוסי	rbvsy	_
+2	,	PUNC	,	,	_
+3	ver	WPRO	װער	Ver	_
+4	kan	MDF	ק"ן	k"N	_
+5	ali	Q	אַלי	Aaly	_
+6	mesim	N	מעסים	mesyM	_
+7	dr_shreybn	VB	דר_שרײבן	dr_$rYbN	_
+8	vas	C	װאַס	VAas	_
+9	das	D	דת	dS	_
+10	un_bitemt	ADJ	אונ_ביטעמט	Avn_bytemt	_
+11	falk	N	פֿאַלק	fAalk	_
+12	tet	DOF	טעט	tet	_
+13	treybn	VB	טרײבן	trYbN	_
+
+SENT	1648W-KINE,204.34.165
+1	eynr	D	אײנר	AYnr	_
+2	froy	N	פֿרױ	frW	_
+3	fleysh	N	פֿלײש	flY$	_
+4	oyz	RP	אױז	AWz	_
+5	gshnitn	VBN	גשניטן	g$nytN	_
+6	bey	P	בײ	bY	_
+7	lebndik	ADJ	לעבנדיק	lebndyk	_
+8	leybn	N	לײבן	lYbN	_
+
+SENT	1648W-KINE,204.34.166
+1	giret	VBN	גירעט	gyret	_
+2	ez	PRO	עז	ez	_
+3	iz	BEF	איז	Ayz	_
+4	nun	ADV	נ	n	_
+5	ksr	ADJ	קסר	ksr	_
+6	gveykt	VAN	גװײקט	gVYkt	_
+
+SENT	1648W-KINE,204.34.167
+1	laz	VBI	לאַז	lAaz	_
+2	men	PRO	מען	meN	_
+3	ez	PRO	עז	ez	_
+4	mit	P	מיט	myt	_
+5	zlts	N	זלץ	zlQ	_
+6	reybn	VB	רײבן	rYbN	_
+
+SENT	1648W-KINE,204.35.169
+1	al	H	אַל	Aal	God
+2	ezr	H	עזר	ezr	help
+3	!	PUNC	!	!	_
+4	helf	VBI	העלף	helF	_
+5	,	PUNC	,	,	_
+6	gat	NPR	גאַט	gAat	_
+7	,	PUNC	,	,	_
+8	deyn	PRO$	דײן	dYN	_
+9	falk	N	פֿאַלק	fAalk	_
+10	den	D	דען	deN	_
+11	armn	ADJ	אַרמן	AarmN	_
+
+SENT	1648W-KINE,204.35.170
+1	ze	VBI	זע	ze	_
+2	unzr	PRO$	אונזר	Avnzr	_
+3	leyd	N	לײד	lYd	_
+4	,	PUNC	,	,	_
+
+SENT	1648W-KINE,204.35.171
+1	far_shrumfin	ADJ	פֿאַר_שרומפֿין	fAar_$rvmfyN	_
+2	zeyn	VBF	זײן	zYN	_
+3	di	D	די	dy	_
+4	dermn	N	דערמן	dermN	_
+5	lnd	N	לנד	lnd	_
+6	akri"ini	NPR	אַקרי"איני	Aakry"Ayny	_
+7	fr_stert	VAN	פֿר_סטערט	fr_stert	_
+8	in	P	אין	AyN	_
+9	der	D	דער	der	_
+10	lrmn	N	לרמן	lrmN	_
+
+SENT	1648W-KINE,204.35.172
+1	her_gat	NPR	הער_גאַט	her_gAat	_
+2	,	PUNC	,	,	_
+3	laz	VBI	לאַז	lAaz	_
+4	dikh	PRO	דיך	dyX	_
+5	es	PRO	עס	es	_
+6	dakh	ADV	דאַך	dAaX	_
+7	der_brmn	VB	דער_ברמן	der_brmN	_
+
+SENT	1648W-KINE,204.36.174
+1	libr	ADJ	ליבר	lybr	_
+2	gat	NPR	גאַט	gAat	_
+3	,	PUNC	,	,	_
+4	zikh	VBI	זיך	zyX	_
+5	vas	WPRO	װאַס	VAas	_
+6	gisikht	VBF	גיסיכט	gysyxt	_
+7	deynm	PRO$	דײנם	dYnM	_
+8	falk	N	פֿאַלק	fAalk	_
+9	di	D	די	dy	_
+10	libn	ADJ	ליבן	lybN	_
+11	tsu_teyln	VB	צו_טײלן	qv_tYlN	_
+12	in	P	אין	AyN	_
+13	gurl	N	גורל	gvrl	_
+14	az	P	אַז	Aaz	_
+15	kroyt	N	קרױט	krWt	_
+16	adr	CONJ	אַדר	Aadr	_
+17	ribn	N	ריבן	rybN	_
+
+SENT	1648W-KINE,204.36.175
+1	oyf	P	אױף	AWF	_
+2	eymn	D	אײמן	AYmN	_
+3	rik	N	ריק	ryk	_
+4	zeyn	BEF	זײן	zYN	_
+5	kumn	VBN	קומן	kvmN	_
+6	zeks	NUM	זעקס	zeks	_
+7	adr	CONJ	אַדר	Aadr	_
+8	zibn	NUM	זיבן	zybN	_
+
+SENT	1648W-KINE,204.36.176
+1	eyni	PRO	אײני	AYny	_
+2	giheysn	VBN	גיהײסן	gyhYsN	_
+3	kekhin	N	קעכין	kexyN	_
+4	di	D	די	dy	_
+5	andr	ADJ	אַנדר	Aandr	_
+6	hur	N	הור	hvr	_
+
+SENT	1648W-KINE,204.36.177
+1	zind	N	זינד	zynd	_
+2	un	CONJ	און	AvN	_
+3	snd	N	סנד	snd	_
+4	gtribn	VBN	גטריבן	gtrybN	_
+
+SENT	1648W-KINE,204.37.179
+1	yudn	N	יודן	yvdN	_
+2	al	Q	אַל	Aal	_
+3	gimeyn	ADJ	גימײן	gymYN	_
+4	vi	WADV	װי	Vy	_
+5	kan	MDF	ק"ן	k"N	_
+6	mn	PRO	מן	mN	_
+7	fr	P	פֿר	fr	_
+8	tser	N	צער	qer	_
+9	doyarn	VB	דױאַרן	dWAarN	_
+10	az	C	אַז	Aaz	_
+11	da	ADV	דאַ	dAa	_
+12	zeyn	BEF	זײן	zYN	_
+13	eyn	RP	אײן	AYN	_
+14	gilafn	VBN	גילאַפֿן	gylAafN	_
+15	bk"k	H	בק"ק	bk"k	in_community_holy
+16	tultsin	NPR	טולצין	tvlqyN	_
+17	di	D	די	dy	_
+18	poyarn	N	פּױאַרן	pWAarN	_
+19	k"k	H	ק"ק	k"k	community_holy
+20	humnie	NPR	הומניִע	hvmnyie	_
+21	in	P	אין	AyN	_
+22	der	D	דער	der	_
+23	lita	NPR	ליטאַ	lytAa	_
+24	oyf	P	אױף	AWF	_
+25	ir	PRO$	איר	Ayr	_
+26	blut	N	בלוט	blvt	_
+27	tan	DON-IPP	טאַן	tAaN	_
+28	loyarn	VB	לױאַרן	lWAarN	_
+
+SENT	1648W-KINE,204.37.180
+1	ibr	P	איבר	Aybr	_
+2	den	D	דען	deN	_
+3	kdus	N	קדוס	kdvs	_
+4	hgaon	H	הגאַאָן	hgAaAoN	the_Gaon
+5	muh"r	H	מוה"ר	mvh"r	teacher_our_and_rabbi_our
+6	laz"r	NPR	לאַז"ר	lAaz"r	_
+7	zal	MDF	ז"ל	z"l	_
+8	mn	PRO	מן	mN	_
+9	troyarn	VB	טרױאַרן	trWAarN	_
+
+SENT	1648W-KINE,205.38.182
+1	frflukht	VAN	פֿרפֿלוכט	frflvxt	_
+2	zal	MDF	ז"ל	z"l	_
+3	vern	RD	װערן	VerN	_
+4	der	D	דער	der	_
+5	tag	N	תּג	Tg	_
+6	un	CONJ	און	AvN	_
+7	stundn	N	סטונדן	stvndN	_
+8	az	C	אַז	Aaz	_
+9	uns	PRO	אונס	Avns	_
+10	habn	HVF	האַבן	hAabN	_
+11	giltsert	VBN	גילצערט	gylqert	_
+12	zelkhi	ADJ	זעלכי	zelxy	_
+13	hundn	N	הונדן	hvndN	_
+
+SENT	1648W-KINE,205.38.183
+1	veybr	N	װײבר	VYbr	_
+2	an	P	אַן	AaN	_
+3	hlz	N	הלז	hlz	_
+4	eyn	D	אײן	AYN	_
+5	strik	N	סטריק	stryk	_
+6	gibundn	VBN	גיבונדן	gybvndN	_
+
+SENT	1648W-KINE,205.38.184
+1	klukhr_mubl	RP-H	קלוכר_מובל	klvxr_mvbl	_
+2	givezn	VBN	גיװעזן	gyVezN	_
+3	biz	C	ביז	byz	_
+4	daz	D	דאַז	dAaz	_
+5	vsir	N	װסיר	Vsyr	_
+6	ging	VBF	גינג	gyng	_
+7	in	P	אין	AyN	_
+8	mundn	N	מונדן	mvndN	_
+
+SENT	1648W-KINE,205.39.186
+1	mit	P	מיט	myt	_
+2	gispet	N	גיספּעט	gyspet	_
+3	mit	P	מיט	myt	_
+4	fingr	N	פֿינגר	fyngr	_
+5	nakh	RP	נ"ך	n"X	_
+6	gtitn	VBN	גטיטן	gtytN	_
+
+SENT	1648W-KINE,205.39.187
+1	mit	P	מיט	myt	_
+2	britlikh	N	בריטליך	brytlyX	_
+3	tsablni	N	צאַבלני	qAablny	_
+4	soybn	N	סױבן	sWbN	_
+5	eyn	D	אײן	AYN	_
+6	khsn	N	כסן	xsN	_
+7	entkign	ADV	ענטקיגן	entkygN	_
+8	gritn	VBN	גריטן	grytN	_
+
+SENT	1648W-KINE,205.39.188
+1	der	D	דער	der	_
+2	kazk	N	קאַזק	kAazk	_
+3	givezt	VBN	גיװעזט	gyVezt	_
+4	der	D	דער	der	_
+5	khtn	N	כטן	xtN	_
+6	un	CONJ	און	AvN	_
+7	di	D	די	dy	_
+8	btulh	N	בטולה	btvlh	_
+9	in	P	אין	AyN	_
+10	dr	D	דר	dr	_
+11	mitn	N	מיטן	mytN	_
+
+SENT	1648W-KINE,205.39.189
+1	gfirt	VBN	גפֿירט	gfyrt	_
+2	tsu	P	צו	qv	_
+3	dr	D	דר	dr	_
+4	khufh	N	כופֿה	xvfh	_
+5	mit	P	מיט	myt	_
+6	tlit	N	טליט	tlyt	_
+7	un	CONJ	און	AvN	_
+8	kitl	N	קיטל	kytl	_
+9	,	PUNC	,	,	_
+10	az	P	אַז	Aaz	_
+11	yudn	N	יודן	yvdN	_
+12	zitn	N	זיטן	zytN	_
+
+SENT	1648W-KINE,205.40.191
+1	nebikh	INTJ	נעביך	nebyX	_
+2	vr_unreynigt	VBN	װר_ונרײניגט	Vr_vnrYnygt	_
+3	di	D	די	dy	_
+4	frumn	N	פֿרומן	frvmN	_
+5	mit	P	מיט	myt	_
+6	gispet	N	גיספּעט	gyspet	_
+
+SENT	1648W-KINE,205.40.192
+1	khtnh	RP-N	כטנה	xtnh	_
+2	gimkht	VBN	גימכט	gymxt	_
+
+SENT	1648W-KINE,205.40.193
+1	lign	N	ליגן	lygN	_
+2	gfirt	VBN	גפֿירט	gfyrt	_
+3	tsu	P	צו	qv	_
+4	bet	N	בעט	bet	_
+
+SENT	1648W-KINE,205.40.194
+1	als	Q	אַלס	Aals	_
+2	nakh	RP	נ"ך	n"X	_
+3	gispet	VBN	גיספּעט	gyspet	_
+
+SENT	1648W-KINE,205.40.195
+1	oyf	P	אױף	AWF	_
+2	yidish	N	ייִדיש	yyidy$	_
+3	giret	VBN	גירעט	gyret	_
+
+SENT	1648W-KINE,205.40.196
+1	den	CONJ	דען	deN	_
+2	zi	PRO	זי	zy	_
+3	habn	HVF	האַבן	hAabN	_
+4	bey	P	בײ	bY	_
+5	yudn	N	יודן	yvdN	_
+6	gidint	VBN	גידינט	gydynt	_
+
+SENT	1648W-KINE,205.40.197
+1	ir	PRO$	איר	Ayr	_
+2	brut	N	ברוט	brvt	_
+3	gizet	VBN	גיזעט	gyzet	_
+
+SENT	1648W-KINE,205.41.199
+1	zer	ADV	זער	zer	_
+2	iz	VBF	איז	Ayz	_
+3	tsu	TO	צו	qv	_
+4	dr_shrekn	VB	דר_שרעקן	dr_$rekN	_
+5	ving	Q	װינג	Vyng	_
+6	tsu	TO	צו	qv	_
+7	tsekhn	VB	צעכן	qexN	_
+8	ven	C	װען	VeN	_
+9	di	D	די	dy	_
+10	knekht	N	קנעכט	knext	_
+11	an	P	אַן	AaN	_
+12	iri	PRO$	אירי	Ayry	_
+13	hern	N	הערן	herN	_
+14	brekhn	VBF	ברעכן	brexN	_
+
+SENT	1648W-KINE,205.41.200
+1	es	ES	עס	es	_
+2	iz	VBF	איז	Ayz	_
+3	keyn	Q	קײן	kYN	_
+4	tem	H	טעם	teM	reason
+5	usbrut	H	אוסברוט	Avsbrvt	and_hypotheses
+6	mit	P	מיט	myt	_
+7	inn	PRO	אינן	AynN	_
+8	tsu	TO	צו	qv	_
+9	sprekhn	VB	ספּרעכן	sprexN	_
+10	niks	Q	ניקס	nyks	_
+11	andrst	ADJ	אַנדרסט	Aandrst	_
+12	az	P	אַז	Aaz	_
+13	hoyan	VB	הױאַן	hWAaN	_
+14	un	CONJ	און	AvN	_
+15	stekhn	VB	סטעכן	stexN	_
+
+SENT	1648W-KINE,205.42.202
+1	lazt	VBI	לאַזט	lAazt	_
+2	eykh	PRO	אײך	AYX	_
+3	nakh	ADV	נ"ך	n"X	_
+4	eyn	D	אײן	AYN	_
+5	kidush	N	קידוש	kydv$	_
+6	visn	VB	װיסן	VysN	_
+7	lan	X	לאַן	lAaN	_
+8	vas	WPRO	װאַס	VAas	_
+9	eyn	D	אײן	AYN	_
+10	sktsh	ADJ	סקטש	skt$	_
+11	msrtt	H	מסרטט	msrtt	maid
+12	ir	PRO$	איר	Ayr	_
+13	virtn	N	װירטן	VyrtN	_
+14	hat	HVF	האַט	hAat	_
+15	gitan	VBN	גיטאַן	gytAaN	_
+
+SENT	1648W-KINE,205.42.203
+1	zi	PRO	זי	zy	_
+2	hat	HVF	האַט	hAat	_
+3	zi	PRO	זי	zy	_
+4	gibetn	VBN	גיבעטן	gybetN	_
+5	zalt	MDF	זאַלט	zAalt	_
+6	ir	PRO	איר	Ayr	_
+7	iri	PRO$	אירי	Ayry	_
+8	kleydr	N	קלײדר	klYdr	_
+9	an	RP	אַן	AaN	_
+10	tan	VB	טאַן	tAaN	_
+11	un	CONJ	און	AvN	_
+12	zelt	MDF	זעלט	zelt	_
+13	mit	P	מיט	myt	_
+14	ir	PRO	איר	Ayr	_
+15	der_fun	DR+P	דער_פֿון	der_fvN	_
+16	gan	VB	גאַן	gAaN	_
+
+SENT	1648W-KINE,205.43.205
+1	hikhr	ADJ	היכר	hyxr	_
+2	gat	NPR	גאַט	gAat	_
+3	der_brm	VBI	דער_ברם	der_brM	_
+4	daz	D	דאַז	dAaz	_
+5	ilnt	ADJ	אילנט	Aylnt	_
+6	vezn	N	װעזן	VezN	_
+7	az	C	אַז	Aaz	_
+8	zi	PRO	זי	zy	_
+9	hat	HVF	האַט	hAat	_
+10	gfirt	VBN	גפֿירט	gfyrt	_
+11	zi	PRO	זי	zy	_
+12	vau	WADV	װאַו	VAav	_
+13	di	D	די	dy	_
+14	rtskhnim	N	רצכנים	rqxnyM	_
+15	zenn	BEF	זענן	zenN	_
+16	givezn	VBN	גיװעזן	gyVezN	_
+
+SENT	1648W-KINE,205.43.206
+1	sprakh	VBF	ספּראַך	sprAaX	_
+2	zi	PRO	זי	zy	_
+3-4	hastu	HVF~PRO	האַסטו	hAastv	_
+3	has	HVF	האַס	hAas	_
+4	tu	PRO	טו	tv	_
+5	oyz	RP	אױז	AWz	_
+6	gikert	VBN	גיקערט	gykert	_
+7	un	CONJ	און	AvN	_
+8	arbisn	N	אַרביסן	AarbysN	_
+9	gilezn	VBN	גילעזן	gylezN	_
+
+SENT	1648W-KINE,205.43.207
+1	azu	ADV	אַזו	Aazv	_
+2-3	hastu	HVF~PRO	האַסטו	hAastv	_
+2	has	HVF	האַס	hAas	_
+3	tu	PRO	טו	tv	_
+4	mir	PRO	מיר	myr	_
+5	gitan	VBN	גיטאַן	gytAaN	_
+
+SENT	1648W-KINE,205.43.208
+1	itsund	ADV	איצונד	Ayqvnd	_
+2-3	kanstu	MDF~PRO	קאַנסטו	kAanstv	_
+2	kans	MDF	קאַנס	kAans	_
+3	tu	PRO	טו	tv	_
+4	nit	NEG	ניט	nyt	_
+5	ginezn	VB	גינעזן	gynezN	_
+
+SENT	1648W-KINE,206.44.210
+1	her_gat	NPR	הער_גאַט	her_gAat	_
+2	vi	WADV	װי	Vy	_
+3-4	kanstu	MDF~PRO	קאַנסטו	kAanstv	_
+3	kans	MDF	קאַנס	kAans	_
+4	tu	PRO	טו	tv	_
+5	dikh	PRO	דיך	dyX	_
+6	oyf	RP	אױף	AWF	_
+7	hltn	VB	הלטן	hltN	_
+8	az	C	אַז	Aaz	_
+9	zi	PRO	זי	zy	_
+10	di	D	די	dy	_
+11	tragndi	ADJ	טראַגנדי	trAagndy	_
+12	veybr	N	װײבר	VYbr	_
+13	di	D	די	dy	_
+14	beykh	N	בײך	bYX	_
+15	shpltn	VBF	שפּלטן	$pltN	_
+
+SENT	1648W-KINE,206.44.211
+1	nun	ADV	נ	n	_
+2	ven	C	װען	VeN	_
+3	sun	ADV	סון	svN	_
+4	habn	HVF	האַבן	hAabN	_
+5	gizindgt	VBN	גיזינדגט	gyzyndgt	_
+6	di	D	די	dy	_
+7	altn	N	אַלטן	AaltN	_
+8	varum	WPRO+P	װאַרום	VAarvM	_
+9	zal	MDF	ז"ל	z"l	_
+10	mn	PRO	מן	mN	_
+11	mit	P	מיט	myt	_
+12	kleyni	ADJ	קלײני	klYny	_
+13	kindr	N	קינדר	kyndr	_
+14	azu	ADV	אַזו	Aazv	_
+15	shltn	VB	שלטן	$ltN	_
+16	un	CONJ	און	AvN	_
+17	valtn	VB	װאַלטן	VAaltN	_
+
+SENT	1648W-KINE,206.45.213
+1	in	P	אין	AyN	_
+2	tmuz	H	טמוז	tmvz	Tamuz
+3	yum	X	יום	yvM	day
+4	di	D	די	dy	_
+5	zeks	NUM	זעקס	zeks	_
+6	tag	N	תּג	Tg	_
+7	in	P	אין	AyN	_
+8	khuds	N	כודס	xvds	_
+9	gisehn	VBN	גיסעהן	gysehN	_
+10	daz	C	דאַז	dAaz	_
+11	di	D	די	dy	_
+12	leyt	N	לײט	lYt	_
+13	tsu_brakhn	VBF	צו_בראַכן	qv_brAaxN	_
+14	gleykh	ADV	גלײך	glYX	_
+15	az	P	אַז	Aaz	_
+16	eyn	D	אײן	AYN	_
+17	glaz	N	גלאַז	glAaz	_
+
+SENT	1648W-KINE,206.45.214
+1	den	D	דען	deN	_
+2	kindr	N	קינדר	kyndr	_
+3	di	D	די	dy	_
+4	heyligi	ADJ	הײליגי	hYlygy	_
+5	milh	N	מילה	mylh	_
+6	ap	RP	אַפּ	Aap	_
+7	gshnitn	VBN	גשניטן	g$nytN	_
+8	az	P	אַז	Aaz	_
+9	eyn	D	אײן	AYN	_
+10	graz	N	גראַז	grAaz	_
+11	gleykh	ADV	גלײך	glYX	_
+12	az	C	אַז	Aaz	_
+13	emlk	N	עמלק	emlk	_
+14	hat	HVF	האַט	hAat	_
+15	gitan	VBN	גיטאַן	gytAaN	_
+16	kriv"h	H	קריװ"ה	kryV"h	UNKNOWN
+17	na"z	H	נאַ"ז	nAa"z	UNKNOWN
+
+SENT	1648W-KINE,206.46.216
+1	sheytslikh	ADV	שײצליך	$YqlyX	_
+2	gihoyzt	VBN	גיהױזט	gyhWzt	_
+3	mit	P	מיט	myt	_
+4	di	D	די	dy	_
+5	heyligi	ADJ	הײליגי	hYlygy	_
+6	reynikeyt	N	רײניקײט	rYnykYt	_
+
+SENT	1648W-KINE,206.46.217
+1	tsu_risn	VBN	צו_ריסן	qv_rysN	_
+2	beu"h	H	בעו"ה	bev"h	for_sins_our_the_many
+
+SENT	1648W-KINE,206.46.218
+1	oyf	P	אױף	AWF	_
+2	der	D	דער	der	_
+3	erd	N	ערד	erd	_
+4	gistreyt	VBN	גיסטרײט	gystrYt	_
+
+SENT	1648W-KINE,206.46.219
+1	nsim	N	נסים	nsyM	_
+2	droyf	DR+P	דרױף	drWF	_
+3	mtma	RP-H	מטמאַ	mtmAa	_
+4	givezn	VBN	גיװעזן	gyVezN	_
+5	mit	P	מיט	myt	_
+6	shlkheit	N	שלכעיִט	$lxeyit	_
+
+SENT	1648W-KINE,206.46.220
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	shul	N	שול	$vl	_
+4	tsu_ligt	VBN	צו_ליגט	qv_lygt	_
+5	mit	P	מיט	myt	_
+6	buzheyt	N	בוזשײט	bvz$Yt	_
+
+SENT	1648W-KINE,206.47.222
+1	kmh	H	קמה	kmh	a_few
+2	snim	N	סנים	snyM	years
+3	zenn	VBF	זענן	zenN	_
+4	mir	PRO	מיר	myr	_
+5	nun	ADV	נ	n	_
+6	in	P	אין	AyN	_
+7	bitrn	ADJ	ביטרן	bytrN	_
+8	glut	N	גלוט	glvt	_
+
+SENT	1648W-KINE,206.47.223
+1	far_hafn	VBF	פֿאַר_האַפֿן	fAar_hAafN	_
+2	besrung	N	בעסרונג	besrvng	_
+3	-	PUNC	-	-	_
+4	erst	ADV	ערסט	erst	_
+5	gresti	ADJS	גרעסטי	gresty	_
+6	bhlut	N	בהלוט	bhlvt	panics
+
+SENT	1648W-KINE,206.47.224
+1	azu	ADV	אַזו	Aazv	_
+2	akh	ADV	אַך	AaX	_
+3	di	D	די	dy	_
+4	fun	P	פֿון	fvN	_
+5	nemrub	N	נעמרוב	nemrvb	_
+6	zenn	BEF	זענן	zenN	_
+7	antlafn	VBN	אַנטלאַפֿן	AantlAafN	_
+8	mit	P	מיט	myt	_
+9	grusi	ADJ	גרוסי	grvsy	_
+10	illut	N	איללוט	Ayllvt	_
+
+SENT	1648W-KINE,206.47.225
+1	erst	ADV	ערסט	erst	_
+2	zeynn	BEF	זײנן	zYnN	_
+3	sterkr	ADJ	סטערקר	sterkr	_
+4	givezn	VBN	גיװעזן	gyVezN	_
+5	di	D	די	dy	_
+6	kllut	N	קללוט	kllvt	_
+
+SENT	1648W-KINE,206.48.227
+1	nkh	P	נך	nX	_
+2	tultsin	NPR	טולצין	tvlqyN	_
+3	zenn	BEF	זענן	zenN	_
+4	gilafn	VBN	גילאַפֿן	gylAafN	_
+5	fr	P	פֿר	fr	_
+6	grusn	ADJ	גרוסן	grvsN	_
+7	gidrng	N	גידרנג	gydrng	_
+
+SENT	1648W-KINE,206.48.228
+1	dartn	ADV	דאַרטן	dAartN	_
+2	hat	HVF	האַט	hAat	_
+3	mn	PRO	מן	mN	_
+4	zi	PRO	זי	zy	_
+5	gikvest	VBN	גיקװעסט	gykVest	_
+6	mit	P	מיט	myt	_
+7	bitsvng	N	ביצװנג	byqVng	_
+
+SENT	1648W-KINE,206.48.229
+1	az	C	אַז	Aaz	_
+2	eynr	PRO	אײנר	AYnr	_
+3	veykht	VBF	װײכט	VYxt	_
+4	dem	D	דעם	deM	_
+5	libn	N	ליבן	lybN	_
+6	bigegnt	VBF	ביגעגנט	bygegnt	_
+7	im	PRO	אים	AyM	_
+8	eyn	D	אײן	AYN	_
+9	ber	N	בער	ber	_
+10	in	P	אין	AyN	_
+11	gng	N	גנג	gng	_
+
+SENT	1648W-KINE,206.48.230
+1	za	ADV	זאַ	zAa	_
+2	loyft	VBF	לױפֿט	lWft	_
+3	er	PRO	ער	er	_
+4	in	P	אין	AyN	_
+5	hoyz	N	הױז	hWz	_
+
+SENT	1648W-KINE,206.48.231
+1	beyst	VBF	בײסט	bYst	_
+2	in	PRO	אין	AyN	_
+3	eyn	D	אײן	AYN	_
+4	shlng	N	שלנג	$lng	_
+5	za	ADV	זאַ	zAa	_
+6	da	ADV	דאַ	dAa	_
+7	akh	ADV	אַך	AaX	_
+
+SENT	1648W-KINE,206.49.233
+1	zi	PRO	זי	zy	_
+2	habn	HVF	האַבן	hAabN	_
+3	gimeynt	VBN	גימײנט	gymYnt	_
+4	zi	PRO	זי	zy	_
+5	zeyn	BEF	זײן	zYN	_
+6	antrunn	VBN	אַנטרונן	AantrvnN	_
+
+SENT	1648W-KINE,206.49.234
+1	dr_veyl	ADV	דר_װײל	dr_VYl	_
+2	zi	PRO	זי	zy	_
+3	habn	HVF	האַבן	hAabN	_
+4	pulish	ADJ	פּוליש	pvly$	_
+5	falk	N	פֿאַלק	fAalk	_
+6	drin	ADV	דרין	dryN	_
+7	gifunn	VBN	גיפֿונן	gyfvnN	_
+
+SENT	1648W-KINE,206.49.235
+1	habn	HVF	האַבן	hAabN	_
+2	abr	CONJ	אַבר	Aabr	_
+3	gifelsht	VBN	גיפֿעלשט	gyfel$t	_
+4	az	C	אַז	Aaz	_
+5	zi	PRO	זי	zy	_
+6	tunn	VBF	טונן	tvnN	_
+
+SENT	1648W-KINE,206.49.236
+1	drum	DR+P	דרום	drvM	_
+2	hat	HVF	האַט	hAat	_
+3	me	PRO	מע	me	_
+4	zi	PRO	זי	zy	_
+5	gihkt	VBN	גיהקט	gyhkt	_
+6	biz	ADV	ביז	byz	_
+7	ds	C	דס	ds	_
+8	daz	D	דאַז	dAaz	_
+9	blut	N	בלוט	blvt	_
+10	iz	BEF	איז	Ayz	_
+11	girunn	VBN	גירונן	gyrvnN	_
+
+SENT	1648W-KINE,206.49.237
+1	yar	N	יאַר	yAar	_
+2	un	CONJ	און	AvN	_
+3	tag	N	תּג	Tg	_
+4	tsu	TO	צו	qv	_
+5	klagn	VB	קלאַגן	klAagN	_
+
+SENT	1648W-KINE,206.49.238
+1	vinig	Q	װיניג	Vynyg	_
+2	gin	VBF	גין	gyN	_
+3-4	tsum	P~D	צום	qvM	_
+3	tsu	P	צו	qv	_
+4	m	D	מ	m	_
+5	tnts	N	טנץ	tnQ	_
+
+SENT	1648W-KINE,206.50.240
+1	vi	WADV	װי	Vy	_
+2	sheytslkh	ADV	שײצלך	$YqlX	_
+3	izt	BEF	איזט	Ayzt	_
+4	far_zehn	VAN	פֿאַר_זעהן	fAar_zehN	_
+5	varn	RDN	װאַרן	VAarN	_
+6	di	D	די	dy	_
+7	shnts	N	שנץ	$nQ	_
+8	leyt	N	לײט	lYt	_
+9	tsu	TO	צו	qv	_
+10	akhtn	VB	אַכטן	AaxtN	_
+11	az	P	אַז	Aaz	_
+12	eyn	D	אײן	AYN	_
+13	apil	N	אַפּיל	Aapyl	_
+14	odr	CONJ	אָדר	Aodr	_
+15	eyn	D	אײן	AYN	_
+16	mrnts	N	מרנץ	mrnQ	_
+
+SENT	1648W-KINE,206.50.241
+1	akh	INTJ	אַך	AaX	_
+2	got	NPR	גאָט	gAot	_
+3	vi	WADV	װי	Vy	_
+4	bleybt	VBF	בלײבט	blYbt	_
+5	unzr	PRO$	אונזר	Avnzr	_
+6	herts	N	הערץ	herQ	_
+7	gand	ADJ	גאַנד	gAand	_
+
+SENT	1648W-KINE,207.51.243
+1	meyni	PRO$	מײני	mYny	_
+2	trerin	N	טרערין	treryN	_
+3	az	P	אַז	Aaz	_
+4	eyn	D	אײן	AYN	_
+5	bakh	N	באַך	bAaX	_
+6	zenn	BEF	זענן	zenN	_
+7	giflasn	VBN	גיפֿלאַסן	gyflAasN	_
+8	oyf	P	אױף	AWF	_
+9	der	D	דער	der	_
+10	gzirh	N	גזירה	gzyrh	_
+11	bitr	ADJ	ביטר	bytr	_
+12	oys	P	אױס	AWs	_
+13	der	D	דער	der	_
+14	masn	N	מאַסן	mAasN	_
+
+SENT	1648W-KINE,207.51.244
+1	di	D	די	dy	_
+2	hrugim	N	הרוגים	hrvgyM	_
+3	in	P	אין	AyN	_
+4	blut	N	בלוט	blvt	_
+5	velgrn	VB	װעלגרן	VelgrN	_
+6	lasn	VB	לאַסן	lAasN	_
+
+SENT	1648W-KINE,207.51.245
+1	akh	ADV	אַך	AaX	_
+2	fil	Q	פֿיל	fyl	_
+3	khlut	H	כלוט	xlvt	communities
+4	kdusut	H	קדוסוט	kdvsvt	holy
+5	vek	ADV	װעק	Vek	_
+6	gilafn	VBN	גילאַפֿן	gylAafN	_
+7	oyf	P	אױף	AWF	_
+8	fil	Q	פֿיל	fyl	_
+9	strasn	N	סטראַסן	strAasN	_
+
+SENT	1648W-KINE,207.52.247
+1	zal	MDF	ז"ל	z"l	_
+2	ikh	PRO	איך	AyX	_
+3	ale	Q	אַלע	Aale	_
+4	khlut	N	כלוט	xlvt	_
+5	shreybn	VB	שרײבן	$rYbN	_
+6	ver	WPRO	װער	Ver	_
+7	zi	PRO	זי	zy	_
+8	zenn	VBF	זענן	zenN	_
+9	iz	VBF	איז	Ayz	_
+10	nit	NEG	ניט	nyt	_
+11	efshr	ADJ	עפֿשר	ef$r	_
+
+SENT	1648W-KINE,207.52.248
+1	ikh	PRO	איך	AyX	_
+2	ver	RDF	װער	Ver	_
+3	nit	NEG	ניט	nyt	_
+4	kenin	MD	קענין	kenyN	_
+
+SENT	1648W-KINE,207.52.249
+1	k"k	H	ק"ק	k"k	community_holy
+2	ustra	NPR	אוסטראַ	AvstrAa	_
+3	,	PUNC	,	,	_
+4	vinitsa	NPR	װיניצאַ	VynyqAa	_
+5	vil	MDF	װיל	Vyl	_
+6	ikh	PRO	איך	AyX	_
+7	nenn	VB	נענן	nenN	_
+
+SENT	1648W-KINE,207.52.250
+1	sarinrad	NPR	סאַרינראַד	sAarynrAad	_
+2	krasni	NPR	קראַסני	krAasny	_
+3	zikh	PRO	זיך	zyX	_
+4	akh	ADV	אַך	AaX	_
+5	tun	VBF	טון	tvN	_
+6	tsu	TO	צו	qv	_
+7	antrenn	VB	אַנטרענן	AantrenN	_
+
+SENT	1648W-KINE,207.53.252
+1	yamrn	N	יאַמרן	yAamrN	_
+2	,	PUNC	,	,	_
+3	klagn	N	קלאַגן	klAagN	_
+4	,	PUNC	,	,	_
+5	di	D	די	dy	_
+6	frilikhkeyt	N	פֿריליכקײט	frylyxkYt	_
+7	oyf	P	אױף	AWF	_
+8	zeyt	N	זײט	zYt	_
+9	ibr	P	איבר	Aybr	_
+10	finf_hundrt	NUM	פֿינפֿ_הונדרט	fynf_hvndrt	_
+11	givaunti	ADJ	גיװאַונטי	gyVAavnty	_
+12	leyt	N	לײט	lYt	_
+13	keyn	Q	קײן	kYN	_
+14	pflstr	N	פּפֿלסטר	pflstr	_
+15	nakh	CONJ	נ"ך	n"X	_
+16	zlbn	N	זלבן	zlbN	_
+17	izt	VBF	איזט	Ayzt	_
+18	breyt	ADJ	ברײט	brYt	_
+
+SENT	1648W-KINE,207.53.253
+1	akh	INTJ	אַך	AaX	_
+2	gat	NPR	גאַט	gAat	_
+3	drliz	VBI	דרליז	drlyz	_
+4	uns	PRO	אונס	Avns	_
+
+SENT	1648W-KINE,207.53.254
+1	es	PRO	עס	es	_
+2	iz	VBF	איז	Ayz	_
+3	hukhi	ADJ	הוכי	hvxy	_
+4	tseyt	N	צײט	qYt	_
+
+SENT	1648W-KINE,207.54.256
+1	al	Q	אַל	Aal	_
+2	rkhum	N	רכום	rxvM	_
+3	tu	DOI	טו	tv	_
+4	unzr	PRO$	אונזר	Avnzr	_
+5	tsrut	N	צרוט	qrvt	_
+6	zehn	VB	זעהן	zehN	_
+
+SENT	1648W-KINE,207.54.257
+1	vidr	ADV	װידר	Vydr	_
+2	tsu	P	צו	qv	_
+3	deyn	PRO$	דײן	dYN	_
+4	ginad	N	גינאַד	gynAad	_
+5	ginehn	VBI	גינעהן	gynehN	_
+
+SENT	1648W-KINE,207.54.258
+1	brakh	H	בראַך	brAaX	blessing
+2	hba	H	הבאַ	hbAa	the_coming
+3	tu	DOI	טו	tv	_
+4	tsu	P	צו	qv	_
+5	uns	PRO	אונס	Avns	_
+6	yehn	VB	יעהן	yehN	_
+7	vidr	ADV	װידר	Vydr	_
+8	in	P	אין	AyN	_
+9	arts	N	אַרץ	AarQ	_
+10	isral	NPR	איסראַל	AysrAal	_
+11	pflntsn	VB	פּפֿלנצן	pflnqN	_
+12	un	CONJ	און	AvN	_
+13	zehn	VB	זעהן	zehN	_
+
+SENT	1648W-KINE,207.55.260
+1	mrum	H	מרום	mrvM	UNKNOWN
+2	ukdus	H	אוקדוס	Avkdvs	and_holy
+3	vakh	H	װאַך	VAaX	UNKNOWN
+4	mit	P	מיט	myt	_
+5	deyn	PRO$	דײן	dYN	_
+6	hilf	N	הילף	hylF	_
+7	nit	NEG	ניט	nyt	_
+8	shlaf	VBI	שלאַף	$lAaF	_
+
+SENT	1648W-KINE,207.55.261
+1	vi	WADV	װי	Vy	_
+2	lng	ADV	לנג	lng	_
+3	vern	RDF	װערן	VerN	_
+4	zeyn	BE	זײן	zYN	_
+5	fr_spreyt	VAN	פֿר_ספּרײט	fr_sprYt	_
+6	deyn	PRO$	דײן	dYN	_
+7	shaf	N	שאַף	$AaF	_
+
+SENT	1648W-KINE,207.55.262
+1	der	D	דער	der	_
+2	tut	N	טוט	tvt	_
+3	iz	VBF	איז	Ayz	_
+4	besr	ADJR	בעסר	besr	_
+5	az	P	אַז	Aaz	_
+6	mn	PRO	מן	mN	_
+7	zikht	VBF	זיכט	zyxt	_
+8	zelkhi	ADJ	זעלכי	zelxy	_
+9	straf	N	סטראַף	strAaF	_
+10	ver	VBF	װער	Ver	_
+11	es	PRO	עס	es	_
+12	nakh	ADV	נ"ך	n"X	_
+13	eyn	D	אײן	AYN	_
+14	duks	N	דוקס	dvks	_
+15	udr	CONJ	אודר	Avdr	_
+16	eyn	D	אײן	AYN	_
+17	graf	N	גראַף	grAaF	_
+
+SENT	1648W-KINE,207.56.264
+1	fil	Q	פֿיל	fyl	_
+2	libr	ADVR	ליבר	lybr	_
+3	ver	BEF	װער	Ver	_
+4	ikh	PRO	איך	AyX	_
+5	nit	NEG	ניט	nyt	_
+6	givezt	BEN	גיװעזט	gyVezt	_
+7	gibarn	VAN	גיבאַרן	gybAarN	_
+8	tsu	TO	צו	qv	_
+9	zehn	VB	זעהן	zehN	_
+10	meyn	PRO$	מײן	mYN	_
+11	falk	N	פֿאַלק	fAalk	_
+12	azu	ADV	אַזו	Aazv	_
+13	shentlikh	ADV	שענטליך	$entlyX	_
+14	far_larn	ADJ	פֿאַר_לאַרן	fAar_lAarN	_
+
+SENT	1648W-KINE,207.56.265
+1	velt	MDF	װעלט	Velt	_
+2	shveygn	VB	שװײגן	$VYgN	_
+3	ven	C	װען	VeN	_
+4	mir	PRO	מיר	myr	_
+5	varn	BEF	װאַרן	VAarN	_
+6	far_koyft	VAN	פֿאַר_קױפֿט	fAar_kWft	_
+7	varn	RDN	װאַרן	VAarN	_
+8	um	P	אום	AvM	_
+9	eyn	D	אײן	AYN	_
+10	zeksr	N	זעקסר	zeksr	_
+11	eyn	D	אײן	AYN	_
+12	nps	N	נפּס	nps	_
+
+SENT	1648W-KINE,207.56.266
+1	un	CONJ	און	AvN	_
+2	keyn	Q	קײן	kYN	_
+3	kunh	N	קונה	kvnh	_
+4	tsu	TO	צו	qv	_
+5	arfarn	VB	אַרפֿאַרן	AarfAarN	_
+
+SENT	1648W-KINE,208.57.268
+1	rekht	ADV	רעכט	rext	_
+2	vi	WADV	װי	Vy	_
+3	da	ADV	דאַ	dAa	_
+4	stit	VBF	סטיט	styt	_
+5	tsu	P	צו	qv	_
+6	abnt	N	אַבנט	Aabnt	_
+7	vinst	VBF	װינסט	Vynst	_
+8	men	PRO	מען	meN	_
+9	margn	N	מאַרגן	mAargN	_
+
+SENT	1648W-KINE,208.57.269
+1	dreysg	NUM	דרײסג	drYsg	_
+2	nfsut	N	נפֿסוט	nfsvt	_
+3	hetin	HVF	העטין	hetyN	_
+4	zikh	PRO	זיך	zyX	_
+5	in	P	אין	AyN	_
+6	eyn	D	אײן	AYN	_
+7	bstey	N	בסטײ	bstY	_
+8	fr_bargn	VBN	פֿר_באַרגן	fr_bAargN	_
+
+SENT	1648W-KINE,208.57.270
+1	hat	HVF	האַט	hAat	_
+2	di	D	די	dy	_
+3	eygini	ADJ	אײגיני	AYgyny	_
+4	mutr	N	מוטר	mvtr	_
+5	ir	PRO$	איר	Ayr	_
+6	kind	N	קינד	kynd	_
+7	dr_vargn	VBN	דר_װאַרגן	dr_VAargN	_
+
+SENT	1648W-KINE,208.57.271
+1	az	C	אַז	Aaz	_
+2	men	PRO	מען	meN	_
+3	es	PRO	עס	es	_
+4	nit	NEG	ניט	nyt	_
+5	zal	MDF	ז"ל	z"l	_
+6	hern	VB	הערן	herN	_
+7	veynn	VB	װײנן	VYnN	_
+8	iz	BEF	איז	Ayz	_
+9	givezin	BEN	גיװעזין	gyVezyN	_
+10	bizargn	VAG	ביזאַרגן	byzAargN	_
+
+SENT	1648W-KINE,208.58.273
+1	vi	WADV	װי	Vy	_
+2	iz	BEF	איז	Ayz	_
+3	unzr	PRO$	אונזר	Avnzr	_
+4	sunhit	N	סונהיט	svnhyt	_
+5	fun	P	פֿון	fvN	_
+6	hukh	ADV	הוך	hvX	_
+7	nidr	ADV	נידר	nydr	_
+8	gifalin	VBN	גיפֿאַלין	gyfAalyN	_
+
+SENT	1648W-KINE,208.58.274
+1	ibr_enfrt	VBN	איבר_ענפֿרט	Aybr_enfrt	_
+2	eyn	D	אײן	AYN	_
+3	hnt	N	הנט	hnt	_
+4	in	P	אין	AyN	_
+5	di	D	די	dy	_
+6	andr	ADJ	אַנדר	Aandr	_
+7	az	P	אַז	Aaz	_
+8	eyn	D	אײן	AYN	_
+9	blin	N	בלין	blyN	_
+10	fngn	VB	פֿנגן	fngN	_
+11	lazn	VB	לאַזן	lAazN	_
+
+SENT	1648W-KINE,208.58.275
+1	aleyn	ADV	אַלײן	AalYN	_
+2	tsu	P	צו	qv	_
+3	den	D	דען	deN	_
+4	tatrin	N	טאַטרין	tAatryN	_
+5	gifalin	VBN	גיפֿאַלין	gyfAalyN	_
+
+SENT	1648W-KINE,208.58.276
+1	hat	HVF	האַט	hAat	_
+2	uns	PRO	אונס	Avns	_
+3	gizet	VBN	גיזעט	gyzet	_
+4	mit	P	מיט	myt	_
+5	vrmit	N	װרמיט	Vrmyt	_
+6	un	CONJ	און	AvN	_
+7	glin	N	גלין	glyN	_
+
+SENT	1648W-KINE,208.59.278
+1	sdr	N	סדר	sdr	_
+2	habn	HVF	האַבן	hAabN	_
+3	zi	PRO	זי	zy	_
+4	gebn	VBN	געבן	gebN	_
+
+SENT	1648W-KINE,208.59.279
+1	ver	WPRO	װער	Ver	_
+2	s	PRO	ס	s	_
+3	hert	VBF	הערט	hert	_
+4	zeyn	PRO$	זײן	zYN	_
+5	herts	N	הערץ	herQ	_
+6	krenkt	VBF	קרענקט	krenkt	_
+
+SENT	1648W-KINE,208.59.280
+1	sini	PRO$	סיני	syny	_
+2	btulut	N	בטולוט	btvlvt	_
+3	dem	D	דעם	deM	_
+4	ibrstn	ADJS	איברסטן	AybrstN	_
+5	kazk	N	קאַזק	kAazk	_
+6	khmel	NPR	כמעל	xmel	_
+7	gishenkt	VBN	גישענקט	gy$enkt	_
+
+SENT	1648W-KINE,208.59.281
+1	mtma	RP-H	מטמאַ	mtmAa	_
+2	nsim	N	נסים	nsyM	_
+3	givezn	VBN	גיװעזן	gyVezN	_
+
+SENT	1648W-KINE,208.59.282
+1	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+2	dr_trenkt	VBN	דר_טרענקט	dr_trenkt	_
+
+SENT	1648W-KINE,208.59.283
+1	zelkhi	ADJ	זעלכי	zelxy	_
+2	mesim	N	מעסים	mesyM	_
+3	keyn	Q	קײן	kYN	_
+4	mensh	N	מענש	men$	_
+5	gidenkt	VBF	גידענקט	gydenkt	_
+
+SENT	1648W-KINE,208.60.285
+1	so	ADV	סאָ	sAo	_
+2	fil	Q	פֿיל	fyl	_
+3	ikh	PRO	איך	AyX	_
+4	mikh	PRO	מיך	myX	_
+5	vaundr	VBF	װאַונדר	VAavndr	_
+6	vi	WADV	װי	Vy	_
+7-8	kenstu	MDF~PRO	קענסטו	kenstv	_
+7	kens	MDF	קענס	kens	_
+8	tu	PRO	טו	tv	_
+9	shveygn	VB	שװײגן	$VYgN	_
+
+SENT	1648W-KINE,208.60.286
+1	zikht	VBI	זיכט	zyxt	_
+2	az	C	אַז	Aaz	_
+3	zi	PRO	זי	zy	_
+4	oyf	P	אױף	AWF	_
+5	sfr	H	ספֿר	sfr	book
+6	turh	H	טורה	tvrh	Torah
+7	mit	P	מיט	myt	_
+8	fisn	N	פֿיסן	fysN	_
+9	steygn	VBF	סטײגן	stYgN	_
+
+SENT	1648W-KINE,208.60.287
+1	rbi	NPR	רבי	rby	_
+2	zkhrih	NPR	זכריה	zxryh	_
+3	khzn	NPR	כזן	xzN	_
+4	kloybt	VBF	קלױבט	klWbt	_
+5	oyf	RP	אױף	AWF	_
+6	stikr	N	סטיקר	stykr	_
+
+SENT	1648W-KINE,208.60.288
+1	tu	DOF	טו	tv	_
+2	eykh	PRO	אײך	AYX	_
+3	nit	NEG	ניט	nyt	_
+4	leygn	VB	לײגן	lYgN	_
+
+SENT	1648W-KINE,208.60.289
+1	iz	BEF	איז	Ayz	_
+2	in	P	אין	AyN	_
+3	der	D	דער	der	_
+4	shul	N	שול	$vl	_
+5	ghrg	VAN	גהרג	ghrg	_
+6	givarn	RDN	גיװאַרן	gyVAarN	_
+7	far_kert	VAN	פֿאַר_קערט	fAar_kert	_
+8	di	D	די	dy	_
+9	gagn	N	גאַגן	gAagN	_
+
+SENT	1648W-KINE,208.61.291
+1	yu	INTJ	יו	yv	_
+2	vi	WADV	װי	Vy	_
+3	sentlikh	ADV	סענטליך	sentlyX	_
+4	zi	PRO	זי	zy	_
+5	oyf	P	אױף	AWF	_
+6	uns	PRO	אונס	Avns	_
+7	tretn	VBF	טרעטן	tretN	_
+
+SENT	1648W-KINE,208.61.292
+1	heyligr	ADJ	הײליגר	hYlygr	_
+2	sbt	N	סבט	sbt	_
+3	varum	WPRO+P	װאַרום	VAarvM	_
+4-5	zalstu	MDF~PRO	זאַלסטו	zAalstv	_
+4	zals	MDF	זאַלס	zAals	_
+5	tu	PRO	טו	tv	_
+6	nit	NEG	ניט	nyt	_
+7	far	P	פֿאַר	fAar	_
+8	uns	PRO	אונס	Avns	_
+9	betn	VB	בעטן	betN	_
+
+SENT	1648W-KINE,208.61.293
+1	vern	RDF	װערן	VerN	_
+2	den	ADV	דען	deN	_
+3	di	D	די	dy	_
+4	sunaim	N	סונאַיִם	svnAayiM	_
+5	uns	PRO	אונס	Avns	_
+6	fr_tretn	VB	פֿר_טרעטן	fr_tretN	_
+
+SENT	1648W-KINE,208.61.294
+1	vern	RDF	װערן	VerN	_
+2	zi	PRO	זי	zy	_
+3	likht	N	ליכט	lyxt	_
+4	tsindn	VB	צינדן	qyndN	_
+5	adr	CONJ	אַדר	Aadr	_
+6	khlh	N	כלה	xlh	_
+7-8	tsum	P~D	צום	qvM	_
+7	tsu	P	צו	qv	_
+8	m	D	מ	m	_
+9	sbt	N	סבט	sbt	_
+10	knetn	VB	קנעטן	knetN	_
+
+SENT	1648W-KINE,209.62.296
+1	tsirung	N	צירונג	qyrvng	_
+2	des	D	דעס	des	_
+3	sbt	N	סבט	sbt	_
+4	gfint	VBF	גפֿינט	gfynt	_
+5	mn	PRO	מן	mN	_
+6	bey	P	בײ	bY	_
+7	keyn	Q	קײן	kYN	_
+8	falk	N	פֿאַלק	fAalk	_
+9	min	QR	מין	myN	_
+
+SENT	1648W-KINE,209.62.297
+1	drum	DR+P	דרום	drvM	_
+2	zey	VBI	זײ	zY	_
+3	unzr	PRO$	אונזר	Avnzr	_
+4	mlits	N	מליץ	mlyQ	_
+5	far	P	פֿאַר	fAar	_
+6	hkb"h	H	הקב"ה	hkb"h	the_holy_blessed_he
+7	betin	VB	בעטין	betyN	_
+8	gin	VB	גין	gyN	_
+
+SENT	1648W-KINE,209.62.298
+1	az	C	אַז	Aaz	_
+2	du	PRO	דו	dv	_
+3	hast	HVF	האַסט	hAast	_
+4	dr_lizt	VBN	דר_ליזט	dr_lyzt	_
+5	adm	NPR	אַדם	AadM	_
+6	ukhuh	H	אוכוה	Avxvh	and_Eve
+7	ali	Q	אַלי	Aaly	_
+8	tsvin	NUM	צװין	qVyN	_
+9	droyf	DR+P	דרױף	drWF	_
+10	zagt	VBF	זאַגט	zAagt	_
+11	mshh	NPR	משה	m$h	_
+12	mzmur	H	מזמור	mzmvr	UNKNOWN
+13	shir	H	שיר	$yr	song
+14	liut	H	ליִוט	lyivt	UNKNOWN
+15	hsbt	H	הסבט	hsbt	the_Sabbath
+16	mit	P	מיט	myt	_
+17	gdin	N	גדין	gdyN	_
+
+SENT	1648W-KINE,209.63.300
+1	ven	C	װען	VeN	_
+2	ikh	PRO	איך	AyX	_
+3	gidenk	VBF	גידענק	gydenk	_
+4	tut	DOF	טוט	tvt	_
+5	meyn	PRO$	מײן	mYN	_
+6	herts	N	הערץ	herQ	_
+7	pokhin	VB	פּאָכין	pAoxyN	_
+
+SENT	1648W-KINE,209.63.301
+1	vas	WPRO	װאַס	VAas	_
+2	zi	PRO	זי	zy	_
+3	habn	HVF	האַבן	hAabN	_
+4	an	RP	אַן	AaN	_
+5	gitrafn	VBN	גיטראַפֿן	gytrAafN	_
+6	als	Q	אַלס	Aals	_
+7	der_stakhn	VBN	דער_סטאַכן	der_stAaxN	_
+8	akh	ADV	אַך	AaX	_
+9	r	NPR	ר	r	_
+10	shlum	NPR	שלום	$lvM	_
+11	khzn	NPR	כזן	xzN	_
+12	in	P	אין	AyN	_
+13	feyar	N	פֿײאַר	fYAar	_
+14	tan	DON-IPP	טאַן	tAaN	_
+15	kakhn	VB	קאַכן	kAaxN	_
+
+SENT	1648W-KINE,209.63.302
+1	rbinu	H	רבינו	rbynv	rabbi_our
+2	shl	H	של	$l	of
+3	eulmim	H	עולמים	evlmyM	worlds
+4	laz	VBI	לאַז	lAaz	_
+5	nit	NEG	ניט	nyt	_
+6	an_girakhn	ADJ	אַנ_גיראַכן	Aan_gyrAaxN	_
+
+SENT	1648W-KINE,209.64.304
+1	er	PRO	ער	er	_
+2	iz	BEF	איז	Ayz	_
+3	givezn	VBN	גיװעזן	gyVezN	_
+4	eyn	D	אײן	AYN	_
+5	strkr	ADJ	סטרקר	strkr	_
+6	frumr	ADJ	פֿרומר	frvmr	_
+7	held	N	העלד	held	_
+
+SENT	1648W-KINE,209.64.305
+1	fr	P	פֿר	fr	_
+2	zeyn	PRO$	זײן	zYN	_
+3	tut	N	טוט	tvt	_
+4	fil	Q	פֿיל	fyl	_
+5	sunaim	N	סונאַיִם	svnAayiM	_
+6	aleyn	ADV	אַלײן	AalYN	_
+7	gifelt	VBN	גיפֿעלט	gyfelt	_
+
+SENT	1648W-KINE,209.64.306
+1	lsof	ADV	לסאָף	lsAoF	_
+2	hat	HVF	האַט	hAat	_
+3	er	PRO	ער	er	_
+4	zikh	PRO	זיך	zyX	_
+5	fr_shlasin	VBN	פֿר_שלאַסין	fr_$lAasyN	_
+6	in	P	אין	AyN	_
+7	zeyn	PRO$	זײן	zYN	_
+8	gitselt	N	גיצעלט	gyqelt	_
+9	gizungn	VBN	גיזונגן	gyzvngN	_
+10	el	H	על	el	on
+11	khta	H	כטאַ	xtAa	sin
+12	,	PUNC	,	,	_
+13	az	P	אַז	Aaz	_
+14	het	HVF	העט	het	_
+15	er	PRO	ער	er	_
+16	zikh	PRO	זיך	zyX	_
+17	far	P	פֿאַר	fAar	_
+18	der	D	דער	der	_
+19	emud	N	עמוד	emvd	_
+20	gistelt	VBN	גיסטעלט	gystelt	_
+
+SENT	1648W-KINE,209.65.308
+1	afilu	FP	אַפֿילו	Aafylv	_
+2	goym	N	גױם	gWM	_
+3	habn	HVF	האַבן	hAabN	_
+4	giht	VBN	גיהט	gyht	_
+5	dribr	DR+P	דריבר	drybr	_
+6	rkhmnut	N	רכמנוט	rxmnvt	_
+
+SENT	1648W-KINE,209.65.309
+1	libr	ADJ	ליבר	lybr	_
+2	gat	NPR	גאַט	gAat	_
+3	dr_brm	VBI	דר_ברם	dr_brM	_
+4	dikh	PRO	דיך	dyX	_
+5	ibr	P	איבר	Aybr	_
+6	itumim	H	איטומים	AytvmyM	orphans
+7	ualmnut	H	אואַלמנוט	AvAalmnvt	widows
+8	un	CONJ	און	AvN	_
+9	iber	P	איבער	Ayber	_
+10	di	D	די	dy	_
+11	almnut	H	אַלמנוט	Aalmnvt	widows
+12	hiut	H	היִוט	hyivt	animals
+13	uegunut	H	אועגונוט	Avegvnvt	and_deserted_wives
+
+SENT	1648W-KINE,209.65.310
+1	akh	INTJ	אַך	AaX	_
+2	gut	ADJ	גוט	gvt	_
+3	vi	WADV	װי	Vy	_
+4	hetn	HVF	העטן	hetN	_
+5	gresr	ADJ	גרעסר	gresr	_
+6	kenen	MDN-IPP	קענען	keneN	_
+7	zeyn	VB	זײן	zYN	_
+8	di	D	די	dy	_
+9	evnut	N	עװנוט	eVnvt	_
+
+SENT	1648W-KINE,209.66.312
+1	yum	H	יום	yvM	day
+2	d'	H	ד'	d'	4
+3	,	PUNC	,	,	_
+4	g'	H	ג'	g'	3
+5	bkhuds	H	בכודס	bxvds	in_month
+6	ob	H	אָב	Aob	Av
+7	,	PUNC	,	,	_
+8	az	C	אַז	Aaz	_
+9	pflegn	MDF	פּפֿלעגן	pflegN	_
+10	tsrut	N	צרוט	qrvt	_
+11	tsu	TO	צו	qv	_
+12	zeyn	VB	זײן	zYN	_
+13	hat	HVF	האַט	hAat	_
+14	mn	PRO	מן	mN	_
+15	akh	ADV	אַך	AaX	_
+16	di	D	די	dy	_
+17	k"k	H	ק"ק	k"k	community_holy
+18	falana"h	NPR	פֿאַלאַנאַ"ה	fAalAanAa"h	_
+19	ginumn	VBN	גינומן	gynvmN	_
+20	eyn	RP	אײן	AYN	_
+
+SENT	1648W-KINE,209.66.313
+1	mit	P	מיט	myt	_
+2	tsvelf	NUM	צװעלף	qVelF	_
+3	khlut	N	כלוט	xlvt	_
+4	zenn	BEF	זענן	zenN	_
+5	antlufn	VBN	אַנטלופֿן	AantlvfN	_
+6	a_neyn	ADV	אַ_נײן	Aa_nYN	_
+
+SENT	1648W-KINE,209.66.314
+1	k"k	H	ק"ק	k"k	community_holy
+2	mezibus	NPR	מעזיבוס	mezybvs	_
+3	akh	ADV	אַך	AaX	_
+4	k"k	H	ק"ק	k"k	community_holy
+5	bar	NPR	באַר	bAar	_
+6	,	PUNC	,	,	_
+7	khmst	H	כמסט	xmst	UNKNOWN
+8	alpim	H	אַלפּים	AalpyM	thousands
+9	npsut	N	נפּסוט	npsvt	souls
+10	gihrgt	VBN	גיהרגט	gyhrgt	_
+11	mit	P	מיט	myt	_
+12	grush	ADJ	גרוש	grv$	_
+13	peyn	N	פּײן	pYN	_
+
+SENT	1648W-KINE,209.67.316
+1	nun	INTJ	נ	n	_
+2	veyl	C	װײל	VYl	_
+3	mir	PRO	מיר	myr	_
+4	in	P	אין	AyN	_
+5	sreybn	N	סרײבן	srYbN	_
+6	hltn	VBF	הלטן	hltN	_
+7	sir	ADV	סיר	syr	_
+8	veln	MDF	װעלן	VelN	_
+9	mir	PRO	מיר	myr	_
+10	akh	ADV	אַך	AaX	_
+11	shreybn	VB	שרײבן	$rYbN	_
+12	fun	P	פֿון	fvN	_
+13	khurbn	N	חורבן	HvrbN	_
+14	dk"k	H	דק"ק	dk"k	that_community_holy
+15	kremzi"r	NPR	קרעמזי"ר	kremzy"r	_
+16	vi_val	ADV	װי_װאַל	Vy_VAal	_
+17	es	PRO	עס	es	_
+18	iz	BEF	איז	Ayz	_
+19	gisehn	VBN	גיסעהן	gysehN	_
+20	finf	NUM	פֿינף	fynF	_
+21	yar	N	יאַר	yAar	_
+22	der_fir	DR+P	דער_פֿיר	der_fyr	_
+
+SENT	1648W-KINE,209.67.317
+1	sn	H	סן	sN	year
+2	t"g	H	ט"ג	t"g	1643
+3	t'	H	ט'	t'	9
+4	tmuz	H	טמוז	tmvz	Tamuz
+5	vard	RDF	װאַרד	VAard	_
+6	fr_stert	VAN	פֿר_סטערט	fr_stert	_
+7	ir	PRO$	איר	Ayr	_
+8	shini	ADJ	שיני	$yny	_
+9	tsir	N	ציר	qyr	_
+
+SENT	1648W-KINE,210.68.319
+1-2	am	P~D	עם	eM	_
+1	a	P	אַ	Aa	_
+2	m	D	מ	m	_
+3	erb	H	ערב	erb	eve
+4	sbt	H	סבט	sbt	Sabbath
+5	iz	BEF	איז	Ayz	_
+6	givezn	VBN	גיװעזן	gyVezN	_
+7	di	D	די	dy	_
+8	bizi	ADJ	ביזי	byzy	_
+9	stund	N	סטונד	stvnd	_
+
+SENT	1648W-KINE,210.68.320
+1	zibntsn	ADJ	זיבנצן	zybnqN	_
+2	npsut	N	נפּסוט	npsvt	_
+3	gihrgt	VAN	גיהרגט	gyhrgt	_
+4	fil	Q	פֿיל	fyl	_
+5	givaund	VAN	גיװאַונד	gyVAavnd	_
+6	fil	Q	פֿיל	fyl	_
+7	gifngni	N	גיפֿנגני	gyfngny	_
+8	gibrakht	VAN	גיבראַכט	gybrAaxt	_
+9	um	P	אום	AvM	_
+10	ir	PRO$	איר	Ayr	_
+11	gizunt	N	גיזונט	gyzvnt	_
+12	di	D	די	dy	_
+13	liplikhi	ADJ	ליפּליכי	lyplyxy	_
+14	khlh	N	כלה	xlh	_
+15	fr_brent	VAN	פֿר_ברענט	fr_brent	_
+16	in	P	אין	AyN	_
+17	grund	N	גרונד	grvnd	_
+
+SENT	1648W-KINE,210.69.322
+1	darstn_zun	NPR	דאַרסטנ_זון	dAarstn_zvN	_
+2	dr	D	דר	dr	_
+3	shvidsh	ADJ	שװידש	$Vyd$	_
+4	hoybt_mn	N	הױבט_מן	hWbt_mN	_
+5	yenral	N	יענראַל	yenrAal	_
+6	hat	HVF	האַט	hAat	_
+7	gimkht	VBN	גימכט	gymxt	_
+8	troyarigi	ADJ	טרױאַריגי	trWAarygy	_
+9	herts	N	הערץ	herQ	_
+10	ibral	ADV	איבראַל	AybrAal	_
+
+SENT	1648W-KINE,210.69.323
+1	nsim	N	נסים	nsyM	_
+2	in	P	אין	AyN	_
+3	mkuh	N	מקוה	mkvh	_
+4	gifalin	VBN	גיפֿאַלין	gyfAalyN	_
+5	tsu	P	צו	qv	_
+6	tal	N	טל	tl	_
+
+SENT	1648W-KINE,210.69.324
+1	hkdus	H	הקדוס	hkdvs	the_holy
+2	muhr"r	H	מוהר"ר	mvhr"r	teacher_our_and_rabbi_our_the_master
+3	mrdki	NPR	מרדקי	mrdky	_
+4	umuhr"r	H	אומוהר"ר	Avmvhr"r	and_teacher_our_and_rabbi_our_the_master
+5	itskh	NPR	איצך	AyqX	_
+6	khn	NPR	כן	xN	_
+7	gihrgt	VBN	גיהרגט	gyhrgt	_
+8	mit	P	מיט	myt	_
+9	eyn_mal	ADV	אײנ_מאַל	AYn_mAal	_
+
+SENT	1648W-KINE,210.70.326
+1	meyn	PRO$	מײן	mYN	_
+2	troyarn	N	טרױאַרן	trWAarN	_
+3	kan	MDF	ק"ן	k"N	_
+4	ikh	PRO	איך	AyX	_
+5	nit	NEG	ניט	nyt	_
+6	oyf	RP	אױף	AWF	_
+7	hern	VB	הערן	herN	_
+
+SENT	1648W-KINE,210.70.327
+1	das	D	דת	dS	_
+2	pnim	N	פּנים	pnyM	_
+3	kan	MDF	ק"ן	k"N	_
+4	mn	PRO	מן	mN	_
+5	vshin	VB	װשין	V$yN	_
+6	mit	P	מיט	myt	_
+7	trerin	N	טרערין	treryN	_
+
+SENT	1648W-KINE,210.70.328
+1	fil	Q	פֿיל	fyl	_
+2	zeynn	VBF	זײנן	zYnN	_
+3	ne	H	נע	ne	move
+4	vnd	H	װנד	Vnd	and_wander
+
+SENT	1648W-KINE,210.70.329
+1	visn	VBF	װיסן	VysN	_
+2	nit	NEG	ניט	nyt	_
+3	vau_hin	WADV	װאַו_הין	VAav_hyN	_
+4	tsu	TO	צו	qv	_
+5	kern	VB	קרן	krN	_
+6	zey	VBF	זײ	zY	_
+7	den	ADV	דען	deN	_
+8	oyf	P	אױף	AWF	_
+9	den	D	דען	deN	_
+10	almekhtign	ADJ	אַלמעכטיגן	AalmextygN	_
+11	hern	N	הערן	herN	_
+
+SENT	1648W-KINE,210.71.331
+1	hi	H	הי	hy	UNKNOWN
+2	ukimu	H	אוקימו	Avkymv	UNKNOWN
+3	ze	VBI	זע	ze	_
+4	vi	WADV	װי	Vy	_
+5	men	PRO	מען	meN	_
+6	uns	PRO	אונס	Avns	_
+7	hat	HVF	האַט	hAat	_
+8	tun	DON-IPP	טון	tvN	_
+9	nitn	VB	ניטן	nytN	_
+10	di	D	די	dy	_
+11	kdusim	N	קדוסים	kdvsyM	_
+12	mit	P	מיט	myt	_
+13	mikhut	H	מיכוט	myxvt	UNKNOWN
+14	msunut	H	מסונוט	msvnvt	UNKNOWN
+15	tan	DON-IPP	טאַן	tAaN	_
+16	titn	VB	טיטן	tytN	_
+17	gishlagn	VBN	גישלאַגן	gy$lAagN	_
+18	,	PUNC	,	,	_
+19	givaunt	VBN	גיװאַונט	gyVAavnt	_
+20	,	PUNC	,	,	_
+21	gfirt	VBN	גפֿירט	gfyrt	_
+22	in	P	אין	AyN	_
+23	keytn	N	קײטן	kYtN	_
+
+SENT	1648W-KINE,210.71.332
+1	laz	VBI	לאַז	lAaz	_
+2	mal	ADV	מל	ml	_
+3	eyn	D	אײן	AYN	_
+4	oyf_herung	N	אױפֿ_הערונג	AWf_hervng	_
+5	zeyn	VB	זײן	zYN	_
+
+SENT	1648W-KINE,210.71.333
+1	es	PRO	עס	es	_
+2	tut	VBF	טוט	tvt	_
+3	fun	P	פֿון	fvN	_
+4	nitn	N	ניטן	nytN	_
+
+SENT	1648W-KINE,210.72.335
+1	zekht	VBI	זעכט	zext	_
+2	libi	ADJ	ליבי	lyby	_
+3	abut	H	אַבוט	Aabvt	fathers
+
+SENT	1648W-KINE,210.72.336
+1	tut	DOI	טוט	tvt	_
+2	nakh	P	נ"ך	n"X	_
+3	eyer	PRO$	אײער	AYer	_
+4	kindr	N	קינדר	kyndr	_
+5	fragn	VB	פֿראַגן	frAagN	_
+
+SENT	1648W-KINE,210.72.337
+1	eyar	PRO$	אײאַר	AYAar	_
+2	khsidim	H	חסידים	HsydyM	khasidim
+3	utsdikim	H	אוצדיקים	AvqdykyM	and_righteous_ones
+4	zer	ADV	זער	zer	_
+5	tun	DOF	טון	tvN	_
+6	plagn	VB	פּלאַגן	plAagN	_
+
+SENT	1648W-KINE,210.72.338
+1	trist	VBI	טריסט	tryst	_
+2	uns	PRO	אונס	Avns	_
+
+SENT	1648W-KINE,210.72.339
+1	kir	MDF	קיר	kyr	_
+2	zeyn	BE	זײן	zYN	_
+3	nun	ADV	נ	n	_
+4	kpl	H	קפּל	kpl	doubled
+5	gishlagn	VAN	גישלאַגן	gy$lAagN	_
+6	drum	DR+P	דרום	drvM	_
+7	den	D	דען	deN	_
+8	ibrgn	N	איברגן	AybrgN	_
+9	ir	PRO$	איר	Ayr	_
+10	zind	N	זינד	zynd	_
+11	tsu	TO	צו	qv	_
+12	frtragn	VB	פֿרטראַגן	frtrAagN	_
+
+SENT	1648W-KINE,210.73.341
+1	kumt	VBI	קומט	kvmt	_
+2	al	Q	אַל	Aal	_
+3	mit	P	מיט	myt	_
+4	msh	NPR	מש	m$	_
+5	rbinu	H	רבינו	rbynv	rabbi_our
+6	tsu	TO	צו	qv	_
+7	betn	VB	בעטן	betN	_
+8	gat	NPR	גאַט	gAat	_
+9	dz	C	דז	dz	_
+10	mir	PRO	מיר	myr	_
+11	nit	NEG	ניט	nyt	_
+12	veytr	ADV	װײטר	VYtr	_
+13	kemn	VBF	קעמן	kemN	_
+14	tsu	P	צו	qv	_
+15	smakh	N	סמך	smX	_
+16	un	CONJ	און	AvN	_
+17	spat	N	ספּאַט	spAat	_
+18	dz	C	דז	dz	_
+19	blut	N	בלוט	blvt	_
+20	fun	P	פֿון	fvN	_
+21	kdusim	N	קדוסים	kdvsyM	_
+22	di	D	די	dy	_
+23	erd	N	ערד	erd	_
+24	nit	NEG	ניט	nyt	_
+25	bidekn	VB	בידעקן	bydekN	_
+26	lat	VBF	לאַט	lAat	_
+27	biz	C	ביז	byz	_
+28	er	PRO	ער	er	_
+29	far	P	פֿאַר	fAar	_
+30	unzr	PRO$	אונזר	Avnzr	_
+31	oygn	N	אױגן	AWgN	_
+32	zikh	PRO	זיך	zyX	_
+33	girekhnt	VBN	גירעכנט	gyrexnt	_
+34	hat	HVF	האַט	hAat	_
+
+SENT	1648W-KINE,210.74.343
+1	ali	Q	אַלי	Aaly	_
+2	di	WPRO	די	dy	_
+3	oyf	P	אױף	AWF	_
+4	uns	PRO	אונס	Avns	_
+5	stin	VBF	סטין	styN	_
+6	zal	MDF	ז"ל	z"l	_
+7	er	PRO	ער	er	_
+8	tsu_brekhn	VB	צו_ברעכן	qv_brexN	_
+9	mit	P	מיט	myt	_
+10	zeyn	PRO$	זײן	zYN	_
+11	nkmh	N	נקמה	nkmh	_
+12	kleydr	N	קלײדר	klYdr	_
+13	an	P	אַן	AaN	_
+14	inn	PRO	אינן	AynN	_
+15	rekhn	VB	רעכן	rexN	_
+16	tsu	TO	צו	qv	_
+17	gebn	VB	געבן	gebN	_
+18	inn	PRO	אינן	AynN	_
+19	daz	D	דאַז	dAaz	_
+20	kus	H	קוס	kvs	UNKNOWN
+21	purenut	H	פּורענוט	pvrenvt	UNKNOWN
+22	tsu	TO	צו	qv	_
+23	tsekhn	VB	צעכן	qexN	_
+
+SENT	1648W-KINE,210.74.344
+1	abr	CONJ	אַבר	Aabr	_
+2	eyeri	PRO$	אײערי	AYery	_
+3	zind	N	זינד	zynd	_
+4	zeyn	BEF	זײן	zYN	_
+5	fr_gebn	VAN	פֿר_געבן	fr_gebN	_
+6	zal	MDF	ז"ל	z"l	_
+7	er	PRO	ער	er	_
+8	sprekhn	VB	ספּרעכן	sprexN	_
+
+SENT	1648W-KINE,210.74.345
+1	oyf	RP	אױף	AWF	_
+2	her	VBI	הער	her	_
+3	tsu	TO	צו	qv	_
+4	veynn	VB	װײנן	VYnN	_
+
+SENT	1648W-KINE,211.75.347
+1	sti	VBI	סטי	sty	_
+2	oyf	RP	אױף	AWF	_
+3	fun	P	פֿון	fvN	_
+4	der	D	דער	der	_
+5	erdn	N	ערדן	erdN	_
+
+SENT	1648W-KINE,211.75.348
+1	zarg	VBI	זאַרג	zAarg	_
+2	nit	NEG	ניט	nyt	_
+
+SENT	1648W-KINE,211.75.349
+1	vert	RDF	װערט	Vert	_
+2	bald	ADV	באַלד	bAald	_
+3	besr	ADJ	בעסר	besr	_
+4	verdn	VB	װערדן	VerdN	_
+
+SENT	1648W-KINE,211.75.350
+1	alih	NPR	אַליה	Aalyh	_
+2	nbia	H	נביִאַ	nbyiAa	prophet
+3	kumt	VBF	קומט	kvmt	_
+4	der	WPRO	דער	der	_
+5	gritn	VBN	גריטן	grytN	_
+6	iz	BEF	איז	Ayz	_
+7	oyf	P	אױף	AWF	_
+8	feyarigi	ADJ	פֿײאַריגי	fYAarygy	_
+9	pferdn	N	פּפֿערדן	pferdN	_
+10	mit	P	מיט	myt	_
+11	di	D	די	dy	_
+12	sunaim	N	סונאַיִם	svnAayiM	_
+13	firn	VB	פֿירן	fyrN	_
+14	eyn	D	אײן	AYN	_
+15	slekht	ADJ	סלעכט	slext	_
+16	giberdn	N	גיבערדן	gyberdN	_
+
+SENT	1648W-KINE,211.76.352
+1	mshikh	NPR	משיך	m$yX	_
+2	zeyn	PRO$	זײן	zYN	_
+3	libn	ADJ	ליבן	lybN	_
+4	knekht	N	קנעכט	knext	_
+5	vert	RDF	װערט	Vert	_
+6	er	PRO	ער	er	_
+7	dr_vekn	VB	דר_װעקן	dr_VekN	_
+8	emlk	N	עמלק	emlk	_
+9	un	CONJ	און	AvN	_
+10	sunaim	N	סונאַיִם	svnAayiM	_
+11	ir	PRO$	איר	Ayr	_
+12	namn	N	נאַמן	nAamN	_
+13	oys	RP	אױס	AWs	_
+14	mekn	VB	מעקן	mekN	_
+
+SENT	1648W-KINE,211.76.353
+1	unzr	PRO$	אונזר	Avnzr	_
+2	leydigr	N	לײדיגר	lYdygr	_
+3	nukt	ADJ	נוקט	nvkt	_
+4	zeyn	VBF	זײן	zYN	_
+5	an	P	אַן	AaN	_
+6	shvert	N	שװערט	$Vert	_
+7	un	CONJ	און	AvN	_
+8	stekn	N	סטעקן	stekN	_
+
+SENT	1648W-KINE,211.76.354
+1	den	CONJ	דען	deN	_
+2	er	PRO	ער	er	_
+3	vert	RDF	װערט	Vert	_
+4	als	Q	אַלס	Aals	_
+5	msptn	VB	מספּטן	msptN	_
+6	mit	P	מיט	myt	_
+7	zeynm	PRO$	זײנם	zYnM	_
+8	stekn	N	סטעקן	stekN	_
+
+SENT	1648W-KINE,211.77.356
+1	nkhmut	H	נכמוט	nxmvt	revenge?
+2	un	CONJ	און	AvN	_
+3	bsurut	H	בסורוט	bsvrvt	news
+4	tubut	H	טובוט	tvbvt	good
+5	vern	RDF	װערן	VerN	_
+6	mir	PRO	מיר	myr	_
+7	shoyan	VB	שױאַן	$WAaN	_
+
+SENT	1648W-KINE,211.77.357
+1	al	Q	אַל	Aal	_
+2	di	WPRO	די	dy	_
+3	tsu	P	צו	qv	_
+4	gat	NPR	גאַט	gAat	_
+5	hafn	VBF	האַפֿן	hAafN	_
+6	un	CONJ	און	AvN	_
+7	far_troyan	VBF	פֿאַר_טרױאַן	fAar_trWAaN	_
+8	ken	MDF	קען	keN	_
+9	iruslim	NPR	אירוסלים	AyrvslyM	_
+10	frid	N	פֿריד	fryd	_
+11	upfr	H	אופּפֿר	Avpfr	and_UNKNOWN
+12	brengn	VB	ברענגן	brengN	_
+13	mnin	N	מנין	mnyN	_
+14	un	CONJ	און	AvN	_
+15	froyain	N	פֿרױאַיִן	frWAayiN	_
+16	in	P	אין	AyN	_
+17	bit_hmkdsh	N	ביט_המקדש	byt_hmkd$	temple
+18	vas	C	װאַס	VAas	_
+19	hkb"h	H	הקב"ה	hkb"h	the_holy_blessed_he
+20	vert	RDF	װערט	Vert	_
+21	zelbrt	ADV	זעלברט	zelbrt	_
+22	boyan	VB	בױאַן	bWAaN	_
+
+SENT	1648W-KINE,211.78.359
+1	amn	INTJ	אַמן	AamN	_
+2	veln	MDF	װעלן	VelN	_
+3	mir	PRO	מיר	myr	_
+4	zagn	VB	זאַגן	zAagN	_
+5	mit	P	מיט	myt	_
+6	ful	ADJ	פֿול	fvl	_
+7	moyl	N	מױל	mWl	_
+8	breyt	ADV	ברײט	brYt	_
+9	ven	C	װען	VeN	_
+10	mn	PRO	מן	mN	_
+11	brengt	VBF	ברענגט	brengt	_
+12	eyn	D	אײן	AYN	_
+13	priznd	N	פּריזנד	pryznd	_
+14	unzr	PRO$	אונזר	Avnzr	_
+15	bridr	N	ברידר	brydr	_
+16	far_spreyt	ADJ	פֿאַר_ספּרײט	fAar_sprYt	_
+
+SENT	1648W-KINE,211.78.360
+1	fargesn	VAN	פֿאַרגעסן	fAargesN	_
+2	vert	RDF	װערט	Vert	_
+3	vern	RD	װערן	VerN	_
+4	ali	Q	אַלי	Aaly	_
+5	troyarn	N	טרױאַרן	trWAarN	_
+6	un	CONJ	און	AvN	_
+7	leyd	N	לײד	lYd	_
+
+SENT	1648W-KINE,211.78.361
+1	keyn	Q	קײן	kYN	_
+2	zak	N	זאַק	zAak	_
+3	min	QR	מין	myN	_
+4	tsu	TO	צו	qv	_
+5	kleydn	VB	קלײדן	klYdN	_
+6	neyart	FP	נײאַרט	nYAart	_
+7	grusi	ADJ	גרוסי	grvsy	_
+8	freyd	N	פֿרײד	frYd	_
+9	amn	H	אַמן	AamN	amen
+

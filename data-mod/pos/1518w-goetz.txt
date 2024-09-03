@@ -1,0 +1,688 @@
+SENT	1518W-GOETZ,159.3
+1	ikh	PRO	איך	AyX	_
+2	tue	VBF	טוע	tve	_
+3	oykh	PRO	אױך	AWX	_
+4	das	D	דת	dS	_
+5	tsu	TO	צו	qv	_
+6	visen	VB	װיסען	VyseN	_
+7	un	CONJ	און	AvN	_
+8	kol	H	כּל-	Kl-	all
+9	hakal	H	האַקאַל	hAakAal	the_public
+10	tsu	TO	צו	qv	_
+11	zagen	VB	זאַגען	zAageN	_
+12	den	D	דען	deN	_
+13	grosen	ADJ	גראָסען	grAoseN	_
+14	gevalt	N	געװאַלט	geVAalt	_
+15	un'	CONJ	אונ'	Avn'	_
+16	das	D	דת	dS	_
+17	gros	ADJ	גראָס	grAos	_
+18	un_rekht	N	אונ_רעכט	Avn_rext	_
+19	das	WPRO	דת	dS	_
+20	unz	PRO	אונז	Avnz	_
+21	vayzen	N	װײַזען	VYazeN	_
+22	ist	BEF	איסט	Ayst	_
+23	vider_faren	VBN	װידער_פֿאַרען	Vyder_fAareN	_
+24	in	P	אין	AyN	_
+25	regenspurk	NPR	רעגענספּורק	regenspvrk	_
+26	fon	P	פֿאָן	fAoN	_
+27	unzerem	PRO$	אונזערעם	AvnzereM	_
+28	shtif_fater	N	שטיפֿ_פֿאַטער	$tyf_fAater	_
+29	man	NPR	מאַן	mAaN	_
+
+SENT	1518W-GOETZ,159.4
+1	dokh	ADV	דאָך	dAoX	_
+2	red	VBF	רעד	red	_
+3	ikh	PRO	איך	AyX	_
+4	fur	P	פֿור	fvr	_
+5	mikh	PRO	מיך	myX	_
+6	alayn	ADV	אַלײַן	AalYaN	_
+
+SENT	1518W-GOETZ,159.5
+1	das	D	דת	dS	_
+2	erst	ADJ	ערסט	erst	_
+3	do	C	דאָ	dAo	_
+4	vir	PRO	װיר	Vyr	_
+5	zein	BEF	זעיִן	zeyiN	_
+6	gezesen	VBN	געזעסען	gezeseN	_
+7	tsu	P	צו	qv	_
+8	altorf	NPR	אַלטאָרף	AaltAorF	_
+9	do	ADV	דאָ	dAo	_
+10	ist	BEF	איסט	Ayst	_
+11	mein	PRO$	מעיִן	meyiN	_
+12	fater	N	פֿאַטער	fAater	_
+13	zelig	ADJ	זעליג	zelyg	_
+14	ab	RP	אַב	Aab	_
+15	gangen	VBN	גאַנגען	gAangeN	_
+16	mit	P	מיט	myt	_
+17	tot	N	טאָט	tAot	_
+
+SENT	1518W-GOETZ,159.6
+1	do	ADV	דאָ	dAo	_
+2	ist	BEF	איסט	Ayst	_
+3	mein	PRO$	מעיִן	meyiN	_
+4	mueter	N	מועטער	mveter	_
+5	zelig	ADJ	זעליג	zelyg	_
+6	morgen_gob	N	מאָרגענ_גאָב	mAorgen_gAob	_
+7	gevest	VBN	געװעסט	geVest	_
+8	zekhs_hunder{t}	NUM	זעכס_הונדער{ט}	zexs_hvnder{t}	_
+9	gulden	N	גולדען	gvldeN	_
+
+SENT	1518W-GOETZ,159.7
+1	do	ADV	דאָ	dAo	_
+2	hot	HVF	האָט	hAot	_
+3	zi	PRO	זי	zy	_
+4	genumen	VBN	גענומען	genvmeN	_
+5	den	D	דען	deN	_
+6	mendel	NPR	מענדעל	mendel	_
+7	fon	P	פֿאָן	fAoN	_
+8	regenspurk	NPR	רעגענספּורק	regenspvrk	_
+
+SENT	1518W-GOETZ,160.8
+1	un'	CONJ	אונ'	Avn'	_
+2	hot	HVF	האָט	hAot	_
+3	im	PRO	אים	AyM	_
+4	for_sprokhen	VBN	פֿאָר_ספּראָכען	fAor_sprAoxeN	_
+5	un	CONJ	און	AvN	_
+6	gegeben	VBN	געגעבען	gegebeN	_
+7	drit_halb_hunder{t}	NUM	דריט_האַלב_הונדער{ט}	dryt_hAalb_hvnder{t}	_
+8	gulden	N	גולדען	gvldeN	_
+9	reinis	ADJ	רעיִניס	reyinys	_
+
+SENT	1518W-GOETZ,160.9
+1	das	D	דת	dS	_
+2	ander	ADJ	אַנדער	Aander	_
+3	fierd_halb_hundert	NUM	פֿיִערד_האַלב_הונדערט	fyierd_hAalb_hvndert	_
+4	gulden	N	גולדען	gvldeN	_
+5	reinis	ADJ	רעיִניס	reyinys	_
+6	uns	PRO	אונס	Avns	_
+7	armen	ADJ	אַרמען	AarmeN	_
+8	un	CONJ	און	AvN	_
+9	dertsogen	ADJ	דערצאָגען	derqAogeN	_
+10	vayzen	N	װײַזען	VYazeN	_
+11	tsu	TO	צו	qv	_
+12	halten	VB	האַלטען	hAalteN	_
+13-14	tsum	P~D	צום	qvM	_
+13	tsu	P	צו	qv	_
+14	m	D	מ	m	_
+15	besten	ADJS	בעסטען	besteN	_
+
+SENT	1518W-GOETZ,160.10
+1	un'	CONJ	אונ'	Avn'	_
+2	zi	PRO	זי	zy	_
+3	gekauft	VBN	געקאַופֿט	gekAavft	_
+4	hot	HVF	האָט	hAot	_
+5	das	D	דת	dS	_
+6	hous	N	האָוס	hAovs	_
+7	,	PUNC	,	,	_
+8	do	WADV	דאָ	dAo	_
+9	der	D	דער	der	_
+10	man	N	מאַן	mAaN	_
+11	inen	ADV	אינען	AyneN	_
+12	zitst	VBF	זיצט	zyqt	_
+13	,	PUNC	,	,	_
+14	fon	P	פֿאָן	fAoN	_
+15	der	D	דער	der	_
+16	gemayn	ADJ	געמײַן	gemYaN	_
+17	yudis_hayt	N	יודיס_הײַט	yvdys_hYat	_
+18	das	C	דת	dS	_
+19	yederman	Q	יעדערמאַן	yedermAaN	_
+20	tsu	TO	צו	qv	_
+21	visen	VB	װיסען	VyseN	_
+22	is	VBF	איס	Ays	_
+23	do	DR	דאָ	dAo	_
+24	zol	MDF	זאָל	zAol	_
+25	er	PRO	ער	er	_
+26	inen	P	אינען	AyneN	_
+27	zitsen	VB	זיצען	zyqeN	_
+28	do_veil	C	דאָ_װעיִל	dAo_Veyil	_
+29	zi	PRO	זי	zy	_
+30	lebt	VBF	לעבט	lebt	_
+
+SENT	1518W-GOETZ,160.11
+1	un	CONJ	און	AvN	_
+2	nokh	P	נאָך	nAoX	_
+3	irem	PRO$	אירעם	AyreM	_
+4	tot	N	טאָט	tAot	_
+5	do	ADV	דאָ	dAo	_
+6	zol	MDF	זאָל	zAol	_
+7	das	D	דת	dS	_
+8	houz	N	האָוז	hAovz	_
+9	uns	PRO	אונס	Avns	_
+10	bruedern	N	ברועדערן	brvederN	_
+11	haym	RP-N	הײַם	hYaM	_
+12	gefalen	VB	געפֿאַלען	gefAaleN	_
+
+SENT	1518W-GOETZ,160.12
+1	das	D	דת	dS	_
+2	hous	N	האָוס	hAovs	_
+3	hot	HVF	האָט	hAot	_
+4	zi	PRO	זי	zy	_
+5	gekauft	VBN	געקאַופֿט	gekAavft	_
+6	un'	P	אונ'	Avn'	_
+7	hundert	NUM	הונדערט	hvndert	_
+8	gulden	N	גולדען	gvldeN	_
+9	reinis	ADJ	רעיִניס	reyinys	_
+
+SENT	1518W-GOETZ,160.13
+1	di	D	די	dy	_
+2	drit_halb_hundert	NUM	דריט_האַלב_הונדערט	dryt_hAalb_hvndert	_
+3	gulden	N	גולדען	gvldeN	_
+4	di	D	די	dy	_
+5	hot	HVF	האָט	hAot	_
+6	er	PRO	ער	er	_
+7	under	P	אונדער	Avnder	_
+8	zikh	PRO	זיך	zyX	_
+9	gebrokht	VBN	געבראָכט	gebrAoxt	_
+10	mit	P	מיט	myt	_
+11	foreter_rei	N	פֿאָרעטער_רעיִ	fAoreter_reyi	_
+12	un'	CONJ	אונ'	Avn'	_
+13	mit	P	מיט	myt	_
+14	bueberei	N	בועבערעיִ	bvebereyi	_
+15	az	C	אַז	Aaz	_
+16	den	ADV	דען	deN	_
+17	ayner	D	אײַנער	AYaner	_
+18	gantsen	ADJ	גאַנצען	gAanqeN	_
+19	gemayn	ADJ	געמײַן	gemYaN	_
+20	iudish_hayt	N	איודיש_הײַט	Ayvdy$_hYat	_
+21	vol	ADV	װאָל	VAol	_
+22	tsu	TO	צו	qv	_
+23	visen	VB	װיסען	VyseN	_
+24	is	VBF	איס	Ays	_
+
+SENT	1518W-GOETZ,160.14
+1	mer	QR	מער	mer	_
+2	,	PUNC	,	,	_
+3	haben	HVF	האַבען	hAabeN	_
+4	unzer	PRO$	אונזער	Avnzer	_
+5	for_muner	N	פֿאָר_מונער	fAor_mvner	_
+6	gegeben	VBN	געגעבען	gegebeN	_
+7	meinem	PRO$	מעיִנעם	meyineM	_
+8	stief_fater	N	סטיִעפֿ_פֿאַטער	styief_fAater	_
+9	tsvay_hunder{t}	NUM	צװײַ_הונדער{ט}	qVYa_hvnder{t}	_
+10	gulden	N	גולדען	gvldeN	_
+11	gelt	N	געלט	gelt	_
+12	un'	CONJ	אונ'	Avn'	_
+13	gelt_vert	N	געלט_װערט	gelt_Vert	_
+14	,	PUNC	,	,	_
+15	al	Q	אַל	Aal	_
+16	das	WPRO	דת	dS	_
+17	in	P	אין	AyN	_
+18	ein	D	עיִן	eyiN	_
+19	hous	N	האָוס	hAovs	_
+20	ghoyrt	VBF	גהױרט	ghWrt	_
+21	,	PUNC	,	,	_
+22	as	C	אַס	Aas	_
+23	mein	PRO$	מעיִן	meyiN	_
+24	fater	N	פֿאַטער	fAater	_
+25	ist	BEF	איסט	Ayst	_
+26	gevest	VBN	געװעסט	geVest	_
+27	ayn	D	אײַן	AYaN	_
+28	reikh	ADJ	רעיִך	reyiX	_
+29	man	N	מאַן	mAaN	_
+
+SENT	1518W-GOETZ,160.15
+1	er	PRO	ער	er	_
+2	zol	MDF	זאָל	zAol	_
+3	uns	PRO	אונס	Avns	_
+4	halten	VB	האַלטען	hAalteN	_
+5	un'	CONJ	אונ'	Avn'	_
+6	tsiuhun	VB	ציִוהון	qyivhvN	_
+7	drei	NUM	דרעיִ	dreyi	_
+8	ior	N	איאָר	AyAor	_
+9	lang	ADV	לאַנג	lAang	_
+10	mit	P	מיט	myt	_
+11	esen	N	עסען	eseN	_
+12	,	PUNC	,	,	_
+13	mit	P	מיט	myt	_
+14	drinken	N	דרינקען	drynkeN	_
+15	,	PUNC	,	,	_
+16	mit	P	מיט	myt	_
+17	klaydern	N	קלײַדערן	klYaderN	_
+18	,	PUNC	,	,	_
+19	mit	P	מיט	myt	_
+20	lernen	N	לערנען	lerneN	_
+21	nokh	P	נאָך	nAoX	_
+22	dem	D	דעם	deM	_
+23	iudisen	ADJ	איודיסען	AyvdyseN	_
+24	orden	N	אָרדען	AordeN	_
+
+SENT	1518W-GOETZ,160.16
+1	der	WPRO	דער	der	_
+2	es	PRO	עס	es	_
+3	nit	NEG	ניט	nyt	_
+4	geton	VBN	געטאָן	getAoN	_
+5	hot	HVF	האָט	hAot	_
+6	das	D	דת	dS	_
+7	is	BEF	איס	Ays	_
+8	er	PRO	ער	er	_
+9	gevest	VBN	געװעסט	geVest	_
+
+SENT	1518W-GOETZ,160.17
+1	das	C	דת	dS	_
+2	ikh	PRO	איך	AyX	_
+3	nit	NEG	ניט	nyt	_
+4	men	QR	מען	meN	_
+5	bin	BEF	בין	byN	_
+6	bei	P	בעיִ	beyi	_
+7	im	PRO	אים	AyM	_
+8	gevest	VBN	געװעסט	geVest	_
+9	ven	P	װען	VeN	_
+10	ayn	D	אײַן	AYaN	_
+11	ior	N	איאָר	AyAor	_
+12	alzo	ADV	אַלזאָ	AalzAo	_
+13	hot	HVF	האָט	hAot	_
+14	er	PRO	ער	er	_
+15	zikh	PRO	זיך	zyX	_
+16	alzo	ADV	אַלזאָ	AalzAo	_
+17	arm	ADJ	אַרם	AarM	_
+18	gemakht	VBN	געמאַכט	gemAaxt	_
+
+SENT	1518W-GOETZ,160.18
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	zei	BEF	זעיִ	zeyi	_
+4	for_dorben	VAN	פֿאָר_דאָרבען	fAor_dAorbeN	_
+
+SENT	1518W-GOETZ,160.19
+1	un	CONJ	און	AvN	_
+2	hot	HVF	האָט	hAot	_
+3	mein	PRO$	מעיִן	meyiN	_
+4	arme	ADJ	אַרמע	Aarme	_
+5	geshvistrikh	N	געשװיסטריך	ge$VystryX	_
+6	gehalten	VBN	געהאַלטען	gehAalteN	_
+7	az	P	אַז	Aaz	_
+8	ayn	D	אײַן	AYaN	_
+9	foreter	N	פֿאָרעטער	fAoreter	_
+10	un'	CONJ	אונ'	Avn'	_
+11	boyzvikht	N	בױזװיכט	bWzVyxt	_
+
+SENT	1518W-GOETZ,160.20
+1	un	CONJ	און	AvN	_
+2	kaynerlay	Q	קײַנערלײַ	kYanerlYa	_
+3	hot	HVF	האָט	hAot	_
+4	gehalt{en}	VBN	געהאַלט{ען}	gehAalt{eN}	_
+5	vas	WPRO	װאַס	VAas	_
+6	er	PRO	ער	er	_
+7	unz	PRO	אונז	Avnz	_
+8	hot	HVF	האָט	hAot	_
+9	tsue	RP	צוע	qve	_
+10	gezagt	VBN	געזאַגט	gezAagt	_
+11	das	WPRO	דת	dS	_
+12	ayner	D	אײַנער	AYaner	_
+13	gantsen	ADJ	גאַנצען	gAanqeN	_
+14	gemayn	ADJ	געמײַן	gemYaN	_
+15	iudish_hayt	N	איודיש_הײַט	Ayvdy$_hYat	_
+16	tsu	TO	צו	qv	_
+17	visen	VB	װיסען	VyseN	_
+18	is	VBF	איס	Ays	_
+
+SENT	1518W-GOETZ,160.21
+1	mer	QR	מער	mer	_
+2	,	PUNC	,	,	_
+3	kan	MDF	ק"ן	k"N	_
+4	mir	PRO	מיר	myr	_
+5	armen	ADJ	אַרמען	AarmeN	_
+6	man	N	מאַן	mAaN	_
+7	nit	NEG	ניט	nyt	_
+8	verden	VB	װערדען	VerdeN	_
+9	mein	PRO$	מעיִן	meyiN	_
+10	gelihen	ADJ	געליהען	gelyheN	_
+11	gelt	N	געלט	gelt	_
+12	das	WPRO	דת	dS	_
+13	ikh	PRO	איך	AyX	_
+14	oft	ADV	אָפֿט	Aoft	_
+15	hab	HVF	האַב	hAab	_
+16	gefodert	VBN	געפֿאָדערט	gefAodert	_
+17	zelbs	ADV	זעלבס	zelbs	_
+18	un'	CONJ	אונ'	Avn'	_
+19	gesikt	VBN	געסיקט	gesykt	_
+20	hab	HVF	האַב	hAab	_
+21	andert	ADJ	אַנדערט	Aandert	_
+22	loyt	N	לוט	lvt	_
+23	an	P	אַן	AaN	_
+24	im	PRO	אים	AyM	_
+
+SENT	1518W-GOETZ,160.22
+1	er	PRO	ער	er	_
+2	meiner	PRO	מעיִנער	meyiner	_
+3	gespot	VBN	געספּאָט	gespAot	_
+4	hot	HVF	האָט	hAot	_
+
+SENT	1518W-GOETZ,160.23
+1	un	CONJ	און	AvN	_
+2	forlaykt	VBF	פֿאָרלײַקט	fAorlYakt	_
+3	mir	PRO	מיר	myr	_
+4	armen	ADJ	אַרמען	AarmeN	_
+5	man	N	מאַן	mAaN	_
+6	das	D	דת	dS	_
+7	mein	N	מעיִן	meyiN	_
+
+SENT	1518W-GOETZ,160.24
+1	mer	QR	מער	mer	_
+2	is	VBF	איס	Ays	_
+3	ayner	D	אײַנער	AYaner	_
+4	gantsen	ADJ	גאַנצען	gAanqeN	_
+5	gemayn	ADJ	געמײַן	gemYaN	_
+6	iudis_hayt	N	איודיס_הײַט	Ayvdys_hYat	_
+7	tsu	TO	צו	qv	_
+8	visen	VB	װיסען	VyseN	_
+
+SENT	1518W-GOETZ,160.25
+1	do	C	דאָ	dAo	_
+2	mayn	PRO$	מײַן	mYaN	_
+3	geshvistrikh	N	געשװיסטריך	ge$VystryX	_
+4	ist	BEF	איסט	Ayst	_
+5	bei	P	בעיִ	beyi	_
+6	im	PRO	אים	AyM	_
+7	gevest	VBN	געװעסט	geVest	_
+8	do	ADV	דאָ	dAo	_
+9	hot	HVF	האָט	hAot	_
+10	er	PRO	ער	er	_
+11	zikh	PRO	זיך	zyX	_
+12	alzo	ADV	אַלזאָ	AalzAo	_
+13	arm	ADJ	אַרם	AarM	_
+14	gemakht	VBN	געמאַכט	gemAaxt	_
+
+SENT	1518W-GOETZ,160.26
+1	un'	CONJ	אונ'	Avn'	_
+2	hot	HVF	האָט	hAot	_
+3	for_zetst	VBN	פֿאָר_זעצט	fAor_zeqt	_
+4	di	D	די	dy	_
+5	houzen	N	האָוזען	hAovzeN	_
+6	fon	P	פֿאָן	fAoN	_
+7	bayn	N	בײַן	bYaN	_
+8	um	P	אום	AvM	_
+9	brot	N	בראָט	brAot	_
+10	,	PUNC	,	,	_
+11	ouf	P	אָוף	AovF	_
+12	aym	D	אײַם	AYaM	_
+13	sim	N	סים	syM	_
+
+SENT	1518W-GOETZ,160.27
+1	un'	CONJ	אונ'	Avn'	_
+2	hot	HVF	האָט	hAot	_
+3	ayn	D	אײַן	AYaN	_
+4	gantse	ADJ	גאַנצע	gAanqe	_
+5	gemayn	ADJ	געמײַן	gemYaN	_
+6	iudishayt	N	איודישײַט	Ayvdy$Yat	_
+7	das	D	דת	dS	_
+8	ir	N	איר	Ayr	_
+9	for	RP	פֿאָר	fAor	_
+10	halten	VBN	האַלטען	hAalteN	_
+11	das	C	דת	dS	_
+12	er	PRO	ער	er	_
+13	uns	PRO	אונס	Avns	_
+14	for_driben	VBN	פֿאָר_דריבען	fAor_drybeN	_
+15	hot	HVF	האָט	hAot	_
+16	ouz	P	אָוז	Aovz	_
+17	dem	D	דעם	deM	_
+18	houz	N	האָוז	hAovz	_
+19	hunger	N	הונגער	hvnger	_
+20	halben	N	האַלבען	hAalbeN	_
+
+SENT	1518W-GOETZ,160.28
+1	alzo	ADV	אַלזאָ	AalzAo	_
+2	bald	ADV	באַלד	bAald	_
+3	az	C	אַז	Aaz	_
+4	di	D	די	dy	_
+5	drei	NUM	דרעיִ	dreyi	_
+6	ior	N	איאָר	AyAor	_
+7	ouz	RP	אָוז	Aovz	_
+8	voren	VBF	װאָרען	VAoreN	_
+9	do	ADV	דאָ	dAo	_
+10	tet	VBF	טעט	tet	_
+11	er	PRO	ער	er	_
+12	zikh	PRO	זיך	zyX	_
+13	her_for	ADV	הער_פֿאָר	her_fAor	_
+
+SENT	1518W-GOETZ,160.29
+1	un	CONJ	און	AvN	_
+2	fand	VBF	פֿאַנד	fAand	_
+3	zikh	PRO	זיך	zyX	_
+4	das	WPRO	דת	dS	_
+5	ayner	D	אײַנער	AYaner	_
+6	gantsen	ADJ	גאַנצען	gAanqeN	_
+7	iudish_hayt	N	איודיש_הײַט	Ayvdy$_hYat	_
+8	vol	ADV	װאָל	VAol	_
+9	tsu	TO	צו	qv	_
+10	visen	VB	װיסען	VyseN	_
+11	var	VBF	װאַר	VAar	_
+12	az	ADV	אַז	Aaz	_
+13	guet	ADV	גועט	gvet	_
+14	az	P	אַז	Aaz	_
+15	zekhtsehen_hundert	NUM	זעכצעהענ_הונדערט	zexqehen_hvndert	_
+16	gulden	N	גולדען	gvldeN	_
+
+SENT	1518W-GOETZ,160.30
+1	das	D	דת	dS	_
+2	hot	HVF	האָט	hAot	_
+3	er	PRO	ער	er	_
+4	gevunen	VBN	געװוּנען	geVUneN	_
+5	mit	P	מיט	myt	_
+6	unzerem	PRO$	אונזערעם	AvnzereM	_
+7	gelt	N	געלט	gelt	_
+8	alzo	ADV	אַלזאָ	AalzAo	_
+9	vol	ADV	װאָל	VAol	_
+10	az	P	אַז	Aaz	_
+11	mit	P	מיט	myt	_
+12	zeinem	PRO$	זעיִנעם	zeyineM	_
+13	gelt	N	געלט	gelt	_
+
+SENT	1518W-GOETZ,160.31
+1	nun	ADV	נ	n	_
+2	bin	BEF	בין	byN	_
+3	ikh	PRO	איך	AyX	_
+4	itsunt	ADV	איצונט	Ayqvnt	_
+5-6	am	P~D	עם	eM	_
+5	a	P	אַ	Aa	_
+6	m	D	מ	m	_
+7	iungsten	ADV	איונגסטען	AyvngsteN	_
+8	gevezen	VBN	געװעזען	geVezeN	_
+9	tsu	P	צו	qv	_
+10	regenspurk	NPR	רעגענספּורק	regenspvrk	_
+
+SENT	1518W-GOETZ,160.32
+1	un'	CONJ	אונ'	Avn'	_
+2	hab	HVF	האַב	hAab	_
+3	an	P	אַן	AaN	_
+4	in	PRO	אין	AyN	_
+5	gesikt	VBN	געסיקט	gesykt	_
+6	den	D	דען	deN	_
+7	eltsten	ADJS	עלטסטען	eltsteN	_
+8	rebe	N	רבי	rby	_
+9	mit	P	מיט	myt	_
+10	namen	N	נאַמען	nAameN	_
+11	r'	NPR	ר'	r'	_
+12	meier	NPR	מעיִער	meyier	_
+
+SENT	1518W-GOETZ,160.33
+1	un'	CONJ	אונ'	Avn'	_
+2	gefodert	VBN	געפֿאָדערט	gefAodert	_
+3	hab	HVF	האַב	hAab	_
+4	das	D	דת	dS	_
+5	mein	PRO$	מעיִן	meyiN	_
+6	gelihen	ADJ	געליהען	gelyheN	_
+7	gelt	N	געלט	gelt	_
+
+SENT	1518W-GOETZ,160.34
+1	un'	CONJ	אונ'	Avn'	_
+2	hab	HVF	האַב	hAab	_
+3	g	X	ג	g	_
+4	begert	VBN	בעגערט	begert	_
+5	mit	P	מיט	myt	_
+6	im	PRO	אים	AyM	_
+7	tsu	TO	צו	qv	_
+8	rekhenen	VB	רעכענען	rexeneN	_
+9	for	P	פֿאָר	fAor	_
+10	gueten	ADJ	גועטען	gveteN	_
+11	loyten	N	לױטען	lWteN	_
+12	vas	WPRO	װאַס	VAas	_
+13	mir	PRO	מיר	myr	_
+14	tsue	RP	צוע	qve	_
+15	geburt	VBF	געבורט	gebvrt	_
+16	mir	PRO	מיר	myr	_
+17	tsu	RP	צו	qv	_
+18	mein	PRO$	מעיִן	meyiN	_
+19	tayl	N	טײַל	tYal	_
+
+SENT	1518W-GOETZ,160.35
+1	do	ADV	דאָ	dAo	_
+2	hot	HVF	האָט	hAot	_
+3	er	PRO	ער	er	_
+4	zikh	PRO	זיך	zyX	_
+5	losen	VBN-IPP	לאָסען	lAoseN	_
+6	merken	VB	מערקען	merkeN	_
+7	er	PRO	ער	er	_
+8	vol	MDF	װאָל	VAol	_
+9	mikh	PRO	מיך	myX	_
+10	um	RP	אום	AvM	_
+11	troyben	VB	טרױבען	trWbeN	_
+12	do_veil	C	דאָ_װעיִל	dAo_Veyil	_
+13	ikh	PRO	איך	AyX	_
+14	nit	NEG	ניט	nyt	_
+15	hab	VBF	האַב	hAab	_
+16	un'	CONJ	אונ'	Avn'	_
+17	vol	MDF	װאָל	VAol	_
+18	alzo	ADV	אַלזאָ	AalzAo	_
+19	fon	P	פֿאָן	fAoN	_
+20	mir	PRO	מיר	myr	_
+21	kumen	VB	קומען	kvmeN	_
+22	az	P	אַז	Aaz	_
+23	fon	P	פֿאָן	fAoN	_
+24	meinem	PRO$	מעיִנעם	meyineM	_
+25	brueder	N	ברועדער	brveder	_
+26	mose	NPR	מאָסע	mAose	_
+27	den	D	דען	deN	_
+28	hot	HVF	האָט	hAot	_
+29	er	PRO	ער	er	_
+30	uber_tobert	VBN	אובער_טאָבערט	Avber_tAobert	_
+31	in	P	אין	AyN	_
+32	aynem	D	אײַנעם	AYaneM	_
+33	trunk	N	טרונק	trvnk	_
+
+SENT	1518W-GOETZ,160.36
+1	un'	CONJ	אונ'	Avn'	_
+2	boyz	ADJ	בױז	bWz	_
+3	loyt	N	לוט	lvt	_
+4	dar_tsue	DR+P	דאַר_צוע	dAar_qve	_
+5	geholfen	VBN	געהאָלפֿען	gehAolfeN	_
+6	haben	HVF	האַבען	hAabeN	_
+
+SENT	1518W-GOETZ,160.37
+1	nokh	ADV	נאָך	nAoX	_
+2	hot	HVF	האָט	hAot	_
+3	er	PRO	ער	er	_
+4	mikh	PRO	מיך	myX	_
+5	gebrokht	VBN	געבראָכט	gebrAoxt	_
+6	um	P	אום	AvM	_
+7	all	Q	אַלל	Aall	_
+8	mein	PRO$	מעיִן	meyiN	_
+9	zilber_geshir	N	זילבער_געשיר	zylber_ge$yr	_
+10	biz	P	ביז	byz	_
+11	ouf	P	אָוף	AovF	_
+12	ayn	D	אײַן	AYaN	_
+13	kopf	N	קאָפּף	kAopF	_
+
+SENT	1518W-GOETZ,160.38
+1	den	D	דען	deN	_
+2	vil	MDF	װיל	Vyl	_
+3	ikh	PRO	איך	AyX	_
+4	darein	ADV	דאַרעיִן	dAareyiN	_
+5	vagen	VB	װאַגען	VAageN	_
+6	riterlikh	ADV	ריטערליך	ryterlyX	_
+7	biz	C	ביז	byz	_
+8	ikh	PRO	איך	AyX	_
+9	meiner	PRO$	מעיִנער	meyiner	_
+10	sheden	N	שעדען	$edeN	_
+11	ayn	RP	אײַן	AYaN	_
+12	kum	VBF	קום	kvM	_
+
+SENT	1518W-GOETZ,160.39
+1	un'	CONJ	אונ'	Avn'	_
+2	tue	VBF	טוע	tve	_
+3	im	PRO	אים	AyM	_
+4	tsu	TO	צו	qv	_
+5	visen	VB	װיסען	VyseN	_
+6	das	C	דת	dS	_
+7	ikh	PRO	איך	AyX	_
+8	im	PRO	אים	AyM	_
+9	ab	RP	אַב	Aab	_
+10	zag	VBF	זאַג	zAag	_
+11	meinem	PRO$	מעיִנעם	meyineM	_
+12	stief_fater	N	סטיִעפֿ_פֿאַטער	styief_fAater	_
+13	,	PUNC	,	,	_
+14	mendel	NPR	מענדעל	mendel	_
+15	tsu	P	צו	qv	_
+16	regenspurk	NPR	רעגענספּורק	regenspvrk	_
+17	,	PUNC	,	,	_
+18	zeinem	PRO$	זעיִנעם	zeyineM	_
+19	leib	N	לעיִב	leyib	_
+20	un'	CONJ	אונ'	Avn'	_
+21	zeinem	PRO$	זעיִנעם	zeyineM	_
+22	guet	N	גועט	gvet	_
+23	,	PUNC	,	,	_
+24	un'	CONJ	אונ'	Avn'	_
+25	ayner	D	אײַנער	AYaner	_
+26	gantsen	ADJ	גאַנצען	gAanqeN	_
+27	gemayn	ADJ	געמײַן	gemYaN	_
+28	iudis_hayt	N	איודיס_הײַט	Ayvdys_hYat	_
+29	un'	CONJ	אונ'	Avn'	_
+30	aykh	ADV	אײַך	AYaX	_
+31	ayner	D	אײַנער	AYaner	_
+32	gantsen	ADJ	גאַנצען	gAanqeN	_
+33	gemayn	ADJ	געמײַן	gemYaN	_
+34	stat	N	סטאַט	stAat	_
+35	regenspurk	NPR	רעגענספּורק	regenspvrk	_
+36	,	PUNC	,	,	_
+37	das	C	דת	dS	_
+38	zi	PRO	זי	zy	_
+39	zikh	PRO	זיך	zyX	_
+40	nikhs	Q	ניכס	nyxs	_
+41	derfen	MDF	דערפֿען	derfeN	_
+42	guets	ADJ	גועץ	gveQ	_
+43	tsu	P	צו	qv	_
+44	mir	PRO	מיר	myr	_
+45	for	RP	פֿאָר	fAor	_
+46	zehen	VB	זעהען	zeheN	_
+
+SENT	1518W-GOETZ,160.40
+1	volt	VBF	װאָלט	VAolt	_
+2	got	NPR	גאָט	gAot	_
+3	fon	P	פֿאָן	fAoN	_
+4	himel	N	הימעל	hymel	_
+5	,	PUNC	,	,	_
+6	das	C	דת	dS	_
+7	di	D	די	dy	_
+8	burger	N	בורגער	bvrger	_
+9	un'	CONJ	אונ'	Avn'	_
+10	ayn	D	אײַן	AYaN	_
+11	gantse	ADJ	גאַנצע	gAanqe	_
+12	gemayn	N	געמײַן	gemYaN	_
+13	fon	P	פֿאָן	fAoN	_
+14	regenspurk	NPR	רעגענספּורק	regenspvrk	_
+15	zolt	MDF	זאָלט	zAolt	_
+16	visen	VB	װיסען	VyseN	_
+17	den	D	דען	deN	_
+18	grosen	ADJ	גראָסען	grAoseN	_
+19	gevalt	N	געװאַלט	geVAalt	_
+20	der	WPRO	דער	der	_
+21	mir	PRO	מיר	myr	_
+22	geshikht	VBF	געשיכט	ge$yxt	_
+23	mir	PRO	מיר	myr	_
+24	armen	ADJ	אַרמען	AarmeN	_
+25	man	N	מאַן	mAaN	_
+26	fon	P	פֿאָן	fAoN	_
+27	dem	D	דעם	deM	_
+28	mendel	NPR	מענדעל	mendel	_
+29	,	PUNC	,	,	_
+30	meinem	PRO$	מעיִנעם	meyineM	_
+31	stief_fater	N	סטיִעפֿ_פֿאַטער	styief_fAater	_
+
+SENT	1518W-GOETZ,160.41
+1	es	PRO	עס	es	_
+2	mokht	MDF	מאָכט	mAoxt	_
+3	got	NPR	גאָט	gAot	_
+4	fon	P	פֿאָן	fAoN	_
+5	himel	N	הימעל	hymel	_
+6	der_barmen	VB	דער_באַרמען	der_bAarmeN	_
+

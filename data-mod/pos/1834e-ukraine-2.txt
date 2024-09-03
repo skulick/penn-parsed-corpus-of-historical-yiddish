@@ -1,0 +1,6253 @@
+SENT	1834E-UKRAINE-2,37.3
+1	das	D	דת	dS	_
+2	bikhl	N	ביכל	byxl	_
+3	fun	P	פֿון	fvN	_
+4	umn	NPR	אומן	AvmN	_
+5	un	CONJ	און	AvN	_
+6	ukreyna	NPR	אוקרײנאַ	AvkrYnAa	_
+7	zal	MDF	ז"ל	z"l	_
+8	itlikhr	Q	איטליכר	Aytlyxr	_
+9	mentsh	N	מענטש	ment$	_
+10	leyenen	VB	לײענען	lYeneN	_
+
+SENT	1834E-UKRAINE-2,37.4
+1	un	CONJ	און	AvN	_
+2	zal	MDF	ז"ל	z"l	_
+3	gidenkn	VB	גידענקן	gydenkN	_
+4	vas	WPRO	װאַס	VAas	_
+5	far	P	פֿאַר	fAar	_
+6	eyn	D	אײן	AYN	_
+7	groyse	ADJ	גרױסע	grWse	_
+8	tsrh	N	צרה	qrh	_
+9	gat	NPR	גאַט	gAat	_
+10	hat	HVF	האַט	hAat	_
+11	gishikt	VBN	גישיקט	gy$ykt	_
+12	oyf	P	אױף	AWF	_
+13	umn	NPR	אומן	AvmN	_
+14	un	CONJ	און	AvN	_
+15	oyf	P	אױף	AWF	_
+16	ukreyna	NPR	אוקרײנאַ	AvkrYnAa	_
+17	un	CONJ	און	AvN	_
+18	oyf	P	אױף	AWF	_
+19	balti	NPR	באַלטי	bAalty	_
+20	un	CONJ	און	AvN	_
+21	oyf	P	אױף	AWF	_
+22	andri	ADJ	אַנדרי	Aandry	_
+23	shtet	N	שטעט	$tet	_
+
+SENT	1834E-UKRAINE-2,37.5
+1	men	PRO	מען	meN	_
+2	hat	HVF	האַט	hAat	_
+3	gishlagin	VBN	גישלאַגין	gy$lAagyN	_
+4	mit	P	מיט	myt	_
+5	mkut	N	מקוט	mkvt	_
+6	akhzroyt	H	אַכזרױט	AaxzrWt	UNKNOWN
+
+SENT	1834E-UKRAINE-2,37.6
+1	drum	DR+P	דרום	drvM	_
+2	ken	MDF	קען	keN	_
+3	men	PRO	מען	meN	_
+4	betin	VB	בעטין	betyN	_
+5	gat	NPR	גאַט	gAat	_
+6	az	C	אַז	Aaz	_
+7	er	PRO	ער	er	_
+8	zal	MDF	ז"ל	z"l	_
+9	soyn	ADV	סױן	sWN	_
+10	mer	ADV	מער	mer	_
+11	keyn	Q	קײן	kYN	_
+12	tsrut	N	צרוט	qrvt	_
+13	nit	NEG	ניט	nyt	_
+14	tsu	RP	צו	qv	_
+15	sikin	VB	סיקין	sykyN	_
+16	un	CONJ	און	AvN	_
+17	zal	MDF	ז"ל	z"l	_
+18	gikh	ADV	גיך	gyX	_
+19	bald	ADV	באַלד	bAald	_
+20	eyn	D	אײן	AYN	_
+21	nkmh	N	נקמה	nkmh	_
+22	tan	VB	טאַן	tAaN	_
+23	in	P	אין	AyN	_
+24	unzri	PRO$	אונזרי	Avnzry	_
+25	sunaim	N	סונאַיִם	svnAayiM	_
+26	un	CONJ	און	AvN	_
+27	zal	MDF	ז"ל	z"l	_
+28	unz	PRO	אונז	Avnz	_
+29	gikh	ADV	גיך	gyX	_
+30	un	CONJ	און	AvN	_
+31	bald	ADV	באַלד	bAald	_
+32	oys	RP	אױס	AWs	_
+33	leyzin	VB	לײזין	lYzyN	_
+34	oys	P	אױס	AWs	_
+35	dem	D	דעם	deM	_
+36	bitrn	ADJ	ביטרן	bytrN	_
+37	glut	N	גלוט	glvt	_
+38	un	CONJ	און	AvN	_
+39	zal	MDF	ז"ל	z"l	_
+40	unz	PRO	אונז	Avnz	_
+41	gikh	ADV	גיך	gyX	_
+42	un	CONJ	און	AvN	_
+43	bald	ADV	באַלד	bAald	_
+44	firin	VB	פֿירין	fyryN	_
+45	in	P	אין	AyN	_
+46	iruslim	NPR	אירוסלים	AyrvslyM	_
+47	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1834E-UKRAINE-2,37.7
+1	du	PRO	דו	dv	_
+2	bist	VBF	ביסט	byst	_
+3	der	D	דער	der	_
+4	got	NPR	גאָט	gAot	_
+5	fun	P	פֿון	fvN	_
+6	ali	Q	אַלי	Aaly	_
+7	leybr	N	לײבר	lYbr	_
+
+SENT	1834E-UKRAINE-2,37.8
+1	vi	WADV	װי	Vy	_
+2-3	hastu	HVF~PRO	האַסטו	hAastv	_
+2	has	HVF	האַס	hAas	_
+3	tu	PRO	טו	tv	_
+4	gikent	MDN	גיקענט	gykent	_
+5	tsu	RP	צו	qv	_
+6	zehn	VB	זעהן	zehN	_
+7	az	C	אַז	Aaz	_
+8	me	PRO	מע	me	_
+9	hat	HVF	האַט	hAat	_
+10	um	RP	אום	AvM	_
+11	gibrakht	VBN	גיבראַכט	gybrAaxt	_
+12	manin	N	מאַנין	mAanyN	_
+13	un	CONJ	און	AvN	_
+14	veybr	N	װײבר	VYbr	_
+15	un	CONJ	און	AvN	_
+16	kinder	N	קינדער	kynder	_
+
+SENT	1834E-UKRAINE-2,37.9
+1	vas	WPRO	װאַס	VAas	_
+2	iz	BEF	איז	Ayz	_
+3	das	D	דת	dS	_
+4	givezin	VBN	גיװעזין	gyVezyN	_
+5	far	P	פֿאַר	fAar	_
+6	eyn	D	אײן	AYN	_
+7	tsrh	N	צרה	qrh	_
+8	az	C	אַז	Aaz	_
+9	azoy	ADV	אַזױ	AazW	_
+10	fil	Q	פֿיל	fyl	_
+11	ihudim	N	איהודים	AyhvdyM	_
+12	habin	HVF	האַבין	hAabyN	_
+13	zikh	PRO	זיך	zyX	_
+14	keynr	Q	קײנר	kYnr	_
+15	nit	NEG	ניט	nyt	_
+16	gikent	MDN	גיקענט	gykent	_
+17	helfin	VB	העלפֿין	helfyN	_
+
+SENT	1834E-UKRAINE-2,37.10
+1	den	CONJ	דען	deN	_
+2	es	ES	עס	es	_
+3	iz	BEF	איז	Ayz	_
+4	areyn	ADV	אַרײן	AarYN	_
+5	gikumn	VBN	גיקומן	gykvmN	_
+6	eyn	D	אײן	AYN	_
+7	pukhz	N	פּוכז	pvxz	_
+8	fun	P	פֿון	fvN	_
+9	k"k	H	ק"ק	k"k	community_holy
+10	tutrib	NPR	טוטריב	tvtryb	_
+
+SENT	1834E-UKRAINE-2,37.11
+1	un	CONJ	און	AvN	_
+2	iz	BEF	איז	Ayz	_
+3	areyn	ADV	אַרײן	AarYN	_
+4	gikumn	VBN	גיקומן	gykvmN	_
+5	in	P	אין	AyN	_
+6	shtat	N	שטאַט	$tAat	_
+7	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1834E-UKRAINE-2,37.12
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	hat	HVF	האַט	hAat	_
+4-5	oysgihrgt	RP~VBN	אױסגיהרגט	AWsgyhrgt	_
+4	oys	RP	אױס	AWs	_
+5	gihrgt	VBN	גיהרגט	gyhrgt	_
+6	biz	P	ביז	byz	_
+7	fir_hundrt	NUM	פֿיר_הונדרט	fyr_hvndrt	_
+8	nfsut	N	נפֿסוט	nfsvt	_
+
+SENT	1834E-UKRAINE-2,37.13
+1	un	CONJ	און	AvN	_
+2	dernakh	DR+P	דערנאַך	dernAaX	_
+3	habin	HVF	האַבין	hAabyN	_
+4	zikh	PRO	זיך	zyX	_
+5	ali	Q	אַלי	Aaly	_
+6	heydin	N	הײדין	hYdyN	_
+7	ginumen	VBN	גינומען	gynvmeN	_
+8	oyf	P	אױף	AWF	_
+9	di	D	די	dy	_
+10	ihudim	N	איהודים	AyhvdyM	_
+
+SENT	1834E-UKRAINE-2,37.14
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3-4	oysgihrgt	RP~VBN	אױסגיהרגט	AWsgyhrgt	_
+3	oys	RP	אױס	AWs	_
+4	gihrgt	VBN	גיהרגט	gyhrgt	_
+5	biz	P	ביז	byz	_
+6	finf_toyzint	NUM	פֿינפֿ_טױזינט	fynf_tWzynt	_
+7	npsut	N	נפּסוט	npsvt	_
+
+SENT	1834E-UKRAINE-2,37.15
+1	a	D	אַ	Aa	_
+2	teyl	N	טײל	tYl	_
+3	habin	HVF	האַבין	hAabyN	_
+4	zikh	PRO	זיך	zyX	_
+5	givalt	MDN	גיװאַלט	gyVAalt	_
+6	leyzin	VB	לײזין	lYzyN	_
+7	mit	P	מיט	myt	_
+8	gelt	N	געלט	gelt	_
+
+SENT	1834E-UKRAINE-2,37.16
+1	nor	CONJ	נאָר	nAor	_
+2	zey	PRO	זײ	zY	_
+3	zalin	MDF	זאַלין	zAalyN	_
+4	lebin	RP-V	לעבין	lebyN	_
+5	bleybin	VB	בלײבין	blYbyN	_
+
+SENT	1834E-UKRAINE-2,37.17
+1	aber	CONJ	אַבער	Aaber	_
+2	es	PRO	עס	es	_
+3	hat	HVF	האַט	hAat	_
+4	alts	Q	אַלץ	AalQ	_
+5	nit	NEG	ניט	nyt	_
+6	gihalfin	VBN	גיהאַלפֿין	gyhAalfyN	_
+
+SENT	1834E-UKRAINE-2,37.18
+1	ver	WPRO	װער	Ver	_
+2	es	ES	עס	es	_
+3	hat	HVF	האַט	hAat	_
+4	gikent	MDN	גיקענט	gykent	_
+5	antloyfin	VB	אַנטלױפֿין	AantlWfyN	_
+6	iz	BEF	איז	Ayz	_
+7	antlofin	VBN	אַנטלאָפֿין	AantlAofyN	_
+
+SENT	1834E-UKRAINE-2,37.19
+1	di	D	די	dy	_
+2	ersti	N	ערסטי	ersty	_
+3	iz	BEF	איז	Ayz	_
+4	givezin	VBN	גיװעזין	gyVezyN	_
+5	eyn	D	אײן	AYN	_
+6	ashh	N	אַשה	Aa$h	_
+
+SENT	1834E-UKRAINE-2,37.20
+1	iz	BEF	איז	Ayz	_
+2	gigangen	VBN	גיגאַנגען	gygAangeN	_
+3	gants	ADV	גאַנץ	gAanQ	_
+4	fri	ADV	פֿרי	fry	_
+5	di	D	די	dy	_
+6	bhmut	N	בהמוט	bhmvt	_
+7	treybin	VB	טרײבין	trYbyN	_
+8	in	P	אין	AyN	_
+9	feld	N	פֿעלד	feld	_
+10	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1834E-UKRAINE-2,37.21
+1	hat	HVF	האַט	hAat	_
+2	der	D	דער	der	_
+3	pukhz	N	פּוכז	pvxz	_
+4	in	P	אין	AyN	_
+5	ir	PRO	איר	Ayr	_
+6	areyn	ADV	אַרײן	AarYN	_
+7	gistakhin	VBN	גיסטאַכין	gystAaxyN	_
+
+SENT	1834E-UKRAINE-2,37.22
+1	di	D	די	dy	_
+2	andri	ADJ	אַנדרי	Aandry	_
+3	iz	BEF	איז	Ayz	_
+4	givezin	VBN	גיװעזין	gyVezyN	_
+5	eyn	D	אײן	AYN	_
+6	kremerin	N	קרעמערין	kremeryN	_
+
+SENT	1834E-UKRAINE-2,37.23
+1	vi	WADV	װי	Vy	_
+2	zi	PRO	זי	zy	_
+3	hat	HVF	האַט	hAat	_
+4	das	D	דת	dS	_
+5	tsu	RP	צו	qv	_
+6	gizehen	VBN	גיזעהען	gyzeheN	_
+7	azoy	ADV	אַזױ	AazW	_
+8	iz	BEF	איז	Ayz	_
+9	zi	PRO	זי	zy	_
+10	antlofin	VBN	אַנטלאָפֿין	AantlAofyN	_
+11	tsu	P	צו	qv	_
+12	di	D	די	dy	_
+13	ihudim	N	איהודים	AyhvdyM	_
+
+SENT	1834E-UKRAINE-2,37.24
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	gishrigen	VBN	גישריגען	gy$rygeN	_
+4	an	P	אַן	AaN	_
+5	lebedign	ADJ	לעבעדיגן	lebedygN	_
+6	gat	NPR	גאַט	gAat	_
+7	un	CONJ	און	AvN	_
+8	im	PRO	אים	AyM	_
+9	nit	NEG	ניט	nyt	_
+10	ap	RP	אַפּ	Aap	_
+11	tsu	TO	צו	qv	_
+12	tretin	VB	טרעטין	tretyN	_
+
+SENT	1834E-UKRAINE-2,37.25
+1	un	CONJ	און	AvN	_
+2	mir	PRO	מיר	myr	_
+3	zalin	MDF	זאַלין	zAalyN	_
+4	ali	Q	אַלי	Aaly	_
+5	um	RP	אום	AvM	_
+6	kumn	VB	קומן	kvmN	_
+7	oyf	P	אױף	AWF	_
+8	kdush	H	קדוש	kdv$	holy
+9	hshm	H	השם	h$M	the_name
+
+SENT	1834E-UKRAINE-2,37.26
+1	azoy	ADV	אַזױ	AazW	_
+2	velin	MDF	װעלין	VelyN	_
+3	mir	PRO	מיר	myr	_
+4	ali	Q	אַלי	Aaly	_
+5	habin	VB	האַבין	hAabyN	_
+6	eulm_hba	N	עולמ_הבאַ	evlm_hbAa	_
+
+SENT	1834E-UKRAINE-2,37.27
+1	un	CONJ	און	AvN	_
+2	vi	WADV	װי	Vy	_
+3	der	D	דער	der	_
+4	hzn	N	הזן	hzN	_
+5	das	D	דת	dS	_
+6	zeht	VBF	זעהט	zeht	_
+7	azoy	ADV	אַזױ	AazW	_
+8	loyft	VBF	לױפֿט	lWft	_
+9	er	PRO	ער	er	_
+10	gikh	ADV	גיך	gyX	_
+11	in	P	אין	AyN	_
+12	mkuh	N	מקוה	mkvh	_
+13	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1834E-UKRAINE-2,37.28
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	zikh	PRO	זיך	zyX	_
+4	ginumn	VBN	גינומן	gynvmN	_
+5	tlit	N	טליט	tlyt	_
+6	un	CONJ	און	AvN	_
+7	tfilin	N	טפֿילין	tfylyN	_
+
+SENT	1834E-UKRAINE-2,37.29
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3-4	angihoybin	RP~VBN	אַנגיהױבין	AangyhWbyN	_
+3	an	RP	אַן	AaN	_
+4	gihoybin	VBN	גיהױבין	gyhWbyN	_
+5	mit	P	מיט	myt	_
+6	groys	ADJ	גרױס	grWs	_
+7	gishrey	N	גישרײ	gy$rY	_
+8	un	CONJ	און	AvN	_
+9	giveyn	N	גיװײן	gyVYN	_
+10	oydoy	N	אױדױ	AWdW	_
+11	tsu	TO	צו	qv	_
+12	zagin	VB	זאַגין	zAagyN	_
+
+SENT	1834E-UKRAINE-2,37.30
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	hat	HVF	האַט	hAat	_
+4	aleyn	ADV	אַלײן	AalYN	_
+5	bekumn	VBN	בעקומן	bekvmN	_
+6	des	D	דעס	des	_
+7	khlf	N	כלף	xlF	_
+8	bai	P	באַיִ	bAayi	_
+9	dem	D	דעם	deM	_
+10	pukhz	N	פּוכז	pvxz	_
+11	az	C	אַז	Aaz	_
+12	er	PRO	ער	er	_
+13	zal	MDF	ז"ל	z"l	_
+14	zikh	PRO	זיך	zyX	_
+15	der_mit	DR+P	דער_מיט	der_myt	_
+16	koylen	VB	קױלען	kWleN	_
+
+SENT	1834E-UKRAINE-2,37.31
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	zikh	PRO	זיך	zyX	_
+4	gikoylt	VBN	גיקױלט	gykWlt	_
+5	mit	P	מיט	myt	_
+6	zeyn	PRO$	זײן	zYN	_
+7	veyb	N	װײב	VYb	_
+8	un	CONJ	און	AvN	_
+9	kindr	N	קינדר	kyndr	_
+
+SENT	1834E-UKRAINE-2,37.32
+1	byom	H	ביאָם	byAoM	on_day
+2	k'	H	ק'	k'	20
+3	h'	H	ה'	h'	5
+4	tmuz	H	טמוז	tmvz	Tamuz
+5	azoy	ADV	אַזױ	AazW	_
+6	zeynen	BEF	זײנען	zYneN	_
+7	di	D	די	dy	_
+8	pukhzim	N	פּוכזים	pvxzyM	_
+9	gikumn	VBN	גיקומן	gykvmN	_
+10	far	P	פֿאַר	fAar	_
+11	der	D	דער	der	_
+12	shtat	N	שטאַט	$tAat	_
+13	umn	NPR	אומן	AvmN	_
+
+SENT	1834E-UKRAINE-2,37.33
+1	azoy	ADV	אַזױ	AazW	_
+2	zeynen	BEF	זײנען	zYneN	_
+3	gistanin	VBN	גיסטאַנין	gystAanyN	_
+4	unter	P	אונטער	Avnter	_
+5	der	D	דער	der	_
+6	shtat	N	שטאַט	$tAat	_
+7	biz	P	ביז	byz	_
+8	fir_hundrt	NUM	פֿיר_הונדרט	fyr_hvndrt	_
+9	vegin	N	װעגין	VegyN	_
+10	ansim	H	אַנסים	AansyM	people
+11	unsim	H	אונסים	AvnsyM	and_women
+12	usf	H	אוסף	AvsF	and_children
+
+SENT	1834E-UKRAINE-2,37.34
+1	azoy	ADV	אַזױ	AazW	_
+2	hat	HVF	האַט	hAat	_
+3	men	PRO	מען	meN	_
+4	zey	PRO	זײ	zY	_
+5	ali	Q	אַלי	Aaly	_
+6-7	oysgihrgt	RP~VBN	אױסגיהרגט	AWsgyhrgt	_
+6	oys	RP	אױס	AWs	_
+7	gihrgt	VBN	גיהרגט	gyhrgt	_
+
+SENT	1834E-UKRAINE-2,37.35
+1	nor	CONJ	נאָר	nAor	_
+2	di	D	די	dy	_
+3	ihudim	N	איהודים	AyhvdyM	_
+4	fun	P	פֿון	fvN	_
+5	der	D	דער	der	_
+6	shtat	N	שטאַט	$tAat	_
+7	habin	HVF	האַבין	hAabyN	_
+8	zikh	PRO	זיך	zyX	_
+9	an	RP	אַן	AaN	_
+10	gihoybin	VBN	גיהױבין	gyhWbyN	_
+11	tsu	TO	צו	qv	_
+12	verin	VB	װערין	VeryN	_
+13	akegin	P	אַקעגין	AakegyN	_
+14	di	D	די	dy	_
+15	pukhzim	N	פּוכזים	pvxzyM	_
+16	un	CONJ	און	AvN	_
+17	avek	RP-ADV	אַװעק	AaVek	_
+18	tsu	TO	צו	qv	_
+19	yagin	VB	יאַגין	yAagyN	_
+20	zey	PRO	זײ	zY	_
+
+SENT	1834E-UKRAINE-2,38.36
+1	nor	CONJ	נאָר	nAor	_
+2	vi	C	װי	Vy	_
+3	di	D	די	dy	_
+4	pukhzim	N	פּוכזים	pvxzyM	_
+5	zehen	VBF	זעהען	zeheN	_
+6	az	C	אַז	Aaz	_
+7	di	D	די	dy	_
+8	ihudim	N	איהודים	AyhvdyM	_
+9	hoybin	VBF	הױבין	hWbyN	_
+10	zikh	PRO	זיך	zyX	_
+11	an	RP	אַן	AaN	_
+12	tsu	TO	צו	qv	_
+13	verin	VB	װערין	VeryN	_
+14	azoy	ADV	אַזױ	AazW	_
+15	hat	HVF	האַט	hAat	_
+16	gante	NPR	גאַנטע	gAante	_
+17	imkh	H	אימך	AymX	may_be_erased
+18	smu	H	סמו	smv	name_his
+19	eyn	D	אײן	AYN	_
+20	brib	N	בריב	bryb	_
+21	gishribin	VBN	גישריבין	gy$rybyN	_
+22	mit	P	מיט	myt	_
+23	groys	ADJ	גרױס	grWs	_
+24	gibet	N	גיבעט	gybet	_
+25	un	CONJ	און	AvN	_
+26	giveyn	N	גיװײן	gyVYN	_
+27-28	tsum	P~D	צום	qvM	_
+27	tsu	P	צו	qv	_
+28	m	D	מ	m	_
+29	rb	N	רב	rb	_
+30	muhr"r	H	מוהר"ר	mvhr"r	teacher_our_and_rabbi_our
+31	yekb	NPR	יעקב	yekb	_
+32	al	Q	אַל	Aal	_
+33	das	D	דת	dS	_
+34	gutts	N	גוטץ	gvtQ	_
+35	oyf	P	אױף	AWF	_
+36	di	D	די	dy	_
+37	ihudim	N	איהודים	AyhvdyM	_
+
+SENT	1834E-UKRAINE-2,38.37
+1	nor	CONJ	נאָר	nAor	_
+2	vi	C	װי	Vy	_
+3	der	D	דער	der	_
+4	rb	N	רב	rb	_
+5	hat	HVF	האַט	hAat	_
+6	gitan	DON	גיטאַן	gytAaN	_
+7	dem	D	דעם	deM	_
+8	briv	N	בריװ	bryV	_
+9	leyenen	VB	לײענען	lYeneN	_
+10	azoy	ADV	אַזױ	AazW	_
+11	hat	HVF	האַט	hAat	_
+12	er	PRO	ער	er	_
+13	gimeynt	VBN	גימײנט	gymYnt	_
+14	far	P	פֿאַר	fAar	_
+15	givis	ADJ	גיװיס	gyVys	_
+16	az	C	אַז	Aaz	_
+17	men	PRO	מען	meN	_
+18	vet	MDF	װעט	Vet	_
+19	{fun}	P	{פֿון}	{fvN}	_
+20	di	D	די	dy	_
+21	puhzim	N	פּוהזים	pvhzyM	_
+22	ptur	RP-H	פּטור	ptvr	_
+23	verin	VB	װערין	VeryN	_
+
+SENT	1834E-UKRAINE-2,38.38
+1	azoy	ADV	אַזױ	AazW	_
+2	hat	HVF	האַט	hAat	_
+3	der	D	דער	der	_
+4	rb	N	רב	rb	_
+5	aroys	ADV	אַרױס	AarWs	_
+6	bafoylin	VBN	באַפֿױלין	bAafWlyN	_
+7	eyn	D	אײן	AYN	_
+8	groysin	ADJ	גרױסין	grWsyN	_
+9	dank	N	דאַנק	dAank	_
+10	az	C	אַז	Aaz	_
+11	men	PRO	מען	meN	_
+12	vet	MDF	װעט	Vet	_
+13	ihm	PRO	איהם	AyhM	_
+14	zeynkin	VB	זײנקין	zYnkyN	_
+15	eyn	D	אײן	AYN	_
+16	groysin	ADJ	גרױסין	grWsyN	_
+17	gisenk	N	גיסענק	gysenk	_
+
+SENT	1834E-UKRAINE-2,38.39
+1	nor	CONJ	נאָר	nAor	_
+2	zalst	MDF	זאַלסט	zAalst	_
+3	mit	P	מיט	myt	_
+4	unz	PRO	אונז	Avnz	_
+5	halten	VB	האַלטען	hAalteN	_
+
+SENT	1834E-UKRAINE-2,38.40
+1	mir	PRO	מיר	myr	_
+2	velin	MDF	װעלין	VelyN	_
+3	sheynkin	VB	שײנקין	$YnkyN	_
+4	itlikhn	Q	איטליכן	AytlyxN	_
+5	pukhz	N	פּוכז	pvxz	_
+6	givant	N	גיװאַנט	gyVAant	_
+7	oyf	P	אױף	AWF	_
+8	eyn	D	אײן	AYN	_
+9	par	Q	פּאַר	pAar	_
+10	kleydr	N	קלײדר	klYdr	_
+
+SENT	1834E-UKRAINE-2,38.41
+1	mir	PRO	מיר	myr	_
+2	velin	MDF	װעלין	VelyN	_
+3	dikh	PRO	דיך	dyX	_
+4	nit	NEG	ניט	nyt	_
+5	narin	VB	נאַרין	nAaryN	_
+
+SENT	1834E-UKRAINE-2,38.42
+1	unzr	PRO$	אונזר	Avnzr	_
+2	srrh	N	סררה	srrh	_
+3	vet	MDF	װעט	Vet	_
+4	dir	PRO	דיר	dyr	_
+5	makhin	VB	מאַכין	mAaxyN	_
+6	far	P	פֿאַר	fAar	_
+7	a	D	אַ	Aa	_
+8	groysin	ADJ	גרױסין	grWsyN	_
+9	srrh	N	סררה	srrh	_
+
+SENT	1834E-UKRAINE-2,38.43
+1	er	PRO	ער	er	_
+2	vet	MDF	װעט	Vet	_
+3	dir	PRO	דיר	dyr	_
+4	sheynkn	VB	שײנקן	$YnkN	_
+5	fir	NUM	פֿיר	fyr	_
+6	derfer	N	דערפֿער	derfer	_
+
+SENT	1834E-UKRAINE-2,38.44
+1	aber	CONJ	אַבער	Aaber	_
+2	der	D	דער	der	_
+3	rse	N	רסע	rse	_
+4	hat	HVF	האַט	hAat	_
+5	eyn	D	אײן	AYN	_
+6	mkhsbh	X	מכסבה	mxsbh	_
+7	reh	H	רעה	reh	bad
+8	bey	P	בײ	bY	_
+9	zikh	PRO	זיך	zyX	_
+10	gihat	VBN	גיהאַט	gyhAat	_
+
+SENT	1834E-UKRAINE-2,38.45
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	an	RP	אַן	AaN	_
+4	gihoybin	VBN	גיהױבין	gyhWbyN	_
+5	eyn	D	אײן	AYN	_
+6	etsh	N	עטש	et$	_
+7	tsu	TO	צו	qv	_
+8	haltin	VB	האַלטין	hAaltyN	_
+9	mit	P	מיט	myt	_
+10	dem	D	דעם	deM	_
+11	rshe	N	רשע	r$e	_
+12	aliunak	NPR	אַליִונאַק	AalyivnAak	_
+13	imkh	H	אימך	AymX	may_be_erased
+14	smu	H	סמו	smv	name_his
+15	vi	WADV	װי	Vy	_
+16	er	PRO	ער	er	_
+17	zal	MDF	ז"ל	z"l	_
+18	bakumn	VB	באַקומן	bAakvmN	_
+19	di	D	די	dy	_
+20	stat	N	סטאַט	stAat	_
+21	umn	NPR	אומן	AvmN	_
+
+SENT	1834E-UKRAINE-2,38.46
+1	azoy	ADV	אַזױ	AazW	_
+2	hat	HVF	האַט	hAat	_
+3	er	PRO	ער	er	_
+4	im	PRO	אים	AyM	_
+5	gigebin	VBN	גיגעבין	gygebyN	_
+6	eyn	D	אײן	AYN	_
+7	etsh	N	עטש	et$	_
+8	az	C	אַז	Aaz	_
+9	er	PRO	ער	er	_
+10	zal	MDF	ז"ל	z"l	_
+11	sverin	VB	סװערין	sVeryN	_
+12	fals	ADV	פֿאַלס	fAals	_
+
+SENT	1834E-UKRAINE-2,38.47
+1	azoy	ADV	אַזױ	AazW	_
+2	vet	MDF	װעט	Vet	_
+3	er	PRO	ער	er	_
+4	bekumn	VB	בעקומן	bekvmN	_
+5	di	D	די	dy	_
+6	shtat	N	שטאַט	$tAat	_
+
+SENT	1834E-UKRAINE-2,38.48
+1	nu	ADV	נו	nv	_
+2	az	C	אַז	Aaz	_
+3	er	PRO	ער	er	_
+4	iz	BEF	איז	Ayz	_
+5	gikumn	VBN	גיקומן	gykvmN	_
+6	drey	NUM	דרײ	drY	_
+7	tag	N	תּג	Tg	_
+8	derfir	DR+P	דערפֿיר	derfyr	_
+9	in	P	אין	AyN	_
+10	stat	N	סטאַט	stAat	_
+11	areyn	ADV	אַרײן	AarYN	_
+12	azoy	ADV	אַזױ	AazW	_
+13	hat	HVF	האַט	hAat	_
+14	er	PRO	ער	er	_
+15	gishvarin	VBN	גישװאַרין	gy$VAaryN	_
+16	az	C	אַז	Aaz	_
+17	er	PRO	ער	er	_
+18	zal	MDF	ז"ל	z"l	_
+19	mit	P	מיט	myt	_
+20	zi	PRO	זי	zy	_
+21	haltin	VB	האַלטין	hAaltyN	_
+
+SENT	1834E-UKRAINE-2,38.49
+1	durkh	P	דורך	dvrX	_
+2	dem	D	דעם	deM	_
+3	zeynen	BEF	זײנען	zYneN	_
+4	derveyl	ADV	דערװײל	derVYl	_
+5	um	RP	אום	AvM	_
+6	gikumn	VBN	גיקומן	gykvmN	_
+7	kmh	H	קמה	kmh	a_few
+8	alpim	H	אַלפּים	AalpyM	thousands
+9	ihudim	N	איהודים	AyhvdyM	_
+
+SENT	1834E-UKRAINE-2,38.50
+1	bkitsur	ADV	בקיצור	bkyqvr	_
+2	um	P	אום	AvM	_
+3	mantag	N	מאַנטאַג	mAantAag	_
+4	zeynen	BEF	זײנען	zYneN	_
+5	gikumn	VBN	גיקומן	gykvmN	_
+6	di	D	די	dy	_
+7	pukhzim	N	פּוכזים	pvxzyM	_
+8	untr	P	אונטר	Avntr	_
+9	shtat	N	שטאַט	$tAat	_
+
+SENT	1834E-UKRAINE-2,38.51
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	an	RP	אַן	AaN	_
+4	gihoybn	VBN	גיהױבן	gyhWbN	_
+5	tsu	TO	צו	qv	_
+6	brumn	VB	ברומן	brvmN	_
+7	vi	P	װי	Vy	_
+8	di	D	די	dy	_
+9	berin	N	בערין	beryN	_
+
+SENT	1834E-UKRAINE-2,38.52
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	givalt	MDN	גיװאַלט	gyVAalt	_
+4	in	P	אין	AyN	_
+5	shtat	N	שטאַט	$tAat	_
+6	areyn	ADV	אַרײן	AarYN	_
+7	far	P	פֿאַר	fAar	_
+8	nakht	N	נאַכט	nAaxt	_
+
+SENT	1834E-UKRAINE-2,38.53
+1	azoy	ADV	אַזױ	AazW	_
+2	hat	HVF	האַט	hAat	_
+3	men	PRO	מען	meN	_
+4	oys	RP	אױס	AWs	_
+5	gishasin	VBN	גישאַסין	gy$AasyN	_
+6	eyn	D	אײן	AYN	_
+7	harmat	N	האַרמאַט	hAarmAat	_
+
+SENT	1834E-UKRAINE-2,38.54
+1	in	CONJ	אין	AyN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	di	D	די	dy	_
+4	bram	N	בראַם	brAaM	_
+5	far	P	פֿאַר	fAar	_
+6	tsigi	X	ציגי	qygy	_
+7	makht	VBN	מאַכט	mAaxt	_
+
+SENT	1834E-UKRAINE-2,38.55
+1	nu	ADV	נו	nv	_
+2	di	D	די	dy	_
+3	zelbigi	ADJ	זעלביגי	zelbygy	_
+4	nakht	N	נאַכט	nAaxt	_
+5	zeynn	BEF	זײנן	zYnN	_
+6	givezin	VBN	גיװעזין	gyVezyN	_
+7	untr	P	אונטר	Avntr	_
+8	der	D	דער	der	_
+9	shtat	N	שטאַט	$tAat	_
+10	kmh	H	קמה	kmh	a_few
+11	alpim	H	אַלפּים	AalpyM	thousands
+12	ihudim	N	איהודים	AyhvdyM	_
+
+SENT	1834E-UKRAINE-2,38.56
+1	azoy	ADV	אַזױ	AazW	_
+2	hat	HVF	האַט	hAat	_
+3	men	PRO	מען	meN	_
+4	zey	PRO	זײ	zY	_
+5	ali	Q	אַלי	Aaly	_
+6	gihrgt	VBN	גיהרגט	gyhrgt	_
+7	dinstag	N	דינסטאַג	dynstAag	_
+8	tsu	P	צו	qv	_
+9	an	D	אַן	AaN	_
+10	beysin	ADJ	בײסין	bYsyN	_
+11	tseyt	N	צײט	qYt	_
+
+SENT	1834E-UKRAINE-2,38.57
+1	azoy	ADV	אַזױ	AazW	_
+2	zeynen	BEF	זײנען	zYneN	_
+3	zey	PRO	זײ	zY	_
+4	gikumen	VBN	גיקומען	gykvmeN	_
+5	far	P	פֿאַר	fAar	_
+6	der	D	דער	der	_
+7	shtat	N	שטאַט	$tAat	_
+8	nit	NEG	ניט	nyt	_
+9	veyt	ADV	װײט	VYt	_
+
+SENT	1834E-UKRAINE-2,38.58
+1	azoy	ADV	אַזױ	AazW	_
+2	hat	HVF	האַט	hAat	_
+3	zikh	PRO	זיך	zyX	_
+4	an	RP	אַן	AaN	_
+5	girufin	VBN	גירופֿין	gyrvfyN	_
+6	aliunak	NPR	אַליִונאַק	AalyivnAak	_
+7	imkh	H	אימך	AymX	may_be_erased
+8	smu	H	סמו	smv	name_his
+9	tsu	P	צו	qv	_
+10	dem	D	דעם	deM	_
+11	ganti	NPR	גאַנטי	gAanty	_
+12	imkh	H	אימך	AymX	may_be_erased
+13	smu	H	סמו	smv	name_his
+
+SENT	1834E-UKRAINE-2,38.59
+1	tu	VBI	טו	tv	_
+2	du	PRO	דו	dv	_
+3	nokh	ADV	נאָך	nAoX	_
+4	eyn	D	אײן	AYN	_
+5	grub	N	גרוב	grvb	_
+
+SENT	1834E-UKRAINE-2,38.60
+1	un	CONJ	און	AvN	_
+2	shik	VBI	שיק	$yk	_
+3	areyn	ADV	אַרײן	AarYN	_
+4	in	P	אין	AyN	_
+5	stot	N	סטאָט	stAot	_
+6	eyn	D	אײן	AYN	_
+7	brib	N	בריב	bryb	_
+8	tsu	P	צו	qv	_
+9	dem	D	דעם	deM	_
+10	kamisr	N	קאַמיסר	kAamysr	_
+11	un	CONJ	און	AvN	_
+12	tsu	P	צו	qv	_
+13	ali	Q	אַלי	Aaly	_
+14	pritism	N	פּריטיסם	prytysM	_
+
+SENT	1834E-UKRAINE-2,38.61
+1	ir	PRO	איר	Ayr	_
+2	tut	DOF	טוט	tvt	_
+3	eykh	PRO	אײך	AYX	_
+4	um_zunst	ADV	אומ_זונסט	Avm_zvnst	_
+5	mit	P	מיט	myt	_
+6	unz	PRO	אונז	Avnz	_
+7	sparin	VB	ספּאַרין	spAaryN	_
+
+SENT	1834E-UKRAINE-2,38.62
+1	ir	PRO	איר	Ayr	_
+2	vet	MDF	װעט	Vet	_
+3	dernakh	DR+P	דערנאַך	dernAaX	_
+4	bleybin	VB	בלײבין	blYbyN	_
+5	naronim	N	נאַראָנים	nAarAonyM	_
+
+SENT	1834E-UKRAINE-2,38.63
+1	ir	PRO	איר	Ayr	_
+2	veyst	VBF	װײסט	VYst	_
+3	nist	NEG	ניסט	nyst	_
+4	az	C	אַז	Aaz	_
+5	es	ES	עס	es	_
+6	iz	BEF	איז	Ayz	_
+7	gikumn	VBN	גיקומן	gykvmN	_
+8	eyn	D	אײן	AYN	_
+9	bafel	N	באַפֿעל	bAafel	_
+10	fun	P	פֿון	fvN	_
+11	dem	D	דעם	deM	_
+12	hoypt_man	N	הױפּט_מאַן	hWpt_mAaN	_
+13	dz	C	דז	dz	_
+14	men	PRO	מען	meN	_
+15	zal	MDF	ז"ל	z"l	_
+16	{fun}	X	{פֿון}	{fvN}	_
+17	karin	N	קאַרין	kAaryN	_
+18	{un}	X	{און}	{AvN}	_
+19	fun	P	פֿון	fvN	_
+20	veyts	N	װײץ	VYQ	_
+21	oys	RP	אױס	AWs	_
+22	kleybn	VB	קלײבן	klYbN	_
+23	az	C	אַז	Aaz	_
+24	es	ES	עס	es	_
+25	zal	MDF	ז"ל	z"l	_
+26	keyn	Q	קײן	kYN	_
+27	ihudim	N	איהודים	AyhvdyM	_
+28	ibr_bleybn	VB	איבר_בלײבן	Aybr_blYbN	_
+29	in	P	אין	AyN	_
+30	gants	ADJ	גאַנץ	gAanQ	_
+31	pulin	NPR	פּולין	pvlyN	_
+
+SENT	1834E-UKRAINE-2,38.64
+1	drum	DR+P	דרום	drvM	_
+2	spar	VBI	ספּאַר	spAar	_
+3	dikh	PRO	דיך	dyX	_
+4	nit	NEG	ניט	nyt	_
+5	mit	P	מיט	myt	_
+6	unz	PRO	אונז	Avnz	_
+
+SENT	1834E-UKRAINE-2,38.65
+1	un	CONJ	און	AvN	_
+2	gib	VBI	גיב	gyb	_
+3	unz	PRO	אונז	Avnz	_
+4	aroys	ADV	אַרױס	AarWs	_
+5	ali	Q	אַלי	Aaly	_
+6	di	D	די	dy	_
+7	ihudim	N	איהודים	AyhvdyM	_
+
+SENT	1834E-UKRAINE-2,39.66
+1	aber	CONJ	אַבער	Aaber	_
+2	ven	P	װען	VeN	_
+3	nit	NEG	ניט	nyt	_
+4	loz	VBI	לאָז	lAoz	_
+5	unz	PRO	אונז	Avnz	_
+6	nokh	ADV	נאָך	nAoX	_
+7	areyn	ADV	אַרײן	AarYN	_
+8	in	P	אין	AyN	_
+9	der	D	דער	der	_
+10	stat	N	סטאַט	stAat	_
+
+SENT	1834E-UKRAINE-2,39.67
+1	azoy	ADV	אַזױ	AazW	_
+2-3	vestu	MDF~PRO	װעסטו	Vestv	_
+2	ves	MDF	װעס	Ves	_
+3	tu	PRO	טו	tv	_
+4	zeyn	VB	זײן	zYN	_
+5	unzer	PRO$	אונזער	Avnzer	_
+6	her	N	הער	her	_
+7	ibr	P	איבר	Aybr	_
+8	unz	PRO	אונז	Avnz	_
+
+SENT	1834E-UKRAINE-2,39.68
+1	bkitsur	ADV	בקיצור	bkyqvr	_
+2	der	D	דער	der	_
+3	kamisr	N	קאַמיסר	kAamysr	_
+4	hat	HVF	האַט	hAat	_
+5	zikh	PRO	זיך	zyX	_
+6	meyshb	RP-H	מײשב	mY$b	_
+7	given	VBN	גיװען	gyVeN	_
+
+SENT	1834E-UKRAINE-2,39.69
+1	nokh	P	נאָך	nAoX	_
+2	vos	WPRO	װאָס	VAos	_
+3	zal	VBF	ז"ל	z"l	_
+4	mir	PRO	מיר	myr	_
+5	dos	D	דאָס	dAos	_
+6	az	C	אַז	Aaz	_
+7	ikh	PRO	איך	AyX	_
+8	zal	MDF	ז"ל	z"l	_
+9	mir	PRO	מיר	myr	_
+10	krigin	VB	קריגין	krygyN	_
+11	mit	P	מיט	myt	_
+12	gante	NPR	גאַנטע	gAante	_
+13	imkh	H	אימך	AymX	may_be_erased
+14	smu	H	סמו	smv	name_his
+
+SENT	1834E-UKRAINE-2,39.70
+1	tomer	ADV	טאָמער	tAomer	_
+2	velin	MDF	װעלין	VelyN	_
+3	zey	PRO	זײ	zY	_
+4	ye	ADV	יע	ye	_
+5	areyn	ADV	אַרײן	AarYN	_
+6	kumn	VB	קומן	kvmN	_
+7	azoy	ADV	אַזױ	AazW	_
+8	vert	RDF	װערט	Vert	_
+9	er	PRO	ער	er	_
+10	mikh	PRO	מיך	myX	_
+11	oykh	ADV	אױך	AWX	_
+12	hrginn	VB	הרגינן	hrgynN	_
+13	mit	P	מיט	myt	_
+14	ali	Q	אַלי	Aaly	_
+15	prktsim	N	פּרקצים	prkqyM	_
+
+SENT	1834E-UKRAINE-2,39.71
+1	beser	ADV	בעסער	beser	_
+2	las	VBF	לאַס	lAas	_
+3	ikh	PRO	איך	AyX	_
+4	efenin	VB	עפֿענין	efenyN	_
+5	aleyn	ADV	אַלײן	AalYN	_
+6	in	CONJ	אין	AyN	_
+7	im	PRO	אים	AyM	_
+8	areyn	ADV	אַרײן	AarYN	_
+9	tsu	TO	צו	qv	_
+10	lazin	VB	לאַזין	lAazyN	_
+11	in	P	אין	AyN	_
+12	shtat	N	שטאַט	$tAat	_
+
+SENT	1834E-UKRAINE-2,39.72
+1	azoy	ADV	אַזױ	AazW	_
+2	vel	MDF	װעל	Vel	_
+3	ikh	PRO	איך	AyX	_
+4	krigin	VB	קריגין	krygyN	_
+5	bey	P	בײ	bY	_
+6	zey	PRO	זײ	zY	_
+7	groys	ADJ	גרױס	grWs	_
+8	ginad	N	גינאַד	gynAad	_
+
+SENT	1834E-UKRAINE-2,39.73
+1	aber	CONJ	אַבער	Aaber	_
+2	di	D	די	dy	_
+3	ihudim	N	איהודים	AyhvdyM	_
+4	un	CONJ	און	AvN	_
+5	di	D	די	dy	_
+6	pritsim	N	פּריצים	pryqyM	_
+7	un	CONJ	און	AvN	_
+8	di	D	די	dy	_
+9	glkhut	N	גלכוט	glxvt	_
+10	un	CONJ	און	AvN	_
+11	studentin	N	סטודענטין	stvdentyN	_
+12	zeynen	BEF	זײנען	zYneN	_
+13	gishtanin	VBN	גישטאַנין	gy$tAanyN	_
+14	arum	P	אַרום	AarvM	_
+15	der	D	דער	der	_
+16	shtat	N	שטאַט	$tAat	_
+
+SENT	1834E-UKRAINE-2,39.74
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zikh	PRO	זיך	zyX	_
+4	givert	VBN	גיװערט	gyVert	_
+5	far	P	פֿאַר	fAar	_
+6	di	D	די	dy	_
+7	pukhzim	N	פּוכזים	pvxzyM	_
+
+SENT	1834E-UKRAINE-2,39.75
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	aroys	ADV	אַרױס	AarWs	_
+4	gishasin	VBN	גישאַסין	gy$AasyN	_
+
+SENT	1834E-UKRAINE-2,39.76
+1	varum	CONJ	װאַרום	VAarvM	_
+2	zey	PRO	זײ	zY	_
+3	hobin	HVF	האָבין	hAobyN	_
+4	givust	VBN	גיװוּסט	gyVUst	_
+5	az	C	אַז	Aaz	_
+6	di	D	די	dy	_
+7	pukhzim	N	פּוכזים	pvxzyM	_
+8	velin	MDF	װעלין	VelyN	_
+9	areyn	ADV	אַרײן	AarYN	_
+10	kumn	VB	קומן	kvmN	_
+
+SENT	1834E-UKRAINE-2,39.77
+1	azoy	ADV	אַזױ	AazW	_
+2	zenin	VBF	זענין	zenyN	_
+3	zey	PRO	זײ	zY	_
+4	ali	Q	אַלי	Aaly	_
+5	avek	RP-ADV	אַװעק	AaVek	_
+
+SENT	1834E-UKRAINE-2,39.78
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	ihudim	N	איהודים	AyhvdyM	_
+4	zeynin	BEF	זײנין	zYnyN	_
+5	ali	Q	אַלי	Aaly	_
+6	gilafin	VBN	גילאַפֿין	gylAafyN	_
+7	in	P	אין	AyN	_
+8	shul	N	שול	$vl	_
+9	areyn	ADV	אַרײן	AarYN	_
+10	in	P	אין	AyN	_
+11	tlit	N	טליט	tlyt	_
+12	un	CONJ	און	AvN	_
+13	tfilin	N	טפֿילין	tfylyN	_
+
+SENT	1834E-UKRAINE-2,39.79
+1	un	CONJ	און	AvN	_
+2	veynn	VBF	װײנן	VYnN	_
+
+SENT	1834E-UKRAINE-2,39.80
+1	un	CONJ	און	AvN	_
+2	shreytsn	VBF	שרײצן	$rYqN	_
+
+SENT	1834E-UKRAINE-2,39.81
+1	tomer	ADV	טאָמער	tAomer	_
+2	vet	MDF	װעט	Vet	_
+3	zikh	PRO	זיך	zyX	_
+4	got	NPR	גאָט	gAot	_
+5	derbarimn	VB	דערבאַרימן	derbAarymN	_
+6	ibr	P	איבר	Aybr	_
+7	di	D	די	dy	_
+8	kleyni	ADJ	קלײני	klYny	_
+9	kindrlikh	N	קינדרליך	kyndrlyX	_
+
+SENT	1834E-UKRAINE-2,39.82
+1	bkitsur	ADV	בקיצור	bkyqvr	_
+2	der	D	דער	der	_
+3	kamisr	N	קאַמיסר	kAamysr	_
+4	hat	HVF	האַט	hAat	_
+5	zikh	PRO	זיך	zyX	_
+6	aruf	ADV	אַרוף	AarvF	_
+7	gizetst	VBN	גיזעצט	gyzeqt	_
+8	oyf	P	אױף	AWF	_
+9	eyn	D	אײן	AYN	_
+10	ferd	N	פֿערד	ferd	_
+
+SENT	1834E-UKRAINE-2,39.83
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	ali	Q	אַלי	Aaly	_
+4	ihudim	N	איהודים	AyhvdyM	_
+5	un	CONJ	און	AvN	_
+6	di	D	די	dy	_
+7	pritsim	N	פּריצים	pryqyM	_
+8	alts	Q	אַלץ	AalQ	_
+9	fer_tribin	VBN	פֿער_טריבין	fer_trybyN	_
+10	biz	C	ביז	byz	_
+11	es	ES	עס	es	_
+12	iz	BEF	איז	Ayz	_
+13	keynr	Q	קײנר	kYnr	_
+14	baey	P	באַײ	bAaY	_
+15	der	D	דער	der	_
+16	bram	N	בראַם	brAaM	_
+17	nit	NEG	ניט	nyt	_
+18	giblibn	VBN	גיבליבן	gyblybN	_
+
+SENT	1834E-UKRAINE-2,39.84
+1	un	CONJ	און	AvN	_
+2	gishrign	VBN	גישריגן	gy$rygN	_
+3	nit	NEG	ניט	nyt	_
+4	shist	VBI	שיסט	$yst	_
+
+SENT	1834E-UKRAINE-2,39.85
+1	den	CONJ	דען	deN	_
+2	ikh	PRO	איך	AyX	_
+3	hab	HVF	האַב	hAab	_
+4	mit	P	מיט	myt	_
+5	zey	PRO	זײ	zY	_
+6	slum	N	סלום	slvM	_
+7	gimakht	VBN	גימאַכט	gymAaxt	_
+
+SENT	1834E-UKRAINE-2,39.86
+1	un	CONJ	און	AvN	_
+2	vi	WADV	װי	Vy	_
+3	di	D	די	dy	_
+4	pukhzim	N	פּוכזים	pvxzyM	_
+5	habin	HVF	האַבין	hAabyN	_
+6	das	D	דת	dS	_
+7	der_hert	VBN	דער_הערט	der_hert	_
+8	habin	HVF	האַבין	hAabyN	_
+9	zey	PRO	זײ	zY	_
+10	zikh	PRO	זיך	zyX	_
+11-12	tsugirukt	RP~VBN	צוגירוקט	qvgyrvkt	_
+11	tsu	RP	צו	qv	_
+12	girukt	VBN	גירוקט	gyrvkt	_
+13	tsu	P	צו	qv	_
+14	der	D	דער	der	_
+15	shtat	N	שטאַט	$tAat	_
+
+SENT	1834E-UKRAINE-2,39.87
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	an	RP	אַן	AaN	_
+4	gihoybin	VBN	גיהױבין	gyhWbyN	_
+5	tsu	TO	צו	qv	_
+6	hakin	VB	האַקין	hAakyN	_
+7	di	D	די	dy	_
+8	palts	N	פּאַלץ	pAalQ	_
+9	arum	P	אַרום	AarvM	_
+10	der	D	דער	der	_
+11	shtat	N	שטאַט	$tAat	_
+
+SENT	1834E-UKRAINE-2,39.88
+1	nu	ADV	נו	nv	_
+2	vi	C	װי	Vy	_
+3	der	D	דער	der	_
+4	fan_markavski	NPR	פֿאַנ_מאַרקאַװסקי	fAan_mAarkAaVsky	_
+5	hat	HVF	האַט	hAat	_
+6	das	D	דת	dS	_
+7	gizehen	VBN	גיזעהען	gyzeheN	_
+8	azoy	ADV	אַזױ	AazW	_
+9	shreyt	VBF	שרײט	$rYt	_
+10	er	PRO	ער	er	_
+11	zeyer	ADV	זײער	zYer	_
+12	tsu	P	צו	qv	_
+13	dem	D	דעם	deM	_
+14	komisr	N	קאָמיסר	kAomysr	_
+15	nokh	P	נאָך	nAoX	_
+16	vos	WPRO	װאָס	VAos	_
+17-18	efinstu	VBF~PRO	עפֿינסטו	efynstv	_
+17	efins	VBF	עפֿינס	efyns	_
+18	tu	PRO	טו	tv	_
+19	dem	D	דעם	deM	_
+20	toyer	N	טױער	tWer	_
+
+SENT	1834E-UKRAINE-2,39.89
+1	varum	CONJ	װאַרום	VAarvM	_
+2	vi	WADV	װי	Vy	_
+3	der	D	דער	der	_
+4	fan_markavski	NPR	פֿאַנ_מאַרקאַװסקי	fAan_mAarkAaVsky	_
+5	hat	HVF	האַט	hAat	_
+6	givalt	VBN	גיװאַלט	gyVAalt	_
+7	azoy	ADV	אַזױ	AazW	_
+8	het	HVF	העט	het	_
+9	nit	NEG	ניט	nyt	_
+10	ibr_giblibn	VBN	איבר_גיבליבן	Aybr_gyblybN	_
+11	eyn	D	אײן	AYN	_
+12	fus	N	פֿוס	fvs	_
+13	fun	P	פֿון	fvN	_
+14	di	D	די	dy	_
+15	pukhzim	N	פּוכזים	pvxzyM	_
+
+SENT	1834E-UKRAINE-2,39.90
+1	er	PRO	ער	er	_
+2	shreyt	VBF	שרײט	$rYt	_
+3	tsu	P	צו	qv	_
+4	dem	D	דעם	deM	_
+5	komisr	N	קאָמיסר	kAomysr	_
+6	vos	WPRO	װאָס	VAos	_
+7-8	meynstu	VBF~PRO	מײנסטו	mYnstv	_
+7	meyns	VBF	מײנס	mYns	_
+8	tu	PRO	טו	tv	_
+9	der_mit	DR+P	דער_מיט	der_myt	_
+
+SENT	1834E-UKRAINE-2,39.91
+1	di	D	די	dy	_
+2	gantsi	ADJ	גאַנצי	gAanqy	_
+3	velt	N	װעלט	Velt	_
+4	habin	VBF	האַבין	hAabyN	_
+5	tsu	TO	צו	qv	_
+6	veynin	VB	װײנין	VYnyN	_
+7	ibr	P	איבר	Aybr	_
+8	dir	PRO	דיר	dyr	_
+
+SENT	1834E-UKRAINE-2,39.92
+1	bkitsur	ADV	בקיצור	bkyqvr	_
+2	vi	WADV	װי	Vy	_
+3	der	D	דער	der	_
+4	markavski	N	מאַרקאַװסקי	mAarkAaVsky	_
+5	zeht	VBF	זעהט	zeht	_
+6	az	C	אַז	Aaz	_
+7	der	D	דער	der	_
+8	kamisr	N	קאַמיסר	kAamysr	_
+9	fregt	VBF	פֿרעגט	fregt	_
+10	droyf	DR+P	דרױף	drWF	_
+11	nist	NEG	ניסט	nyst	_
+12	azoy	ADV	אַזױ	AazW	_
+13	fer_drist	VBF	פֿער_דריסט	fer_dryst	_
+14	im	PRO	אים	AyM	_
+15	zeyer	ADV	זײער	zYer	_
+
+SENT	1834E-UKRAINE-2,39.93
+1	un	CONJ	און	AvN	_
+2	loyft	VBF	לױפֿט	lWft	_
+3	tsu	P	צו	qv	_
+4	der	D	דער	der	_
+5	bram	N	בראַם	brAaM	_
+
+SENT	1834E-UKRAINE-2,39.94
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	givalt	MDN	גיװאַלט	gyVAalt	_
+4	eyn	D	אײן	AYN	_
+5	harmat	N	האַרמאַט	hAarmAat	_
+6	oys	RP	אױס	AWs	_
+7	shisn	VB	שיסן	$ysN	_
+8	oyf	P	אױף	AWF	_
+9	di	D	די	dy	_
+10	pukhzim	N	פּוכזים	pvxzyM	_
+
+SENT	1834E-UKRAINE-2,39.95
+1	iz	BEF	איז	Ayz	_
+2	gikumn	VBN	גיקומן	gykvmN	_
+3	der	D	דער	der	_
+4	kamisr	N	קאַמיסר	kAamysr	_
+5	tsu	TO	צו	qv	_
+6	loyfin	VB	לױפֿין	lWfyN	_
+7	mit	P	מיט	myt	_
+8	eyn	D	אײן	AYN	_
+9	bluzi	ADJ	בלוזי	blvzy	_
+10	shverd	N	שװערד	$Verd	_
+
+SENT	1834E-UKRAINE-2,39.96
+1	un	CONJ	און	AvN	_
+2	{khaft}	X	{כאַפֿט}	{xAaft}	_
+3	hat	HVF	האַט	hAat	_
+4	tsu	RP	צו	qv	_
+5	gidekt	VBN	גידעקט	gydekt	_
+6	dem	D	דעם	deM	_
+7	harmat	N	האַרמאַט	hAarmAat	_
+8	mit	P	מיט	myt	_
+9	der	D	דער	der	_
+10	fali	N	פֿאַלי	fAaly	_
+11	az	C	אַז	Aaz	_
+12	men	PRO	מען	meN	_
+13	zal	MDF	ז"ל	z"l	_
+14	nit	NEG	ניט	nyt	_
+15	kenin	MD	קענין	kenyN	_
+16	sisn	VB	סיסן	sysN	_
+
+SENT	1834E-UKRAINE-2,39.97
+1	azoy	ADV	אַזױ	AazW	_
+2	zeynin	BEF	זײנין	zYnyN	_
+3	ali	Q	אַלי	Aaly	_
+4	pukhzim	N	פּוכזים	pvxzyM	_
+5	in	P	אין	AyN	_
+6	stat	N	סטאַט	stAat	_
+7	areyn	ADV	אַרײן	AarYN	_
+8	mit	P	מיט	myt	_
+9	groys	ADJ	גרױס	grWs	_
+10	tsorn	N	צאָרן	qAorN	_
+
+SENT	1834E-UKRAINE-2,39.98
+1	nu	ADV	נו	nv	_
+2	es	ES	עס	es	_
+3	iz	BEF	איז	Ayz	_
+4	givarin	VBN	גיװאַרין	gyVAaryN	_
+5	tsvishin	P	צװישין	qVy$yN	_
+6	di	D	די	dy	_
+7	ihudim	N	איהודים	AyhvdyM	_
+8	un	CONJ	און	AvN	_
+9	tsvishin	P	צװישין	qVy$yN	_
+10	di	D	די	dy	_
+11	erlim	N	ערלים	erlyM	_
+12	un	CONJ	און	AvN	_
+13	oykh	ADV	אױך	AWX	_
+14	fritsim	N	פֿריצים	fryqyM	_
+15	azoy	ADV	אַזױ	AazW	_
+16	eyn	D	אײן	AYN	_
+17	groys	ADJ	גרױס	grWs	_
+18	gishrey	N	גישרײ	gy$rY	_
+19	un	CONJ	און	AvN	_
+20	giveyn	N	גיװײן	gyVYN	_
+21	zint	C	זינט	zynt	_
+22	di	D	די	dy	_
+23	velt	N	װעלט	Velt	_
+24	steyt	VBF	סטײט	stYt	_
+25	iz	BEF	איז	Ayz	_
+26	nakh	ADV	נ"ך	n"X	_
+27	azoy	ADV	אַזױ	AazW	_
+28	eyn	D	אײן	AYN	_
+29	tsrh	N	צרה	qrh	_
+30	nit	NEG	ניט	nyt	_
+31	givezin	VBN	גיװעזין	gyVezyN	_
+32	in	P	אין	AyN	_
+33	pulin	NPR	פּולין	pvlyN	_
+
+SENT	1834E-UKRAINE-2,39.99
+1	vi	WADV	װי	Vy	_
+2	fil	Q	פֿיל	fyl	_
+3	ihudim	N	איהודים	AyhvdyM	_
+4	un	CONJ	און	AvN	_
+5	oykh	ADV	אױך	AWX	_
+6	palakes	N	פּאַלאַקעס	pAalAakes	_
+7	vos	C	װאָס	VAos	_
+8	men	PRO	מען	meN	_
+9	hat	HVF	האַט	hAat	_
+10	oys	RP	אױס	AWs	_
+11	gihrgt	VBN	גיהרגט	gyhrgt	_
+
+SENT	1834E-UKRAINE-2,39.100
+1	kudm	H	קודם	kvdM	first
+2	habin	HVF	האַבין	hAabyN	_
+3	zey	PRO	זײ	zY	_
+4	an	RP	אַן	AaN	_
+5	gihoybin	VBN	גיהױבין	gyhWbyN	_
+6	di	D	די	dy	_
+7	ihudim	N	איהודים	AyhvdyM	_
+8	tsu	TO	צו	qv	_
+9	shekhtin	VB	שעכטין	$extyN	_
+10	oyf	P	אױף	AWF	_
+11	di	D	די	dy	_
+12	gas	N	גאַס	gAas	_
+
+SENT	1834E-UKRAINE-2,39.101
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	oyf	P	אױף	AWF	_
+4	keynm	Q	קײנם	kYnM	_
+5	nit	NEG	ניט	nyt	_
+6	gihat	VBN	גיהאַט	gyhAat	_
+7	keyn	Q	קײן	kYN	_
+8	rkhmnut	N	רכמנוט	rxmnvt	_
+
+SENT	1834E-UKRAINE-2,39.102
+1	azoy	ADV	אַזױ	AazW	_
+2	habin	HVF	האַבין	hAabyN	_
+3	di	D	די	dy	_
+4	kleyni	ADJ	קלײני	klYny	_
+5	kindr	N	קינדר	kyndr	_
+6	an	RP	אַן	AaN	_
+7	gihoybin	VBN	גיהױבין	gyhWbyN	_
+8	tsu	TO	צו	qv	_
+9	betin	VB	בעטין	betyN	_
+10	far	P	פֿאַר	fAar	_
+11	fatr	N	פֿאַטר	fAatr	_
+12	un	CONJ	און	AvN	_
+13	mutr	N	מוטר	mvtr	_
+
+SENT	1834E-UKRAINE-2,39.103
+1	azoy	ADV	אַזױ	AazW	_
+2	hat	HVF	האַט	hAat	_
+3	men	PRO	מען	meN	_
+4	zey	PRO	זײ	zY	_
+5	ali	Q	אַלי	Aaly	_
+6	gibundin	VBN	גיבונדין	gybvndyN	_
+7	oyf	P	אױף	AWF	_
+8	dr	D	דר	dr	_
+9	gas	N	גאַס	gAas	_
+10	un	CONJ	און	AvN	_
+11	mit	P	מיט	myt	_
+12	ferd	N	פֿערד	ferd	_
+13	tsutretin	VBN	צוטרעטין	qvtretyN	_
+
+SENT	1834E-UKRAINE-2,39.104
+1	dr_nakh	DR+P	דר_נאַך	dr_nAaX	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zey	PRO	זײ	zY	_
+4	gikhapt	VBN	גיכאַפּט	gyxAapt	_
+5	eyn	D	אײן	AYN	_
+6	btulh	N	בטולה	btvlh	_
+7	eyn	D	אײן	AYN	_
+8	sheyni	ADJ	שײני	$Yny	_
+
+SENT	1834E-UKRAINE-2,40.105
+1	ir	PRO$	איר	Ayr	_
+2	fatr	N	פֿאַטר	fAatr	_
+3	hat	HVF	האַט	hAat	_
+4	giheysn	VBN	גיהײסן	gyhYsN	_
+5	hkdus	H	הקדוס	hkdvs	the_holy_one
+6	rbi	NPR	רבי	rby	_
+7	msh	NPR	מש	m$	_
+
+SENT	1834E-UKRAINE-2,40.106
+1	azoy	ADV	אַזױ	AazW	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zey	PRO	זײ	zY	_
+4	an	RP	אַן	AaN	_
+5	gihoybin	VBN	גיהױבין	gyhWbyN	_
+6	an	RP	אַן	AaN	_
+7	tsu	TO	צו	qv	_
+8	reydin	VB	רײדין	rYdyN	_
+9	az	C	אַז	Aaz	_
+10	zi	PRO	זי	zy	_
+11	zal	MDF	ז"ל	z"l	_
+12	zikh	PRO	זיך	zyX	_
+13	smadin	VB	סמאַדין	smAadyN	_
+
+SENT	1834E-UKRAINE-2,40.107
+1	azoy	ADV	אַזױ	AazW	_
+2	hat	HVF	האַט	hAat	_
+3	zi	PRO	זי	zy	_
+4	an	RP	אַן	AaN	_
+5	gihoybin	VBN	גיהױבין	gyhWbyN	_
+6	tsu	TO	צו	qv	_
+7	reydin	VB	רײדין	rYdyN	_
+8	mit	P	מיט	myt	_
+9	groys	ADJ	גרױס	grWs	_
+10	gishrey	N	גישרײ	gy$rY	_
+
+SENT	1834E-UKRAINE-2,40.108
+1	ir	PRO	איר	Ayr	_
+2	umh	H	אומה	Avmh	nation
+3	tmah	H	טמאַה	tmAah	UNKNOWN
+4	vi	WADV	װי	Vy	_
+5	ret	VBF	רעט	ret	_
+6	etts	PRO	עטץ	etQ	_
+7	mikh	PRO	מיך	myX	_
+8	an	RP	אַן	AaN	_
+9	tsu	P	צו	qv	_
+10	der	D	דער	der	_
+11	deh	N	דעה	deh	_
+
+SENT	1834E-UKRAINE-2,40.109
+1	ir	PRO	איר	Ayr	_
+2	kent	MDF	קענט	kent	_
+3	mikh	PRO	מיך	myX	_
+4	nit	NEG	ניט	nyt	_
+5	neytin	VB	נײטין	nYtyN	_
+
+SENT	1834E-UKRAINE-2,40.110
+1	libr	ADV	ליבר	lybr	_
+2	vil	MDF	װיל	Vyl	_
+3	ikh	PRO	איך	AyX	_
+4	um	RP	אום	AvM	_
+5	kumn	VB	קומן	kvmN	_
+
+SENT	1834E-UKRAINE-2,40.111
+1	azoy	ADV	אַזױ	AazW	_
+2	hat	HVF	האַט	hAat	_
+3	men	PRO	מען	meN	_
+4	zi	PRO	זי	zy	_
+5	gifirt	VBN	גיפֿירט	gyfyrt	_
+6	tsu	P	צו	qv	_
+7	der	D	דער	der	_
+8	brunh	N	ברונה	brvnh	_
+
+SENT	1834E-UKRAINE-2,40.112
+1	men	PRO	מען	meN	_
+2	hat	HVF	האַט	hAat	_
+3	ir	PRO	איר	Ayr	_
+4	givizin	VBN	גיװיזין	gyVyzyN	_
+5	vi	WADV	װי	Vy	_
+6	fil	Q	פֿיל	fyl	_
+7	hrugim	N	הרוגים	hrvgyM	_
+8	ligin	VBF	ליגין	lygyN	_
+9	drinn	ADV	דרינן	drynN	_
+
+SENT	1834E-UKRAINE-2,40.113
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	gitan	DON	גיטאַן	gytAaN	_
+4	zeyer	PRO$	זײער	zYer	_
+5	mesr	N	מעסר	mesr	_
+6	sharfn	VB	שאַרפֿן	$AarfN	_
+7	tsu	TO	צו	qv	_
+8	koyln	VB	קױלן	kWlN	_
+
+SENT	1834E-UKRAINE-2,40.114
+1	a	D	אַ	Aa	_
+2	teyl	N	טײל	tYl	_
+3	zogin	VBF	זאָגין	zAogyN	_
+4	men	PRO	מען	meN	_
+5	zal	MDF	ז"ל	z"l	_
+6	zi	PRO	זי	zy	_
+7	lebeydigr_heyt	ADV	לעבײדיגר_הײט	lebYdygr_hYt	_
+8	in	P	אין	AyN	_
+9	brunm	N	ברונם	brvnM	_
+10	areyn	ADV	אַרײן	AarYN	_
+11	varfin	VB	װאַרפֿין	VAarfyN	_
+
+SENT	1834E-UKRAINE-2,40.115
+1	azoy	ADV	אַזױ	AazW	_
+2	hot	HVF	האָט	hAot	_
+3	zi	PRO	זי	zy	_
+4	gizogt	VBN	גיזאָגט	gyzAogt	_
+5	ikh	PRO	איך	AyX	_
+6	tu	DOF	טו	tv	_
+7	far	P	פֿאַר	fAar	_
+8	dem	D	דעם	deM	_
+9	toyt	N	טױט	tWt	_
+10	nit	NEG	ניט	nyt	_
+11	farkhtin	VB	פֿאַרכטין	fAarxtyN	_
+
+SENT	1834E-UKRAINE-2,40.116
+1	ikh	PRO	איך	AyX	_
+2	tu	DOF	טו	tv	_
+3	tikf	ADV	טיקף	tykF	_
+4	meyn	PRO$	מײן	mYN	_
+5	halz	N	האַלז	hAalz	_
+6	oys	RP	אױס	AWs	_
+7	shtrekin	VB	שטרעקין	$trekyN	_
+8-9	tsum	P~D	צום	qvM	_
+8	tsu	P	צו	qv	_
+9	m	D	מ	m	_
+10	koyln	N	קױלן	kWlN	_
+
+SENT	1834E-UKRAINE-2,40.117
+1	un	CONJ	און	AvN	_
+2	ir	PRO$	איר	Ayr	_
+3	mutr	N	מוטר	mvtr	_
+4	iz	BEF	איז	Ayz	_
+5	gishtanin	VBN	גישטאַנין	gy$tAanyN	_
+6	der_baey	DR+P	דער_באַײ	der_bAaY	_
+7	nebin	ADV	נעבין	nebyN	_
+
+SENT	1834E-UKRAINE-2,40.118
+1	azoy	ADV	אַזױ	AazW	_
+2	hot	HVF	האָט	hAot	_
+3	zi	PRO	זי	zy	_
+4	gishrign	VBN	גישריגן	gy$rygN	_
+5	meyn	PRO	מײן	mYN	_
+6	libe	ADJ	ליבע	lybe	_
+7	tokhtr	N	טאָכטר	tAoxtr	_
+8	far_ges	VBI	פֿאַר_געס	fAar_ges	_
+9	nit	NEG	ניט	nyt	_
+10	on	P	אָן	AoN	_
+11	unzr	PRO$	אונזר	Avnzr	_
+12	libn	ADJ	ליבן	lybN	_
+13	got	NPR	גאָט	gAot	_
+
+SENT	1834E-UKRAINE-2,40.119
+1	azoy	ADV	אַזױ	AazW	_
+2	habin	HVF	האַבין	hAabyN	_
+3	di	D	די	dy	_
+4	pukhzim	N	פּוכזים	pvxzyM	_
+5	zi	PRO	זי	zy	_
+6	ginumn	VBN	גינומן	gynvmN	_
+
+SENT	1834E-UKRAINE-2,40.120
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zi	PRO	זי	zy	_
+4	areyn	ADV	אַרײן	AarYN	_
+5	givarfin	VBN	גיװאַרפֿין	gyVAarfyN	_
+6	lebedign_heyt	ADV	לעבעדיגנ_הײט	lebedygn_hYt	_
+7	in	P	אין	AyN	_
+8	der	D	דער	der	_
+9	brunh	N	ברונה	brvnh	_
+10	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1834E-UKRAINE-2,40.121
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	ibrigi	ADJ	איבריגי	Aybrygy	_
+4	ihudim	N	איהודים	AyhvdyM	_
+5	habin	HVF	האַבין	hAabyN	_
+6	an	RP	אַן	AaN	_
+7	gihoybin	VBN	גיהױבין	gyhWbyN	_
+8	ali	Q	אַלי	Aaly	_
+9	in	P	אין	AyN	_
+10	shul	N	שול	$vl	_
+11	areyn	ADV	אַרײן	AarYN	_
+12	tsu	TO	צו	qv	_
+13	loyfin	VB	לױפֿין	lWfyN	_
+
+SENT	1834E-UKRAINE-2,40.122
+1	a	D	אַ	Aa	_
+2	teyl	N	טײל	tYl	_
+3	habin	HVF	האַבין	hAabyN	_
+4	zikh	PRO	זיך	zyX	_
+5	ap	RP	אַפּ	Aap	_
+6	gikoyft	VBN	גיקױפֿט	gykWft	_
+7	mit	P	מיט	myt	_
+8	gelt	N	געלט	gelt	_
+
+SENT	1834E-UKRAINE-2,40.123
+1	abr	CONJ	אַבר	Aabr	_
+2	di	D	די	dy	_
+3	pukhzim	N	פּוכזים	pvxzyM	_
+4	habn	HVF	האַבן	hAabN	_
+5	zey	PRO	זײ	zY	_
+6	mrmh	RP-H	מרמה	mrmh	_
+7	givezin	VBN	גיװעזין	gyVezyN	_
+
+SENT	1834E-UKRAINE-2,40.124
+1	zey	PRO	זײ	zY	_
+2	habin	HVF	האַבין	hAabyN	_
+3	ginumn	VBN	גינומן	gynvmN	_
+4	das	D	דת	dS	_
+5	gelt	N	געלט	gelt	_
+
+SENT	1834E-UKRAINE-2,40.125
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zey	PRO	זײ	zY	_
+4	fort	ADV	פֿאָרט	fAort	_
+5	um	RP	אום	AvM	_
+6	gibrakht	VBN	גיבראַכט	gybrAaxt	_
+
+SENT	1834E-UKRAINE-2,40.126
+1	azoy	ADV	אַזױ	AazW	_
+2	habi'	HVF	האַבי'	hAaby'	_
+3	zey	PRO	זײ	zY	_
+4	gitan	DON	גיטאַן	gytAaN	_
+5	veynin	VB	װײנין	VYnyN	_
+6	un	CONJ	און	AvN	_
+7	shreyen	VB	שרײען	$rYeN	_
+
+SENT	1834E-UKRAINE-2,40.127
+1	bkitsur	ADV	בקיצור	bkyqvr	_
+2	di	D	די	dy	_
+3	ihudim	N	איהודים	AyhvdyM	_
+4	vas	C	װאַס	VAas	_
+5	zenen	BEF	זענען	zeneN	_
+6	ali	Q	אַלי	Aaly	_
+7	givezin	VBN	גיװעזין	gyVezyN	_
+8	in	P	אין	AyN	_
+9	der	D	דער	der	_
+10	sul	N	סול	svl	_
+11	habin	HVF	האַבין	hAabyN	_
+12	zey	PRO	זײ	zY	_
+13	zikh	PRO	זיך	zyX	_
+14	an	RP	אַן	AaN	_
+15	gihoybin	VBN	גיהױבין	gyhWbyN	_
+16	tsu	TO	צו	qv	_
+17	verin	VB	װערין	VeryN	_
+18	akegin	P	אַקעגין	AakegyN	_
+19	di	D	די	dy	_
+20	pukhzim	N	פּוכזים	pvxzyM	_
+21	mit	P	מיט	myt	_
+22	kli	H	קלי	kly	tools
+23	zin	H	זין	zyN	UNKNOWN
+
+SENT	1834E-UKRAINE-2,40.128
+1	azoy	ADV	אַזױ	AazW	_
+2	iz	BEF	איז	Ayz	_
+3	givezin	VBN	גיװעזין	gyVezyN	_
+4	eyn	D	אײן	AYN	_
+5	ihudi	N	איהודי	Ayhvdy	_
+
+SENT	1834E-UKRAINE-2,40.129
+1	er	PRO	ער	er	_
+2	hat	HVF	האַט	hAat	_
+3	zikh	PRO	זיך	zyX	_
+4	der_vekt	VBN	דער_װעקט	der_Vekt	_
+
+SENT	1834E-UKRAINE-2,40.130
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	an	RP	אַן	AaN	_
+4	gihoybin	VBN	גיהױבין	gyhWbyN	_
+5	tsu	TO	צו	qv	_
+6	zidin	VB	זידין	zydyN	_
+7	bey	P	בײ	bY	_
+8	im	PRO	אים	AyM	_
+9	das	D	דת	dS	_
+10	blut	N	בלוט	blvt	_
+11	vi	P	װי	Vy	_
+12	eyn	D	אײן	AYN	_
+13	fis	N	פֿיס	fys	_
+14	in	P	אין	AyN	_
+15	der	D	דער	der	_
+16	pan	N	פּאַן	pAaN	_
+
+SENT	1834E-UKRAINE-2,40.131
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	gikhapt	VBN	גיכאַפּט	gyxAapt	_
+4	eyn	D	אײן	AYN	_
+5	shverd	N	שװערד	$Verd	_
+6	in	P	אין	AyN	_
+7	der	D	דער	der	_
+8	handt	N	האַנדט	hAandt	_
+
+SENT	1834E-UKRAINE-2,40.132
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	gihrgt	VBN	גיהרגט	gyhrgt	_
+4	ibr	P	איבר	Aybr	_
+5	tsvantsig	NUM	צװאַנציג	qVAanqyg	_
+6	pukhzim	N	פּוכזים	pvxzyM	_
+
+SENT	1834E-UKRAINE-2,40.133
+1	nokh	ADV	נאָך	nAoX	_
+2	eyn	D	אײן	AYN	_
+3	ihudi	N	איהודי	Ayhvdy	_
+4	iz	BEF	איז	Ayz	_
+5	givezin	VBN	גיװעזין	gyVezyN	_
+
+SENT	1834E-UKRAINE-2,40.134
+1	er	PRO	ער	er	_
+2	hat	HVF	האַט	hAat	_
+3	zikh	PRO	זיך	zyX	_
+4	gitan	DON	גיטאַן	gytAaN	_
+5	shtarkin	VB	שטאַרקין	$tAarkyN	_
+6	nakh	ADV	נ"ך	n"X	_
+7	besr	ADVR	בעסר	besr	_
+
+SENT	1834E-UKRAINE-2,40.135
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	etlikhe	Q	עטליכע	etlyxe	_
+4	pukhzim	N	פּוכזים	pvxzyM	_
+5	gitan	DON	גיטאַן	gytAaN	_
+6	koyln	VB	קױלן	kWlN	_
+7	mit	P	מיט	myt	_
+8	zeyn	PRO$	זײן	zYN	_
+9	meser	N	מעסער	meser	_
+
+SENT	1834E-UKRAINE-2,40.136
+1	nun	ADV	נ	n	_
+2	vi	WADV	װי	Vy	_
+3	di	D	די	dy	_
+4	pukhzim	N	פּוכזים	pvxzyM	_
+5	habin	HVF	האַבין	hAabyN	_
+6	gizehen	VBN	גיזעהען	gyzeheN	_
+7	az	C	אַז	Aaz	_
+8	zey	PRO	זײ	zY	_
+9	kenn	MDF	קענן	kenN	_
+10	di	D	די	dy	_
+11	ihudim	N	איהודים	AyhvdyM	_
+12	nit	NEG	ניט	nyt	_
+13	baey	RP	באַײ	bAaY	_
+14	kumn	VB	קומן	kvmN	_
+15	azoy	ADV	אַזױ	AazW	_
+16	habin	HVF	האַבין	hAabyN	_
+17	zey	PRO	זײ	zY	_
+18	ginumn	VBN	גינומן	gynvmN	_
+19	eyn	D	אײן	AYN	_
+20	harmat	N	האַרמאַט	hAarmAat	_
+21	fun	P	פֿון	fvN	_
+22	dem	D	דעם	deM	_
+23	shlas	N	שלאַס	$lAas	_
+24	arop	ADV	אַראָפּ	AarAop	_
+
+SENT	1834E-UKRAINE-2,40.137
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zey	PRO	זײ	zY	_
+4	gifirt	VBN	גיפֿירט	gyfyrt	_
+5	tsu	P	צו	qv	_
+6	der	D	דער	der	_
+7	shul	N	שול	$vl	_
+
+SENT	1834E-UKRAINE-2,40.138
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	tsu_shlagin	VBN	צו_שלאַגין	qv_$lAagyN	_
+4	ali	Q	אַלי	Aaly	_
+5	di	D	די	dy	_
+6	tirin	N	טירין	tyryN	_
+
+SENT	1834E-UKRAINE-2,40.139
+1	dos	D	דאָס	dAos	_
+2	iz	BEF	איז	Ayz	_
+3	givezin	VBN	גיװעזין	gyVezyN	_
+4	dinstog	N	דינסטאָג	dynstAog	_
+5	far_nakht	ADV	פֿאַר_נאַכט	fAar_nAaxt	_
+
+SENT	1834E-UKRAINE-2,40.140
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	um	RP	אום	AvM	_
+4	gibrakht	VBN	גיבראַכט	gybrAaxt	_
+5	kmh	H	קמה	kmh	a_few
+6	alpim	H	אַלפּים	AalpyM	thousands
+7	ihudim	N	איהודים	AyhvdyM	_
+8	in	P	אין	AyN	_
+9	shul	N	שול	$vl	_
+10	un	CONJ	און	AvN	_
+11	arum	P	אַרום	AarvM	_
+12	der	D	דער	der	_
+13	shul	N	שול	$vl	_
+
+SENT	1834E-UKRAINE-2,40.141
+1	nun	ADV	נ	n	_
+2	vi	WADV	װי	Vy	_
+3	habin	VBF	האַבין	hAabyN	_
+4	mir	PRO	מיר	myr	_
+5	ihudim	N	איהודים	AyhvdyM	_
+6	nit	NEG	ניט	nyt	_
+7	tsu	TO	צו	qv	_
+8	veynin	VB	װײנין	VYnyN	_
+9	tag	N	תּג	Tg	_
+10	un	CONJ	און	AvN	_
+11	nakht	N	נאַכט	nAaxt	_
+12	oyf	P	אױף	AWF	_
+13	dem	D	דעם	deM	_
+
+SENT	1834E-UKRAINE-2,40.142
+1	es	ES	עס	es	_
+2	iz	BEF	איז	Ayz	_
+3	givezin	VBN	גיװעזין	gyVezyN	_
+4	eyn	D	אײן	AYN	_
+5	ashh	N	אַשה	Aa$h	_
+6	briah	N	בריִאַה	bryiAah	_
+7	hat	HVF	האַט	hAat	_
+8	gilafin	VBN	גילאַפֿין	gylAafyN	_
+9	fun	P	פֿון	fvN	_
+10	ire	PRO$	אירע	Ayre	_
+11	kindr	N	קינדר	kyndr	_
+12	in	P	אין	AyN	_
+13	vaser	N	װאַסער	VAaser	_
+14	areyn	ADV	אַרײן	AarYN	_
+15	kdi	ADV	קדי	kdy	_
+16	di	D	די	dy	_
+17	kindr	N	קינדר	kyndr	_
+18	zalin	MDF	זאַלין	zAalyN	_
+19	khlilh	INTJ	כלילה	xlylh	_
+20	nit	NEG	ניט	nyt	_
+21	bleybin	VB	בלײבין	blYbyN	_
+22	baey	P	באַײ	bAaY	_
+23	di	D	די	dy	_
+24	pukhzim	N	פּוכזים	pvxzyM	_
+
+SENT	1834E-UKRAINE-2,40.143
+1	drum	DR+P	דרום	drvM	_
+2	ker	MDF	קער	ker	_
+3	men	PRO	מען	meN	_
+4	tsu	TO	צו	qv	_
+5	veynen	VB	װײנען	VYneN	_
+6	tag	N	תּג	Tg	_
+7	un	CONJ	און	AvN	_
+8	nakht	N	נאַכט	nAaxt	_
+9	oyf	P	אױף	AWF	_
+10	dem	D	דעם	deM	_
+11	groysin	ADJ	גרױסין	grWsyN	_
+12	shlak	N	שלאַק	$lAak	_
+
+SENT	1834E-UKRAINE-2,40.144
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	rseim	N	רסעיִם	rseyiM	_
+4	di	D	די	dy	_
+5	pukhzim	N	פּוכזים	pvxzyM	_
+6	hobin	HVF	האָבין	hAobyN	_
+7	gifresin	VBN	גיפֿרעסין	gyfresyN	_
+8	un	CONJ	און	AvN	_
+9	gizoyfn	VBN	גיזױפֿן	gyzWfN	_
+
+SENT	1834E-UKRAINE-2,40.145
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	das	D	דת	dS	_
+4	gelt	N	געלט	gelt	_
+5	un	CONJ	און	AvN	_
+6	kleydr	N	קלײדר	klYdr	_
+7	un	CONJ	און	AvN	_
+8	tsirung	N	צירונג	qyrvng	_
+9	alts	Q	אַלץ	AalQ	_
+10	ibr	P	איבר	Aybr	_
+11	anandr	PRO	אַנאַנדר	AanAandr	_
+12	givarfin	VBN	גיװאַרפֿין	gyVAarfyN	_
+
+SENT	1834E-UKRAINE-2,40.146
+1	bkitsur	ADV	בקיצור	bkyqvr	_
+2	di	D	די	dy	_
+3	pukhzim	N	פּוכזים	pvxzyM	_
+4	zeynin	BEF	זײנין	zYnyN	_
+5	ali	Q	אַלי	Aaly	_
+6	gigangin	VBN	גיגאַנגין	gygAangyN	_
+7	oyf	P	אױף	AWF	_
+8	dem	D	דעם	deM	_
+9	rat_hoyz	N	ראַט_הױז	rAat_hWz	_
+
+SENT	1834E-UKRAINE-2,40.147
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	girufin	VBN	גירופֿין	gyrvfyN	_
+4	ali	Q	אַלי	Aaly	_
+5	sukhrim	N	סוכרים	svxryM	_
+
+SENT	1834E-UKRAINE-2,40.148
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zey	PRO	זײ	zY	_
+4-5	tsugizagt	RP~VBN	צוגיזאַגט	qvgyzAagt	_
+4	tsu	RP	צו	qv	_
+5	gizagt	VBN	גיזאַגט	gyzAagt	_
+6	das	D	דת	dS	_
+7	lebin	N	לעבין	lebyN	_
+8	tsu	TO	צו	qv	_
+9	sheynken	VB	שײנקען	$YnkeN	_
+
+SENT	1834E-UKRAINE-2,41.149
+1	nor	CONJ	נאָר	nAor	_
+2	zey	PRO	זײ	zY	_
+3	zalin	MDF	זאַלין	zAalyN	_
+4	gar	ADV	גאַר	gAar	_
+5	zeyer	PRO$	זײער	zYer	_
+6	hab	N	האַב	hAab	_
+7	fun	P	פֿון	fvN	_
+8	zikh	PRO	זיך	zyX	_
+9	avek	RP-ADV	אַװעק	AaVek	_
+10	gebin	VB	געבין	gebyN	_
+
+SENT	1834E-UKRAINE-2,41.150
+1	bkitsur	ADV	בקיצור	bkyqvr	_
+2	di	D	די	dy	_
+3	sukhrim	N	סוכרים	svxryM	_
+4	habin	HVF	האַבין	hAabyN	_
+5	an	RP	אַן	AaN	_
+6	gihoybin	VBN	גיהױבין	gyhWbyN	_
+7	tsu	TO	צו	qv	_
+8	tragin	VB	טראַגין	trAagyN	_
+9	kleydr	N	קלײדר	klYdr	_
+10	un	CONJ	און	AvN	_
+11	gelt	N	געלט	gelt	_
+12	un	CONJ	און	AvN	_
+13	zilbr	N	זילבר	zylbr	_
+14	un	CONJ	און	AvN	_
+15	tsirung	N	צירונג	qyrvng	_
+
+SENT	1834E-UKRAINE-2,41.151
+1	zey	PRO	זײ	zY	_
+2	hobin	HVF	האָבין	hAobyN	_
+3	gemeynt	VBN	געמײנט	gemYnt	_
+4	zey	PRO	זײ	zY	_
+5	velin	MDF	װעלין	VelyN	_
+6	bleybin	VB	בלײבין	blYbyN	_
+7	lebn	RP-V	לעבן	lebN	_
+
+SENT	1834E-UKRAINE-2,41.152
+1	abr	CONJ	אַבר	Aabr	_
+2	vi	WADV	װי	Vy	_
+3	men	PRO	מען	meN	_
+4	hat	HVF	האַט	hAat	_
+5	alts	Q	אַלץ	AalQ	_
+6-7	tsum	P~D	צום	qvM	_
+6	tsu	P	צו	qv	_
+7	m	D	מ	m	_
+8	hoyf	N	הױף	hWF	_
+9	gitragin	VBN	גיטראַגין	gytrAagyN	_
+10	azoy	ADV	אַזױ	AazW	_
+11	habin	HVF	האַבין	hAabyN	_
+12	zey	PRO	זײ	zY	_
+13	zeyer	PRO$	זײער	zYer	_
+14	blut	N	בלוט	blvt	_
+15	gitan	DON	גיטאַן	gytAaN	_
+16	far_gisin	VB	פֿאַר_גיסין	fAar_gysyN	_
+
+SENT	1834E-UKRAINE-2,41.153
+1	men	PRO	מען	meN	_
+2	hat	HVF	האַט	hAat	_
+3	an	RP	אַן	AaN	_
+4	gihubn	VBN	גיהובן	gyhvbN	_
+5	baey	P	באַײ	bAaY	_
+6	di	D	די	dy	_
+7	paut	N	פּאַוט	pAavt	_
+8	un	CONJ	און	AvN	_
+9	baey	P	באַײ	bAaY	_
+10	di	D	די	dy	_
+11	berd	N	בערד	berd	_
+
+SENT	1834E-UKRAINE-2,41.154
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	hat	HVF	האַט	hAat	_
+4	zey	PRO	זײ	zY	_
+5	givarfin	VBN	גיװאַרפֿין	gyVAarfyN	_
+6	arop	ADV	אַראָפּ	AarAop	_
+7	fun	P	פֿון	fvN	_
+8	dem	D	דעם	deM	_
+9	rat_hoyz	N	ראַט_הױז	rAat_hWz	_
+10	oyf	P	אױף	AWF	_
+11	der	D	דער	der	_
+12	erd	N	ערד	erd	_
+
+SENT	1834E-UKRAINE-2,41.155
+1	azoy	ADV	אַזױ	AazW	_
+2	zeynin	BEF	זײנין	zYnyN	_
+3	tsi_shit	VAN	צי_שיט	qy_$yt	_
+4	givarin	RDN	גיװאַרין	gyVAaryN	_
+5	iri	PRO$	אירי	Ayry	_
+6	glidr	N	גלידר	glydr	_
+
+SENT	1834E-UKRAINE-2,41.156
+1	rbinu	H	רבינו	rbynv	rabbi_our
+2	sl	H	סל	sl	of
+3	eulm	H	עולם	evlM	world
+4	biz	P	ביז	byz	_
+5	vi	WADV	װי	Vy	_
+6	lang	ADV	לאַנג	lAang	_
+7-8	verstu	RDF~PRO	װערסטו	Verstv	_
+7	vers	RDF	װערס	Vers	_
+8	tu	PRO	טו	tv	_
+9	dikh	PRO	דיך	dyX	_
+10	nit	NEG	ניט	nyt	_
+11	der_barimin	VB	דער_באַרימין	der_bAarymyN	_
+12	ibr	P	איבר	Aybr	_
+13	deyn	PRO$	דײן	dYN	_
+14	arem	ADJ	אַרעם	AareM	_
+15	falg	N	פֿאַלג	fAalg	_
+16	isral	NPR	איסראַל	AysrAal	_
+17	un	CONJ	און	AvN	_
+18	eyn	D	אײן	AYN	_
+19	nkmh	N	נקמה	nkmh	_
+20	tan	VB	טאַן	tAaN	_
+21	in	P	אין	AyN	_
+22	di	D	די	dy	_
+23	pukhzim	N	פּוכזים	pvxzyM	_
+24	ven	C	װען	VeN	_
+25	men	PRO	מען	meN	_
+26	hat	HVF	האַט	hAat	_
+27	r'	NPR	ר'	r'	_
+28	libush	NPR	ליבוש	lybv$	_
+29	khtn	NPR	כטן	xtN	_
+30	r'	NPR	ר'	r'	_
+31	bers	NPR	בערס	bers	_
+32	mzalkvi	H	מזאַלקװי	mzAalkVy	from_Zalkvi
+33	azoy	ADV	אַזױ	AazW	_
+34	eyn	D	אײן	AYN	_
+35	mith	H	מיטה	myth	death
+36	khmurh	H	כמורה	xmvrh	UNKNOWN
+37	an	RP	אַן	AaN	_
+38	gitan	VBN	גיטאַן	gytAaN	_
+
+SENT	1834E-UKRAINE-2,41.157
+1	oy	N	אױ	AW	_
+2	un	CONJ	און	AvN	_
+3	vi	N	װי	Vy	_
+4	gishrien	VBN	גישריִען	gy$ryieN	_
+5	oyf	P	אױף	AWF	_
+6	di	D	די	dy	_
+7	tsrut	N	צרוט	qrvt	_
+
+SENT	1834E-UKRAINE-2,41.158
+1	oykh	ADV	אױך	AWX	_
+2	der	D	דער	der	_
+3	umner	ADJ	אומנער	Avmner	_
+4	mgid	N	מגיד	mgyd	_
+5	vi	WADV	װי	Vy	_
+6	er	PRO	ער	er	_
+7	hat	HVF	האַט	hAat	_
+8	gizehn	VBN	גיזעהן	gyzehN	_
+9	di	D	די	dy	_
+10	groysi	ADJ	גרױסי	grWsy	_
+11	tsrut	N	צרוט	qrvt	_
+12	vas	C	װאַס	VAas	_
+13	men	PRO	מען	meN	_
+14	hat	HVF	האַט	hAat	_
+15	nebikh	INTJ	נעביך	nebyX	_
+16	di	D	די	dy	_
+17	ihudim	N	איהודים	AyhvdyM	_
+18	an	RP	אַן	AaN	_
+19	gitan	VBN	גיטאַן	gytAaN	_
+20	azoy	ADV	אַזױ	AazW	_
+21	hat	HVF	האַט	hAat	_
+22	er	PRO	ער	er	_
+23	ginumn	VBN	גינומן	gynvmN	_
+24	oyf	P	אױף	AWF	_
+25	zikh	PRO	זיך	zyX	_
+26	kitl	N	קיטל	kytl	_
+27	un	CONJ	און	AvN	_
+28	tlit	N	טליט	tlyt	_
+29	un	CONJ	און	AvN	_
+30	zeyni	PRO$	זײני	zYny	_
+31	kindr	N	קינדר	kyndr	_
+
+SENT	1834E-UKRAINE-2,41.159
+1	un	CONJ	און	AvN	_
+2	iz	BEF	איז	Ayz	_
+3	gilafin	VBN	גילאַפֿין	gylAafyN	_
+4	in	P	אין	AyN	_
+5	eyn	D	אײן	AYN	_
+6	keler	N	קעלער	keler	_
+7	areyn	ADV	אַרײן	AarYN	_
+8	un	CONJ	און	AvN	_
+9	an	RP	אַן	AaN	_
+10	gihoybin	VBN	גיהױבין	gyhWbyN	_
+11	tsu	TO	צו	qv	_
+12	veynin	VB	װײנין	VYnyN	_
+13	un	CONJ	און	AvN	_
+14	tsu	TO	צו	qv	_
+15	shreyen	VB	שרײען	$rYeN	_
+16	tsu	P	צו	qv	_
+17	gat	NPR	גאַט	gAat	_
+18	mit	P	מיט	myt	_
+19	heysi	ADJ	הײסי	hYsy	_
+20	trerin	N	טרערין	treryN	_
+
+SENT	1834E-UKRAINE-2,41.160
+1	er	PRO	ער	er	_
+2	hot	HVF	האָט	hAot	_
+3	gimeynt	VBN	גימײנט	gymYnt	_
+4	az	C	אַז	Aaz	_
+5	er	PRO	ער	er	_
+6	vet	MDF	װעט	Vet	_
+7	nitsul	RP-H	ניצול	nyqvl	_
+8	verin	VB	װערין	VeryN	_
+
+SENT	1834E-UKRAINE-2,41.161
+1	es	PRO	עס	es	_
+2	iz	BEF	איז	Ayz	_
+3	um_miglakh	ADJ	אומ_מיגלאַך	Avm_myglAaX	_
+4	givezin	VBN	גיװעזין	gyVezyN	_
+
+SENT	1834E-UKRAINE-2,41.162
+1	den	CONJ	דען	deN	_
+2	es	ES	עס	es	_
+3	iz	BEF	איז	Ayz	_
+4	areyn	ADV	אַרײן	AarYN	_
+5	gilafin	VBN	גילאַפֿין	gylAafyN	_
+6	eyn	D	אײן	AYN	_
+7	pukhz	N	פּוכז	pvxz	_
+8	in	P	אין	AyN	_
+9	keler	N	קעלער	keler	_
+10	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1834E-UKRAINE-2,41.163
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	ap	RP	אַפּ	Aap	_
+4	gihakt	VBN	גיהאַקט	gyhAakt	_
+5	dem	D	דעם	deM	_
+6	kap	N	קאַפּ	kAap	_
+7	mit	P	מיט	myt	_
+8	der	D	דער	der	_
+9	hak	N	האַק	hAak	_
+
+SENT	1834E-UKRAINE-2,41.164
+1	dernakh	DR+P	דערנאַך	dernAaX	_
+2	zeynin	BEF	זײנין	zYnyN	_
+3	um	RP	אום	AvM	_
+4	gikumn	VBN	גיקומן	gykvmN	_
+5	ansim	H	אַנסים	AansyM	people
+6	unsim	H	אונסים	AvnsyM	and_women
+7	usf	H	אוסף	AvsF	and_children
+8	ed	H	עד	ed	until
+9	in	H	אין	AyN	there_is_not
+10	mspr	H	מספּר	mspr	number
+11	uain	H	אואַיִן	AvAayiN	and_there_is_not
+12	suf	H	סוף	svF	end
+
+SENT	1834E-UKRAINE-2,41.165
+1	un	CONJ	און	AvN	_
+2	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+3	zeynin	BEF	זײנין	zYnyN	_
+4	zey	PRO	זײ	zY	_
+5	gigangin	VBN	גיגאַנגין	gygAangyN	_
+6	in	P	אין	AyN	_
+7	bit_hmdrs	N	ביט_המדרס	byt_hmdrs	_
+8	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1834E-UKRAINE-2,41.166
+1	azoy	ADV	אַזױ	AazW	_
+2	iz	BEF	איז	Ayz	_
+3	oyf	P	אױף	AWF	_
+4	dem	D	דעם	deM	_
+5	eulm	N	עולם	evlM	_
+6	a	D	אַ	Aa	_
+7	groys	ADJ	גרױס	grWs	_
+8	der_shrekenes	N	דער_שרעקענעס	der_$rekenes	_
+9	givarin	VBN	גיװאַרין	gyVAaryN	_
+
+SENT	1834E-UKRAINE-2,41.167
+1	azoy	ADV	אַזױ	AazW	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zey	PRO	זײ	zY	_
+4	aroys	ADV	אַרױס	AarWs	_
+5	ginumn	VBN	גינומן	gynvmN	_
+6	eyn	D	אײן	AYN	_
+7	sfr	H	ספֿר	sfr	book
+8	turh	H	טורה	tvrh	Torah
+
+SENT	1834E-UKRAINE-2,41.168
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	an	RP	אַן	AaN	_
+4	gihoybin	VBN	גיהױבין	gyhWbyN	_
+5	tsu	TO	צו	qv	_
+6	shreyen	VB	שרײען	$rYeN	_
+
+SENT	1834E-UKRAINE-2,41.169
+1	mir	PRO	מיר	myr	_
+2	kumn	VBF	קומן	kvmN	_
+3	um	RP	אום	AvM	_
+4	mit	P	מיט	myt	_
+5	shvern	ADJ	שװערן	$VerN	_
+6	bitrn	ADJ	ביטרן	bytrN	_
+7	toyt	N	טױט	tWt	_
+
+SENT	1834E-UKRAINE-2,41.170
+1	ver	WPRO	װער	Ver	_
+2	vet	MDF	װעט	Vet	_
+3	dikh	PRO	דיך	dyX	_
+4	lernen	VB	לערנען	lerneN	_
+5	nakh	P	נ"ך	n"X	_
+6	unzr	PRO$	אונזר	Avnzr	_
+7	toyt	N	טױט	tWt	_
+
+SENT	1834E-UKRAINE-2,41.171
+1	azoy	ADV	אַזױ	AazW	_
+2	zeynen	BEF	זײנען	zYneN	_
+3	di	D	די	dy	_
+4	pukhzim	N	פּוכזים	pvxzyM	_
+5	tsu	P	צו	qv	_
+6	zey	PRO	זײ	zY	_
+7	gikumn	VBN	גיקומן	gykvmN	_
+
+SENT	1834E-UKRAINE-2,41.172
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	di	D	די	dy	_
+4	heyligi	ADJ	הײליגי	hYlygy	_
+5	sfr	H	ספֿר	sfr	book
+6	turh	H	טורה	tvrh	Torah
+7	avek	RP-ADV	אַװעק	AaVek	_
+8	ginumn	VBN	גינומן	gynvmN	_
+
+SENT	1834E-UKRAINE-2,41.173
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	di	D	די	dy	_
+4	sfr	H	ספֿר	sfr	book
+5	turh	H	טורה	tvrh	Torah
+6	oyf	RP	אױף	AWF	_
+7	gispreyt	VBN	גיספּרײט	gysprYt	_
+8	oyf	P	אױף	AWF	_
+9	der	D	דער	der	_
+10	erd	N	ערד	erd	_
+
+SENT	1834E-UKRAINE-2,41.174
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	ali	Q	אַלי	Aaly	_
+4	druf	DR+P	דרוף	drvF	_
+5	gitretin	VBN	גיטרעטין	gytretyN	_
+
+SENT	1834E-UKRAINE-2,41.175
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	druf	DR+P	דרוף	drvF	_
+4	gikoylt	VBN	גיקױלט	gykWlt	_
+5	leyt	N	לײט	lYt	_
+
+SENT	1834E-UKRAINE-2,41.176
+1	hat	HVF	האַט	hAat	_
+2	zikh	PRO	זיך	zyX	_
+3	an	RP	אַן	AaN	_
+4	girufin	VBN	גירופֿין	gyrvfyN	_
+5	r'	NPR	ר'	r'	_
+6	hirsh	NPR	הירש	hyr$	_
+7	der	D	דער	der	_
+8	khzn	N	כזן	xzN	_
+
+SENT	1834E-UKRAINE-2,41.177
+1	abr	CONJ	אַבר	Aabr	_
+2	got	NPR	גאָט	gAot	_
+3	der	D	דער	der	_
+4	her	N	הער	her	_
+5	veyst	VBF	װײסט	VYst	_
+6	oyb	C	אױב	AWb	_
+7	mir	PRO	מיר	myr	_
+8	velin	MDF	װעלין	VelyN	_
+9	kumn	VB	קומן	kvmN	_
+10	tsu	P	צו	qv	_
+11	der	D	דער	der	_
+12	kburh	N	קבורה	kbvrh	_
+
+SENT	1834E-UKRAINE-2,41.178
+1	vi	WADV	װי	Vy	_
+2	ikh	PRO	איך	AyX	_
+3	zeh	VBF	זעה	zeh	_
+4	vet	MDF	װעט	Vet	_
+5	keyn	Q	קײן	kYN	_
+6	ihudi	N	איהודי	Ayhvdy	_
+7	far	P	פֿאַר	fAar	_
+8	di	D	די	dy	_
+9	pukhzim	N	פּוכזים	pvxzyM	_
+10	nit	NEG	ניט	nyt	_
+11	lebin	RP-V	לעבין	lebyN	_
+12	bleybin	VB	בלײבין	blYbyN	_
+
+SENT	1834E-UKRAINE-2,41.179
+1	got	NPR	גאָט	gAot	_
+2	der	D	דער	der	_
+3	her	N	הער	her	_
+4	veyst	VBF	װײסט	VYst	_
+5	oyb	C	אױב	AWb	_
+6	mir	PRO	מיר	myr	_
+7	velin	MDF	װעלין	VelyN	_
+8	kumn	VB	קומן	kvmN	_
+9	tsu	P	צו	qv	_
+10	kbr	H	קבר	kbr	UNKNOWN
+11	isral	NPR	איסראַל	AysrAal	_
+
+SENT	1834E-UKRAINE-2,41.180
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	pukhzim	N	פּוכזים	pvxzyM	_
+4	habin	HVF	האַבין	hAabyN	_
+5	azoy	ADV	אַזױ	AazW	_
+6	eyn	D	אײן	AYN	_
+7	hrign	N	הריגן	hrygN	_
+8	an	RP	אַן	AaN	_
+9	gimakht	VBN	גימאַכט	gymAaxt	_
+10	in	P	אין	AyN	_
+11	bit_hmdrsh	N	ביט_המדרש	byt_hmdr$	_
+12	az	C	אַז	Aaz	_
+13	das	D	דת	dS	_
+14	blut	N	בלוט	blvt	_
+15	iz	BEF	איז	Ayz	_
+16	girunin	VBN	גירונין	gyrvnyN	_
+17	ibr	P	איבר	Aybr	_
+18	di	D	די	dy	_
+19	svel	N	סװעל	sVel	_
+
+SENT	1834E-UKRAINE-2,41.181
+1	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zey	PRO	זײ	zY	_
+4	aroys	ADV	אַרױס	AarWs	_
+5	ginumn	VBN	גינומן	gynvmN	_
+6	ali	Q	אַלי	Aaly	_
+7	sfr	H	ספֿר	sfr	book
+8	turut	H	טורוט	tvrvt	Torah
+9	oys	P	אױס	AWs	_
+10	der	D	דער	der	_
+11	shul	N	שול	$vl	_
+12	un	CONJ	און	AvN	_
+13	oys	P	אױס	AWs	_
+14	dem	D	דעם	deM	_
+15	bit_hmdrsh	N	ביט_המדרש	byt_hmdr$	_
+
+SENT	1834E-UKRAINE-2,41.182
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	uf	RP	אוף	AvF	_
+4	gispreyt	VBN	גיספּרײט	gysprYt	_
+5	in	P	אין	AyN	_
+6	di	D	די	dy	_
+7	gasin	N	גאַסין	gAasyN	_
+
+SENT	1834E-UKRAINE-2,41.183
+1	un	CONJ	און	AvN	_
+2	zeynin	BEF	זײנין	zYnyN	_
+3	druf	DR+P	דרוף	drvF	_
+4	giritin	VBN	גיריטין	gyrytyN	_
+5	mit	P	מיט	myt	_
+6	di	D	די	dy	_
+7	ferd	N	פֿערד	ferd	_
+
+SENT	1834E-UKRAINE-2,41.184
+1	vi	INTJ	װי	Vy	_
+2	un	CONJ	און	AvN	_
+3	akh	INTJ	אַך	AaX	_
+4	gishrien	VBN	גישריִען	gy$ryieN	_
+5	uf	P	אוף	AvF	_
+6	der	D	דער	der	_
+7	gzirh	N	גזירה	gzyrh	decree
+8	vas	C	װאַס	VAas	_
+9	in	P	אין	AyN	_
+10	der	D	דער	der	_
+11	stat	N	סטאַט	stAat	_
+12	iz	BEF	איז	Ayz	_
+13	gisehn	VBN	גיסעהן	gysehN	_
+
+SENT	1834E-UKRAINE-2,41.185
+1	es	ES	עס	es	_
+2	iz	BEF	איז	Ayz	_
+3	gihrgt	VAN	גיהרגט	gyhrgt	_
+4	givarin	RDN	גיװאַרין	gyVAaryN	_
+5	alpi	H	על-פּי	el-py	thousands_of
+6	alpim	H	אַלפּים	AalpyM	thousands
+7	ansim	H	אַנסים	AansyM	people
+8	unsim	H	אונסים	AvnsyM	and_women
+9	utf	H	אוטף	AvtF	and_children
+
+SENT	1834E-UKRAINE-2,41.186
+1	un	CONJ	און	AvN	_
+2	zey	PRO	זײ	zY	_
+3	hobin	HVF	האָבין	hAobyN	_
+4	fort	ADV	פֿאָרט	fAort	_
+5	dem	D	דעם	deM	_
+6	libn	ADJ	ליבן	lybN	_
+7	got	NPR	גאָט	gAot	_
+8	nit	NEG	ניט	nyt	_
+9	op	RP	אָפּ	Aop	_
+10	gitrotin	VBN	גיטראָטין	gytrAotyN	_
+
+SENT	1834E-UKRAINE-2,41.187
+1	men	PRO	מען	meN	_
+2	hat	HVF	האַט	hAat	_
+3	zi	PRO	זי	zy	_
+4	gihakt	VBN	גיהאַקט	gyhAakt	_
+5	un	CONJ	און	AvN	_
+6	gistakhin	VBN	גיסטאַכין	gystAaxyN	_
+7	un	CONJ	און	AvN	_
+8	gibrakhin	VBN	גיבראַכין	gybrAaxyN	_
+
+SENT	1834E-UKRAINE-2,41.188
+1	un	CONJ	און	AvN	_
+2	zey	PRO	זײ	zY	_
+3	habin	HVF	האַבין	hAabyN	_
+4	nit	NEG	ניט	nyt	_
+5	givalt	MDN	גיװאַלט	gyVAalt	_
+6	tsu	RP	צו	qv	_
+7	steyn	VB	סטײן	stYN	_
+8	tsu	P	צו	qv	_
+9	zey	PRO	זײ	zY	_
+
+SENT	1834E-UKRAINE-2,42.189
+1	aber	CONJ	אַבער	Aaber	_
+2	zey	PRO	זײ	zY	_
+3	zeynen	BEF	זײנען	zYneN	_
+4	gern	ADV	גערן	gerN	_
+5	givezin	VBN	גיװעזין	gyVezyN	_
+6	dem	D	דעם	deM	_
+7	toyt	N	טױט	tWt	_
+
+SENT	1834E-UKRAINE-2,42.190
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	far	P	פֿאַר	fAar	_
+4	zeyn	PRO$	זײן	zYN	_
+5	libn	ADJ	ליבן	lybN	_
+6	namn	N	נאַמן	nAamN	_
+7	alts	Q	אַלץ	AalQ	_
+8	far_lib	ADV	פֿאַר_ליב	fAar_lyb	_
+9	ginumn	VBN	גינומן	gynvmN	_
+
+SENT	1834E-UKRAINE-2,42.191
+1	di	D	די	dy	_
+2	kindr	N	קינדר	kyndr	_
+3	fun	P	פֿון	fvN	_
+4	der	D	דער	der	_
+5	brist	N	בריסט	bryst	_
+6	habin	HVF	האַבין	hAabyN	_
+7	zey	PRO	זײ	zY	_
+8	tsu_tretin	VBN	צו_טרעטין	qv_tretyN	_
+9	mit	P	מיט	myt	_
+10	di	D	די	dy	_
+11	fis	N	פֿיס	fys	_
+
+SENT	1834E-UKRAINE-2,42.192
+1	oykh	ADV	אױך	AWX	_
+2	hat	HVF	האַט	hAat	_
+3	eyn	D	אײן	AYN	_
+4	pukhz	N	פּוכז	pvxz	_
+5	gikoylt	VBN	גיקױלט	gykWlt	_
+6	oyf	P	אױף	AWF	_
+7	eyn	D	אײן	AYN	_
+8	yamke	N	יאַמקע	yAamke	_
+9	klots	N	קלאָץ	klAoQ	_
+10	kmh	H	קמה	kmh	a_few
+11	maut	H	מאַוט	mAavt	hundreds
+12	ihudim	N	איהודים	AyhvdyM	_
+
+SENT	1834E-UKRAINE-2,42.193
+1	di	D	די	dy	_
+2	kleyni	ADJ	קלײני	klYny	_
+3	kindr	N	קינדר	kyndr	_
+4	habin	HVF	האַבין	hAabyN	_
+5	nebikh	INTJ	נעביך	nebyX	_
+6	ginasin	VBN	גינאַסין	gynAasyN	_
+7	zeyer	PRO$	זײער	zYer	_
+8	fatr	N	פֿאַטר	fAatr	_
+9	un	CONJ	און	AvN	_
+10	mutr	N	מוטר	mvtr	_
+11	s	$	ס	s	_
+12	zind	N	זינד	zynd	_
+
+SENT	1834E-UKRAINE-2,42.194
+1	zi	PRO	זי	zy	_
+2	habin	HVF	האַבין	hAabyN	_
+3	um	RP	אום	AvM	_
+4	gitragin	VBN	גיטראַגין	gytrAagyN	_
+5	lebedigr_heyt	ADV	לעבעדיגר_הײט	lebedygr_hYt	_
+6	di	D	די	dy	_
+7	kleyne	ADJ	קלײנע	klYne	_
+8	kindrlikh	N	קינדרליך	kyndrlyX	_
+9	oyf	P	אױף	AWF	_
+10	der	D	דער	der	_
+11	shpiz	N	שפּיז	$pyz	_
+
+SENT	1834E-UKRAINE-2,42.195
+1	oy	INTJ	אױ	AW	_
+2	un	CONJ	און	AvN	_
+3	vi	INTJ	װי	Vy	_
+4	ver	WPRO	װער	Ver	_
+5	das	D	דת	dS	_
+6	hat	HVF	האַט	hAat	_
+7	gizehen	VBN	גיזעהען	gyzeheN	_
+8	adr	CONJ	אַדר	Aadr	_
+9	gihert	VBN	גיהערט	gyhert	_
+10	oyb	C	אױב	AWb	_
+11	es	ES	עס	es	_
+12	hat	HVF	האַט	hAat	_
+13	zikh	PRO	זיך	zyX	_
+14	azoy	ADV	אַזױ	AazW	_
+15	eyn	D	אײן	AYN	_
+16	zakh	N	זאַך	zAaX	_
+17	gitrafin	VBN	גיטראַפֿין	gytrAafyN	_
+18	das	C	דת	dS	_
+19	es	ES	עס	es	_
+20	zal	MDF	ז"ל	z"l	_
+21	um	RP	אום	AvM	_
+22	kumn	VB	קומן	kvmN	_
+23	azoy	ADV	אַזױ	AazW	_
+24	fil	Q	פֿיל	fyl	_
+25	ihudim	N	איהודים	AyhvdyM	_
+26	un	CONJ	און	AvN	_
+27	erlim	N	ערלים	erlyM	_
+28	un	CONJ	און	AvN	_
+29	pritsim	N	פּריצים	pryqyM	_
+30	un	CONJ	און	AvN	_
+31	glkhut	N	גלכוט	glxvt	_
+
+SENT	1834E-UKRAINE-2,42.196
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	an	RP	אַן	AaN	_
+4	givarfin	VBN	גיװאַרפֿין	gyVAarfyN	_
+5	hrugim	N	הרוגים	hrvgyM	_
+6	uf	P	אוף	AvF	_
+7	a	D	אַ	Aa	_
+8	tkhum	X	תּחום	THvM	_
+9	sbt	NPR	סבט	sbt	_
+10	veyt	X	װײט	VYt	_
+
+SENT	1834E-UKRAINE-2,42.197
+1	nit	NEG	ניט	nyt	_
+2	genug	Q	גענוג	genvg	_
+3	es	ES	עס	es	_
+4	iz	BEF	איז	Ayz	_
+5	keynr	Q	קײנר	kYnr	_
+6	nit	NEG	ניט	nyt	_
+7-8	ibrgiblibin	RP~VBN	איברגיבליבין	AybrgyblybyN	_
+7	ibr	RP	איבר	Aybr	_
+8	giblibin	VBN	גיבליבין	gyblybyN	_
+
+SENT	1834E-UKRAINE-2,42.198
+1	habin	HVF	האַבין	hAabyN	_
+2	zey	PRO	זײ	zY	_
+3	zikh	PRO	זיך	zyX	_
+4	nakh	ADV	נ"ך	n"X	_
+5	givalgert	VBN	גיװאַלגערט	gyVAalgert	_
+6	in	P	אין	AyN	_
+7	ali	Q	אַלי	Aaly	_
+8	gasin	N	גאַסין	gAasyN	_
+9	zeyere	PRO$	זײערע	zYere	_
+10	beynr	N	בײנר	bYnr	_
+
+SENT	1834E-UKRAINE-2,42.199
+1	vi	N	װי	Vy	_
+2	gishrien	VBN	גישריִען	gy$ryieN	_
+3	uf	P	אוף	AvF	_
+4	der	D	דער	der	_
+5	groyse	ADJ	גרױסע	grWse	_
+6	tsrh	N	צרה	qrh	_
+7	az	C	אַז	Aaz	_
+8	zey	PRO	זײ	zY	_
+9	habin	HVF	האַבין	hAabyN	_
+10	nit	NEG	ניט	nyt	_
+11	zukhh	RP-H	זוכה	zvxh	_
+12	givezin	VBN	גיװעזין	gyVezyN	_
+13	tsu	TO	צו	qv	_
+14	ligin	VB	ליגין	lygyN	_
+15	oyf	P	אױף	AWF	_
+16	dem	D	דעם	deM	_
+17	bit_hkbrut	N	ביט_הקברוט	byt_hkbrvt	_
+
+SENT	1834E-UKRAINE-2,42.200
+1	men	PRO	מען	meN	_
+2	hat	HVF	האַט	hAat	_
+3	zey	PRO	זײ	zY	_
+4	gitan	DON	גיטאַן	gytAaN	_
+5	fertln	VB	פֿערטלן	fertlN	_
+6	un	CONJ	און	AvN	_
+7	kepfin	VB	קעפּפֿין	kepfyN	_
+
+SENT	1834E-UKRAINE-2,42.201
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	hint	N	הינט	hynt	_
+4	un	CONJ	און	AvN	_
+5	di	D	די	dy	_
+6	khzirim	N	כזירים	xzyryM	_
+7	habin	HVF	האַבין	hAabyN	_
+8	zey	PRO	זײ	zY	_
+9	gitan	DON	גיטאַן	gytAaN	_
+10	arum	ADV	אַרום	AarvM	_
+11	shlepin	VB	שלעפּין	$lepyN	_
+12	in	P	אין	AyN	_
+13	di	D	די	dy	_
+14	gasin	N	גאַסין	gAasyN	_
+
+SENT	1834E-UKRAINE-2,42.202
+1	vi	WADV	װי	Vy	_
+2	iz	BEF	איז	Ayz	_
+3	das	D	דת	dS	_
+4	nit	NEG	ניט	nyt	_
+5	givezin	VBN	גיװעזין	gyVezyN	_
+6	eyn	D	אײן	AYN	_
+7	plag	N	פּלאַג	plAag	_
+8	fun	P	פֿון	fvN	_
+9	gat	NPR	גאַט	gAat	_
+
+SENT	1834E-UKRAINE-2,42.203
+1	eyn	D	אײן	AYN	_
+2	plag	N	פּלאַג	plAag	_
+3	ven	C	װען	VeN	_
+4	di	D	די	dy	_
+5	hrigh	N	הריגה	hrygh	_
+6	hat	HVF	האַט	hAat	_
+7	givert	VBN	גיװערט	gyVert	_
+8	akht	NUM	אַכט	Aaxt	_
+9	tag	N	תּג	Tg	_
+
+SENT	1834E-UKRAINE-2,42.204
+1	un	CONJ	און	AvN	_
+2	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+3	hat	HVF	האַט	hAat	_
+4	der	D	דער	der	_
+5	rse	N	רסע	rse	_
+6	gante	NPR	גאַנטע	gAante	_
+7	imkh	H	אימך	AymX	may_be_erased
+8	smu	H	סמו	smv	name_his
+9	giheysin	VBN	גיהײסין	gyhYsyN	_
+10	oys	RP	אױס	AWs	_
+11	rufin	VB	רופֿין	rvfyN	_
+12	un	CONJ	און	AvN	_
+13	oys	RP	אױס	AWs	_
+14	trumeytrn	VB	טרומײטרן	trvmYtrN	_
+15	az	C	אַז	Aaz	_
+16	men	PRO	מען	meN	_
+17	zal	MDF	ז"ל	z"l	_
+18	zikh	PRO	זיך	zyX	_
+19	ibr	P	איבר	Aybr	_
+20	keyn	Q	קײן	kYN	_
+21	ihudi	N	איהודי	Ayhvdy	_
+22	nit	NEG	ניט	nyt	_
+23	der_barmin	VB	דער_באַרמין	der_bAarmyN	_
+24	un	CONJ	און	AvN	_
+25	velkhr	WPRO	װעלכר	Velxr	_
+26	es	ES	עס	es	_
+27	vet	MDF	װעט	Vet	_
+28	eyn	D	אײן	AYN	_
+29	{eyn}	X	{אײן}	{AYN}	_
+30	ihudi	N	איהודי	Ayhvdy	_
+31	bahaltin	VB	באַהאַלטין	bAahAaltyN	_
+32	dem	D	דעם	deM	_
+33	vet	MDF	װעט	Vet	_
+34	men	PRO	מען	meN	_
+35	den	D	דען	deN	_
+36	kepf	N	קעפּף	kepF	_
+37	spaltin	VB	ספּאַלטין	spAaltyN	_
+
+SENT	1834E-UKRAINE-2,42.205
+1	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zikh	PRO	זיך	zyX	_
+4	bahaltin	VBN	באַהאַלטין	bAahAaltyN	_
+5	ibr	P	איבר	Aybr	_
+6	akhtsig	NUM	אַכציג	Aaxqyg	_
+7	nfsut	N	נפֿסוט	nfsvt	_
+8	in	P	אין	AyN	_
+9	eyn	D	אײן	AYN	_
+10	keler	N	קעלער	keler	_
+11	stilr_heyt	ADV	סטילר_הײט	stylr_hYt	_
+
+SENT	1834E-UKRAINE-2,42.206
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zikh	PRO	זיך	zyX	_
+4	kli	H	קלי	kly	tools
+5	zin	H	זין	zyN	UNKNOWN
+6	mit	RP-ADV	מיט	myt	_
+7	ginumn	VBN	גינומן	gynvmN	_
+8	in	P	אין	AyN	_
+9	keler	N	קעלער	keler	_
+10	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1834E-UKRAINE-2,42.207
+1	velkhr	WD	װעלכר	Velxr	_
+2	pukhz	N	פּוכז	pvxz	_
+3	iz	BEF	איז	Ayz	_
+4	tsu	P	צו	qv	_
+5	zey	PRO	זײ	zY	_
+6	areyn	ADV	אַרײן	AarYN	_
+7	gikumn	VBN	גיקומן	gykvmN	_
+8	azoy	ADV	אַזױ	AazW	_
+9	habin	HVF	האַבין	hAabyN	_
+10	zey	PRO	זײ	zY	_
+11	gihrgt	VBN	גיהרגט	gyhrgt	_
+
+SENT	1834E-UKRAINE-2,42.208
+1	vi	C	װי	Vy	_
+2	di	D	די	dy	_
+3	pukhzim	N	פּוכזים	pvxzyM	_
+4	habin	HVF	האַבין	hAabyN	_
+5	gizehen	VBN	גיזעהען	gyzeheN	_
+6	az	C	אַז	Aaz	_
+7	zey	PRO	זײ	zY	_
+8	kenin	MDF	קענין	kenyN	_
+9	nist	NEG	ניסט	nyst	_
+10	tsu	RP	צו	qv	_
+11	tretin	VB	טרעטין	tretyN	_
+12	azoy	ADV	אַזױ	AazW	_
+13	habin	HVF	האַבין	hAabyN	_
+14	zey	PRO	זײ	zY	_
+15	ginumn	VBN	גינומן	gynvmN	_
+16	stroy	N	סטרױ	strW	_
+
+SENT	1834E-UKRAINE-2,42.209
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	an	RP	אַן	AaN	_
+4	gitsundin	VBN	גיצונדין	gyqvndyN	_
+
+SENT	1834E-UKRAINE-2,42.210
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	givarfin	VBN	גיװאַרפֿין	gyVAarfyN	_
+4	in	P	אין	AyN	_
+5	keler	N	קעלער	keler	_
+6	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1834E-UKRAINE-2,42.211
+1	azoy	ADV	אַזױ	AazW	_
+2	zeynin	BEF	זײנין	zYnyN	_
+3	zey	PRO	זײ	zY	_
+4	dershtikt	VAN	דערשטיקט	der$tykt	_
+5	givarin	RDN	גיװאַרין	gyVAaryN	_
+
+SENT	1834E-UKRAINE-2,42.212
+1	azoy	ADV	אַזױ	AazW	_
+2	hobin	HVF	האָבין	hAobyN	_
+3	di	D	די	dy	_
+4	pukhzim	N	פּוכזים	pvxzyM	_
+5	giakht	VBN	גיִאַכט	gyiAaxt	_
+6	un	CONJ	און	AvN	_
+7	gitrakht	VBN	גיטראַכט	gytrAaxt	_
+
+SENT	1834E-UKRAINE-2,42.213
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zey	PRO	זײ	zY	_
+4	ali	Q	אַלי	Aaly	_
+5	tkht	H	טכט	txt	below
+6	khrb	H	כרב	xrb	sword
+7	gibrakht	VBN	גיבראַכט	gybrAaxt	_
+
+SENT	1834E-UKRAINE-2,42.214
+1	un	CONJ	און	AvN	_
+2	a	D	אַ	Aa	_
+3	teyl	N	טײל	tYl	_
+4	fun	P	פֿון	fvN	_
+5	zey	PRO	זײ	zY	_
+6	zeynin	BEF	זײנין	zYnyN	_
+7	in	P	אין	AyN	_
+8	di	D	די	dy	_
+9	felder	N	פֿעלדער	felder	_
+10	areyn	ADV	אַרײן	AarYN	_
+11	gilafin	VBN	גילאַפֿין	gylAafyN	_
+
+SENT	1834E-UKRAINE-2,42.215
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zikh	PRO	זיך	zyX	_
+4	bahaltin	VBN	באַהאַלטין	bAahAaltyN	_
+5	tsvishin	P	צװישין	qVy$yN	_
+6	steynr	N	סטײנר	stYnr	_
+
+SENT	1834E-UKRAINE-2,42.216
+1	iz	BEF	איז	Ayz	_
+2	fart	ADV	פֿאַרט	fAart	_
+3	fun	P	פֿון	fvN	_
+4	zey	PRO	זײ	zY	_
+5	nit	NEG	ניט	nyt	_
+6	giblibin	VBN	גיבליבין	gyblybyN	_
+7	eynr	Q	אײנר	AYnr	_
+
+SENT	1834E-UKRAINE-2,42.217
+1	oykh	ADV	אױך	AWX	_
+2	kleyni	ADJ	קלײני	klYny	_
+3	kindr	N	קינדר	kyndr	_
+4	vas	C	װאַס	VAas	_
+5	men	PRO	מען	meN	_
+6	hat	HVF	האַט	hAat	_
+7	nebikh	INTJ	נעביך	nebyX	_
+8	tsu_stakhin	VBN	צו_סטאַכין	qv_stAaxyN	_
+9	zeynin	BEF	זײנין	zYnyN	_
+10	zey	PRO	זײ	zY	_
+11	gigangin	VBN	גיגאַנגין	gygAangyN	_
+12	betlen	VB	בעטלען	betleN	_
+13	tsvishin	P	צװישין	qVy$yN	_
+14	erlim	N	ערלים	erlyM	_
+15	nakh	P	נ"ך	n"X	_
+16	broyt	N	ברױט	brWt	_
+
+SENT	1834E-UKRAINE-2,42.218
+1	un	CONJ	און	AvN	_
+2	az	C	אַז	Aaz	_
+3	er	PRO	ער	er	_
+4	hat	HVF	האַט	hAat	_
+5	soyn	ADV	סױן	sWN	_
+6	vaoyl	ADV	װאַױל	VAaWl	_
+7	gigebn	VBN	גיגעבן	gygebN	_
+8	das	D	דת	dS	_
+9	broyt	N	ברױט	brWt	_
+10	azoy	ADV	אַזױ	AazW	_
+11	hat	HVF	האַט	hAat	_
+12	er	PRO	ער	er	_
+13	im	PRO	אים	AyM	_
+14	tikf	ADV	טיקף	tykF	_
+15	gihrgt	VBN	גיהרגט	gyhrgt	_
+
+SENT	1834E-UKRAINE-2,42.219
+1	di	D	די	dy	_
+2	gzirh	N	גזירה	gzyrh	_
+3	hat	HVF	האַט	hAat	_
+4	shoyn	ADV	שױן	$WN	_
+5	gimuzt	MDN	גימוזט	gymvzt	_
+6	far_khtmnt	VAN	פֿאַר_כטמנט	fAar_xtmnt	_
+7	verin	RD	װערין	VeryN	_
+8	lang	ADV	לאַנג	lAang	_
+
+SENT	1834E-UKRAINE-2,42.220
+1	di	D	די	dy	_
+2	beynr	N	בײנר	bYnr	_
+3	zeynn	BEF	זײנן	zYnN	_
+4	oyf	P	אױף	AWF	_
+5	etlikhi	Q	עטליכי	etlyxy	_
+6	teyl	N	טײל	tYl	_
+7	arum	P	אַרום	AarvM	_
+8	der	D	דער	der	_
+9	shtat	N	שטאַט	$tAat	_
+10	gilegin	VBN	גילעגין	gylegyN	_
+
+SENT	1834E-UKRAINE-2,42.221
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	hint	N	הינט	hynt	_
+4	habin	HVF	האַבין	hAabyN	_
+5	das	D	דת	dS	_
+6	fleysh	N	פֿלײש	flY$	_
+7	oyf	RP	אױף	AWF	_
+8	gigesin	VBN	גיגעסין	gygesyN	_
+
+SENT	1834E-UKRAINE-2,42.222
+1	vas	WPRO	װאַס	VAas	_
+2	zal	MDF	ז"ל	z"l	_
+3	ikh	PRO	איך	AyX	_
+4	eykh	PRO	אײך	AYX	_
+5	fil	Q	פֿיל	fyl	_
+6	shreybin	VB	שרײבין	$rYbyN	_
+
+SENT	1834E-UKRAINE-2,42.223
+1	es	ES	עס	es	_
+2	hat	HVF	האַט	hAat	_
+3	azoy	ADV	אַזױ	AazW	_
+4	fil	Q	פֿיל	fyl	_
+5	blut	N	בלוט	blvt	_
+6	gilafin	VBN	גילאַפֿין	gylAafyN	_
+7	durkh	P	דורך	dvrX	_
+8	di	D	די	dy	_
+9	toyern	N	טױערן	tWerN	_
+
+SENT	1834E-UKRAINE-2,42.224
+1	nun	ADV	נ	n	_
+2	vi	C	װי	Vy	_
+3	der	D	דער	der	_
+4	gante	NPR	גאַנטע	gAante	_
+5	imkh	H	אימך	AymX	may_be_erased
+6	smu	H	סמו	smv	name_his
+7	iz	BEF	איז	Ayz	_
+8	in	P	אין	AyN	_
+9	der	D	דער	der	_
+10	stat	N	סטאַט	stAat	_
+11	areyn	ADV	אַרײן	AarYN	_
+12	gikumn	VBN	גיקומן	gykvmN	_
+13	azoy	ADV	אַזױ	AazW	_
+14	hat	HVF	האַט	hAat	_
+15	er	PRO	ער	er	_
+16	ali	Q	אַלי	Aaly	_
+17	pritsim	N	פּריצים	pryqyM	_
+18	un	CONJ	און	AvN	_
+19	ali	Q	אַלי	Aaly	_
+20	herin	N	הערין	heryN	_
+21	un	CONJ	און	AvN	_
+22	dem	D	דעם	deM	_
+23	kamisr	N	קאַמיסר	kAamysr	_
+24	in	P	אין	AyN	_
+25	kloystr	N	קלױסטר	klWstr	_
+26	areyn	ADV	אַרײן	AarYN	_
+27	gilazt	VBN	גילאַזט	gylAazt	_
+28	un	CONJ	און	AvN	_
+29	gistelt	VBN	גיסטעלט	gystelt	_
+30	eyn	D	אײן	AYN	_
+31	groysi	ADJ	גרױסי	grWsy	_
+32	vakh	N	װאַך	VAaX	_
+33	anider	ADV	אַנידער	Aanyder	_
+34	az	C	אַז	Aaz	_
+35	men	PRO	מען	meN	_
+36	zal	MDF	ז"ל	z"l	_
+37	keynm	Q	קײנם	kYnM	_
+38	nist	Q	ניסט	nyst	_
+39	tan	VB	טאַן	tAaN	_
+
+SENT	1834E-UKRAINE-2,43.225
+1	azoy	ADV	אַזױ	AazW	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zey	PRO	זײ	zY	_
+4	gibetin	VBN	גיבעטין	gybetyN	_
+5	andri	ADJ	אַנדרי	Aandry	_
+6	pritsim	N	פּריצים	pryqyM	_
+7	dem	D	דעם	deM	_
+8	kamisr	N	קאַמיסר	kAamysr	_
+9	zag	VBI	זאַג	zAag	_
+10	unz	PRO	אונז	Avnz	_
+11	das	C	דת	dS	_
+12	du	PRO	דו	dv	_
+13	bist	VBF	ביסט	byst	_
+14	unz	PRO	אונז	Avnz	_
+15	a	D	אַ	Aa	_
+16	guter	ADJ	גוטער	gvter	_
+17	freynt	N	פֿרײנט	frYnt	_
+
+SENT	1834E-UKRAINE-2,43.226
+1	vi	WADV	װי	Vy	_
+2-3	meynstu	VBF~PRO	מײנסטו	mYnstv	_
+2	meyns	VBF	מײנס	mYns	_
+3	tu	PRO	טו	tv	_
+
+SENT	1834E-UKRAINE-2,43.227
+1	kenin	MDF	קענין	kenyN	_
+2	mir	PRO	מיר	myr	_
+3	oykh	ADV	אױך	AWX	_
+4	nitsul	RP-H	ניצול	nyqvl	_
+5	verin	VB	װערין	VeryN	_
+6	fun	P	פֿון	fvN	_
+7	di	D	די	dy	_
+8	feynt	N	פֿײנט	fYnt	_
+
+SENT	1834E-UKRAINE-2,43.228
+1	abr	CONJ	אַבר	Aabr	_
+2	der	D	דער	der	_
+3	komisr	N	קאָמיסר	kAomysr	_
+4	hot	HVF	האָט	hAot	_
+5	gishvigin	VBN	גישװיגין	gy$VygyN	_
+
+SENT	1834E-UKRAINE-2,43.229
+1	er	PRO	ער	er	_
+2	hat	HVF	האַט	hAat	_
+3	shoyn	ADV	שױן	$WN	_
+4	givst	VBN	גיװסט	gyVst	_
+5	zeyn	PRO$	זײן	zYN	_
+6	beyzin	ADJ	בײזין	bYzyN	_
+7	suf	N	סוף	svF	_
+
+SENT	1834E-UKRAINE-2,43.230
+1	un	CONJ	און	AvN	_
+2	vi	C	װי	Vy	_
+3	der	D	דער	der	_
+4	gante	NPR	גאַנטע	gAante	_
+5	imkh	H	אימך	AymX	may_be_erased
+6	smu	H	סמו	smv	name_his
+7	iz	BEF	איז	Ayz	_
+8	gikumn	VBN	גיקומן	gykvmN	_
+9	in	P	אין	AyN	_
+10	kloystr	N	קלױסטר	klWstr	_
+11	areyn	ADV	אַרײן	AarYN	_
+12	azoy	ADV	אַזױ	AazW	_
+13	hat	HVF	האַט	hAat	_
+14	er	PRO	ער	er	_
+15	tikf	ADV	טיקף	tykF	_
+16	dem	D	דעם	deM	_
+17	kamisr	N	קאַמיסר	kAamysr	_
+18	ginumn	VBN	גינומן	gynvmN	_
+19	fun	P	פֿון	fvN	_
+20	tsvishin	P	צװישין	qVy$yN	_
+21	ali	Q	אַלי	Aaly	_
+22	pritsim	N	פּריצים	pryqyM	_
+
+SENT	1834E-UKRAINE-2,43.231
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	im	PRO	אים	AyM	_
+4	eyn	D	אײן	AYN	_
+5	strik	N	סטריק	stryk	_
+6	ibr	P	איבר	Aybr	_
+7	dem	D	דעם	deM	_
+8	halz	N	האַלז	hAalz	_
+9	gitan	VBN	גיטאַן	gytAaN	_
+
+SENT	1834E-UKRAINE-2,43.232
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	im	PRO	אים	AyM	_
+4	aroys	ADV	אַרױס	AarWs	_
+5	gishlept	VBN	גישלעפּט	gy$lept	_
+6	oys	P	אױס	AWs	_
+7	dem	D	דעם	deM	_
+8	kloystr	N	קלױסטר	klWstr	_
+
+SENT	1834E-UKRAINE-2,43.233
+1	zeyn	PRO$	זײן	zYN	_
+2	sbueh	N	סבועה	sbveh	_
+3	hot	HVF	האָט	hAot	_
+4	gonte	NPR	גאָנטע	gAonte	_
+5	imkh	H	אימך	AymX	may_be_erased
+6	smu	H	סמו	smv	name_his
+7	gibrokhin	VBN	גיבראָכין	gybrAoxyN	_
+
+SENT	1834E-UKRAINE-2,43.234
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	ali	Q	אַלי	Aaly	_
+4	pritsim	N	פּריצים	pryqyM	_
+5	oys	RP	אױס	AWs	_
+6	gistakhin	VBN	גיסטאַכין	gystAaxyN	_
+
+SENT	1834E-UKRAINE-2,43.235
+1	dem	D	דעם	deM	_
+2	kamisr	N	קאַמיסר	kAamysr	_
+3	hat	HVF	האַט	hAat	_
+4	gante	NPR	גאַנטע	gAante	_
+5	imkh	H	אימך	AymX	may_be_erased
+6	smu	H	סמו	smv	name_his
+7	gilazt	VBN	גילאַזט	gylAazt	_
+8	steyn	VB	סטײן	stYN	_
+
+SENT	1834E-UKRAINE-2,43.236
+1	dem	D	דעם	deM	_
+2	kamisr	N	קאַמיסר	kAamysr	_
+3	hat	HVF	האַט	hAat	_
+4	gante	NPR	גאַנטע	gAante	_
+5	imkh	H	אימך	AymX	may_be_erased
+6	smu	H	סמו	smv	name_his
+7	givalt	MDN	גיװאַלט	gyVAalt	_
+8	shoyn	ADV	שױן	$WN	_
+9	ibr	P	איבר	Aybr	_
+10	der	D	דער	der	_
+11	gas	N	גאַס	gAas	_
+12	firin	VB	פֿירין	fyryN	_
+13	gar	ADV	גאַר	gAar	_
+14	naket	ADJ	נאַקעט	nAaket	_
+15	nar	FP	נאַר	nAar	_
+16	in	P	אין	AyN	_
+17	hemdl	N	העמדל	hemdl	_
+18	un	CONJ	און	AvN	_
+19	eyn	D	אײן	AYN	_
+20	strik	N	סטריק	stryk	_
+21	oyf	P	אױף	AWF	_
+22	dem	D	דעם	deM	_
+23	halz	N	האַלז	hAalz	_
+
+SENT	1834E-UKRAINE-2,43.237
+1	un	CONJ	און	AvN	_
+2	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+3	hat	HVF	האַט	hAat	_
+4	er	PRO	ער	er	_
+5	im	PRO	אים	AyM	_
+6	gifirt	VBN	גיפֿירט	gyfyrt	_
+7	{in}	P	{אין}	{AyN}	_
+8	eyn	D	אײן	AYN	_
+9	hoyz	N	הױז	hWz	_
+10	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1834E-UKRAINE-2,43.238
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	im	PRO	אים	AyM	_
+4	gigebin	VBN	גיגעבין	gygebyN	_
+5	tsu	TO	צו	qv	_
+6	trinkn	VB	טרינקן	trynkN	_
+7	med	N	מעד	med	_
+8	in	P	אין	AyN	_
+9	eyn	D	אײן	AYN	_
+10	kraz	N	קראַז	krAaz	_
+
+SENT	1834E-UKRAINE-2,43.239
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	tsu	P	צו	qv	_
+4	im	PRO	אים	AyM	_
+5	gizagt	VBN	גיזאַגט	gyzAagt	_
+6	trink	VBI	טרינק	trynk	_
+7	gishvind	ADV	גישװינד	gy$Vynd	_
+
+SENT	1834E-UKRAINE-2,43.240
+1	ikh	PRO	איך	AyX	_
+2	bin	BEF	בין	byN	_
+3	dakh	ADV	דאַך	dAaX	_
+4	baey	P	באַײ	bAaY	_
+5	dir	PRO	דיר	dyr	_
+6	givezin	VBN	גיװעזין	gyVezyN	_
+7	deyn	PRO$	דײן	dYN	_
+8	lib	ADJ	ליב	lyb	_
+9	kind	N	קינד	kynd	_
+
+SENT	1834E-UKRAINE-2,43.241
+1	dr_nakh	DR+P	דר_נאַך	dr_nAaX	_
+2	hat	HVF	האַט	hAat	_
+3	zikh	PRO	זיך	zyX	_
+4	gante	NPR	גאַנטע	gAante	_
+5	imkh	H	אימך	AymX	may_be_erased
+6	smu	H	סמו	smv	name_his
+7	gizetst	VBN	גיזעצט	gyzeqt	_
+8	oyf	P	אױף	AWF	_
+9	der	D	דער	der	_
+10	stul	N	סטול	stvl	_
+
+SENT	1834E-UKRAINE-2,43.242
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	oys	P	אױס	AWs	_
+4	dem	D	דעם	deM	_
+5	kamisr	N	קאַמיסר	kAamysr	_
+6	gimakht	VBN	גימאַכט	gymAaxt	_
+7	ali	Q	אַלי	Aaly	_
+8	gispet	N	גיספּעט	gyspet	_
+
+SENT	1834E-UKRAINE-2,43.243
+1	azoy	ADV	אַזױ	AazW	_
+2	zogt	VBF	זאָגט	zAogt	_
+3	der	D	דער	der	_
+4	komisr	N	קאָמיסר	kAomysr	_
+5	vi	WADV	װי	Vy	_
+6	tus	DOF	טוס	tvs	_
+7	tu	PRO	טו	tv	_
+8	deyn	PRO$	דײן	dYN	_
+9	sbueh	N	סבועה	sbveh	_
+10	brekhin	VB	ברעכין	brexyN	_
+
+SENT	1834E-UKRAINE-2,43.244
+1	du	PRO	דו	dv	_
+2	host	HVF	האָסט	hAost	_
+3	dokh	ADV	דאָך	dAoX	_
+4	gishvorin	VBN	גישװאָרין	gy$VAoryN	_
+5	das	C	דת	dS	_
+6	du	PRO	דו	dv	_
+7	zalst	MDF	זאַלסט	zAalst	_
+8	mikh	PRO	מיך	myX	_
+9	mtsil	RP-H	מציל	mqyl	_
+10	zeyn	VB	זײן	zYN	_
+11	fun	P	פֿון	fvN	_
+12	dem	D	דעם	deM	_
+13	toyt	N	טױט	tWt	_
+
+SENT	1834E-UKRAINE-2,43.245
+1	un	CONJ	און	AvN	_
+2	heynt	ADV	הײנט	hYnt	_
+3-4	hltstu	VBF~PRO	הלטסטו	hltstv	_
+3	hlts	VBF	הלץ	hlQ	_
+4	tu	PRO	טו	tv	_
+5	deyn	PRO$	דײן	dYN	_
+6	shbueh	N	שבועה	$bveh	_
+7	nit	NEG	ניט	nyt	_
+
+SENT	1834E-UKRAINE-2,43.246
+1	azoy	ADV	אַזױ	AazW	_
+2	gonte	NPR	גאָנטע	gAonte	_
+3	imkh	H	אימך	AymX	may_be_erased
+4	smu	H	סמו	smv	name_his
+5	tsu	P	צו	qv	_
+6	im	PRO	אים	AyM	_
+7	veyl	C	װײל	VYl	_
+8	du	PRO	דו	dv	_
+9	hast	HVF	האַסט	hAast	_
+10	di	D	די	dy	_
+11	sbueh	N	סבועה	sbveh	_
+12	gibrakhin	VBN	גיבראַכין	gybrAaxyN	_
+13	mit	P	מיט	myt	_
+14	di	D	די	dy	_
+15	ihudim	N	איהודים	AyhvdyM	_
+16	azoy	ADV	אַזױ	AazW	_
+17	brekh	VBF	ברעך	breX	_
+18	ikh	PRO	איך	AyX	_
+19	meyn	PRO$	מײן	mYN	_
+20	shbueh	N	שבועה	$bveh	_
+21	oykh	ADV	אױך	AWX	_
+
+SENT	1834E-UKRAINE-2,43.247
+1	un	CONJ	און	AvN	_
+2	muzt	MDF	מוזט	mvzt	_
+3	verin	RD	װערין	VeryN	_
+4	gistakhin	VAN	גיסטאַכין	gystAaxyN	_
+
+SENT	1834E-UKRAINE-2,43.248
+1	azoy	ADV	אַזױ	AazW	_
+2	iz	BEF	איז	Ayz	_
+3	gikumn	VBN	גיקומן	gykvmN	_
+4	eyn	D	אײן	AYN	_
+5	pukhz	N	פּוכז	pvxz	_
+6	fun	P	פֿון	fvN	_
+7	hintn	ADV	הינטן	hyntN	_
+
+SENT	1834E-UKRAINE-2,43.249
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	im	PRO	אים	AyM	_
+4	gistakhin	VBN	גיסטאַכין	gystAaxyN	_
+
+SENT	1834E-UKRAINE-2,43.250
+1	varum	CONJ	װאַרום	VAarvM	_
+2	got	NPR	גאָט	gAot	_
+3	brukh	H	ברוך	brvX	blessed
+4	hu	H	הו	hv	he
+5	tut	DOF	טוט	tvt	_
+6	nit	NEG	ניט	nyt	_
+7	shlofin	VB	שלאָפֿין	$lAofyN	_
+
+SENT	1834E-UKRAINE-2,43.251
+1	er	PRO	ער	er	_
+2	stroft	VBF	סטראָפֿט	strAoft	_
+3	alts	Q	אַלץ	AalQ	_
+4	mdh	N	מדה	mdh	_
+5	kngd	H	קנגד	kngd	against
+6	mdh	N	מדה	mdh	_
+
+SENT	1834E-UKRAINE-2,43.252
+1	un	CONJ	און	AvN	_
+2	zey	PRO	זײ	zY	_
+3	habin	HVF	האַבין	hAabyN	_
+4	zikh	PRO	זיך	zyX	_
+5	in	P	אין	AyN	_
+6	shtat	N	שטאַט	$tAat	_
+7	azoy	ADV	אַזױ	AazW	_
+8	lang	ADV	לאַנג	lAang	_
+9	gezoymt	VBN	געזױמט	gezWmt	_
+10	biz	C	ביז	byz	_
+11	zey	PRO	זײ	zY	_
+12	habin	HVF	האַבין	hAabyN	_
+13	alts	Q	אַלץ	AalQ	_
+14	oys	RP	אױס	AWs	_
+15	giroymt	VBN	גירױמט	gyrWmt	_
+
+SENT	1834E-UKRAINE-2,43.253
+1	dr_nakh	DR+P	דר_נאַך	dr_nAaX	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zey	PRO	זײ	zY	_
+4	zikh	PRO	זיך	zyX	_
+5	tsu_spreyt	VBN	צו_ספּרײט	qv_sprYt	_
+6	uf	P	אוף	AvF	_
+7	ali	Q	אַלי	Aaly	_
+8	derfer	N	דערפֿער	derfer	_
+9	arum	ADV	אַרום	AarvM	_
+10	in	P	אין	AyN	_
+11	der	D	דער	der	_
+12	gikh	N	גיך	gyX	_
+13	kdi_az	C	קדי_אַז	kdy_Aaz	_
+14	keyn	Q	קײן	kYN	_
+15	ihudim	N	איהודים	AyhvdyM	_
+16	zalin	MDF	זאַלין	zAalyN	_
+17	gar	ADV	גאַר	gAar	_
+18	nit	NEG	ניט	nyt	_
+19	ibr_bleybn	VB	איבר_בלײבן	Aybr_blYbN	_
+
+SENT	1834E-UKRAINE-2,43.254
+1	es	ES	עס	es	_
+2	zeynin	BEF	זײנין	zYnyN	_
+3	in	P	אין	AyN	_
+4	veg	N	װעג	Veg	_
+5	givezin	VBN	גיװעזין	gyVezyN	_
+6	ibr	P	איבר	Aybr	_
+7	hundrt	NUM	הונדרט	hvndrt	_
+8	vegin	N	װעגין	VegyN	_
+9	mit	P	מיט	myt	_
+10	ihudim	N	איהודים	AyhvdyM	_
+
+SENT	1834E-UKRAINE-2,43.255
+1	azoy	ADV	אַזױ	AazW	_
+2	zeynin	BEF	זײנין	zYnyN	_
+3	gikumn	VBN	גיקומן	gykvmN	_
+4	gar	ADV	גאַר	gAar	_
+5	zibn	NUM	זיבן	zybN	_
+6	pukhzim	N	פּוכזים	pvxzyM	_
+
+SENT	1834E-UKRAINE-2,43.256
+1	azoy	ADV	אַזױ	AazW	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zikh	PRO	זיך	zyX	_
+4	di	D	די	dy	_
+5	ihudim	N	איהודים	AyhvdyM	_
+6	nebikh	INTJ	נעביך	nebyX	_
+7	zeyer	ADV	זײער	zYer	_
+8	dershrakin	VBN	דערשראַקין	der$rAakyN	_
+
+SENT	1834E-UKRAINE-2,43.257
+1	zey	PRO	זײ	zY	_
+2	hobin	HVF	האָבין	hAobyN	_
+3	nit	NEG	ניט	nyt	_
+4	givst	VBN	גיװסט	gyVst	_
+5	vi	WADV	װי	Vy	_
+6	zey	PRO	זײ	zY	_
+7	zalin	MDF	זאַלין	zAalyN	_
+8	zikh	PRO	זיך	zyX	_
+9	a_hin	ADV	אַ_הין	Aa_hyN	_
+10	tan	VB	טאַן	tAaN	_
+11	ali	Q	אַלי	Aaly	_
+
+SENT	1834E-UKRAINE-2,43.258
+1	zeynin	BEF	זײנין	zYnyN	_
+2	zey	PRO	זײ	zY	_
+3	ali	Q	אַלי	Aaly	_
+4	in	P	אין	AyN	_
+5	vasr	N	װאַסר	VAasr	_
+6	gisprungn	VBN	גיספּרונגן	gysprvngN	_
+
+SENT	1834E-UKRAINE-2,43.259
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zikh	PRO	זיך	zyX	_
+4	der_trenkt	VBN	דער_טרענקט	der_trenkt	_
+
+SENT	1834E-UKRAINE-2,43.260
+1	nu	ADV	נו	nv	_
+2	vi	WADV	װי	Vy	_
+3	di	D	די	dy	_
+4	pukhzim	N	פּוכזים	pvxzyM	_
+5	habin	HVF	האַבין	hAabyN	_
+6	gizehen	VBN	גיזעהען	gyzeheN	_
+7	das	C	דת	dS	_
+8	zey	PRO	זײ	zY	_
+9	zeynn	VBF	זײנן	zYnN	_
+10	veynig	ADJ	װײניג	VYnyg	_
+11	un	CONJ	און	AvN	_
+12	di	D	די	dy	_
+13	ihudim	N	איהודים	AyhvdyM	_
+14	zeynin	VBF	זײנין	zYnyN	_
+15	fil	ADJ	פֿיל	fyl	_
+16	azoy	ADV	אַזױ	AazW	_
+17	habin	HVF	האַבין	hAabyN	_
+18	zey	PRO	זײ	zY	_
+19-20	tsum	P~D	צום	qvM	_
+19	tsu	P	צו	qv	_
+20	m	D	מ	m	_
+21	hoyf	N	הױף	hWF	_
+22	gitribin	VBN	גיטריבין	gytrybyN	_
+23	ali	Q	אַלי	Aaly	_
+24	di	D	די	dy	_
+25	erlim	N	ערלים	erlyM	_
+26	az	C	אַז	Aaz	_
+27	men	PRO	מען	meN	_
+28	zal	MDF	ז"ל	z"l	_
+29	oys	RP	אױס	AWs	_
+30	hrgnn	VB	הרגנן	hrgnN	_
+31	ali	Q	אַלי	Aaly	_
+32	di	D	די	dy	_
+33	ihudim	N	איהודים	AyhvdyM	_
+
+SENT	1834E-UKRAINE-2,43.261
+1	in	P	אין	AyN	_
+2	dem	D	דעם	deM	_
+3	ort	N	אָרט	Aort	_
+4	zeynin	BEF	זײנין	zYnyN	_
+5	givezin	VBN	גיװעזין	gyVezyN	_
+6	tsvey	NUM	צװײ	qVY	_
+7	bridr	N	ברידר	brydr	_
+8	fun	P	פֿון	fvN	_
+9	der	D	דער	der	_
+10	shtat	N	שטאַט	$tAat	_
+11	tarnopl	NPR	טאַרנאָפּל	tAarnAopl	_
+
+SENT	1834E-UKRAINE-2,43.262
+1	eynr	PRO	אײנר	AYnr	_
+2	hat	HVF	האַט	hAat	_
+3	giheysin	VBN	גיהײסין	gyhYsyN	_
+4	r'	NPR	ר'	r'	_
+5	smual	NPR	סמואַל	smvAal	_
+6	un	CONJ	און	AvN	_
+7	dr	D	דר	dr	_
+8	andr	ADJ	אַנדר	Aandr	_
+9	r'	NPR	ר'	r'	_
+10	saul	NPR	סאַול	sAavl	_
+
+SENT	1834E-UKRAINE-2,43.263
+1	zi	PRO	זי	zy	_
+2	zeynin	BEF	זײנין	zYnyN	_
+3	zeyer	ADV	זײער	zYer	_
+4	frum	ADJ	פֿרום	frvM	_
+5	given	VBN	גיװען	gyVeN	_
+
+SENT	1834E-UKRAINE-2,43.264
+1	men	PRO	מען	meN	_
+2	hat	HVF	האַט	hAat	_
+3	mkhmt	H	מכמט	mxmt	because_of
+4	zeyer	ADV	זײער	zYer	_
+5	groys	ADJ	גרױס	grWs	_
+6	frumkeyt	N	פֿרומקײט	frvmkYt	_
+7	hat	HVF	האַט	hAat	_
+8	men	PRO	מען	meN	_
+9	nit	NEG	ניט	nyt	_
+10	gihert	VBN	גיהערט	gyhert	_
+11	zeyer	PRO$	זײער	zYer	_
+12	kul	N	קול	kvl	_
+
+SENT	1834E-UKRAINE-2,43.265
+1	habin	HVF	האַבין	hAabyN	_
+2	mentshin	N	מענטשין	ment$yN	_
+3	givalt	MDN	גיװאַלט	gyVAalt	_
+4	zey	PRO	זײ	zY	_
+5	avek	RP-ADV	אַװעק	AaVek	_
+6	nemin	VB	נעמין	nemyN	_
+7	fun	P	פֿון	fvN	_
+8	dortn	ADV	דאָרטן	dAortN	_
+9	kdi	ADV	קדי	kdy	_
+10	zey	PRO	זײ	zY	_
+11	zalin	MDF	זאַלין	zAalyN	_
+12	nit	NEG	ניט	nyt	_
+13	nizuk	RP-H	ניזוק	nyzvk	_
+14	verin	VB	װערין	VeryN	_
+
+SENT	1834E-UKRAINE-2,43.266
+1	nor	CONJ	נאָר	nAor	_
+2	zey	PRO	זײ	zY	_
+3	hobin	HVF	האָבין	hAobyN	_
+4	nit	NEG	ניט	nyt	_
+5	givolt	MDN	גיװאָלט	gyVAolt	_
+6	op	RP	אָפּ	Aop	_
+7	tretin	VB	טרעטין	tretyN	_
+8	dem	D	דעם	deM	_
+9	kll	H	קלל	kll	general_public
+10	isral	NPR	איסראַל	AysrAal	_
+
+SENT	1834E-UKRAINE-2,43.267
+1	zey	PRO	זײ	zY	_
+2	hobin	HVF	האָבין	hAobyN	_
+3	gimeynt	VBN	גימײנט	gymYnt	_
+4	az	C	אַז	Aaz	_
+5	zey	PRO	זײ	zY	_
+6	velin	MDF	װעלין	VelyN	_
+7	nitsul	RP-H	ניצול	nyqvl	_
+8	verin	VB	װערין	VeryN	_
+9	fun	P	פֿון	fvN	_
+10	dem	D	דעם	deM	_
+11	toyt	N	טױט	tWt	_
+
+SENT	1834E-UKRAINE-2,43.268
+1	lsuf	ADV	לסוף	lsvF	_
+2	zeynin	BEF	זײנין	zYnyN	_
+3	gikumn	VBN	גיקומן	gykvmN	_
+4	tsvey	NUM	צװײ	qVY	_
+5	erlim	N	ערלים	erlyM	_
+
+SENT	1834E-UKRAINE-2,44.269
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	ginumn	VBN	גינומן	gynvmN	_
+4	di	D	די	dy	_
+5	tsvey	NUM	צװײ	qVY	_
+6	bridr	N	ברידר	brydr	_
+7	baey	P	באַײ	bAaY	_
+8	di	D	די	dy	_
+9	hent	N	הענט	hent	_
+
+SENT	1834E-UKRAINE-2,44.270
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zey	PRO	זײ	zY	_
+4	gifirt	VBN	גיפֿירט	gyfyrt	_
+5	tsu	P	צו	qv	_
+6	zey	PRO	זײ	zY	_
+7	aheym	ADV	אַהײם	AahYM	_
+
+SENT	1834E-UKRAINE-2,44.271
+1	nu	ADV	נו	nv	_
+2	di	D	די	dy	_
+3	tsvey	NUM	צװײ	qVY	_
+4	brider	N	ברידער	bryder	_
+5	hobin	HVF	האָבין	hAobyN	_
+6	gimeynt	VBN	גימײנט	gymYnt	_
+7	az	C	אַז	Aaz	_
+8	zey	PRO	זײ	zY	_
+9	velin	MDF	װעלין	VelyN	_
+10	kenin	MD	קענין	kenyN	_
+11	ariber	ADV	אַריבער	Aaryber	_
+12	shifn	VB	שיפֿן	$yfN	_
+13	zikh	PRO	זיך	zyX	_
+
+SENT	1834E-UKRAINE-2,44.272
+1	habin	HVF	האַבין	hAabyN	_
+2	tsu	P	צו	qv	_
+3	zey	PRO	זײ	zY	_
+4	gizagt	VBN	גיזאַגט	gyzAagt	_
+5	zey	PRO	זײ	zY	_
+6	velin	MDF	װעלין	VelyN	_
+7	kenin	MD	קענין	kenyN	_
+8	aribr	ADV	אַריבר	Aarybr	_
+9	shifn	VB	שיפֿן	$yfN	_
+10	zey	PRO	זײ	zY	_
+11	ibr	P	איבר	Aybr	_
+12	dem	D	דעם	deM	_
+13	bug	N	בוג	bvg	_
+
+SENT	1834E-UKRAINE-2,44.273
+1	azoy	ADV	אַזױ	AazW	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zey	PRO	זײ	zY	_
+4	fun	P	פֿון	fvN	_
+5	zikh	PRO	זיך	zyX	_
+6	gigebin	VBN	גיגעבין	gygebyN	_
+7	gar	ADV	גאַר	gAar	_
+8	das	D	דת	dS	_
+9	gelt	N	געלט	gelt	_
+10	tsu	P	צו	qv	_
+11	di	D	די	dy	_
+12	tsvey	NUM	צװײ	qVY	_
+13	erlim	N	ערלים	erlyM	_
+14	az	C	אַז	Aaz	_
+15	di	D	די	dy	_
+16	erlim	N	ערלים	erlyM	_
+17	zalin	MDF	זאַלין	zAalyN	_
+18	zey	PRO	זײ	zY	_
+19	aribr	ADV	אַריבר	Aarybr	_
+20	sifn	VB	סיפֿן	syfN	_
+
+SENT	1834E-UKRAINE-2,44.274
+1	habin	HVF	האַבין	hAabyN	_
+2	di	D	די	dy	_
+3	erlim	N	ערלים	erlyM	_
+4	gizagt	VBN	גיזאַגט	gyzAagt	_
+5	tsu	P	צו	qv	_
+6	di	D	די	dy	_
+7	tsvey	NUM	צװײ	qVY	_
+8	bridr	N	ברידר	brydr	_
+9	nekhtigt	VBI	נעכטיגט	nextygt	_
+10	do	ADV	דאָ	dAo	_
+11	ibr	P	איבר	Aybr	_
+12	nakht	N	נאַכט	nAaxt	_
+
+SENT	1834E-UKRAINE-2,44.275
+1	un	CONJ	און	AvN	_
+2	in	P	אין	AyN	_
+3	der	D	דער	der	_
+4	fri	N	פֿרי	fry	_
+5	velin	MDF	װעלין	VelyN	_
+6	mir	PRO	מיר	myr	_
+7	eykh	PRO	אײך	AYX	_
+8	aribr	ADV	אַריבר	Aarybr	_
+9	shifn	VB	שיפֿן	$yfN	_
+
+SENT	1834E-UKRAINE-2,44.276
+1	nu	ADV	נו	nv	_
+2	vi	WADV	װי	Vy	_
+3	es	ES	עס	es	_
+4	iz	BEF	איז	Ayz	_
+5	gikumn	VBN	גיקומן	gykvmN	_
+6	zeygr	N	זײגר	zYgr	_
+7	tsvey	NUM	צװײ	qVY	_
+8	ba	P	באַ	bAa	_
+9	nakht	N	נאַכט	nAaxt	_
+10	ruft	VBF	רופֿט	rvft	_
+11	zikh	PRO	זיך	zyX	_
+12	an	RP	אַן	AaN	_
+13	eyn	D	אײן	AYN	_
+14	brudr	N	ברודר	brvdr	_
+15	tsu	P	צו	qv	_
+16	dem	D	דעם	deM	_
+17	andrn	ADJ	אַנדרן	AandrN	_
+18	es	ES	עס	es	_
+19	iz	VBF	איז	Ayz	_
+20	mir	PRO	מיר	myr	_
+21	dos	D	דאָס	dAos	_
+22	harts	N	האַרץ	hAarQ	_
+23	zeyer	ADV	זײער	zYer	_
+24	shver	ADJ	שװער	$Ver	_
+
+SENT	1834E-UKRAINE-2,44.277
+1-2	lomir	VBI~PRO	לאָמיר	lAomyr	_
+1	lo	VBI	לאָ	lAo	_
+2	mir	PRO	מיר	myr	_
+3	zehn	VB	זעהן	zehN	_
+4	antloyfin	VB	אַנטלױפֿין	AantlWfyN	_
+
+SENT	1834E-UKRAINE-2,44.278
+1	vorum	CONJ	װאָרום	VAorvM	_
+2	got	NPR	גאָט	gAot	_
+3	veyst	VBF	װײסט	VYst	_
+4	oyb	C	אױב	AWb	_
+5	mir	PRO	מיר	myr	_
+6	velin	MDF	װעלין	VelyN	_
+7	zikh	PRO	זיך	zyX	_
+8	soyn	ADV	סױן	sWN	_
+9	kenin	MD	קענין	kenyN	_
+10	zehn	VB	זעהן	zehN	_
+11	mit	P	מיט	myt	_
+12	unzr	PRO$	אונזר	Avnzr	_
+13	veyb	N	װײב	VYb	_
+14	un	CONJ	און	AvN	_
+15	kindr	N	קינדר	kyndr	_
+
+SENT	1834E-UKRAINE-2,44.279
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	erlim	N	ערלים	erlyM	_
+4	habin	HVF	האַבין	hAabyN	_
+5	anidr	ADV	אַנידר	Aanydr	_
+6	gistelt	VBN	גיסטעלט	gystelt	_
+7	shumrim	N	שומרים	$vmryM	_
+8	az	C	אַז	Aaz	_
+9	zey	PRO	זײ	zY	_
+10	zalin	MDF	זאַלין	zAalyN	_
+11	nit	NEG	ניט	nyt	_
+12	kenin	MD	קענין	kenyN	_
+13	antloyfn	VB	אַנטלױפֿן	AantlWfN	_
+
+SENT	1834E-UKRAINE-2,44.280
+1	nu	ADV	נו	nv	_
+2	vi	C	װי	Vy	_
+3	es	PRO	עס	es	_
+4	iz	BEF	איז	Ayz	_
+5	gikumn	VBN	גיקומן	gykvmN	_
+6	in_mitn	P	אינ_מיטן	Ayn_mytN	_
+7	der	D	דער	der	_
+8	nakht	N	נאַכט	nAaxt	_
+9	azoy	ADV	אַזױ	AazW	_
+10	habin	HVF	האַבין	hAabyN	_
+11	ginumn	VBN	גינומן	gynvmN	_
+12	di	D	די	dy	_
+13	tsvey	NUM	צװײ	qVY	_
+14	erlim	N	ערלים	erlyM	_
+15	di	D	די	dy	_
+16	tsvey	NUM	צװײ	qVY	_
+17	bridr	N	ברידר	brydr	_
+
+SENT	1834E-UKRAINE-2,44.281
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zey	PRO	זײ	zY	_
+4	gifirt	VBN	גיפֿירט	gyfyrt	_
+5	tsu	P	צו	qv	_
+6	dem	D	דעם	deM	_
+7	bug	N	בוג	bvg	_
+
+SENT	1834E-UKRAINE-2,44.282
+1	azoy	ADV	אַזױ	AazW	_
+2	habin	HVF	האַבין	hAabyN	_
+3	di	D	די	dy	_
+4	erlim	N	ערלים	erlyM	_
+5	tikf	ADV	טיקף	tykF	_
+6	eynm	PRO	אײנם	AYnM	_
+7	der_stakhin	VBN	דער_סטאַכין	der_stAaxyN	_
+
+SENT	1834E-UKRAINE-2,44.283
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	andrr	ADJ	אַנדרר	Aandrr	_
+4	hat	HVF	האַט	hAat	_
+5	zikh	PRO	זיך	zyX	_
+6	an	RP	אַן	AaN	_
+7	gihoybin	VBN	גיהױבין	gyhWbyN	_
+8	reynglen	VB	רײנגלען	rYngleN	_
+9	mit	P	מיט	myt	_
+10	zey	PRO	זײ	zY	_
+
+SENT	1834E-UKRAINE-2,44.284
+1	nu	ADV	נו	nv	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zey	PRO	זײ	zY	_
+4	im	PRO	אים	AyM	_
+5	areyn	ADV	אַרײן	AarYN	_
+6	gistakhin	VBN	גיסטאַכין	gystAaxyN	_
+7	di	D	די	dy	_
+8	spiz	N	ספּיז	spyz	_
+9	in	P	אין	AyN	_
+10	hartsin	N	האַרצין	hAarqyN	_
+11	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1834E-UKRAINE-2,44.285
+1	azoy	ADV	אַזױ	AazW	_
+2	iz	BEF	איז	Ayz	_
+3	di	D	די	dy	_
+4	spiz	N	ספּיז	spyz	_
+5	tsu_brakhin	VAN	צו_בראַכין	qv_brAaxyN	_
+6	givarin	RDN	גיװאַרין	gyVAaryN	_
+
+SENT	1834E-UKRAINE-2,44.286
+1	habin	HVF	האַבין	hAabyN	_
+2	di	D	די	dy	_
+3	erlim	N	ערלים	erlyM	_
+4	ginumn	VBN	גינומן	gynvmN	_
+5	eyn	D	אײן	AYN	_
+6	koyl	N	קױל	kWl	_
+
+SENT	1834E-UKRAINE-2,44.287
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	im	PRO	אים	AyM	_
+4	gishlagin	VBN	גישלאַגין	gy$lAagyN	_
+5	in	P	אין	AyN	_
+6	kapf	N	קאַפּף	kAapF	_
+7	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1834E-UKRAINE-2,44.288
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	er	PRO	ער	er	_
+4	nebikh	INTJ	נעביך	nebyX	_
+5	gishrigen	VBN	גישריגען	gy$rygeN	_
+6	mit	P	מיט	myt	_
+7	eyn	D	אײן	AYN	_
+8	bitr	ADJ	ביטר	bytr	_
+9	kul	N	קול	kvl	_
+
+SENT	1834E-UKRAINE-2,44.289
+1	un	CONJ	און	AvN	_
+2	zeyn	PRO$	זײן	zYN	_
+3	kul	N	קול	kvl	_
+4	hat	HVF	האַט	hAat	_
+5	zikh	PRO	זיך	zyX	_
+6	gihert	VBN	גיהערט	gyhert	_
+7	far	P	פֿאַר	fAar	_
+8	a	D	אַ	Aa	_
+9	meyl	N	מײל	mYl	_
+
+SENT	1834E-UKRAINE-2,44.290
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	hot	HVF	האָט	hAot	_
+4	gishrign	VBN	גישריגן	gy$rygN	_
+5	rbunu	H	רבונו	rbvnv	rabbi_our
+6	shl	H	של	$l	of
+7	eulm	H	עולם	evlM	world
+8	biz	P	ביז	byz	_
+9	vi	WADV	װי	Vy	_
+10	lang	ADV	לאַנג	lAang	_
+11	nakh	ADV	נ"ך	n"X	_
+12-13	vestu	MDF~PRO	װעסטו	Vestv	_
+12	ves	MDF	װעס	Ves	_
+13	tu	PRO	טו	tv	_
+14	deyn	PRO$	דײן	dYN	_
+15	nkmh	N	נקמה	nkmh	_
+16	nit	NEG	ניט	nyt	_
+17	tan	VB	טאַן	tAaN	_
+18	in	P	אין	AyN	_
+19	di	D	די	dy	_
+20	pukhzim	N	פּוכזים	pvxzyM	_
+21	vas	C	װאַס	VAas	_
+22	zey	PRO	זײ	zY	_
+23	hrgnn	VBF	הרגנן	hrgnN	_
+24	deyn	PRO$	דײן	dYN	_
+25	loyb	ADJ	לױב	lWb	_
+26	falg	N	פֿאַלג	fAalg	_
+27	isral	NPR	איסראַל	AysrAal	_
+
+SENT	1834E-UKRAINE-2,44.291
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	erlim	N	ערלים	erlyM	_
+4	habin	HVF	האַבין	hAabyN	_
+5	im	PRO	אים	AyM	_
+6	drhrgt	VBN	דרהרגט	drhrgt	_
+
+SENT	1834E-UKRAINE-2,44.292
+1	itsund	ADV	איצונד	Ayqvnd	_
+2	velin	MDF	װעלין	VelyN	_
+3	mir	PRO	מיר	myr	_
+4	an	RP	אַן	AaN	_
+5	hoybin	VB	הױבין	hWbyN	_
+6	tsu	TO	צו	qv	_
+7	shreybin	VB	שרײבין	$rYbyN	_
+8	di	D	די	dy	_
+9	gzirh	N	גזירה	gzyrh	decree
+10	fun	P	פֿון	fvN	_
+11	balth	NPR	באַלטה	bAalth	_
+
+SENT	1834E-UKRAINE-2,44.293
+1	uhihudim	H	אוהיהודים	AvhyhvdyM	and_the_Jews
+2	un	CONJ	און	AvN	_
+3	di	D	די	dy	_
+4	ihudim	N	איהודים	AyhvdyM	_
+5	vas	C	װאַס	VAas	_
+6	zeynin	BEF	זײנין	zYnyN	_
+7	antlofin	VX	אַנטלאָפֿין	AantlAofyN	_
+8	givarin	RDN	גיװאַרין	gyVAaryN	_
+9	keyn	P	קײן	kYN	_
+10	balth	NPR	באַלטה	bAalth	_
+11	azoy	ADV	אַזױ	AazW	_
+12	habin	HVF	האַבין	hAabyN	_
+13	di	D	די	dy	_
+14	pukhzim	N	פּוכזים	pvxzyM	_
+15	zey	PRO	זײ	zY	_
+16	nakh	RP	נ"ך	n"X	_
+17	gilafin	VBN	גילאַפֿין	gylAafyN	_
+
+SENT	1834E-UKRAINE-2,44.294
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	gifunin	VBN	גיפֿונין	gyfvnyN	_
+4	in	P	אין	AyN	_
+5	dem	D	דעם	deM	_
+6	tkhum	X	תּחום	THvM	_
+7	sbt	N	סבט	sbt	_
+8	far	P	פֿאַר	fAar	_
+9	der	D	דער	der	_
+10	stat	N	סטאַט	stAat	_
+11	biz	P	ביז	byz	_
+12	zibtsig	NUM	זיבציג	zybqyg	_
+13	npsut	N	נפּסוט	npsvt	_
+
+SENT	1834E-UKRAINE-2,44.295
+1	un	CONJ	און	AvN	_
+2	dortn	ADV	דאָרטן	dAortN	_
+3	zeynin	BEF	זײנין	zYnyN	_
+4	given	VBN	גיװען	gyVeN	_
+5	ihudim	N	איהודים	AyhvdyM	_
+6	fun	P	פֿון	fvN	_
+7	dr	D	דר	dr	_
+8	stat	N	סטאַט	stAat	_
+9	zalkva	NPR	זאַלקװאַ	zAalkVAa	_
+10	eynr	D	אײנר	AYnr	_
+11	r'	NPR	ר'	r'	_
+12	asr	NPR	אַסר	Aasr	_
+13	mit	P	מיט	myt	_
+14	zeyn	PRO$	זײן	zYN	_
+15	veyb	N	װײב	VYb	_
+16	un	CONJ	און	AvN	_
+17	kindr	N	קינדר	kyndr	_
+18	shvestir	N	שװעסטיר	$Vestyr	_
+19	un	CONJ	און	AvN	_
+20	bridr	N	ברידר	brydr	_
+
+SENT	1834E-UKRAINE-2,44.296
+1	un	CONJ	און	AvN	_
+2	zeyer	PRO$	זײער	zYer	_
+3	fatr	N	פֿאַטר	fAatr	_
+4	hat	HVF	האַט	hAat	_
+5	giheysin	VBN	גיהײסין	gyhYsyN	_
+6	r'	NPR	ר'	r'	_
+7	gdlih	NPR	גדליה	gdlyh	_
+
+SENT	1834E-UKRAINE-2,44.297
+1	bkitsur	ADV	בקיצור	bkyqvr	_
+2	vi	WADV	װי	Vy	_
+3	zey	PRO	זײ	zY	_
+4	habin	HVF	האַבין	hAabyN	_
+5	der_zehen	VBN	דער_זעהען	der_zeheN	_
+6	di	D	די	dy	_
+7	pukhzim	N	פּוכזים	pvxzyM	_
+8	zeynin	BEF	זײנין	zYnyN	_
+9	zey	PRO	זײ	zY	_
+10	giblibn	VBN	גיבליבן	gyblybN	_
+11	steyn	RP-V	סטײן	stYN	_
+
+SENT	1834E-UKRAINE-2,44.298
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zikh	PRO	זיך	zyX	_
+4	zeyer	ADV	זײער	zYer	_
+5	der_shrakhin	VBN	דער_שראַכין	der_$rAaxyN	_
+
+SENT	1834E-UKRAINE-2,44.299
+1	nu	ADV	נו	nv	_
+2	hat	HVF	האַט	hAat	_
+3	zikh	PRO	זיך	zyX	_
+4	eyn	D	אײן	AYN	_
+5	rek	N	רעק	rek	_
+6	an	RP	אַן	AaN	_
+7	girufin	VBN	גירופֿין	gyrvfyN	_
+8	tsu	P	צו	qv	_
+9	zey	PRO	זײ	zY	_
+10	leyzt	VBI	לײזט	lYzt	_
+11	eykh	PRO	אײך	AYX	_
+12	oys	RP	אױס	AWs	_
+13	mit	P	מיט	myt	_
+14	gelt	N	געלט	gelt	_
+15	velin	MDF	װעלין	VelyN	_
+16	mir	PRO	מיר	myr	_
+17	eykh	PRO	אײך	AYX	_
+18	nit	NEG	ניט	nyt	_
+19	hrgnn	VB	הרגנן	hrgnN	_
+
+SENT	1834E-UKRAINE-2,44.300
+1	nu	ADV	נו	nv	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zey	PRO	זײ	zY	_
+4	gigebn	VBN	גיגעבן	gygebN	_
+5	tsu	P	צו	qv	_
+6	di	D	די	dy	_
+7	pukhzim	N	פּוכזים	pvxzyM	_
+8	biz	P	ביז	byz	_
+9	drey_hundrt	NUM	דרײ_הונדרט	drY_hvndrt	_
+10	rendlkh	N	רענדלך	rendlX	_
+
+SENT	1834E-UKRAINE-2,44.301
+1	nu	ADV	נו	nv	_
+2	hat	HVF	האַט	hAat	_
+3	zikh	PRO	זיך	zyX	_
+4	an	RP	אַן	AaN	_
+5	girufin	VBN	גירופֿין	gyrvfyN	_
+6	der	D	דער	der	_
+7	andrir	ADJ	אַנדריר	Aandryr	_
+8	rek	N	רעק	rek	_
+9	tsu	P	צו	qv	_
+10	zey	PRO	זײ	zY	_
+11	git	VBI	גיט	gyt	_
+12	ap	RP	אַפּ	Aap	_
+13	fun	P	פֿון	fvN	_
+14	eykh	PRO	אײך	AYX	_
+15	di	D	די	dy	_
+16	kleydr	N	קלײדר	klYdr	_
+17	oykh	ADV	אױך	AWX	_
+
+SENT	1834E-UKRAINE-2,44.302
+1	nu	ADV	נו	nv	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zey	PRO	זײ	zY	_
+4	fun	P	פֿון	fvN	_
+5	zikh	PRO	זיך	zyX	_
+6	arop	ADV	אַראָפּ	AarAop	_
+7	givarfin	VBN	גיװאַרפֿין	gyVAarfyN	_
+8	di	D	די	dy	_
+9	kleydr	N	קלײדר	klYdr	_
+10	biz	P	ביז	byz	_
+11-12	tsum	P~D	צום	qvM	_
+11	tsu	P	צו	qv	_
+12	m	D	מ	m	_
+13	hemd	N	העמד	hemd	_
+
+SENT	1834E-UKRAINE-2,45.303
+1	un	CONJ	און	AvN	_
+2	dr_nakh	DR+P	דר_נאַך	dr_nAaX	_
+3	habin	HVF	האַבין	hAabyN	_
+4	di	D	די	dy	_
+5	pukhzim	N	פּוכזים	pvxzyM	_
+6	zey	PRO	זײ	zY	_
+7	ali	Q	אַלי	Aaly	_
+8	der_stakhin	VBN	דער_סטאַכין	der_stAaxyN	_
+
+SENT	1834E-UKRAINE-2,45.304
+1	di	D	די	dy	_
+2	mesh	N	מעש	me$	_
+3	iz	BEF	איז	Ayz	_
+4	given	VBN	גיװען	gyVeN	_
+5	byum	H	ביום	byvM	on_day
+6	d'	H	ד'	d'	4
+7	r"h	H	ר"ה	r"h	head_month
+8	tmuz	H	טמוז	tmvz	Tamuz
+9	biz	P	ביז	byz	_
+10	neyn	NUM	נײן	nYN	_
+11	teg	N	טעג	teg	_
+12	in	P	אין	AyN	_
+13	khdsh	N	כדש	xd$	_
+
+SENT	1834E-UKRAINE-2,45.305
+1	es	ES	עס	es	_
+2	zeynn	BEF	זײנן	zYnN	_
+3	gilegin	VBN	גילעגין	gylegyN	_
+4	hrugim	N	הרוגים	hrvgyM	_
+5	vi	P	װי	Vy	_
+6	halts	N	האַלץ	hAalQ	_
+
+SENT	1834E-UKRAINE-2,45.306
+1	bkitsur	ADV	בקיצור	bkyqvr	_
+2	iz	BEF	איז	Ayz	_
+3	gikumn	VBN	גיקומן	gykvmN	_
+4	eyn	D	אײן	AYN	_
+5	terk	N	טערק	terk	_
+6	tsu	TO	צו	qv	_
+7	reytin	VB	רײטין	rYtyN	_
+8	in	P	אין	AyN	_
+9	stat	N	סטאַט	stAat	_
+10	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1834E-UKRAINE-2,45.307
+1	un	CONJ	און	AvN	_
+2	dr_tseylt	VBF	דר_צײלט	dr_qYlt	_
+3	di	D	די	dy	_
+4	ihudim	N	איהודים	AyhvdyM	_
+5	vas	C	װאַס	VAas	_
+6	in	P	אין	AyN	_
+7	stat	N	סטאַט	stAat	_
+8	zeynn	VBF	זײנן	zYnN	_
+9	az	C	אַז	Aaz	_
+10	untr	P	אונטר	Avntr	_
+11	der	D	דער	der	_
+12	stat	N	סטאַט	stAat	_
+13	ligin	VBF	ליגין	lygyN	_
+14	hrugim	N	הרוגים	hrvgyM	_
+15	vi	P	װי	Vy	_
+16	halz	N	האַלז	hAalz	_
+
+SENT	1834E-UKRAINE-2,45.308
+1	azoy	ADV	אַזױ	AazW	_
+2	habin	HVF	האַבין	hAabyN	_
+3	di	D	די	dy	_
+4	ihuidm	N	איהויִדם	AyhvyidM	_
+5	eyn	D	אײן	AYN	_
+6	etsh	N	עטש	et$	_
+7	gihaltin	VBN	גיהאַלטין	gyhAaltyN	_
+8	vi	WADV	װי	Vy	_
+9	men	PRO	מען	meN	_
+10	zal	MDF	ז"ל	z"l	_
+11	di	D	די	dy	_
+12	hrugim	N	הרוגים	hrvgyM	_
+13	khatsi	H	כאַצי	xAaqy	half
+14	tsu	P	צו	qv	_
+15	kburh	N	קבורה	kbvrh	_
+16	breyngn	VB	ברײנגן	brYngN	_
+
+SENT	1834E-UKRAINE-2,45.309
+1	bkitsur	ADV	בקיצור	bkyqvr	_
+2	di	D	די	dy	_
+3	ihudim	N	איהודים	AyhvdyM	_
+4	zeynin	BEF	זײנין	zYnyN	_
+5	gigangn	VBN	גיגאַנגן	gygAangN	_
+6	tsu	P	צו	qv	_
+7	dem	D	דעם	deM	_
+8	eltstin	N	עלטסטין	eltstyN	_
+
+SENT	1834E-UKRAINE-2,45.310
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	im	PRO	אים	AyM	_
+4	gigebin	VBN	גיגעבין	gygebyN	_
+5	finf_hundrt	NUM	פֿינפֿ_הונדרט	fynf_hvndrt	_
+6	talir	N	טאַליר	tAalyr	_
+7	az	C	אַז	Aaz	_
+8	zey	PRO	זײ	zY	_
+9	zalin	MDF	זאַלין	zAalyN	_
+10	lazin	VB	לאַזין	lAazyN	_
+11	bahaltin	VB	באַהאַלטין	bAahAaltyN	_
+12	di	D	די	dy	_
+13	ihudim	N	איהודים	AyhvdyM	_
+
+SENT	1834E-UKRAINE-2,45.311
+1	hat	HVF	האַט	hAat	_
+2	der	D	דער	der	_
+3	eltster	N	עלטסטער	eltster	_
+4	mit	P	מיט	myt	_
+5	zey	PRO	זײ	zY	_
+6	gishikt	VBN	גישיקט	gy$ykt	_
+7	tsvantsig	NUM	צװאַנציג	qVAanqyg	_
+8	ismealim	N	איסמעאַלים	AysmeAalyM	_
+
+SENT	1834E-UKRAINE-2,45.312
+1	un	CONJ	און	AvN	_
+2	tsvey	NUM	צװײ	qVY	_
+3	ihudim	N	איהודים	AyhvdyM	_
+4	habin	HVF	האַבין	hAabyN	_
+5	zikh	PRO	זיך	zyX	_
+6	farstelt	VBN	פֿאַרסטעלט	fAarstelt	_
+7	far	P	פֿאַר	fAar	_
+8	ismealim	N	איסמעאַלים	AysmeAalyM	_
+
+SENT	1834E-UKRAINE-2,45.313
+1	un	CONJ	און	AvN	_
+2	zeynin	BEF	זײנין	zYnyN	_
+3	oykh	ADV	אױך	AWX	_
+4	gigangn	VBN	גיגאַנגן	gygAangN	_
+5	mit	P	מיט	myt	_
+6	di	D	די	dy	_
+7	ismealim	N	איסמעאַלים	AysmeAalyM	_
+8	bkdi	ADV	בקדי	bkdy	_
+9	zey	PRO	זײ	zY	_
+10	zalin	MDF	זאַלין	zAalyN	_
+11	di	D	די	dy	_
+12	hrugim	N	הרוגים	hrvgyM	_
+13	zeyer	PRO$	זײער	zYer	_
+14	rekht	N	רעכט	rext	_
+15	tan	VB	טאַן	tAaN	_
+
+SENT	1834E-UKRAINE-2,45.314
+1	nu	ADV	נו	nv	_
+2	iz	BEF	איז	Ayz	_
+3	given	VBN	גיװען	gyVeN	_
+4	tsvishin	P	צװישין	qVy$yN	_
+5	di	D	די	dy	_
+6	ihudim	N	איהודים	AyhvdyM	_
+7	hrugim	N	הרוגים	hrvgyM	_
+8	eyn	D	אײן	AYN	_
+9	ashh	N	אַשה	Aa$h	_
+10	vas	C	װאַס	VAas	_
+11	zi	PRO	זי	zy	_
+12	hat	HVF	האַט	hAat	_
+13	nakh	ADV	נ"ך	n"X	_
+14	gilebt	VBN	גילעבט	gylebt	_
+
+SENT	1834E-UKRAINE-2,45.315
+1	un	CONJ	און	AvN	_
+2	zi	PRO	זי	zy	_
+3	iz	BEF	איז	Ayz	_
+4	oykh	ADV	אױך	AWX	_
+5	given	BEN	גיװען	gyVeN	_
+6	tsu_stakhin	VAN	צו_סטאַכין	qv_stAaxyN	_
+
+SENT	1834E-UKRAINE-2,45.316
+1	hat	HVF	האַט	hAat	_
+2	di	D	די	dy	_
+3	ashh	N	אַשה	Aa$h	_
+4	zey	PRO	זײ	zY	_
+5	dr_tseylt	VBN	דר_צײלט	dr_qYlt	_
+6	di	D	די	dy	_
+7	gantsi	ADJ	גאַנצי	gAanqy	_
+8	mesh	N	מעש	me$	_
+
+SENT	1834E-UKRAINE-2,45.317
+1	nu	ADV	נו	nv	_
+2	zehen	VBF	זעהען	zeheN	_
+3	mir	PRO	מיר	myr	_
+4	vi	WADV	װי	Vy	_
+5	hsi"t	H	הסי"ט	hsy"t	the_name_may_be_blessed
+6	iz	VBF	איז	Ayz	_
+7	nutn	H	נוטן	nvtN	UNKNOWN
+8	liep	H	ליִעפּ	lyiep	UNKNOWN
+9	kkh	H	קך	kX	strength
+
+SENT	1834E-UKRAINE-2,45.318
+1	di	D	די	dy	_
+2	ashh	N	אַשה	Aa$h	_
+3	iz	BEF	איז	Ayz	_
+4	shoyn	ADV	שױן	$WN	_
+5	gilegin	VBN	גילעגין	gylegyN	_
+6	tsvishin	P	צװישין	qVy$yN	_
+7	di	D	די	dy	_
+8	hrugim	N	הרוגים	hrvgyM	_
+9	drey	NUM	דרײ	drY	_
+10	tag	N	תּג	Tg	_
+
+SENT	1834E-UKRAINE-2,45.319
+1	un	CONJ	און	AvN	_
+2	zi	PRO	זי	zy	_
+3	hat	HVF	האַט	hAat	_
+4	nakh	ADV	נ"ך	n"X	_
+5	gilebt	VBN	גילעבט	gylebt	_
+
+SENT	1834E-UKRAINE-2,45.320
+1	nu	ADV	נו	nv	_
+2	habin	HVF	האַבין	hAabyN	_
+3	di	D	די	dy	_
+4	ihudim	N	איהודים	AyhvdyM	_
+5	genumn	VBN	גענומן	genvmN	_
+6	di	D	די	dy	_
+7	ashh	N	אַשה	Aa$h	_
+
+SENT	1834E-UKRAINE-2,45.321
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zi	PRO	זי	zy	_
+4	gifirt	VBN	גיפֿירט	gyfyrt	_
+5	keyn	P	קײן	kYN	_
+6	blth	N	בלטה	blth	_
+
+SENT	1834E-UKRAINE-2,45.322
+1	iz	BEF	איז	Ayz	_
+2	zi	PRO	זי	zy	_
+3	dortin	ADV	דאָרטין	dAortyN	_
+4	oykh	ADV	אױך	AWX	_
+5	gistarbin	VBN	גיסטאַרבין	gystAarbyN	_
+
+SENT	1834E-UKRAINE-2,45.323
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	ihudim	N	איהודים	AyhvdyM	_
+4	habin	HVF	האַבין	hAabyN	_
+5	zi	PRO	זי	zy	_
+6	mkbr	RP-H	מקבר	mkbr	_
+7	given	VBN	גיװען	gyVeN	_
+
+SENT	1834E-UKRAINE-2,45.324
+1	bkitsur	ADV	בקיצור	bkyqvr	_
+2	di	D	די	dy	_
+3	ihudim	N	איהודים	AyhvdyM	_
+4	vas	C	װאַס	VAas	_
+5	zeynin	BEF	זײנין	zYnyN	_
+6	antlofin	VX	אַנטלאָפֿין	AantlAofyN	_
+7	givarin	RDN	גיװאַרין	gyVAaryN	_
+8	keyn	P	קײן	kYN	_
+9	balth	NPR	באַלטה	bAalth	_
+10	habin	HVF	האַבין	hAabyN	_
+11	zey	PRO	זײ	zY	_
+12	gimeynt	VBN	גימײנט	gymYnt	_
+13	az	C	אַז	Aaz	_
+14	zey	PRO	זײ	zY	_
+15	velin	MDF	װעלין	VelyN	_
+16	nitsul	RP-H	ניצול	nyqvl	_
+17	verin	VB	װערין	VeryN	_
+18	zey	PRO	זײ	zY	_
+19	velin	MDF	װעלין	VelyN	_
+20	kenin	MD	קענין	kenyN	_
+21	antloyfin	VB	אַנטלױפֿין	AantlWfyN	_
+
+SENT	1834E-UKRAINE-2,45.325
+1	nu	ADV	נו	nv	_
+2	vi	WADV	װי	Vy	_
+3	dr	D	דר	dr	_
+4	gante	NPR	גאַנטע	gAante	_
+5	imkh	H	אימך	AymX	may_be_erased
+6	smu	H	סמו	smv	name_his
+7	hat	HVF	האַט	hAat	_
+8	gishikt	VBN	גישיקט	gy$ykt	_
+9	in	P	אין	AyN	_
+10	balth	NPR	באַלטה	bAalth	_
+11	finf_hundrt	NUM	פֿינפֿ_הונדרט	fynf_hvndrt	_
+12	man	N	מאַן	mAaN	_
+13	mit	P	מיט	myt	_
+14	harmatin	N	האַרמאַטין	hAarmAatyN	_
+
+SENT	1834E-UKRAINE-2,45.326
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	gishikt	VBN	גישיקט	gy$ykt	_
+4	mit	P	מיט	myt	_
+5	zey	PRO	זײ	zY	_
+6	eyn	D	אײן	AYN	_
+7	eltstin	N	עלטסטין	eltstyN	_
+
+SENT	1834E-UKRAINE-2,45.327
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	hat	HVF	האַט	hAat	_
+4	geheysin	VBN	געהײסין	gehYsyN	_
+5	silh	NPR	סילה	sylh	_
+6	imkh	H	אימך	AymX	may_be_erased
+7	smu	H	סמו	smv	name_his
+
+SENT	1834E-UKRAINE-2,45.328
+1	er	PRO	ער	er	_
+2	iz	BEF	איז	Ayz	_
+3	given	VBN	גיװען	gyVeN	_
+4	eyn	D	אײן	AYN	_
+5	groysr	ADJ	גרױסר	grWsr	_
+6	rse	N	רסע	rse	_
+
+SENT	1834E-UKRAINE-2,45.329
+1	nu	ADV	נו	nv	_
+2	vi	WADV	װי	Vy	_
+3	er	PRO	ער	er	_
+4	iz	BEF	איז	Ayz	_
+5	gikumn	VBN	גיקומן	gykvmN	_
+6	in	P	אין	AyN	_
+7	stat	N	סטאַט	stAat	_
+8	areyn	ADV	אַרײן	AarYN	_
+9	azoy	ADV	אַזױ	AazW	_
+10	hat	HVF	האַט	hAat	_
+11	er	PRO	ער	er	_
+12	in	P	אין	AyN	_
+13	stat	N	סטאַט	stAat	_
+14	gifresin	VBN	גיפֿרעסין	gyfresyN	_
+15	un	CONJ	און	AvN	_
+16	gizoyfin	VBN	גיזױפֿין	gyzWfyN	_
+17	khaut	H	כאַוט	xAavt	UNKNOWN
+18	nfsu	H	נפֿסו	nfsv	souls
+
+SENT	1834E-UKRAINE-2,45.330
+1	nu	ADV	נו	nv	_
+2	hat	HVF	האַט	hAat	_
+3	dr	D	דר	dr	_
+4	silh	N	סילה	sylh	_
+5	gishikt	VBN	גישיקט	gy$ykt	_
+6	eyn	D	אײן	AYN	_
+7	eltstin	N	עלטסטין	eltstyN	_
+8	mit	P	מיט	myt	_
+9	fir	NUM	פֿיר	fyr	_
+10	man	N	מאַן	mAaN	_
+11	zey	PRO	זײ	zY	_
+12	zalin	MDF	זאַלין	zAalyN	_
+13	zehn	VB	זעהן	zehN	_
+14	vas	WPRO	װאַס	VAas	_
+15	far	P	פֿאַר	fAar	_
+16	leyt	N	לײט	lYt	_
+17	das	D	דת	dS	_
+18	iz	VBF	איז	Ayz	_
+19	in	P	אין	AyN	_
+20	stat	N	סטאַט	stAat	_
+
+SENT	1834E-UKRAINE-2,45.331
+1	un	CONJ	און	AvN	_
+2	das	D	דת	dS	_
+3	iz	BEF	איז	Ayz	_
+4	given	VBN	גיװען	gyVeN	_
+5	bium	H	ביִום	byivM	on_day
+6	g'	H	ג'	g'	3
+7	far	P	פֿאַר	fAar	_
+8	nakht	N	נאַכט	nAaxt	_
+
+SENT	1834E-UKRAINE-2,45.332
+1	bautu	H	באַוטו	bAavtv	at_same
+2	fem	H	פֿעם	feM	time
+3	habin	HVF	האַבין	hAabyN	_
+4	di	D	די	dy	_
+5	pukhzim	N	פּוכזים	pvxzyM	_
+6	gikhapt	VBN	גיכאַפּט	gyxAapt	_
+7	tsvey	NUM	צװײ	qVY	_
+8	bkhurim	N	בכורים	bxvryM	_
+
+SENT	1834E-UKRAINE-2,45.333
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zey	PRO	זײ	zY	_
+4	givalt	MDN	גיװאַלט	gyVAalt	_
+5	um	RP	אום	AvM	_
+6	breyngn	VB	ברײנגן	brYngN	_
+
+SENT	1834E-UKRAINE-2,45.334
+1	azoy	ADV	אַזױ	AazW	_
+2	hat	HVF	האַט	hAat	_
+3	dr	D	דר	dr	_
+4	eltstir	N	עלטסטיר	eltstyr	_
+5	fun	P	פֿון	fvN	_
+6	der	D	דער	der	_
+7	stat	N	סטאַט	stAat	_
+8	zey	PRO	זײ	zY	_
+9	gigebn	VBN	גיגעבן	gygebN	_
+10	gelt	N	געלט	gelt	_
+11	az	C	אַז	Aaz	_
+12	zey	PRO	זײ	zY	_
+13	zalin	MDF	זאַלין	zAalyN	_
+14	nit	NEG	ניט	nyt	_
+15	um	RP	אום	AvM	_
+16	breyngn	VB	ברײנגן	brYngN	_
+17	di	D	די	dy	_
+18	bkhurim	N	בכורים	bxvryM	_
+
+SENT	1834E-UKRAINE-2,45.335
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	di	D	די	dy	_
+4	tsvey	NUM	צװײ	qVY	_
+5	bkhurim	N	בכורים	bxvryM	_
+6	avek	RP-ADV	אַװעק	AaVek	_
+7	gifirt	VBN	גיפֿירט	gyfyrt	_
+8	oyf	P	אױף	AWF	_
+9	zeyn	PRO$	זײן	zYN	_
+10	grenits	N	גרעניץ	grenyQ	_
+
+SENT	1834E-UKRAINE-2,45.336
+1	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+2	hat	HVF	האַט	hAat	_
+3	der	D	דער	der	_
+4	eltstr	N	עלטסטר	eltstr	_
+5	fun	P	פֿון	fvN	_
+6	der	D	דער	der	_
+7	stat	N	סטאַט	stAat	_
+8	gifregt	VBN	גיפֿרעגט	gyfregt	_
+9	di	D	די	dy	_
+10	pukhzim	N	פּוכזים	pvxzyM	_
+11	ver	WPRO	װער	Ver	_
+12	hat	HVF	האַט	hAat	_
+13	zey	PRO	זײ	zY	_
+14	gishikt	VBN	גישיקט	gy$ykt	_
+15	aher	ADV	אַהער	Aaher	_
+
+SENT	1834E-UKRAINE-2,45.337
+1	azoy	ADV	אַזױ	AazW	_
+2	habin	HVF	האַבין	hAabyN	_
+3	gientfert	VBN	גיִענטפֿערט	gyientfert	_
+4	di	D	די	dy	_
+5	pukhzim	N	פּוכזים	pvxzyM	_
+6	az	C	אַז	Aaz	_
+7	men	PRO	מען	meN	_
+8	zal	MDF	ז"ל	z"l	_
+9	nit	NEG	ניט	nyt	_
+10	lazin	VB	לאַזין	lAazyN	_
+11	keyn	Q	קײן	kYN	_
+12	ihudi	N	איהודי	Ayhvdy	_
+13	un	CONJ	און	AvN	_
+14	keyn	Q	קײן	kYN	_
+15	sum	Q	סום	svM	_
+16	palak	N	פּאַלאַק	pAalAak	_
+17	in	P	אין	AyN	_
+18	mdinh	N	מדינה	mdynh	_
+19	pulin	NPR	פּולין	pvlyN	_
+20	habin	HVF	האַבין	hAabyN	_
+21	zey	PRO	זײ	zY	_
+22	unz	PRO	אונז	Avnz	_
+23	gishikt	VBN	גישיקט	gy$ykt	_
+24	a_her	ADV	אַ_הער	Aa_her	_
+25	az	C	אַז	Aaz	_
+26	ir	PRO	איר	Ayr	_
+27	zalt	MDF	זאַלט	zAalt	_
+28	aroys	ADV	אַרױס	AarWs	_
+29	gebin	VB	געבין	gebyN	_
+30	di	D	די	dy	_
+31	ihudim	N	איהודים	AyhvdyM	_
+32	un	CONJ	און	AvN	_
+33	di	D	די	dy	_
+34	erlim	N	ערלים	erlyM	_
+35	az	C	אַז	Aaz	_
+36	mir	PRO	מיר	myr	_
+37	zalin	MDF	זאַלין	zAalyN	_
+38	ali	Q	אַלי	Aaly	_
+39	um	RP	אום	AvM	_
+40	breyngin	VB	ברײנגין	brYngyN	_
+
+SENT	1834E-UKRAINE-2,45.338
+1	azoy	ADV	אַזױ	AazW	_
+2	hot	HVF	האָט	hAot	_
+3	der	D	דער	der	_
+4	eltstr	N	עלטסטר	eltstr	_
+5	gizogt	VBN	גיזאָגט	gyzAogt	_
+6	ikh	PRO	איך	AyX	_
+7	vel	MDF	װעל	Vel	_
+8	oykh	PRO	אױך	AWX	_
+9	nit	NEG	ניט	nyt	_
+10	aroys	ADV	אַרױס	AarWs	_
+11	gebin	VB	געבין	gebyN	_
+
+SENT	1834E-UKRAINE-2,45.339
+1	ikh	PRO	איך	AyX	_
+2	ken	MDF	קען	keN	_
+3	das	D	דת	dS	_
+4	nit	NEG	ניט	nyt	_
+5	tan	VB	טאַן	tAaN	_
+6	on	P	אָן	AoN	_
+7	dem	D	דעם	deM	_
+8	tugr	N	טוגר	tvgr	_
+9	zeyn	PRO$	זײן	zYN	_
+10	idieh	N	אידיִעה	Aydyieh	_
+
+SENT	1834E-UKRAINE-2,45.340
+1	mir	PRO	מיר	myr	_
+2	velin	MDF	װעלין	VelyN	_
+3	oykh	ADV	אױך	AWX	_
+4	nit	NEG	ניט	nyt	_
+5	aroys	ADV	אַרױס	AarWs	_
+6	gebin	VB	געבין	gebyN	_
+7	afilu	FP	אַפֿילו	Aafylv	_
+8	eyn	D	אײן	AYN	_
+9	man	N	מאַן	mAaN	_
+10	oykh	ADV	אױך	AWX	_
+11	nit	NEG	ניט	nyt	_
+
+SENT	1834E-UKRAINE-2,46.341
+1	vorum	CONJ	װאָרום	VAorvM	_
+2	az	C	אַז	Aaz	_
+3	ir	PRO	איר	Ayr	_
+4	zogt	VBF	זאָגט	zAogt	_
+5	anders	ADV	אַנדערס	Aanders	_
+6	ir	PRO	איר	Ayr	_
+7	zeyt	VBF	זײט	zYt	_
+8	dos	D	דאָס	dAos	_
+9	khil	N	כיל	xyl	_
+10	fun	P	פֿון	fvN	_
+11	hoypt_man	N	הױפּט_מאַן	hWpt_mAaN	_
+12	vi	WADV	װי	Vy	_
+13	kent	MDF	קענט	kent	_
+14	ir	PRO	איר	Ayr	_
+15	kumn	VB	קומן	kvmN	_
+16	in	P	אין	AyN	_
+17	unzr	PRO$	אונזר	Avnzr	_
+18	grenits	N	גרעניץ	grenyQ	_
+
+SENT	1834E-UKRAINE-2,46.342
+1	den	CONJ	דען	deN	_
+2	es	ES	עס	es	_
+3	steyt	VBF	סטײט	stYt	_
+4	in	P	אין	AyN	_
+5	unzr	PRO$	אונזר	Avnzr	_
+6	prave	N	פּראַװע	prAaVe	_
+7	far_shribin	ADJ	פֿאַר_שריבין	fAar_$rybyN	_
+8	az	C	אַז	Aaz	_
+9	ir	PRO	איר	Ayr	_
+10	tart	MDF	טאַרט	tAart	_
+11	nit	NEG	ניט	nyt	_
+12	kumn	VB	קומן	kvmN	_
+13	in	P	אין	AyN	_
+14	unzr	PRO$	אונזר	Avnzr	_
+15	grenits	N	גרעניץ	grenyQ	_
+16	zeks	NUM	זעקס	zeks	_
+17	meyl	N	מײל	mYl	_
+
+SENT	1834E-UKRAINE-2,46.343
+1	azoy	ADV	אַזױ	AazW	_
+2	hobin	HVF	האָבין	hAobyN	_
+3	di	D	די	dy	_
+4	pukhzim	N	פּוכזים	pvxzyM	_
+5	gishvigin	VBN	גישװיגין	gy$VygyN	_
+
+SENT	1834E-UKRAINE-2,46.344
+1	zey	PRO	זײ	zY	_
+2	hobin	HVF	האָבין	hAobyN	_
+3	nor	FP	נאָר	nAor	_
+4	alts	ADV	אַלץ	AalQ	_
+5	gitrakht	VBN	גיטראַכט	gytrAaxt	_
+6	di	D	די	dy	_
+7	ihudim	N	איהודים	AyhvdyM	_
+8	aroys	ADV	אַרױס	AarWs	_
+9	tsu	TO	צו	qv	_
+10	bakumn	VB	באַקומן	bAakvmN	_
+11	oyf	P	אױף	AWF	_
+12	yener	D	יענער	yener	_
+13	zeyt	N	זײט	zYt	_
+
+SENT	1834E-UKRAINE-2,46.345
+1	nu	ADV	נו	nv	_
+2	zeynin	BEF	זײנין	zYnyN	_
+3	di	D	די	dy	_
+4	pukhzim	N	פּוכזים	pvxzyM	_
+5	gizesin	VBN	גיזעסין	gyzesyN	_
+6	in	P	אין	AyN	_
+7	stat	N	סטאַט	stAat	_
+8	drey	NUM	דרײ	drY	_
+9	tag	N	תּג	Tg	_
+
+SENT	1834E-UKRAINE-2,46.346
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	di	D	די	dy	_
+4	ihudim	N	איהודים	AyhvdyM	_
+5	gar	ADV	גאַר	gAar	_
+6	nit	Q	ניט	nyt	_
+7	gitan	VBN	גיטאַן	gytAaN	_
+
+SENT	1834E-UKRAINE-2,46.347
+1	nu	ADV	נו	nv	_
+2	der	D	דער	der	_
+3	hoypt_man	N	הױפּט_מאַן	hWpt_mAaN	_
+4	fun	P	פֿון	fvN	_
+5	der	D	דער	der	_
+6	stot	N	סטאָט	stAot	_
+7	zogt	VBF	זאָגט	zAogt	_
+8	alts	ADV	אַלץ	AalQ	_
+9	tsu	P	צו	qv	_
+10	di	D	די	dy	_
+11	ihudim	N	איהודים	AyhvdyM	_
+12	forkht	VBI	פֿאָרכט	fAorxt	_
+13	oykh	PRO	אױך	AWX	_
+14	nit	NEG	ניט	nyt	_
+
+SENT	1834E-UKRAINE-2,46.348
+1	den	CONJ	דען	deN	_
+2	der	D	דער	der	_
+3	tater	N	טאַטער	tAater	_
+4	kumt	VBF	קומט	kvmt	_
+5	an	RP	אַן	AaN	_
+6	eykh	PRO	אײך	AYX	_
+7	helfin	VB	העלפֿין	helfyN	_
+
+SENT	1834E-UKRAINE-2,46.349
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	hoypt_man	N	הױפּט_מאַן	hWpt_mAaN	_
+4	hat	HVF	האַט	hAat	_
+5	ginumen	VBN	גינומען	gynvmeN	_
+6	baey	P	באַײ	bAaY	_
+7	di	D	די	dy	_
+8	ihudim	N	איהודים	AyhvdyM	_
+9	groysi	ADJ	גרױסי	grWsy	_
+10	mtnut	N	מטנוט	mtnvt	_
+
+SENT	1834E-UKRAINE-2,46.350
+1	un	CONJ	און	AvN	_
+2	baey	P	באַײ	bAaY	_
+3	di	D	די	dy	_
+4	pukhzim	N	פּוכזים	pvxzyM	_
+5	hat	HVF	האַט	hAat	_
+6	er	PRO	ער	er	_
+7	oykh	ADV	אױך	AWX	_
+8	ginumen	VBN	גינומען	gynvmeN	_
+9	groysi	ADJ	גרױסי	grWsy	_
+10	mtnut	N	מטנוט	mtnvt	_
+
+SENT	1834E-UKRAINE-2,46.351
+1	nu	ADV	נו	nv	_
+2	zeynin	BEF	זײנין	zYnyN	_
+3	di	D	די	dy	_
+4	ihudim	N	איהודים	AyhvdyM	_
+5	nebikh	INTJ	נעביך	nebyX	_
+6	mbulbl	RP-H	מבולבל	mbvlbl	_
+7	givarin	VBN	גיװאַרין	gyVAaryN	_
+
+SENT	1834E-UKRAINE-2,46.352
+1	zey	PRO	זײ	zY	_
+2	habin	HVF	האַבין	hAabyN	_
+3	gizehn	VBN	גיזעהן	gyzehN	_
+4	basheynferlikh	ADV	באַשײנפֿערליך	bAa$YnferlyX	_
+5	vi	C	װי	Vy	_
+6	hsm	H	הסם	hsM	the_name
+7	itbrkh	H	איטברך	AytbrX	may_be_blessed
+8	hat	HVF	האַט	hAat	_
+9	gitan	DON	גיטאַן	gytAaN	_
+10	zey	PRO	זײ	zY	_
+11	strafin	VB	סטראַפֿין	strAafyN	_
+12	ven	C	װען	VeN	_
+13	zey	PRO	זײ	zY	_
+14	zeynin	BEF	זײנין	zYnyN	_
+15	gistanin	VBN	גיסטאַנין	gystAanyN	_
+16	drey	NUM	דרײ	drY	_
+17	teg	N	טעג	teg	_
+18	mit	P	מיט	myt	_
+19	di	D	די	dy	_
+20	sunaim	N	סונאַיִם	svnAayiM	_
+
+SENT	1834E-UKRAINE-2,46.353
+1	un	CONJ	און	AvN	_
+2	zey	PRO	זײ	zY	_
+3	gin	VBF	גין	gyN	_
+4	nit	NEG	ניט	nyt	_
+5	antlofin	VB	אַנטלאָפֿין	AantlAofyN	_
+
+SENT	1834E-UKRAINE-2,46.354
+1	byum	H	ביום	byvM	on_day
+2	h'	H	ה'	h'	5
+3	iz	BEF	איז	Ayz	_
+4	an	RP	אַן	AaN	_
+5	gikumn	VBN	גיקומן	gykvmN	_
+6	der	D	דער	der	_
+7	tatr	N	טאַטר	tAatr	_
+8	in	P	אין	AyN	_
+9	stat	N	סטאַט	stAat	_
+10	mit	P	מיט	myt	_
+11	akhtsig	NUM	אַכציג	Aaxqyg	_
+12	man	N	מאַן	mAaN	_
+13	tsu	TO	צו	qv	_
+14	reytin	VB	רײטין	rYtyN	_
+
+SENT	1834E-UKRAINE-2,46.355
+1	nu	ADV	נו	nv	_
+2	vi	WADV	װי	Vy	_
+3	di	D	די	dy	_
+4	pukhzim	N	פּוכזים	pvxzyM	_
+5	habin	HVF	האַבין	hAabyN	_
+6	derzehen	VBN	דערזעהען	derzeheN	_
+7	az	C	אַז	Aaz	_
+8	der	D	דער	der	_
+9	tatr	N	טאַטר	tAatr	_
+10	kumt	VBF	קומט	kvmt	_
+11	an	RP	אַן	AaN	_
+12	azoy	ADV	אַזױ	AazW	_
+13	habin	VBF	האַבין	hAabyN	_
+14	di	D	די	dy	_
+15	pukhzim	N	פּוכזים	pvxzyM	_
+16	eyner	PRO	אײנער	AYner	_
+17	tsu	P	צו	qv	_
+18	dem	D	דעם	deM	_
+19	andrn	ADJ	אַנדרן	AandrN	_
+20	tsu	TO	צו	qv	_
+21	reydin	VB	רײדין	rYdyN	_
+22	nit	NEG	ניט	nyt	_
+23	andrs	ADV	אַנדרס	Aandrs	_
+24	az	P	אַז	Aaz	_
+25	der	D	דער	der	_
+26	tatr	N	טאַטר	tAatr	_
+27	vil	MDF	װיל	Vyl	_
+28	mit	P	מיט	myt	_
+29	unz	PRO	אונז	Avnz	_
+30	streytin	VB	סטרײטין	strYtyN	_
+
+SENT	1834E-UKRAINE-2,46.356
+1	azoy	ADV	אַזױ	AazW	_
+2	zeynin	BEF	זײנין	zYnyN	_
+3	di	D	די	dy	_
+4	pukhzim	N	פּוכזים	pvxzyM	_
+5	gikumn	VBN	גיקומן	gykvmN	_
+6	tsu	P	צו	qv	_
+7	zeyer	PRO$	זײער	zYer	_
+8	eltstin	N	עלטסטין	eltstyN	_
+
+SENT	1834E-UKRAINE-2,46.357
+1	un	CONJ	און	AvN	_
+2	hobin	HVF	האָבין	hAobyN	_
+3	gibetin	VBN	גיבעטין	gybetyN	_
+
+SENT	1834E-UKRAINE-2,46.358
+1-2	lomir	VBI~PRO	לאָמיר	lAomyr	_
+1	lo	VBI	לאָ	lAo	_
+2	mir	PRO	מיר	myr	_
+3	avek	RP-ADV	אַװעק	AaVek	_
+4	reytin	VB	רײטין	rYtyN	_
+5	fun	P	פֿון	fvN	_
+6	der	D	דער	der	_
+7	stat	N	סטאַט	stAat	_
+
+SENT	1834E-UKRAINE-2,46.359
+1	nu	ADV	נו	nv	_
+2	azoy	ADV	אַזױ	AazW	_
+3	vi	WADV	װי	Vy	_
+4	di	D	די	dy	_
+5	pukhzim	N	פּוכזים	pvxzyM	_
+6	zeynin	BEF	זײנין	zYnyN	_
+7	aroys	ADV	אַרױס	AarWs	_
+8	gifarin	VBN	גיפֿאַרין	gyfAaryN	_
+9	fun	P	פֿון	fvN	_
+10	der	D	דער	der	_
+11	stat	N	סטאַט	stAat	_
+12	azoy	ADV	אַזױ	AazW	_
+13	zeynin	BEF	זײנין	zYnyN	_
+14	zey	PRO	זײ	zY	_
+15	gilofin	VBN	גילאָפֿין	gylAofyN	_
+16	men	PRO	מען	meN	_
+17	hat	HVF	האַט	hAat	_
+18	zey	PRO	זײ	zY	_
+19	nit	NEG	ניט	nyt	_
+20	gikent	MDN	גיקענט	gykent	_
+21	mit	P	מיט	myt	_
+22	dem	D	דעם	deM	_
+23	oyg	N	אױג	AWg	_
+24	derzehn	VB	דערזעהן	derzehN	_
+
+SENT	1834E-UKRAINE-2,46.360
+1	azoy	ADV	אַזױ	AazW	_
+2	habin	HVF	האַבין	hAabyN	_
+3	di	D	די	dy	_
+4	ismealim	N	איסמעאַלים	AysmeAalyM	_
+5	an	RP	אַן	AaN	_
+6	gihoybin	VBN	גיהױבין	gyhWbyN	_
+7	in	P	אין	AyN	_
+8	der	D	דער	der	_
+9	poylisher	ADJ	פּױלישער	pWly$er	_
+10	stat	N	סטאַט	stAat	_
+11	areyn	ADV	אַרײן	AarYN	_
+12	geyn	VB	גײן	gYN	_
+
+SENT	1834E-UKRAINE-2,46.361
+1	nu	ADV	נו	nv	_
+2	zeynin	BEF	זײנין	zYnyN	_
+3	di	D	די	dy	_
+4	ismealim	N	איסמעאַלים	AysmeAalyM	_
+5	plutsling	ADV	פּלוצלינג	plvqlyng	_
+6	oyf	P	אױף	AWF	_
+7	di	D	די	dy	_
+8	erlim	N	ערלים	erlyM	_
+9	gikumn	VBN	גיקומן	gykvmN	_
+
+SENT	1834E-UKRAINE-2,46.362
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	mit	P	מיט	myt	_
+4	zeyeri	PRO$	זײערי	zYery	_
+5	meser	N	מעסער	meser	_
+6	etlikhi	Q	עטליכי	etlyxy	_
+7	erlim	N	ערלים	erlyM	_
+8	di	D	די	dy	_
+9	kep	N	קעפּ	kep	_
+10	arop	ADV	אַראָפּ	AarAop	_
+11	ginumen	VBN	גינומען	gynvmeN	_
+
+SENT	1834E-UKRAINE-2,46.363
+1	nu	ADV	נו	nv	_
+2	zeynin	BEF	זײנין	zYnyN	_
+3	di	D	די	dy	_
+4	ibrige	ADJ	איבריגע	Aybryge	_
+5	erlim	N	ערלים	erlyM	_
+6	gilafin	VBN	גילאַפֿין	gylAafyN	_
+7	tsu	P	צו	qv	_
+8	di	D	די	dy	_
+9	pukhzim	N	פּוכזים	pvxzyM	_
+
+SENT	1834E-UKRAINE-2,46.364
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zey	PRO	זײ	zY	_
+4	tsu	TO	צו	qv	_
+5	visn	VB	װיסן	VysN	_
+6	gitan	VBN	גיטאַן	gytAaN	_
+7	az	C	אַז	Aaz	_
+8	di	D	די	dy	_
+9	ismealim	N	איסמעאַלים	AysmeAalyM	_
+10	kenin	VBF	קענין	kenyN	_
+11	areyn	ADV	אַרײן	AarYN	_
+12	in	P	אין	AyN	_
+13	der	D	דער	der	_
+14	mdinh	N	מדינה	mdynh	_
+15	pulin	NPR	פּולין	pvlyN	_
+
+SENT	1834E-UKRAINE-2,46.365
+1	nu	ADV	נו	nv	_
+2	hat	HVF	האַט	hAat	_
+3	das	D	דת	dS	_
+4	zeyer	ADV	זײער	zYer	_
+5	fr_drasin	VBN	פֿר_דראַסין	fr_drAasyN	_
+6	di	D	די	dy	_
+7	pukhzim	N	פּוכזים	pvxzyM	_
+
+SENT	1834E-UKRAINE-2,46.366
+1	azoy	ADV	אַזױ	AazW	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zikh	PRO	זיך	zyX	_
+4	di	D	די	dy	_
+5	pukhzim	N	פּוכזים	pvxzyM	_
+6	an	RP	אַן	AaN	_
+7	gihoybin	VBN	גיהױבין	gyhWbyN	_
+8	um	RP	אום	AvM	_
+9	tsu	TO	צו	qv	_
+10	kerin	VB	קערין	keryN	_
+
+SENT	1834E-UKRAINE-2,46.367
+1	mit	P	מיט	myt	_
+2	groys	ADJ	גרױס	grWs	_
+3	sturim	N	סטורים	stvryM	_
+4	in	P	אין	AyN	_
+5	kli	H	קלי	kly	tools
+6	zin	H	זין	zyN	UNKNOWN
+7	zeynin	BEF	זײנין	zYnyN	_
+8	zey	PRO	זײ	zY	_
+9	gigangn	VBN	גיגאַנגן	gygAangN	_
+10	tsu	P	צו	qv	_
+11	di	D	די	dy	_
+12	ismealim	N	איסמעאַלים	AysmeAalyM	_
+13	mit	P	מיט	myt	_
+14	zey	PRO	זײ	zY	_
+15	mlkhmh	N	מלכמה	mlxmh	_
+16	haltin	VB	האַלטין	hAaltyN	_
+17	un	CONJ	און	AvN	_
+18	aroys	ADV	אַרױס	AarWs	_
+19	treybin	VB	טרײבין	trYbyN	_
+20	di	D	די	dy	_
+21	ismealim	N	איסמעאַלים	AysmeAalyM	_
+22	fun	P	פֿון	fvN	_
+23	dr	D	דר	dr	_
+24	mdinh	N	מדינה	mdynh	_
+
+SENT	1834E-UKRAINE-2,46.368
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	pukhzim	N	פּוכזים	pvxzyM	_
+4	habin	HVF	האַבין	hAabyN	_
+5	gigebin	VBN	גיגעבין	gygebyN	_
+6	harmatin	N	האַרמאַטין	hAarmAatyN	_
+7	tsu	TO	צו	qv	_
+8	shisn	VB	שיסן	$ysN	_
+9	di	D	די	dy	_
+10	ihudim	N	איהודים	AyhvdyM	_
+
+SENT	1834E-UKRAINE-2,46.369
+1	bkitsur	ADV	בקיצור	bkyqvr	_
+2	di	D	די	dy	_
+3	pukhzim	N	פּוכזים	pvxzyM	_
+4	habin	HVF	האַבין	hAabyN	_
+5	mlkhmh	N	מלכמה	mlxmh	_
+6	gihaltin	VBN	גיהאַלטין	gyhAaltyN	_
+7	mit	P	מיט	myt	_
+8	di	D	די	dy	_
+9	ismealim	N	איסמעאַלים	AysmeAalyM	_
+10	biz	P	ביז	byz	_
+11	halbin	ADJ	האַלבין	hAalbyN	_
+12	tag	N	תּג	Tg	_
+
+SENT	1834E-UKRAINE-2,46.370
+1	der_veyl	ADV	דער_װײל	der_VYl	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zikh	PRO	זיך	zyX	_
+4	ginumin	VBN	גינומין	gynvmyN	_
+5	di	D	די	dy	_
+6	ihudim	N	איהודים	AyhvdyM	_
+7	in	P	אין	AyN	_
+8	{der}	D	{דער}	{der}	_
+9	deh	N	דעה	deh	_
+10	areyn	ADV	אַרײן	AarYN	_
+11	az	C	אַז	Aaz	_
+12	zey	PRO	זײ	zY	_
+13	zalin	MDF	זאַלין	zAalyN	_
+14	avek	RP-ADV	אַװעק	AaVek	_
+15	yagin	VB	יאַגין	yAagyN	_
+16	fun	P	פֿון	fvN	_
+17	danin	ADV	דאַנין	dAanyN	_
+
+SENT	1834E-UKRAINE-2,46.371
+1	aber	CONJ	אַבער	Aaber	_
+2	di	D	די	dy	_
+3	ihudim	N	איהודים	AyhvdyM	_
+4	vas	C	װאַס	VAas	_
+5	habin	HVF	האַבין	hAabyN	_
+6	gihat	VBN	גיהאַט	gyhAat	_
+7	eyn	D	אײן	AYN	_
+8	smikhh	N	סמיכה	smyxh	_
+9	oyf	P	אױף	AWF	_
+10	di	D	די	dy	_
+11	ismealim	N	איסמעאַלים	AysmeAalyM	_
+12	zenin	BEF	זענין	zenyN	_
+13	zey	PRO	זײ	zY	_
+14	in	P	אין	AyN	_
+15	stat	N	סטאַט	stAat	_
+16-17	ibrgiblibin	RP~VBN	איברגיבליבין	AybrgyblybyN	_
+16	ibr	RP	איבר	Aybr	_
+17	giblibin	VBN	גיבליבין	gyblybyN	_
+
+SENT	1834E-UKRAINE-2,46.372
+1	nu	ADV	נו	nv	_
+2	zeynin	BEF	זײנין	zYnyN	_
+3	nebikh	INTJ	נעביך	nebyX	_
+4	ali	Q	אַלי	Aaly	_
+5	ihudim	N	איהודים	AyhvdyM	_
+6	um	RP	אום	AvM	_
+7	gibrakht	VAN	גיבראַכט	gybrAaxt	_
+8	givarin	RDN	גיװאַרין	gyVAaryN	_
+
+SENT	1834E-UKRAINE-2,46.373
+1	di	D	די	dy	_
+2	ihudim	N	איהודים	AyhvdyM	_
+3	vas	C	װאַס	VAas	_
+4	zeynin	BEF	זײנין	zYnyN	_
+5	antlafin	VX	אַנטלאַפֿין	AantlAafyN	_
+6	givarin	RDN	גיװאַרין	gyVAaryN	_
+7	zeynin	BEF	זײנין	zYnyN	_
+8	gifalin	VBN	גיפֿאַלין	gyfAalyN	_
+9	tsu	P	צו	qv	_
+10	dem	D	דעם	deM	_
+11	tatir	N	טאַטיר	tAatyr	_
+12	in	P	אין	AyN	_
+13	di	D	די	dy	_
+14	hent	N	הענט	hent	_
+15	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1834E-UKRAINE-2,46.374
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	tatir	N	טאַטיר	tAatyr	_
+4	hat	HVF	האַט	hAat	_
+5	zi	PRO	זי	zy	_
+6	nebikh	INTJ	נעביך	nebyX	_
+7	gihrgt	VBN	גיהרגט	gyhrgt	_
+8	vi	P	װי	Vy	_
+9	di	D	די	dy	_
+10	shaf	N	שאַף	$AaF	_
+
+SENT	1834E-UKRAINE-2,47.375
+1	es	ES	עס	es	_
+2	zenin	BEF	זענין	zenyN	_
+3	fil	Q	פֿיל	fyl	_
+4	farlarin	VAN	פֿאַרלאַרין	fAarlAaryN	_
+5	givarin	RDN	גיװאַרין	gyVAaryN	_
+6	mit	P	מיט	myt	_
+7	veyb	N	װײב	VYb	_
+8	un	CONJ	און	AvN	_
+9	kindr	N	קינדר	kyndr	_
+
+SENT	1834E-UKRAINE-2,47.376
+1	a	D	אַ	Aa	_
+2	teyl	N	טײל	tYl	_
+3	zeynin	BEF	זײנין	zYnyN	_
+4	antrunin	VX	אַנטרונין	AantrvnyN	_
+5	givarin	RDN	גיװאַרין	gyVAaryN	_
+6	mit	P	מיט	myt	_
+7	di	D	די	dy	_
+8	npsut	N	נפּסוט	npsvt	_
+
+SENT	1834E-UKRAINE-2,47.377
+1	un	CONJ	און	AvN	_
+2	zeyer	PRO$	זײער	zYer	_
+3	hab	N	האַב	hAab	_
+4	un	CONJ	און	AvN	_
+5	guts	N	גוטס	gvts	_
+6	iz	BEF	איז	Ayz	_
+7	oys	RP	אױס	AWs	_
+8	gibrakht	VAN	גיבראַכט	gybrAaxt	_
+9	givarin	RDN	גיװאַרין	gyVAaryN	_
+
+SENT	1834E-UKRAINE-2,47.378
+1	nu	ADV	נו	nv	_
+2	vi	WADV	װי	Vy	_
+3	zal	MDF	ז"ל	z"l	_
+4	men	PRO	מען	meN	_
+5	oyf	P	אױף	AWF	_
+6	der	D	דער	der	_
+7	zakh	N	זאַך	zAaX	_
+8	nit	NEG	ניט	nyt	_
+9	veynin	VB	װײנין	VYnyN	_
+10	un	CONJ	און	AvN	_
+11	shreyen	VB	שרײען	$rYeN	_
+12	vi	C	װי	Vy	_
+13	di	D	די	dy	_
+14	ihudim	N	איהודים	AyhvdyM	_
+15	zeynin	BEF	זײנין	zYnyN	_
+16	varin	RDN	װאַרין	VAaryN	_
+17	fr_tribin	VAN	פֿר_טריבין	fr_trybyN	_
+18	in	P	אין	AyN	_
+19	eyn	D	אײן	AYN	_
+20	fremdi	ADJ	פֿרעמדי	fremdy	_
+21	mdinh	N	מדינה	mdynh	_
+22	un	CONJ	און	AvN	_
+23	keynr	Q	קײנר	kYnr	_
+24	hat	HVF	האַט	hAat	_
+25	ibr	P	איבר	Aybr	_
+26	zey	PRO	זײ	zY	_
+27	nit	NEG	ניט	nyt	_
+28	keyn	Q	קײן	kYN	_
+29	rkhmnut	N	רכמנוט	rxmnvt	_
+30	gihat	VBN	גיהאַט	gyhAat	_
+
+SENT	1834E-UKRAINE-2,47.379
+1	obr	ADV	אָבר	Aobr	_
+2	dos	D	דאָס	dAos	_
+3	iz	BEF	איז	Ayz	_
+4	alts	Q	אַלץ	AalQ	_
+5	given	VBN	גיװען	gyVeN	_
+6	veyl	C	װײל	VYl	_
+7	mir	PRO	מיר	myr	_
+8	habin	HVF	האַבין	hAabyN	_
+9	an	P	אַן	AaN	_
+10	gat	NPR	גאַט	gAat	_
+11	brukh	H	ברוך	brvX	blessed
+12	hu	H	הו	hv	he
+13	fargesin	VBN	פֿאַרגעסין	fAargesyN	_
+
+SENT	1834E-UKRAINE-2,47.380
+1	drum	DR+P	דרום	drvM	_
+2	zeynin	BEF	זײנין	zYnyN	_
+3	azoy	ADV	אַזױ	AazW	_
+4	fil	Q	פֿיל	fyl	_
+5	ihudim	N	איהודים	AyhvdyM	_
+6	um	RP	אום	AvM	_
+7	gikumn	VBN	גיקומן	gykvmN	_
+
+SENT	1834E-UKRAINE-2,47.381
+1	ikh	PRO	איך	AyX	_
+2	ken	MDF	קען	keN	_
+3	oykh	PRO	אױך	AWX	_
+4	azoy	ADV	אַזױ	AazW	_
+5	fil	Q	פֿיל	fyl	_
+6	nit	NEG	ניט	nyt	_
+7	shreybin	VB	שרײבין	$rYbyN	_
+8	vi	WADV	װי	Vy	_
+9	di	D	די	dy	_
+10	habin	HVF	האַבין	hAabyN	_
+11	nebikh	INTJ	נעביך	nebyX	_
+12	oyf	P	אױף	AWF	_
+13	zikh	PRO	זיך	zyX	_
+14	gihat	VBN	גיהאַט	gyhAat	_
+15	groysi	ADJ	גרױסי	grWsy	_
+16	tsurt	N	צורט	qvrt	_
+17	vas	C	װאַס	VAas	_
+18	men	PRO	מען	meN	_
+19	hat	HVF	האַט	hAat	_
+20	zey	PRO	זײ	zY	_
+21	gitan	DON	גיטאַן	gytAaN	_
+22	slagin	VB	סלאַגין	slAagyN	_
+
+SENT	1834E-UKRAINE-2,47.382
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	ihudim	N	איהודים	AyhvdyM	_
+4	vas	C	װאַס	VAas	_
+5	zeynin	BEF	זײנין	zYnyN	_
+6	antlafin	VX	אַנטלאַפֿין	AantlAafyN	_
+7	givarin	RDN	גיװאַרין	gyVAaryN	_
+8	larts	H	לאַרץ	lAarQ	to_land
+9	ismealim	H	איסמעאַלים	AysmeAalyM	Ishmaelites
+10	zeynin	BEF	זײנין	zYnyN	_
+11	zey	PRO	זײ	zY	_
+12	gikumn	VBN	גיקומן	gykvmN	_
+13	keyn	P	קײן	kYN	_
+14	bender	NPR	בענדער	bender	_
+
+SENT	1834E-UKRAINE-2,47.383
+1	abr	CONJ	אַבר	Aabr	_
+2	men	PRO	מען	meN	_
+3	hat	HVF	האַט	hAat	_
+4	fil	Q	פֿיל	fyl	_
+5	ginumn	VBN	גינומן	gynvmN	_
+6	in	P	אין	AyN	_
+7	der	D	דער	der	_
+8	shbih	N	שביה	$byh	_
+9	areyn	ADV	אַרײן	AarYN	_
+10	tsu	P	צו	qv	_
+11	di	D	די	dy	_
+12	tatirn	N	טאַטירן	tAatyrN	_
+
+SENT	1834E-UKRAINE-2,47.384
+1	un	CONJ	און	AvN	_
+2	fil	Q	פֿיל	fyl	_
+3	zeynin	BEF	זײנין	zYnyN	_
+4	giblibin	VBN	גיבליבין	gyblybyN	_
+5	ligin	RP-V	ליגין	lygyN	_
+6	in	P	אין	AyN	_
+7	di	D	די	dy	_
+8	feldr	N	פֿעלדר	feldr	_
+9	mkhmt	C	מכמט	mxmt	_
+10	zey	PRO	זײ	zY	_
+11	habin	HVF	האַבין	hAabyN	_
+12	nit	NEG	ניט	nyt	_
+13	gikent	MDN	גיקענט	gykent	_
+14	der_geyn	VB	דער_גײן	der_gYN	_
+15	biz	P	ביז	byz	_
+16	arts	N	אַרץ	AarQ	_
+17	ismealim	N	איסמעאַלים	AysmeAalyM	Ishmaelites
+
+SENT	1834E-UKRAINE-2,47.385
+1	zeynin	BEF	זײנין	zYnyN	_
+2	zey	PRO	זײ	zY	_
+3	gistarbin	VBN	גיסטאַרבין	gystAarbyN	_
+4	oyf	P	אױף	AWF	_
+5	eyn	D	אײן	AYN	_
+6	veg	N	װעג	Veg	_
+
+SENT	1834E-UKRAINE-2,47.386
+1	un	CONJ	און	AvN	_
+2	a	D	אַ	Aa	_
+3	teyl	N	טײל	tYl	_
+4	zeynin	BEF	זײנין	zYnyN	_
+5	gistarbin	VBN	גיסטאַרבין	gystAarbyN	_
+6	far	P	פֿאַר	fAar	_
+7	hungr	N	הונגר	hvngr	_
+8	un	CONJ	און	AvN	_
+9	fr	P	פֿר	fr	_
+10	durst	N	דורסט	dvrst	_
+
+SENT	1834E-UKRAINE-2,47.387
+1	un	CONJ	און	AvN	_
+2	fil	Q	פֿיל	fyl	_
+3	ihudim	N	איהודים	AyhvdyM	_
+4	zeynin	BEF	זײנין	zYnyN	_
+5	der_trunkn	VX	דער_טרונקן	der_trvnkN	_
+6	givarin	RDN	גיװאַרין	gyVAaryN	_
+7	in	P	אין	AyN	_
+8	nestr	N	נעסטר	nestr	_
+
+SENT	1834E-UKRAINE-2,47.388
+1	un	CONJ	און	AvN	_
+2	das	D	דת	dS	_
+3	ibrigi	ADJ	איבריגי	Aybrygy	_
+4	bisl	N	ביסל	bysl	_
+5	ihudim	N	איהודים	AyhvdyM	_
+6	hat	HVF	האַט	hAat	_
+7	der	D	דער	der	_
+8	tatir	N	טאַטיר	tAatyr	_
+9	ginumn	VBN	גינומן	gynvmN	_
+10	{zey}	PRO	{זײ}	{zY}	_
+11	in	P	אין	AyN	_
+12	sbih	N	סביה	sbyh	_
+13	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1834E-UKRAINE-2,47.389
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	tatir	N	טאַטיר	tAatyr	_
+4	hat	HVF	האַט	hAat	_
+5	zey	PRO	זײ	zY	_
+6	gitribin	VBN	גיטריבין	gytrybyN	_
+7	ali	Q	אַלי	Aaly	_
+8	tag	N	תּג	Tg	_
+9	oyf	P	אױף	AWF	_
+10	pantsine	N	פּאַנצינע	pAanqyne	_
+
+SENT	1834E-UKRAINE-2,47.390
+1	abr	CONJ	אַבר	Aabr	_
+2	di	D	די	dy	_
+3	ihudim	N	איהודים	AyhvdyM	_
+4	fun	P	פֿון	fvN	_
+5	di	D	די	dy	_
+6	ibrigi	ADJ	איבריגי	Aybrygy	_
+7	stet	N	סטעט	stet	_
+8	habin	HVF	האַבין	hAabyN	_
+9	gitan	DON	גיטאַן	gytAaN	_
+10	khapin	VB	כאַפּין	xAapyN	_
+11	an	P	אַן	AaN	_
+12	gat	NPR	גאַט	gAat	_
+13	brukh	H	ברוך	brvX	blessed
+14	hu	H	הו	hv	he
+
+SENT	1834E-UKRAINE-2,47.391
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	hat	HVF	האַט	hAat	_
+4	gitan	VBN	גיטאַן	gytAaN	_
+5	an	P	אַן	AaN	_
+6	di	D	די	dy	_
+7	pukhzim	N	פּוכזים	pvxzyM	_
+8	tikf	ADV	טיקף	tykF	_
+9	nkmut	N	נקמוט	nkmvt	_
+
+SENT	1834E-UKRAINE-2,47.392
+1	di	D	די	dy	_
+2	mesh	N	מעש	me$	_
+3	hat	HVF	האַט	hAat	_
+4	givert	VBN	גיװערט	gyVert	_
+5	drey	NUM	דרײ	drY	_
+6	vakhin	N	װאַכין	VAaxyN	_
+7	vi	C	װי	Vy	_
+8	zey	PRO	זײ	zY	_
+9	habin	HVF	האַבין	hAabyN	_
+10	gants	ADJ	גאַנץ	gAanQ	_
+11	ukreyna	NPR	אוקרײנאַ	AvkrYnAa	_
+12	un	CONJ	און	AvN	_
+13	pabreze	N	פּאַברעזע	pAabreze	_
+14	ali	Q	אַלי	Aaly	_
+15	ihudim	N	איהודים	AyhvdyM	_
+16	un	CONJ	און	AvN	_
+17	pritsim	N	פּריצים	pryqyM	_
+18	uerlim	H	אוערלים	AverlyM	and_Gentiles
+19	oys	RP	אױס	AWs	_
+20	gihrgt	VBN	גיהרגט	gyhrgt	_
+
+SENT	1834E-UKRAINE-2,47.393
+1	un	CONJ	און	AvN	_
+2	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+3	habin	HVF	האַבין	hAabyN	_
+4	di	D	די	dy	_
+5	pukhzim	N	פּוכזים	pvxzyM	_
+6	zikh	PRO	זיך	zyX	_
+7	ginumn	VBN	גינומן	gynvmN	_
+8	eyn	D	אײן	AYN	_
+9	etshh	N	עטשה	et$h	_
+10	az	C	אַז	Aaz	_
+11	zey	PRO	זײ	zY	_
+12	zalin	MDF	זאַלין	zAalyN	_
+13	merin	VB	מערין	meryN	_
+14	nakh	P	נ"ך	n"X	_
+15	khil	N	כיל	xyl	_
+16	un	CONJ	און	AvN	_
+17	guts	N	גוטס	gvts	_
+18	un	CONJ	און	AvN	_
+19	harmatin	N	האַרמאַטין	hAarmAatyN	_
+20	un	CONJ	און	AvN	_
+21	tsu	TO	צו	qv	_
+22	geyn	VB	גײן	gYN	_
+23	in	P	אין	AyN	_
+24	pulin	NPR	פּולין	pvlyN	_
+25	un	CONJ	און	AvN	_
+26	oys	RP	אױס	AWs	_
+27	tsu	TO	צו	qv	_
+28	hrginn	VB	הרגינן	hrgynN	_
+29	in	P	אין	AyN	_
+30	gants	ADJ	גאַנץ	gAanQ	_
+31	pulin	NPR	פּולין	pvlyN	_
+32	di	D	די	dy	_
+33	ihudim	N	איהודים	AyhvdyM	_
+34	un	CONJ	און	AvN	_
+35	pritsim	N	פּריצים	pryqyM	_
+
+SENT	1834E-UKRAINE-2,47.394
+1	bkitsur	ADV	בקיצור	bkyqvr	_
+2	di	D	די	dy	_
+3	ihudim	N	איהודים	AyhvdyM	_
+4	fun	P	פֿון	fvN	_
+5	brod	N	בראָד	brAod	_
+6	zeynen	BEF	זײנען	zYneN	_
+7	der_fun	DR+P	דער_פֿון	der_fvN	_
+8	givar	ADJ	גיװאַר	gyVAar	_
+9	givarin	VBN	גיװאַרין	gyVAaryN	_
+
+SENT	1834E-UKRAINE-2,47.395
+1	habin	HVF	האַבין	hAabyN	_
+2	zey	PRO	זײ	zY	_
+3	droyf	DR+P	דרױף	drWF	_
+4	groysi	ADJ	גרױסי	grWsy	_
+5	hutsaut	N	הוצאַוט	hvqAavt	_
+6	gileygt	VBN	גילײגט	gylYgt	_
+
+SENT	1834E-UKRAINE-2,47.396
+1	un	CONJ	און	AvN	_
+2	zeynin	BEF	זײנין	zYnyN	_
+3	gilafin	VBN	גילאַפֿין	gylAafyN	_
+4	tsu	P	צו	qv	_
+5	dem	D	דעם	deM	_
+6	yeniral	N	יעניראַל	yenyrAal	_
+7	brantski	N	בראַנצקי	brAanqky	_
+8	keyn	P	קײן	kYN	_
+9	sharigrad	NPR	שאַריגראַד	$AarygrAad	_
+
+SENT	1834E-UKRAINE-2,47.397
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	an	RP	אַן	AaN	_
+4	gihoybin	VBN	גיהױבין	gyhWbyN	_
+5	tsu	TO	צו	qv	_
+6	veynin	VB	װײנין	VYnyN	_
+7	un	CONJ	און	AvN	_
+8	tsu	TO	צו	qv	_
+9	shreyen	VB	שרײען	$rYeN	_
+10	far	P	פֿאַר	fAar	_
+11	dem	D	דעם	deM	_
+12	yeniral	N	יעניראַל	yenyrAal	_
+13	az	C	אַז	Aaz	_
+14	er	PRO	ער	er	_
+15	zal	MDF	ז"ל	z"l	_
+16	di	D	די	dy	_
+17	zakh	N	זאַך	zAaX	_
+18	mbtl	RP-H	מבטל	mbtl	_
+19	zeyn	VB	זײן	zYN	_
+
+SENT	1834E-UKRAINE-2,47.398
+1	nu	ADV	נו	nv	_
+2	der	D	דער	der	_
+3	yeniral	N	יעניראַל	yenyrAal	_
+4	hat	HVF	האַט	hAat	_
+5	di	D	די	dy	_
+6	ihudim	N	איהודים	AyhvdyM	_
+7	gitreyst	VBN	גיטרײסט	gytrYst	_
+
+SENT	1834E-UKRAINE-2,47.399
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	tsu	P	צו	qv	_
+4	zey	PRO	זײ	zY	_
+5	gizagt	VBN	גיזאַגט	gyzAagt	_
+6	hat	VBI	האַט	hAat	_
+7	nit	NEG	ניט	nyt	_
+8	farkht	N	פֿאַרכט	fAarxt	_
+
+SENT	1834E-UKRAINE-2,47.400
+1	nit	NEG	ניט	nyt	_
+2	farkht	VBI	פֿאַרכט	fAarxt	_
+3	eykh	PRO	אײך	AYX	_
+
+SENT	1834E-UKRAINE-2,47.401
+1	ikh	PRO	איך	AyX	_
+2	vel	MDF	װעל	Vel	_
+3	ai"h	H	אַיִ"ה	Aayi"h	if_will_want_God
+4	bald	ADV	באַלד	bAald	_
+5	di	D	די	dy	_
+6	pukhzim	N	פּוכזים	pvxzyM	_
+7	um	RP	אום	AvM	_
+8	breyngin	VB	ברײנגין	brYngyN	_
+
+SENT	1834E-UKRAINE-2,47.402
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	yeniral	N	יעניראַל	yenyrAal	_
+4	hat	HVF	האַט	hAat	_
+5	tikf	ADV	טיקף	tykF	_
+6	an	RP	אַן	AaN	_
+7	gihoybin	VBN	גיהױבין	gyhWbyN	_
+8	ririn	VB	רירין	ryryN	_
+9	zeyni	PRO$	זײני	zYny	_
+10	khilut	N	כילוט	xylvt	_
+
+SENT	1834E-UKRAINE-2,47.403
+1	un	CONJ	און	AvN	_
+2	iz	BEF	איז	Ayz	_
+3	gigangin	VBN	גיגאַנגין	gygAangyN	_
+4	mlkhmh	N	מלכמה	mlxmh	_
+5	tsu	TO	צו	qv	_
+6	haltin	VB	האַלטין	hAaltyN	_
+7	mit	P	מיט	myt	_
+8	di	D	די	dy	_
+9	pukhzim	N	פּוכזים	pvxzyM	_
+
+SENT	1834E-UKRAINE-2,47.404
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	hat	HVF	האַט	hAat	_
+4	gishikt	VBN	גישיקט	gy$ykt	_
+5	etlikhi	Q	עטליכי	etlyxy	_
+6	hundrt	NUM	הונדרט	hvndrt	_
+7	heylut	N	הײלוט	hYlvt	_
+8	keyn	P	קײן	kYN	_
+9	umn	NPR	אומן	AvmN	_
+10	az	C	אַז	Aaz	_
+11	zey	PRO	זײ	zY	_
+12	zalin	MDF	זאַלין	zAalyN	_
+13	zikh	PRO	זיך	zyX	_
+14	yagin	VB	יאַגין	yAagyN	_
+15	tsu	P	צו	qv	_
+16	di	D	די	dy	_
+17	pukhzim	N	פּוכזים	pvxzyM	_
+
+SENT	1834E-UKRAINE-2,47.405
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	yeniral	N	יעניראַל	yenyrAal	_
+4	hat	HVF	האַט	hAat	_
+5	zey	PRO	זײ	zY	_
+6	an	RP	אַן	AaN	_
+7	gizagt	VBN	גיזאַגט	gyzAagt	_
+8	ir	PRO	איר	Ayr	_
+9	zalt	MDF	זאַלט	zAalt	_
+10	stil	ADV	סטיל	styl	_
+11	areyn	ADV	אַרײן	AarYN	_
+12	geyn	VB	גײן	gYN	_
+13	in	P	אין	AyN	_
+14	stat	N	סטאַט	stAat	_
+15	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1834E-UKRAINE-2,47.406
+1	un	CONJ	און	AvN	_
+2	vi	WADV	װי	Vy	_
+3	di	D	די	dy	_
+4	heylut	N	הײלוט	hYlvt	_
+5	zeynin	BEF	זײנין	zYnyN	_
+6	gikumn	VBN	גיקומן	gykvmN	_
+7	in	P	אין	AyN	_
+8	stat	N	סטאַט	stAat	_
+9	areyn	ADV	אַרײן	AarYN	_
+10	habin	HVF	האַבין	hAabyN	_
+11	zey	PRO	זײ	zY	_
+12	gar	ADV	גאַר	gAar	_
+13	slum	N	סלום	slvM	_
+14	gimakht	VBN	גימאַכט	gymAaxt	_
+15	mit	P	מיט	myt	_
+16	di	D	די	dy	_
+17	pukhzim	N	פּוכזים	pvxzyM	_
+
+SENT	1834E-UKRAINE-2,47.407
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	gifresin	VBN	גיפֿרעסין	gyfresyN	_
+
+SENT	1834E-UKRAINE-2,47.408
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	gizaifin	VBN	גיזאַיִפֿין	gyzAayifyN	_
+4	mit	P	מיט	myt	_
+5	di	D	די	dy	_
+6	pukhzim	N	פּוכזים	pvxzyM	_
+
+SENT	1834E-UKRAINE-2,47.409
+1	un	CONJ	און	AvN	_
+2	zey	PRO	זײ	zY	_
+3	habin	HVF	האַבין	hAabyN	_
+4	gizagt	VBN	גיזאַגט	gyzAagt	_
+5	tsu	P	צו	qv	_
+6	di	D	די	dy	_
+7	pukhzim	N	פּוכזים	pvxzyM	_
+8	ir	PRO	איר	Ayr	_
+9	hat	HVF	האַט	hAat	_
+10	gut	ADV	גוט	gvt	_
+11	gitan	VBN	גיטאַן	gytAaN	_
+12	vas	C	װאַס	VAas	_
+13	ir	PRO	איר	Ayr	_
+14	hat	HVF	האַט	hAat	_
+15	oys	RP	אױס	AWs	_
+16	gihrgt	VBN	גיהרגט	gyhrgt	_
+17	di	D	די	dy	_
+18	ihudim	N	איהודים	AyhvdyM	_
+
+SENT	1834E-UKRAINE-2,47.410
+1	nor	CONJ	נאָר	nAor	_
+2	vart	VBI	װאַרט	VAart	_
+
+SENT	1834E-UKRAINE-2,48.411
+1	biz	C	ביז	byz	_
+2	di	D	די	dy	_
+3	ibrigi	ADJ	איבריגי	Aybrygy	_
+4	heylut	N	הײלוט	hYlvt	_
+5	velin	MDF	װעלין	VelyN	_
+6	an	RP	אַן	AaN	_
+7	kumn	VB	קומן	kvmN	_
+8	velin	MDF	װעלין	VelyN	_
+9	mir	PRO	מיר	myr	_
+10-11	banand	P~PRO	באַנאַנד	bAanAand	_
+10	ba	P	באַ	bAa	_
+11	nand	PRO	נאַנד	nAand	_
+12	hrgnn	VB	הרגנן	hrgnN	_
+13	di	D	די	dy	_
+14	ihudim	N	איהודים	AyhvdyM	_
+
+SENT	1834E-UKRAINE-2,48.412
+1	un	CONJ	און	AvN	_
+2	zey	PRO	זײ	zY	_
+3	habin	HVF	האַבין	hAabyN	_
+4	un_mistin	ADV	אונ_מיסטין	Avn_mystyN	_
+5	giheysin	VBN	גיהײסין	gyhYsyN	_
+6	vartin	VB	װאַרטין	VAartyN	_
+7	di	D	די	dy	_
+8	pukhzim	N	פּוכזים	pvxzyM	_
+9	bkdi	ADV	בקדי	bkdy	_
+10	di	D	די	dy	_
+11	heylut	N	הײלוט	hYlvt	_
+12	zalin	MDF	זאַלין	zAalyN	_
+13	der_veyl	ADV	דער_װײל	der_VYl	_
+14	an	RP	אַן	AaN	_
+15	kumn	VB	קומן	kvmN	_
+16	un	CONJ	און	AvN	_
+17	men	PRO	מען	meN	_
+18	zal	MDF	ז"ל	z"l	_
+19	di	D	די	dy	_
+20	pukhzim	N	פּוכזים	pvxzyM	_
+21	um	RP	אום	AvM	_
+22	breyngin	VB	ברײנגין	brYngyN	_
+
+SENT	1834E-UKRAINE-2,48.413
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	yeniral	N	יעניראַל	yenyrAal	_
+4	hat	HVF	האַט	hAat	_
+5	gimakht	VBN	גימאַכט	gymAaxt	_
+6	strik	N	סטריק	stryk	_
+7	az	C	אַז	Aaz	_
+8	men	PRO	מען	meN	_
+9	zal	MDF	ז"ל	z"l	_
+10	zey	PRO	זײ	zY	_
+11	bindin	VB	בינדין	byndyN	_
+
+SENT	1834E-UKRAINE-2,48.414
+1	un	CONJ	און	AvN	_
+2	kletsr	N	קלעצר	kleqr	_
+3	hot	HVF	האָט	hAot	_
+4	er	PRO	ער	er	_
+5	oykh	ADV	אױך	AWX	_
+6	gimakht	VBN	גימאַכט	gymAaxt	_
+
+SENT	1834E-UKRAINE-2,48.415
+1	un	CONJ	און	AvN	_
+2	vi	C	װי	Vy	_
+3	der	D	דער	der	_
+4	yeniral	N	יעניראַל	yenyrAal	_
+5	iz	BEF	איז	Ayz	_
+6	an	RP	אַן	AaN	_
+7	gikumn	VBN	גיקומן	gykvmN	_
+8	mit	P	מיט	myt	_
+9	di	D	די	dy	_
+10	heylut	N	הײלוט	hYlvt	_
+11	un	CONJ	און	AvN	_
+12	eyn	D	אײן	AYN	_
+13	palkavnik	N	פּאַלקאַװניק	pAalkAaVnyk	_
+14	mit	P	מיט	myt	_
+15	etlikhi	Q	עטליכי	etlyxy	_
+16	hundrt	NUM	הונדרט	hvndrt	_
+17	man	N	מאַן	mAaN	_
+18	zeynin	BEF	זײנין	zYnyN	_
+19	frier	ADVR	פֿריִער	fryier	_
+20	areyn	ADV	אַרײן	AarYN	_
+21	gilafin	VBN	גילאַפֿין	gylAafyN	_
+22	nu	ADV	נו	nv	_
+23	vi	C	װי	Vy	_
+24	der	D	דער	der	_
+25	palkavnik	N	פּאַלקאַװניק	pAalkAaVnyk	_
+26	hat	HVF	האַט	hAat	_
+27	der_zehin	VBN	דער_זעהין	der_zehyN	_
+28	vi	C	װי	Vy	_
+29	di	D	די	dy	_
+30	pukhzim	N	פּוכזים	pvxzyM	_
+31	fresin	VBF	פֿרעסין	fresyN	_
+32	un	CONJ	און	AvN	_
+33	zaifin	VBF	זאַיִפֿין	zAayifyN	_
+34	un	CONJ	און	AvN	_
+35	velin	MDF	װעלין	VelyN	_
+36	veytr	ADV	װײטר	VYtr	_
+37	hrgnn	VB	הרגנן	hrgnN	_
+38	di	D	די	dy	_
+39	yudn	N	יודן	yvdN	_
+40	hat	HVF	האַט	hAat	_
+41	das	D	דת	dS	_
+42	in	PRO	אין	AyN	_
+43	zeyer	ADV	זײער	zYer	_
+44	far_drasin	VBN	פֿאַר_דראַסין	fAar_drAasyN	_
+
+SENT	1834E-UKRAINE-2,48.416
+1	nu	ADV	נו	nv	_
+2	ruft	VBF	רופֿט	rvft	_
+3	zikh	PRO	זיך	zyX	_
+4	an	RP	אַן	AaN	_
+5	der	D	דער	der	_
+6	palkavnik	N	פּאַלקאַװניק	pAalkAaVnyk	_
+7	ver	WPRO	װער	Ver	_
+8	hat	HVF	האַט	hAat	_
+9	eykh	PRO	אײך	AYX	_
+10	gigebin	VBN	גיגעבין	gygebyN	_
+11	rsut	N	רסוט	rsvt	_
+12	az	C	אַז	Aaz	_
+13	ir	PRO	איר	Ayr	_
+14	zalt	MDF	זאַלט	zAalt	_
+15	oys	RP	אױס	AWs	_
+16	hrgnn	VB	הרגנן	hrgnN	_
+17	di	D	די	dy	_
+18	mdinh	N	מדינה	mdynh	_
+19	pulin	NPR	פּולין	pvlyN	_
+
+SENT	1834E-UKRAINE-2,48.417
+1	nu	ADV	נו	nv	_
+2	vi	C	װי	Vy	_
+3	di	D	די	dy	_
+4	pukhzim	N	פּוכזים	pvxzyM	_
+5	habin	HVF	האַבין	hAabyN	_
+6	der_zehin	VBN	דער_זעהין	der_zehyN	_
+7	az	C	אַז	Aaz	_
+8	der	D	דער	der	_
+9	palkarnik	N	פּאַלקאַרניק	pAalkAarnyk	_
+10	iz	VBF	איז	Ayz	_
+11	zeyer	ADV	זײער	zYer	_
+12	brugz	ADJ	ברוגז	brvgz	_
+13	oyf	P	אױף	AWF	_
+14	dem	D	דעם	deM	_
+15	habin	HVF	האַבין	hAabyN	_
+16	zey	PRO	זײ	zY	_
+17	givalt	MDN	גיװאַלט	gyVAalt	_
+18	antloyfin	VB	אַנטלױפֿין	AantlWfyN	_
+
+SENT	1834E-UKRAINE-2,48.418
+1	abr	CONJ	אַבר	Aabr	_
+2	der	D	דער	der	_
+3	palkavnik	N	פּאַלקאַװניק	pAalkAaVnyk	_
+4	hat	HVF	האַט	hAat	_
+5	tikf	ADV	טיקף	tykF	_
+6	giheysin	VBN	גיהײסין	gyhYsyN	_
+7	breyngn	VB	ברײנגן	brYngN	_
+8	di	D	די	dy	_
+9	strik	N	סטריק	stryk	_
+
+SENT	1834E-UKRAINE-2,48.419
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	hat	HVF	האַט	hAat	_
+4	zey	PRO	זײ	zY	_
+5	gibundin	VBN	גיבונדין	gybvndyN	_
+
+SENT	1834E-UKRAINE-2,48.420
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	hat	HVF	האַט	hAat	_
+4	zey	PRO	זײ	zY	_
+5	gishlagin	VBN	גישלאַגין	gy$lAagyN	_
+6	mit	P	מיט	myt	_
+7	mkut	N	מקוט	mkvt	_
+8	akhzriut	H	אַכזריִוט	Aaxzryivt	UNKNOWN
+
+SENT	1834E-UKRAINE-2,48.421
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	hat	HVF	האַט	hAat	_
+4	zey	PRO	זײ	zY	_
+5	gitan	DON	גיטאַן	gytAaN	_
+6	vndin	VB	װנדין	VndyN	_
+7	un	CONJ	און	AvN	_
+8	beylin	VB	בײלין	bYlyN	_
+
+SENT	1834E-UKRAINE-2,48.422
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	hat	HVF	האַט	hAat	_
+4	tsu	P	צו	qv	_
+5	zey	PRO	זײ	zY	_
+6	gizagt	VBN	גיזאַגט	gyzAagt	_
+7	hat	HVF	האַט	hAat	_
+8	ir	PRO	איר	Ayr	_
+9	den	ADV	דען	deN	_
+10	nit	NEG	ניט	nyt	_
+11	ginumn	VBN	גינומן	gynvmN	_
+12	galt	N	גאַלט	gAalt	_
+13	un	CONJ	און	AvN	_
+14	zilbr	N	זילבר	zylbr	_
+15	ginug	Q	גינוג	gynvg	_
+
+SENT	1834E-UKRAINE-2,48.423
+1	fun	P	פֿון	fvN	_
+2	vas	WPRO	װאַס	VAas	_
+3	vilt	MDF	װילט	Vylt	_
+4	ir	PRO	איר	Ayr	_
+5	nakh	ADV	נ"ך	n"X	_
+6	di	D	די	dy	_
+7	mdinh	N	מדינה	mdynh	_
+8	hrub	RP-H	הרוב	hrvb	_
+9	makhin	VB	מאַכין	mAaxyN	_
+
+SENT	1834E-UKRAINE-2,48.424
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	tsaravne	N	צאַראַװנע	qAarAaVne	_
+4	hat	HVF	האַט	hAat	_
+5	eykh	PRO	אײך	AYX	_
+6	gar	ADV	גאַר	gAar	_
+7	nist	NEG	ניסט	nyst	_
+8	bafoylin	VBN	באַפֿױלין	bAafWlyN	_
+
+SENT	1834E-UKRAINE-2,48.425
+1	nu	ADV	נו	nv	_
+2	zolt	MDF	זאָלט	zAolt	_
+3	ir	PRO	איר	Ayr	_
+4	visin	VB	װיסין	VysyN	_
+5	az	C	אַז	Aaz	_
+6	um_suldike	ADJ	אומ_סולדיקע	Avm_svldyke	_
+7	blut	N	בלוט	blvt	_
+8	hat	HVF	האַט	hAat	_
+9	ir	PRO	איר	Ayr	_
+10	far_gasin	VBN	פֿאַר_גאַסין	fAar_gAasyN	_
+
+SENT	1834E-UKRAINE-2,48.426
+1	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+2	hat	HVF	האַט	hAat	_
+3	der	D	דער	der	_
+4	yeniral	N	יעניראַל	yenyrAal	_
+5	barnitsik	NPR	באַרניציק	bAarnyqyk	_
+6	bafoylin	VBN	באַפֿױלין	bAafWlyN	_
+7	tsu	P	צו	qv	_
+8	di	D	די	dy	_
+9	duntsis	N	דונציס	dvnqys	_
+10	az	C	אַז	Aaz	_
+11	zey	PRO	זײ	zY	_
+12	zelin	MDF	זעלין	zelyN	_
+13	aroys	ADV	אַרױס	AarWs	_
+14	loyfn	VB	לױפֿן	lWfN	_
+15	tsu	P	צו	qv	_
+16	di	D	די	dy	_
+17	pukhzim	N	פּוכזים	pvxzyM	_
+18	az	C	אַז	Aaz	_
+19	zey	PRO	זײ	zY	_
+20	zalin	MDF	זאַלין	zAalyN	_
+21	nit	NEG	ניט	nyt	_
+22	antloyfin	VB	אַנטלױפֿין	AantlWfyN	_
+
+SENT	1834E-UKRAINE-2,48.427
+1	un	CONJ	און	AvN	_
+2	zeynin	BEF	זײנין	zYnyN	_
+3	di	D	די	dy	_
+4	duntsis	N	דונציס	dvnqys	_
+5	gigangin	VBN	גיגאַנגין	gygAangyN	_
+
+SENT	1834E-UKRAINE-2,48.428
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	arum	ADV	אַרום	AarvM	_
+4	giringilt	VBN	גירינגילט	gyryngylt	_
+5	di	D	די	dy	_
+6	pukhzim	N	פּוכזים	pvxzyM	_
+7	mit	P	מיט	myt	_
+8	di	D	די	dy	_
+9	bloyzi	ADJ	בלױזי	blWzy	_
+10	shverdin	N	שװערדין	$VerdyN	_
+
+SENT	1834E-UKRAINE-2,48.429
+1	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+2	hat	HVF	האַט	hAat	_
+3	men	PRO	מען	meN	_
+4	zi	PRO	זי	zy	_
+5	{zikh}	X	{זיך}	{zyX}	_
+6	an	RP	אַן	AaN	_
+7	gihoybin	VBN	גיהױבין	gyhWbyN	_
+8	tsu	TO	צו	qv	_
+9	nemen	VB	נעמען	nemeN	_
+10	tsu	P	צו	qv	_
+11	dem	D	דעם	deM	_
+12	gante	NPR	גאַנטע	gAante	_
+13	imkh	H	אימך	AymX	may_be_erased
+14	smu	H	סמו	smv	name_his
+
+SENT	1834E-UKRAINE-2,48.430
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	hat	HVF	האַט	hAat	_
+4	im	PRO	אים	AyM	_
+5	gitan	VBN	גיטאַן	gytAaN	_
+6	groysi	ADJ	גרױסי	grWsy	_
+7	tsrut	N	צרוט	qrvt	_
+
+SENT	1834E-UKRAINE-2,48.431
+1	men	PRO	מען	meN	_
+2	hat	HVF	האַט	hAat	_
+3	im	PRO	אים	AyM	_
+4	gishlagin	VBN	גישלאַגין	gy$lAagyN	_
+
+SENT	1834E-UKRAINE-2,48.432
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	hat	HVF	האַט	hAat	_
+4	im	PRO	אים	AyM	_
+5	far_kavet	VBN	פֿאַר_קאַװעט	fAar_kAaVet	_
+6	bkhbli	H	בכבלי	bxbly	in_UNKNOWN
+7	brzl	H	ברזל	brzl	in_UNKNOWN
+8	di	D	די	dy	_
+9	hent	N	הענט	hent	_
+10	un	CONJ	און	AvN	_
+11	di	D	די	dy	_
+12	fis	N	פֿיס	fys	_
+
+SENT	1834E-UKRAINE-2,48.433
+1	azoy	ADV	אַזױ	AazW	_
+2	hot	HVF	האָט	hAot	_
+3	gonte	NPR	גאָנטע	gAonte	_
+4	imkh	H	אימך	AymX	may_be_erased
+5	smu	H	סמו	smv	name_his
+6	on	RP	אָן	AoN	_
+7	gihubin	VBN	גיהובין	gyhvbyN	_
+8	tsu	TO	צו	qv	_
+9	shreyen	VB	שרײען	$rYeN	_
+10	un	CONJ	און	AvN	_
+11	tsu	TO	צו	qv	_
+12	veynin	VB	װײנין	VYnyN	_
+
+SENT	1834E-UKRAINE-2,48.434
+1	un	CONJ	און	AvN	_
+2	hot	HVF	האָט	hAot	_
+3	gizogt	VBN	גיזאָגט	gyzAogt	_
+4	ibr	P	איבר	Aybr	_
+5	dem	D	דעם	deM	_
+6	hot	VBF	האָט	hAot	_
+7	ir	PRO	איר	Ayr	_
+8	oyf	P	אױף	AWF	_
+9	mir	PRO	מיר	myr	_
+10	keyn	Q	קײן	kYN	_
+11	rkhmunt	N	רכמונט	rxmvnt	_
+12	nit	NEG	ניט	nyt	_
+
+SENT	1834E-UKRAINE-2,48.435
+1	den	CONJ	דען	deN	_
+2	ikh	PRO	איך	AyX	_
+3	hab	HVF	האַב	hAab	_
+4	gistakhin	VBN	גיסטאַכין	gystAaxyN	_
+5	almnut	N	אַלמנוט	Aalmnvt	_
+6	un	CONJ	און	AvN	_
+7	bkhurim	N	בכורים	bxvryM	_
+
+SENT	1834E-UKRAINE-2,48.436
+1	varum	CONJ	װאַרום	VAarvM	_
+2	es	ES	עס	es	_
+3	iz	BEF	איז	Ayz	_
+4	tsu	P	צו	qv	_
+5	mir	PRO	מיר	myr	_
+6	gikumn	VBN	גיקומן	gykvmN	_
+7	eyn	D	אײן	AYN	_
+8	almnh	N	אַלמנה	Aalmnh	_
+
+SENT	1834E-UKRAINE-2,48.437
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	mikh	PRO	מיך	myX	_
+4	an	RP	אַן	AaN	_
+5	gihoybin	VBN	גיהױבין	gyhWbyN	_
+6	tsu	TO	צו	qv	_
+7	betin	VB	בעטין	betyN	_
+8	un	CONJ	און	AvN	_
+9	tsu	TO	צו	qv	_
+10	veynen	VB	װײנען	VYneN	_
+11	az	C	אַז	Aaz	_
+12	ikh	PRO	איך	AyX	_
+13	zal	MDF	ז"ל	z"l	_
+14	zi	PRO	זי	zy	_
+15	nit	NEG	ניט	nyt	_
+16	hrgnn	VB	הרגנן	hrgnN	_
+
+SENT	1834E-UKRAINE-2,48.438
+1	hab	HVF	האַב	hAab	_
+2	ikh	PRO	איך	AyX	_
+3	oys	RP	אױס	AWs	_
+4	gistrekt	VBN	גיסטרעקט	gystrekt	_
+5	meyn	PRO$	מײן	mYN	_
+6	fus	N	פֿוס	fvs	_
+
+SENT	1834E-UKRAINE-2,48.439
+1	un	CONJ	און	AvN	_
+2	hab	HVF	האַב	hAab	_
+3	ir	PRO	איר	Ayr	_
+4	oys	RP	אױס	AWs	_
+5	gishlagin	VBN	גישלאַגין	gy$lAagyN	_
+6	di	D	די	dy	_
+7	tseyn	N	צײן	qYN	_
+8	mit	P	מיט	myt	_
+9	der	D	דער	der	_
+10	fus	N	פֿוס	fvs	_
+
+SENT	1834E-UKRAINE-2,48.440
+1	drum	DR+P	דרום	drvM	_
+2	hat	VBF	האַט	hAat	_
+3	ir	PRO	איר	Ayr	_
+4	oyf	P	אױף	AWF	_
+5	mir	PRO	מיר	myr	_
+6	keyn	Q	קײן	kYN	_
+7	rkhmnut	N	רכמנוט	rxmnvt	_
+8	nit	NEG	ניט	nyt	_
+
+SENT	1834E-UKRAINE-2,48.441
+1	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+2	hot	HVF	האָט	hAot	_
+3	der	D	דער	der	_
+4	yeniral	N	יעניראַל	yenyrAal	_
+5	barnitski	NPR	באַרניצקי	bAarnyqky	_
+6	bafoylin	VBN	באַפֿױלין	bAafWlyN	_
+7	az	C	אַז	Aaz	_
+8	men	PRO	מען	meN	_
+9	zal	MDF	ז"ל	z"l	_
+10	arum	ADV	אַרום	AarvM	_
+11	geyn	VB	גײן	gYN	_
+12	oyf	P	אױף	AWF	_
+13	di	D	די	dy	_
+14	derfr	N	דערפֿר	derfr	_
+15	un	CONJ	און	AvN	_
+16	men	PRO	מען	meN	_
+17	zal	MDF	ז"ל	z"l	_
+18	khapin	VB	כאַפּין	xAapyN	_
+19	furin	N	פֿורין	fvryN	_
+
+SENT	1834E-UKRAINE-2,48.442
+1	nu	ADV	נו	nv	_
+2	zeynin	BEF	זײנין	zYnyN	_
+3	gigangin	VBN	גיגאַנגין	gygAangyN	_
+4	di	D	די	dy	_
+5	maskvitr	N	מאַסקװיטר	mAaskVytr	_
+
+SENT	1834E-UKRAINE-2,48.443
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	gibrakht	VBN	גיבראַכט	gybrAaxt	_
+4	furin	N	פֿורין	fvryN	_
+
+SENT	1834E-UKRAINE-2,48.444
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	hat	HVF	האַט	hAat	_
+4	aroyf	ADV	אַרױף	AarWF	_
+5	givarfin	VBN	גיװאַרפֿין	gyVAarfyN	_
+6	oyf	P	אױף	AWF	_
+7	itlikhr	Q	איטליכר	Aytlyxr	_
+8	fur	N	פֿור	fvr	_
+9	zeks	NUM	זעקס	zeks	_
+10	pukhzim	N	פּוכזים	pvxzyM	_
+
+SENT	1834E-UKRAINE-2,48.445
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	hat	HVF	האַט	hAat	_
+4	zey	PRO	זײ	zY	_
+5	gifirt	VBN	גיפֿירט	gyfyrt	_
+6	in	P	אין	AyN	_
+7	veg	N	װעג	Veg	_
+
+SENT	1834E-UKRAINE-2,48.446
+1	habin	HVF	האַבין	hAabyN	_
+2	zey	PRO	זײ	zY	_
+3	gistift	VBN	גיסטיפֿט	gystyft	_
+4	un	CONJ	און	AvN	_
+5	gilakht	VBN	גילאַכט	gylAaxt	_
+
+SENT	1834E-UKRAINE-2,48.447
+1	bkitsur	ADV	בקיצור	bkyqvr	_
+2	men	PRO	מען	meN	_
+3	hat	HVF	האַט	hAat	_
+4	areyn	ADV	אַרײן	AarYN	_
+5	gifirt	VBN	גיפֿירט	gyfyrt	_
+6	di	D	די	dy	_
+7	pukhzim	N	פּוכזים	pvxzyM	_
+8	in	P	אין	AyN	_
+9	stat	N	סטאַט	stAat	_
+
+SENT	1834E-UKRAINE-2,49.448
+1	habin	HVF	האַבין	hAabyN	_
+2	zey	PRO	זײ	zY	_
+3	zikh	PRO	זיך	zyX	_
+4	der_shrakin	VBN	דער_שראַקין	der_$rAakyN	_
+
+SENT	1834E-UKRAINE-2,49.449
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	hat	HVF	האַט	hAat	_
+4	ginumn	VBN	גינומן	gynvmN	_
+5	di	D	די	dy	_
+6	pukhzim	N	פּוכזים	pvxzyM	_
+
+SENT	1834E-UKRAINE-2,49.450
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	hat	HVF	האַט	hAat	_
+4	zey	PRO	זײ	zY	_
+5	gihangen	VBN	גיהאַנגען	gyhAangeN	_
+6	oyf	P	אױף	AWF	_
+7	ali	Q	אַלי	Aaly	_
+8	derfr	N	דערפֿר	derfr	_
+9	tsu	P	צו	qv	_
+10	seks	NUM	סעקס	seks	_
+
+SENT	1834E-UKRAINE-2,49.451
+1	abr	CONJ	אַבר	Aabr	_
+2	der	D	דער	der	_
+3	gonte	NPR	גאָנטע	gAonte	_
+4	imkh	H	אימך	AymX	may_be_erased
+5	smu	H	סמו	smv	name_his
+6	vi	C	װי	Vy	_
+7	men	PRO	מען	meN	_
+8	hat	HVF	האַט	hAat	_
+9	im	PRO	אים	AyM	_
+10	gibrakht	VBN	גיבראַכט	gybrAaxt	_
+11	far	P	פֿאַר	fAar	_
+12	dem	D	דעם	deM	_
+13	yeniral	N	יעניראַל	yenyrAal	_
+14	barnitski	NPR	באַרניצקי	bAarnyqky	_
+15	azoy	ADV	אַזױ	AazW	_
+16	hat	HVF	האַט	hAat	_
+17	er	PRO	ער	er	_
+18	im	PRO	אים	AyM	_
+19	nit	NEG	ניט	nyt	_
+20	giheysin	VBN	גיהײסין	gyhYsyN	_
+21	tikf	ADV	טיקף	tykF	_
+22	trinkin	VB	טרינקין	trynkyN	_
+
+SENT	1834E-UKRAINE-2,49.452
+1	nor	CONJ	נאָר	nAor	_
+2	er	PRO	ער	er	_
+3	hat	HVF	האַט	hAat	_
+4	im	PRO	אים	AyM	_
+5	frier	ADVR	פֿריִער	fryier	_
+6	giheysin	VBN	גיהײסין	gyhYsyN	_
+7	tan	VB	טאַן	tAaN	_
+8	groys	ADJ	גרױס	grWs	_
+9	tsrut	N	צרוט	qrvt	_
+
+SENT	1834E-UKRAINE-2,49.453
+1	hat	HVF	האַט	hAat	_
+2	men	PRO	מען	meN	_
+3	im	PRO	אים	AyM	_
+4	ginumn	VBN	גינומן	gynvmN	_
+
+SENT	1834E-UKRAINE-2,49.454
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	hat	HVF	האַט	hAat	_
+4	im	PRO	אים	AyM	_
+5	areyn	ADV	אַרײן	AarYN	_
+6	givarfin	VBN	גיװאַרפֿין	gyVAarfyN	_
+7	in	P	אין	AyN	_
+8	a	D	אַ	Aa	_
+9	fintsterr	ADJ	פֿינצטערר	fynqterr	_
+10	grub	N	גרוב	grvb	_
+11	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1834E-UKRAINE-2,49.455
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	yeniral	N	יעניראַל	yenyrAal	_
+4	hat	HVF	האַט	hAat	_
+5	gikh	ADV	גיך	gyX	_
+6	gishikt	VBN	גישיקט	gy$ykt	_
+7	nakh	P	נ"ך	n"X	_
+8	dem	D	דעם	deM	_
+9	tlin	N	טלין	tlyN	_
+10	keyn	P	קײן	kYN	_
+11	sari_grad	NPR	סאַרי_גראַד	sAary_grAad	_
+
+SENT	1834E-UKRAINE-2,49.456
+1	vi	WADV	װי	Vy	_
+2	der	D	דער	der	_
+3	tlin	N	טלין	tlyN	_
+4	iz	BEF	איז	Ayz	_
+5	gikumn	VBN	גיקומן	gykvmN	_
+6	azoy	ADV	אַזױ	AazW	_
+7	hat	HVF	האַט	hAat	_
+8	men	PRO	מען	meN	_
+9	im	PRO	אים	AyM	_
+10	fun	P	פֿון	fvN	_
+11	dem	D	דעם	deM	_
+12	grub	N	גרוב	grvb	_
+13	aroys	ADV	אַרױס	AarWs	_
+14	ginumn	VBN	גינומן	gynvmN	_
+
+SENT	1834E-UKRAINE-2,49.457
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	yeniral	N	יעניראַל	yenyrAal	_
+4	hat	HVF	האַט	hAat	_
+5	giheysin	VBN	גיהײסין	gyhYsyN	_
+6	az	C	אַז	Aaz	_
+7	ale	Q	אַלע	Aale	_
+8	ihudim	N	איהודים	AyhvdyM	_
+9	zalin	MDF	זאַלין	zAalyN	_
+10	zikh	PRO	זיך	zyX	_
+11-12	tsum	P~PRO	צום	qvM	_
+11	tsu	P	צו	qv	_
+12	m	PRO	מ	m	_
+13	oyf	RP	אױף	AWF	_
+14	geyn	VB	גײן	gYN	_
+15	zalin	MDF	זאַלין	zAalyN	_
+16	zehn	VB	זעהן	zehN	_
+17	zeyn	PRO$	זײן	zYN	_
+18	beyzin	ADJ	בײזין	bYzyN	_
+19	vndr	N	װנדר	Vndr	_
+
+SENT	1834E-UKRAINE-2,49.458
+1	brashun	H	בראַשון	brAa$vN	at_first
+2	hat	HVF	האַט	hAat	_
+3	men	PRO	מען	meN	_
+4	im	PRO	אים	AyM	_
+5	giheysin	VBN	גיהײסין	gyhYsyN	_
+6	reysin	VB	רײסין	rYsyN	_
+7	mit	P	מיט	myt	_
+8	eyzerne	ADJ	אײזערנע	AYzerne	_
+9	kemlekh	N	קעמלעך	kemleX	_
+10	zeyn	PRO$	זײן	zYN	_
+11	fleysh	N	פֿלײש	flY$	_
+
+SENT	1834E-UKRAINE-2,49.459
+1	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+2	hat	HVF	האַט	hAat	_
+3	men	PRO	מען	meN	_
+4	gimakht	VBN	גימאַכט	gymAaxt	_
+5	eyn	D	אײן	AYN	_
+6	eyzerne	ADJ	אײזערנע	AYzerne	_
+7	kreyn	N	קרײן	krYN	_
+
+SENT	1834E-UKRAINE-2,49.460
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	zal	MDF	ז"ל	z"l	_
+4	di	D	די	dy	_
+5	kroyn	N	קרױן	krWN	_
+6	tsu	RP	צו	qv	_
+7	glien	VB	גליִען	glyieN	_
+
+SENT	1834E-UKRAINE-2,49.461
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	zal	MDF	ז"ל	z"l	_
+4	im	PRO	אים	AyM	_
+5	di	D	די	dy	_
+6	kroyn	N	קרױן	krWN	_
+7	oyf	P	אױף	AWF	_
+8	dem	D	דעם	deM	_
+9	kap	N	קאַפּ	kAap	_
+10	aroyf	ADV	אַרױף	AarWF	_
+11	tan	VB	טאַן	tAaN	_
+
+SENT	1834E-UKRAINE-2,49.462
+1	nu	ADV	נו	nv	_
+2	hat	HVF	האַט	hAat	_
+3	men	PRO	מען	meN	_
+4	tsu	RP	צו	qv	_
+5	glit	VBN	גליט	glyt	_
+6	di	D	די	dy	_
+7	kroyn	N	קרױן	krWN	_
+
+SENT	1834E-UKRAINE-2,49.463
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	hat	HVF	האַט	hAat	_
+4	im	PRO	אים	AyM	_
+5	an	RP	אַן	AaN	_
+6	gitan	VBN	גיטאַן	gytAaN	_
+7	oyf	P	אױף	AWF	_
+8	dem	D	דעם	deM	_
+9	kapf	N	קאַפּף	kAapF	_
+
+SENT	1834E-UKRAINE-2,49.464
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	hat	HVF	האַט	hAat	_
+4	im	PRO	אים	AyM	_
+5	gizagt	VBN	גיזאַגט	gyzAagt	_
+6	heynt	ADV	הײנט	hYnt	_
+7	kreynen	VBF	קרײנען	krYneN	_
+8	mir	PRO	מיר	myr	_
+9	dikh	PRO	דיך	dyX	_
+10	far	P	פֿאַר	fAar	_
+11	a	D	אַ	Aa	_
+12	poylishin	ADJ	פּױלישין	pWly$yN	_
+13	mlkh	N	מלך	mlX	_
+14	ibr	P	איבר	Aybr	_
+15	poylin	NPR	פּױלין	pWlyN	_
+
+SENT	1834E-UKRAINE-2,49.465
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	men	PRO	מען	meN	_
+4	dem	D	דעם	deM	_
+5	rse	N	רסע	rse	_
+6	gante	NPR	גאַנטע	gAante	_
+7	imkh	H	אימך	AymX	may_be_erased
+8	smu	H	סמו	smv	name_his
+9	an	RP	אַן	AaN	_
+10	gibundin	VBN	גיבונדין	gybvndyN	_
+11	an	P	אַן	AaN	_
+12	dem	D	דעם	deM	_
+13	prengir	N	פּרענגיר	prengyr	_
+14	er	PRO	ער	er	_
+15	zal	MDF	ז"ל	z"l	_
+16	zikh	PRO	זיך	zyX	_
+17	tutshen	VB	טוטשען	tvt$eN	_
+18	lengir	ADVR	לענגיר	lengyr	_
+
+SENT	1834E-UKRAINE-2,49.466
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	tlin	N	טלין	tlyN	_
+4	iz	BEF	איז	Ayz	_
+5	ali	Q	אַלי	Aaly	_
+6	rge	X	רגע	rge	_
+7	gikumn	VBN	גיקומן	gykvmN	_
+8	tsu	TO	צו	qv	_
+9	loyfin	VB	לױפֿין	lWfyN	_
+
+SENT	1834E-UKRAINE-2,49.467
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	gitrunkn	VBN	גיטרונקן	gytrvnkN	_
+4	branfin	N	בראַנפֿין	brAanfyN	_
+5	bkdi	ADV	בקדי	bkdy	_
+6	az	C	אַז	Aaz	_
+7	di	D	די	dy	_
+8	rtsikhh	N	רציכה	rqyxh	_
+9	zal	MDF	ז"ל	z"l	_
+10	zeyn	VB	זײן	zYN	_
+11	in	P	אין	AyN	_
+12	im	PRO	אים	AyM	_
+13	starker	ADJR	סטאַרקער	stAarker	_
+
+SENT	1834E-UKRAINE-2,49.468
+1	iz	BEF	איז	Ayz	_
+2	er	PRO	ער	er	_
+3	azoy	ADV	אַזױ	AazW	_
+4	gilafin	VBN	גילאַפֿין	gylAafyN	_
+5	ali	Q	אַלי	Aaly	_
+6	mal	N	מל	ml	_
+
+SENT	1834E-UKRAINE-2,49.469
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	im	PRO	אים	AyM	_
+4	oys	RP	אױס	AWs	_
+5	girisin	VBN	גיריסין	gyrysyN	_
+6	mit	P	מיט	myt	_
+7	di	D	די	dy	_
+8	kemlikh	N	קעמליך	kemlyX	_
+9	stikr	N	סטיקר	stykr	_
+10	fleysh	N	פֿלײש	flY$	_
+
+SENT	1834E-UKRAINE-2,49.470
+1	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+2	hat	HVF	האַט	hAat	_
+3	men	PRO	מען	meN	_
+4	dem	D	דעם	deM	_
+5	gante	NPR	גאַנטע	gAante	_
+6	imkh	H	אימך	AymX	may_be_erased
+7	smu	H	סמו	smv	name_his
+8	tsi_hakt	VBN	צי_האַקט	qy_hAakt	_
+9	oyf	P	אױף	AWF	_
+10	stikr	N	סטיקר	stykr	_
+
+SENT	1834E-UKRAINE-2,49.471
+1	nu	ADV	נו	nv	_
+2	mir	PRO	מיר	myr	_
+3	velin	MDF	װעלין	VelyN	_
+4	veytr	ADV	װײטר	VYtr	_
+5	nit	NEG	ניט	nyt	_
+6	shreybin	VB	שרײבין	$rYbyN	_
+
+SENT	1834E-UKRAINE-2,49.472
+1	mir	PRO	מיר	myr	_
+2	velin	MDF	װעלין	VelyN	_
+3	bey	P	בײ	bY	_
+4	dem	D	דעם	deM	_
+5	bleybin	VB	בלײבין	blYbyN	_
+
+SENT	1834E-UKRAINE-2,49.473
+1	un	CONJ	און	AvN	_
+2	fr	P	פֿר	fr	_
+3	di	D	די	dy	_
+4	tsrut	N	צרוט	qrvt	_
+5	fun	P	פֿון	fvN	_
+6	umn	NPR	אומן	AvmN	_
+7	un	CONJ	און	AvN	_
+8	ukreyna	NPR	אוקרײנאַ	AvkrYnAa	_
+9	zalin	MDF	זאַלין	zAalyN	_
+10	mir	PRO	מיר	myr	_
+11	zukhh	RP-H	זוכה	zvxh	_
+12	zeyn	VB	זײן	zYN	_
+
+SENT	1834E-UKRAINE-2,49.474
+1	unzr	PRO$	אונזר	Avnzr	_
+2	gual	H	גואַל	gvAal	redeemer
+3	tsdk	N	צדק	qdk	_
+4	zal	MDF	ז"ל	z"l	_
+5	kumn	VB	קומן	kvmN	_
+6	bmhrh	H	במהרה	bmhrh	speedily
+7	bimnu	H	בימנו	bymnv	in_days_our
+8	amn	H	אַמן	AamN	amen
+
+SENT	1834E-UKRAINE-2,49.475
+1	bkhn	X	בכן	bxN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	mir	PRO	מיר	myr	_
+4	nit	NEG	ניט	nyt	_
+5	givalt	MDN	גיװאַלט	gyVAalt	_
+6	dem	D	דעם	deM	_
+7	eulm	N	עולם	evlM	_
+8	oys	RP	אױס	AWs	_
+9	breyngn	VB	ברײנגן	brYngN	_
+10	fil	Q	פֿיל	fyl	_
+11	gelt	N	געלט	gelt	_
+
+SENT	1834E-UKRAINE-2,49.476
+1	habin	HVF	האַבין	hAabyN	_
+2	mir	PRO	מיר	myr	_
+3	eyn	D	אײן	AYN	_
+4	alf_bit	N	אַלפֿ_ביט	Aalf_byt	_
+5	bkitsur	ADV	בקיצור	bkyqvr	_
+6	gistelt	VBN	גיסטעלט	gystelt	_
+7	az	C	אַז	Aaz	_
+8	ali	Q	אַלי	Aaly	_
+9	kdusim	N	קדוסים	kdvsyM	_
+10	zalin	MDF	זאַלין	zAalyN	_
+11	zeyn	VB	זײן	zYN	_
+12	tkht	H	טכט	txt	below
+13	knpi	H	קנפּי	knpy	UNKNOWN
+14	hskinh	H	הסקינה	hskynh	UNKNOWN
+
+SENT	1834E-UKRAINE-2,49.477
+1	un	CONJ	און	AvN	_
+2	zalin	MDF	זאַלין	zAalyN	_
+3	zikh	PRO	זיך	zyX	_
+4	mien	VB	מיִען	myieN	_
+5	oyf	P	אױף	AWF	_
+6	yener	D	יענער	yener	_
+7	velt	N	װעלט	Velt	_
+8	amn	INTJ	אַמן	AamN	_
+

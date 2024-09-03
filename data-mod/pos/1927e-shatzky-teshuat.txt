@@ -1,0 +1,2585 @@
+SENT	1927E-SHATZKY-TESHUAT,12.3
+1	1	LS	1	1	_
+2	in	P	אין	AyN	_
+3	der	D	דער	der	_
+4	bibliotek	N	ביבליִאָטעק	byblyiAotek	_
+5	fun	P	פֿון	fvN	_
+6	hebrew	NPR	העברעw	hebrew	_
+7	union	NPR	אוניִאָן	AvnyiAoN	_
+8	college	NPR	cאָללעגע	cAollege	_
+9	in	P	אין	AyN	_
+10	sinsineti	NPR	סינסינעטי	synsynety	_
+11	gefint	VBF	געפֿינט	gefynt	_
+12	zikh	PRO	זיך	zyX	_
+13	a	D	אַ	Aa	_
+14	zeltn	ADJ	זעלטן	zeltN	_
+15	yidish	ADJ	ייִדיש	yyidy$	_
+16	bikhl	N	ביכל	byxl	_
+17	vegn	P	װעגן	VegN	_
+18	elilt-dm	N	עלילט-דם	elylt-dM	_
+
+SENT	1927E-SHATZKY-TESHUAT,12.4
+1	der	D	דער	der	_
+2	fuler	ADJ	פֿולער	fvler	_
+3	erster	ADJ	ערסטער	erster	_
+4	ser-blat	N	סער-בלאַט	ser-blAat	_
+5	fun	P	פֿון	fvN	_
+6	dem	D	דעם	deM	_
+7	bikhl	N	ביכל	byxl	_
+8	leyent	VBF	לײענט	lYent	_
+9	zikh	PRO	זיך	zyX	_
+10	azoy	ADV	אַזױ	AazW	_
+
+SENT	1927E-SHATZKY-TESHUAT,12.5
+1	dos	D	דאָס	dAos	_
+2	bikhl	N	ביכל	byxl	_
+3	basteyt	VBF	באַסטײט	bAastYt	_
+4	fun	P	פֿון	fvN	_
+5	drey	NUM	דרײ	drY	_
+6	bazundere	ADJ	באַזונדערע	bAazvndere	_
+7	teyln	N	טײלן	tYlN	_
+
+SENT	1927E-SHATZKY-TESHUAT,12.6
+1	yede	Q	יעדע	yede	_
+2	teyl	N	טײל	tYl	_
+3	hot	VBF	האָט	hAot	_
+4	an	D	אַן	AaN	_
+5	eygenem	ADJ	אײגענעם	AYgeneM	_
+6	ser-blat	N	סער-בלאַט	ser-blAat	_
+
+SENT	1927E-SHATZKY-TESHUAT,12.7
+1	nokh	P	נאָך	nAoX	_
+2	dem	D	דעם	deM	_
+3	erstn	ADJ	ערסטן	erstN	_
+4	algemeynem	ADJ	אַלגעמײנעם	AalgemYneM	_
+5	ser-blat	N	סער-בלאַט	ser-blAat	_
+6	folgn	VBF	פֿאָלגן	fAolgN	_
+7	tsvey	NUM	צװײ	qVY	_
+8	hkdmut	N	הקדמוט	hkdmvt	_
+9	eyne	PRO	אײנע	AYne	_
+10	a	D	אַ	Aa	_
+11	hebreyaishe	ADJ	העברײאַיִשע	hebrYAayi$e	_
+12	a	D	אַ	Aa	_
+13	klenere	ADJR	קלענערע	klenere	_
+14	un	CONJ	און	AvN	_
+15	di	D	די	dy	_
+16	tsveyte	ADJ	צװײטע	qVYte	_
+17	a	D	אַ	Aa	_
+18	yidishe	ADJ	ייִדישע	yyidy$e	_
+19	a	D	אַ	Aa	_
+20	gresere	ADJR	גרעסערע	gresere	_
+
+SENT	1927E-SHATZKY-TESHUAT,12.8
+1	zey	PRO	זײ	zY	_
+2	farnemen	VBF	פֿאַרנעמען	fAarnemeN	_
+3	finf	NUM	פֿינף	fynF	_
+4	nist_numerirte	ADJ	ניסט_נומערירטע	nyst_nvmeryrte	_
+5	zeytlekh	N	זײטלעך	zYtleX	_
+
+SENT	1927E-SHATZKY-TESHUAT,12.9
+1	di	D	די	dy	_
+2	drey	NUM	דרײ	drY	_
+3	teyln	N	טײלן	tYlN	_
+4	fun	P	פֿון	fvN	_
+5	dem	D	דעם	deM	_
+6	bikhl	N	ביכל	byxl	_
+7	zeynen	BEF	זײנען	zYneN	_
+8	oykh	ADV	אױך	AWX	_
+9	nist	NEG	ניסט	nyst	_
+10	paginirt	VAN	פּאַגינירט	pAagynyrt	_
+
+SENT	1927E-SHATZKY-TESHUAT,12.10
+1	dos	D	דאָס	dAos	_
+2	erste	ADJ	ערסטע	erste	_
+3	bikhele	N	ביכעלע	byxele	_
+4	farnemt	VBF	פֿאַרנעמט	fAarnemt	_
+5	12	NUM	12	12	_
+6	bleter	N	בלעטער	bleter	_
+7	,	PUNC	,	,	_
+8	dos	D	דאָס	dAos	_
+9	tsveyte	ADJ	צװײטע	qVYte	_
+10	21	NUM	21	21	_
+11	bleter	N	בלעטער	bleter	_
+12	un	CONJ	און	AvN	_
+13	dos	D	דאָס	dAos	_
+14	drite	ADJ	דריטע	dryte	_
+15	20	NUM	20	20	_
+16	bleter	N	בלעטער	bleter	_
+17	8o	X	8אָ	8Ao	_
+
+SENT	1927E-SHATZKY-TESHUAT,12.11
+1	oyf	P	אױף	AWF	_
+2	dem	D	דעם	deM	_
+3	ser-blat	N	סער-בלאַט	ser-blAat	_
+4	fun	P	פֿון	fvN	_
+5	dem	D	דעם	deM	_
+6	erstn	ADJ	ערסטן	erstN	_
+7	bikhl	N	ביכל	byxl	_
+8	gefint	VBF	געפֿינט	gefynt	_
+9	zikh	PRO	זיך	zyX	_
+10	folgndiker	ADJ	פֿאָלגנדיקער	fAolgndyker	_
+11	oyfshrift	N	אױפֿשריפֿט	AWf$ryft	_
+12	{COM:title_omitted}	NP-PRN-TTL	{cאָם:טיטלע_אָמיטטעד}	{cAoM:tytle_Aomytted}	_
+
+SENT	1927E-SHATZKY-TESHUAT,12.12
+1	der	D	דער	der	_
+2	tsveyter	ADJ	צװײטער	qVYter	_
+3	ser-blat	N	סער-בלאַט	ser-blAat	_
+4	trogt	VBF	טראָגט	trAogt	_
+5	folgndikn	ADJ	פֿאָלגנדיקן	fAolgndykN	_
+6	oyfshrift	N	אױפֿשריפֿט	AWf$ryft	_
+7	{COM:title_omitted}	NP-PRN-TTL	{cאָם:טיטלע_אָמיטטעד}	{cAoM:tytle_Aomytted}	_
+
+SENT	1927E-SHATZKY-TESHUAT,13.14
+1	...	PUNC	...	...	_
+2	dos	D	דאָס	dAos	_
+3	letste	ADJ	לעצטע	leqte	_
+4	bikhl	N	ביכל	byxl	_
+5	heyst	VBF	הײסט	hYst	_
+6	{COM:title_omitted}	NP-SPR-TTL	{cאָם:טיטלע_אָמיטטעד}	{cAoM:tytle_Aomytted}	_
+
+SENT	1927E-SHATZKY-TESHUAT,13.15
+1	in	P	אין	AyN	_
+2	skh-khkl	N	סך-כקל	sX-xkl	_
+3	hot	VBF	האָט	hAot	_
+4	dos	D	דאָס	dAos	_
+5	interesante	ADJ	אינטערעסאַנטע	AynteresAante	_
+6	bikhl	N	ביכל	byxl	_
+7	56	NUM	56	56	_
+8	bleter	N	בלעטער	bleter	_
+
+SENT	1927E-SHATZKY-TESHUAT,13.16
+1	bis	P	ביס	bys	_
+2	itst	ADV	איצט	Ayqt	_
+3	zeynen	VBF	זײנען	zYneN	_
+4	bakant	ADJ	באַקאַנט	bAakAant	_
+5	fir	NUM	פֿיר	fyr	_
+6	ekzempliarn	N	עקזעמפּליִאַרן	ekzemplyiAarN	_
+7	fun	P	פֿון	fvN	_
+8	"	PUNC	"	"	_
+9	tshuet	H	טשועט	t$vet	salvation
+10	isral	NPR	איסראַל	AysrAal	_
+11	"	PUNC	"	"	_
+12	,	PUNC	,	,	_
+13	a_khuts	P	אַ_כוץ	Aa_xvQ	_
+14	tsvey	NUM	צװײ	qVY	_
+15	fragmentn	N	פֿראַגמענטן	frAagmentN	_
+
+SENT	1927E-SHATZKY-TESHUAT,13.17
+1	di_dozike	D	די_דאָזיקע	dy_dAozyke	_
+2	ekzempliarn	N	עקזעמפּליִאַרן	ekzemplyiAarN	_
+3	gefinen	VBF	געפֿינען	gefyneN	_
+4	zikh	PRO	זיך	zyX	_
+5	1	LS	1	1	_
+6	in	P	אין	AyN	_
+7	der	D	דער	der	_
+8	bresloyer	ADJ	ברעסלױער	breslWer	_
+9	stot-bibliotek	N	סטאָט-ביבליִאָטעק	stAot-byblyiAotek	_
+10	2	LS	2	2	_
+11	in	P	אין	AyN	_
+12	britishn	ADJ	בריטישן	bryty$N	_
+13	muzey	N	מוזײ	mvzY	_
+14	3	LS	3	3	_
+15	in	P	אין	AyN	_
+16	der	D	דער	der	_
+17	frankfurter	ADJ	פֿראַנקפֿורטער	frAankfvrter	_
+18	stot_bibliotek	N	סטאָט_ביבליִאָטעק	stAot_byblyiAotek	_
+19	un	CONJ	און	AvN	_
+20	4	LS	4	4	_
+21	in	P	אין	AyN	_
+22	hebrew	NPR	העברעw	hebrew	_
+23	union	NPR	אוניִאָן	AvnyiAoN	_
+24	college	NPR	cאָללעגע	cAollege	_
+25	in	P	אין	AyN	_
+26	sinsineti	NPR	סינסינעטי	synsynety	_
+
+SENT	1927E-SHATZKY-TESHUAT,13.18
+1	di	D	די	dy	_
+2	tsvey	NUM	צװײ	qVY	_
+3	fragmentn	N	פֿראַגמענטן	frAagmentN	_
+4	gefinen	VBF	געפֿינען	gefyneN	_
+5	zikh	PRO	זיך	zyX	_
+6	in	P	אין	AyN	_
+7	der	D	דער	der	_
+8	"	PUNC	"	"	_
+9	rozentaliana	NPR	ראָזענטאַליִאַנאַ	rAozentAalyiAanAa	_
+10	"	PUNC	"	"	_
+11	amsterdamer	ADJ	אַמסטערדאַמער	AamsterdAamer	_
+12	universitet	N	אוניװערסיטעט	AvnyVersytet	_
+13	un'	CONJ	אונ'	Avn'	_
+14	in	P	אין	AyN	_
+15	yidishn	ADJ	ייִדישן	yyidy$N	_
+16	teologishn	ADJ	טעאָלאָגישן	teAolAogy$N	_
+17	seminar	N	סעמינאַר	semynAar	_
+18	in	P	אין	AyN	_
+19	niu	NPR	ניִו	nyiv	_
+20	york	NPR	יאָרק	yAork	_
+21	stamt	VBF	סטאַמט	stAamt	_
+22	fun	P	פֿון	fvN	_
+23	alkhnn	NPR	אַלכנן	AalxnN	_
+24	arlers	NPR$	אַרלערס	Aarlers	_
+25	kolektsie	N	קאָלעקציִע	kAolekqyie	_
+
+SENT	1927E-SHATZKY-TESHUAT,13.19
+1	der	D	דער	der	_
+2	gantser	ADJ	גאַנצער	gAanqer	_
+3	sfr	N	ספֿר	sfr	_
+4	vert	RDF	װערט	Vert	_
+5	oysfirlekh	ADV	אױספֿירלעך	AWsfyrleX	_
+6	beshribn	VAN	בעשריבן	be$rybN	_
+7	fun	P	פֿון	fvN	_
+8	berlinern	NPR	בערלינערן	berlynerN	_
+9	geven	VBN	געװען	geVeN	_
+10	in	P	אין	AyN	_
+11	zeyn	PRO$	זײן	zYN	_
+12	bazits	N	באַזיץ	bAazyQ	_
+13	heynt	ADV	הײנט	hYnt	_
+14	in	P	אין	AyN	_
+15	frankfurter	ADJ	פֿראַנקפֿורטער	frAankfvrter	_
+16	stat_bibliotek	N	סטאַט_ביבליִאָטעק	stAat_byblyiAotek	_
+17	un	CONJ	און	AvN	_
+18	fun	P	פֿון	fvN	_
+19	izidor	NPR	איזידאָר	AyzydAor	_
+20	leb	NPR	לעב	leb	_
+
+SENT	1927E-SHATZKY-TESHUAT,13.20
+1	ven	WADV	װען	VeN	_
+2	iz	BEF	איז	Ayz	_
+3	dershinen	VBN	דערשינען	der$yneN	_
+4	tshuet	H	טשועט	t$vet	salvation
+5	isral	NPR	איסראַל	AysrAal	_
+
+SENT	1927E-SHATZKY-TESHUAT,13.21
+1	un	CONJ	און	AvN	_
+2	ver	WPRO	װער	Ver	_
+3	iz	VBF	איז	Ayz	_
+4	der	D	דער	der	_
+5	aroysgeber	N	אַרױסגעבער	AarWsgeber	_
+6	un	CONJ	און	AvN	_
+7	iberzetser	N	איבערזעצער	Ayberzeqer	_
+
+SENT	1927E-SHATZKY-TESHUAT,13.22
+1	bn-yekb	NPR	בן-יעקב	bN-yekb	_
+2	notirt	VBF	נאָטירט	nAotyrt	_
+3	in	P	אין	AyN	_
+4	zeyn	PRO$	זײן	zYN	_
+5	bibliografie	N	ביבליִאָגראַפֿיִע	byblyiAogrAafyie	_
+6	az	C	אַז	Aaz	_
+7	"	PUNC	"	"	_
+8	tshuet	H	טשועט	t$vet	salvation
+9	isral	NPR	איסראַל	AysrAal	_
+10	bbtul	H	בבטול	bbtvl	in_scorn
+11	elilt	H	עלילט	elylt	libel
+12	dm	H	דם	dM	blood
+13	bl"a	H	בל"אַ	bl"Aa	in_language_other
+14	"	PUNC	"	"	_
+15	iz	BEF	איז	Ayz	_
+16	dershinen	VBN	דערשינען	der$yneN	_
+17	in	P	אין	AyN	_
+18	fiurda	NPR	פֿיִורדאַ	fyivrdAa	_
+19	on	P	אָן	AoN	_
+20	a	D	אַ	Aa	_
+21	date	N	דאַטע	dAate	_
+
+SENT	1927E-SHATZKY-TESHUAT,13.23
+1	tsedner	NPR	צעדנער	qedner	_
+2	git	VBF	גיט	gyt	_
+3	on	RP	אָן	AoN	_
+4	dos	D	דאָס	dAos	_
+5	yar	N	יאַר	yAar	_
+6	1740	NUM	1740	1740	_
+7	mit	P	מיט	myt	_
+8	a	D	אַ	Aa	_
+9	frage-tseykhn	N	פֿראַגע-צײכן	frAage-qYxN	_
+
+SENT	1927E-SHATZKY-TESHUAT,13.24
+1	steynshneyder	NPR	סטײנשנײדער	stYn$nYder	_
+2	nemt	VBF	נעמט	nemt	_
+3	oykh	ADV	אױך	AWX	_
+4	on	RP	אָן	AoN	_
+5	az	C	אַז	Aaz	_
+6	dos	D	דאָס	dAos	_
+7	bikhl	N	ביכל	byxl	_
+8	iz	VBF	איז	Ayz	_
+9	aroys	ADV	אַרױס	AarWs	_
+10	an	P	אַן	AaN	_
+11	erkh	N	ערך	erX	_
+12	in	P	אין	AyN	_
+13	yar	N	יאַר	yAar	_
+14	1740	NUM	1740	1740	_
+15	.	PUNC	.	.	_
+
+SENT	1927E-SHATZKY-TESHUAT,13.25
+1	levensteyn	N	לעװענסטײן	leVenstYN	_
+2	hot	HVF	האָט	hAot	_
+3	ober	ADV	אָבער	Aober	_
+4	bavizn	VBN	באַװיזן	bAaVyzN	_
+5	az	C	אַז	Aaz	_
+6	der	D	דער	der	_
+7	druker	N	דרוקער	drvker	_
+8	fun	P	פֿון	fvN	_
+9	"	PUNC	"	"	_
+10	tsuet	H	צועט	qvet	salvation
+11	isral	NPR	איסראַל	AysrAal	_
+12	"	PUNC	"	"	_
+13	hirsh	NPR	הירש	hyr$	_
+14	un	CONJ	און	AvN	_
+15	zeyn	PRO$	זײן	zYN	_
+16	zun	N	זון	zvN	_
+17	kheym	NPR	כײם	xYM	_
+18	hobn	HVF	האָבן	hAobN	_
+19	gearbet	VBN	געאַרבעט	geAarbet	_
+20	in	P	אין	AyN	_
+21	fiurda	NPR	פֿיִורדאַ	fyivrdAa	_
+22	in	P	אין	AyN	_
+23	di	D	די	dy	_
+24	yorn	N	יאָרן	yAorN	_
+25	1742-1745	N	1742-1745	1742-1745	_
+26	,	PUNC	,	,	_
+
+SENT	1927E-SHATZKY-TESHUAT,13.26
+1	deriber	DR+P	דעריבער	deryber	_
+2	darf	MDF	דאַרף	dAarF	_
+3	men	PRO	מען	meN	_
+4-5	iberdrukn	RP~VB	איבערדרוקן	AyberdrvkN	_
+4	iber	RP	איבער	Ayber	_
+5	drukn	VB	דרוקן	drvkN	_
+6	di	D	די	dy	_
+7	date	N	דאַטע	dAate	_
+8	fun	P	פֿון	fvN	_
+9	druk	N	דרוק	drvk	_
+10	oyf	P	אױף	AWF	_
+11	yene	D	יענע	yene	_
+12	yorn	N	יאָרן	yAorN	_
+
+SENT	1927E-SHATZKY-TESHUAT,13.27
+1	ver	WPRO	װער	Ver	_
+2	iz	VBF	איז	Ayz	_
+3	der	D	דער	der	_
+4	iberzetser	N	איבערזעצער	Ayberzeqer	_
+5	,	PUNC	,	,	_
+6	dos	D	דאָס	dAos	_
+7	veysn	VBF	װײסן	VYsN	_
+8	mir	PRO	מיר	myr	_
+9	fun	P	פֿון	fvN	_
+10	erstn	ADJ	ערסטן	erstN	_
+11	ser-blat	N	סער-בלאַט	ser-blAat	_
+
+SENT	1927E-SHATZKY-TESHUAT,13.28
+1	zeyn	PRO$	זײן	zYN	_
+2	namen	N	נאַמען	nAameN	_
+3	iz	VBF	איז	Ayz	_
+4	kheym	NPR	כײם	xYM	_
+
+SENT	1927E-SHATZKY-TESHUAT,13.29
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	stamt	VBF	סטאַמט	stAamt	_
+4	"	PUNC	"	"	_
+5	mgze	H	מגזע	mgze	from_stock
+6	lublin	NPR	לובלין	lvblyN	_
+7	"	PUNC	"	"	_
+8	alzu	ADV	אַלזו	Aalzv	_
+9	a	D	אַ	Aa	_
+10	poylisher	ADJ	פּױלישער	pWly$er	_
+11	yid	N	ייִד	yyid	_
+
+SENT	1927E-SHATZKY-TESHUAT,13.30
+1	fun	P	פֿון	fvN	_
+2	zeyn	PRO$	זײן	zYN	_
+3	hkdmh	N	הקדמה	hkdmh	_
+4	dervisn	VBF	דערװיסן	derVysN	_
+5	mir	PRO	מיר	myr	_
+6	zikh	PRO	זיך	zyX	_
+7	a	D	אַ	Aa	_
+8	bisl	N	ביסל	bysl	_
+9	mer	QR	מער	mer	_
+10	eyntslheytn	N	אײנצלהײטן	AYnqlhYtN	_
+11	vegn	P	װעגן	VegN	_
+12	im	PRO	אים	AyM	_
+
+SENT	1927E-SHATZKY-TESHUAT,13.31
+1	er	PRO	ער	er	_
+2	iz	BEF	איז	Ayz	_
+3	geven	VBN	געװען	geVeN	_
+4	zeyn	PRO$	זײן	zYN	_
+5	gants	ADJ	גאַנץ	gAanQ	_
+6	lebn	N	לעבן	lebN	_
+7	(	OPAREN	(	(	_
+8	kl	H	קל	kl	all
+9	imi	H	אימי	Aymy	days
+10	)	CPAREN	)	)	_
+11	a	D	אַ	Aa	_
+12	groyser	ADJ	גרױסער	grWser	_
+13	zoykhr	N	זױכר	zWxr	_
+
+SENT	1927E-SHATZKY-TESHUAT,13.32
+1	der	D	דער	der	_
+2	enin	N	ענין	enyN	_
+3	fun	P	פֿון	fvN	_
+4	elilt-dm	N	עלילט-דם	elylt-dM	_
+5	interesirt	VBF	אינטערעסירט	Aynteresyrt	_
+6	in	PRO	אין	AyN	_
+7	zeyer	ADV	זײער	zYer	_
+8	blutig	ADV	בלוטיג	blvtyg	_
+9	veyl	C	װײל	VYl	_
+10	er	PRO	ער	er	_
+11	iz	VBF	איז	Ayz	_
+12	a	D	אַ	Aa	_
+13	"	PUNC	"	"	_
+14	gual	H	גואַל	gvAal	redeemer
+15	hdm	H	הדם	hdM	the_blood
+16	mn	H	מן	mN	from
+17	hkdusim	H	הקדוסים	hkdvsyM	the_holy_ones
+18	bk"k	H	בק"ק	bk"k	in_community_holy
+19	tsuzmir	NPR	צוזמיר	qvzmyr	_
+20	den	CONJ	דען	deN	_
+21	tsvisn	P	צװיסן	qVysN	_
+22	di	D	די	dy	_
+23	kdushim	N	קדושים	kdv$yM	_
+24	iz	BEF	איז	Ayz	_
+25	gevezn	VBN	געװעזן	geVezN	_
+26	meyn	PRO$	מײן	mYN	_
+27	fetir	N	פֿעטיר	fetyr	_
+28	"	PUNC	"	"	_
+
+SENT	1927E-SHATZKY-TESHUAT,13.33
+1	iber	P	איבער	Ayber	_
+2	dem	D	דעם	deM	_
+3	tsuzmirer	ADJ	צוזמירער	qvzmyrer	_
+4	elilt-dm	N	עלילט-דם	elylt-dM	_
+5	veln	MDF	װעלן	VelN	_
+6	mir	PRO	מיר	myr	_
+7	reydn	VB	רײדן	rYdN	_
+8	speter	ADV	ספּעטער	speter	_
+
+SENT	1927E-SHATZKY-TESHUAT,13.34
+1	itst	ADV	איצט	Ayqt	_
+2	iz	VBF	איז	Ayz	_
+3	vikhtig	ADJ	װיכטיג	Vyxtyg	_
+4	fest	RP-ADJ	פֿעסט	fest	_
+5	tsu	TO	צו	qv	_
+6	shteln	VB	שטעלן	$telN	_
+7	az	C	אַז	Aaz	_
+8	der	D	דער	der	_
+9	aroysgeber	N	אַרױסגעבער	AarWsgeber	_
+10	un	CONJ	און	AvN	_
+11	efshr	ADV	עפֿשר	ef$r	_
+12	oykh	ADV	אױך	AWX	_
+13	der	D	דער	der	_
+14	iberzetser	N	איבערזעצער	Ayberzeqer	_
+15	fun	P	פֿון	fvN	_
+16	di	D	די	dy	_
+17	drey	NUM	דרײ	drY	_
+18	italienishe	ADJ	איטאַליִענישע	AytAalyieny$e	_
+19	dokumentn	N	דאָקומענטן	dAokvmentN	_
+20	kegn	P	קעגן	kegN	_
+21	elilt-dm	N	עלילט-דם	elylt-dM	_
+22	iz	BEF	איז	Ayz	_
+23	spetsiel	ADV	ספּעציִעל	speqyiel	_
+24	geforn	VBN	געפֿאָרן	gefAorN	_
+25	keyn	P	קײן	kYN	_
+26	roym	N	רױם	rWM	_
+27	un	CONJ	און	AvN	_
+28	iz	BEF	איז	Ayz	_
+29	"	PUNC	"	"	_
+30	hlbn	X	הלבן	hlbN	_
+31	ne	H	נע	ne	move
+32	vnd	H	װנד	Vnd	and_wander
+33	bmdint	H	במדינט	bmdynt	in_countries
+34	akhrim	H	אַכרים	AaxryM	UNKNOWN
+35	"	PUNC	"	"	_
+36	gevezn	VBN	געװעזן	geVezN	_
+37	kdi	ADV	קדי	kdy	_
+38	tsu	TO	צו	qv	_
+39	bakumen	VB	באַקומען	bAakvmeN	_
+40	di_dozike	D	די_דאָזיקע	dy_dAozyke	_
+41	shriftn	N	שריפֿטן	$ryftN	_
+
+SENT	1927E-SHATZKY-TESHUAT,13.35
+1	er	PRO	ער	er	_
+2	baruft	VBF	באַרופֿט	bAarvft	_
+3	zikh	PRO	זיך	zyX	_
+4	oyf	P	אױף	AWF	_
+5	yidn	N	ייִדן	yyidN	_
+6	velkhe	WPRO	װעלכע	Velxe	_
+7	hobn	HVF	האָבן	hAobN	_
+8	mit	P	מיט	myt	_
+9	im	PRO	אים	AyM	_
+10	gehandlt	VBN	געהאַנדלט	gehAandlt	_
+11	vos	C	װאָס	VAos	_
+12	konen	MDF	קאָנען	kAoneN	_
+13	bastetikn	VB	באַסטעטיקן	bAastetykN	_
+14	az	C	אַז	Aaz	_
+15	alts	Q	אַלץ	AalQ	_
+16	vos	C	װאָס	VAos	_
+17	er	PRO	ער	er	_
+18	zogt	VBF	זאָגט	zAogt	_
+19	iz	VBF	איז	Ayz	_
+20	emes	N	אמת	AmS	_
+
+SENT	1927E-SHATZKY-TESHUAT,13.36
+1	er	PRO	ער	er	_
+2	iz	BEF	איז	Ayz	_
+3	geven	VBN	געװען	geVeN	_
+4	in	P	אין	AyN	_
+5	roym	N	רױם	rWM	_
+
+SENT	1927E-SHATZKY-TESHUAT,13.37
+1	un	CONJ	און	AvN	_
+2	hot	HVF	האָט	hAot	_
+3	di	D	די	dy	_
+4	bikhlekh	N	ביכלעך	byxleX	_
+5-6	oyfgezukht	RP~VBN	אױפֿגעזוכט	AWfgezvxt	_
+5	oyf	RP	אױף	AWF	_
+6	gezukht	VBN	געזוכט	gezvxt	_
+
+SENT	1927E-SHATZKY-TESHUAT,13.38
+1	un	CONJ	און	AvN	_
+2	hot	HVF	האָט	hAot	_
+3	zey	PRO	זײ	zY	_
+4	"	PUNC	"	"	_
+5	mit	P	מיט	myt	_
+6	groyzami	ADJ	גרױזאַמי	grWzAamy	_
+7	mi	N	מי	my	_
+8	un'	CONJ	אונ'	Avn'	_
+9	kostn	N	קאָסטן	kAostN	_
+10	in	P	אין	AyN	_
+11	"	PUNC	"	"	_
+12	teytshin	N	טײטשין	tYt$yN	_
+13	gebroykht	VBN	געברױכט	gebrWxt	_
+
+SENT	1927E-SHATZKY-TESHUAT,13.39
+1	ale	Q	אַלע	Aale	_
+2	andere	ADJ	אַנדערע	Aandere	_
+3	eninim	N	ענינים	enynyM	_
+4	veln	MDF	װעלן	VelN	_
+5	dem	D	דעם	deM	_
+6	lezer	N	לעזער	lezer	_
+7	klar	ADJ	קלאַר	klAar	_
+8	vern	VB	װערן	VerN	_
+9	ven	C	װען	VeN	_
+10	er	PRO	ער	er	_
+11	vet	MDF	װעט	Vet	_
+12-13	iberleyenen	RP~VB	איבערלײענען	AyberlYeneN	_
+12	iber	RP	איבער	Ayber	_
+13	leyenen	VB	לײענען	lYeneN	_
+14	di	D	די	dy	_
+15	gantse	ADJ	גאַנצע	gAanqe	_
+16	hkdmh	N	הקדמה	hkdmh	_
+17	zeyne	PRO$	זײנע	zYne	_
+18	velkhe	WPRO	װעלכע	Velxe	_
+19	vert	RDF	װערט	Vert	_
+20	do	ADV	דאָ	dAo	_
+21-22	ibergedrukt	RP~VAN	איבערגעדרוקט	Aybergedrvkt	_
+21	iber	RP	איבער	Ayber	_
+22	gedrukt	VAN	געדרוקט	gedrvkt	_
+
+SENT	1927E-SHATZKY-TESHUAT,13.40
+1	itst	ADV	איצט	Ayqt	_
+2	iz	VBF	איז	Ayz	_
+3	vikhtik	ADJ	װיכטיק	Vyxtyk	_
+4	fest	RP-ADJ	פֿעסט	fest	_
+5	tsu	TO	צו	qv	_
+6	shteln	VB	שטעלן	$telN	_
+7	az	C	אַז	Aaz	_
+8	mir	PRO	מיר	myr	_
+9	hobn	VBF	האָבן	hAobN	_
+10	do	ADV	דאָ	dAo	_
+11	tsu	TO	צו	qv	_
+12	ton	VB	טאָן	tAoN	_
+13	mit	P	מיט	myt	_
+14	an	D	אַן	AaN	_
+15	interesantn	ADJ	אינטערעסאַנטן	AynteresAantN	_
+16	poylishn	ADJ	פּױלישן	pWly$N	_
+17	yidn	N	ייִדן	yyidN	_
+18	a	D	אַ	Aa	_
+19	soykhr	N	סױכר	sWxr	_
+20	un	CONJ	און	AvN	_
+21	an	D	אַן	AaN	_
+22	energisher	ADJ	ענערגישער	energy$er	_
+23	kll-mued	N	קלל-מועד	kll-mved	_
+24	velkher	WPRO	װעלכער	Velxer	_
+25	hot	HVF	האָט	hAot	_
+26	bakumen	VBN	באַקומען	bAakvmeN	_
+27	dos	D	דאָס	dAos	_
+28	vos	C	װאָס	VAos	_
+29	andere	ADJ	אַנדערע	Aandere	_
+30	shlikhim	N	שליחים	$lyHyM	_
+31	fun	P	פֿון	fvN	_
+32	poyln	NPR	פּױלן	pWlN	_
+33	far	P	פֿאַר	fAar	_
+34	im	PRO	אים	AyM	_
+35	hot	HVF	האָט	hAot	_
+36	zikh	PRO	זיך	zyX	_
+37	nisht	NEG	נישט	ny$t	_
+38-39	eyngegebn	RP~VBN	אײנגעגעבן	AYngegebN	_
+38	eyn	RP	אײן	AYN	_
+39	gegebn	VBN	געגעבן	gegebN	_
+
+SENT	1927E-SHATZKY-TESHUAT,13.41
+1	er	PRO	ער	er	_
+2	hot	HVF	האָט	hAot	_
+3	zikh	PRO	זיך	zyX	_
+4	bezargt	VBN	בעזאַרגט	bezAargt	_
+5	mit	P	מיט	myt	_
+6	khtimut	N	כטימוט	xtymvt	_
+7	fun	P	פֿון	fvN	_
+8	farsheydene	ADJ	פֿאַרשײדענע	fAar$Ydene	_
+9	rbnim	N	רבנים	rbnyM	_
+10	in	P	אין	AyN	_
+11	italie	NPR	איטאַליִע	AytAalyie	_
+12	un	CONJ	און	AvN	_
+13	deytshland	NPR	דײטשלאַנד	dYt$lAand	_
+14	velkhe	WPRO	װעלכע	Velxe	_
+15	zoln	MDF	זאָלן	zAolN	_
+16	bastetikn	VB	באַסטעטיקן	bAastetykN	_
+17	zeyne	PRO$	זײנע	zYne	_
+18	groyse	ADJ	גרױסע	grWse	_
+19	anstrengungen	N	אַנסטרענגונגען	AanstrengvngeN	_
+20	in	P	אין	AyN	_
+21	dem	D	דעם	deM	_
+22	prt	N	פּרט	prt	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.43
+1	r'	NPR	ר'	r'	_
+2	kheym	NPR	כײם	xYM	_
+3	"	PUNC	"	"	_
+4	mgze	H	מגזע	mgze	from_stock
+5	alsikh	NPR	אַלסיך	AalsyX	_
+6	"	PUNC	"	"	_
+7	hot	HVF	האָט	hAot	_
+8	oykh	ADV	אױך	AWX	_
+9	gehat	VBN	געהאַט	gehAat	_
+10	breh	N	ברעה	breh	_
+11-13	optsudruken	RP~TO~VB	אָפּצודרוקען	AopqvdrvkeN	_
+11	op	RP	אָפּ	Aop	_
+12	tsu	TO	צו	qv	_
+13	druken	VB	דרוקען	drvkeN	_
+14	dos	D	דאָס	dAos	_
+15	sfrl	N	ספֿרל	sfrl	_
+16	"	PUNC	"	"	_
+17	oyf	P	אױף	AWF	_
+18	andri	ADJ	אַנדרי	Aandry	_
+19	lsunut	N	לסונוט	lsvnvt	_
+20	"	PUNC	"	"	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.44
+1	dos	D	דאָס	dAos	_
+2	meynt	VBF	מײנט	mYnt	_
+3	az	C	אַז	Aaz	_
+4	er	PRO	ער	er	_
+5	hot	HVF	האָט	hAot	_
+6	efshr	ADV	עפֿשר	ef$r	_
+7	gehot	VBN	געהאָט	gehAot	_
+8	breh	N	ברעה	breh	_
+9	dos_dozike	D	דאָס_דאָזיקע	dAos_dAozyke	_
+10	verkl	N	װערקל	Verkl	_
+11-12	aroysgebn	ADV~VB	אַרױסגעבן	AarWsgebN	_
+11	aroys	ADV	אַרױס	AarWs	_
+12	gebn	VB	געבן	gebN	_
+13	oyf	P	אױף	AWF	_
+14	poylish	N	פּױליש	pWly$	_
+15	kdi	ADV	קדי	kdy	_
+16	di	D	די	dy	_
+17	"	PUNC	"	"	_
+18	sliakhte	N	סליִאַכטע	slyiAaxte	_
+19	"	PUNC	"	"	_
+20	zal	MDF	ז"ל	z"l	_
+21	zikh	PRO	זיך	zyX	_
+22-23	ibertseygn	RP~VB	איבערצײגן	AyberqYgN	_
+22	iber	RP	איבער	Ayber	_
+23	tseygn	VB	צײגן	qYgN	_
+24	az	C	אַז	Aaz	_
+25	di	D	די	dy	_
+26	blut-bashuldikung	N	בלוט-באַשולדיקונג	blvt-bAa$vldykvng	_
+27	iz	VBF	איז	Ayz	_
+28	a	D	אַ	Aa	_
+29	grundloze	ADJ	גרונדלאָזע	grvndlAoze	_
+30	vi	WADV	װי	Vy	_
+31	es	ES	עס	es	_
+32	bastetikn	VBF	באַסטעטיקן	bAastetykN	_
+33	di_dozike	D	די_דאָזיקע	dy_dAozyke	_
+34	dokumentn	N	דאָקומענטן	dAokvmentN	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.45
+1	mer	QR	מער	mer	_
+2	ydieut	N	ידיִעוט	ydyievt	_
+3	vegn	P	װעגן	VegN	_
+4	dem	D	דעם	deM	_
+5	kheym	NPR	כײם	xYM	_
+6	"	PUNC	"	"	_
+7	mzge	H	מזגע	mzge	UNKNOWN
+8	alshikh	NPR	אַלשיך	Aal$yX	_
+9	"	PUNC	"	"	_
+10	farmogn	VBF	פֿאַרמאָגן	fAarmAogN	_
+11	mir	PRO	מיר	myr	_
+12	nisht	NEG	נישט	ny$t	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.46
+1	in	P	אין	AyN	_
+2	der	D	דער	der	_
+3	rsimh	N	רסימה	rsymh	_
+4	fun	P	פֿון	fvN	_
+5	lubliner	ADJ	לובלינער	lvblyner	_
+6	rbnim	N	רבנים	rbnyM	_
+7	un	CONJ	און	AvN	_
+8	tlmidi_khkhmim	N	טלמידי_ככמים	tlmydy_xxmyM	_
+9	vert	RDF	װערט	Vert	_
+10	zeyn	PRO$	זײן	zYN	_
+11	nomen	N	נאָמען	nAomeN	_
+12	nist	NEG	ניסט	nyst	_
+13	dermont	VAN	דערמאָנט	dermAont	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.47
+1	tsi	C	צי	qy	_
+2	stamt	VBF	סטאַמט	stAamt	_
+3	er	PRO	ער	er	_
+4	fun	P	פֿון	fvN	_
+5	dem	D	דעם	deM	_
+6	barimten	ADJ	באַרימטען	bAarymteN	_
+7	r'	NPR	ר'	r'	_
+8	mskh	NPR	מסך	msX	_
+9	bn	NPR	בן	bN	_
+10	kheym	NPR	כײם	xYM	_
+11	alsikh	NPR	אַלסיך	AalsyX	_
+12	fun	P	פֿון	fvN	_
+13	tspt	NPR	צפּט	qpt	_
+14	dem	D	דעם	deM	_
+15	mkhbr	N	מכבר	mxbr	_
+16	fun	P	פֿון	fvN	_
+17	pirus	NPR	פּירוס	pyrvs	_
+18	tsum	NPR	צום	qvM	_
+19	khums	NPR	כומס	xvms	_
+20	velkher	WPRO	װעלכער	Velxer	_
+21	hot	HVF	האָט	hAot	_
+22	gelebt	VBN	געלעבט	gelebt	_
+23	in	P	אין	AyN	_
+24	16tn	ADJ	16טן	16tN	_
+25	yorhundert	N	יאָרהונדערט	yAorhvndert	_
+26	iz	VBF	איז	Ayz	_
+27	oykh	ADV	אױך	AWX	_
+28	nisht	NEG	נישט	ny$t	_
+29	bakant	ADJ	באַקאַנט	bAakAant	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.48
+1	veyzt	VBF	װײזט	VYzt	_
+2	oys	RP	אױס	AWs	_
+3	,	PUNC	,	,	_
+4	az	C	אַז	Aaz	_
+5	oyser	P	אױסער	AWser	_
+6	dem	D	דעם	deM	_
+7	ihus	N	איהוס	Ayhvs	_
+8	mit	P	מיט	myt	_
+9	a	D	אַ	Aa	_
+10	feter	N	פֿעטער	feter	_
+11	a	D	אַ	Aa	_
+12	kdus	N	קדוס	kdvs	_
+13	fun	P	פֿון	fvN	_
+14	tsuzmir	NPR	צוזמיר	qvzmyr	_
+15	un	CONJ	און	AvN	_
+16	mit	P	מיט	myt	_
+17	zeyn	PRO$	זײן	zYN	_
+18	guter	ADJ	גוטער	gvter	_
+19	kunh	N	קונה	kvnh	_
+20-22	aroystsugebn	ADV~TO~VB	אַרױסצוגעבן	AarWsqvgebN	_
+20	aroys	ADV	אַרױס	AarWs	_
+21	tsu	TO	צו	qv	_
+22	gebn	VB	געבן	gebN	_
+23	di_dozike	D	די_דאָזיקע	dy_dAozyke	_
+24	apologetishe	ADJ	אַפּאָלאָגעטישע	AapAolAogety$e	_
+25	shriftn	N	שריפֿטן	$ryftN	_
+26	oyf	P	אױף	AWF	_
+27	yidish	N	ייִדיש	yyidy$	_
+28	hot	HVF	האָט	hAot	_
+29	er	PRO	ער	er	_
+30	zikh	PRO	זיך	zyX	_
+31	nisht	NEG	נישט	ny$t	_
+32	gehat	VBN	געהאַט	gehAat	_
+33	mit	P	מיט	myt	_
+34	vos	WPRO	װאָס	VAos	_
+35-37	oystsutseykhenen	RP~TO~VB	אױסצוצײכענען	AWsqvqYxeneN	_
+35	oys	RP	אױס	AWs	_
+36	tsu	TO	צו	qv	_
+37	tseykhenen	VB	צײכענען	qYxeneN	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.49
+1	derfar	DR+P	דערפֿאַר	derfAar	_
+2	shveygn	VBF	שװײגן	$VYgN	_
+3	vegn	P	װעגן	VegN	_
+4	im	PRO	אים	AyM	_
+5	ale	Q	אַלע	Aale	_
+6	entsiklopedies	N	ענציקלאָפּעדיִעס	enqyklAopedyies	_
+7	un	CONJ	און	AvN	_
+8	biografishe	ADJ	ביִאָגראַפֿישע	byiAogrAafy$e	_
+9	leksikoner	N	לעקסיקאָנער	leksykAoner	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.50
+1	derfar	DR+P	דערפֿאַר	derfAar	_
+2	vert	RDF	װערט	Vert	_
+3	er	PRO	ער	er	_
+4	azu	CONJ	אַזו	Aazv	_
+5	zeyn	PRO$	זײן	zYN	_
+6	"	PUNC	"	"	_
+7	gze	N	גזע	gze	_
+8	"	PUNC	"	"	_
+9	nist	NEG	ניסט	nyst	_
+10	dermont	VAN	דערמאָנט	dermAont	_
+11	afilu	FP	אַפֿילו	Aafylv	_
+12	in	P	אין	AyN	_
+13	der	D	דער	der	_
+14	geshikhte	N	געשיכטע	ge$yxte	_
+15	fun	P	פֿון	fvN	_
+16	di	D	די	dy	_
+17	yidn	N	ייִדן	yyidN	_
+18	in	P	אין	AyN	_
+19	lublin	NPR	לובלין	lvblyN	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.51
+1	2	LS	2	2	_
+2	in	P	אין	AyN	_
+3	zkhut	N	זכוט	zxvt	_
+4	fun	P	פֿון	fvN	_
+5	zeyn	PRO$	זײן	zYN	_
+6	feter	N	פֿעטער	feter	_
+7	a	D	אַ	Aa	_
+8	krbn	N	קרבן	krbN	_
+9	fun	P	פֿון	fvN	_
+10	a	D	אַ	Aa	_
+11	blut_bashuldikung	N	בלוט_באַשולדיקונג	blvt_bAa$vldykvng	_
+12	in	P	אין	AyN	_
+13	tsuzmir	NPR	צוזמיר	qvzmyr	_
+14	hot	HVF	האָט	hAot	_
+15	r'	NPR	ר'	r'	_
+16	kheym	NPR	כײם	xYM	_
+17	gashlosn	VBN	גאַשלאָסן	gAa$lAosN	_
+18-20	aroystsugebn	ADV~TO~VB	אַרױסצוגעבן	AarWsqvgebN	_
+18	aroys	ADV	אַרױס	AarWs	_
+19	tsu	TO	צו	qv	_
+20	gebn	VB	געבן	gebN	_
+21	di_dozike	D	די_דאָזיקע	dy_dAozyke	_
+22	vikhtike	ADJ	װיכטיקע	Vyxtyke	_
+23	dokumentn	N	דאָקומענטן	dAokvmentN	_
+24	kegn	P	קעגן	kegN	_
+25	dem	D	דעם	deM	_
+26	blbul	N	בלבול	blbvl	_
+27	velkhe	WPRO	װעלכע	Velxe	_
+28	hobn	HVF	האָבן	hAobN	_
+29	gehot	VBN	געהאָט	gehAot	_
+30	a	D	אַ	Aa	_
+31	sheykhut	N	שײכוט	$Yxvt	_
+32	mit	P	מיט	myt	_
+33	a	D	אַ	Aa	_
+34	gevaunenem	ADJ	געװאַונענעם	geVAavneneM	_
+35	protses	N	פּראָצעס	prAoqes	_
+36	in	P	אין	AyN	_
+37	a	D	אַ	Aa	_
+38	kleyn	ADJ	קלײן	klYN	_
+39	italienish	ADJ	איטאַליִעניש	AytAalyieny$	_
+40	stot	N	סטאָט	stAot	_
+41	viterbo	NPR	װיטערבאָ	VyterbAo	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.52
+1	tsuzmir	NPR	צוזמיר	qvzmyr	_
+2	oder	CONJ	אָדער	Aoder	_
+3	oyf	P	אױף	AWF	_
+4	poylish	N	פּױליש	pWly$	_
+5	{COM:name_omitted}	NP	{cאָם:נאַמע_אָמיטטעד}	{cAoM:nAame_Aomytted}	_
+6	hot	HVF	האָט	hAot	_
+7	gehat	VBN	געהאַט	gehAat	_
+8	a_sakh	Q	אַ_סאַך	Aa_sAaX	_
+9-11	oystsusteyn	RP~TO~VB	אױסצוסטײן	AWsqvstYN	_
+9	oys	RP	אױס	AWs	_
+10	tsu	TO	צו	qv	_
+11	steyn	VB	סטײן	stYN	_
+12	fun	P	פֿון	fvN	_
+13	blut-blbulim	N	בלוט-בלבולים	blvt-blbvlyM	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.53
+1	in	P	אין	AyN	_
+2	yor	N	יאָר	yAor	_
+3	1698	NUM	1698	1698	_
+4	hot	HVF	האָט	hAot	_
+5	men	PRO	מען	meN	_
+6	dort	ADV	דאָרט	dAort	_
+7	bashuldikt	VBN	באַשולדיקט	bAa$vldykt	_
+8	di	D	די	dy	_
+9	yidn	N	ייִדן	yyidN	_
+10	in	P	אין	AyN	_
+11	hrgenen	VB	הרגענען	hrgeneN	_
+12	a	D	אַ	Aa	_
+13	par	Q	פּאַר	pAar	_
+14	kristlekhe	ADJ	קריסטלעכע	krystlexe	_
+15	kinder	N	קינדער	kynder	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.54
+1	mit	P	מיט	myt	_
+2	vos	WPRO	װאָס	VAos	_
+3	hot	HVF	האָט	hAot	_
+4	zikh	PRO	זיך	zyX	_
+5	demolst	ADV	דעמאָלסט	demAolst	_
+6	der	D	דער	der	_
+7	protses	N	פּראָצעס	prAoqes	_
+8	geendikt	VBN	געענדיקט	geendykt	_
+9	un	CONJ	און	AvN	_
+10	tsi	C	צי	qy	_
+11	iz	BEF	איז	Ayz	_
+12	bkll	ADV	בקלל	bkll	_
+13	gekumen	VBN	געקומען	gekvmeN	_
+14	tsu	P	צו	qv	_
+15	a	D	אַ	Aa	_
+16	protses	N	פּראָצעס	prAoqes	_
+17	deriber	DR+P	דעריבער	deryber	_
+18	shveygn	VBF	שװײגן	$VYgN	_
+19	di	D	די	dy	_
+20	kveln	N	קװעלן	kVelN	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.55
+1	a	D	אַ	Aa	_
+2	groysn	ADJ	גרױסן	grWsN	_
+3	rusm	N	רוסם	rvsM	_
+4	hot	HVF	האָט	hAot	_
+5	ober	ADV	אָבער	Aober	_
+6	gemakht	VBN	געמאַכט	gemAaxt	_
+7	der	D	דער	der	_
+8	tsveyter	ADJ	צװײטער	qVYter	_
+9	blut-blbul	N	בלוט-בלבול	blvt-blbvl	_
+10	un	CONJ	און	AvN	_
+11	der	D	דער	der	_
+12	protses	N	פּראָצעס	prAoqes	_
+13	fun	P	פֿון	fvN	_
+14	yor	N	יאָר	yAor	_
+15	1710	NUM	1710	1710	_
+16	.	PUNC	.	.	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.56
+1	dem	D	דעם	deM	_
+2	18tn	ADJ	18טן	18tN	_
+3	oygust	NPR	אױגוסט	AWgvst	_
+4	1710	NUM	1710	1710	_
+5	iz	BEF	איז	Ayz	_
+6	in	P	אין	AyN	_
+7	tsuzmir	NPR	צוזמיר	qvzmyr	_
+8	farfaln	VX	פֿאַרפֿאַלן	fAarfAalN	_
+9	gevorn	RDN	געװאָרן	geVAorN	_
+10	a	D	אַ	Aa	_
+11	kristlekh	ADJ	קריסטלעך	krystleX	_
+12	kind	N	קינד	kynd	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.57
+1	di	D	די	dy	_
+2	kristlekhe	ADJ	קריסטלעכע	krystlexe	_
+3	birger	N	בירגער	byrger	_
+4	velkhe	WPRO	װעלכע	Velxe	_
+5	hobn	HVF	האָבן	hAobN	_
+6	zikh	PRO	זיך	zyX	_
+7	shoyn	ADV	שױן	$WN	_
+8	fun	P	פֿון	fvN	_
+9	lang	ADV	לאַנג	lAang	_
+10	mskhdl	RP-H	מסכדל	msxdl	_
+11	geven	VBN	געװען	geVeN	_
+12-13	beym	P~D	בײם	bYM	_
+12	bey	P	בײ	bY	_
+13	m	D	מ	m	_
+14	kinig	N	קיניג	kynyg	_
+15	az	C	אַז	Aaz	_
+16	men	PRO	מען	meN	_
+17	zal	MDF	ז"ל	z"l	_
+18-19	aroystreybn	ADV~VB	אַרױסטרײבן	AarWstrYbN	_
+18	aroys	ADV	אַרױס	AarWs	_
+19	treybn	VB	טרײבן	trYbN	_
+20	di	D	די	dy	_
+21	yidishe	ADJ	ייִדישע	yyidy$e	_
+22	soykhrim	N	סױכרים	sWxryM	_
+23	fun	P	פֿון	fvN	_
+24	stot	N	סטאָט	stAot	_
+25	hobn	HVF	האָבן	hAobN	_
+26	inttsegirt	VBN	אינטצעגירט	Ayntqegyrt	_
+27	a	D	אַ	Aa	_
+28	protses	N	פּראָצעס	prAoqes	_
+29	mit	P	מיט	myt	_
+30	a	D	אַ	Aa	_
+31	pogrom	N	פּאָגראָם	pAogrAoM	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.58
+1	zey	PRO	זײ	zY	_
+2	hobn	HVF	האָבן	hAobN	_
+3	gefunen	VBN	געפֿונען	gefvneN	_
+4	a	D	אַ	Aa	_
+5	gutn	ADJ	גוטן	gvtN	_
+6	anreytser	N	אַנרײצער	AanrYqer	_
+7	in	P	אין	AyN	_
+8	der	D	דער	der	_
+9	perzon	N	פּערזאָן	perzAoN	_
+10	fun	P	פֿון	fvN	_
+11	glkh	N	גלך	glX	_
+12	zhukhovski	NPR	זשוכאָװסקי	z$vxAoVsky	_
+13	velkher	WPRO	װעלכער	Velxer	_
+14	hot	HVF	האָט	hAot	_
+15	afilu	FP	אַפֿילו	Aafylv	_
+16-17	aroysgegebn	ADV~VBN	אַרױסגעגעבן	AarWsgegebN	_
+16	aroys	ADV	אַרױס	AarWs	_
+17	gegebn	VBN	געגעבן	gegebN	_
+18	an	D	אַן	AaN	_
+19	interesant	ADJ	אינטערעסאַנט	AynteresAant	_
+20	antisemitish	ADJ	אַנטיסעמיטיש	Aantysemyty$	_
+21	bikhl	N	ביכל	byxl	_
+22	vegn	P	װעגן	VegN	_
+23	dem	D	דעם	deM	_
+24	blutrstn	ADJ	בלוטרסטן	blvtrstN	_
+25	mard	N	מאַרד	mAard	_
+26	fun	P	פֿון	fvN	_
+27	yor	N	יאָר	yAor	_
+28	1698	NUM	1698	1698	_
+29	.	PUNC	.	.	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.59
+1	zhukhovski	NPR	זשוכאָװסקי	z$vxAoVsky	_
+2	hot	HVF	האָט	hAot	_
+3-4	ongefirt	RP~VBN	אָנגעפֿירט	Aongefyrt	_
+3	on	RP	אָן	AoN	_
+4	gefirt	VBN	געפֿירט	gefyrt	_
+5	mit	P	מיט	myt	_
+6	der	D	דער	der	_
+7	gantser	ADJ	גאַנצער	gAanqer	_
+8	aktsie	N	אַקציִע	Aakqyie	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.60
+1	er	PRO	ער	er	_
+2	hot	HVF	האָט	hAot	_
+3	spetsiel	ADV	ספּעציִעל	speqyiel	_
+4-5	aropgebrakht	ADV~VBN	אַראָפּגעבראַכט	AarAopgebrAaxt	_
+4	arop	ADV	אַראָפּ	AarAop	_
+5	gebrakht	VBN	געבראַכט	gebrAaxt	_
+6	a	D	אַ	Aa	_
+7	msumd	N	מסומד	msvmd	_
+8-9	mitn	P~D	מיטן	mytN	_
+8	mit	P	מיט	myt	_
+9	n	D	נ	n	_
+10	namen	N	נאַמען	nAameN	_
+11	yaz	N	יאַז	yAaz	_
+12	merapimovits	N	מעראַפּימאָװיץ	merAapymAoVyQ	_
+13	velkher	WPRO	װעלכער	Velxer	_
+14	hot	HVF	האָט	hAot	_
+15	zikh	PRO	זיך	zyX	_
+16-17	ongegebn	RP~VBN	אָנגעגעבן	AongegebN	_
+16	on	RP	אָן	AoN	_
+17	gegebn	VBN	געגעבן	gegebN	_
+18	far	P	פֿאַר	fAar	_
+19	a	D	אַ	Aa	_
+20	gevezenem	ADJ	געװעזענעם	geVezeneM	_
+21	rb	N	רב	rb	_
+22	fun	P	פֿון	fvN	_
+23	brisk	NPR	בריסק	brysk	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.61
+1	der_doziker	D	דער_דאָזיקער	der_dAozyker	_
+2	serafimovits	N	סעראַפֿימאָװיץ	serAafymAoVyQ	_
+3	iz	BEF	איז	Ayz	_
+4	gekumen	VBN	געקומען	gekvmeN	_
+5	tsu	TO	צו	qv	_
+6	farn	VB	פֿאַרן	fAarN	_
+7	keyn	P	קײן	kYN	_
+8	tsuzmir	NPR	צוזמיר	qvzmyr	_
+9	als	P	אַלס	Aals	_
+10	an	D	אַן	AaN	_
+11	ekspert	N	עקספּערט	ekspert	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.62
+1-2	oyfn	P~D	אױפֿן	AWfN	_
+1	oyf	P	אױף	AWF	_
+2	n	D	נ	n	_
+3	protses	N	פּראָצעס	prAoqes	_
+4	hot	HVF	האָט	hAot	_
+5	er	PRO	ער	er	_
+6	geredt	VBN	גערעדט	geredt	_
+7	psut	ADJ	פּסוט	psvt	_
+8	yidsh	N	ייִדש	yyid$	_
+9	veyl	C	װײל	VYl	_
+10	er	PRO	ער	er	_
+11	hot	HVF	האָט	hAot	_
+12	keyn	Q	קײן	kYN	_
+13	ander	ADJ	אַנדער	Aander	_
+14	sprakh	N	ספּראַך	sprAaX	_
+15	nisht	NEG	נישט	ny$t	_
+16	gekent	VBN	געקענט	gekent	_
+17	.	PUNC	.	.	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.63
+1	a	D	אַ	Aa	_
+2	tsveyter	ADJ	צװײטער	qVYter	_
+3	msumd	N	מסומד	msvmd	_
+4	tazsevski	NPR	טאַזסעװסקי	tAazseVsky	_
+5	hot	HVF	האָט	hAot	_
+6	beshtetikt	VBN	בעשטעטיקט	be$tetykt	_
+7	az	C	אַז	Aaz	_
+8	der	D	דער	der	_
+9	klumrster	ADJS	קלומרסטער	klvmrster	_
+10	rb	NPR	רב	rb	_
+11	serapimovits	NPR	סעראַפּימאָװיץ	serAapymAoVyQ	_
+12	farsteyt	VBF	פֿאַרסטײט	fAarstYt	_
+13	nisht	NEG	נישט	ny$t	_
+14	keyn	Q	קײן	kYN	_
+15	hebreyish	N	העברײיִש	hebrYyi$	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.64
+1	keyn	Q	קײן	kYN	_
+2	lateyn	N	לאַטײן	lAatYN	_
+3	un	CONJ	און	AvN	_
+4	keyn	Q	קײן	kYN	_
+5	poylish	N	פּױליש	pWly$	_
+6	hot	HVF	האָט	hAot	_
+7	er	PRO	ער	er	_
+8	oykh	ADV	אױך	AWX	_
+9	nist	NEG	ניסט	nyst	_
+10	gekant	VBN	געקאַנט	gekAant	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.65
+1	stitsndik	VAG	סטיצנדיק	styqndyk	_
+2	zikh	PRO	זיך	zyX	_
+3	oyf	P	אױף	AWF	_
+4	serafimovitses	NPR$	סעראַפֿימאָװיצעס	serAafymAoVyqes	_
+5	ekspertize	N	עקספּערטיזע	ekspertyze	_
+6	hot	HVF	האָט	hAot	_
+7	der	D	דער	der	_
+8	glkh	N	גלך	glX	_
+9	zhukovski	NPR	זשוקאָװסקי	z$vkAoVsky	_
+10	gevirkt	VBN	געװירקט	geVyrkt	_
+11	oyf	P	אױף	AWF	_
+12	dem	D	דעם	deM	_
+13	kinig	N	קיניג	kynyg	_
+14	oygust	NPR	אױגוסט	AWgvst	_
+15	dem	D	דעם	deM	_
+16	2tn	ADJ	2טן	2tN	_
+17	az	C	אַז	Aaz	_
+18	men	PRO	מען	meN	_
+19	zal	MDF	ז"ל	z"l	_
+20-21	onerkenen	RP~VB	אָנערקענען	AonerkeneN	_
+20	on	RP	אָן	AoN	_
+21	erkenen	VB	ערקענען	erkeneN	_
+22	di	D	די	dy	_
+23	yidn	N	ייִדן	yyidN	_
+24	far	P	פֿאַר	fAar	_
+25	shuldig	ADJ	שולדיג	$vldyg	_
+26	un	CONJ	און	AvN	_
+27-28	aroystreybn	ADV~VB	אַרױסטרײבן	AarWstrYbN	_
+27	aroys	ADV	אַרױס	AarWs	_
+28	treybn	VB	טרײבן	trYbN	_
+29	zey	PRO	זײ	zY	_
+30	fun	P	פֿון	fvN	_
+31	tsuzmir	NPR	צוזמיר	qvzmyr	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.66
+1	dos	D	דאָס	dAos	_
+2	iz	BEF	איז	Ayz	_
+3	geven	VBN	געװען	geVeN	_
+4	eygntlekh	ADV	אײגנטלעך	AYgntleX	_
+5	der	D	דער	der	_
+6	tsvek	N	צװעק	qVek	_
+7	fun	P	פֿון	fvN	_
+8	protses	N	פּראָצעס	prAoqes	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.67
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	hot	HVF	האָט	hAot	_
+4	im	PRO	אים	AyM	_
+5	teylveyz	ADV	טײלװײז	tYlVYz	_
+6	dergreykht	VBN	דערגרײכט	dergrYxt	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.68
+1	dem	D	דעם	deM	_
+2	28	ADJ	28	28	_
+3	april	NPR	אַפּריל	Aapryl	_
+4	1712	NUM	1712	1712	_
+5	hot	HVF	האָט	hAot	_
+6	der	D	דער	der	_
+7	kinig	N	קיניג	kynyg	_
+8-9	aroysgegebn	ADV~VBN	אַרױסגעגעבן	AarWsgegebN	_
+8	aroys	ADV	אַרױס	AarWs	_
+9	gegebn	VBN	געגעבן	gegebN	_
+10	a	D	אַ	Aa	_
+11	dekret	N	דעקרעט	dekret	_
+12	in	P	אין	AyN	_
+13	velkhn	WPRO	װעלכן	VelxN	_
+14	barufndik	VAG	באַרופֿנדיק	bAarvfndyk	_
+15	zikh	PRO	זיך	zyX	_
+16	oyf	P	אױף	AWF	_
+17	dem	D	דעם	deM	_
+18	oytoritet	N	אױטאָריטעט	AWtAorytet	_
+19	fun	P	פֿון	fvN	_
+20	glh	N	גלה	glh	_
+21	zhukovski	NPR	זשוקאָװסקי	z$vkAoVsky	_
+22	hot	HVF	האָט	hAot	_
+23	er	PRO	ער	er	_
+24-25	tsugeshtimt	RP~VBN	צוגעשטימט	qvge$tymt	_
+24	tsu	RP	צו	qv	_
+25	geshtimt	VBN	געשטימט	ge$tymt	_
+26	az	C	אַז	Aaz	_
+27	di	D	די	dy	_
+28	yidn	N	ייִדן	yyidN	_
+29	zeynen	VBF	זײנען	zYneN	_
+30	shuldik	ADJ	שולדיק	$vldyk	_
+31	in	P	אין	AyN	_
+32	hrgenen	VB	הרגענען	hrgeneN	_
+33	kristlekhe	ADJ	קריסטלעכע	krystlexe	_
+34	kinder	N	קינדער	kynder	_
+35	un	CONJ	און	AvN	_
+36	in	P	אין	AyN	_
+37-38	oysveyzn	RP~VB	אױסװײזן	AWsVYzN	_
+37	oys	RP	אױס	AWs	_
+38	veyzn	VB	װײזן	VYzN	_
+39	a	D	אַ	Aa	_
+40	stendike	ADJ	סטענדיקע	stendyke	_
+41	snah	N	סנאַה	snAah	_
+42	tsu	P	צו	qv	_
+43	di	D	די	dy	_
+44	kristn	N	קריסטן	krystN	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.69
+1	un	CONJ	און	AvN	_
+2	hot	HVF	האָט	hAot	_
+3	zey	PRO	זײ	zY	_
+4	bafoyln	VBN	באַפֿױלן	bAafWlN	_
+5	farlozn	VB	פֿאַרלאָזן	fAarlAozN	_
+6	di	D	די	dy	_
+7	stot	N	סטאָט	stAot	_
+8	"	PUNC	"	"	_
+9	oyf	P	אױף	AWF	_
+10	eybig	ADV	אײביג	AYbyg	_
+11	"	PUNC	"	"	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.70
+1	di	D	די	dy	_
+2	yidn	N	ייִדן	yyidN	_
+3	hot	HVF	האָט	hAot	_
+4	zikh	PRO	זיך	zyX	_
+5	ober	ADV	אָבער	Aober	_
+6-7	eyngegebn	RP~VBN	אײנגעגעבן	AYngegebN	_
+6	eyn	RP	אײן	AYN	_
+7	gegebn	VBN	געגעבן	gegebN	_
+8	di	D	די	dy	_
+9	gzirh	N	גזירה	gzyrh	_
+10-12	optsushafn	RP~TO~VB	אָפּצושאַפֿן	Aopqv$AafN	_
+10	op	RP	אָפּ	Aop	_
+11	tsu	TO	צו	qv	_
+12	shafn	VB	שאַפֿן	$AafN	_
+13	mstima	ADV	מסטימאַ	mstymAa	_
+14	mit	P	מיט	myt	_
+15	der	D	דער	der	_
+16	hilf	N	הילף	hylF	_
+17	fun	P	פֿון	fvN	_
+18	gelt	N	געלט	gelt	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.71
+1	un	CONJ	און	AvN	_
+2	zey	PRO	זײ	zY	_
+3	zeynen	BEF	זײנען	zYneN	_
+4	farblibn	VBN	פֿאַרבליבן	fAarblybN	_
+5	in	P	אין	AyN	_
+6	tsuzmir	NPR	צוזמיר	qvzmyr	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.72
+1	bseh	P	בסעה	bseh	_
+2	dem	D	דעם	deM	_
+3	pogrom	N	פּאָגראָם	pAogrAoM	_
+4	zeynen	BEF	זײנען	zYneN	_
+5	gehrgt	VAN	געהרגט	gehrgt	_
+6	gevorn	RDN	געװאָרן	geVAorN	_
+7	a	D	אַ	Aa	_
+8	por	Q	פּאָר	pAor	_
+9	yidn	N	ייִדן	yyidN	_
+
+SENT	1927E-SHATZKY-TESHUAT,14.73
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	yidishe	ADJ	ייִדישע	yyidy$e	_
+4	gas	N	גאַס	gAas	_
+5	iz	BEF	איז	Ayz	_
+6	pogromirt	VAN	פּאָגראָמירט	pAogrAomyrt	_
+7	gevorn	RDN	געװאָרן	geVAorN	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.74
+1	a_khuts	P	אַ_כוץ	Aa_xvQ	_
+2	dem	D	דעם	deM	_
+3	iz	BEF	איז	Ayz	_
+4	gefaln	VBN	געפֿאַלן	gefAalN	_
+5	als	P	אַלס	Aals	_
+6	a	D	אַ	Aa	_
+7	krbn	N	קרבן	krbN	_
+8	der	D	דער	der	_
+9	ros	H	ראָס	rAos	head
+10	hkhilh	H	הכילה	hxylh	the_community
+11	ahrn	NPR	אַהרן	AahrN	_
+12	ber	NPR	בער	ber	_
+13	velkhn	WPRO	װעלכן	VelxN	_
+14	men	PRO	מען	meN	_
+15	hot	HVF	האָט	hAot	_
+16	gepeynikt	VBN	געפּײניקט	gepYnykt	_
+17	veyl	C	װײל	VYl	_
+18	bey	P	בײ	bY	_
+19	im	PRO	אים	AyM	_
+20-21	oyfn	P~D	אױפֿן	AWfN	_
+20	oyf	P	אױף	AWF	_
+21	n	D	נ	n	_
+22	hoyf	N	הױף	hWF	_
+23	hot	HVF	האָט	hAot	_
+24	men	PRO	מען	meN	_
+25	gefunen	VBN	געפֿונען	gefvneN	_
+26	a	D	אַ	Aa	_
+27	toytn	ADJ	טױטן	tWtN	_
+28	mmzr	N	ממזר	mmzr	_
+29	velkhn	WPRO	װעלכן	VelxN	_
+30	an	D	אַן	AaN	_
+31	umbakantr	ADJ	אומבאַקאַנטר	AvmbAakAantr	_
+32	froy	N	פֿרױ	frW	_
+33	hot	HVF	האָט	hAot	_
+34-35	untergevorfn	RP~VBN	אונטערגעװאָרפֿן	AvntergeVAorfN	_
+34	unter	RP	אונטער	Avnter	_
+35	gevorfn	VBN	געװאָרפֿן	geVAorfN	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.75
+1	keyn	Q	קײן	kYN	_
+2	oysfirlekhe	ADJ	אױספֿירלעכע	AWsfyrlexe	_
+3	idieut	N	אידיִעוט	Aydyievt	_
+4	vegn	P	װעגן	VegN	_
+5	di	D	די	dy	_
+6	kdushim	N	קדושים	kdv$yM	_
+7	farmogn	VBF	פֿאַרמאָגן	fAarmAogN	_
+8	mir	PRO	מיר	myr	_
+9	nisht	NEG	נישט	ny$t	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.76
+1	tsi	C	צי	qy	_
+2	iz	VBF	איז	Ayz	_
+3	r'	NPR	ר'	r'	_
+4	valf	NPR	װאַלף	VAalF	_
+5	der	D	דער	der	_
+6	feter	N	פֿעטער	feter	_
+7	fun	P	פֿון	fvN	_
+8	unzer	PRO$	אונזער	Avnzer	_
+9	r'	NPR	ר'	r'	_
+10	kheym	NPR	כײם	xYM	_
+11	alskhikh	NPR	אַלסכיך	AalsxyX	_
+12	a	D	אַ	Aa	_
+13	direkter	ADJ	דירעקטער	dyrekter	_
+14	tsi	CONJ	צי	qy	_
+15	an	D	אַן	AaN	_
+16	umdirekter	ADJ	אומדירעקטער	Avmdyrekter	_
+17	krbn	N	קרבן	krbN	_
+18	fun	P	פֿון	fvN	_
+19	dem	D	דעם	deM	_
+20	elilt_dm	N	עלילט_דם	elylt_dM	_
+21	,	PUNC	,	,	_
+22	iz	VBF	איז	Ayz	_
+23	unz	PRO	אונז	Avnz	_
+24	nisht	NEG	נישט	ny$t	_
+25	bekant	ADJ	בעקאַנט	bekAant	_
+26	.	PUNC	.	.	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.77
+1	mir	PRO	מיר	myr	_
+2	veysn	VBF	װײסן	VYsN	_
+3	az	C	אַז	Aaz	_
+4	eyner	PRO	אײנער	AYner	_
+5	fun	P	פֿון	fvN	_
+6	di	D	די	dy	_
+7	kdushim	N	קדושים	kdv$yM	_
+8	fun	P	פֿון	fvN	_
+9	dem	D	דעם	deM	_
+10	elilh	H	עלילה	elylh	libel
+11	dm	H	דם	dM	blood
+12	fun	P	פֿון	fvN	_
+13	1698	N	1698	1698	_
+14	alksndr	NPR	אַלקסנדר	Aalksndr	_
+15	mtsuzmir	H	מצוזמיר	mqvzmyr	from_Tsuzmir
+16	iz	BEF	איז	Ayz	_
+17	gestarbn	VBN	געסטאַרבן	gestAarbN	_
+18	gar	ADV	גאַר	gAar	_
+19	in	P	אין	AyN	_
+20	lublin	NPR	לובלין	lvblyN	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.78
+1	eyns	PRO	אײנס	AYns	_
+2	iz	VBF	איז	Ayz	_
+3	klor	ADJ	קלאָר	klAor	_
+4	az	C	אַז	Aaz	_
+5	r'	NPR	ר'	r'	_
+6	volf	NPR	װאָלף	VAolF	_
+7	iz	VBF	איז	Ayz	_
+8	a	D	אַ	Aa	_
+9	krbn	N	קרבן	krbN	_
+10	fun	P	פֿון	fvN	_
+11	dem	D	דעם	deM	_
+12	tsveytn	ADJ	צװײטן	qVYtN	_
+13	elilt_dm	N	עלילט_דם	elylt_dM	_
+14	fun	P	פֿון	fvN	_
+15	yor	N	יאָר	yAor	_
+16	1710	NUM	1710	1710	_
+17	,	PUNC	,	,	_
+18	veyl	C	װײל	VYl	_
+19	r'	NPR	ר'	r'	_
+20	kheym	NPR	כײם	xYM	_
+21	dermont	VBF	דערמאָנט	dermAont	_
+22	in	P	אין	AyN	_
+23	zeyn	PRO$	זײן	zYN	_
+24	khdmh	N	כדמה	xdmh	_
+25	az	C	אַז	Aaz	_
+26	vegn	P	װעגן	VegN	_
+27	dem	D	דעם	deM	_
+28	groysn	ADJ	גרױסן	grWsN	_
+29	ns	N	נס	ns	_
+30	vos	C	װאָס	VAos	_
+31	iz	BEF	איז	Ayz	_
+32	geshen	VBN	געשען	ge$eN	_
+33	"	PUNC	"	"	_
+34	veys	VBF	װײס	VYs	_
+35	di	D	די	dy	_
+36	gntsi	ADJ	גנצי	gnqy	_
+37	mdine	N	מדינע	mdyne	_
+38	pulin	NPR	פּולין	pvlyN	_
+39	"	PUNC	"	"	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.79
+1	dos	D	דאָס	dAos	_
+2	meynt	VBF	מײנט	mYnt	_
+3	er	PRO	ער	er	_
+4	mistome	ADV	מסתּמא	msTmA	_
+5	dos	D	דאָס	dAos	_
+6-7	opsteln	RP~VB	אָפּסטעלן	AopstelN	_
+6	op	RP	אָפּ	Aop	_
+7	steln	VB	סטעלן	stelN	_
+8	fun	P	פֿון	fvN	_
+9	der	D	דער	der	_
+10	girus-gzirh	N	גירוס-גזירה	gyrvs-gzyrh	_
+11	velkhe	WPRO	װעלכע	Velxe	_
+12	iz	BEF	איז	Ayz	_
+13	gehangen	VBN	געהאַנגען	gehAangeN	_
+14	iber	P	איבער	Ayber	_
+15	di	D	די	dy	_
+16	kep	N	קעפּ	kep	_
+17	fun	P	פֿון	fvN	_
+18	di	D	די	dy	_
+19	tsuzmirer	ADJ	צוזמירער	qvzmyrer	_
+20	yidn	N	ייִדן	yyidN	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.80
+1	dos	D	דאָס	dAos	_
+2	iz	VBF	איז	Ayz	_
+3	der	D	דער	der	_
+4	perzenlekher	ADJ	פּערזענלעכער	perzenlexer	_
+5	hintergrunt	N	הינטערגרונט	hyntergrvnt	_
+6	fun	P	פֿון	fvN	_
+7	r'	NPR	ר'	r'	_
+8	kheyms	NPR$	כײמס	xYms	_
+9	strebung	N	סטרעבונג	strebvng	_
+10-12	aroystsugebn	ADV~TO~VB	אַרױסצוגעבן	AarWsqvgebN	_
+10	aroys	ADV	אַרױס	AarWs	_
+11	tsu	TO	צו	qv	_
+12	gebn	VB	געבן	gebN	_
+13	di	D	די	dy	_
+14	apologie	N	אַפּאָלאָגיִע	AapAolAogyie	_
+15	kegn	P	קעגן	kegN	_
+16	elilt-dm	N	עלילט-דם	elylt-dM	_
+17	.	PUNC	.	.	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.81
+1	es	ES	עס	es	_
+2	iz	BEF	איז	Ayz	_
+3	ober	ADV	אָבער	Aober	_
+4	geven	VBN	געװען	geVeN	_
+5	nokh	ADV	נאָך	nAoX	_
+6	an	D	אַן	AaN	_
+7	andere	ADJ	אַנדערע	Aandere	_
+8	sibh	N	סיבה	sybh	_
+9	,	PUNC	,	,	_
+10	vos	C	װאָס	VAos	_
+11	iz	VBF	איז	Ayz	_
+12	im	PRO	אים	AyM	_
+13	perzenlekh	ADV	פּערזענלעך	perzenleX	_
+14	nisht	NEG	נישט	ny$t	_
+15	nuge	X	נוגע	nvge	_
+16	genug	Q	גענוג	genvg	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.82
+1	hot	HVF	האָט	hAot	_
+2	ober	ADV	אָבער	Aober	_
+3-4	ongerirt	RP~VBN	אָנגערירט	Aongeryrt	_
+3	on	RP	אָן	AoN	_
+4	gerirt	VBN	גערירט	geryrt	_
+5	dos	D	דאָס	dAos	_
+6	gantse	ADJ	גאַנצע	gAanqe	_
+7	poylishe	ADJ	פּױלישע	pWly$e	_
+8	yidntum	N	ייִדנטום	yyidntvM	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.83
+1	dos	D	דאָס	dAos	_
+2	iz	VBF	איז	Ayz	_
+3	di	D	די	dy	_
+4	barimte	ADJ	באַרימטע	bAarymte	_
+5	shoyderlakhe	ADJ	שױדערלאַכע	$WderlAaxe	_
+6	elilt_dm	N	עלילט_דם	elylt_dM	_
+7	tragedie	N	טראַגעדיִע	trAagedyie	_
+8	velkhe	WPRO	װעלכע	Velxe	_
+9	hot	HVF	האָט	hAot	_
+10	zikh	PRO	זיך	zyX	_
+11-12	opgespilt	RP~VBN	אָפּגעספּילט	Aopgespylt	_
+11	op	RP	אָפּ	Aop	_
+12	gespilt	VBN	געספּילט	gespylt	_
+13	in	P	אין	AyN	_
+14	pozn	N	פּאָזן	pAozN	_
+15	un	CONJ	און	AvN	_
+16	hot	HVF	האָט	hAot	_
+17	gedoyert	VBN	געדױערט	gedWert	_
+18	fir	NUM	פֿיר	fyr	_
+19	yor	N	יאָר	yAor	_
+20	fun	P	פֿון	fvN	_
+21	1736	N	1736	1736	_
+22	biz	P	ביז	byz	_
+23	1740	N	1740	1740	_
+24	.	PUNC	.	.	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.84
+1	der_doziker	D	דער_דאָזיקער	der_dAozyker	_
+2	protses	N	פּראָצעס	prAoqes	_
+3	hot	HVF	האָט	hAot	_
+4-5	aroysgerufn	ADV~VBN	אַרױסגערופֿן	AarWsgervfN	_
+4	aroys	ADV	אַרױס	AarWs	_
+5	gerufn	VBN	גערופֿן	gervfN	_
+6	an	D	אַן	AaN	_
+7	interes	N	אינטערעס	Aynteres	_
+8	in	P	אין	AyN	_
+9	gants	ADJ	גאַנץ	gAanQ	_
+10	eyrope	NPR	אײראָפּע	AYrAope	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.85
+1	es	ES	עס	es	_
+2	zeynen	BEF	זײנען	zYneN	_
+3	in	P	אין	AyN	_
+4	im	PRO	אים	AyM	_
+5	geven	BEN	געװען	geVeN	_
+6-7	areyngemisht	ADV~VAN	אַרײנגעמישט	AarYngemy$t	_
+6	areyn	ADV	אַרײן	AarYN	_
+7	gemisht	VAN	געמישט	gemy$t	_
+8	di	D	די	dy	_
+9	angezeenste	ADJ	אַנגעזעענסטע	Aangezeenste	_
+10	perzenlakhkeytn	N	פּערזענלאַכקײטן	perzenlAaxkYtN	_
+11	fun	P	פֿון	fvN	_
+12	der	D	דער	der	_
+13	poyzner	ADJ	פּױזנער	pWzner	_
+14	khilh	N	כילה	xylh	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.86
+1	der	D	דער	der	_
+2	drsn	H	דרסן	drsN	UNKNOWN
+3	arih-lib	NPR	אַריה-ליב	Aaryh-lyb	_
+4	velkher	WPRO	װעלכער	Velxer	_
+5	hot	HVF	האָט	hAot	_
+6	gestamt	VBN	געסטאַמט	gestAamt	_
+7	fun	P	פֿון	fvN	_
+8	der	D	דער	der	_
+9	italienisher	ADJ	איטאַליִענישער	AytAalyieny$er	_
+10	mspkhh	N	מספּכה	mspxh	_
+11	kalahara	NPR	קאַלאַהאַראַ	kAalAahAarAa	_
+12	iz	BEF	איז	Ayz	_
+13	geven	VBN	געװען	geVeN	_
+14	der	D	דער	der	_
+15	erster	ADJ	ערסטער	erster	_
+16	krbn	N	קרבן	krbN	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.87
+1	a_khuts	P	אַ_כוץ	Aa_xvQ	_
+2	dem	D	דעם	deM	_
+3	zeynen	BEF	זײנען	zYneN	_
+4	geven	BEN	געװען	geVeN	_
+5	bashuldikt	VAN	באַשולדיקט	bAa$vldykt	_
+6	der	D	דער	der	_
+7	prns	H	פּרנס	prns	livelihood?
+8	hkhilh	H	הכילה	hxylh	the_community
+9	a	D	אַ	Aa	_
+10	sms	N	סמס	sms	_
+11	un	CONJ	און	AvN	_
+12	a	D	אַ	Aa	_
+13	shneyder	N	שנײדער	$nYder	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.88
+1	di	D	די	dy	_
+2	pozner	ADJ	פּאָזנער	pAozner	_
+3	khlih	N	כליה	xlyh	_
+4	zeyendik	VAG	זײענדיק	zYendyk	_
+5	neenter	ADVR	נעענטער	neenter	_
+6	tsu	P	צו	qv	_
+7	merb-eyrope	NPR	מערב-אײראָפּע	merb-AYrAope	_
+8	hot	HVF	האָט	hAot	_
+9	gesturemt	VBN	געסטורעמט	gestvremt	_
+10	veltn	N	װעלטן	VeltN	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.89
+1	di	D	די	dy	_
+2	yidn	N	ייִדן	yyidN	_
+3	hobn	HVF	האָבן	hAobN	_
+4	apelirt	VBN	אַפּעלירט	Aapelyrt	_
+5-6	tsum	P~D	צום	qvM	_
+5	tsu	P	צו	qv	_
+6	m	D	מ	m	_
+7	poypstlekhn	ADJ	פּױפּסטלעכן	pWpstlexN	_
+8	delegat	N	דעלעגאַט	delegAat	_
+9	{COM:name_omitted}	NP-PRN	{cאָם:נאַמע_אָמיטטעד}	{cAoM:nAame_Aomytted}	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.90
+1	in	P	אין	AyN	_
+2	vin	NPR	װין	VyN	_
+3	hot	HVF	האָט	hAot	_
+4	zikh	PRO	זיך	zyX	_
+5-6	opgerufn	RP~VBN	אָפּגערופֿן	AopgervfN	_
+5	op	RP	אָפּ	Aop	_
+6	gerufn	VBN	גערופֿן	gervfN	_
+7	der	D	דער	der	_
+8	msumr	H	מסומר	msvmr	UNKNOWN
+9	alaeyzius	NPR	אַלאַײזיִוס	AalAaYzyivs	_
+10	de	NPR	דע	de	_
+11	zanenfels	NPR	זאַנענפֿעלס	zAanenfels	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.91
+1	un	CONJ	און	AvN	_
+2	hot	HVF	האָט	hAot	_
+3	geshvirn	VBN	געשװירן	ge$VyrN	_
+4	az	C	אַז	Aaz	_
+5	yidn	N	ייִדן	yyidN	_
+6	banutsn	VBF	באַנוצן	bAanvqN	_
+7	nisht	NEG	נישט	ny$t	_
+8	keyn	Q	קײן	kYN	_
+9	kristlekh	ADJ	קריסטלעך	krystleX	_
+10	blut	N	בלוט	blvt	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.92
+1	der	D	דער	der	_
+2	yidisher	ADJ	ייִדישער	yyidy$er	_
+3	bankir	N	באַנקיר	bAankyr	_
+4	vertheymer	NPR	װערטהײמער	VerthYmer	_
+5	in	P	אין	AyN	_
+6	vin	NPR	װין	VyN	_
+7	velkher	WPRO	װעלכער	Velxer	_
+8	iz	BEF	איז	Ayz	_
+9	gestanen	VBN	געסטאַנען	gestAaneN	_
+10	in	P	אין	AyN	_
+11	finantsiele	ADJ	פֿינאַנציִעלע	fynAanqyiele	_
+12	farbindungen	N	פֿאַרבינדונגען	fAarbyndvngeN	_
+13	mit	P	מיט	myt	_
+14	der	D	דער	der	_
+15	saksisher	ADJ	סאַקסישער	sAaksy$er	_
+16	dinastie	N	דינאַסטיִע	dynAastyie	_
+17	hot	HVF	האָט	hAot	_
+18	zikh	PRO	זיך	zyX	_
+19	oykh	ADV	אױך	AWX	_
+20	mstdl	RP-H	מסטדל	mstdl	_
+21	geven	VBN	געװען	geVeN	_
+22	ltubh	H	לטובה	ltvbh	to_good
+23	di	D	די	dy	_
+24	yidn	N	ייִדן	yyidN	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.93
+1	der	D	דער	der	_
+2	suf	N	סוף	svF	_
+3	iz	BEF	איז	Ayz	_
+4	geven	VBN	געװען	geVeN	_
+5	,	PUNC	,	,	_
+6	az	C	אַז	Aaz	_
+7	m'	PRO	מ'	m'	_
+8	hat	HVF	האַט	hAat	_
+9	di	D	די	dy	_
+10	pozner	ADJ	פּאָזנער	pAozner	_
+11	yidn	N	ייִדן	yyidN	_
+12	frey	RP-ADJ	פֿרײ	frY	_
+13	gesprokhn	VBN	געספּראָכן	gesprAoxN	_
+14	fun	P	פֿון	fvN	_
+15	di	D	די	dy	_
+16	peynigungen	N	פּײניגונגען	pYnygvngeN	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.94
+1	iz	BEF	איז	Ayz	_
+2	ober	ADV	אָבער	Aober	_
+3	geshtorbn	VBN	געשטאָרבן	ge$tAorbN	_
+4	in	P	אין	AyN	_
+5	tfish	N	טפֿיש	tfy$	_
+6	der	D	דער	der	_
+7	frns	H	פֿרנס	frns	UNKNOWN
+8	hkhilh	H	הכילה	hxylh	the_community
+
+SENT	1927E-SHATZKY-TESHUAT,15.95
+1	dem	D	דעם	deM	_
+2	drsn	H	דרסן	drsN	UNKNOWN
+3	r'	NPR	ר'	r'	_
+4	arih	NPR	אַריה	Aaryh	_
+5	lib	NPR	ליב	lyb	_
+6	hot	HVF	האָט	hAot	_
+7	men	PRO	מען	meN	_
+8	gebrakht	VBN	געבראַכט	gebrAaxt	_
+9	a	D	אַ	Aa	_
+10	farblutiktn	ADJ	פֿאַרבלוטיקטן	fAarblvtyktN	_
+11	aheym	ADV	אַהײם	AahYM	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.96
+1	un	CONJ	און	AvN	_
+2	in	P	אין	AyN	_
+3	a	D	אַ	Aa	_
+4	por	Q	פּאָר	pAor	_
+5	teg	N	טעג	teg	_
+6	arum	ADV	אַרום	AarvM	_
+7	iz	BEF	איז	Ayz	_
+8	er	PRO	ער	er	_
+9	oykh	ADV	אױך	AWX	_
+10	geshtorbn	VBN	געשטאָרבן	ge$tAorbN	_
+11	dem	D	דעם	deM	_
+12	22tn	ADJ	22טן	22tN	_
+13	november	N	נאָװעמבער	nAoVember	_
+14	1736	NUM	1736	1736	_
+15	.	PUNC	.	.	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.97
+1	der_doziker	D	דער_דאָזיקער	der_dAozyker	_
+2	protses	N	פּראָצעס	prAoqes	_
+3	velkher	WPRO	װעלכער	Velxer	_
+4	hot	HVF	האָט	hAot	_
+5-6	aroysgerufn	ADV~VBN	אַרױסגערופֿן	AarWsgervfN	_
+5	aroys	ADV	אַרױס	AarWs	_
+6	gerufn	VBN	גערופֿן	gervfN	_
+7	a	D	אַ	Aa	_
+8	groysn	ADJ	גרױסן	grWsN	_
+9	interes	N	אינטערעס	Aynteres	_
+10	in	P	אין	AyN	_
+11	der	D	דער	der	_
+12	damolsdiker	ADJ	דאַמאָלסדיקער	dAamAolsdyker	_
+13	yidisher	ADJ	ייִדישער	yyidy$er	_
+14	un	CONJ	און	AvN	_
+15	kristlekher	ADJ	קריסטלעכער	krystlexer	_
+16	eyrope	NPR	אײראָפּע	AYrAope	_
+17	un	CONJ	און	AvN	_
+18	hot	HVF	האָט	hAot	_
+19	afilu	FP	אַפֿילו	Aafylv	_
+20	farinteresirt	VBN	פֿאַראינטערעסירט	fAarAynteresyrt	_
+21	di	D	די	dy	_
+22	poypslekhe	ADJ	פּױפּסלעכע	pWpslexe	_
+23	spern	N	ספּערן	sperN	_
+24	in	P	אין	AyN	_
+25	roym	N	רױם	rWM	_
+26	kumt	VBF	קומט	kvmt	_
+27	for	RP	פֿאָר	fAor	_
+28	in	P	אין	AyN	_
+29	der	D	דער	der	_
+30	tseyt	N	צײט	qYt	_
+31	ven	WADV	װען	VeN	_
+32	r'	NPR	ר'	r'	_
+33	kheym	NPR	כײם	xYM	_
+34	hot	HVF	האָט	hAot	_
+35	gekent	MDN	געקענט	gekent	_
+36	zeyn	VB	זײן	zYN	_
+37	in	P	אין	AyN	_
+38	veg	N	װעג	Veg	_
+39	zukhndik	VAG	זוכנדיק	zvxndyk	_
+40	di	D	די	dy	_
+41	dokumentn	N	דאָקומענטן	dAokvmentN	_
+42	fun	P	פֿון	fvN	_
+43	dem	D	דעם	deM	_
+44	protses	N	פּראָצעס	prAoqes	_
+45	in	P	אין	AyN	_
+46	viterba	NPR	װיטערבאַ	VyterbAa	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.98
+1	mistome	ADV	מסתּמא	msTmA	_
+2	hot	HVF	האָט	hAot	_
+3	men	PRO	מען	meN	_
+4	shoyn	ADV	שױן	$WN	_
+5	damolst	ADV	דאַמאָלסט	dAamAolst	_
+6	gevaust	VBN	געװאַוסט	geVAavst	_
+7	,	PUNC	,	,	_
+8	az	C	אַז	Aaz	_
+9	der	D	דער	der	_
+10	roymisher	ADJ	רױמישער	rWmy$er	_
+11	rb	N	רב	rb	_
+12	,	PUNC	,	,	_
+13	karkus	NPR	קאַרקוס	kAarkvs	_
+14	hot	HVF	האָט	hAot	_
+15-16	oysgegebn	RP~VBN	אױסגעגעבן	AWsgegebN	_
+15	oys	RP	אױס	AWs	_
+16	gegebn	VBN	געגעבן	gegebN	_
+17	zeyne	PRO$	זײנע	zYne	_
+18	memorandums	N	מעמאָראַנדומס	memAorAandvms	_
+19	vegn	P	װעגן	VegN	_
+20	der	D	דער	der	_
+21	viterborn	ADJ	װיטערבאָרן	VyterbAorN	_
+22	blut-blbul-protses	N	בלוט-בלבול-פּראָצעס	blvt-blbvl-prAoqes	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.99
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	gliklekher	ADJ	גליקלעכער	glyklexer	_
+4	suf	N	סוף	svF	_
+5	fun	P	פֿון	fvN	_
+6	yenem	D	יענעם	yeneM	_
+7	protses	N	פּראָצעס	prAoqes	_
+8	hot	HVF	האָט	hAot	_
+9	im	PRO	אים	AyM	_
+10	bevoygn	VBN	בעװױגן	beVWgN	_
+11	di_dozike	D	די_דאָזיקע	dy_dAozyke	_
+12	dokumentn	N	דאָקומענטן	dAokvmentN	_
+13-14	aroysgebn	ADV~VB	אַרױסגעבן	AarWsgebN	_
+13	aroys	ADV	אַרױס	AarWs	_
+14	gebn	VB	געבן	gebN	_
+15	frier	ADVR	פֿריִער	fryier	_
+16	in	P	אין	AyN	_
+17	yidish	N	ייִדיש	yyidy$	_
+18	kedey	C	כּדי	Kdy	_
+19	speter	ADV	ספּעטער	speter	_
+20	konen	MD	קאָנען	kAoneN	_
+21	zey	PRO	זײ	zY	_
+22	oykh	ADV	אױך	AWX	_
+23-24	aroysgebn	ADV~VB	אַרױסגעבן	AarWsgebN	_
+23	aroys	ADV	אַרױס	AarWs	_
+24	gebn	VB	געבן	gebN	_
+25	in	P	אין	AyN	_
+26	andere	ADJ	אַנדערע	Aandere	_
+27	lshunut	N	לשונוט	l$vnvt	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.100
+1	di	D	די	dy	_
+2	drey	NUM	דרײ	drY	_
+3	broshurn	N	בראָשורן	brAo$vrN	_
+4	velkhe	WPRO	װעלכע	Velxe	_
+5	zeynen	VBF	זײנען	zYneN	_
+6	aroyz	ADV	אַרױז	AarWz	_
+7	in	P	אין	AyN	_
+8	dem	D	דעם	deM	_
+9	bukh	N	בוך	bvX	_
+10	tsuet	H	צועט	qvet	salvation
+11	isral	NPR	איסראַל	AysrAal	_
+12	barirn	VBF	באַרירן	bAaryrN	_
+13	dem	D	דעם	deM	_
+14	blut-blbul	N	בלוט-בלבול	blvt-blbvl	_
+15	fun	P	פֿון	fvN	_
+16	yor	N	יאָר	yAor	_
+17	1706	NUM	1706	1706	_
+18	in	P	אין	AyN	_
+19	italie	NPR	איטאַליִע	AytAalyie	_
+20	.	PUNC	.	.	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.101
+1	mir	PRO	מיר	myr	_
+2	veln	MDF	װעלן	VelN	_
+3	zikh	PRO	זיך	zyX	_
+4	in	P	אין	AyN	_
+5	kurtsn	N	קורצן	kvrqN	_
+6	oyf	P	אױף	AWF	_
+7	zey	PRO	זײ	zY	_
+8-9	opsteln	RP~VB	אָפּסטעלן	AopstelN	_
+8	op	RP	אָפּ	Aop	_
+9	steln	VB	סטעלן	stelN	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.102
+1	3	LS	3	3	_
+2	in	P	אין	AyN	_
+3	a	D	אַ	Aa	_
+4	kleyn	ADJ	קלײן	klYN	_
+5	italienish	ADJ	איטאַליִעניש	AytAalyieny$	_
+6	stetl	N	סטעטל	stetl	_
+7	viterbo	NPR	װיטערבאָ	VyterbAo	_
+8	hot	HVF	האָט	hAot	_
+9	men	PRO	מען	meN	_
+10	gefunen	VBN	געפֿונען	gefvneN	_
+11	a	D	אַ	Aa	_
+12	derstikt	ADJ	דערסטיקט	derstykt	_
+13	kristlekh	ADJ	קריסטלעך	krystleX	_
+14	kind	N	קינד	kynd	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.103
+1	dos	D	דאָס	dAos	_
+2	iz	BEF	איז	Ayz	_
+3	geven	VBN	געװען	geVeN	_
+4	in	P	אין	AyN	_
+5	yor	N	יאָר	yAor	_
+6	1705	NUM	1705	1705	_
+7	.	PUNC	.	.	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.104
+1	men	PRO	מען	meN	_
+2	hot	HVF	האָט	hAot	_
+3	arestirt	VBN	אַרעסטירט	Aarestyrt	_
+4	finf	NUM	פֿינף	fynF	_
+5	yidn	N	ייִדן	yyidN	_
+6	zey	PRO	זײ	zY	_
+7	shreklekh	ADV	שרעקלעך	$rekleX	_
+8	gepeynikt	VBN	געפּײניקט	gepYnykt	_
+9	un	CONJ	און	AvN	_
+10	getsvaungen	VBN	געצװאַונגען	geqVAavngeN	_
+11	zikh	PRO	זיך	zyX	_
+12	mudh	RP-H	מודה	mvdh	_
+13	zeyn	VB	זײן	zYN	_
+14	in	P	אין	AyN	_
+15	dem	D	דעם	deM	_
+16	"	PUNC	"	"	_
+17	farbrekhn	N	פֿאַרברעכן	fAarbrexN	_
+18	"	PUNC	"	"	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.105
+1	nokh	P	נאָך	nAoX	_
+2	a	D	אַ	Aa	_
+3	por	Q	פּאָר	pAor	_
+4	khdsim	N	כדסים	xdsyM	_
+5	hot	HVF	האָט	hAot	_
+6	zikh	PRO	זיך	zyX	_
+7-8	oysgevizn	RP~VBN	אױסגעװיזן	AWsgeVyzN	_
+7	oys	RP	אױס	AWs	_
+8	gevizn	VBN	געװיזן	geVyzN	_
+9	az	C	אַז	Aaz	_
+10	zey	PRO	זײ	zY	_
+11	zeynen	VBF	זײנען	zYneN	_
+12	umshuldig	ADJ	אומשולדיג	Avm$vldyg	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.106
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	hot	HVF	האָט	hAot	_
+4	zey	PRO	זײ	zY	_
+5	bafreyt	VBN	באַפֿרײט	bAafrYt	_
+
+SENT	1927E-SHATZKY-TESHUAT,15.107
+1	der	D	דער	der	_
+2	arest	N	אַרעסט	Aarest	_
+3	un	CONJ	און	AvN	_
+4	di	D	די	dy	_
+5	beshuldikung	N	בעשולדיקונג	be$vldykvng	_
+6	hot	HVF	האָט	hAot	_
+7-8	aroysgerufn	ADV~VBN	אַרױסגערופֿן	AarWsgervfN	_
+7	aroys	ADV	אַרױס	AarWs	_
+8	gerufn	VBN	גערופֿן	gervfN	_
+9	a	D	אַ	Aa	_
+10	groyse	ADJ	גרױסע	grWse	_
+11	oyfregung	N	אױפֿרעגונג	AWfregvng	_
+12	in	P	אין	AyN	_
+13	di	D	די	dy	_
+14	yidishe	ADJ	ייִדישע	yyidy$e	_
+15	kreyzn	N	קרײזן	krYzN	_
+16	fun	P	פֿון	fvN	_
+17	roym	N	רױם	rWM	_
+
+SENT	1927E-SHATZKY-TESHUAT,16.108
+1	far	P	פֿאַר	fAar	_
+2	der	D	דער	der	_
+3	bafreyung	N	באַפֿרײונג	bAafrYvng	_
+4	fun	P	פֿון	fvN	_
+5	di	D	די	dy	_
+6	tsvey	NUM	צװײ	qVY	_
+7	hoypt_beshuldikte	N	הױפּט_בעשולדיקטע	hWpt_be$vldykte	_
+8	yusf	NPR	יוסף	yvsF	_
+9	samun	NPR	סאַמון	sAamvN	_
+10	un	CONJ	און	AvN	_
+11	giaiela	NPR	גיִאַיִעלאַ	gyiAayielAa	_
+12	di	NPR	די	dy	_
+13	kore	NPR	קאָרע	kAore	_
+14	hot	HVF	האָט	hAot	_
+15	a_skh	Q	אַ_סך	Aa_sX	_
+16-17	oyfgeton	RP~VBN	אױפֿגעטאָן	AWfgetAoN	_
+16	oyf	RP	אױף	AWF	_
+17	geton	VBN	געטאָן	getAoN	_
+18	der	D	דער	der	_
+19	damolstidiker	ADJ	דאַמאָלסטידיקער	dAamAolstydyker	_
+20	roymisher	ADJ	רױמישער	rWmy$er	_
+21	rb	N	רב	rb	_
+
+SENT	1927E-SHATZKY-TESHUAT,16.109
+1	karkus	NPR	קאַרקוס	kAarkvs	_
+2	,	PUNC	,	,	_
+3	oder	CONJ	אָדער	Aoder	_
+4	kurkus	NPR	קורקוס	kvrkvs	_
+5	iz	BEF	איז	Ayz	_
+6	geven	VBN	געװען	geVeN	_
+7	an	D	אַן	AaN	_
+8	angezener	ADJ	אַנגעזענער	Aangezener	_
+9	mitglid	N	מיטגליד	mytglyd	_
+10	fun	P	פֿון	fvN	_
+11	der	D	דער	der	_
+12	roymisher	ADJ	רױמישער	rWmy$er	_
+13	khlh	N	כלה	xlh	_
+14	.	PUNC	.	.	_
+
+SENT	1927E-SHATZKY-TESHUAT,16.110
+1	in	P	אין	AyN	_
+2	yor	N	יאָר	yAor	_
+3	1692	NUM	1692	1692	_
+4	vert	VBF	װערט	Vert	_
+5	er	PRO	ער	er	_
+6	a	D	אַ	Aa	_
+7	mitglid	N	מיטגליד	mytglyd	_
+8	fun	P	פֿון	fvN	_
+9	der	D	דער	der	_
+10	khilh	N	כילה	xylh	_
+11	in	P	אין	AyN	_
+12	yor	N	יאָר	yAor	_
+13	1702	NUM	1702	1702	_
+14	ir	PRO$	איר	Ayr	_
+15	sekreter	N	סעקרעטער	sekreter	_
+16	un	CONJ	און	AvN	_
+17	rb	N	רב	rb	_
+18	.	PUNC	.	.	_
+
+SENT	1927E-SHATZKY-TESHUAT,16.111
+1	karkus	NPR	קאַרקוס	kAarkvs	_
+2	iz	BEF	איז	Ayz	_
+3	gestarbn	VBN	געסטאַרבן	gestAarbN	_
+4	in	P	אין	AyN	_
+5	yor	N	יאָר	yAor	_
+6	1730	NUM	1730	1730	_
+7	.	PUNC	.	.	_
+
+SENT	1927E-SHATZKY-TESHUAT,16.112
+1	dr.	NPR	דר.	dr.	_
+2	korkus	NPR	קאָרקוס	kAorkvs	_
+3	hot	HVF	האָט	hAot	_
+4-5	angeshribn	RP~VBN	אַנגעשריבן	Aange$rybN	_
+4	an	RP	אַן	AaN	_
+5	geshribn	VBN	געשריבן	ge$rybN	_
+6	elf	NUM	עלף	elF	_
+7	shriftn	N	שריפֿטן	$ryftN	_
+8	iber	P	איבער	Ayber	_
+9	farsheydene	ADJ	פֿאַרשײדענע	fAar$Ydene	_
+10	idishe	ADJ	אידישע	Aydy$e	_
+11	aktuele	ADJ	אַקטועלע	Aaktvele	_
+12	anelegnheytn	N	אַנעלעגנהײטן	AanelegnhYtN	_
+
+SENT	1927E-SHATZKY-TESHUAT,16.113
+1	spetsiel	ADV	ספּעציִעל	speqyiel	_
+2	vegn	P	װעגן	VegN	_
+3	dem	D	דעם	deM	_
+4	elilt-dm	N	עלילט-דם	elylt-dM	_
+5	blbul	N	בלבול	blbvl	_
+6	in	P	אין	AyN	_
+7	viterba	NPR	װיטערבאַ	VyterbAa	_
+8	hot	HVF	האָט	hAot	_
+9	er	PRO	ער	er	_
+10-11	ongeshribn	RP~VBN	אָנגעשריבן	Aonge$rybN	_
+10	on	RP	אָן	AoN	_
+11	geshribn	VBN	געשריבן	ge$rybN	_
+12	tsvey	NUM	צװײ	qVY	_
+13	memorandums	N	מעמאָראַנדומס	memAorAandvms	_
+14	bastimt	VAN	באַסטימט	bAastymt	_
+15-16	farn	P~D	פֿאַרן	fAarN	_
+15	far	P	פֿאַר	fAar	_
+16	n	D	נ	n	_
+17	monsiniore	NPR	מאָנסיניִאָרע	mAonsynyiAore	_
+18	gezzi	NPR	געזזי	gezzy	_
+19	dem	D	דעם	deM	_
+20	referent	N	רעפֿערענט	referent	_
+21	far	P	פֿאַר	fAar	_
+22	yidishe	ADJ	ייִדישע	yyidy$e	_
+23	eninim	N	ענינים	enynyM	_
+24	bey	P	בײ	bY	_
+25	poypstlekhn	ADJ	פּױפּסטלעכן	pWpstlexN	_
+26	hoyf	N	הױף	hWF	_
+
+SENT	1927E-SHATZKY-TESHUAT,16.114
+1	in	P	אין	AyN	_
+2	dem	D	דעם	deM	_
+3	erstn	ADJ	ערסטן	erstN	_
+4	memorandum	N	מעמאָראַנדום	memAorAandvM	_
+5	vert	RDF	װערט	Vert	_
+6	bavizn	VAN	באַװיזן	bAaVyzN	_
+7-8	oyfn	P~D	אױפֿן	AWfN	_
+7	oyf	P	אױף	AWF	_
+8	n	D	נ	n	_
+9	smkh	N	סמך	smX	_
+10	fun	P	פֿון	fvN	_
+11	historishe	ADJ	היסטאָרישע	hystAory$e	_
+12	faktn	N	פֿאַקטן	fAaktN	_
+13	az	C	אַז	Aaz	_
+14	di	D	די	dy	_
+15	hersher	N	הערשער	her$er	_
+16	in	CONJ	אין	AyN	_
+17	di	D	די	dy	_
+18	poypsn	N	פּױפּסן	pWpsN	_
+19	hobn	HVF	האָבן	hAobN	_
+20	alemol	ADV	אַלעמאָל	AalemAol	_
+21	beshitst	VBN	בעשיצט	be$yqt	_
+22	di	D	די	dy	_
+23	yidn	N	ייִדן	yyidN	_
+24	kegn	P	קעגן	kegN	_
+25	di_dozike	D	די_דאָזיקע	dy_dAozyke	_
+26	blbulim	N	בלבולים	blbvlyM	_
+
+SENT	1927E-SHATZKY-TESHUAT,16.115
+1	es	ES	עס	es	_
+2	vert	RDF	װערט	Vert	_
+3	bavizn	VAN	באַװיזן	bAaVyzN	_
+4	az	C	אַז	Aaz	_
+5	di	D	די	dy	_
+6	bibl	N	ביבל	bybl	_
+7	un	CONJ	און	AvN	_
+8	di	D	די	dy	_
+9	tlmudishe	ADJ	טלמודישע	tlmvdy$e	_
+10	literatur	N	ליטעראַטור	lyterAatvr	_
+11	git	VBF	גיט	gyt	_
+12	keyn	Q	קײן	kYN	_
+13	shum	Q	שום	$vM	_
+14	grunt	N	גרונט	grvnt	_
+15	nist	NEG	ניסט	nyst	_
+16	tsu	TO	צו	qv	_
+17	bashuldikn	VB	באַשולדיקן	bAa$vldykN	_
+18	di	D	די	dy	_
+19	yidn	N	ייִדן	yyidN	_
+20	in	P	אין	AyN	_
+21	aza	ADV	אַזאַ	AazAa	_
+22	barbarishn	ADJ	באַרבאַרישן	bAarbAary$N	_
+23	mnhg	N	מנהג	mnhg	_
+
+SENT	1927E-SHATZKY-TESHUAT,16.116
+1	in	P	אין	AyN	_
+2	a	D	אַ	Aa	_
+3	beygeleygtn	ADJ	בײגעלײגטן	bYgelYgtN	_
+4	vert	RDF	װערט	Vert	_
+5	iber	RP	איבער	Ayber	_
+6	gegebn	VAN	געגעבן	gegebN	_
+7	a	D	אַ	Aa	_
+8	reye	N	ריאה	ryAh	_
+9	dokumentn	N	דאָקומענטן	dAokvmentN	_
+10	un	CONJ	און	AvN	_
+11	briv	N	בריװ	bryV	_
+12	fun	P	פֿון	fvN	_
+13	glkhim	N	גלכים	glxyM	_
+14	kisrim	N	קיסרים	kysryM	_
+15	un	CONJ	און	AvN	_
+16	a	D	אַ	Aa	_
+17	psk-din	N	פּסק-דין	psk-dyN	_
+18	fun	P	פֿון	fvN	_
+19	venetsianer	ADJ	װענעציִאַנער	VeneqyiAaner	_
+20	senat	N	סענאַט	senAat	_
+21	kegn	P	קעגן	kegN	_
+22	dem	D	דעם	deM	_
+23	blut-blbut	N	בלוט-בלבוט	blvt-blbvt	_
+
+SENT	1927E-SHATZKY-TESHUAT,16.117
+1	dan	ADV	דאַן	dAaN	_
+2	folgt	VBF	פֿאָלגט	fAolgt	_
+3	an	D	אַן	AaN	_
+4	oystsug	N	אױסצוג	AWsqvg	_
+5	fun	P	פֿון	fvN	_
+6	un	CONJ	און	AvN	_
+7	der	D	דער	der	_
+8	dekret	N	דעקרעט	dekret	_
+9	fun	P	פֿון	fvN	_
+10	dem	D	דעם	deM	_
+11	senat	N	סענאַט	senAat	_
+12	in	P	אין	AyN	_
+13	venedik	N	װענעדיק	Venedyk	_
+14	fun	P	פֿון	fvN	_
+15	8tn	ADJ	8טן	8tN	_
+16	april	NPR	אַפּריל	Aapryl	_
+17	1705	NUM	1705	1705	_
+18	velkher	WPRO	װעלכער	Velxer	_
+19	makht	VBF	מאַכט	mAaxt	_
+20	a	D	אַ	Aa	_
+21	suf	N	סוף	svF	_
+22	fun	P	פֿון	fvN	_
+23	di	D	די	dy	_
+24	oyfreytsnde	ADJ	אױפֿרײצנדע	AWfrYqnde	_
+25	stsenes	N	סצענעס	sqenes	_
+26	vi	P	װי	Vy	_
+27	bilder	N	בילדער	bylder	_
+28	velkhe	WPRO	װעלכע	Velxe	_
+29	steln	VBF	סטעלן	stelN	_
+30	for	RP	פֿאָר	fAor	_
+31	vi	C	װי	Vy	_
+32	yidn	N	ייִדן	yyidN	_
+33	tsapfn	VBF	צאַפּפֿן	qAapfN	_
+34	blut	N	בלוט	blvt	_
+35	fun	P	פֿון	fvN	_
+36	a	D	אַ	Aa	_
+37	kristlekhn	ADJ	קריסטלעכן	krystlexN	_
+38	kind	N	קינד	kynd	_
+39	un_az_v	X	אונ_אַז_װ	Avn_Aaz_V	_
+
+SENT	1927E-SHATZKY-TESHUAT,16.118
+1	der	D	דער	der	_
+2	tsveyter	ADJ	צװײטער	qVYter	_
+3	memorandum	N	מעמאָראַנדום	memAorAandvM	_
+4	fun	P	פֿון	fvN	_
+5	dem	D	דעם	deM	_
+6	roymshn	ADJ	רױמשן	rWm$N	_
+7	rb	N	רב	rb	_
+8	un	CONJ	און	AvN	_
+9	doktor	N	דאָקטאָר	dAoktAor	_
+10	{...}	PUNC	{...}	{...}	_
+11	barirt	VBF	באַרירט	bAaryrt	_
+12	di	D	די	dy	_
+13	zelbe	ADJ	זעלבע	zelbe	_
+14	frage	N	פֿראַגע	frAage	_
+15	mit	P	מיט	myt	_
+16	neye	ADJ	נײע	nYe	_
+17	materialn	N	מאַטעריִאַלן	mAateryiAalN	_
+18	un	CONJ	און	AvN	_
+19	beveyzn	N	בעװײזן	beVYzN	_
+
+SENT	1927E-SHATZKY-TESHUAT,16.119
+1	r'	NPR	ר'	r'	_
+2	kheym	NPR	כײם	xYM	_
+3	alshiakh	NPR	אַלשיִאַך	Aal$yiAaX	_
+4	hot	HVF	האָט	hAot	_
+5-6	oysgeklibn	RP~VBN	אױסגעקליבן	AWsgeklybN	_
+5	oys	RP	אױס	AWs	_
+6	geklibn	VBN	געקליבן	geklybN	_
+7	dem	D	דעם	deM	_
+8	memorandum	N	מעמאָראַנדום	memAorAandvM	_
+9	fun	P	פֿון	fvN	_
+10	1705	N	1705	1705	_
+11	un	CONJ	און	AvN	_
+12	di	D	די	dy	_
+13	beyloges	N	בײלאָגעס	bYlAoges	_
+14	fun	P	פֿון	fvN	_
+15	26	NUM	26	26	_
+16	september	NPR	סעפּטעמבער	september	_
+17	1705	NUM	1705	1705	_
+18	fun	P	פֿון	fvN	_
+19	korkusn	N	קאָרקוסן	kAorkvsN	_
+20	un	CONJ	און	AvN	_
+21	zey	PRO	זײ	zY	_
+22	iberzetst	VBN	איבערזעצט	Ayberzeqt	_
+23	oder	CONJ	אָדער	Aoder	_
+24-25	aroysgegebn	ADV~VBN	אַרױסגעגעבן	AarWsgegebN	_
+24	aroys	ADV	אַרױס	AarWs	_
+25	gegebn	VBN	געגעבן	gegebN	_
+
+SENT	1927E-SHATZKY-TESHUAT,16.120
+1	a_khuts	P	אַ_כוץ	Aa_xvQ	_
+2	dem	D	דעם	deM	_
+3	hot	HVF	האָט	hAot	_
+4	er	PRO	ער	er	_
+5-6	aroysgegebn	ADV~VBN	אַרױסגעגעבן	AarWsgegebN	_
+5	aroys	ADV	אַרױס	AarWs	_
+6	gegebn	VBN	געגעבן	gegebN	_
+7	tsvey	NUM	צװײ	qVY	_
+8	andere	ADJ	אַנדערע	Aandere	_
+9	farteydikungs_shriftn	N	פֿאַרטײדיקונגס_שריפֿטן	fAartYdykvngs_$ryftN	_
+10	,	PUNC	,	,	_
+11	velkhe	WPRO	װעלכע	Velxe	_
+12	es	ES	עס	es	_
+13	hot	HVF	האָט	hAot	_
+14	farfast	VBN	פֿאַרפֿאַסט	fAarfAast	_
+15	der	D	דער	der	_
+16	advokat	N	אַדװאָקאַט	AadVAokAat	_
+17	andre	NPR	אַנדרע	Aandre	_
+18	alberta	NPR	אַלבערטאַ	AalbertAa	_
+
+SENT	1927E-SHATZKY-TESHUAT,16.121
+1	loyt	P	לוט	lvt	_
+2	zeyn	PRO$	זײן	zYN	_
+3	hkdmh	N	הקדמה	hkdmh	_
+4	kumt	VBF	קומט	kvmt	_
+5	oys	RP	אױס	AWs	_
+6	,	PUNC	,	,	_
+7	az	C	אַז	Aaz	_
+8	der	D	דער	der	_
+9	rb	N	רב	rb	_
+10	korkuse	NPR	קאָרקוסע	kAorkvse	_
+11	s	$	ס	s	_
+12	shrift	N	שריפֿט	$ryft	_
+13	iz	VBF	איז	Ayz	_
+14	di	D	די	dy	_
+15	drite	ADJ	דריטע	dryte	_
+16	,	PUNC	,	,	_
+17	bet	X	בעט	bet	_
+18	ven	C	װען	VeN	_
+19	in	P	אין	AyN	_
+20	der	D	דער	der	_
+21	emesn	N	אמתן	AmSN	_
+22	iz	BEF	איז	Ayz	_
+23	nor	FP	נאָר	nAor	_
+24	di	D	די	dy	_
+25	erste	ADJ	ערסטע	erste	_
+26	farfast	VAN	פֿאַרפֿאַסט	fAarfAast	_
+27	fun	P	פֿון	fvN	_
+28	im	PRO	אים	AyM	_
+
+SENT	1927E-SHATZKY-TESHUAT,16.122
+1	iz	VBF	איז	Ayz	_
+2	er	PRO	ער	er	_
+3	der	D	דער	der	_
+4	iberzetser	N	איבערזעצער	Ayberzeqer	_
+5	tsi	CONJ	צי	qy	_
+6	nor	FP	נאָר	nAor	_
+7	der	D	דער	der	_
+8	aroysgeber	N	אַרױסגעבער	AarWsgeber	_
+9	?	PUNC	?	?	_
+
+SENT	1927E-SHATZKY-TESHUAT,16.123
+1	ven	C	װען	VeN	_
+2	men	PRO	מען	meN	_
+3	volt	VLF	װאָלט	VAolt	_
+4	gevolt	MDN	געװאָלט	geVAolt	_
+5	urteyln	VB	אורטײלן	AvrtYlN	_
+6	loyt	P	לוט	lvt	_
+7	der	D	דער	der	_
+8	zaftiker	ADJ	זאַפֿטיקער	zAaftyker	_
+9	yidisher	ADJ	ייִדישער	yyidy$er	_
+10	sprakh	N	ספּראַך	sprAaX	_
+11	fun	P	פֿון	fvN	_
+12	zeyn	PRO$	זײן	zYN	_
+13	hkdmh	N	הקדמה	hkdmh	_
+14	un	CONJ	און	AvN	_
+15	dem	D	דעם	deM	_
+16	trukenem	ADJ	טרוקענעם	trvkeneM	_
+17	deytshishn	ADJ	דײטשישן	dYt$y$N	_
+18	stil	N	סטיל	styl	_
+19	fun	P	פֿון	fvN	_
+20	di	D	די	dy	_
+21	drey	NUM	דרײ	drY	_
+22	bikhlekh	N	ביכלעך	byxleX	_
+23	damolt	ADV	דאַמאָלט	dAamAolt	_
+24	iz	VBF	איז	Ayz	_
+25	klor	ADJ	קלאָר	klAor	_
+26	az	C	אַז	Aaz	_
+27	nisht	NEG	נישט	ny$t	_
+28	er	PRO	ער	er	_
+29	iz	VBF	איז	Ayz	_
+30	der	D	דער	der	_
+31	iberzetser	N	איבערזעצער	Ayberzeqer	_
+32	nor	CONJ	נאָר	nAor	_
+33	der	D	דער	der	_
+34	oysgeber	N	אױסגעבער	AWsgeber	_
+
+SENT	1927E-SHATZKY-TESHUAT,16.124
+1	steynshneyder	NPR	סטײנשנײדער	stYn$nYder	_
+2	meynt	VBF	מײנט	mYnt	_
+3	oykh	ADV	אױך	AWX	_
+4	az	C	אַז	Aaz	_
+5	r'	NPR	ר'	r'	_
+6	kheym	NPR	כײם	xYM	_
+7	alhaikh	NPR	אַלהאַיִך	AalhAayiX	_
+8	iz	VBF	איז	Ayz	_
+9	nor	FP	נאָר	nAor	_
+10	der	D	דער	der	_
+11	aroysgeber	N	אַרױסגעבער	AarWsgeber	_
+
+SENT	1927E-SHATZKY-TESHUAT,16.125
+1	nor	FP	נאָר	nAor	_
+2	der	D	דער	der	_
+3	fargleykh	N	פֿאַרגלײך	fAarglYX	_
+4	fun	P	פֿון	fvN	_
+5	der	D	דער	der	_
+6	sprakh	N	ספּראַך	sprAaX	_
+7	fun	P	פֿון	fvN	_
+8	di	D	די	dy	_
+9	drey	NUM	דרײ	drY	_
+10	broshurn	N	בראָשורן	brAo$vrN	_
+11	mit	P	מיט	myt	_
+12	mentsls	NPR$	מענצלס	menqls	_
+13	deytshishn	ADJ	דײטשישן	dYt$y$N	_
+14	tekst	N	טעקסט	tekst	_
+15	volt	VLF	װאָלט	VAolt	_
+16	gekont	MDN	געקאָנט	gekAont	_
+17	fest	RP-ADJ	פֿעסט	fest	_
+18	steln	VB	סטעלן	stelN	_
+19	di	D	די	dy	_
+20	frage	N	פֿראַגע	frAage	_
+
+SENT	1927E-SHATZKY-TESHUAT,16.126
+1	dos	D	דאָס	dAos	_
+2	geyt	VBF	גײט	gYt	_
+3	ober	ADV	אָבער	Aober	_
+4	nisht	NEG	נישט	ny$t	_
+5	areyn	ADV	אַרײן	AarYN	_
+6	in	P	אין	AyN	_
+7	di	D	די	dy	_
+8	ramen	N	ראַמען	rAameN	_
+9	fun	P	פֿון	fvN	_
+10	dem	D	דעם	deM	_
+11	artikl	N	אַרטיקל	Aartykl	_
+12	.	PUNC	.	.	_
+
+SENT	1927E-SHATZKY-TESHUAT,16.127
+1	r	NPR	ר	r	_
+2	heykhm	NPR	הײכם	hYxM	_
+3	alskhikh	NPR	אַלסכיך	AalsxyX	_
+4	afilu	FP	אַפֿילו	Aafylv	_
+5	ven	C	װען	VeN	_
+6	er	PRO	ער	er	_
+7	iz	VBF	איז	Ayz	_
+8	nor	FP	נאָר	nAor	_
+9	der	D	דער	der	_
+10	aroysgeber	N	אַרױסגעבער	AarWsgeber	_
+11	fun	P	פֿון	fvN	_
+12	di	D	די	dy	_
+13	drey	NUM	דרײ	drY	_
+14	apologetishe	ADJ	אַפּאָלאָגעטישע	AapAolAogety$e	_
+15	shrift	N	שריפֿט	$ryft	_
+16	in	P	אין	AyN	_
+17	yidish	N	ייִדיש	yyidy$	_
+18	fardint	VBF	פֿאַרדינט	fAardynt	_
+19	dermont	VAN	דערמאָנט	dermAont	_
+20	tsu	TO	צו	qv	_
+21	vern	RD	װערן	VerN	_
+22	in	P	אין	AyN	_
+23	der	D	דער	der	_
+24	yidisher	ADJ	ייִדישער	yyidy$er	_
+25	literatur-geshikhte	N	ליטעראַטור-געשיכטע	lyterAatvr-ge$yxte	_
+
+SENT	1927E-SHATZKY-TESHUAT,16.128
+1	a_khuts	P	אַ_כוץ	Aa_xvQ	_
+2	dem	D	דעם	deM	_
+3	iz	VBF	איז	Ayz	_
+4	er	PRO	ער	er	_
+5	lkhlutin	ADV	לכלוטין	lxlvtyN	_
+6	umbakant	ADJ	אומבאַקאַנט	AvmbAakAant	_
+7	in	P	אין	AyN	_
+8	der	D	דער	der	_
+9	geshikhte	N	געשיכטע	ge$yxte	_
+10	fun	P	פֿון	fvN	_
+11	di	D	די	dy	_
+12	yidn	N	ייִדן	yyidN	_
+13	in	P	אין	AyN	_
+14	poyln	NPR	פּױלן	pWlN	_
+
+SENT	1927E-SHATZKY-TESHUAT,16.129
+1	er	PRO	ער	er	_
+2	iz	VBF	איז	Ayz	_
+3	eyner	PRO	אײנער	AYner	_
+4	fun	P	פֿון	fvN	_
+5	di	D	די	dy	_
+6	umbekantn	ADJ	אומבעקאַנטן	AvmbekAantN	_
+7	skhdlnim	N	סכדלנים	sxdlnyM	_
+8	velkhe	WPRO	װעלכע	Velxe	_
+9	zeynen	BEF	זײנען	zYneN	_
+10	geforn	VBN	געפֿאָרן	gefAorN	_
+11	tsu	P	צו	qv	_
+12	yener	D	יענער	yener	_
+13	tseyt	N	צײט	qYt	_
+14	nokh	P	נאָך	nAoX	_
+15	dem	D	דעם	deM	_
+16	groyzamen	ADJ	גרױזאַמען	grWzAameN	_
+17	pozener	ADJ	פּאָזענער	pAozener	_
+18	protses	N	פּראָצעס	prAoqes	_
+19	zukhn	VB	זוכן	zvxN	_
+20	farteydikung-material	N	פֿאַרטײדיקונג-מאַטעריִאַל	fAartYdykvng-mAateryiAal	_
+21	kegn	P	קעגן	kegN	_
+22	elilt-dm	N	עלילט-דם	elylt-dM	_
+
+SENT	1927E-SHATZKY-TESHUAT,16.130
+1	mir	PRO	מיר	myr	_
+2	hobn	VBF	האָבן	hAobN	_
+3	nisht	NEG	נישט	ny$t	_
+4	keyn	Q	קײן	kYN	_
+5	shum	Q	שום	$vM	_
+6	motiv	N	מאָטיװ	mAotyV	_
+7	nisht	NEG	נישט	ny$t	_
+8	tsu	TO	צו	qv	_
+9	gloybn	VB	גלױבן	glWbN	_
+10	in	P	אין	AyN	_
+11	zeyn	PRO$	זײן	zYN	_
+12	oyfrikhtikeyt	N	אױפֿריכטיקײט	AWfryxtykYt	_
+13	un	CONJ	און	AvN	_
+14	idealizm	N	אידעאַליזם	AydeAalyzM	_
+
+SENT	1927E-SHATZKY-TESHUAT,16.131
+1	azoy	ADV	אַזױ	AazW	_
+2	vi	WADV	װי	Vy	_
+3	er	PRO	ער	er	_
+4	shildert	VBF	שילדערט	$yldert	_
+5	dos	D	דאָס	dAos	_
+6	iz	VBF	איז	Ayz	_
+7	zeyn	PRO$	זײן	zYN	_
+8	zeyer	ADV	זײער	zYer	_
+9	vikhtiker	ADJ	װיכטיקער	Vyxtyker	_
+10	in	P	אין	AyN	_
+11	kultur-historishn	ADJ	קולטור-היסטאָרישן	kvltvr-hystAory$N	_
+12	zin	N	זין	zyN	_
+13	oytobiografisher	ADJ	אױטאָביִאָגראַפֿישער	AWtAobyiAogrAafy$er	_
+14	hkdmh	N	הקדמה	hkdmh	_
+
+SENT	1927E-SHATZKY-TESHUAT,16.132
+1	fun	P	פֿון	fvN	_
+2	der	D	דער	der	_
+3	hkdmh	N	הקדמה	hkdmh	_
+4	iz	VBF	איז	Ayz	_
+5	tsu	TO	צו	qv	_
+6	zen	VB	זען	zeN	_
+7	,	PUNC	,	,	_
+8	az	C	אַז	Aaz	_
+9	r'	NPR	ר'	r'	_
+10	kheym	NPR	כײם	xYM	_
+11	alsikh	NPR	אַלסיך	AalsyX	_
+12	iz	BEF	איז	Ayz	_
+13	geven	VBN	געװען	geVeN	_
+14	in	P	אין	AyN	_
+15	deytsland	NPR	דײצלאַנד	dYqlAand	_
+16	efshr	ADV	עפֿשר	ef$r	_
+17	take	ADV	טאַקע	tAake	_
+18	in	P	אין	AyN	_
+19	pivrda	NPR	פּיװרדאַ	pyVrdAa	_
+20	nupa	NPR	נופּאַ	nvpAa	_
+21	ven	C	װען	VeN	_
+22	dos	D	דאָס	dAos	_
+23	sfr	N	ספֿר	sfr	_
+24	hot	HVF	האָט	hAot	_
+25	zikh	PRO	זיך	zyX	_
+26	dort	ADV	דאָרט	dAort	_
+27	gedrukt	VBN	געדרוקט	gedrvkt	_
+
+SENT	1927E-SHATZKY-TESHUAT,16.133
+1	leyder	ADV	לײדער	lYder	_
+2	lozt	VBF	לאָזט	lAozt	_
+3	zikh	PRO	זיך	zyX	_
+4	derveyl	ADV	דערװײל	derVYl	_
+5	nisht	NEG	נישט	ny$t	_
+6	feststeln	VB	פֿעסצטעלן	fesqtelN	_
+7	zeyn	PRO$	זײן	zYN	_
+8	veyterdiker	ADJ	װײטערדיקער	VYterdyker	_
+9	gudl	N	גודל	gvdl	_
+
+SENT	1927E-SHATZKY-TESHUAT,16.134
+1	zal	MDF	ז"ל	z"l	_
+2	di	D	די	dy	_
+3	ibergedrukte	ADJ	איבערגעדרוקטע	Aybergedrvkte	_
+4	hkdmh	N	הקדמה	hkdmh	_
+5	dermonen	VB	דערמאָנען	dermAoneN	_
+6	unz	PRO	אונז	Avnz	_
+7	vegn	P	װעגן	VegN	_
+8	dem	D	דעם	deM	_
+9	umbakantn	ADJ	אומבאַקאַנטן	AvmbAakAantN	_
+10	yidishn	ADJ	ייִדישן	yyidy$N	_
+11	kll-mued	N	קלל-מועד	kll-mved	_
+12	fun	P	פֿון	fvN	_
+13	poyln	NPR	פּױלן	pWlN	_
+14	,	PUNC	,	,	_
+15	fun	P	פֿון	fvN	_
+16	suf	N	סוף	svF	_
+17	17tn	ADJ	17טן	17tN	_
+18	un	CONJ	און	AvN	_
+19	anfang	N	אַנפֿאַנג	AanfAang	_
+20	18tn	ADJ	18טן	18tN	_
+21	yorhundert	N	יאָרהונדערט	yAorhvndert	_
+22	!	PUNC	!	!	_
+
+SENT	1927E-SHATZKY-TESHUAT,18_footnotes_generally_omitted.138
+1	fn._28	LS	פֿן._28	fN._28	_
+2	dos	D	דאָס	dAos	_
+3	meynt	VBF	מײנט	mYnt	_
+4	er	PRO	ער	er	_
+5	dem	D	דעם	deM	_
+6	barimtn	ADJ	באַרימטן	bAarymtN	_
+7	hebreist	N	העברעיִסט	hebreyist	_
+8	yohan	NPR	יאָהאַן	yAohAaN	_
+9	kristofar	NPR	קריסטאָפֿאַר	krystAofAar	_
+10	vagnzeyl	NPR	װאַגנזײל	VAagnzYl	_
+11	velkher	WPRO	װעלכער	Velxer	_
+12	hot	HVF	האָט	hAot	_
+13	oykh	ADV	אױך	AWX	_
+14-15	aroysgegebn	ADV~VBN	אַרױסגעגעבן	AarWsgegebN	_
+14	aroys	ADV	אַרױס	AarWs	_
+15	gegebn	VBN	געגעבן	gegebN	_
+16	a	D	אַ	Aa	_
+17	bukh	N	בוך	bvX	_
+18	iber	P	איבער	Ayber	_
+19	der	D	דער	der	_
+20	yidisher	ADJ	ייִדישער	yyidy$er	_
+21	sprakh	N	ספּראַך	sprAaX	_
+22	un	CONJ	און	AvN	_
+23	literatur	N	ליטעראַטור	lyterAatvr	_
+24	.	PUNC	.	.	_
+

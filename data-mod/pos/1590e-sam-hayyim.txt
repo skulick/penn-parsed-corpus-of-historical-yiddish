@@ -1,0 +1,1815 @@
+SENT	1590E-SAM-HAYYIM,1.3
+1	sm	H	סם	sM	spice
+2	heym	H	הײם	hYM	life
+3	iz	BEF	איז	Ayz	_
+4	ds	D	דס	ds	_
+5	sfr	N	ספֿר	sfr	_
+6	ginant	VAN	גינאַנט	gynAant	_
+
+SENT	1590E-SAM-HAYYIM,1.4
+1	es	PRO	עס	es	_
+2	iz	BEF	איז	Ayz	_
+3	kumn	VBN	קומן	kvmN	_
+4	in	P	אין	AyN	_
+5	veytn	ADJ	װײטן	VYtN	_
+6	land	N	לאַנד	lAand	_
+
+SENT	1590E-SAM-HAYYIM,1.5
+1	akh	ADV	אַך	AaX	_
+2	ht	HVF	הט	ht	_
+3	ez	PRO	עז	ez	_
+4	gmakht	VBN	גמאַכט	gmAaxt	_
+5	eyn	D	אײן	AYN	_
+6	zeligh	ADJ	זעליגה	zelygh	_
+7	hand	N	האַנד	hAand	_
+
+SENT	1590E-SAM-HAYYIM,1.6
+1	her	NPR	הער	her	_
+2	abrhm	NPR	אַברהם	AabrhM	_
+3	ashknuz	NPR	אַשקנוז	Aa$knvz	_
+4	apitikr	NPR	אַפּיטיקר	Aapytykr	_
+5	iz	BEF	איז	Ayz	_
+6	er	PRO	ער	er	_
+7	ginant	VAN	גינאַנט	gynAant	_
+
+SENT	1590E-SAM-HAYYIM,1.7
+1	er	PRO	ער	er	_
+2	shikt	VBF	שיקט	$ykt	_
+3	ez	PRO	עז	ez	_
+4	den	D	דען	deN	_
+5	eulm	N	עולם	evlM	_
+6	vr	P	װר	Vr	_
+7	eyn	D	אײן	AYN	_
+8	priznd	N	פּריזנד	pryznd	_
+
+SENT	1590E-SAM-HAYYIM,1.8
+1	den	CONJ	דען	deN	_
+2	ez	PRO	עז	ez	_
+3	veyzt	VBF	װײזט	VYzt	_
+4	vi	WADV	װי	Vy	_
+5	zikh	PRO	זיך	zyX	_
+6	itlkhr	Q	איטלכר	Aytlxr	_
+7	zul	MDF	זול	zvl	_
+8	hitn	VB	היטן	hytN	_
+9	vr	P	װר	Vr	_
+10	sind	N	סינד	synd	_
+11	un'	CONJ	אונ'	Avn'	_
+12	sand	N	סאַנד	sAand	_
+13	akh	ADV	אַך	AaX	_
+14	vi	WADV	װי	Vy	_
+15	der	D	דער	der	_
+16	mensh	N	מענש	men$	_
+17	rekht	ADV	רעכט	rext	_
+18	val	ADV	װאַל	VAal	_
+19	zal	MDF	ז"ל	z"l	_
+20	zeyn	VB	זײן	zYN	_
+21	in	P	אין	AyN	_
+22	gts	NPR$	גץ	gQ	_
+23	dinst	N	דינסט	dynst	_
+24	bkand	ADJ	בקאַנד	bkAand	_
+
+SENT	1590E-SAM-HAYYIM,1.9
+1	drum	DR+P	דרום	drvM	_
+2	lat	VBI	לאַט	lAat	_
+3	ez	PRO	עז	ez	_
+4	nit	NEG	ניט	nyt	_
+5	oyz	P	אױז	AWz	_
+6	eyr	PRO$	אײר	AYr	_
+7	hnd	N	הנד	hnd	_
+
+SENT	1590E-SAM-HAYYIM,1.10
+1	der_durkh	DR+P	דער_דורך	der_dvrX	_
+2	vert	RDF	װערט	Vert	_
+3	ir	PRO	איר	Ayr	_
+4	kumn	VB	קומן	kvmN	_
+5	in	P	אין	AyN	_
+6	das	D	דת	dS	_
+7	heylig	ADJ	הײליג	hYlyg	_
+8	land	N	לאַנד	lAand	_
+
+SENT	1590E-SAM-HAYYIM,2.12
+1	daz	D	דאַז	dAaz	_
+2	sfr	N	ספֿר	sfr	_
+3	iz	BEF	איז	Ayz	_
+4	sm	H	סם	sM	spice
+5	heym	H	הײם	hYM	life
+6	gialet	VAN	גיִאַלעט	gyiAalet	_
+
+SENT	1590E-SAM-HAYYIM,2.13
+1	den	CONJ	דען	deN	_
+2	ez	PRO	עז	ez	_
+3	makht	VBF	מאַכט	mAaxt	_
+4	eyn	PRO	אײן	AYN	_
+5	lebdig	ADJ	לעבדיג	lebdyg	_
+6	tsu	P	צו	qv	_
+7	yenr	D	יענר	yenr	_
+8	velt	N	װעלט	Velt	_
+
+SENT	1590E-SAM-HAYYIM,2.14
+1	den	CONJ	דען	deN	_
+2	sm	H	סם	sM	spice
+3	heym	H	הײם	hYM	life
+4	iz	VBF	איז	Ayz	_
+5	teyts	N	טײץ	tYQ	_
+6	eyn	D	אײן	AYN	_
+7	krut	N	קרוט	krvt	_
+8	daz	WPRO	דאַז	dAaz	_
+9	dua	ADV	דואַ	dvAa	_
+10	lebndig	ADJ	לעבנדיג	lebndyg	_
+11	makht	VBF	מאַכט	mAaxt	_
+
+SENT	1590E-SAM-HAYYIM,2.15
+1	drum	DR+P	דרום	drvM	_
+2	zikht	VBI	זיכט	zyxt	_
+3	az	C	אַז	Aaz	_
+4	ir	PRO	איר	Ayr	_
+5	ez	PRO	עז	ez	_
+6	hukh	ADV	הוך	hvX	_
+7	akht	VBF	אַכט	Aaxt	_
+
+SENT	1590E-SAM-HAYYIM,2.16
+1	drum	DR+P	דרום	drvM	_
+2	libe	ADJ	ליבע	lybe	_
+3	her	N	הער	her	_
+4	veybr	N	װײבר	VYbr	_
+5	un	CONJ	און	AvN	_
+6	manin	N	מאַנין	mAanyN	_
+7	un	CONJ	און	AvN	_
+8	al	Q	אַל	Aal	_
+9	di	WPRO	די	dy	_
+10	leyan	VB	לײאַן	lYAaN	_
+11	knan	MDF	קנאַן	knAaN	_
+12	di	D	די	dy	_
+13	zalin	MDF	זאַלין	zAalyN	_
+14	al	Q	אַל	Aal	_
+15	her	RP-ADV	הער	her	_
+16	loyfn	VB	לױפֿן	lWfN	_
+17	daz	D	דאַז	dAaz	_
+18	sfr	N	ספֿר	sfr	_
+19	tsu	TO	צו	qv	_
+20	koyfin	VB	קױפֿין	kWfyN	_
+
+SENT	1590E-SAM-HAYYIM,2.17
+1	den	CONJ	דען	deN	_
+2	ez	PRO	עז	ez	_
+3	iz	BEF	איז	Ayz	_
+4	in	P	אין	AyN	_
+5	alin	Q	אַלין	AalyN	_
+6	beydn	Q	בײדן	bYdN	_
+7	ibri	N	איברי	Aybry	_
+8	gimakht	VAN	גימאַכט	gymAaxt	_
+9	un	CONJ	און	AvN	_
+10	oyf	P	אױף	AWF	_
+11	teytsh	N	טײטש	tYt$	_
+12	bisheydn	VAN	בישײדן	by$YdN	_
+
+SENT	1590E-SAM-HAYYIM,2.18
+1	den	CONJ	דען	deN	_
+2	ez	PRO	עז	ez	_
+3	veyzt	VBF	װײזט	VYzt	_
+4	den	D	דען	deN	_
+5	menshn	N	מענשן	men$N	_
+6	oyf	P	אױף	AWF	_
+7	eyn	D	אײן	AYN	_
+8	rekhtn	ADJ	רעכטן	rextN	_
+9	veg	N	װעג	Veg	_
+
+SENT	1590E-SAM-HAYYIM,2.19
+1	drum	DR+P	דרום	drvM	_
+2	zeyt	VBI	זײט	zYt	_
+3	nit	NEG	ניט	nyt	_
+4	frl...	X	פֿרל...	frl...	_
+5	treg	ADJ	טרעג	treg	_
+
+SENT	1590E-SAM-HAYYIM,2.20
+1	un	CONJ	און	AvN	_
+2	spart	VBI	ספּאַרט	spAart	_
+3	nit	NEG	ניט	nyt	_
+4	gelt	N	געלט	gelt	_
+
+SENT	1590E-SAM-HAYYIM,2.21
+1	ez	PRO	עז	ez	_
+2	helft	VBF	העלפֿט	helft	_
+3	oykh	PRO	אױך	AWX	_
+4	oyf	P	אױף	AWF	_
+5	dizr	D	דיזר	dyzr	_
+6	un	CONJ	און	AvN	_
+7	oyf	P	אױף	AWF	_
+8	yenr	D	יענר	yenr	_
+9	velt	N	װעלט	Velt	_
+
+SENT	1590E-SAM-HAYYIM,2.22
+1	den	CONJ	דען	deN	_
+2	ez	ES	עז	ez	_
+3	ht	HVF	הט	ht	_
+4	s	PRO	ס	s	_
+5	gimakht	VBN	גימאַכט	gymAaxt	_
+6	eyn	D	אײן	AYN	_
+7	frumr	ADJ	פֿרומר	frvmr	_
+8	yud	N	י	y	_
+
+SENT	1590E-SAM-HAYYIM,2.23
+1	de{r}	WPRO	דע{ר}	de{r}	_
+2	di	D	די	dy	_
+3	mesim	H	מעסים	mesyM	deeds
+4	tubim	H	טובים	tvbyM	good
+5	nit	NEG	ניט	nyt	_
+6	ir	VBF	איר	Ayr	_
+7	un	CONJ	און	AvN	_
+8	lernt	VBF	לערנט	lernt	_
+9	nur	FP	נור	nvr	_
+10	di	D	די	dy	_
+11	teylt	ADJ	טײלט	tYlt	_
+12	strof	N	סטראָף	strAoF	_
+13	un	CONJ	און	AvN	_
+14	ts...	X	צ...	q...	_
+15	vi	WADV	װי	Vy	_
+16	vir	PRO	װיר	Vyr	_
+17	s	PRO	ס	s	_
+18	gifndn	VBF	גיפֿנדן	gyfndN	_
+19	in	P	אין	AyN	_
+20	bikhr	N	ביכר	byxr	_
+21	un	CONJ	און	AvN	_
+22	vi	WADV	װי	Vy	_
+23	is	PRO	איס	Ays	_
+24	oykh	PRO	אױך	AWX	_
+25	dukht	VBF	דוכט	dvxt	_
+26	der	D	דער	der	_
+27	vis	VBF	װיס	Vys	_
+28	dz	C	דז	dz	_
+29	eyn	D	אײן	AYN	_
+30	khlh	H	כלה	xlh	community
+31	khu	H	כו	xv	UNKNOWN
+32	nit	NEG	ניט	nyt	_
+33	zal	MDF	ז"ל	z"l	_
+34	gin	VB	גין	gyN	_
+35	tsu	P	צו	qv	_
+36	sheytr	N	שײטר	$Ytr	_
+37	az	C	אַז	Aaz	_
+38	ir	PRO	איר	Ayr	_
+39	vert	RDF	װערט	Vert	_
+40	leyeni	VB	לײעני	lYeny	_
+41	veytr	ADV	װײטר	VYtr	_
+
+SENT	1590E-SAM-HAYYIM,2.24
+1	un	CONJ	און	AvN	_
+2	vakht	VBF	װאַכט	VAaxt	_
+3	az	P	אַז	Aaz	_
+4	an	D	אַן	AaN	_
+5	lb	N	לב	lb	_
+6	vi	WADV	װי	Vy	_
+7	er	PRO	ער	er	_
+8	zeynh	PRO$	זײנה	zYnh	_
+9	kindr	N	קינדר	kyndr	_
+10	zal	MDF	ז"ל	z"l	_
+11	strafin	VB	סטראַפֿין	strAafyN	_
+
+SENT	1590E-SAM-HAYYIM,2.25
+1	der	WPRO	דער	der	_
+2	daz	D	דאַז	dAaz	_
+3	halt	VBF	האַלט	hAalt	_
+4	tut	DOF	טוט	tvt	_
+5	gvis	ADV	גװיס	gVys	_
+6	gut	ADV	גוט	gvt	_
+7	hafn	VB	האַפֿן	hAafN	_
+
+SENT	1590E-SAM-HAYYIM,2.26
+1	rbi	NPR	רבי	rby	_
+2	abrhm	NPR	אַברהם	AabrhM	_
+3	iz	VBF	איז	Ayz	_
+4	zeyn	PRO$	זײן	zYN	_
+5	namn	N	נאַמן	nAamN	_
+
+SENT	1590E-SAM-HAYYIM,2.27
+1	az	C	אַז	Aaz	_
+2	di	D	די	dy	_
+3	dinr	N	דינר	dynr	_
+4	in	P	אין	AyN	_
+5	bith_hmkds	H	ביטה_המקדס	byth_hmkds	temple
+6	kamn	VBF	קאַמן	kAamN	_
+
+SENT	1590E-SAM-HAYYIM,2.28
+1	drum	DR+P	דרום	drvM	_
+2	kaft	VBI	קאַפֿט	kAaft	_
+3	s	PRO	ס	s	_
+
+SENT	1590E-SAM-HAYYIM,2.29
+1	un	CONJ	און	AvN	_
+2	tut	DOI	טוט	tvt	_
+3	oykh	PRO	אױך	AWX	_
+4	an	P	אַן	AaN	_
+5	in	PRO	אין	AyN	_
+6	kern	VB	קרן	krN	_
+
+SENT	1590E-SAM-HAYYIM,2.30
+1	vert	RDF	װערט	Vert	_
+2	ir	PRO	איר	Ayr	_
+3	zukh	RP-H	זוך	zvX	_
+4	zeyn	VB	זײן	zYN	_
+5	sufr	H	סופֿר	svfr	shofar
+6	mshih	H	משיה	m$yh	_
+7	tsu	TO	צו	qv	_
+8	hern	VB	הערן	herN	_
+
+SENT	1590E-SAM-HAYYIM,2.31
+1	azu	ADV	אַזו	Aazv	_
+2	zag	VBF	זאַג	zAag	_
+3	ikh	PRO	איך	AyX	_
+4	stsl	NPR	סצל	sql	_
+5	slth	NPR	סלטה	slth	_
+6	khn	NPR	כן	xN	_
+7	oykh	ADV	אױך	AWX	_
+
+SENT	1590E-SAM-HAYYIM,2.32
+1	ikh	PRO	איך	AyX	_
+2	ver	BEF	װער	Ver	_
+3	meyn	VAG	מײן	mYN	_
+4	daz	D	דאַז	dAaz	_
+5	bikhl	N	ביכל	byxl	_
+6	iz	VBF	איז	Ayz	_
+7	nit	NEG	ניט	nyt	_
+8	um_gleykh	ADJ	אומ_גלײך	Avm_glYX	_
+
+SENT	1590E-SAM-HAYYIM,3.34
+1	der	D	דער	der	_
+2	sfr	N	ספֿר	sfr	_
+3	iz	VBF	איז	Ayz	_
+4	fun	P	פֿון	fvN	_
+5	di	D	די	dy	_
+6	{...}	N	{...}	{...}	_
+7	dz	C	דז	dz	_
+8	di	D	די	dy	_
+9	khilh	N	כילה	xylh	_
+10	firn	VBF	פֿירן	fyrN	_
+11	dz	C	דז	dz	_
+12	zi	PRO	זי	zy	_
+13	mit	P	מיט	myt	_
+14	irn	PRO$	אירן	AyrN	_
+15	rasth	N	ראַסטה	rAasth	_
+16	di	D	די	dy	_
+17	leyt	N	לײט	lYt	_
+18	kign	P	קיגן	kygN	_
+19	gut	N	גוט	gvt	_
+20	valin	MDF	װאַלין	VAalyN	_
+21	tsirin	VB	צירין	qyryN	_
+
+SENT	1590E-SAM-HAYYIM,3.35
+1	du	ADV	דו	dv	_
+2	tut	DOF	טוט	tvt	_
+3	zi	PRO	זי	zy	_
+4	gut	NPR	גוט	gvt	_
+5	akh	ADV	אַך	AaX	_
+6	bey_stnd	N	בײ_סטנד	bY_stnd	_
+7	dz	C	דז	dz	_
+8	nit	NEG	ניט	nyt	_
+9	a...	X	אַ...	Aa...	_
+10	zi	PRO	זי	zy	_
+11	kumt	VBF	קומט	kvmt	_
+12	zind	N	זינד	zynd	_
+13	nukh	CONJ	נוך	nvX	_
+14	sand	N	סאַנד	sAand	_
+
+SENT	1590E-SAM-HAYYIM,3.36
+1	nun	ADV	נ	n	_
+2	vil	MDF	װיל	Vyl	_
+3	ikh	PRO	איך	AyX	_
+4	di	D	די	dy	_
+5	zakhn	N	זאַכן	zAaxN	_
+6	eyn	RP	אײן	AYN	_
+7	tragin	VB	טראַגין	trAagyN	_
+8	velkhiz	WPRO	װעלכיז	Velxyz	_
+9	di	D	די	dy	_
+10	rasi{m}	N	ראַסי{מ}	rAasy{m}	_
+11	tunn	VBF	טונן	tvnN	_
+12	rekht	ADV	רעכט	rext	_
+13	un	CONJ	און	AvN	_
+14	nit	NEG	ניט	nyt	_
+15	nukh	P	נוך	nvX	_
+16	irn	PRO$	אירן	AyrN	_
+17	zin	N	זין	zyN	_
+18	vragin	VB	װראַגין	VrAagyN	_
+
+SENT	1590E-SAM-HAYYIM,3.37
+1	dr_nakh	DR+P	דר_נאַך	dr_nAaX	_
+2	vil	MDF	װיל	Vyl	_
+3	ikh	PRO	איך	AyX	_
+4	di	D	די	dy	_
+5	bikhlikh	N	ביכליך	byxlyX	_
+6	spreytn	VB	ספּרײטן	sprYtN	_
+7	un	X	און	AvN	_
+8	den	D	דען	deN	_
+9	yudn	N	יודן	yvdN	_
+10	di	WPRO	די	dy	_
+11	du	ADV	דו	dv	_
+12	zeynn	VBF	זײנן	zYnN	_
+13	guts	NPR$	גוטס	gvts	_
+14	dinr	N	דינר	dynr	_
+15	tsu	P	צו	qv	_
+16	alin	Q	אַלין	AalyN	_
+17	tseytn	N	צײטן	qYtN	_
+18	der_mit	C	דער_מיט	der_myt	_
+19	ikh	PRO	איך	AyX	_
+20	mikh	PRO	מיך	myX	_
+21	abraham	NPR	אַבראַהאַם	AabrAahAaM	_
+22	zul	MDF	זול	zvl	_
+23	s	PRO	ס	s	_
+24	ginisn	VB	גיניסן	gynysN	_
+
+SENT	1590E-SAM-HAYYIM,3.38
+1	abr	CONJ	אַבר	Aabr	_
+2	ikh	PRO	איך	AyX	_
+3	bit	VBF	ביט	byt	_
+4	di	D	די	dy	_
+5	leyt	N	לײט	lYt	_
+6	un	CONJ	און	AvN	_
+7	bal	VBF	בעל-	bel-	_
+8	zi	PRO	זי	zy	_
+9	tsu	TO	צו	qv	_
+10	pitn	VB	פּיטן	pytN	_
+11	al	Q	אַל	Aal	_
+12	di	WPRO	די	dy	_
+13	daz	D	דאַז	dAaz	_
+14	vern	RDF	װערן	VerN	_
+15	lezin	VB	לעזין	lezyN	_
+16	ez	PRO	עז	ez	_
+17	zeynn	BEF	זײנן	zYnN	_
+18	vr	P	װר	Vr	_
+19	vil	Q	װיל	Vyl	_
+20	leyt	N	לײט	lYt	_
+21	udr	CONJ	אודר	Avdr	_
+22	eyn_leyn	ADJ	אײנ_לײן	AYn_lYN	_
+23	gvezin	VBN	גװעזין	gVezyN	_
+24	dz	C	דז	dz	_
+25	er	PRO	ער	er	_
+26	nit	NEG	ניט	nyt	_
+27	zal	MDF	ז"ל	z"l	_
+28	azu	ADV	אַזו	Aazv	_
+29	mir	PRO	מיר	myr	_
+30	treyfn	VB	טרײפֿן	trYfN	_
+31	htsrkhh	H	הצרכה	hqrxh	grammatical_government
+32	der	WPRO	דער	der	_
+33	nit	NEG	ניט	nyt	_
+34	hat	HVF	האַט	hAat	_
+35	fil	Q	פֿיל	fyl	_
+36	glernt	VBN	גלערנט	glernt	_
+37	hlkhh	N	הלכה	hlxh	_
+
+SENT	1590E-SAM-HAYYIM,3.39
+1	den	CONJ	דען	deN	_
+2	ikh	PRO	איך	AyX	_
+3	bin	VBF	בין	byN	_
+4	gleykh	ADJ	גלײך	glYX	_
+5	az	P	אַז	Aaz	_
+6	di	D	די	dy	_
+7	knekht	N	קנעכט	knext	_
+8	fun	P	פֿון	fvN	_
+9	...	PUNC	...	...	_
+10	di	D	די	dy	_
+11	virdig	ADJ	װירדיג	Vyrdyg	_
+12	stat	N	סטאַט	stAat	_
+13	dz	C	דז	dz	_
+14	er	PRO	ער	er	_
+15	iz	VBF	איז	Ayz	_
+16	krnk	ADJ	קרנק	krnk	_
+17	ven	C	װען	VeN	_
+18	er	PRO	ער	er	_
+19	nit	NEG	ניט	nyt	_
+20	arbt	N	אַרבט	Aarbt	_
+21	hut	VBF	הוט	hvt	_
+
+SENT	1590E-SAM-HAYYIM,3.40
+1	akh	ADV	אַך	AaX	_
+2	zult	MDF	זולט	zvlt	_
+3	ir	PRO	איר	Ayr	_
+4	nit	NEG	ניט	nyt	_
+5	zagin	VB	זאַגין	zAagyN	_
+6	vaz	WPRO	װאַז	VAaz	_
+7	zagt	VBF	זאַגט	zAagt	_
+8	er	PRO	ער	er	_
+9	mir	PRO	מיר	myr	_
+10	min	QR	מין	myN	_
+11	az	P	אַז	Aaz	_
+12	andrh	ADJ	אַנדרה	Aandrh	_
+13	rbnim	N	רבנים	rbnyM	_
+
+SENT	1590E-SAM-HAYYIM,3.41
+1	glakht	VBF	גלאַכט	glAaxt	_
+2	ir	PRO	איר	Ayr	_
+3	mikh	PRO	מיך	myX	_
+4	makhs	X	מאַכס	mAaxs	_
+5	nur	FP	נור	nvr	_
+6	vr	P	װר	Vr	_
+7	bn...	X	בן...	bN...	_
+8	rbnim	N	רבנים	rbnyM	_
+
+SENT	1590E-SAM-HAYYIM,3.42
+1	akh	ADV	אַך	AaX	_
+2	shreybt	VBF	שרײבט	$rYbt	_
+3	der	D	דער	der	_
+4	psuk	N	פּסוק	psvk	_
+5	der	D	דער	der	_
+6	{...}	N	{...}	{...}	_
+7	zul	MDF	זול	zvl	_
+8	imr{...}	ADV	אימר{...}	Aymr{...}	_
+9	lernn	VB	לערנן	lernN	_
+10	ven	C	װען	VeN	_
+11	gleykh	ADV	גלײך	glYX	_
+12	di	D	די	dy	_
+13	leyt	N	לײט	lYt	_
+14	veltn	MDF	װעלטן	VeltN	_
+15	tsernn	VB	צערנן	qernN	_
+
+SENT	1590E-SAM-HAYYIM,3.43
+1	nun	ADV	נ	n	_
+2	bin	VBF	בין	byN	_
+3	ikh	PRO	איך	AyX	_
+4	...	PUNC	...	...	_
+5	az	P	אַז	Aaz	_
+6	eyn	D	אײן	AYN	_
+7	hindil	N	הינדיל	hyndyl	_
+8	in	P	אין	AyN	_
+9	der	D	דער	der	_
+10	shal	N	שאַל	$Aal	_
+
+SENT	1590E-SAM-HAYYIM,3.44
+1	un	CONJ	און	AvN	_
+2	bit	VBF	ביט	byt	_
+3	um	P	אום	AvM	_
+4	gnad	N	גנאַד	gnAad	_
+5	ibral	ADV	איבראַל	AybrAal	_
+6	az	C	אַז	Aaz	_
+7	ikh	PRO	איך	AyX	_
+8	zul	MDF	זול	zvl	_
+9	gfindn	VB	גפֿינדן	gfyndN	_
+10	ginad	N	גינאַד	gynAad	_
+11	in	P	אין	AyN	_
+12	oygn	N	אױגן	AWgN	_
+13	alikroyteyer	N	אַליקרױטײער	AalykrWtYer	_
+
+SENT	1590E-SAM-HAYYIM,3.45
+1	un	CONJ	און	AvN	_
+2	git	VBF	גיט	gyt	_
+
+SENT	1590E-SAM-HAYYIM,3.46
+1	un	CONJ	און	AvN	_
+2	shrey	VBF	שרײ	$rY	_
+3	az	P	אַז	Aaz	_
+4	vi	P	װי	Vy	_
+5	eyn	D	אײן	AYN	_
+6	oyzsreyar	N	אױזסרײאַר	AWzsrYAar	_
+
+SENT	1590E-SAM-HAYYIM,3.47
+1	den	CONJ	דען	deN	_
+2	ikh	PRO	איך	AyX	_
+3	vil	MDF	װיל	Vyl	_
+4	nit	NEG	ניט	nyt	_
+5	alz	Q	אַלז	Aalz	_
+6	oyz	P	אױז	AWz	_
+7	eyn	D	אײן	AYN	_
+8	kiukhn	N	קיִוכן	kyivxN	_
+9	zagin	VB	זאַגין	zAagyN	_
+
+SENT	1590E-SAM-HAYYIM,3.48
+1	vil	MDF	װיל	Vyl	_
+2	fil	Q	פֿיל	fyl	_
+3	deut	N	דעוט	devt	_
+4	oyz	P	אױז	AWz	_
+5	sfrim	N	ספֿרים	sfryM	_
+6	dr_tsu	DR+P	דר_צו	dr_qv	_
+7	yagin	VB	יאַגין	yAagyN	_
+8	der_mit	C	דער_מיט	der_myt	_
+9	ir	PRO	איר	Ayr	_
+10	mikh	PRO	מיך	myX	_
+11	nit	NEG	ניט	nyt	_
+12	zult	MDF	זולט	zvlt	_
+13	haltin	VB	האַלטין	hAaltyN	_
+14	vr	P	װר	Vr	_
+15	eyn	D	אײן	AYN	_
+16	gulm	N	גולם	gvlM	_
+
+SENT	1590E-SAM-HAYYIM,3.49
+1	ikh	PRO	איך	AyX	_
+2	vilt	MDF	װילט	Vylt	_
+3	oyz	RP	אױז	AWz	_
+4	lign	VB	ליגן	lygN	_
+5	az	P	אַז	Aaz	_
+6	eynr	PRO	אײנר	AYnr	_
+7	der	WPRO	דער	der	_
+8	da	ADV	דאַ	dAa	_
+9	bseyd	VBF	בסײד	bsYd	_
+10	eyn	D	אײן	AYN	_
+11	khulm	N	כולם	xvlM	_
+
+SENT	1590E-SAM-HAYYIM,3.50
+1	un	CONJ	און	AvN	_
+2	vil	MDF	װיל	Vyl	_
+3	ali_veg	ADV	אַלי_װעג	Aaly_Veg	_
+4	uz	RP	אוז	Avz	_
+5	ruian	VB	רויִאַן	rvyiAaN	_
+
+SENT	1590E-SAM-HAYYIM,3.51
+1	un	CONJ	און	AvN	_
+2	vil	MDF	װיל	Vyl	_
+3	zagn	VB	זאַגן	zAagN	_
+4	sdr	H	סדר	sdr	order
+5	rasim	H	ראַסים	rAasyM	heads
+6	an	X	אַן	AaN	_
+7	zuian	X	זויִאַן	zvyiAaN	_
+8	un	CONJ	און	AvN	_
+9	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+10	den	D	דען	deN	_
+11	sdr	N	סדר	sdr	_
+12	fun	P	פֿון	fvN	_
+13	rbnim	N	רבנים	rbnyM	_
+14	di	WPRO	די	dy	_
+15	du	ADV	דו	dv	_
+16	zeyn	VBF	זײן	zYN	_
+17	dr	D	דר	dr	_
+18	stats	N	סטאַץ	stAaQ	_
+19	vakhtir	N	װאַכטיר	VAaxtyr	_
+20	dr_nukh	DR+P	דר_נוך	dr_nvX	_
+21	vi	WADV	װי	Vy	_
+22	men	PRO	מען	meN	_
+23	zal	MDF	ז"ל	z"l	_
+24	tsihn	VB	ציהן	qyhN	_
+25	zin	N	זין	zyN	_
+26	un	CONJ	און	AvN	_
+27	tekhtr	N	טעכטר	textr	_
+
+SENT	1590E-SAM-HAYYIM,3.52
+1	un	CONJ	און	AvN	_
+2	dr_nakh	DR+P	דר_נאַך	dr_nAaX	_
+3	velin	MDF	װעלין	VelyN	_
+4	mir	PRO	מיר	myr	_
+5	ridn	VB	רידן	rydN	_
+6	fun	P	פֿון	fvN	_
+7	gbaut	N	גבאַוט	gbAavt	_
+8	vi	WADV	װי	Vy	_
+9	zi	PRO	זי	zy	_
+10	um	RP	אום	AvM	_
+11	gin	VB	גין	gyN	_
+12	zuln	MDF	זולן	zvlN	_
+13	mit	P	מיט	myt	_
+14	khls	H	כלס	xls	UNKNOWN
+15	meuth	H	מעוטה	mevth	coins
+16	un	CONJ	און	AvN	_
+17	vi	WADV	װי	Vy	_
+18	mn	PRO	מן	mN	_
+19	di	D	די	dy	_
+20	tkifim	N	תּקיפֿים	TkyfyM	_
+21	zul	MDF	זול	zvl	_
+22	nitn	VB	ניטן	nytN	_
+23	tsu	TO	צו	qv	_
+24	gebn	VB	געבן	gebN	_
+25	dermit	DR+P	דערמיט	dermyt	_
+26	az	C	אַז	Aaz	_
+27	zi	PRO	זי	zy	_
+28	kenn	MDF	קענן	kenN	_
+29	zeyn	VB	זײן	zYN	_
+30	guml	H	גומל	gvml	recompense
+31	khsr	H	כסר	xsr	absent
+32	ga{.}	X	גאַ{.}	gAa{.}	_
+33	ebin	ADJ	עבין	ebyN	_
+34	udr	CONJ	אודר	Avdr	_
+35	ven	C	װען	VeN	_
+36	zi	PRO	זי	zy	_
+37	vaz	Q	װאַז	VAaz	_
+38	tsin	X	צין	qyN	_
+39	esk	H	עסק	esk	business
+40	hkhl	H	הכל	hxl	the_public
+41	bdarfin	VBF	בדאַרפֿין	bdAarfyN	_
+42	vi	WADV	װי	Vy	_
+43	men	PRO	מען	meN	_
+44	zal	MDF	ז"ל	z"l	_
+45	zitn	VB	זיטן	zytN	_
+46	eyn	RP	אײן	AYN	_
+47	tsu	TO	צו	qv	_
+48	verfin	VB	װערפֿין	VerfyN	_
+
+SENT	1590E-SAM-HAYYIM,4l.54
+1	men	PRO	מען	meN	_
+2	zul	MDF	זול	zvl	_
+3	oyz	RP	אױז	AWz	_
+4	kloybn	VB	קלױבן	klWbN	_
+5	oyz	P	אױז	AWz	_
+6	der	D	דער	der	_
+7	vlta	N	װלטאַ	VltAa	_
+8	kestlikhi	ADJ	קעסטליכי	kestlyxy	_
+9	leyt	N	לײט	lYt	_
+10	di	WPRO	די	dy	_
+11	du	ADV	דו	dv	_
+12	zeyn	VBF	זײן	zYN	_
+13	rekht_frtik	ADJ	רעכט_פֿרטיק	rext_frtyk	_
+14	un	CONJ	און	AvN	_
+15	gats_ferkhtig	ADJ	גאַצ_פֿערכטיג	gAaq_ferxtyg	_
+16	tsu	P	צו	qv	_
+17	alir	Q	אַליר	Aalyr	_
+18	tseyt	N	צײט	qYt	_
+
+SENT	1590E-SAM-HAYYIM,4l.55
+1	di	D	די	dy	_
+2	zul	MDF	זול	zvl	_
+3	men	PRO	מען	meN	_
+4	makhin	VB	מאַכין	mAaxyN	_
+5	rasim	N	ראַסים	rAasyM	_
+6	ibr	P	איבר	Aybr	_
+7	den	D	דען	deN	_
+8	klh	N	קלה	klh	_
+
+SENT	1590E-SAM-HAYYIM,4l.56
+1	abr	CONJ	אַבר	Aabr	_
+2	zi	PRO	זי	zy	_
+3	zuln	MDF	זולן	zvlN	_
+4	bini	X	ביני	byny	_
+5	zeyn	VB	זײן	zYN	_
+6	in	P	אין	AyN	_
+7	der	D	דער	der	_
+8	turh	NPR	טורה	tvrh	_
+9	ibral	ADV	איבראַל	AybrAal	_
+
+SENT	1590E-SAM-HAYYIM,4l.57
+1	un	CONJ	און	AvN	_
+2	zul	MDF	זול	zvl	_
+3	gut	NPR	גוט	gvt	_
+4	den	D	דען	deN	_
+5	almkhtignin	ADJ	אַלמכטיגנין	AalmxtygnyN	_
+6	lubn	VB	לובן	lvbN	_
+7	un	CONJ	און	AvN	_
+8	dinn	VB	דינן	dynN	_
+
+SENT	1590E-SAM-HAYYIM,4l.58
+1	un	CONJ	און	AvN	_
+2	zalin	MDF	זאַלין	zAalyN	_
+3	di	D	די	dy	_
+4	leyt	N	לײט	lYt	_
+5	strafin	VB	סטראַפֿין	strAafyN	_
+6	nakh	P	נ"ך	n"X	_
+7	irn	PRO$	אירן	AyrN	_
+8	zinn	N	זינן	zynN	_
+
+SENT	1590E-SAM-HAYYIM,4l.59
+1	den	CONJ	דען	deN	_
+2	gut	NPR	גוט	gvt	_
+3	vil	MDF	װיל	Vyl	_
+4	nit	NEG	ניט	nyt	_
+5	hbn	VB	הבן	hbN	_
+6	mer	QR	מער	mer	_
+7	az	P	אַז	Aaz	_
+8	men	PRO	מען	meN	_
+9	zikh	PRO	זיך	zyX	_
+10	in	P	אין	AyN	_
+11	zeyn	PRO$	זײן	zYN	_
+12	dinst	N	דינסט	dynst	_
+13	zul	MDF	זול	zvl	_
+14	lazin	VB	לאַזין	lAazyN	_
+15	zeyn	PRO$	זײן	zYN	_
+16	leyd	N	לײד	lYd	_
+
+SENT	1590E-SAM-HAYYIM,4l.60
+1	vaz	WPRO	װאַז	VAaz	_
+2	helft	VBF	העלפֿט	helft	_
+3	den	D	דען	deN	_
+4	shaf	N	שאַף	$AaF	_
+5	der	D	דער	der	_
+6	hitr	N	היטר	hytr	_
+7	ven	C	װען	VeN	_
+8	er	PRO	ער	er	_
+9	nit	NEG	ניט	nyt	_
+10	veys	VBF	װײס	VYs	_
+11	eyn	D	אײן	AYN	_
+12	guti	ADJ	גוטי	gvty	_
+13	veyd	N	װײד	VYd	_
+
+SENT	1590E-SAM-HAYYIM,4l.61
+1	un	CONJ	און	AvN	_
+2	di	WPRO	די	dy	_
+3	du	ADV	דו	dv	_
+4	zeynn	VBF	זײנן	zYnN	_
+5	rasim	N	ראַסים	rAasyM	_
+6	ibr	P	איבר	Aybr	_
+7	di	D	די	dy	_
+8	leyt	N	לײט	lYt	_
+9	di	D	די	dy	_
+10	muzin	MDF	מוזין	mvzyN	_
+11	zikh	PRO	זיך	zyX	_
+12	dr_barmn	VB	דר_באַרמן	dr_bAarmN	_
+13	ali	Q	אַלי	Aaly	_
+14	tseyt	N	צײט	qYt	_
+
+SENT	1590E-SAM-HAYYIM,4l.62
+1	den	CONJ	דען	deN	_
+2	mir	PRO	מיר	myr	_
+3	gifindn	VBF	גיפֿינדן	gyfyndN	_
+4	dz	C	דז	dz	_
+5	dvd	NPR	דװד	dVd	_
+6	hmlkh	H	המלך	hmlX	the_king
+7	tut	DOF	טוט	tvt	_
+8	zingin	VB	זינגין	zyngyN	_
+9	men	PRO	מען	meN	_
+10	zul	MDF	זול	zvl	_
+11	nit	NEG	ניט	nyt	_
+12	mit	P	מיט	myt	_
+13	givalt	N	גיװאַלט	gyVAalt	_
+14	nukh	P	נוך	nvX	_
+15	rasut	N	ראַסוט	rAasvt	_
+16	dringin	VB	דרינגין	dryngyN	_
+
+SENT	1590E-SAM-HAYYIM,4l.63
+1	den	X	דען	deN	_
+2	der	X	דער	der	_
+3	mit	X	מיט	myt	_
+4	g...t	X	ג...ט	g...t	_
+5	vil	X	װיל	Vyl	_
+6	daz	X	דאַז	dAaz	_
+7	rsut	X	רסוט	rsvt	_
+8	drin	X	דרין	dryN	_
+9	den	X	דען	deN	_
+10	stit	X	סטיט	styt	_
+11	daz	X	דאַז	dAaz	_
+12	g...	X	ג...	g...	_
+13	eubn	X	עובן	evbN	_
+14	vis	X	װיס	Vys	_
+15	alin	Q	אַלין	AalyN	_
+16	tirn	N	טירן	tyrN	_
+
+SENT	1590E-SAM-HAYYIM,5r.65
+1	mn	PRO	מן	mN	_
+2	zaul	MDF	זאַול	zAavl	_
+3	nur	FP	נור	nvr	_
+4	ali	Q	אַלי	Aaly	_
+5	dinim	N	דינים	dynyM	_
+6	gebn	VB	געבן	gebN	_
+7	mit	P	מיט	myt	_
+8	rekhtey...	N	רעכטײ...	rextY...	_
+
+SENT	1590E-SAM-HAYYIM,5r.66
+1	un	CONJ	און	AvN	_
+2	zul	MDF	זול	zvl	_
+3	veyzn	VB	װײזן	VYzN	_
+4	oyf	P	אױף	AWF	_
+5	eyn	D	אײן	AYN	_
+6	gutn	ADJ	גוטן	gvtN	_
+7	veg	N	װעג	Veg	_
+8	di	D	די	dy	_
+9	vr_ertn	ADJ	װר_ערטן	Vr_ertN	_
+10	leyt	N	לײט	lYt	_
+
+SENT	1590E-SAM-HAYYIM,5r.67
+1	un	CONJ	און	AvN	_
+2	zi	PRO	זי	zy	_
+3	zulin	MDF	זולין	zvlyN	_
+4	di	D	די	dy	_
+5	vidr_spenign	ADJ	װידר_ספּעניגן	Vydr_spenygN	_
+6	strafin	VB	סטראַפֿין	strAafyN	_
+
+SENT	1590E-SAM-HAYYIM,5r.68
+1	un	CONJ	און	AvN	_
+2	zulin	MDF	זולין	zvlyN	_
+3	in	P	אין	AyN	_
+4	khls	N$	כלס	xls	_
+5	gsheft	N	גשעפֿט	g$eft	_
+6	zumr	N	זומר	zvmr	_
+7	un'	CONJ	אונ'	Avn'	_
+8	vint'	N	װינט'	Vynt'	_
+9	nit	NEG	ניט	nyt	_
+10	fil	Q	פֿיל	fyl	_
+11	shlafin	VB	שלאַפֿין	$lAafyN	_
+
+SENT	1590E-SAM-HAYYIM,5r.69
+1	den	CONJ	דען	deN	_
+2	gut	NPR	גוט	gvt	_
+3	hat	HVF	האַט	hAat	_
+4	zi	PRO	זי	zy	_
+5	gimakht	VBN	גימאַכט	gymAaxt	_
+6	an	P	אַן	AaN	_
+7	der	D	דער	der	_
+8	spitsin	N	ספּיצין	spyqyN	_
+9	tsu	P	צו	qv	_
+10	ali	Q	אַלי	Aaly	_
+11	krig	N	קריג	kryg	_
+12	un	CONJ	און	AvN	_
+13	tsank	N	צאַנק	qAank	_
+
+SENT	1590E-SAM-HAYYIM,5r.70
+1	zulin	MDF	זולין	zvlyN	_
+2	zi	PRO	זי	zy	_
+3	nit	NEG	ניט	nyt	_
+4	stil	ADJ	סטיל	styl	_
+5	zitsin	VB	זיצין	zyqyN	_
+
+SENT	1590E-SAM-HAYYIM,5r.71
+1	un	CONJ	און	AvN	_
+2	daz	D	דאַז	dAaz	_
+3	iz	VBF	איז	Ayz	_
+4	n...	X	נ...	n...	_
+5	nit	NEG	ניט	nyt	_
+6	gar	ADV	גאַר	gAar	_
+
+SENT	1590E-SAM-HAYYIM,5r.72
+1	zi	PRO	זי	zy	_
+2	zalin	MDF	זאַלין	zAalyN	_
+3	zeyn	VB	זײן	zYN	_
+4	az	P	אַז	Aaz	_
+5	pgkhm	H	פּגכם	pgxM	UNKNOWN
+6	bn	H	בן	bN	son
+7	ir	H	איר	Ayr	city
+
+SENT	1590E-SAM-HAYYIM,5r.73
+1	un	CONJ	און	AvN	_
+2	zalin	MDF	זאַלין	zAalyN	_
+3	alz	Q	אַלז	Aalz	_
+4	hips	ADV	היפּס	hyps	_
+5	mtnn	RP-H	מטנן	mtnN	_
+6	zeyn	VB	זײן	zYN	_
+7	ez	H	עז	ez	UNKNOWN
+8	zra	H	זראַ	zrAa	UNKNOWN
+9	gn	H	גן	gN	garden
+10	gut	X	גוט	gvt	_
+11	udr	CONJ	אודר	Avdr	_
+12	der	D	דער	der	_
+13	giteyn	H	גיטײן	gytYN	UNKNOWN
+14	ez	PRO	עז	ez	_
+15	zey	VBF	זײ	zY	_
+16	in	P	אין	AyN	_
+17	der	D	דער	der	_
+18	stat	N	סטאַט	stAat	_
+19	udr	CONJ	אודר	Avdr	_
+20	ibr	P	איבר	Aybr	_
+21	velt	N	װעלט	Velt	_
+22	ez	PRO	עז	ez	_
+23	zey	VBF	זײ	zY	_
+24	den	D	דען	deN	_
+25	reykhin	ADJ	רײכין	rYxyN	_
+26	udr	CONJ	אודר	Avdr	_
+27	der	WPRO	דער	der	_
+28	nit	NEG	ניט	nyt	_
+29	hut	VBF	הוט	hvt	_
+30	gelt	N	געלט	gelt	_
+
+SENT	1590E-SAM-HAYYIM,5r.74
+1	nun	ADV	נ	n	_
+2	het	VBF	העט	het	_
+3	er	PRO	ער	er	_
+4	zikh	PRO	זיך	zyX	_
+5	mit	P	מיט	myt	_
+6	ra{.}i	N	ראַ{.}אי	rAa{.}Ay	_
+7	im	X	אים	AyM	_
+8	vr	X	װר	Vr	_
+9	...	PUNC	...	...	_
+
+SENT	1590E-SAM-HAYYIM,5r.75
+1	zi	PRO	זי	zy	_
+2	zalin	MDF	זאַלין	zAalyN	_
+3	nit	NEG	ניט	nyt	_
+4	treybn	VB	טרײבן	trYbN	_
+5	khniput	N	כניפּוט	xnypvt	_
+
+SENT	1590E-SAM-HAYYIM,5r.76
+1	zal	MDF	ז"ל	z"l	_
+2	keyn	Q	קײן	kYN	_
+3	sukhr	N	סוכר	svxr	_
+4	nit	NEG	ניט	nyt	_
+5	bigern	VB	ביגערן	bygerN	_
+
+SENT	1590E-SAM-HAYYIM,5r.77
+1	gat	NPR	גאַט	gAat	_
+2	vert	RDF	װערט	Vert	_
+3	uns	PRO	אונס	Avns	_
+4	mtsd	H	מצד	mqd	from_side
+5	akhr	H	אַכר	Aaxr	other
+6	bisherin	VB	בישערין	by$eryN	_
+
+SENT	1590E-SAM-HAYYIM,5r.78
+1	akh	ADV	אַך	AaX	_
+2	zulin	MDF	זולין	zvlyN	_
+3	zi	PRO	זי	zy	_
+4	zikh	PRO	זיך	zyX	_
+5	bivarnin	VB	ביװאַרנין	byVAarnyN	_
+6	ir	PRO$	איר	Ayr	_
+7	ziln	N	זילן	zylN	_
+
+SENT	1590E-SAM-HAYYIM,5r.79
+1	zulin	MDF	זולין	zvlyN	_
+2	eyn	RP	אײן	AYN	_
+3	zetsn	VB	זעצן	zeqN	_
+4	tsu_vesin	P	צו_װעסין	qv_VesyN	_
+5	di	D	די	dy	_
+6	ailin	N	אַיִלין	AayilyN	_
+7	di	WPRO	די	dy	_
+8	du	ADV	דו	dv	_
+9	zaln	MDF	זאַלן	zAalN	_
+10	setsin	VB	סעצין	seqyN	_
+11	ali	Q	אַלי	Aaly	_
+12	speyz	N	ספּײז	spYz	_
+
+SENT	1590E-SAM-HAYYIM,5r.80
+1	draf	DR+P	דראַף	drAaF	_
+2	zaln	MDF	זאַלן	zAalN	_
+3	zi	PRO	זי	zy	_
+4	zetsin	VB	זעצין	zeqyN	_
+5	leyt	N	לײט	lYt	_
+6	mit	P	מיט	myt	_
+7	fleys	N	פֿלײס	flYs	_
+8	di	WPRO	די	dy	_
+9	zikh	PRO	זיך	zyX	_
+10	val	ADV	װאַל	VAal	_
+11	druf	DR+P	דרוף	drvF	_
+12	vr_stenn	VBF	װר_סטענן	Vr_stenN	_
+13	dz	C	דז	dz	_
+14	an	P	אַן	AaN	_
+15	keynm	Q	קײנם	kYnM	_
+16	zal	MDF	ז"ל	z"l	_
+17	vaz	Q	װאַז	VAaz	_
+18	satsin	VB	סאַצין	sAaqyN	_
+19	tsu	P	צו	qv	_
+20	lib	N	ליב	lyb	_
+21	nukh	CONJ	נוך	nvX	_
+22	tsu	P	צו	qv	_
+23	leyd	N	לײד	lYd	_
+
+SENT	1590E-SAM-HAYYIM,5r.81
+1	der_mit	DR+P	דער_מיט	der_myt	_
+2	vert	RDF	װערט	Vert	_
+3	di	D	די	dy	_
+4	khilh	N	כילה	xylh	_
+5	shoyn	ADV	שױן	$WN	_
+6	gifirt	VAN	גיפֿירט	gyfyrt	_
+7	in	P	אין	AyN	_
+8	freyd	N	פֿרײד	frYd	_
+
+SENT	1590E-SAM-HAYYIM,5l.83
+1	ven	C	װען	VeN	_
+2	zi	PRO	זי	zy	_
+3	den	D	דען	deN	_
+4	khs	N	כס	xs	_
+5	oyf	RP	אױף	AWF	_
+6	hibn	VBF	היבן	hybN	_
+
+SENT	1590E-SAM-HAYYIM,5l.84
+1	di	WPRO	די	dy	_
+2	nit	NEG	ניט	nyt	_
+3	fr_mign	VBF	פֿר_מיגן	fr_mygN	_
+4	tsu	TO	צו	qv	_
+5	gebn	VB	געבן	gebN	_
+
+SENT	1590E-SAM-HAYYIM,5l.85
+1	du	ADV	דו	dv	_
+2	zulin	MDF	זולין	zvlyN	_
+3	zi	PRO	זי	zy	_
+4	ez	PRO	עז	ez	_
+5	dr_veyl	ADV	דר_װײל	dr_VYl	_
+6	leyen	VB	לײען	lYeN	_
+7	da	ADV	דאַ	dAa	_
+
+SENT	1590E-SAM-HAYYIM,5l.86
+1	dz	C	דז	dz	_
+2	mn	PRO	מן	mN	_
+3	zi	PRO	זי	zy	_
+4	zal	MDF	ז"ל	z"l	_
+5	krinn	VB	קרינן	krynN	_
+
+SENT	1590E-SAM-HAYYIM,5l.87
+1	dz	C	דז	dz	_
+2	zi	PRO	זי	zy	_
+3	daz	D	דאַז	dAaz	_
+4	meynst	QS	מײנסט	mYnst	_
+5	in	P	אין	AyN	_
+6	di	D	די	dy	_
+7	shul_tseyt	N	שול_צײט	$vl_qYt	_
+8	ridn	VBF	רידן	rydN	_
+9	ir	PRO$	איר	Ayr	_
+10	eskm	N	עסקם	eskM	_
+
+SENT	1590E-SAM-HAYYIM,5l.88
+1	akh	ADV	אַך	AaX	_
+2	zulin	MDF	זולין	zvlyN	_
+3	di	D	די	dy	_
+4	rasim	N	ראַסים	rAasyM	_
+5	nukh	RP	נוך	nvX	_
+6	firin	VB	פֿירין	fyryN	_
+7	bamunh	H	באַמונה	bAamvnh	in_faith
+
+SENT	1590E-SAM-HAYYIM,5l.89
+1	vi	WADV	װי	Vy	_
+2	zul	MDF	זול	zvl	_
+3	ikh	PRO	איך	AyX	_
+4	s	PRO	ס	s	_
+5	nit	NEG	ניט	nyt	_
+6	tinn	VB	טינן	tynN	_
+
+SENT	1590E-SAM-HAYYIM,5l.90
+1	zunst	ADV	זונסט	zvnst	_
+2	zalin	MDF	זאַלין	zAalyN	_
+3	zi	PRO	זי	zy	_
+4	zikh	PRO	זיך	zyX	_
+5	hltin	VB	הלטין	hltyN	_
+6	bts	X	בץ	bQ	_
+7	..eut	X	..עוט	..evt	_
+
+SENT	1590E-SAM-HAYYIM,5l.91
+1	vi	WADV	װי	Vy	_
+2	men	PRO	מען	meN	_
+3	zul	MDF	זול	zvl	_
+4	bivarnn	VB	ביװאַרנן	byVAarnN	_
+5	di	D	די	dy	_
+6	blet	N	בלעט	blet	_
+
+SENT	1590E-SAM-HAYYIM,226_Assaf.93
+1	un	CONJ	און	AvN	_
+2	ds	D	דס	ds	_
+3	meynstn	QS	מײנסטן	mYnstN	_
+4	zal	MDF	ז"ל	z"l	_
+5	er	PRO	ער	er	_
+6	strafin	VB	סטראַפֿין	strAafyN	_
+7	di	D	די	dy	_
+8	bkhurim	N	בכורים	bxvryM	_
+9	zunstin	ADV	זונסטין	zvnstyN	_
+10	hltin	VBF	הלטין	hltyN	_
+11	zi	PRO	זי	zy	_
+12	den	D	דען	deN	_
+13	gntsin	ADJ	גנצין	gnqyN	_
+14	zmn	N	זמן	zmN	_
+15	purim	NPR	פּורים	pvryM	_
+16	der_mit	C	דער_מיט	der_myt	_
+17	zikh	PRO	זיך	zyX	_
+18	der	D	דער	der	_
+19	bkhur	N	בכור	bxvr	_
+20	zal	MDF	ז"ל	z"l	_
+21	strkin	VB	סטרקין	strkyN	_
+22	un	CONJ	און	AvN	_
+23	zal	MDF	ז"ל	z"l	_
+24	oyf	P	אױף	AWF	_
+25	der	D	דער	der	_
+26	turh	NPR	טורה	tvrh	_
+27	mrkin	VB	מרקין	mrkyN	_
+28	un	CONJ	און	AvN	_
+29	zal	MDF	ז"ל	z"l	_
+30	nit	NEG	ניט	nyt	_
+31	fil	Q	פֿיל	fyl	_
+32	makhin	VB	מאַכין	mAaxyN	_
+33	bin	H	בין	byN	between
+34	kzmnim	H	קזמנים	kzmnyM	like_times
+
+SENT	1590E-SAM-HAYYIM,226_Assaf.94
+1	zunst	ADV	זונסט	zvnst	_
+2	git	VBF	גיט	gyt	_
+3	ds	D	דס	ds	_
+4	lernin	N	לערנין	lernyN	_
+5	tsu	P	צו	qv	_
+6	ali	Q	אַלי	Aaly	_
+7	stnim	N	סטנים	stnyM	_
+
+SENT	1590E-SAM-HAYYIM,226_Assaf.95
+1	un	CONJ	און	AvN	_
+2	zal	MDF	ז"ל	z"l	_
+3	nit	NEG	ניט	nyt	_
+4	ful	Q	פֿול	fvl	_
+5	hndilin	N	הנדילין	hndylyN	_
+6	nakh	RP	נ"ך	n"X	_
+7	gin	VB	גין	gyN	_
+
+SENT	1590E-SAM-HAYYIM,226_Assaf.96
+1	zunstin	ADV	זונסטין	zvnstyN	_
+2	muz	MDF	מוז	mvz	_
+3	er	PRO	ער	er	_
+4	di	D	די	dy	_
+5	turh	NPR	טורה	tvrh	_
+6	lazin	VB	לאַזין	lAazyN	_
+7	stin	VB	סטין	styN	_
+
+SENT	1590E-SAM-HAYYIM,226_Assaf.97
+1	un	CONJ	און	AvN	_
+2	zal	MDF	ז"ל	z"l	_
+3	vaul	ADV	װאַול	VAavl	_
+4	mit	P	מיט	myt	_
+5	itlikhn	Q	איטליכן	AytlyxN	_
+6	lernin	VB	לערנין	lernyN	_
+7	turh	NPR	טורה	tvrh	_
+8	bzundr	ADV	בזונדר	bzvndr	_
+
+SENT	1590E-SAM-HAYYIM,226_Assaf.98
+1	abr	CONJ	אַבר	Aabr	_
+2	mit	P	מיט	myt	_
+3	anndr	PRO	אַננדר	Aanndr	_
+4	brengt	VBF	ברענגט	brengt	_
+5	grus	ADJ	גרוס	grvs	_
+6	plpul	N	פּלפּול	plpvl	_
+7	un'	CONJ	אונ'	Avn'	_
+8	vaundr	N	װאַונדר	VAavndr	_
+
+SENT	1590E-SAM-HAYYIM,226_Assaf.99
+1	un	CONJ	און	AvN	_
+2	ven	C	װען	VeN	_
+3	eynr	PRO	אײנר	AYnr	_
+4	fun	P	פֿון	fvN	_
+5	dem	D	דעם	deM	_
+6	andrn	ADJ	אַנדרן	AandrN	_
+7	iz	VBF	איז	Ayz	_
+8	mkbl	RP-H	מקבל	mkbl	_
+9	eyn	D	אײן	AYN	_
+10	hlkhh	N	הלכה	hlxh	_
+11	da	ADV	דאַ	dAa	_
+12	verin	RDF	װערין	VeryN	_
+13	zi	PRO	זי	zy	_
+14	eyn	RP	אײן	AYN	_
+15	gshribn	VAN	גשריבן	g$rybN	_
+16	bsfr	H	בספֿר	bsfr	in_book
+17	zkhrun	H	זכרון	zxrvN	memory_their
+18	lbrkhh	H	לברכה	lbrxh	to_blessing
+
+SENT	1590E-SAM-HAYYIM,226_Assaf.100
+1	un	CONJ	און	AvN	_
+2	ven	C	װען	VeN	_
+3	zi	PRO	זי	zy	_
+4	lernin	VBF	לערנין	lernyN	_
+5	hoykh	ADV	הױך	hWX	_
+6	az	C	אַז	Aaz	_
+7	mn	PRO	מן	mN	_
+8	zi	PRO	זי	zy	_
+9	tut	DOF	טוט	tvt	_
+10	herin	VB	הערין	heryN	_
+11	azu	ADV	אַזו	Aazv	_
+12	bglikhn	VBF	בגליכן	bglyxN	_
+13	zi	PRO	זי	zy	_
+14	in	P	אין	AyN	_
+15	ir	PRO$	איר	Ayr	_
+16	lernin	N	לערנין	lernyN	_
+17	vi	WADV	װי	Vy	_
+18	zi	PRO	זי	zy	_
+19	zelbrt	ADV	זעלברט	zelbrt	_
+20	bgerin	VBF	בגערין	bgeryN	_
+
+SENT	1590E-SAM-HAYYIM,226_Assaf.101
+1	nun	ADV	נ	n	_
+2	vil	MDF	װיל	Vyl	_
+3	ikh	PRO	איך	AyX	_
+4	fun	P	פֿון	fvN	_
+5	di	D	די	dy	_
+6	rbnim	N	רבנים	rbnyM	_
+7	shveygn	VB	שװײגן	$VYgN	_
+
+SENT	1590E-SAM-HAYYIM,226_Assaf.102
+1	zi	PRO	זי	zy	_
+2	muzin	MDF	מוזין	mvzyN	_
+3	fil	Q	פֿיל	fyl	_
+4	leydn	VB	לײדן	lYdN	_
+
+SENT	1590E-SAM-HAYYIM,226_Assaf.103
+1	un	CONJ	און	AvN	_
+2	vil	MDF	װיל	Vyl	_
+3	zagin	VB	זאַגין	zAagyN	_
+4	fun	P	פֿון	fvN	_
+5	di	D	די	dy	_
+6	bkhurim	N	בכורים	bxvryM	_
+7	dz	C	דז	dz	_
+8	zi	PRO	זי	zy	_
+9	nit	NEG	ניט	nyt	_
+10	imr_dran	ADV	אימר_דראַן	Aymr_drAaN	_
+11	zalin	MDF	זאַלין	zAalyN	_
+12	zehin	VB	זעהין	zehyN	_
+13	oyf	P	אױף	AWF	_
+14	di	D	די	dy	_
+15	meydn	N	מײדן	mYdN	_
+
+SENT	1590E-SAM-HAYYIM,226_Assaf.104
+1	er	PRO	ער	er	_
+2	zal	MDF	ז"ל	z"l	_
+3	nit	NEG	ניט	nyt	_
+4	slinkn	X	סלינקן	slynkN	_
+5	slnkin	X	סלנקין	slnkyN	_
+6	nakh	RP	נ"ך	n"X	_
+7	gin	VB	גין	gyN	_
+
+SENT	1590E-SAM-HAYYIM,226_Assaf.105
+1	varum	CONJ	װאַרום	VAarvM	_
+2	bey	P	בײ	bY	_
+3	dem	D	דעם	deM	_
+4	rb	N	רב	rb	_
+5	uab	H	אואַב	AvAab	and_father
+6	bit	H	ביט	byt	house
+7	din	H	דין	dyN	justice
+8	besirt	VBF	בעסירט	besyrt	_
+9	er	PRO	ער	er	_
+10	zikh	PRO	זיך	zyX	_
+11	nakh	ADV	נ"ך	n"X	_
+12	min	QR	מין	myN	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.106
+1	un	CONJ	און	AvN	_
+2	ven	C	װען	VeN	_
+3	er	PRO	ער	er	_
+4	bey	P	בײ	bY	_
+5	dem	D	דעם	deM	_
+6	bel_hbit	N	בעל_הביט	bel_hbyt	_
+7	est	VBF	עסט	est	_
+8	zal	MDF	ז"ל	z"l	_
+9	er	PRO	ער	er	_
+10	zehin	VB	זעהין	zehyN	_
+11	az	C	אַז	Aaz	_
+12	er	PRO	ער	er	_
+13	an	P	אַן	AaN	_
+14	zeyn	PRO$	זײן	zYN	_
+15	dinst	N	דינסט	dynst	_
+16	nit	NEG	ניט	nyt	_
+17	fr_gest	VBF	פֿר_געסט	fr_gest	_
+18	un	CONJ	און	AvN	_
+19	zal	MDF	ז"ל	z"l	_
+20	oyf	P	אױף	AWF	_
+21	zeyn	PRO$	זײן	zYN	_
+22	kbud	N	קבוד	kbvd	_
+23	frgebin	VB	פֿרגעבין	frgebyN	_
+24	un	CONJ	און	AvN	_
+25	zal	MDF	ז"ל	z"l	_
+26	zeyn	PRO$	זײן	zYN	_
+27	bel_hbit	N	בעל_הביט	bel_hbyt	_
+28	kind	N	קינד	kynd	_
+29	nemin	VB	נעמין	nemyN	_
+30	in	P	אין	AyN	_
+31	der	D	דער	der	_
+32	shul	N	שול	$vl	_
+33	in	P	אין	AyN	_
+34	akht	N	אַכט	Aaxt	_
+35	gar	ADV	גאַר	gAar	_
+36	ebin	ADV	עבין	ebyN	_
+37	un	CONJ	און	AvN	_
+38	zagin	VB	זאַגין	zAagyN	_
+39	amn	H	אַמן	AamN	amen
+40	iha	H	איהאַ	AyhAa	it_will_be
+41	smih	H	סמיה	smyh	name_his
+42	rba	H	רבאַ	rbAa	great
+43	ukdush	H	אוקדוש	Avkdv$	and_holy
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.107
+1	du	ADV	דו	dv	_
+2	vert	RDF	װערט	Vert	_
+3	er	PRO	ער	er	_
+4	zukhh	RP-H	זוכה	zvxh	_
+5	zeyn	VB	זײן	zYN	_
+6	tsu	P	צו	qv	_
+7	kindr	N	קינדר	kyndr	_
+8	tlmidi_khkhmim	N	טלמידי_ככמים	tlmydy_xxmyM	_
+9	lirush	H	לירוש	lyrv$	to_inheritance
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.108
+1	akh	ADV	אַך	AaX	_
+2	zal	MDF	ז"ל	z"l	_
+3	er	PRO	ער	er	_
+4	zikh	PRO	זיך	zyX	_
+5	nit	NEG	ניט	nyt	_
+6	zelbrt	ADV	זעלברט	zelbrt	_
+7	shnelin	VB	שנעלין	$nelyN	_
+8	az	P	אַז	Aaz	_
+9	vi	WADV	װי	Vy	_
+10	zikh	PRO	זיך	zyX	_
+11	menkhi	Q	מענכי	menxy	_
+12	bkhurim	N	בכורים	bxvryM	_
+13	stelin	VBF	סטעלין	stelyN	_
+14	un	CONJ	און	AvN	_
+15	tunin	DOF	טונין	tvnyN	_
+16	fil	Q	פֿיל	fyl	_
+17	fun	P	פֿון	fvN	_
+18	zikh	PRO	זיך	zyX	_
+19	haltin	VB	האַלטין	hAaltyN	_
+20	un	CONJ	און	AvN	_
+21	kenin	MDF	קענין	kenyN	_
+22	aft	ADV	אַפֿט	Aaft	_
+23	nit	NEG	ניט	nyt	_
+24	eyn	D	אײן	AYN	_
+25	psuk	N	פּסוק	psvk	_
+26	in	P	אין	AyN	_
+27	di	D	די	dy	_
+28	sidrh	N	סידרה	sydrh	_
+29	givaltin	VB	גיװאַלטין	gyVAaltyN	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.109
+1	oykh	ADV	אױך	AWX	_
+2	zalin	MDF	זאַלין	zAalyN	_
+3	zi	PRO	זי	zy	_
+4	nit	NEG	ניט	nyt	_
+5	nakh	RP	נ"ך	n"X	_
+6	gin	VB	גין	gyN	_
+7	fresin	VB	פֿרעסין	fresyN	_
+8	un'	CONJ	אונ'	Avn'	_
+9	zoyfn	VB	זױפֿן	zWfN	_
+10	un'	CONJ	אונ'	Avn'	_
+11	filn	VB	פֿילן	fylN	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.110
+1	mn	PRO	מן	mN	_
+2	shikt	VBF	שיקט	$ykt	_
+3	im	PRO	אים	AyM	_
+4	zunst	ADV	זונסט	zvnst	_
+5	in	P	אין	AyN	_
+6	pulin	NPR	פּולין	pvlyN	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.111
+1	muz	MDF	מוז	mvz	_
+2	er	PRO	ער	er	_
+3	dinn	VB	דינן	dynN	_
+4	in	P	אין	AyN	_
+5	di	D	די	dy	_
+6	milin	N	מילין	mylyN	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.112
+1	un	CONJ	און	AvN	_
+2	ven	C	װען	VeN	_
+3	zi	PRO	זי	zy	_
+4	zitsn	VBF	זיצן	zyqN	_
+5	an	P	אַן	AaN	_
+6	eynr	D	אײנר	AYnr	_
+7	tsekh	N	צעך	qeX	_
+8	zu	ADV	זו	zv	_
+9	zalin	MDF	זאַלין	zAalyN	_
+10	zi	PRO	זי	zy	_
+11	esin	VB	עסין	esyN	_
+12	un'	CONJ	אונ'	Avn'	_
+13	trinkn	VB	טרינקן	trynkN	_
+14	gmekh	ADV	גמעך	gmeX	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.113
+1	un	CONJ	און	AvN	_
+2	zalin	MDF	זאַלין	zAalyN	_
+3	hipsh	ADV	היפּש	hyp$	_
+4	mplpl	H	מפּלפּל	mplpl	from_long-winded_debate
+5	zeyn	VB	זײן	zYN	_
+6	ibr	P	איבר	Aybr	_
+7	dem	D	דעם	deM	_
+8	tish	N	טיש	ty$	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.114
+1	zu	ADV	זו	zv	_
+2	makhin	VBF	מאַכין	mAaxyN	_
+3	zi	PRO	זי	zy	_
+4	di	D	די	dy	_
+5	beli_btim	N	בעלי_בטים	bely_btyM	_
+6	dz	D	דז	dz	_
+7	hirts	N	הירץ	hyrQ	_
+8	frish	ADJ	פֿריש	fry$	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.115
+1	mkhl	H	מכל	mxl	UNKNOWN
+2	shkn	H	שקן	$kN	that_yes
+3	ven	C	װען	VeN	_
+4	zi	PRO	זי	zy	_
+5	zeynn	VBF	זײנן	zYnN	_
+6	bseudt	H	בסעודט	bsevdt	in_feast
+7	mtsuh	H	מצוה	mqvh	commandment
+8	gherin	MDF	גהערין	gheryN	_
+9	zi	PRO	זי	zy	_
+10	mplpl	H	מפּלפּל	mplpl	from_long-winded_debate
+11	zeyn	VB	זײן	zYN	_
+12	bdbri	H	בדברי	bdbry	in_words
+13	turh	NPR	טורה	tvrh	_
+14	ed	H	עד	ed	until
+15	in	P	אין	AyN	_
+16	ktsbh	N	קצבה	kqbh	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.116
+1	un	CONJ	און	AvN	_
+2	zal	MDF	ז"ל	z"l	_
+3	nit	NEG	ניט	nyt	_
+4	andirst	ADV	אַנדירסט	Aandyrst	_
+5	zeyn	VB	זײן	zYN	_
+6	az	P	אַז	Aaz	_
+7	bridr	N	ברידר	brydr	_
+8	un	CONJ	און	AvN	_
+9	freynt	N	פֿרײנט	frYnt	_
+10	ven	C	װען	VeN	_
+11	er	PRO	ער	er	_
+12	gleykh	ADV	גלײך	glYX	_
+13	zitst	VBF	זיצט	zyqt	_
+14	an	P	אַן	AaN	_
+15	tish	N	טיש	ty$	_
+16	mit	P	מיט	myt	_
+17	zeyn	PRO$	זײן	zYN	_
+18	ergstin	ADJS	ערגסטין	ergstyN	_
+19	feynt	N	פֿײנט	fYnt	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.117
+1	ven	C	װען	VeN	_
+2	er	PRO	ער	er	_
+3	gleykh	ADV	גלײך	glYX	_
+4	iz	VBF	איז	Ayz	_
+5	bseudt	H	בסעודט	bsevdt	in_feast
+6	hrsut	H	הרסוט	hrsvt	the_optional
+7	mkhl	H	מכל	mxl	UNKNOWN
+8	shkn	H	שקן	$kN	that_yes
+9	zalin	MDF	זאַלין	zAalyN	_
+10	zi	PRO	זי	zy	_
+11	nit	NEG	ניט	nyt	_
+12	ridn	VB	רידן	rydN	_
+13	dbri	H	דברי	dbry	words
+14	stut	H	סטוט	stvt	nonsense
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.118
+1	neyart	FP	נײאַרט	nYAart	_
+2	di	D	די	dy	_
+3	guth	ADJ	גוטה	gvth	_
+4	rid	N	ריד	ryd	_
+5	zalin	MDF	זאַלין	zAalyN	_
+6	akh	ADV	אַך	AaX	_
+7	zeyn	VB	זײן	zYN	_
+8	oyz	P	אױז	AWz	_
+9	sfrim	N	ספֿרים	sfryM	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.119
+1	dz	D	דז	dz	_
+2	stit	VBF	סטיט	styt	_
+3	gar	ADV	גאַר	gAar	_
+4	hps	ADV	הפּס	hps	_
+5	bey	P	בײ	bY	_
+6	zknim	N	זקנים	zknyM	_
+7	un'	CONJ	אונ'	Avn'	_
+8	bey	P	בײ	bY	_
+9	nerim	N	נערים	neryM	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.120
+1	ven	C	װען	VeN	_
+2	zi	PRO	זי	zy	_
+3	zikh	PRO	זיך	zyX	_
+4	azu	ADV	אַזו	Aazv	_
+5	verin	RDF	װערין	VeryN	_
+6	hltin	VB	הלטין	hltyN	_
+7	verin	RDF	װערין	VeryN	_
+8	zi	PRO	זי	zy	_
+9	in	P	אין	AyN	_
+10	di	D	די	dy	_
+11	leytn	N	לײטן	lYtN	_
+12	oygn	N	אױגן	AWgN	_
+13	lib	ADJ	ליב	lyb	_
+14	zeyn	VB	זײן	zYN	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.121
+1	un	CONJ	און	AvN	_
+2	verin	RDF	װערין	VeryN	_
+3	zukhh	RP-H	זוכה	zvxh	_
+4	zeyn	VB	זײן	zYN	_
+5	tsu	TO	צו	qv	_
+6	kumin	VB	קומין	kvmyN	_
+7	in	P	אין	AyN	_
+8	heylign	ADJ	הײליגן	hYlygN	_
+9	lnd	N	לנד	lnd	_
+10	aneyn	ADV	אַנײן	AanYN	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.122
+1	ez	ES	עז	ez	_
+2	iz	VBF	איז	Ayz	_
+3	tsu	P	צו	qv	_
+4	var	ADV	װאַר	VAar	_
+5	nakh	ADV	נ"ך	n"X	_
+6	azu	ADV	אַזו	Aazv	_
+7	fil	Q	פֿיל	fyl	_
+8	tsu	TO	צו	qv	_
+9	shreybn	VB	שרײבן	$rYbN	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.123
+1	abr	CONJ	אַבר	Aabr	_
+2	ikh	PRO	איך	AyX	_
+3	vil	MDF	װיל	Vyl	_
+4	ez	PRO	עז	ez	_
+5	oyf	P	אױף	AWF	_
+6	dz	D	דז	dz	_
+7	mal	N	מל	ml	_
+8	lazn	VB	לאַזן	lAazN	_
+9	bleybn	VB	בלײבן	blYbN	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.124
+1	vaz	WPRO	װאַז	VAaz	_
+2	nitig	ADJ	ניטיג	nytyg	_
+3	iz	VBF	איז	Ayz	_
+4	far	RP	פֿאַר	fAar	_
+5	tsu	TO	צו	qv	_
+6	reybn	VB	רײבן	rYbN	_
+7	vi	WADV	װי	Vy	_
+8	zikh	PRO	זיך	zyX	_
+9	di	D	די	dy	_
+10	beli_isibh	N	בעלי_יסיבה	bely_ysybh	_
+11	berstin	VBF	בערסטין	berstyN	_
+12	kemin	VBF	קעמין	kemyN	_
+13	un'	CONJ	אונ'	Avn'	_
+14	tsirin	VBF	צירין	qyryN	_
+15	un	CONJ	און	AvN	_
+16	velin	MDF	װעלין	VelyN	_
+17	di	D	די	dy	_
+18	khlh	N	כלה	xlh	_
+19	firin	VB	פֿירין	fyryN	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.125
+1	udr	CONJ	אודר	Avdr	_
+2	zunst	ADV	זונסט	zvnst	_
+3	eynr	PRO	אײנר	AYnr	_
+4	der	WPRO	דער	der	_
+5	nakh	ADV	נ"ך	n"X	_
+6	smikht	VBN	סמיכט	smyxt	_
+7	hat	HVF	האַט	hAat	_
+8	vaz	WPRO	װאַז	VAaz	_
+9	er	PRO	ער	er	_
+10	zikh	PRO	זיך	zyX	_
+11	eyn	RP	אײן	AYN	_
+12	bilt	VBF	בילט	bylt	_
+13	fri	ADV	פֿרי	fry	_
+14	un'	CONJ	אונ'	Avn'	_
+15	spat	ADV	ספּאַט	spAat	_
+16	er	PRO	ער	er	_
+17	mint	VBF	מינט	mynt	_
+18	er	PRO	ער	er	_
+19	kan	VBF	ק"ן	k"N	_
+20	aza	ADV	אַזאַ	AazAa	_
+21	fil	Q	פֿיל	fyl	_
+22	az	P	אַז	Aaz	_
+23	der	D	דער	der	_
+24	ras	H	ראַס	rAas	head
+25	hisibh	H	היסיבה	hysybh	the_yeshiva
+26	,	PUNC	,	,	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.126
+1	veyb	N	װײב	VYb	_
+2	un'	CONJ	אונ'	Avn'	_
+3	shver	N	שװער	$Ver	_
+4	un'	CONJ	אונ'	Avn'	_
+5	shvigr	N	שװיגר	$Vygr	_
+6	hltin	VBF	הלטין	hltyN	_
+7	in	PRO	אין	AyN	_
+8	fr	P	פֿר	fr	_
+9	rbi	NPR	רבי	rby	_
+10	ekibh	NPR	עקיבה	ekybh	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.127
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	ret	VBF	רעט	ret	_
+4	ikh	PRO	איך	AyX	_
+5	vil	MDF	װיל	Vyl	_
+6	nimr	ADV	נימר	nymr	_
+7	oyf	P	אױף	AWF	_
+8	di	D	די	dy	_
+9	isibh	N	איסיבה	Aysybh	_
+10	gian	VB	גיִאַן	gyiAaN	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.128
+1	ikh	PRO	איך	AyX	_
+2	kan	MDF	ק"ן	k"N	_
+3	vaul	ADV	װאַול	VAavl	_
+4	akh	ADV	אַך	AaX	_
+5	aza	ADV	אַזאַ	AazAa	_
+6	hiluk	N	הילוק	hylvk	_
+7	zagin	VB	זאַגין	zAagyN	_
+8	un	CONJ	און	AvN	_
+9	nakh	ADV	נ"ך	n"X	_
+10	mian	QR	מיִאַן	myiAaN	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.129
+1	drum	DR+P	דרום	drvM	_
+2	shreybn	VBF	שרײבן	$rYbN	_
+3	di	D	די	dy	_
+4	rbnim	N	רבנים	rbnyM	_
+5	in	P	אין	AyN	_
+6	prki	H	פּרקי	prky	chapters
+7	abut	H	אַבוט	Aabvt	fathers
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.130
+1	drum	DR+P	דרום	drvM	_
+2	ker	MDF	קער	ker	_
+3	itlikhr	Q	איטליכר	Aytlyxr	_
+4	rb	N	רב	rb	_
+5	tsu	TO	צו	qv	_
+6	lernin	VB	לערנין	lernyN	_
+7	mit	P	מיט	myt	_
+8	zeyni	PRO$	זײני	zYny	_
+9	tlmidim	N	טלמידים	tlmydyM	_
+10	bdrkh	H	בדרך	bdrX	in_way
+11	ktsrh	H	קצרה	kqrh	short
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.131
+1	du	ADV	דו	dv	_
+2	fr_stit	VBF	פֿר_סטיט	fr_styt	_
+3	er	PRO	ער	er	_
+4	nakh	ADV	נ"ך	n"X	_
+5	azu	ADV	אַזו	Aazv	_
+6	blt	ADV	בלט	blt	_
+7	btem	H	בטעם	bteM	by_reason
+8	ubsbra	H	אובסבראַ	AvbsbrAa	and_by_hypothesis
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.132
+1	un'	CONJ	אונ'	Avn'	_
+2	mit	P	מיט	myt	_
+3	dem	D	דעם	deM	_
+4	zal	MDF	ז"ל	z"l	_
+5	dikh	PRO	דיך	dyX	_
+6	gat	NPR	גאַט	gAat	_
+7	der_getsin	VB	דער_געצין	der_geqyN	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.133
+1	tseyt	N	צײט	qYt	_
+2-3	zalstu	MDF~PRO	זאַלסטו	zAalstv	_
+2	zals	MDF	זאַלס	zAals	_
+3	tu	PRO	טו	tv	_
+4	tsu	P	צו	qv	_
+5	der	D	דער	der	_
+6	turh	NPR	טורה	tvrh	_
+7	zetsin	VB	זעצין	zeqyN	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.134
+1	drum	DR+P	דרום	drvM	_
+2	zal	MDF	ז"ל	z"l	_
+3	zikh	PRO	זיך	zyX	_
+4	eynr	PRO	אײנר	AYnr	_
+5	nit	NEG	ניט	nyt	_
+6	far_lazin	VB	פֿאַר_לאַזין	fAar_lAazyN	_
+7	oyf	P	אױף	AWF	_
+8	zeyn	PRO$	זײן	zYN	_
+9	zin	N	זין	zyN	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.135
+1	zal	MDF	ז"ל	z"l	_
+2	libr	ADVR	ליבר	lybr	_
+3	alh_mal	ADV	אַלה_מאַל	Aalh_mAal	_
+4-5	tsum	P~D	צום	qvM	_
+4	tsu	P	צו	qv	_
+5	m	D	מ	m	_
+6	rb	N	רב	rb	_
+7	gin	VB	גין	gyN	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.136
+1	nun	ADV	נ	n	_
+2	vil	MDF	װיל	Vyl	_
+3	ikh	PRO	איך	AyX	_
+4	shreybn	VB	שרײבן	$rYbN	_
+5	vi	WADV	װי	Vy	_
+6	zikh	PRO	זיך	zyX	_
+7	eyn	D	אײן	AYN	_
+8	bel_hbit	N	בעל_הביט	bel_hbyt	_
+9	zal	MDF	ז"ל	z"l	_
+10	hltin	VB	הלטין	hltyN	_
+11	rekht	ADV	רעכט	rext	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.137
+1	bras	H	בראַס	brAas	in_head
+2	ven	C	װען	VeN	_
+3	er	PRO	ער	er	_
+4	kumt	VBF	קומט	kvmt	_
+5	in	P	אין	AyN	_
+6	hoyz	N	הױז	hWz	_
+7	zal	MDF	ז"ל	z"l	_
+8	er	PRO	ער	er	_
+9	alis	Q	אַליס	Aalys	_
+10	fregin	VB	פֿרעגין	fregyN	_
+11	oyz	RP	אױז	AWz	_
+12	oyb	C	אױב	AWb	_
+13	di	D	די	dy	_
+14	kindr	N	קינדר	kyndr	_
+15	zenin	BEF	זענין	zenyN	_
+16	bey	P	בײ	bY	_
+17	dem	D	דעם	deM	_
+18	rbi	N	רבי	rby	_
+19	gvezn	VBN	גװעזן	gVezN	_
+20	un	CONJ	און	AvN	_
+21	hbin	HVF	הבין	hbyN	_
+22	rekht	ADV	רעכט	rext	_
+23	glezin	VBN	גלעזין	glezyN	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.138
+1	un	CONJ	און	AvN	_
+2	zal	MDF	ז"ל	z"l	_
+3	zi	PRO	זי	zy	_
+4	hipsh	ADV	היפּש	hyp$	_
+5	gvinn	VB	גװינן	gVynN	_
+6-7	tsum	P~D	צום	qvM	_
+6	tsu	P	צו	qv	_
+7	m	D	מ	m	_
+8	rbi	N	רבי	rby	_
+9	aneyn	ADV	אַנײן	AanYN	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.139
+1	un	CONJ	און	AvN	_
+2	zal	MDF	ז"ל	z"l	_
+3	zi	PRO	זי	zy	_
+4	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+5	fr_herin	VB	פֿר_הערין	fr_heryN	_
+6	ub	C	אוב	Avb	_
+7	zi	PRO	זי	zy	_
+8	bki	RP-H	בקי	bky	_
+9	zeyn	VBF	זײן	zYN	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.140
+1	un	CONJ	און	AvN	_
+2	zal	MDF	ז"ל	z"l	_
+3	akh	ADV	אַך	AaX	_
+4	mit	P	מיט	myt	_
+5	zi	PRO	זי	zy	_
+6	lernin	VB	לערנין	lernyN	_
+7	vas	WPRO	װאַס	VAas	_
+8	er	PRO	ער	er	_
+9	kan	MDF	ק"ן	k"N	_
+
+SENT	1590E-SAM-HAYYIM,227_Assaf.141
+1	den	CONJ	דען	deN	_
+2	dem	D	דעם	deM	_
+3	psuk	N	פּסוק	psvk	_
+4	ker	MDF	קער	ker	_
+5	mkeym	RP-H	מקײם	mkYM	_
+6	tsu	TO	צו	qv	_
+7	zeyn	VB	זײן	zYN	_
+8	idr	Q	אידר	Aydr	_
+9	man	N	מאַן	mAaN	_
+

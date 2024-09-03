@@ -1,0 +1,2909 @@
+SENT	1848E-JUDAH,634.3
+1	vos	WPRO	װאָס	VAos	_
+2	iz	BEF	איז	Ayz	_
+3	dos	D	דאָס	dAos	_
+4	azuns	ADJ	אַזונס	Aazvns	_
+5	geshehn	VBN	געשעהן	ge$ehN	_
+6	in	P	אין	AyN	_
+7	vien	NPR	װיִען	VyieN	_
+8	un	CONJ	און	AvN	_
+9	in	P	אין	AyN	_
+10	lemberg	NPR	לעמבערג	lemberg	_
+
+SENT	1848E-JUDAH,634.4
+1	libe	ADJ	ליבע	lybe	_
+2	hartsidike	ADJ	האַרצידיקע	hAarqydyke	_
+3	bruderherts	N	ברודערהערץ	brvderherQ	_
+4	apor	Q	אַפּאָר	AapAor	_
+5	verter	N	װערטער	Verter	_
+6	vos	C	װאָס	VAos	_
+7	zenen	VBF	זענען	zeneN	_
+8	eykh	PRO	אײך	AYX	_
+9	tsind	ADV	צינד	qynd	_
+10	neytig	ADJ	נײטיג	nYtyg	_
+11	tsu	TO	צו	qv	_
+12	visen	VB	װיסען	VyseN	_
+
+SENT	1848E-JUDAH,634.5
+1	etts	PRO	עטץ	etQ	_
+2	hot	HVF	האָט	hAot	_
+3	mn	H	מן	mN	from
+4	khstm	H	כסטם	xstM	UNKNOWN
+5	shoyn	ADV	שױן	$WN	_
+6	gihert	VBN	גיהערט	gyhert	_
+7	az	C	אַז	Aaz	_
+8	es	ES	עס	es	_
+9	hobin	HVF	האָבין	hAobyN	_
+10	zikh	PRO	זיך	zyX	_
+11	ferlufin	VBN	פֿערלופֿין	ferlvfyN	_
+12	vinderlikhe	ADJ	װינדערליכע	Vynderlyxe	_
+13	zakhen	N	זאַכען	zAaxeN	_
+14	in	P	אין	AyN	_
+15	vin	NPR	װין	VyN	_
+16	un	CONJ	און	AvN	_
+17	in	P	אין	AyN	_
+18	lemberg	NPR	לעמבערג	lemberg	_
+
+SENT	1848E-JUDAH,634.6
+1	un	CONJ	און	AvN	_
+2	etts	PRO	עטץ	etQ	_
+3	hot	VBF	האָט	hAot	_
+4	efshr	ADV	עפֿשר	ef$r	_
+5	gor	ADV	גאָר	gAor	_
+6	moyre	RP-H	מורא	mvrA	_
+7	az	C	אַז	Aaz	_
+8	es	ES	עס	es	_
+9	vet	MDF	װעט	Vet	_
+10	nokh	ADV	נאָך	nAoX	_
+11	epes	Q	עפּעס	epes	_
+12	slekhts	ADJ	סלעכץ	slexQ	_
+13	der_fin	DR+P	דער_פֿין	der_fyN	_
+14	aroys	ADV	אַרױס	AarWs	_
+15	kimin	VB	קימין	kymyN	_
+
+SENT	1848E-JUDAH,634.7
+1	iber	P	איבער	Ayber	_
+2	dem	D	דעם	deM	_
+3	vil	MDF	װיל	Vyl	_
+4	ikh	PRO	איך	AyX	_
+5	eykh	PRO	אײך	AYX	_
+6	akurat	ADV	אַקוראַט	AakvrAat	_
+7	der_tsteylin	VB	דער_צטײלין	der_qtYlyN	_
+8	in	CONJ	אין	AyN	_
+9	der_klerin	VB	דער_קלערין	der_kleryN	_
+10	vos	WPRO	װאָס	VAos	_
+11	es	ES	עס	es	_
+12	hot	HVF	האָט	hAot	_
+13	zikh	PRO	זיך	zyX	_
+14	getin	VBN	געטין	getyN	_
+15	in	CONJ	אין	AyN	_
+16	far	P	פֿאַר	fAar	_
+17	vos	WPRO	װאָס	VAos	_
+18	es	PRO	עס	es	_
+19	hot	HVF	האָט	hAot	_
+20	zikh	PRO	זיך	zyX	_
+21	azu	ADV	אַזו	Aazv	_
+22	getin	VBN	געטין	getyN	_
+23	kdi	ADV	קדי	kdy	_
+24	az	C	אַז	Aaz	_
+25	etts	PRO	עטץ	etQ	_
+26	zolt	MDF	זאָלט	zAolt	_
+27-28	eynzehin	RP~VB	אײנזעהין	AYnzehyN	_
+27	eyn	RP	אײן	AYN	_
+28	zehin	VB	זעהין	zehyN	_
+29	vos	WPRO	װאָס	VAos	_
+30	far	P	פֿאַר	fAar	_
+31	a	D	אַ	Aa	_
+32	nisim	H	נסים	nsyM	wonders
+33	itbrkh	H	איטברך	AytbrX	may_be_blessed
+34	hot	HVF	האָט	hAot	_
+35	geviezen	VBN	געװיִעזען	geVyiezeN	_
+36	vos	WPRO	װאָס	VAos	_
+37	far	P	פֿאַר	fAar	_
+38	a	D	אַ	Aa	_
+39	tubut	N	טובוט	tvbvt	_
+40	es	ES	עס	es	_
+41	zenen	BEF	זענען	zeneN	_
+42	shoyn	ADV	שױן	$WN	_
+43	aroys	ADV	אַרױס	AarWs	_
+44	gikimin	VBN	גיקימין	gykymyN	_
+45	vos	WPRO	װאָס	VAos	_
+46	far	P	פֿאַר	fAar	_
+47	a	D	אַ	Aa	_
+48	gits	N	גיץ	gyQ	_
+49	es	ES	עס	es	_
+50	vet	MDF	װעט	Vet	_
+51	nokh	ADV	נאָך	nAoX	_
+52	aroys	ADV	אַרױס	AarWs	_
+53	kimin	VB	קימין	kymyN	_
+54	far	P	פֿאַר	fAar	_
+55	alle	Q	אַללע	Aalle	_
+56	mensen	N	מענסען	menseN	_
+57	es	PRO	עס	es	_
+58	megen	MDF	מעגען	megeN	_
+59	zeyn	VB	זײן	zYN	_
+60	yudin	N	יודין	yvdyN	_
+61	oder	CONJ	אָדער	Aoder	_
+62	goym	N	גױם	gWM	_
+63	vos	C	װאָס	VAos	_
+64	es	ES	עס	es	_
+65	zenin	VBF	זענין	zenyN	_
+66	nor	FP	נאָר	nAor	_
+67	do	ADV	דאָ	dAo	_
+68	in	P	אין	AyN	_
+69	alle	Q	אַללע	Aalle	_
+70	lender	N	לענדער	lender	_
+71	vos	C	װאָס	VAos	_
+72	es	ES	עס	es	_
+73	geheren	VBF	געהערען	gehereN	_
+74-75	tsum	P~D	צום	qvM	_
+74	tsu	P	צו	qv	_
+75	m	D	מ	m	_
+76	estreykhisen	ADJ	עסטרײכיסען	estrYxyseN	_
+77	keyser	N	קיסר	kysr	_
+
+SENT	1848E-JUDAH,634.8
+1	efentse	VBI	עפֿענצע	efenqe	_
+2	oyf	RP	אױף	AWF	_
+3	beyde	Q	בײדע	bYde	_
+4	oyren	N	אױרען	AWreN	_
+
+SENT	1848E-JUDAH,634.9
+1	in	CONJ	אין	AyN	_
+2	herts	VBI	הערץ	herQ	_
+3	mikh	PRO	מיך	myX	_
+4	gantts	ADV	גאַנטץ	gAantQ	_
+5	gut	ADV	גוט	gvt	_
+6	tsu	RP	צו	qv	_
+7	:	PUNC	:	:	_
+
+SENT	1848E-JUDAH,634.10
+1	unzer	PRO$	אונזער	Avnzer	_
+2	libir	ADJ	ליביר	lybyr	_
+3	keyzer	N	קײזער	kYzer	_
+4	ferdinand	NPR	פֿערדינאַנד	ferdynAand	_
+5	hot	HVF	האָט	hAot	_
+6	arum	P	אַרום	AarvM	_
+7	zikh	PRO	זיך	zyX	_
+8	gihat	VBN	גיהאַט	gyhAat	_
+9	etlikhe	Q	עטליכע	etlyxe	_
+10	yuetsim	N	יועצים	yveqyM	_
+11	vos	C	װאָס	VAos	_
+12	zey	PRO	זײ	zY	_
+13	hobin	HVF	האָבין	hAobyN	_
+14	em	PRO	עם	eM	_
+15	slekhte	ADJ	סלעכטע	slexte	_
+16	etsut	N	עצוט	eqvt	_
+17	gegebin	VBN	געגעבין	gegebyN	_
+18	in	CONJ	אין	AyN	_
+19	vos	C	װאָס	VAos	_
+20	zey	PRO	זײ	zY	_
+21	hobin	HVF	האָבין	hAobyN	_
+22	nist	NEG	ניסט	nyst	_
+23	tsu	RP	צו	qv	_
+24	gelast	VBN	געלאַסט	gelAast	_
+25	az	C	אַז	Aaz	_
+26	er	PRO	ער	er	_
+27	zol	MDF	זאָל	zAol	_
+28	herin	VB	הערין	heryN	_
+29	di	D	די	dy	_
+30	bksut	N	בקסוט	bksvt	_
+31	fin	P	פֿין	fyN	_
+32	zeyn	PRO$	זײן	zYN	_
+33	folk	N	פֿאָלק	fAolk	_
+34	in	CONJ	אין	AyN	_
+35	zol	MDF	זאָל	zAol	_
+36	nist	NEG	ניסט	nyst	_
+37	visin	VB	װיסין	VysyN	_
+38	vos	C	װאָס	VAos	_
+39	zey	PRO	זײ	zY	_
+40	bedarfin	VBF	בעדאַרפֿין	bedAarfyN	_
+41	tsu	P	צו	qv	_
+42	dem	D	דעם	deM	_
+43	az	C	אַז	Aaz	_
+44	zey	PRO	זײ	zY	_
+45	zolin	MDF	זאָלין	zAolyN	_
+46	kenin	MD	קענין	kenyN	_
+47	gliklikh	ADV	גליקליך	glyklyX	_
+48	lebin	VB	לעבין	lebyN	_
+
+SENT	1848E-JUDAH,634.11
+1	dos	D	דאָס	dAos	_
+2	hot	HVF	האָט	hAot	_
+3	alle	Q	אַללע	Aalle	_
+4	gite	ADJ	גיטע	gyte	_
+5	menshen	N	מענשען	men$eN	_
+6	zeyer	ADV	זײער	zYer	_
+7	vey	RP-N	װײ	VY	_
+8	gitan	VBN	גיטאַן	gytAaN	_
+9	.	PUNC	.	.	_
+
+SENT	1848E-JUDAH,634.12
+1	iber	P	איבער	Ayber	_
+2	dem	D	דעם	deM	_
+3	zenin	BEF	זענין	zenyN	_
+4	zikh	PRO	זיך	zyX	_
+5	in	P	אין	AyN	_
+6	der	D	דער	der	_
+7	letstin	ADJ	לעצטין	leqtyN	_
+8	tseyt	N	צײט	qYt	_
+9	in	P	אין	AyN	_
+10	vien	NPR	װיִען	VyieN	_
+11	tsu	P	צו	qv	_
+12	anand	PRO	אַנאַנד	AanAand	_
+13	gikumin	VBN	גיקומין	gykvmyN	_
+14	mehrere	Q	מעהרערע	mehrere	_
+15	gute	ADJ	גוטע	gvte	_
+16	un	CONJ	און	AvN	_
+17	kluge	ADJ	קלוגע	klvge	_
+18	menshen	N	מענשען	men$eN	_
+19	in	P	אין	AyN	_
+20	eynm	PRO	אײנם	AYnM	_
+21	mit	P	מיט	myt	_
+22	di	D	די	dy	_
+23	studenten	N	סטודענטען	stvdenteN	_
+24	fun	P	פֿון	fvN	_
+25	di	D	די	dy	_
+26	hoykhe	ADJ	הױכע	hWxe	_
+27	skolis	N	סקאָליס	skAolys	_
+28	vos	C	װאָס	VAos	_
+29	zey	PRO	זײ	zY	_
+30	zenin	VBF	זענין	zenyN	_
+31	zeyer	ADV	זײער	zYer	_
+32	gelernt	ADJ	געלערנט	gelernt	_
+
+SENT	1848E-JUDAH,634.13
+1	un	CONJ	און	AvN	_
+2	hobin	HVF	האָבין	hAobyN	_
+3	oyf	RP	אױף	AWF	_
+4	gezetst	VBN	געזעצט	gezeqt	_
+5	a	D	אַ	Aa	_
+6	bksh	N	בקש	bk$	_
+7-8	tsum	P~D	צום	qvM	_
+7	tsu	P	צו	qv	_
+8	m	D	מ	m	_
+9	keyzer	N	קײזער	kYzer	_
+
+SENT	1848E-JUDAH,634.14
+1	in	P	אין	AyN	_
+2	der	D	דער	der	_
+3	bksh	N	בקש	bk$	_
+4	zenin	BEF	זענין	zenyN	_
+5	gistanin	VBN	גיסטאַנין	gystAanyN	_
+6	oys_girekhnt	ADV	אױס_גירעכנט	AWs_gyrexnt	_
+7	alle	Q	אַללע	Aalle	_
+8	gite	ADJ	גיטע	gyte	_
+9	un	CONJ	און	AvN	_
+10	girekhte	ADJ	גירעכטע	gyrexte	_
+11	zakhin	N	זאַכין	zAaxyN	_
+12	vos	C	װאָס	VAos	_
+13	dos	D	דאָס	dAos	_
+14	folk	N	פֿאָלק	fAolk	_
+15	begert	VBF	בעגערט	begert	_
+16	fun	P	פֿון	fvN	_
+17	dem	D	דעם	deM	_
+18	keyzer	N	קײזער	kYzer	_
+
+SENT	1848E-JUDAH,634.15
+1	di	D	די	dy	_
+2	bksh	N	בקש	bk$	_
+3	hobin	HVF	האָבין	hAobyN	_
+4	milasin	X	מילאַסין	mylAasyN	_
+5	mensen	N	מענסען	menseN	_
+6-7	untergsrubin	RP~VBN	אונטערגסרובין	AvntergsrvbyN	_
+6	unter	RP	אונטער	Avnter	_
+7	gsrubin	VBN	גסרובין	gsrvbyN	_
+
+SENT	1848E-JUDAH,634.16
+1	mit	P	מיט	myt	_
+2	der	D	דער	der	_
+3	shrift	N	שריפֿט	$ryft	_
+4	iz	BEF	איז	Ayz	_
+5	men	PRO	מען	meN	_
+6	gigangin	VBN	גיגאַנגין	gygAangyN	_
+7-8	tsum	P~D	צום	qvM	_
+7	tsu	P	צו	qv	_
+8	m	D	מ	m	_
+9	seym	N	סײם	sYM	_
+10	vos	C	װאָס	VAos	_
+11	er	PRO	ער	er	_
+12	iz	BEF	איז	Ayz	_
+13	given	VBN	גיװען	gyVeN	_
+14	far_zamelt	ADJ	פֿאַר_זאַמעלט	fAar_zAamelt	_
+15	un	P	און	AvN	_
+16	zeyn	PRO$	זײן	zYN	_
+17	hoys	N	הױס	hWs	_
+18	vos	C	װאָס	VAos	_
+19	es	PRO	עס	es	_
+20	heyst	VBF	הײסט	hYst	_
+21	land_hoys	N	לאַנד_הױס	lAand_hWs	_
+
+SENT	1848E-JUDAH,634.17
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	hot	HVF	האָט	hAot	_
+4	ehm	N	עהם	ehM	_
+5	gibetin	VBN	גיבעטין	gybetyN	_
+6	az	C	אַז	Aaz	_
+7	er	PRO	ער	er	_
+8	zol	MDF	זאָל	zAol	_
+9	tikf	ADV	טיקף	tykF	_
+10	geyn	VB	גײן	gYN	_
+11	mit	P	מיט	myt	_
+12	der	D	דער	der	_
+13	bite	N	ביטע	byte	_
+14-15	tsum	P~D	צום	qvM	_
+14	tsu	P	צו	qv	_
+15	m	D	מ	m	_
+16	keyzer	N	קײזער	kYzer	_
+
+SENT	1848E-JUDAH,634.18
+1	eyder	C	אײדער	AYder	_
+2	der	D	דער	der	_
+3	seym	N	סײם	sYM	_
+4	iz	BEF	איז	Ayz	_
+5	aber	ADV	אַבער	Aaber	_
+6	gigangin	VBN	גיגאַנגין	gygAangyN	_
+7-8	tsum	P~D	צום	qvM	_
+7	tsu	P	צו	qv	_
+8	m	D	מ	m	_
+9	keyzer	N	קײזער	kYzer	_
+10	iz	BEF	איז	Ayz	_
+11	der_vayl	ADV	דער_װײַל	der_VYal	_
+12	givorin	VBN	גיװאָרין	gyVAoryN	_
+13	a	D	אַ	Aa	_
+14	groyser	ADJ	גרױסער	grWser	_
+15	oyf_loyf	N	אױפֿ_לױף	AWf_lWF	_
+16	un	CONJ	און	AvN	_
+17	a	D	אַ	Aa	_
+18	harmide	N	האַרמידע	hAarmyde	_
+19	fun	P	פֿון	fvN	_
+20	dem	D	דעם	deM	_
+21	folk	N	פֿאָלק	fAolk	_
+
+SENT	1848E-JUDAH,634.19
+1	dos	D	דאָס	dAos	_
+2	folk	N	פֿאָלק	fAolk	_
+3	hot	HVF	האָט	hAot	_
+4	gimeynt	VBN	גימײנט	gymYnt	_
+5	az	C	אַז	Aaz	_
+6	der	D	דער	der	_
+7	seym	N	סײם	sYM	_
+8	vil	MDF	װיל	Vyl	_
+9	nist	NEG	ניסט	nyst	_
+10	iber_gebin	VB	איבער_געבין	Ayber_gebyN	_
+11	di	D	די	dy	_
+12	bksh	N	בקש	bk$	_
+13	dem	D	דעם	deM	_
+14	keyzer	N	קײזער	kYzer	_
+
+SENT	1848E-JUDAH,634.20
+1	iber	P	איבער	Ayber	_
+2	dem	D	דעם	deM	_
+3	hobin	HVF	האָבין	hAobyN	_
+4	zey	PRO	זײ	zY	_
+5-6	eyngeshlagin	RP~VBN	אײנגעשלאַגין	AYnge$lAagyN	_
+5	eyn	RP	אײן	AYN	_
+6	geshlagin	VBN	געשלאַגין	ge$lAagyN	_
+7	di	D	די	dy	_
+8	fenstir	N	פֿענסטיר	fenstyr	_
+9	fun	P	פֿון	fvN	_
+10	dem	D	דעם	deM	_
+11	land_hoys	N	לאַנד_הױס	lAand_hWs	_
+
+SENT	1848E-JUDAH,634.21
+1	un	CONJ	און	AvN	_
+2	hobin	HVF	האָבין	hAobyN	_
+3	askh	Q	אַסך	AasX	_
+4	zakhin	N	זאַכין	zAaxyN	_
+5	tsertrimert	VBN	צערטרימערט	qertrymert	_
+
+SENT	1848E-JUDAH,634.22
+1	oyf	P	אױף	AWF	_
+2	dem	D	דעם	deM	_
+3	iz	BEF	איז	Ayz	_
+4	on	RP	אָן	AoN	_
+5	gekumen	VBN	געקומען	gekvmeN	_
+6	militer	N	מיליטער	mylyter	_
+
+SENT	1848E-JUDAH,634.23
+1	un	CONJ	און	AvN	_
+2	hot	HVF	האָט	hAot	_
+3	avek	RP-ADV	אַװעק	AaVek	_
+4	gtrubin	VBN	גטרובין	gtrvbyN	_
+5	dos	D	דאָס	dAos	_
+6	folk	N	פֿאָלק	fAolk	_
+
+SENT	1848E-JUDAH,634.24
+1	un	CONJ	און	AvN	_
+2	hot	HVF	האָט	hAot	_
+3	oyf	P	אױף	AWF	_
+4	di	D	די	dy	_
+5	mentshen	N	מענטשען	ment$eN	_
+6	gishosin	VBN	גישאָסין	gy$AosyN	_
+
+SENT	1848E-JUDAH,634.25
+1	zenin	BEF	זענין	zenyN	_
+2	gfalin	VBN	גפֿאַלין	gfAalyN	_
+3	etlikhe	Q	עטליכע	etlyxe	_
+4	berger	N	בערגער	berger	_
+5	un	CONJ	און	AvN	_
+6	studenten	N	סטודענטען	stvdenteN	_
+
+SENT	1848E-JUDAH,634.26
+1	der_vayl	ADV	דער_װײַל	der_VYal	_
+2	iz	BEF	איז	Ayz	_
+3	gigangin	VBN	גיגאַנגין	gygAangyN	_
+4	der	D	דער	der	_
+5	seym	N	סײם	sYM	_
+6	mit	P	מיט	myt	_
+7	andre	ADJ	אַנדרע	Aandre	_
+8	mentshen	N	מענטשען	ment$eN	_
+9	vos	C	װאָס	VAos	_
+10	men	PRO	מען	meN	_
+11	hot	HVF	האָט	hAot	_
+12	oys	RP	אױס	AWs	_
+13	gklibin	VBN	גקליבין	gklybyN	_
+14	fun	P	פֿון	fvN	_
+15	di	D	די	dy	_
+16	berger	N	בערגער	berger	_
+17	un	CONJ	און	AvN	_
+18	di	D	די	dy	_
+19	studentin	N	סטודענטין	stvdentyN	_
+20	mit	P	מיט	myt	_
+21	der	D	דער	der	_
+22	bksh	N	בקש	bk$	_
+23-24	tsum	P~D	צום	qvM	_
+23	tsu	P	צו	qv	_
+24	m	D	מ	m	_
+25	keyzr	N	קײזר	kYzr	_
+26	.	PUNC	.	.	_
+
+SENT	1848E-JUDAH,634.27
+1	vi	C	װי	Vy	_
+2	der	D	דער	der	_
+3	guter	ADJ	גוטער	gvter	_
+4	keyzr	N	קײזר	kYzr	_
+5	hot	HVF	האָט	hAot	_
+6	gihert	VBN	גיהערט	gyhert	_
+7	az	C	אַז	Aaz	_
+8	dos	D	דאָס	dAos	_
+9	militer	N	מיליטער	mylyter	_
+10	hot	HVF	האָט	hAot	_
+11	geshosin	VBN	געשאָסין	ge$AosyN	_
+12	oyf	P	אױף	AWF	_
+13	dem	D	דעם	deM	_
+14	folk	N	פֿאָלק	fAolk	_
+15	hot	HVF	האָט	hAot	_
+16	zeyn	PRO$	זײן	zYN	_
+17	gut	ADJ	גוט	gvt	_
+18	harts	N	האַרץ	hAarQ	_
+19	nist	NEG	ניסט	nyst	_
+20	givolt	MDN	גיװאָלט	gyVAolt	_
+21	lozin	VB	לאָזין	lAozyN	_
+22	keyn	Q	קײן	kYN	_
+23	blut	N	בלוט	blvt	_
+24	fergisin	VB	פֿערגיסין	fergysyN	_
+25	,	PUNC	,	,	_
+
+SENT	1848E-JUDAH,634.28
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	hot	HVF	האָט	hAot	_
+4	tikf	ADV	טיקף	tykF	_
+5	a	D	אַ	Aa	_
+6	bafel	N	באַפֿעל	bAafel	_
+7	gigebin	VBN	גיגעבין	gygebyN	_
+8	az	C	אַז	Aaz	_
+9	dos	D	דאָס	dAos	_
+10	militer	N	מיליטער	mylyter	_
+11	zoll	MDF	זאָלל	zAoll	_
+12-13	oyfherin	RP~VB	אױפֿהערין	AWfheryN	_
+12	oyf	RP	אױף	AWF	_
+13	herin	VB	הערין	heryN	_
+14	tsu	TO	צו	qv	_
+15	shusin	VB	שוסין	$vsyN	_
+
+SENT	1848E-JUDAH,634.29
+1	un	CONJ	און	AvN	_
+2	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+3	hot	HVF	האָט	hAot	_
+4	er	PRO	ער	er	_
+5	oys	RP	אױס	AWs	_
+6	gihert	VBN	גיהערט	gyhert	_
+7	di	D	די	dy	_
+8	gantse	ADJ	גאַנצע	gAanqe	_
+9	bksh	N	בקש	bk$	_
+
+SENT	1848E-JUDAH,634.30
+1	do	ADV	דאָ	dAo	_
+2	hot	HVF	האָט	hAot	_
+3	er	PRO	ער	er	_
+4	herst	ADV	הערסט	herst	_
+5	gzehin	VBN	גזעהין	gzehyN	_
+6	az	C	אַז	Aaz	_
+7	men	PRO	מען	meN	_
+8	hot	HVF	האָט	hAot	_
+9	ihm	PRO	איהם	AyhM	_
+10	friher	ADVR	פֿריהער	fryher	_
+11	keyn_mahl	ADV	קײנ_מאַהל	kYn_mAahl	_
+12	nist	NEG	ניסט	nyst	_
+13	dem	D	דעם	deM	_
+14	emes	N	אמת	AmS	_
+15	gzagt	VBN	גזאַגט	gzAagt	_
+16	vos	WPRO	װאָס	VAos	_
+17	der	D	דער	der	_
+18	viner	ADJ	װינער	Vyner	_
+19	eulm	N	עולם	evlM	_
+20	un	CONJ	און	AvN	_
+21	zeyne	PRO$	זײנע	zYne	_
+22	ibrige	ADJ	איבריגע	Aybryge	_
+23	felker	N	פֿעלקער	felker	_
+24	bagerin	VBF	באַגערין	bAageryN	_
+25	un	CONJ	און	AvN	_
+26	bdarfin	VBF	בדאַרפֿין	bdAarfyN	_
+
+SENT	1848E-JUDAH,634.31
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	guter	ADJ	גוטער	gvter	_
+4	keyzr	N	קײזר	kYzr	_
+5	lang	ADV	לאַנג	lAang	_
+6	lebin	VB	לעבין	lebyN	_
+7	zoll	MDF	זאָלל	zAoll	_
+8	er	PRO	ער	er	_
+9	hot	HVF	האָט	hAot	_
+10	in	P	אין	AyN	_
+11	drey	NUM	דרײ	drY	_
+12	teg	N	טעג	teg	_
+13	allding	Q	אַללדינג	Aalldyng	_
+14	fazvallit	VBN	פֿאַזװאַלליט	fAazVAallyt	_
+15	vos	C	װאָס	VAos	_
+16	es	ES	עס	es	_
+17	hot	HVF	האָט	hAot	_
+18	nor	FP	נאָר	nAor	_
+19	gkont	MDN	גקאָנט	gkAont	_
+20	oys	RP	אױס	AWs	_
+21	gefurt	VAN	געפֿורט	gefvrt	_
+22	verin	RD	װערין	VeryN	_
+23	in	P	אין	AyN	_
+24	azu	ADV	אַזו	Aazv	_
+25	kortsir	ADJ	קאָרציר	kAorqyr	_
+26	tseyt	N	צײט	qYt	_
+
+SENT	1848E-JUDAH,634.32
+1-2	tsum	P~D	צום	qvM	_
+1	tsu	P	צו	qv	_
+2	m	D	מ	m	_
+3	erstin	ADJ	ערסטין	erstyN	_
+4	hot	HVF	האָט	hAot	_
+5	er	PRO	ער	er	_
+6	giheysin	VBN	גיהײסין	gyhYsyN	_
+7	makhin	VB	מאַכין	mAaxyN	_
+8	a	D	אַ	Aa	_
+9	natsionalgarde	N	נאַציִאָנאַלגאַרדע	nAaqyiAonAalgAarde	_
+
+SENT	1848E-JUDAH,634.33
+1	dos	D	דאָס	dAos	_
+2	iz	VBF	איז	Ayz	_
+3	eyn	D	אײן	AYN	_
+4	vakh	N	װאַך	VAaX	_
+5	fun	P	פֿון	fvN	_
+6	berger	N	בערגער	berger	_
+7	in	CONJ	אין	AyN	_
+8	studentin	N	סטודענטין	stvdentyN	_
+9	vos	C	װאָס	VAos	_
+10	zey	PRO	זײ	zY	_
+11	zolin	MDF	זאָלין	zAolyN	_
+12	arum	ADV	אַרום	AarvM	_
+13	geyn	VB	גײן	gYN	_
+14	un	CONJ	און	AvN	_
+15	zehin	VB	זעהין	zehyN	_
+16	az	C	אַז	Aaz	_
+17	es	ES	עס	es	_
+18	zol	MDF	זאָל	zAol	_
+19	aldung	Q	אַלדונג	Aaldvng	_
+20	zeyn	VB	זײן	zYN	_
+21	rihung	N	ריהונג	ryhvng	_
+22	un	CONJ	און	AvN	_
+23	in	P	אין	AyN	_
+24	ordnung	N	אָרדנונג	Aordnvng	_
+
+SENT	1848E-JUDAH,634.34
+1	aza	ADJ	אַזאַ	AazAa	_
+2	natsional_garde	N	נאַציִאָנאַל_גאַרדע	nAaqyiAonAal_gAarde	_
+3	iz	VBF	איז	Ayz	_
+4	zeyer	ADV	זײער	zYer	_
+5	a	D	אַ	Aa	_
+6	gite	ADJ	גיטע	gyte	_
+7	zakh	N	זאַך	zAaX	_
+
+SENT	1848E-JUDAH,635.36
+1	vorin	CONJ	װאָרין	VAoryN	_
+2	az	C	אַז	Aaz	_
+3	eyn	D	אײן	AYN	_
+4	berger	N	בערגער	berger	_
+5	zogt	VBF	זאָגט	zAogt	_
+6-7	tsum	P~D	צום	qvM	_
+6	tsu	P	צו	qv	_
+7	m	D	מ	m	_
+8	andern	ADJ	אַנדערן	AanderN	_
+9	eyn	D	אײן	AYN	_
+10	por	Q	פּאָר	pAor	_
+11	verter	N	װערטער	Verter	_
+12	helft	VBF	העלפֿט	helft	_
+13	es	PRO	עס	es	_
+14	mehr	ADV	מעהר	mehr	_
+15	vi	P	װי	Vy	_
+16	alle	Q	אַללע	Aalle	_
+17	stekenes	N	סטעקענעס	stekenes	_
+18	in	P	אין	AyN	_
+19	der	D	דער	der	_
+20	velt	N	װעלט	Velt	_
+
+SENT	1848E-JUDAH,635.37
+1	hant	ADV	האַנט	hAant	_
+2	kenin	VBF	קענין	kenyN	_
+3	dikh	ADV	דיך	dyX	_
+4	di	D	די	dy	_
+5	berger	N	בערגער	berger	_
+6	zeyere	PRO$	זײערע	zYere	_
+7	shtot_menshin	N	שטאָט_מענשין	$tAot_men$yN	_
+
+SENT	1848E-JUDAH,635.38
+1	un	CONJ	און	AvN	_
+2	veysin	VBF	װײסין	VYsyN	_
+3	oyf	P	אױף	AWF	_
+4	vemin	WPRO	װעמין	VemyN	_
+5	a	D	אַ	Aa	_
+6	gisrey	N	גיסרײ	gysrY	_
+7	tsu	TO	צו	qv	_
+8	gebin	VB	געבין	gebyN	_
+9	oyf	P	אױף	AWF	_
+10	vemin	WPRO	װעמין	VemyN	_
+11	bkbud	ADJ	בקבוד	bkbvd	_
+12	tsu	TO	צו	qv	_
+13	haltin	VB	האַלטין	hAaltyN	_
+
+SENT	1848E-JUDAH,635.39
+1	di	D	די	dy	_
+2	natsional_gardisten	N	נאַציִאָנאַל_גאַרדיסטען	nAaqyiAonAal_gAardysteN	_
+3	nemin	VBF	נעמין	nemyN	_
+4	freyavilig	ADV	פֿרײאַװיליג	frYAaVylyg	_
+5	in	CONJ	אין	AyN	_
+6	gerin	ADV	גערין	geryN	_
+7	aleyn	ADV	אַלײן	AalYN	_
+8	dos	D	דאָס	dAos	_
+9	gever	N	געװער	geVer	_
+10	in	P	אין	AyN	_
+11	di	D	די	dy	_
+12	hant	N	האַנט	hAant	_
+
+SENT	1848E-JUDAH,635.40
+1	un	CONJ	און	AvN	_
+2	patrolirin	VBF	פּאַטראָלירין	pAatrAolyryN	_
+3	itlikher	Q	איטליכער	Aytlyxer	_
+4	in	P	אין	AyN	_
+5	zeyn	PRO$	זײן	zYN	_
+6	bestimter	ADJ	בעסטימטער	bestymter	_
+7	tseyt	N	צײט	qYt	_
+8	arum	ADV	אַרום	AarvM	_
+
+SENT	1848E-JUDAH,635.41
+1	zey	PRO	זײ	zY	_
+2	tun	VBF	טון	tvN	_
+3	es	PRO	עס	es	_
+4	mit	P	מיט	myt	_
+5	dem	D	דעם	deM	_
+6	gantsin	ADJ	גאַנצין	gAanqyN	_
+7	harts	N	האַרץ	hAarQ	_
+
+SENT	1848E-JUDAH,635.42
+1	varin	CONJ	װאַרין	VAaryN	_
+2	zey	PRO	זײ	zY	_
+3	vilin	MDF	װילין	VylyN	_
+4	dekh	ADV	דעך	deX	_
+5	beshitsin	VB	בעשיצין	be$yqyN	_
+6	zeyer	PRO$	זײער	zYer	_
+7	veyb	N	װײב	VYb	_
+8	un	CONJ	און	AvN	_
+9	kind	N	קינד	kynd	_
+10	in	CONJ	אין	AyN	_
+11	zeyer	PRO$	זײער	zYer	_
+12	hab	N	האַב	hAab	_
+
+SENT	1848E-JUDAH,635.43
+1	far	P	פֿאַר	fAar	_
+2	dem	D	דעם	deM	_
+3	stelt	VBF	סטעלט	stelt	_
+4	yeder	Q	יעדער	yeder	_
+5	gute	ADJ	גוטע	gvte	_
+6	mensh	N	מענש	men$	_
+7	zeyn	PRO$	זײן	zYN	_
+8	lebin	N	לעבין	lebyN	_
+9	eyn	X	אײן	AYN	_
+10	brtsun	H	ברצון	brqvN	in_will
+11	tub	H	טוב	tvb	good
+
+SENT	1848E-JUDAH,635.44
+1	tsveytens	ADV	צװײטענס	qVYtens	_
+2	hot	HVF	האָט	hAot	_
+3	der	D	דער	der	_
+4	keyzer	N	קײזער	kYzer	_
+5	tikf	ADV	טיקף	tykF	_
+6	beviligt	VBN	בעװיליגט	beVylygt	_
+7	druk	N	דרוק	drvk	_
+8	oder	CONJ	אָדער	Aoder	_
+9	presfreyheyt	N	פּרעספֿרײהײט	presfrYhYt	_
+
+SENT	1848E-JUDAH,635.45
+1	veyst	VBF	װײסט	VYst	_
+2	etts	PRO	עטץ	etQ	_
+3	vos	WPRO	װאָס	VAos	_
+4	dos	D	דאָס	dAos	_
+5	iz	VBF	איז	Ayz	_
+
+SENT	1848E-JUDAH,635.46
+1	dos	D	דאָס	dAos	_
+2	iz	VBF	איז	Ayz	_
+3	di	D	די	dy	_
+4	erste	N	ערסטע	erste	_
+5	un	CONJ	און	AvN	_
+6	di	D	די	dy	_
+7	beste	N	בעסטע	beste	_
+8	fun	P	פֿון	fvN	_
+9	alle	Q	אַללע	Aalle	_
+10	freyheyten	N	פֿרײהײטען	frYhYteN	_
+
+SENT	1848E-JUDAH,635.47
+1	vorin	CONJ	װאָרין	VAoryN	_
+2	az	C	אַז	Aaz	_
+3	men	PRO	מען	meN	_
+4	hot	VBF	האָט	hAot	_
+5	di	D	די	dy	_
+6	freyheyt	N	פֿרײהײט	frYhYt	_
+7	ken	MDF	קען	keN	_
+8	men	PRO	מען	meN	_
+9	dorkh	P	דאָרך	dAorX	_
+10	ihr	PRO	איהר	Ayhr	_
+11	alle	Q	אַללע	Aalle	_
+12	andern	ADJ	אַנדערן	AanderN	_
+13	freyheytin	N	פֿרײהײטין	frYhYtyN	_
+14	der_verbin	VB	דער_װערבין	der_VerbyN	_
+15	vos	C	װאָס	VAos	_
+16	zi	PRO	זי	zy	_
+17	zenin	VBF	זענין	zenyN	_
+18	nor	FP	נאָר	nAor	_
+19	gut	ADJ	גוט	gvt	_
+20	far	P	פֿאַר	fAar	_
+21	di	D	די	dy	_
+22	mensen	N	מענסען	menseN	_
+
+SENT	1848E-JUDAH,635.48
+1	az	C	אַז	Aaz	_
+2	men	PRO	מען	meN	_
+3	hot	VBF	האָט	hAot	_
+4	pres_freyheyt	N	פּרעס_פֿרײהײט	pres_frYhYt	_
+5	meg	MDF	מעג	meg	_
+6	men	PRO	מען	meN	_
+7	lozin	VB	לאָזין	lAozyN	_
+8	drukin	VB	דרוקין	drvkyN	_
+9	vos	WPRO	װאָס	VAos	_
+10	men	PRO	מען	meN	_
+11	vil	VBF	װיל	Vyl	_
+12	vos	WPRO	װאָס	VAos	_
+13	es	ES	עס	es	_
+14	iz	VBF	איז	Ayz	_
+15	gut	ADJ	גוט	gvt	_
+16	kegin	P	קעגין	kegyN	_
+17	got	NPR	גאָט	gAot	_
+18	un	CONJ	און	AvN	_
+19	kegin	P	קעגין	kegyN	_
+20	mensin	N	מענסין	mensyN	_
+
+SENT	1848E-JUDAH,635.49
+1	friher	ADV	פֿריהער	fryher	_
+2	az	C	אַז	Aaz	_
+3	men	PRO	מען	meN	_
+4	hot	HVF	האָט	hAot	_
+5	givolt	MDN	גיװאָלט	gyVAolt	_
+6	lozin	VB	לאָזין	lAozyN	_
+7	epis	Q	עפּיס	epys	_
+8	drukin	VB	דרוקין	drvkyN	_
+9	hot	HVF	האָט	hAot	_
+10	men	PRO	מען	meN	_
+11	gemist	MDN	געמיסט	gemyst	_
+12	dos	D	דאָס	dAos	_
+13	erst	ADV	ערסט	erst	_
+14	veyzin	VB	װײזין	VYzyN	_
+15	eyn	D	אײן	AYN	_
+16	amt	N	אַמט	Aamt	_
+17	vos	C	װאָס	VAos	_
+18	hot	HVF	האָט	hAot	_
+19	giheysin	VBN	גיהײסין	gyhYsyN	_
+20	dos	D	דאָס	dAos	_
+21	tsenzur_amt	N	צענזור_אַמט	qenzvr_Aamt	_
+
+SENT	1848E-JUDAH,635.50
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	beamten	N	בעאַמטען	beAamteN	_
+4	fun	P	פֿון	fvN	_
+5	der	D	דער	der	_
+6	tsenzur	N	צענזור	qenzvr	_
+7	hobin	HVF	האָבין	hAobyN	_
+8	avek	RP-ADV	אַװעק	AaVek	_
+9	gistrokhin	VBN	גיסטראָכין	gystrAoxyN	_
+10	vos	WPRO	װאָס	VAos	_
+11	zey	PRO	זײ	zY	_
+12	hobin	HVF	האָבין	hAobyN	_
+13	givolt	MDN	גיװאָלט	gyVAolt	_
+
+SENT	1848E-JUDAH,635.51
+1	az	C	אַז	Aaz	_
+2	men	PRO	מען	meN	_
+3	hot	HVF	האָט	hAot	_
+4	givolt	MDN	גיװאָלט	gyVAolt	_
+5	drukin	VB	דרוקין	drvkyN	_
+6	az	C	אַז	Aaz	_
+7	di	D	די	dy	_
+8	lekhtsteyer	N	לעכצטײער	lexqtYer	_
+9	un	CONJ	און	AvN	_
+10	di	D	די	dy	_
+11	fleys_pakht	N	פֿלײס_פּאַכט	flYs_pAaxt	_
+12	reyst	VBF	רײסט	rYst	_
+13	oys	RP	אױס	AWs	_
+14	dem	D	דעם	deM	_
+15	yud	N	י	y	_
+16	hobin	HVF	האָבין	hAobyN	_
+17	zey	PRO	זײ	zY	_
+18	moyre	RP-H	מורא	mvrA	_
+19	gihat	VBN	גיהאַט	gyhAat	_
+20	tsu	TO	צו	qv	_
+21	lozin	VB	לאָזין	lAozyN	_
+22	drukin	VB	דרוקין	drvkyN	_
+
+SENT	1848E-JUDAH,635.52
+1	un	CONJ	און	AvN	_
+2	hobin	HVF	האָבין	hAobyN	_
+3	es	PRO	עס	es	_
+4	oys	RP	אױס	AWs	_
+5	gestrikhin	VBN	געסטריכין	gestryxyN	_
+
+SENT	1848E-JUDAH,635.53
+1	az	C	אַז	Aaz	_
+2	men	PRO	מען	meN	_
+3	hot	HVF	האָט	hAot	_
+4	givolt	MDN	גיװאָלט	gyVAolt	_
+5	drukin	VB	דרוקין	drvkyN	_
+6	az	C	אַז	Aaz	_
+7	eyn	D	אײן	AYN	_
+8	mandatir	N	מאַנדאַטיר	mAandAatyr	_
+9	ader	CONJ	אַדער	Aader	_
+10	eyn	D	אײן	AYN	_
+11	anderer	ADJ	אַנדערער	Aanderer	_
+12	beamter	N	בעאַמטער	beAamter	_
+13	tut	VBF	טוט	tvt	_
+14	on	RP	אָן	AoN	_
+15	gruse	ADJ	גרוסע	grvse	_
+16	tsrut	N	צרוט	qrvt	_
+17	hobin	HVF	האָבין	hAobyN	_
+18	zey	PRO	זײ	zY	_
+19	nist	NEG	ניסט	nyst	_
+20	der_loybt	VBN	דער_לױבט	der_lWbt	_
+21	tsu	TO	צו	qv	_
+22	drukin	VB	דרוקין	drvkyN	_
+
+SENT	1848E-JUDAH,635.54
+1	tsundert	ADV	צונדערט	qvndert	_
+2	aber	ADV	אַבער	Aaber	_
+3	meg	MDF	מעג	meg	_
+4	men	PRO	מען	meN	_
+5	lozin	VB	לאָזין	lAozyN	_
+6	druken	VB	דרוקען	drvkeN	_
+7	allding	Q	אַללדינג	Aalldyng	_
+8	ibr	P	איבר	Aybr	_
+9	vos	WPRO	װאָס	VAos	_
+10	men	PRO	מען	meN	_
+11	hot	VBF	האָט	hAot	_
+12	zikh	PRO	זיך	zyX	_
+13	tsu	TO	צו	qv	_
+14	beklagin	VB	בעקלאַגין	beklAagyN	_
+
+SENT	1848E-JUDAH,635.55
+1	men	PRO	מען	meN	_
+2	meg	MDF	מעג	meg	_
+3	lozin	VB	לאָזין	lAozyN	_
+4	oyf	P	אױף	AWF	_
+5	itlikhin	Q	איטליכין	AytlyxyN	_
+6	drukin	VB	דרוקין	drvkyN	_
+7	dem	D	דעם	deM	_
+8	emes	N	אמת	AmS	_
+9	er	PRO	ער	er	_
+10	meg	MDF	מעג	meg	_
+11	afilu	FP	אַפֿילו	Aafylv	_
+12	hobin	VB	האָבין	hAobyN	_
+13	hundert	NUM	הונדערט	hvndert	_
+14	ordin	N	אָרדין	AordyN	_
+15	oyf	P	אױף	AWF	_
+16	der	D	דער	der	_
+17	brust	N	ברוסט	brvst	_
+
+SENT	1848E-JUDAH,635.56
+1	men	PRO	מען	meN	_
+2	meg	MDF	מעג	meg	_
+3	lozin	VB	לאָזין	lAozyN	_
+4	drukin	VB	דרוקין	drvkyN	_
+5	vos	WPRO	װאָס	VAos	_
+6	dos	D	דאָס	dAos	_
+7	folk	N	פֿאָלק	fAolk	_
+8	vil	VBF	װיל	Vyl	_
+9	az	C	אַז	Aaz	_
+10	men	PRO	מען	meN	_
+11	zol	MDF	זאָל	zAol	_
+12	em	PRO	עם	eM	_
+13	guts	ADJ	גוטס	gvts	_
+14	tun	VB	טון	tvN	_
+
+SENT	1848E-JUDAH,635.57
+1	azu	ADV	אַזו	Aazv	_
+2	kumt	VBF	קומט	kvmt	_
+3	dos	D	דאָס	dAos	_
+4	gekhir	ADVR	געכיר	gexyr	_
+5	on	RP	אָן	AoN	_
+6-7	tsum	P~D	צום	qvM	_
+6	tsu	P	צו	qv	_
+7	m	D	מ	m	_
+8	keyzer	N	קײזער	kYzer	_
+
+SENT	1848E-JUDAH,635.58
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	ken	MDF	קען	keN	_
+4	gekhir	ADVR	געכיר	gexyr	_
+5	alding	Q	אַלדינג	Aaldyng	_
+6	bevilligin	VB	בעװילליגין	beVyllygyN	_
+
+SENT	1848E-JUDAH,635.59
+1	men	PRO	מען	meN	_
+2	meg	MDF	מעג	meg	_
+3	efentlikh	ADV	עפֿענטליך	efentlyX	_
+4	redin	VB	רעדין	redyN	_
+5	un	CONJ	און	AvN	_
+6	shreybin	VB	שרײבין	$rYbyN	_
+7	un	CONJ	און	AvN	_
+8	drukin	VB	דרוקין	drvkyN	_
+9	vos	WPRO	װאָס	VAos	_
+10	men	PRO	מען	meN	_
+11	hot	VBF	האָט	hAot	_
+12	oyf	P	אױף	AWF	_
+13	dem	D	דעם	deM	_
+14	harts	N	האַרץ	hAarQ	_
+15	un	CONJ	און	AvN	_
+16	vemin	WPRO	װעמין	VemyN	_
+17	un	CONJ	און	AvN	_
+18	vi	WADV	װי	Vy	_
+19	der	D	דער	der	_
+20	shih	N	שיה	$yh	_
+21	kvetst	VBF	קװעצט	kVeqt	_
+
+SENT	1848E-JUDAH,635.60
+1	un	CONJ	און	AvN	_
+2	az	C	אַז	Aaz	_
+3	men	PRO	מען	meN	_
+4	lost	VBF	לאָסט	lAost	_
+5	dos	D	דאָס	dAos	_
+6	drukin	VB	דרוקין	drvkyN	_
+7	geyt	VBF	גײט	gYt	_
+8	dos	D	דאָס	dAos	_
+9	fun	P	פֿון	fvN	_
+10	eyn	D	אײן	AYN	_
+11	shtot	N	שטאָט	$tAot	_
+12	tsu	P	צו	qv	_
+13	der	D	דער	der	_
+14	andern	ADJ	אַנדערן	AanderN	_
+15	fun	P	פֿון	fvN	_
+16	eyn	D	אײן	AYN	_
+17	land	N	לאַנד	lAand	_
+18-19	tsum	P~D	צום	qvM	_
+18	tsu	P	צו	qv	_
+19	m	D	מ	m	_
+20	andren	ADJ	אַנדרען	AandreN	_
+
+SENT	1848E-JUDAH,635.61
+1	itlikher	Q	איטליכער	Aytlyxer	_
+2	kan	MDF	ק"ן	k"N	_
+3	dos	D	דאָס	dAos	_
+4	lezin	VB	לעזין	lezyN	_
+5	un	CONJ	און	AvN	_
+6	zehin	VB	זעהין	zehyN	_
+7	tsu	C	צו	qv	_
+8	iz	VBF	איז	Ayz	_
+9	es	PRO	עס	es	_
+10	dos	D	דאָס	dAos	_
+11	rekht	N	רעכט	rext	_
+
+SENT	1848E-JUDAH,635.62
+1	iber	P	איבער	Ayber	_
+2	dem	D	דעם	deM	_
+3	hot	VBF	האָט	hAot	_
+4	itlikher	Q	איטליכער	Aytlyxer	_
+5	moyre	RP-H	מורא	mvrA	_
+6	azoyns	N	אַזױנס	AazWns	_
+7	tsu	TO	צו	qv	_
+8	tun	VB	טון	tvN	_
+9	vos	C	װאָס	VAos	_
+10	es	PRO	עס	es	_
+11	iz	VBF	איז	Ayz	_
+12	shlekht	ADJ	שלעכט	$lext	_
+
+SENT	1848E-JUDAH,635.63
+1	di	D	די	dy	_
+2	presfreyheyt	N	פּרעספֿרײהײט	presfrYhYt	_
+3	iz	VBF	איז	Ayz	_
+4	a	D	אַ	Aa	_
+5	gever	N	געװער	geVer	_
+
+SENT	1848E-JUDAH,635.64
+1	un	CONJ	און	AvN	_
+2	itlikher	Q	איטליכער	Aytlyxer	_
+3	ken	MDF	קען	keN	_
+4	zikh	PRO	זיך	zyX	_
+5	der_mit	DR+P	דער_מיט	der_myt	_
+6	verin	VB	װערין	VeryN	_
+7	kegin	P	קעגין	kegyN	_
+8	umgerekhtikeyt	N	אומגערעכטיקײט	AvmgerextykYt	_
+9	un	CONJ	און	AvN	_
+10	kegin	P	קעגין	kegyN	_
+11	unter_drikung	N	אונטער_דריקונג	Avnter_drykvng	_
+
+SENT	1848E-JUDAH,635.65
+1	iz	VBF	איז	Ayz	_
+2	dos	D	דאָס	dAos	_
+3	nist	NEG	ניסט	nyst	_
+4	eyn	D	אײן	AYN	_
+5	herlikhe	ADJ	הערליכע	herlyxe	_
+6	zakh	N	זאַך	zAaX	_
+
+SENT	1848E-JUDAH,635.66
+1	un	CONJ	און	AvN	_
+2	bedarft	MDF	בעדאַרפֿט	bedAarft	_
+3	etts	PRO	עטץ	etQ	_
+4	eykh	PRO	אײך	AYX	_
+5	nist	NEG	ניסט	nyst	_
+6	der_mit	DR+P	דער_מיט	der_myt	_
+7	tsu	TO	צו	qv	_
+8	freyen	VB	פֿרײען	frYeN	_
+9	un	CONJ	און	AvN	_
+10	hsm	H	הסם	hsM	the_name
+11	itbrkh	H	איטברך	AytbrX	may_be_blessed
+12	tsu	TO	צו	qv	_
+13	dankin	VB	דאַנקין	dAankyN	_
+14	un	CONJ	און	AvN	_
+15	tsu	TO	צו	qv	_
+16	loybin	VB	לױבין	lWbyN	_
+17	un	CONJ	און	AvN	_
+18	far	P	פֿאַר	fAar	_
+19	dem	D	דעם	deM	_
+20	keyzirs	N$	קײזירס	kYzyrs	_
+21	gizunt	N	גיזונט	gyzvnt	_
+22	mispalel	RP-H	מתפּלל	mSpll	_
+23	tsu	TO	צו	qv	_
+24	zeyn	VB	זײן	zYN	_
+25	vos	C	װאָס	VAos	_
+26	er	PRO	ער	er	_
+27	hot	HVF	האָט	hAot	_
+28	unts	PRO	אונץ	AvnQ	_
+29	di	D	די	dy	_
+30	freyheyt	N	פֿרײהײט	frYhYt	_
+31	gigebin	VBN	גיגעבין	gygebyN	_
+
+SENT	1848E-JUDAH,635.67
+1	kdi	ADV	קדי	kdy	_
+2	es	ES	עס	es	_
+3	zolin	MDF	זאָלין	zAolyN	_
+4	aber	ADV	אַבער	Aaber	_
+5	di	D	די	dy	_
+6	freyheytin	N	פֿרײהײטין	frYhYtyN	_
+7	vos	C	װאָס	VAos	_
+8	der	D	דער	der	_
+9	keyzer	N	קײזער	kYzer	_
+10	hot	HVF	האָט	hAot	_
+11	shoyn	ADV	שױן	$WN	_
+12	beviligt	VBN	בעװיליגט	beVylygt	_
+13	a	D	אַ	Aa	_
+14	kium	N	קיִום	kyivM	_
+15	hobin	VB	האָבין	hAobyN	_
+16	hot	HVF	האָט	hAot	_
+17	der	D	דער	der	_
+18	liebe	ADJ	ליִעבע	lyiebe	_
+19	keyzer	N	קײזער	kYzer	_
+20	oykh	ADV	אױך	AWX	_
+21	beviligt	VBN	בעװיליגט	beVylygt	_
+22	az	C	אַז	Aaz	_
+23	es	ES	עס	es	_
+24	zol	MDF	זאָל	zAol	_
+25	zeyn	VB	זײן	zYN	_
+26	un	P	און	AvN	_
+27	alle	Q	אַללע	Aalle	_
+28	lender	N	לענדער	lender	_
+29	vos	C	װאָס	VAos	_
+30	es	ES	עס	es	_
+31	giherin	VBF	גיהערין	gyheryN	_
+32	tsu	P	צו	qv	_
+33	estreykh	NPR	עסטרײך	estrYX	_
+34	eyn	D	אײן	AYN	_
+35	kanstitutsian	N	קאַנסטיטוציִאַן	kAanstytvqyiAaN	_
+
+SENT	1848E-JUDAH,635.68
+1	veyst	VBF	װײסט	VYst	_
+2	etts	PRO	עטץ	etQ	_
+3	vos	WPRO	װאָס	VAos	_
+4	dos	D	דאָס	dAos	_
+5	iz	VBF	איז	Ayz	_
+
+SENT	1848E-JUDAH,635.69
+1	a	D	אַ	Aa	_
+2	konstitution	N	קאָנסטיטוטיִאָן	kAonstytvtyiAoN	_
+3	iz	VBF	איז	Ayz	_
+4	a	D	אַ	Aa	_
+5	ferfasung	N	פֿערפֿאַסונג	ferfAasvng	_
+6	a	D	אַ	Aa	_
+7	khuk	N	כוק	xvk	_
+8	un	CONJ	און	AvN	_
+9	mspt	N	מספּט	mspt	_
+10	far	P	פֿאַר	fAar	_
+11	dem	D	דעם	deM	_
+12	gantsin	ADJ	גאַנצין	gAanqyN	_
+13	volk	N	װאָלק	VAolk	_
+
+SENT	1848E-JUDAH,635.70
+1	kdi	ADV	קדי	kdy	_
+2	di	D	די	dy	_
+3	ferfasung	N	פֿערפֿאַסונג	ferfAasvng	_
+4	zol	MDF	זאָל	zAol	_
+5	aber	ADV	אַבער	Aaber	_
+6	kenin	MD	קענין	kenyN	_
+7	zeyn	VB	זײן	zYN	_
+8	klug	ADJ	קלוג	klvg	_
+9	un	CONJ	און	AvN	_
+10	gut	ADJ	גוט	gvt	_
+11	far	P	פֿאַר	fAar	_
+12	alle	Q	אַללע	Aalle	_
+13	mentshen	N	מענטשען	ment$eN	_
+14	vos	C	װאָס	VAos	_
+15	zey	PRO	זײ	zY	_
+16	vaoynen	VBF	װאַױנען	VAaWneN	_
+17	um	P	אום	AvM	_
+18	land	N	לאַנד	lAand	_
+19	vet	MDF	װעט	Vet	_
+20	men	PRO	מען	meN	_
+21	oys	P	אױס	AWs	_
+22	alle	Q	אַללע	Aalle	_
+23	lender	N	לענדער	lender	_
+24	un	CONJ	און	AvN	_
+25	alle	Q	אַללע	Aalle	_
+26	klasin	N	קלאַסין	klAasyN	_
+27	fun	P	פֿון	fvN	_
+28	menshin	N	מענשין	men$yN	_
+29-30	oyskloybin	RP~VB	אױסקלױבין	AWsklWbyN	_
+29	oys	RP	אױס	AWs	_
+30	kloybin	VB	קלױבין	klWbyN	_
+31	di	D	די	dy	_
+32	besti	N	בעסטי	besty	_
+33	un	CONJ	און	AvN	_
+34	di	D	די	dy	_
+35	klugsti	ADJS	קלוגסטי	klvgsty	_
+36	leyt	N	לײט	lYt	_
+
+SENT	1848E-JUDAH,635.71
+1	men	PRO	מען	meN	_
+2	vet	MDF	װעט	Vet	_
+3	zey	PRO	זײ	zY	_
+4	sikin	VB	סיקין	sykyN	_
+5	keyn	P	קײן	kYN	_
+6	vien	NPR	װיִען	VyieN	_
+7-8	tsum	P~D	צום	qvM	_
+7	tsu	P	צו	qv	_
+8	m	D	מ	m	_
+9	keyzer	N	קײזער	kYzer	_
+
+SENT	1848E-JUDAH,635.72
+1	dort	ADV	דאָרט	dAort	_
+2	velin	MDF	װעלין	VelyN	_
+3	zey	PRO	זײ	zY	_
+4	zikh	PRO	זיך	zyX	_
+5	ferzamlen	VB	פֿערזאַמלען	ferzAamleN	_
+6	alle	Q	אַללע	Aalle	_
+7	iahr	N	איאַהר	AyAahr	_
+
+SENT	1848E-JUDAH,635.73
+1	un	CONJ	און	AvN	_
+2	velin	MDF	װעלין	VelyN	_
+3	eyn	D	אײן	AYN	_
+4	etsh	N	עטש	et$	_
+5	haltin	VB	האַלטין	hAaltyN	_
+6	iber	P	איבער	Ayber	_
+7	di	D	די	dy	_
+8	steyern	N	סטײערן	stYerN	_
+9	un	CONJ	און	AvN	_
+10	iber	P	איבער	Ayber	_
+11	die	D	דיִע	dyie	_
+12	gezetse	N	געזעצע	gezeqe	_
+
+SENT	1848E-JUDAH,635.74
+1	zey	PRO	זײ	zY	_
+2	velin	MDF	װעלין	VelyN	_
+3	hobin	VB	האָבין	hAobyN	_
+4	umedim	ADV	אומעדים	AvmedyM	_
+5	mit	P	מיט	myt	_
+6	dem	D	דעם	deM	_
+7	keyzer	N	קײזער	kYzer	_
+8	un	P	און	AvN	_
+9	eynem	PRO	אײנעם	AYneM	_
+10	a	D	אַ	Aa	_
+11	deh	N	דעה	deh	_
+12	tsu	TO	צו	qv	_
+13	zagin	VB	זאַגין	zAagyN	_
+
+SENT	1848E-JUDAH,635.75
+1	on	P	אָן	AoN	_
+2	zeyer	PRO$	זײער	zYer	_
+3	deh	N	דעה	deh	_
+4	vet	MDF	װעט	Vet	_
+5	nist	NEG	ניסט	nyst	_
+6	kenin	MD	קענין	kenyN	_
+7	zeyn	VB	זײן	zYN	_
+8	keyn	Q	קײן	kYN	_
+9	gezets	N	געזעץ	gezeQ	_
+
+SENT	1848E-JUDAH,635.76
+1	azuni	ADJ	אַזוני	Aazvny	_
+2	gezetse	N	געזעצע	gezeqe	_
+3	velin	MDF	װעלין	VelyN	_
+4	muzin	MD	מוזין	mvzyN	_
+5	gut	ADJ	גוט	gvt	_
+6	zeyn	VB	זײן	zYN	_
+7	far	P	פֿאַר	fAar	_
+8	dem	D	דעם	deM	_
+9	gantsin	ADJ	גאַנצין	gAanqyN	_
+10	eulm	N	עולם	evlM	_
+
+SENT	1848E-JUDAH,635.77
+1	varin	CONJ	װאַרין	VAaryN	_
+2	es	ES	עס	es	_
+3	velin	MDF	װעלין	VelyN	_
+4	dekh	ADV	דעך	deX	_
+5	zeyn	VB	זײן	zYN	_
+6	bey	P	בײ	bY	_
+7	dem	D	דעם	deM	_
+8	seym	N	סײם	sYM	_
+9	menshen	N	מענשען	men$eN	_
+10	fun	P	פֿון	fvN	_
+11	itlikher	Q	איטליכער	Aytlyxer	_
+12	stand	N	סטאַנד	stAand	_
+
+SENT	1848E-JUDAH,635.78
+1	azuni	ADJ	אַזוני	Aazvny	_
+2	mensn	N	מענסן	mensN	_
+3	vos	C	װאָס	VAos	_
+4	etts	PRO	עטץ	etQ	_
+5	hot	HVF	האָט	hAot	_
+6	aleyn	ADV	אַלײן	AalYN	_
+7-8	oysgeklibin	RP~VBN	אױסגעקליבין	AWsgeklybyN	_
+7	oys	RP	אױס	AWs	_
+8	geklibin	VBN	געקליבין	geklybyN	_
+9	vos	C	װאָס	VAos	_
+10	zenin	VBF	זענין	zenyN	_
+11	gut	ADJ	גוט	gvt	_
+12	un	CONJ	און	AvN	_
+13	klug	ADJ	קלוג	klvg	_
+14	vos	C	װאָס	VAos	_
+15	zey	PRO	זײ	zY	_
+16	lebin	VBF	לעבין	lebyN	_
+17	mit	P	מיט	myt	_
+18	eykh	PRO	אײך	AYX	_
+19	un	CONJ	און	AvN	_
+20	nebin	P	נעבין	nebyN	_
+21	eykh	PRO	אײך	AYX	_
+22	un	CONJ	און	AvN	_
+23	vos	C	װאָס	VAos	_
+24	zey	PRO	זײ	zY	_
+25	visin	VBF	װיסין	VysyN	_
+26	vos	WPRO	װאָס	VAos	_
+27	etts	PRO	עטץ	etQ	_
+28	bedarft	VBF	בעדאַרפֿט	bedAarft	_
+29	kdi	ADV	קדי	kdy	_
+30	etts	PRO	עטץ	etQ	_
+31	zolt	MDF	זאָלט	zAolt	_
+32	kenin	MD	קענין	kenyN	_
+33	zeyn	VB	זײן	zYN	_
+34	gliklikhe	ADJ	גליקליכע	glyklyxe	_
+35	mensn	N	מענסן	mensN	_
+36	azuni	ADJ	אַזוני	Aazvny	_
+37	leyt	N	לײט	lYt	_
+38	velin	MDF	װעלין	VelyN	_
+39	nist	NEG	ניסט	nyst	_
+40-41	tsulozin	RP~VB	צולאָזין	qvlAozyN	_
+40	tsu	RP	צו	qv	_
+41	lozin	VB	לאָזין	lAozyN	_
+42	az	C	אַז	Aaz	_
+43	men	PRO	מען	meN	_
+44	zol	MDF	זאָל	zAol	_
+45	makhin	VB	מאַכין	mAaxyN	_
+46	a	D	אַ	Aa	_
+47	gzetts	N	גזעטץ	gzetQ	_
+48	vos	C	װאָס	VAos	_
+49	iz	VBF	איז	Ayz	_
+50	far	P	פֿאַר	fAar	_
+51	eynem	PRO	אײנעם	AYneM	_
+52	git	ADJ	גיט	gyt	_
+53	un	CONJ	און	AvN	_
+54	far	P	פֿאַר	fAar	_
+55	dem	D	דעם	deM	_
+56	andern	ADJ	אַנדערן	AanderN	_
+57	shlekht	ADJ	שלעכט	$lext	_
+
+SENT	1848E-JUDAH,636.80
+1	un	CONJ	און	AvN	_
+2	az	C	אַז	Aaz	_
+3	zey	PRO	זײ	zY	_
+4	velin	MDF	װעלין	VelyN	_
+5	zehin	VB	זעהין	zehyN	_
+6	az	C	אַז	Aaz	_
+7	es	ES	עס	es	_
+8	iz	VBF	איז	Ayz	_
+9	epis	Q	עפּיס	epys	_
+10	nist	NEG	ניסט	nyst	_
+11	rekht	ADJ	רעכט	rext	_
+12	velin	MDF	װעלין	VelyN	_
+13	zey	PRO	זײ	zY	_
+14	tikf	ADV	טיקף	tykF	_
+15	i	X	אי	Ay	_
+16	fregin	VB	פֿרעגין	fregyN	_
+17	di	D	די	dy	_
+18	minister	N	מיניסטער	mynyster	_
+19	fr	P	פֿר	fr	_
+20	vos	WPRO	װאָס	VAos	_
+21	iz	VBF	איז	Ayz	_
+22	dos	D	דאָס	dAos	_
+
+SENT	1848E-JUDAH,636.81
+1	fr	P	פֿר	fr	_
+2	vos	WPRO	װאָס	VAos	_
+3	iz	VBF	איז	Ayz	_
+4	yens	D	יענס	yens	_
+
+SENT	1848E-JUDAH,636.82
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	minister	N	מיניסטער	mynyster	_
+4	velin	MDF	װעלין	VelyN	_
+5	muzin	MD	מוזין	mvzyN	_
+6	oyf	P	אױף	AWF	_
+7	dem	D	דעם	deM	_
+8	alem	Q	אַלעם	AaleM	_
+9	enfren	VB	ענפֿרען	enfreN	_
+10	un	CONJ	און	AvN	_
+11	dos	D	דאָס	dAos	_
+12	umrekht	N	אומרעכט	Avmrext	_
+13	nit	NEG	ניט	nyt	_
+14	makhin	VB	מאַכין	mAaxyN	_
+
+SENT	1848E-JUDAH,636.83
+1	men	PRO	מען	meN	_
+2	vet	MDF	װעט	Vet	_
+3-4	beym	P~D	בײם	bYM	_
+3	bey	P	בײ	bY	_
+4	m	D	מ	m	_
+5	seym	N	סײם	sYM	_
+6	akurat	ADV	אַקוראַט	AakvrAat	_
+7	berekhnen	VB	בערעכנען	berexneN	_
+8	vi	WADV	װי	Vy	_
+9	fil	Q	פֿיל	fyl	_
+10	steyeren	N	סטײערען	stYereN	_
+11	di	D	די	dy	_
+12	regierung	N	רעגיִערונג	regyiervng	_
+13	bedarf	MDF	בעדאַרף	bedAarF	_
+14	tsu	TO	צו	qv	_
+15	hobin	VB	האָבין	hAobyN	_
+
+SENT	1848E-JUDAH,636.84
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	vet	MDF	װעט	Vet	_
+4-5	eynfirin	RP~VB	אײנפֿירין	AYnfyryN	_
+4	eyn	RP	אײן	AYN	_
+5	firin	VB	פֿירין	fyryN	_
+6	azuni	ADJ	אַזוני	Aazvny	_
+7	steyerin	N	סטײערין	stYeryN	_
+8	az	C	אַז	Aaz	_
+9	itlikher	Q	איטליכער	Aytlyxer	_
+10	guter	ADJ	גוטער	gvter	_
+11	mens	N	מענס	mens	_
+12	zol	MDF	זאָל	zAol	_
+13	tsu_friden	ADJ	צו_פֿרידען	qv_frydeN	_
+14	zeyn	VB	זײן	zYN	_
+15	un	CONJ	און	AvN	_
+16	zol	MDF	זאָל	zAol	_
+17	nist	NEG	ניסט	nyst	_
+18	darfun	DR+P	דאַרפֿון	dAarfvN	_
+19	azu	ADV	אַזו	Aazv	_
+20	leydin	VB	לײדין	lYdyN	_
+21	un	CONJ	און	AvN	_
+22	gedrikt	VAN	געדריקט	gedrykt	_
+23	verin	RD	װערין	VeryN	_
+
+SENT	1848E-JUDAH,636.85
+1	di	D	די	dy	_
+2	minister	N	מיניסטער	mynyster	_
+3	velin	MDF	װעלין	VelyN	_
+4	muzin	MD	מוזין	mvzyN	_
+5	efentlikh	ADV	עפֿענטליך	efentlyX	_
+6	oys	RP	אױס	AWs	_
+7	rekhinin	VB	רעכינין	rexynyN	_
+8	vi	WADV	װי	Vy	_
+9	fil	Q	פֿיל	fyl	_
+10	steyern	N	סטײערן	stYerN	_
+11	zey	PRO	זײ	zY	_
+12	hobin	HVF	האָבין	hAobyN	_
+13	bedarft	VBN	בעדאַרפֿט	bedAarft	_
+14	un	CONJ	און	AvN	_
+15	vi	WADV	װי	Vy	_
+16	men	PRO	מען	meN	_
+17	hot	HVF	האָט	hAot	_
+18	zi	PRO	זי	zy	_
+19	ahin	ADV	אַהין	AahyN	_
+20	gethin	VBN	געטהין	gethyN	_
+
+SENT	1848E-JUDAH,636.86
+1	iber_hoypt	ADV	איבער_הױפּט	Ayber_hWpt	_
+2	velin	MDF	װעלין	VelyN	_
+3	di	D	די	dy	_
+4	minister	N	מיניסטער	mynyster	_
+5	alding	Q	אַלדינג	Aaldyng	_
+6	muzin	MD	מוזין	mvzyN	_
+7	tun	VB	טון	tvN	_
+8	vos	C	װאָס	VAos	_
+9	es	ES	עס	es	_
+10	iz	VBF	איז	Ayz	_
+11	nor	FP	נאָר	nAor	_
+12	gut	ADJ	גוט	gvt	_
+13	ltubh	H	לטובה	ltvbh	to_good
+14	hkll	H	הקלל	hkll	the_general_public
+
+SENT	1848E-JUDAH,636.87
+1	varin	CONJ	װאַרין	VAaryN	_
+2	azunst	ADV	אַזונסט	Aazvnst	_
+3	velin	MDF	װעלין	VelyN	_
+4	zey	PRO	זײ	zY	_
+5	zikh	PRO	זיך	zyX	_
+6	muzin	MD	מוזין	mvzyN	_
+7	parenpirin	VB	פּאַרענפּירין	pAarenpyryN	_
+
+SENT	1848E-JUDAH,636.88
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	vet	MDF	װעט	Vet	_
+4	zey	PRO	זײ	zY	_
+5	ob	RP	אָב	Aob	_
+6	zetsin	VB	זעצין	zeqyN	_
+
+SENT	1848E-JUDAH,636.89
+1	vi	C	װי	Vy	_
+2	der	D	דער	der	_
+3	guter	ADJ	גוטער	gvter	_
+4	keyzer	N	קײזער	kYzer	_
+5	hot	HVF	האָט	hAot	_
+6	azu	ADV	אַזו	Aazv	_
+7	fihl	Q	פֿיהל	fyhl	_
+8	freyheytin	N	פֿרײהײטין	frYhYtyN	_
+9	beviligt	VBN	בעװיליגט	beVylygt	_
+10	un	CONJ	און	AvN	_
+11	vi	C	װי	Vy	_
+12	men	PRO	מען	meN	_
+13	hot	HVF	האָט	hAot	_
+14	gizehin	VBN	גיזעהין	gyzehyN	_
+15	az	C	אַז	Aaz	_
+16	di	D	די	dy	_
+17	slekhte	ADJ	סלעכטע	slexte	_
+18	yuetsim	N	יועצים	yveqyM	_
+19	hobin	HVF	האָבין	hAobyN	_
+20	gikhapt	VBN	גיכאַפּט	gyxAapt	_
+21	di	D	די	dy	_
+22	fis	N	פֿיס	fys	_
+23	oyf	P	אױף	AWF	_
+24	di	D	די	dy	_
+25	pleytses	N	פּלײצעס	plYqes	_
+26	un	CONJ	און	AvN	_
+27	hobin	HVF	האָבין	hAobyN	_
+28	gimakht	VBN	גימאַכט	gymAaxt	_
+29	plith	N	פּליטה	plyth	_
+30	iz	BEF	איז	Ayz	_
+31	geven	VBN	געװען	geVeN	_
+32	in	P	אין	AyN	_
+33	vien	NPR	װיִען	VyieN	_
+34	groysi	ADJ	גרױסי	grWsy	_
+35	smkhkh	N	סמכך	smxX	_
+
+SENT	1848E-JUDAH,636.90
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	hot	HVF	האָט	hAot	_
+4	vihr	NUM	װיהר	Vyhr	_
+5	nekht	N	נעכט	next	_
+6	nakh	P	נ"ך	n"X	_
+7	eynand	PRO	אײנאַנד	AYnAand	_
+8	di	D	די	dy	_
+9	gantsi	ADJ	גאַנצי	gAanqy	_
+10	shtot	N	שטאָט	$tAot	_
+11	beleykht	VBN	בעלײכט	belYxt	_
+
+SENT	1848E-JUDAH,636.91
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	hot	HVF	האָט	hAot	_
+4	nor	FP	נאָר	nAor	_
+5	geshrign	VBN	געשריגן	ge$rygN	_
+6	vivat	INTJ	װיװאַט	VyVAat	_
+7	der	D	דער	der	_
+8	gite	ADJ	גיטע	gyte	_
+9	fater	N	פֿאַטער	fAater	_
+10	keyzer	N	קײזער	kYzer	_
+11	ferdinand	NPR	פֿערדינאַנד	ferdynAand	_
+12	zol	MDF	זאָל	zAol	_
+13	hoykh	ADV	הױך	hWX	_
+14	lebin	VB	לעבין	lebyN	_
+
+SENT	1848E-JUDAH,636.92
+1	haynt	ADV	הײַנט	hYant	_
+2	hertts	VBI	הערטץ	hertQ	_
+3	vos	WPRO	װאָס	VAos	_
+4	es	ES	עס	es	_
+5	hot	HVF	האָט	hAot	_
+6	zikh	PRO	זיך	zyX	_
+7	gtihin	VBN	גטיהין	gtyhyN	_
+8	un	P	און	AvN	_
+9	lemberg	NPR	לעמבערג	lemberg	_
+
+SENT	1848E-JUDAH,636.93
+1	vi	C	װי	Vy	_
+2	di	D	די	dy	_
+3	gute	ADJ	גוטע	gvte	_
+4	fatstin	N	פֿאַצטין	fAaqtyN	_
+5	fun	P	פֿון	fvN	_
+6	vien	NPR	װיִען	VyieN	_
+7	zenin	BEF	זענין	zenyN	_
+8	gikumin	VBN	גיקומין	gykvmyN	_
+9	dos	D	דאָס	dAos	_
+10	iz	BEF	איז	Ayz	_
+11	givezin	VBN	גיװעזין	gyVezyN	_
+12	um	P	אום	AvM	_
+13	purim	NPR	פּורים	pvryM	_
+14-15	am	P~D	עם	eM	_
+14	a	P	אַ	Aa	_
+15	m	D	מ	m	_
+16	19	NUM	19	19	_
+17	teg	N	טעג	teg	_
+18	merts	NPR	מערץ	merQ	_
+19	1848	N	1848	1848	_
+20	zenin	BEF	זענין	zenyN	_
+21	tikf	ADV	טיקף	tykF	_
+22	tsu	P	צו	qv	_
+23	nand	PRO	נאַנד	nAand	_
+24	gkumin	VBN	גקומין	gkvmyN	_
+25	mehre	Q	מעהרע	mehre	_
+26	berger	N	בערגער	berger	_
+27	un	P	און	AvN	_
+28	lemberg	NPR	לעמבערג	lemberg	_
+29	un	CONJ	און	AvN	_
+30	mehrere	Q	מעהרערע	mehrere	_
+31	edilleyt	N	עדיללײט	edyllYt	_
+
+SENT	1848E-JUDAH,636.94
+1	un	CONJ	און	AvN	_
+2	hobin	HVF	האָבין	hAobyN	_
+3	glozt	VBN	גלאָזט	glAozt	_
+4	shreybin	VB	שרײבין	$rYbyN	_
+5	a	D	אַ	Aa	_
+6	bksh	N	בקש	bk$	_
+7-8	tsum	P~D	צום	qvM	_
+7	tsu	P	צו	qv	_
+8	m	D	מ	m	_
+9	keyzr	N	קײזר	kYzr	_
+
+SENT	1848E-JUDAH,636.95
+1	in	P	אין	AyN	_
+2	der	D	דער	der	_
+3	bskh	N	בסך	bsX	_
+4	hot	HVF	האָט	hAot	_
+5	men	PRO	מען	meN	_
+6	azune	ADJ	אַזונע	Aazvne	_
+7	zakhin	N	זאַכין	zAaxyN	_
+8	gebetin	VBN	געבעטין	gebetyN	_
+9	vos	C	װאָס	VAos	_
+10	zey	PRO	זײ	zY	_
+11	zenin	VBF	זענין	zenyN	_
+12	ltubh	H	לטובה	ltvbh	to_good
+13	hkll	H	הקלל	hkll	the_general_public
+14	fun	P	פֿון	fvN	_
+15	gants	ADJ	גאַנץ	gAanQ	_
+16	galitsien	NPR	גאַליציִען	gAalyqyieN	_
+17	,	PUNC	,	,	_
+18	far	P	פֿאַר	fAar	_
+19	reykhi	ADJ	רײכי	rYxy	_
+20	un	CONJ	און	AvN	_
+21	far	P	פֿאַר	fAar	_
+22	arme	ADJ	אַרמע	Aarme	_
+23	fr	P	פֿר	fr	_
+24	krustin	N	קרוסטין	krvstyN	_
+25	un	CONJ	און	AvN	_
+26	yudin	N	יודין	yvdyN	_
+27	fr	P	פֿר	fr	_
+28	edelleyt	N	עדעללײט	edellYt	_
+29	berger	N	בערגער	berger	_
+30	un	CONJ	און	AvN	_
+31	poyrin	N	פּױרין	pWryN	_
+
+SENT	1848E-JUDAH,636.96
+1	di	D	די	dy	_
+2	shrift	N	שריפֿט	$ryft	_
+3	hobin	HVF	האָבין	hAobyN	_
+4	mehrere	Q	מעהרערע	mehrere	_
+5	tuzend	NUM	טוזענד	tvzend	_
+6	menshin	N	מענשין	men$yN	_
+7	krustin	N	קרוסטין	krvstyN	_
+8	un	CONJ	און	AvN	_
+9	yudin	N	יודין	yvdyN	_
+10	alle	Q	אַללע	Aalle	_
+11	edelleyte	N	עדעללײטע	edellYte	_
+12	vos	C	װאָס	VAos	_
+13	zenin	BEF	זענין	zenyN	_
+14	givezin	VBN	גיװעזין	gyVezyN	_
+15	un	P	און	AvN	_
+16	lemberg	NPR	לעמבערג	lemberg	_
+17	un	CONJ	און	AvN	_
+18	berger	N	בערגער	berger	_
+19	unter_geshribin	VBN	אונטער_געשריבין	Avnter_ge$rybyN	_
+
+SENT	1848E-JUDAH,636.97
+1	do	ADV	דאָ	dAo	_
+2	hot	HVF	האָט	hAot	_
+3	men	PRO	מען	meN	_
+4	gezolt	MDN	געזאָלט	gezAolt	_
+5	zehin	VB	זעהין	zehyN	_
+6	in	P	אין	AyN	_
+7	vos	WPRO	װאָס	VAos	_
+8	far	P	פֿאַר	fAar	_
+9	eyn	D	אײן	AYN	_
+10	smkhh	N	סמכה	smxh	_
+11	itlikher	Q	איטליכער	Aytlyxer	_
+12	iz	BEF	איז	Ayz	_
+13	geven	VBN	געװען	geVeN	_
+
+SENT	1848E-JUDAH,636.98
+1	krusten	N	קרוסטען	krvsteN	_
+2	zenin	BEF	זענין	zenyN	_
+3	arum	ADV	אַרום	AarvM	_
+4	gifalin	VBN	גיפֿאַלין	gyfAalyN	_
+5	yudin	N	יודין	yvdyN	_
+
+SENT	1848E-JUDAH,636.99
+1	un	CONJ	און	AvN	_
+2	hobin	HVF	האָבין	hAobyN	_
+3	zey	PRO	זײ	zY	_
+4	gekust	VBN	געקוסט	gekvst	_
+5	un	CONJ	און	AvN	_
+6	gehalst	VBN	געהאַלסט	gehAalst	_
+
+SENT	1848E-JUDAH,636.100
+1	un	CONJ	און	AvN	_
+2	hobin	HVF	האָבין	hAobyN	_
+3	zey	PRO	זײ	zY	_
+4	girufin	VBN	גירופֿין	gyrvfyN	_
+5	bruder	N	ברודער	brvder	_
+
+SENT	1848E-JUDAH,636.101
+1	un	CONJ	און	AvN	_
+2	kdi	ADV	קדי	kdy	_
+3	men	PRO	מען	meN	_
+4	zol	MDF	זאָל	zAol	_
+5	visin	VB	װיסין	VysyN	_
+6	az	C	אַז	Aaz	_
+7	itlikher	Q	איטליכער	Aytlyxer	_
+8	hot	HVF	האָט	hAot	_
+9	dos	D	דאָס	dAos	_
+10	gimeynt	VBN	גימײנט	gymYnt	_
+11	mit	P	מיט	myt	_
+12	dem	D	דעם	deM	_
+13	gantsin	ADJ	גאַנצין	gAanqyN	_
+14	harts	N	האַרץ	hAarQ	_
+15	hobin	HVF	האָבין	hAobyN	_
+16	zey	PRO	זײ	zY	_
+17	eyn	D	אײן	AYN	_
+18	punkt	N	פּונקט	pvnkt	_
+19	un	P	און	AvN	_
+20	der	D	דער	der	_
+21	bksh	H	בקש	bk$	UNKNOWN
+22	bfirus	N	בפֿירוס	bfyrvs	_
+23	areyn	ADV	אַרײן	AarYN	_
+24	geshrubin	VBN	געשרובין	ge$rvbyN	_
+25	az	C	אַז	Aaz	_
+26	alle	Q	אַללע	Aalle	_
+27	eynvohner	N	אײנװאָהנער	AYnVAohner	_
+28	fun	P	פֿון	fvN	_
+29	galitsien	NPR	גאַליציִען	gAalyqyieN	_
+30	zey	PRO	זײ	zY	_
+31	megin	MDF	מעגין	megyN	_
+32	zeyn	VB	זײן	zYN	_
+33	yudin	N	יודין	yvdyN	_
+34	oder	CONJ	אָדער	Aoder	_
+35	krustin	N	קרוסטין	krvstyN	_
+36	zolin	MDF	זאָלין	zAolyN	_
+37	hobin	VB	האָבין	hAobyN	_
+38	gleykhe	ADJ	גלײכע	glYxe	_
+39	praves	N	פּראַװעס	prAaVes	_
+
+SENT	1848E-JUDAH,636.102
+1	veyst	VBF	װײסט	VYst	_
+2	etts	PRO	עטץ	etQ	_
+3	vos	WPRO	װאָס	VAos	_
+4	dos	D	דאָס	dAos	_
+5	iz	VBF	איז	Ayz	_
+6	far	P	פֿאַר	fAar	_
+7	eyn	D	אײן	AYN	_
+8	tubh	N	טובה	tvbh	_
+9	az	C	אַז	Aaz	_
+10	mir	PRO	מיר	myr	_
+11	yudin	N	יודין	yvdyN	_
+12	zolin	MDF	זאָלין	zAolyN	_
+13	megin	MD	מעגין	megyN	_
+14	vohnin	VB	װאָהנין	VAohnyN	_
+15	vi	WADV	װי	Vy	_
+16	men	PRO	מען	meN	_
+17	vil	MDF	װיל	Vyl	_
+
+SENT	1848E-JUDAH,636.103
+1	mir	PRO	מיר	myr	_
+2	zolin	MDF	זאָלין	zAolyN	_
+3	nist	NEG	ניסט	nyst	_
+4	darfin	MD	דאַרפֿין	dAarfyN	_
+5	tsu	TO	צו	qv	_
+6	tsahlin	VB	צאַהלין	qAahlyN	_
+7	keyn	Q	קײן	kYN	_
+8	lekht_geld	N	לעכט_געלד	lext_geld	_
+9	un	CONJ	און	AvN	_
+10	keyn	Q	קײן	kYN	_
+11	fleysh_pakht	N	פֿלײש_פּאַכט	flY$_pAaxt	_
+
+SENT	1848E-JUDAH,636.104
+1	men	X	מען	meN	_
+2	zol	MDF	זאָל	zAol	_
+3	mir	PRO	מיר	myr	_
+4	megin	MD	מעגין	megyN	_
+5	haltin	VB	האַלטין	hAaltyN	_
+6	pasesies	N	פּאַסעסיִעס	pAasesyies	_
+
+SENT	1848E-JUDAH,636.105
+1	men	X	מען	meN	_
+2	zol	MDF	זאָל	zAol	_
+3	mir	PRO	מיר	myr	_
+4	megin	MD	מעגין	megyN	_
+5	kufin	VB	קופֿין	kvfyN	_
+6	umedim	ADV	אומעדים	AvmedyM	_
+7	heyzr	N	הײזר	hYzr	_
+8	un	CONJ	און	AvN	_
+9	guter	N	גוטער	gvter	_
+
+SENT	1848E-JUDAH,636.106
+1	men	X	מען	meN	_
+2	zoll	MDF	זאָלל	zAoll	_
+3	mir	PRO	מיר	myr	_
+4	kenin	MD	קענין	kenyN	_
+5	zeyn	VB	זײן	zYN	_
+6	aker_paerin	N	אַקער_פּאַערין	Aaker_pAaeryN	_
+7	,	PUNC	,	,	_
+8	bel_mlakhut	N	בעל_מלאַכוט	bel_mlAaxvt	_
+9	un	CONJ	און	AvN	_
+10	beamte	N	בעאַמטע	beAamte	_
+
+SENT	1848E-JUDAH,636.107
+1	korts	ADV	קאָרץ	kAorQ	_
+2	men	X	מען	meN	_
+3	zoll	MDF	זאָלל	zAoll	_
+4	mir	PRO	מיר	myr	_
+5	hobin	VB	האָבין	hAobyN	_
+6	alls	Q	אַללס	Aalls	_
+7	freyaheytin	N	פֿרײאַהײטין	frYAahYtyN	_
+8	vi	P	װי	Vy	_
+9	alle	Q	אַללע	Aalle	_
+10	krustin	N	קרוסטין	krvstyN	_
+
+SENT	1848E-JUDAH,636.108
+1	in	P	אין	AyN	_
+2	der	D	דער	der	_
+3	bite	N	ביטע	byte	_
+4	zenin	BEF	זענין	zenyN	_
+5	given	VBN	גיװען	gyVeN	_
+6	dreytsen	NUM	דרײצען	drYqeN	_
+7	pinktin	N	פּינקטין	pynktyN	_
+
+SENT	1848E-JUDAH,636.109
+1	eyn	D	אײן	AYN	_
+2	punkt	N	פּונקט	pvnkt	_
+3	hob	HVF	האָב	hAob	_
+4	ikh	PRO	איך	AyX	_
+5	eykh	PRO	אײך	AYX	_
+6	shoyn	ADV	שױן	$WN	_
+7	der_tseylt	VBN	דער_צײלט	der_qYlt	_
+8	az	C	אַז	Aaz	_
+9	es	ES	עס	es	_
+10	zolin	MDF	זאָלין	zAolyN	_
+11	hobin	VB	האָבין	hAobyN	_
+12	alle	Q	אַללע	Aalle	_
+13	mentsin	N	מענצין	menqyN	_
+14	gleykhe	ADJ	גלײכע	glYxe	_
+15	praves	N	פּראַװעס	prAaVes	_
+
+SENT	1848E-JUDAH,636.110
+1	in	P	אין	AyN	_
+2	di	D	די	dy	_
+3	andere	ADJ	אַנדערע	Aandere	_
+4	pinktin	N	פּינקטין	pynktyN	_
+5	hot	HVF	האָט	hAot	_
+6	men	PRO	מען	meN	_
+7	gibetin	VBN	גיבעטין	gybetyN	_
+8	az	C	אַז	Aaz	_
+9	men	PRO	מען	meN	_
+10	zol	MDF	זאָל	zAol	_
+11	aroys	ADV	אַרױס	AarWs	_
+12	lozin	VB	לאָזין	lAozyN	_
+13	di	D	די	dy	_
+14	gefangene	ADJ	געפֿאַנגענע	gefAangene	_
+15	poylse	ADJ	פּױלסע	pWlse	_
+16	pritsim	N	פּריצים	pryqyM	_
+17	vos	C	װאָס	VAos	_
+18	men	PRO	מען	meN	_
+19	hot	HVF	האָט	hAot	_
+20	zey	PRO	זײ	zY	_
+21	nebikh	INTJ	נעביך	nebyX	_
+22	avek	RP-ADV	אַװעק	AaVek	_
+23	ginumin	VBN	גינומין	gynvmyN	_
+24	fun	P	פֿון	fvN	_
+25	zeyere	PRO$	זײערע	zYere	_
+26	families	N	פֿאַמיליִעס	fAamylyies	_
+
+SENT	1848E-JUDAH,636.111
+1	men	PRO	מען	meN	_
+2	zol	MDF	זאָל	zAol	_
+3	lernin	VB	לערנין	lernyN	_
+4	un	P	און	AvN	_
+5	alle	Q	אַללע	Aalle	_
+6	skolis	N	סקאָליס	skAolys	_
+7	un	CONJ	און	AvN	_
+8	men	PRO	מען	meN	_
+9	zol	MDF	זאָל	zAol	_
+10	shreybin	VB	שרײבין	$rYbyN	_
+11	un	P	און	AvN	_
+12	alle	Q	אַללע	Aalle	_
+13	emtir	N	עמטיר	emtyr	_
+14	poylish	N	פּױליש	pWly$	_
+15	vayl	C	װײַל	VYal	_
+16	poylis	N	פּױליס	pWlys	_
+17	iz	VBF	איז	Ayz	_
+18	dos	D	דאָס	dAos	_
+19	lsun	N	לסון	lsvN	_
+20	fun	P	פֿון	fvN	_
+21	dem	D	דעם	deM	_
+22	grestin	ADJS	גרעסטין	grestyN	_
+23	teyl	N	טײל	tYl	_
+24	fun	P	פֿון	fvN	_
+25	dem	D	דעם	deM	_
+26	folk	N	פֿאָלק	fAolk	_
+27	in	P	אין	AyN	_
+28	galitsien	NPR	גאַליציִען	gAalyqyieN	_
+
+SENT	1848E-JUDAH,636.112
+1	men	PRO	מען	meN	_
+2	zol	MDF	זאָל	zAol	_
+3	gebin	VB	געבין	gebyN	_
+4	eyn	D	אײן	AYN	_
+5	konstitutsion	N	קאָנסטיטוציִאָן	kAonstytvqyiAoN	_
+6	far	P	פֿאַר	fAar	_
+7	galitsien	NPR	גאַליציִען	gAalyqyieN	_
+
+SENT	1848E-JUDAH,636.113
+1	un	CONJ	און	AvN	_
+2	alle	Q	אַללע	Aalle	_
+3	klasin	N	קלאַסין	klAasyN	_
+4	fun	P	פֿון	fvN	_
+5	di	D	די	dy	_
+6	eynvohner	N	אײנװאָהנער	AYnVAohner	_
+7	edelleyt	N	עדעללײט	edellYt	_
+8	berger	N	בערגער	berger	_
+9	yudin	N	יודין	yvdyN	_
+10	un	CONJ	און	AvN	_
+11	poyrin	N	פּױרין	pWryN	_
+12	zolin	MDF	זאָלין	zAolyN	_
+13	kenin	MD	קענין	kenyN	_
+14	shikin	VB	שיקין	$ykyN	_
+15	zeyere	PRO$	זײערע	zYere	_
+16	mentshin	N	מענטשין	ment$yN	_
+17-18	tsum	P~D	צום	qvM	_
+17	tsu	P	צו	qv	_
+18	m	D	מ	m	_
+19	seym	N	סײם	sYM	_
+
+SENT	1848E-JUDAH,636.114
+1	un	CONJ	און	AvN	_
+2	zolin	MDF	זאָלין	zAolyN	_
+3	zehin	VB	זעהין	zehyN	_
+4	az	C	אַז	Aaz	_
+5	es	PRO	עס	es	_
+6	zol	MDF	זאָל	zAol	_
+7	far	P	פֿאַר	fAar	_
+8	all	Q	אַלל	Aall	_
+9	gut	ADJ	גוט	gvt	_
+10	zeyn	VB	זײן	zYN	_
+
+SENT	1848E-JUDAH,636.115
+1	veytir	ADV	װײטיר	VYtyr	_
+2	zenin	VBF	זענין	zenyN	_
+3	tsvey	NUM	צװײ	qVY	_
+4	punktin	N	פּונקטין	pvnktyN	_
+5	az	C	אַז	Aaz	_
+6	es	ES	עס	es	_
+7	zol	MDF	זאָל	zAol	_
+8	zeyn	VB	זײן	zYN	_
+9	pres_freyheyt	N	פּרעס_פֿרײהײט	pres_frYhYt	_
+10	un	CONJ	און	AvN	_
+11	eyn	D	אײן	AYN	_
+12	natsional_garde	N	נאַציִאָנאַל_גאַרדע	nAaqyiAonAal_gAarde	_
+
+SENT	1848E-JUDAH,636.116
+1	di	D	די	dy	_
+2	tsvey	NUM	צװײ	qVY	_
+3	punktin	N	פּונקטין	pvnktyN	_
+4	hot	HVF	האָט	hAot	_
+5	shoyn	ADV	שױן	$WN	_
+6	der	D	דער	der	_
+7	keyzir	N	קײזיר	kYzyr	_
+8	friher	ADVR	פֿריהער	fryher	_
+9	baviligt	VBN	באַװיליגט	bAaVylygt	_
+
+SENT	1848E-JUDAH,636.117
+1	veytir	ADV	װײטיר	VYtyr	_
+2	hobin	HVF	האָבין	hAobyN	_
+3	di	D	די	dy	_
+4	edelleyte	N	עדעללײטע	edellYte	_
+5	unter	RP	אונטער	Avnter	_
+6	gishribin	VBN	גישריבין	gy$rybyN	_
+7	az	C	אַז	Aaz	_
+8	zey	PRO	זײ	zY	_
+9	velin	MDF	װעלין	VelyN	_
+10	shenkin	VB	שענקין	$enkyN	_
+11	di	D	די	dy	_
+12	poyrin	N	פּױרין	pWryN	_
+13	di	D	די	dy	_
+14	pansttsene	N	פּאַנסטצענע	pAanstqene	_
+
+SENT	1848E-JUDAH,636.118
+1	in	CONJ	אין	AyN	_
+2	hobin	HVF	האָבין	hAobyN	_
+3	gibetin	VBN	גיבעטין	gybetyN	_
+4	az	C	אַז	Aaz	_
+5	men	PRO	מען	meN	_
+6	zol	MDF	זאָל	zAol	_
+7	aldung	Q	אַלדונג	Aaldvng	_
+8	azu	ADV	אַזו	Aazv	_
+9-10	eynfirin	RP~VB	אײנפֿירין	AYnfyryN	_
+9	eyn	RP	אײן	AYN	_
+10	firin	VB	פֿירין	fyryN	_
+11	az	C	אַז	Aaz	_
+12	es	PRO	עס	es	_
+13	zol	MDF	זאָל	zAol	_
+14	zeyn	VB	זײן	zYN	_
+15	gut	ADJ	גוט	gvt	_
+16	far	P	פֿאַר	fAar	_
+17	dem	D	דעם	deM	_
+18	edelman	N	עדעלמאַן	edelmAaN	_
+19	un	CONJ	און	AvN	_
+20	far	P	פֿאַר	fAar	_
+21	dem	D	דעם	deM	_
+22	poyer	N	פּױער	pWer	_
+
+SENT	1848E-JUDAH,636.119
+1	nokh	ADV	נאָך	nAoX	_
+2	tsvey	NUM	צװײ	qVY	_
+3	zeyer	ADV	זײער	zYer	_
+4	vikhtige	ADJ	װיכטיגע	Vyxtyge	_
+5	punktin	N	פּונקטין	pvnktyN	_
+6	hot	HVF	האָט	hAot	_
+7	men	PRO	מען	meN	_
+8	gibetin	VBN	גיבעטין	gybetyN	_
+
+SENT	1848E-JUDAH,636.120
+1	dos	D	דאָס	dAos	_
+2	zenen	VBF	זענען	zeneN	_
+3	az	C	אַז	Aaz	_
+4	men	PRO	מען	meN	_
+5	zoll	MDF	זאָלל	zAoll	_
+6-7	eynfirin	RP~VB	אײנפֿירין	AYnfyryN	_
+6	eyn	RP	אײן	AYN	_
+7	firin	VB	פֿירין	fyryN	_
+8	skolis	N	סקאָליס	skAolys	_
+9	far	P	פֿאַר	fAar	_
+10	dem	D	דעם	deM	_
+11	gimeynim	ADJ	גימײנים	gymYnyM	_
+12	folk	N	פֿאָלק	fAolk	_
+13	kdi	ADV	קדי	kdy	_
+14	dos	D	דאָס	dAos	_
+15	gimeyne	ADJ	גימײנע	gymYne	_
+16	folk	N	פֿאָלק	fAolk	_
+17	zoll	MDF	זאָלל	zAoll	_
+18	nist	NEG	ניסט	nyst	_
+19	bleybin	VB	בלײבין	blYbyN	_
+20	azuni	ADJ	אַזוני	Aazvny	_
+21	bhmut	N	בהמוט	bhmvt	_
+
+SENT	1848E-JUDAH,637.122
+1	un	CONJ	און	AvN	_
+2	vider	ADV	װידער	Vyder	_
+3	eyn	D	אײן	AYN	_
+4	punkt	N	פּונקט	pvnkt	_
+5	iz	VBF	איז	Ayz	_
+6	az	C	אַז	Aaz	_
+7	es	ES	עס	es	_
+8	zoll	MDF	זאָלל	zAoll	_
+9	oyf	RP	אױף	AWF	_
+10	herin	VB	הערין	heryN	_
+11	di	D	די	dy	_
+12	art	N	אַרט	Aart	_
+13	vi	WADV	װי	Vy	_
+14	men	PRO	מען	meN	_
+15	hot	HVF	האָט	hAot	_
+16	biz	P	ביז	byz	_
+17	aher	ADV	אַהער	Aaher	_
+18	di	D	די	dy	_
+19	prtsesin	N	פּרצעסין	prqesyN	_
+20	gefurt	VBN	געפֿורט	gefvrt	_
+
+SENT	1848E-JUDAH,637.123
+1	es	ES	עס	es	_
+2	zoll	MDF	זאָלל	zAoll	_
+3	nist	NEG	ניסט	nyst	_
+4	mehr	ADV	מעהר	mehr	_
+5	gdoyren	VB	גדױרען	gdWreN	_
+6	a	D	אַ	Aa	_
+7	pratses	N	פּראַצעס	prAaqes	_
+8	imim	H	אימים	AymyM	days
+9	usnim	H	אוסנים	AvsnyM	and_years
+
+SENT	1848E-JUDAH,637.124
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	zol	MDF	זאָל	zAol	_
+4	nist	NEG	ניסט	nyst	_
+5	darfin	MD	דאַרפֿין	dAarfyN	_
+6-8	ontsusreybin	RP~TO~VB	אָנצוסרײבין	AonqvsrYbyN	_
+6	on	RP	אָן	AoN	_
+7	tsu	TO	צו	qv	_
+8	sreybin	VB	סרײבין	srYbyN	_
+9	gantse	ADJ	גאַנצע	gAanqe	_
+10	hortes	N	האָרטעס	hAortes	_
+11	mit	P	מיט	myt	_
+12	papir	N	פּאַפּיר	pAapyr	_
+
+SENT	1848E-JUDAH,637.125
+1	es	ES	עס	es	_
+2	zolin	MDF	זאָלין	zAolyN	_
+3	liebir	ADV	ליִעביר	lyiebyr	_
+4	alle	Q	אַללע	Aalle	_
+5	pratsesin	N	פּראַצעסין	prAaqesyN	_
+6	zeyn	VB	זײן	zYN	_
+7	bel	H	בעל	bel	UNKNOWN
+8	ph	H	פּה	ph	UNKNOWN
+9	mindlikh	ADJ	מינדליך	myndlyX	_
+10	un	CONJ	און	AvN	_
+11	efentlikh	ADJ	עפֿענטליך	efentlyX	_
+
+SENT	1848E-JUDAH,637.126
+1	itlikher	Q	איטליכער	Aytlyxer	_
+2	zol	MDF	זאָל	zAol	_
+3	herin	VB	הערין	heryN	_
+4	un	CONJ	און	AvN	_
+5	zehin	VB	זעהין	zehyN	_
+6	iber	P	איבער	Ayber	_
+7	vos	WPRO	װאָס	VAos	_
+8	men	PRO	מען	meN	_
+9	lad	VBF	לאַד	lAad	_
+10	zikh	PRO	זיך	zyX	_
+
+SENT	1848E-JUDAH,637.127
+1	der	D	דער	der	_
+2	sendzie	N	סענדזיִע	sendzyie	_
+3	un	CONJ	און	AvN	_
+4	dos	D	דאָס	dAos	_
+5	magistrat	N	מאַגיסטראַט	mAagystrAat	_
+6	zol	MDF	זאָל	zAol	_
+7	tikf	ADV	טיקף	tykF	_
+8	gebin	VB	געבין	gebyN	_
+9	den	D	דען	deN	_
+10	psk	N	פּסק	psk	_
+
+SENT	1848E-JUDAH,637.128
+1	un	CONJ	און	AvN	_
+2	zol	MDF	זאָל	zAol	_
+3	shoyn	ADV	שױן	$WN	_
+4	nist	NEG	ניסט	nyst	_
+5	kenin	MD	קענין	kenyN	_
+6-7	ontin	RP~VB	אָנטין	AontyN	_
+6	on	RP	אָן	AoN	_
+7	tin	VB	טין	tyN	_
+8	azuni	ADJ	אַזוני	Aazvny	_
+9	tsrut	N	צרוט	qrvt	_
+
+SENT	1848E-JUDAH,637.129
+1	oykh	ADV	אױך	AWX	_
+2-3	beym	P~D	בײם	bYM	_
+2	bey	P	בײ	bY	_
+3	m	D	מ	m	_
+4	kriminal	N	קרימינאַל	krymynAal	_
+5	zol	MDF	זאָל	zAol	_
+6	gants	ADV	גאַנץ	gAanQ	_
+7	anderst	ADV	אַנדערסט	Aanderst	_
+8	zeyn	VB	זײן	zYN	_
+
+SENT	1848E-JUDAH,637.130
+1	es	ES	עס	es	_
+2	zol	MDF	זאָל	zAol	_
+3	itlikher	Q	איטליכער	Aytlyxer	_
+4	mensh	N	מענש	men$	_
+5	kenin	MD	קענין	kenyN	_
+6	herin	VB	הערין	heryN	_
+7	un	CONJ	און	AvN	_
+8	zehin	VB	זעהין	zehyN	_
+9	vi_azu	WADV	װי_אַזו	Vy_Aazv	_
+10	men	PRO	מען	meN	_
+11	nemt	VBF	נעמט	nemt	_
+12	un	P	און	AvN	_
+13	ferher	N	פֿערהער	ferher	_
+14	dem	D	דעם	deM	_
+15	vos	C	װאָס	VAos	_
+16	men	PRO	מען	meN	_
+17	iz	VBF	איז	Ayz	_
+18	khoyshed	RP-H	חושד	Hv$d	_
+19	un	CONJ	און	AvN	_
+20	di	D	די	dy	_
+21	edut	N	עדוט	edvt	_
+22	vos	C	װאָס	VAos	_
+23	zey	PRO	זײ	zY	_
+24	veysin	VBF	װײסין	VYsyN	_
+25	fun	P	פֿון	fvN	_
+26	der	D	דער	der	_
+27	zakh	N	זאַך	zAaX	_
+
+SENT	1848E-JUDAH,637.131
+1	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+2	zol	MDF	זאָל	zAol	_
+3	nist	NEG	ניסט	nyst	_
+4	eyn	D	אײן	AYN	_
+5	beamter	N	בעאַמטער	beAamter	_
+6	pskinn	VB	פּסקינן	pskynN	_
+7	tsu	C	צו	qv	_
+8	der	D	דער	der	_
+9	mensh	N	מענש	men$	_
+10	vos	C	װאָס	VAos	_
+11	men	PRO	מען	meN	_
+12	hot	HVF	האָט	hAot	_
+13	em	PRO	עם	eM	_
+14	ginimin	VBN	גינימין	gynymyN	_
+15	in	P	אין	AyN	_
+16	di	D	די	dy	_
+17	inkvizitsie	N	אינקװיזיציִע	AynkVyzyqyie	_
+18	hot	HVF	האָט	hAot	_
+19	begangin	VBN	בעגאַנגין	begAangyN	_
+20	eyn	D	אײן	AYN	_
+21	kriminal_ferbrekhin	N	קרימינאַל_פֿערברעכין	krymynAal_ferbrexyN	_
+22	tsu	CONJ	צו	qv	_
+23	neyn	INTJ	נײן	nYN	_
+
+SENT	1848E-JUDAH,637.132
+1	nor	CONJ	נאָר	nAor	_
+2	etlikhe	Q	עטליכע	etlyxe	_
+3	berger	N	בערגער	berger	_
+4	dafke	ADV	דװקא	dVkA	_
+5	nist	NEG	ניסט	nyst	_
+6	keyn	Q	קײן	kYN	_
+7	glernte	N	גלערנטע	glernte	_
+8	nor	CONJ	נאָר	nAor	_
+9	proste	ADJ	פּראָסטע	prAoste	_
+10	erlikhe	ADJ	ערליכע	erlyxe	_
+11	gisvorene	ADJ	גיסװאָרענע	gysVAorene	_
+12	leyt	N	לײט	lYt	_
+13	mit	P	מיט	myt	_
+14	seykhl	N	שׂכל	Cxl	_
+15	zolin	MDF	זאָלין	zAolyN	_
+16	pskinn	VB	פּסקינן	pskynN	_
+17	tsu	C	צו	qv	_
+18	iz	VBF	איז	Ayz	_
+19	der	D	דער	der	_
+20	mensh	N	מענש	men$	_
+21	shuldig	ADJ	שולדיג	$vldyg	_
+22	oder	CONJ	אָדער	Aoder	_
+23	unshuldig	ADJ	אונשולדיג	Avn$vldyg	_
+
+SENT	1848E-JUDAH,637.133
+1	tsu	P	צו	qv	_
+2	azuni	ADJ	אַזוני	Aazvny	_
+3	zakhin	N	זאַכין	zAaxyN	_
+4	bedarf	MDF	בעדאַרף	bedAarF	_
+5	men	PRO	מען	meN	_
+6	nist	NEG	ניסט	nyst	_
+7	tsu	TO	צו	qv	_
+8	zeyn	VB	זײן	zYN	_
+9	keyn	Q	קײן	kYN	_
+10	groyser	ADJ	גרױסער	grWser	_
+11	lamdn	N	למדן	lmdN	_
+
+SENT	1848E-JUDAH,637.134
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	beamtin	N	בעאַמטין	beAamtyN	_
+4	zolin	MDF	זאָלין	zAolyN	_
+5	nor	FP	נאָר	nAor	_
+6	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+7	zagin	VB	זאַגין	zAagyN	_
+8	vos	WPRO	װאָס	VAos	_
+9	fr	P	פֿר	fr	_
+10	eyn	D	אײן	AYN	_
+11	strafe	N	סטראַפֿע	strAafe	_
+12	es	ES	עס	es	_
+13	kumt	VBF	קומט	kvmt	_
+14	dem	D	דעם	deM	_
+15	vos	C	װאָס	VAos	_
+16	di	D	די	dy	_
+17	gishvaoyrenin	N	גישװאַױרענין	gy$VAaWrenyN	_
+18	hobin	HVF	האָבין	hAobyN	_
+19	gizogt	VBN	גיזאָגט	gyzAogt	_
+20	az	C	אַז	Aaz	_
+21	er	PRO	ער	er	_
+22	hot	HVF	האָט	hAot	_
+23	eubr	RP-H	עובר	evbr	_
+24	given	VBN	גיװען	gyVeN	_
+
+SENT	1848E-JUDAH,637.135
+1	oyf	P	אױף	AWF	_
+2	a	D	אַ	Aa	_
+3	zoyn	ADJ	זױן	zWN	_
+4	art	N	אַרט	Aart	_
+5	ken	MDF	קען	keN	_
+6	a	D	אַ	Aa	_
+7	mensh	N	מענש	men$	_
+8	nist	NEG	ניסט	nyst	_
+9	mehr	ADV	מעהר	mehr	_
+10	in	P	אין	AyN	_
+11	kriminal	N	קרימינאַל	krymynAal	_
+12	ferfalin	VX	פֿערפֿאַלין	ferfAalyN	_
+13	verin	RD	װערין	VeryN	_
+
+SENT	1848E-JUDAH,637.136
+1	es	PRO	עס	es	_
+2	nemt	VBF	נעמט	nemt	_
+3	gishvind	ADV	גישװינד	gy$Vynd	_
+4	eyn	D	אײן	AYN	_
+5	ek	N	עק	ek	_
+
+SENT	1848E-JUDAH,637.137
+1	iz	VBF	איז	Ayz	_
+2	eyner	PRO	אײנער	AYner	_
+3	unshuldig	ADJ	אונשולדיג	Avn$vldyg	_
+4	vet	MDF	װעט	Vet	_
+5	er	PRO	ער	er	_
+6	tikf	ADV	טיקף	tykF	_
+7	befreyt	VAN	בעפֿרײט	befrYt	_
+
+SENT	1848E-JUDAH,637.138
+1	un	CONJ	און	AvN	_
+2	bedarf	MDF	בעדאַרף	bedAarF	_
+3	nist	NEG	ניסט	nyst	_
+4	lang	ADV	לאַנג	lAang	_
+5	tsu	TO	צו	qv	_
+6	zitsen	VB	זיצען	zyqeN	_
+7	biz	P	ביז	byz	_
+8	vanin	WADV	װאַנין	VAanyN	_
+9	men	PRO	מען	meN	_
+10	vet	VBF	װעט	Vet	_
+11	erst	ADV	ערסט	erst	_
+12	givar	ADJ	גיװאַר	gyVAar	_
+13	az	C	אַז	Aaz	_
+14	er	PRO	ער	er	_
+15	iz	VBF	איז	Ayz	_
+16	unsuldig	ADJ	אונסולדיג	Avnsvldyg	_
+
+SENT	1848E-JUDAH,637.139
+1	iz	VBF	איז	Ayz	_
+2	eyner	PRO	אײנער	AYner	_
+3	shuldig	ADJ	שולדיג	$vldyg	_
+4	bekumt	VBF	בעקומט	bekvmt	_
+5	er	PRO	ער	er	_
+6	bald	ADV	באַלד	bAald	_
+7	zeyn	PRO$	זײן	zYN	_
+8	posik	N	פּאָסיק	pAosyk	_
+
+SENT	1848E-JUDAH,637.140
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	plogt	VBF	פּלאָגט	plAogt	_
+4	em	PRO	עם	eM	_
+5	nist	NEG	ניסט	nyst	_
+6	mehr	QR	מעהר	mehr	_
+7	vi	P	װי	Vy	_
+8	men	PRO	מען	meN	_
+9	bedarf	VBF	בעדאַרף	bedAarF	_
+10	un	CONJ	און	AvN	_
+11	vi	P	װי	Vy	_
+12	er	PRO	ער	er	_
+13	hot	HVF	האָט	hAot	_
+14	ferdint	VBN	פֿערדינט	ferdynt	_
+
+SENT	1848E-JUDAH,637.141
+1	mit	P	מיט	myt	_
+2	alle	Q	אַללע	Aalle	_
+3	punktin	N	פּונקטין	pvnktyN	_
+4	zenin	BEF	זענין	zenyN	_
+5	eynige	Q	אײניגע	AYnyge	_
+6	menshin	N	מענשין	men$yN	_
+7	tsvishen	P	צװישען	qVy$eN	_
+8	zey	PRO	זײ	zY	_
+9	zenin	BEF	זענין	zenyN	_
+10	oykh	ADV	אױך	AWX	_
+11	given	VBN	גיװען	gyVeN	_
+12	tsvey	NUM	צװײ	qVY	_
+13	yudin	N	יודין	yvdyN	_
+14	purim	NPR	פּורים	pvryM	_
+15	fr_nakht	ADV	פֿר_נאַכט	fr_nAaxt	_
+16	oyf	RP	אױף	AWF	_
+17	gigangin	VBN	גיגאַנגין	gygAangyN	_
+18	tsu	P	צו	qv	_
+19	unzerm	PRO$	אונזערם	AvnzerM	_
+20	hern	N	הערן	herN	_
+21	guverner	N	גוּװערנער	gUVerner	_
+22	stadion	NPR	סטאַדיִאָן	stAadyiAoN	_
+23	lang	ADV	לאַנג	lAang	_
+24	lebin	VB	לעבין	lebyN	_
+25	zol	MDF	זאָל	zAol	_
+26	er	PRO	ער	er	_
+
+SENT	1848E-JUDAH,637.142
+1	un	CONJ	און	AvN	_
+2	hobin	HVF	האָבין	hAobyN	_
+3	em	PRO	עם	eM	_
+4	iber_gebin	VBN	איבער_געבין	Ayber_gebyN	_
+5	di	D	די	dy	_
+6	bksh	N	בקש	bk$	_
+
+SENT	1848E-JUDAH,637.143
+1	un	CONJ	און	AvN	_
+2	hobin	HVF	האָבין	hAobyN	_
+3	em	PRO	עם	eM	_
+4	gebetin	VBN	געבעטין	gebetyN	_
+5	az	C	אַז	Aaz	_
+6	er	PRO	ער	er	_
+7	zol	MDF	זאָל	zAol	_
+8	iber_sukin	VB	איבער_סוקין	Ayber_svkyN	_
+9	di	D	די	dy	_
+10	bksh	N	בקש	bk$	_
+11-12	tsum	P~D	צום	qvM	_
+11	tsu	P	צו	qv	_
+12	m	D	מ	m	_
+13	keyzer	N	קײזער	kYzer	_
+
+SENT	1848E-JUDAH,637.144
+1	khuts	P	חוץ	HvQ	_
+2	dem	D	דעם	deM	_
+3	hobin	HVF	האָבין	hAobyN	_
+4	zey	PRO	זײ	zY	_
+5	em	PRO	עם	eM	_
+6	gbetin	VBN	גבעטין	gbetyN	_
+7	az	C	אַז	Aaz	_
+8	er	PRO	ער	er	_
+9	zol	MDF	זאָל	zAol	_
+10	tikf	ADV	טיקף	tykF	_
+11	aroys	ADV	אַרױס	AarWs	_
+12	lozin	VB	לאָזין	lAozyN	_
+13	di	D	די	dy	_
+14	pulise	ADJ	פּוליסע	pvlyse	_
+15	pritisim	N	פּריטיסים	prytysyM	_
+16	vos	C	װאָס	VAos	_
+17	zitsen	VBF	זיצען	zyqeN	_
+18	un	P	און	AvN	_
+19	lemberger	ADJ	לעמבערגער	lemberger	_
+20	krimnal	N	קרימנאַל	krymnAal	_
+
+SENT	1848E-JUDAH,637.145
+1	unzer	PRO$	אונזער	Avnzer	_
+2	guter	ADJ	גוטער	gvter	_
+3	guverner	N	גוּװערנער	gUVerner	_
+4	hot	HVF	האָט	hAot	_
+5	giton	VBN	גיטאָן	gytAoN	_
+6	vi	P	װי	Vy	_
+7	eyn	D	אײן	AYN	_
+8	gitreyer	ADJ	גיטרײער	gytrYer	_
+9	fater	N	פֿאַטער	fAater	_
+
+SENT	1848E-JUDAH,637.146
+1	die	D	דיִע	dyie	_
+2	bksh	N	בקש	bk$	_
+3	hot	HVF	האָט	hAot	_
+4	er	PRO	ער	er	_
+5	tikf	ADV	טיקף	tykF	_
+6	i	X	אי	Ay	_
+7	geshikt	VBN	געשיקט	ge$ykt	_
+8-9	tsum	P~D	צום	qvM	_
+8	tsu	P	צו	qv	_
+9	m	D	מ	m	_
+10	keyzr	N	קײזר	kYzr	_
+
+SENT	1848E-JUDAH,637.147
+1	un	CONJ	און	AvN	_
+2	hot	HVF	האָט	hAot	_
+3	tikf	ADV	טיקף	tykF	_
+4	giheysin	VBN	גיהײסין	gyhYsyN	_
+5	aroys	ADV	אַרױס	AarWs	_
+6	lozin	VB	לאָזין	lAozyN	_
+7	di	D	די	dy	_
+8	gefangenen	N	געפֿאַנגענען	gefAangeneN	_
+
+SENT	1848E-JUDAH,637.148
+1	ver	WPRO	װער	Ver	_
+2	es	ES	עס	es	_
+3	hot	HVF	האָט	hAot	_
+4	gizehin	VBN	גיזעהין	gyzehyN	_
+5	vi	C	װי	Vy	_
+6	di	D	די	dy	_
+7	gefangene	ADJ	געפֿאַנגענע	gefAangene	_
+8	pulin	NPR	פּולין	pvlyN	_
+9	zenin	BEF	זענין	zenyN	_
+10	befreyt	VAN	בעפֿרײט	befrYt	_
+11	gevarin	RDN	געװאַרין	geVAaryN	_
+12	vi	WADV	װי	Vy	_
+13	zey	PRO	זײ	zY	_
+14	hobin	HVF	האָבין	hAobyN	_
+15	zikh	PRO	זיך	zyX	_
+16	gkust	VBN	גקוסט	gkvst	_
+17	mit	P	מיט	myt	_
+18	zeyere	PRO$	זײערע	zYere	_
+19	veybir	N	װײביר	VYbyr	_
+20	un	CONJ	און	AvN	_
+21	kinder	N	קינדער	kynder	_
+22	dem	D	דעם	deM	_
+23	iz	BEF	איז	Ayz	_
+24	far	P	פֿאַר	fAar	_
+25	smkhh	N	סמכה	smxh	_
+26	trerin	N	טרערין	treryN	_
+27	in	P	אין	AyN	_
+28	di	D	די	dy	_
+29	oygin	N	אױגין	AWgyN	_
+30	gstanin	VBN	גסטאַנין	gstAanyN	_
+
+SENT	1848E-JUDAH,637.149
+1	un	CONJ	און	AvN	_
+2	dos	D	דאָס	dAos	_
+3	hot	HVF	האָט	hAot	_
+4	men	PRO	מען	meN	_
+5	ghat	VBN	גהאַט	ghAat	_
+6	tsu	TO	צו	qv	_
+7	verdankin	VB	װערדאַנקין	VerdAankyN	_
+8	unzerm	PRO$	אונזערם	AvnzerM	_
+9	guldenn	ADJ	גולדענן	gvldenN	_
+10	guvernher	N	גוּװערנהער	gUVernher	_
+
+SENT	1848E-JUDAH,637.150
+1	gott	NPR	גאָטט	gAott	_
+2	zoll	MDF	זאָלל	zAoll	_
+3	ihm	PRO	איהם	AyhM	_
+4	a	D	אַ	Aa	_
+5	lang	ADJ	לאַנג	lAang	_
+6	un	CONJ	און	AvN	_
+7	gezund	ADJ	געזונד	gezvnd	_
+8	un	CONJ	און	AvN	_
+9	gliklikh	ADJ	גליקליך	glyklyX	_
+10	lebin	N	לעבין	lebyN	_
+11	der_far	DR+P	דער_פֿאַר	der_fAar	_
+12	shenkin	VB	שענקין	$enkyN	_
+13	:	PUNC	:	:	_
+
+SENT	1848E-JUDAH,637.151
+1	veyst	VBF	װײסט	VYst	_
+2	etts	PRO	עטץ	etQ	_
+3	vos	WPRO	װאָס	VAos	_
+4	unzr	PRO$	אונזר	Avnzr	_
+5	guldener	ADJ	גולדענער	gvldener	_
+6	gubernher	N	גובערנהער	gvbernher	_
+7	hot	HVF	האָט	hAot	_
+8	nakh	ADV	נ"ך	n"X	_
+9	gtahn	VBN	גטאַהן	gtAahN	_
+
+SENT	1848E-JUDAH,637.152
+1	es	ES	עס	es	_
+2	iz	BEF	איז	Ayz	_
+3	gvezin	VBN	גװעזין	gVezyN	_
+4	in	P	אין	AyN	_
+5	lemberg	NPR	לעמבערג	lemberg	_
+6	a	D	אַ	Aa	_
+7	heykher	ADJ	הײכער	hYxer	_
+8	beamter	N	בעאַמטער	beAamter	_
+9	der	D	דער	der	_
+10	iz	BEF	איז	Ayz	_
+11	gven	VBN	גװען	gVeN	_
+12	eyn	D	אײן	AYN	_
+13	is	H	איס	Ays	person
+14	tsr	H	צר	qr	UNKNOWN
+15	uaoyb	H	אואַױב	AvAaWb	UNKNOWN
+16	un	CONJ	און	AvN	_
+17	bfrat	ADV	בפֿראַט	bfrAat	_
+18	a	D	אַ	Aa	_
+19	soyna	H	סױנאַ	sWnAa	eneny
+20	isral	NPR	איסראַל	AysrAal	_
+
+SENT	1848E-JUDAH,637.153
+1	den	D	דען	deN	_
+2	hot	HVF	האָט	hAot	_
+3	der	D	דער	der	_
+4	guverner	N	גוּװערנער	gUVerner	_
+5	um	P	אום	AvM	_
+6	purim	NPR	פּורים	pvryM	_
+7	mslh	H	מסלה	mslh	UNKNOWN
+8	gben	VBN	גבען	gbeN	_
+9	a	D	אַ	Aa	_
+10	guten	ADJ	גוטען	gvteN	_
+11	shlitveg	N	שליטװעג	$lytVeg	_
+
+SENT	1848E-JUDAH,637.154
+1	der_nokh	DR+P	דער_נאָך	der_nAoX	_
+2	hot	HVF	האָט	hAot	_
+3	oykh	ADV	אױך	AWX	_
+4	der	D	דער	der	_
+5	guverner	N	גוּװערנער	gUVerner	_
+6	pazvolit	VBN	פּאַזװאָליט	pAazVAolyt	_
+7	az	C	אַז	Aaz	_
+8	di	D	די	dy	_
+9	studentin	N	סטודענטין	stvdentyN	_
+10	un	CONJ	און	AvN	_
+11	di	D	די	dy	_
+12	bergir	N	בערגיר	bergyr	_
+13	zolin	MDF	זאָלין	zAolyN	_
+14	verin	VB	װערין	VeryN	_
+15	natsional_gardisten	N	נאַציִאָנאַל_גאַרדיסטען	nAaqyiAonAal_gAardysteN	_
+16	kdi	ADV	קדי	kdy	_
+17	men	PRO	מען	meN	_
+18	zoll	MDF	זאָלל	zAoll	_
+19	kenin	MD	קענין	kenyN	_
+20	haltin	VB	האַלטין	hAaltyN	_
+21	ruhe	N	רוהע	rvhe	_
+22	un	CONJ	און	AvN	_
+23	ordnung	N	אָרדנונג	Aordnvng	_
+24	tsvisen	P	צװיסען	qVyseN	_
+25	dem	D	דעם	deM	_
+26	gimeynin	ADJ	גימײנין	gymYnyN	_
+27	eulm	N	עולם	evlM	_
+28	vos	C	װאָס	VAos	_
+29	er	PRO	ער	er	_
+30	hot	HVF	האָט	hAot	_
+31-32	angehoybin	RP~VBN	אַנגעהױבין	AangehWbyN	_
+31	an	RP	אַן	AaN	_
+32	gehoybin	VBN	געהױבין	gehWbyN	_
+33	tsu	TO	צו	qv	_
+34	sreyen	VB	סרײען	srYeN	_
+35	az	C	אַז	Aaz	_
+36	er	PRO	ער	er	_
+37	vil	VBF	װיל	Vyl	_
+38	oykh	ADV	אױך	AWX	_
+39	givehr	N	גיװעהר	gyVehr	_
+
+SENT	1848E-JUDAH,637.155
+1	di	D	די	dy	_
+2	reykhste	ADJS	רײכסטע	rYxste	_
+3	leyt	N	לײט	lYt	_
+4	un	CONJ	און	AvN	_
+5	di	D	די	dy	_
+6	gresti	ADJS	גרעסטי	gresty	_
+7	feyni	ADJ	פֿײני	fYny	_
+8	briut	N	בריִוט	bryivt	_
+9	fun	P	פֿון	fvN	_
+10	krustin	N	קרוסטין	krvstyN	_
+11	un	CONJ	און	AvN	_
+12	fun	P	פֿון	fvN	_
+13	yudin	N	יודין	yvdyN	_
+14	,	PUNC	,	,	_
+15	ferstin	N	פֿערסטין	ferstyN	_
+16	grafin	N	גראַפֿין	grAafyN	_
+17	berger	N	בערגער	berger	_
+18	in	CONJ	אין	AyN	_
+19	soykhrim	N	סױכרים	sWxryM	_
+20	zenin	BEF	זענין	zenyN	_
+21	glofin	VBN	גלאָפֿין	glAofyN	_
+22	brtsun	H	ברצון	brqvN	in_will
+23	tub	H	טוב	tvb	good
+24	zikh	PRO	זיך	zyX	_
+25	eyn	RP	אײן	AYN	_
+26	shreybin	VB	שרײבין	$rYbyN	_
+27	tsu	P	צו	qv	_
+28	der	D	דער	der	_
+29	natsional_garde	N	נאַציִאָנאַל_גאַרדע	nAaqyiAonAal_gAarde	_
+30	vi	P	װי	Vy	_
+31	nokh	X	נאָך	nAoX	_
+32	msh	X	מש	m$	_
+33	vater	X	װאַטער	VAater	_
+34	,	PUNC	,	,	_
+
+SENT	1848E-JUDAH,637.156
+1	un	CONJ	און	AvN	_
+2	alle	Q	אַללע	Aalle	_
+3	nakht	N	נאַכט	nAaxt	_
+4	geyen	VBF	גײען	gYeN	_
+5	natsional_gardisten	N	נאַציִאָנאַל_גאַרדיסטען	nAaqyiAonAal_gAardysteN	_
+6	oyf	P	אױף	AWF	_
+7	patrole	N	פּאַטראָלע	pAatrAole	_
+8	,	PUNC	,	,	_
+
+SENT	1848E-JUDAH,637.157
+1	un	CONJ	און	AvN	_
+2	fun	P	פֿון	fvN	_
+3	dentsmolst	ADV	דענצמאָלסט	denqmAolst	_
+4	on	RP	אָן	AoN	_
+5	lebt	VBF	לעבט	lebt	_
+6	men	PRO	מען	meN	_
+7	bey	P	בײ	bY	_
+8	unts	PRO	אונץ	AvnQ	_
+9	bsholem	H	בשאָלעם	b$AoleM	in_peace
+10	ve-bshluh	H	װע-בשלוה	Ve-b$lvh	and_in_calm
+
+SENT	1848E-JUDAH,637.158
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	freyt	VBF	פֿרײט	frYt	_
+4	zikh	PRO	זיך	zyX	_
+5	azoy	ADV	אַזױ	AazW	_
+6	vi	P	װי	Vy	_
+7	in	P	אין	AyN	_
+8	di	D	די	dy	_
+9	tsvey	NUM	צװײ	qVY	_
+10	tag	N	תּג	Tg	_
+11	purim	NPR	פּורים	pvryM	_
+12	vi	WADV	װי	Vy	_
+13	men	PRO	מען	meN	_
+14	hot	HVF	האָט	hAot	_
+15	bey	P	בײ	bY	_
+16	der	D	דער	der	_
+17	nakht	N	נאַכט	nAaxt	_
+18	di	D	די	dy	_
+19	gantse	ADJ	גאַנצע	gAanqe	_
+20	shtot	N	שטאָט	$tAot	_
+21	beleykht	VBN	בעלײכט	belYxt	_
+
+SENT	1848E-JUDAH,637.159
+1	men	X	מען	meN	_
+2	meg	MDF	מעג	meg	_
+3	mir	PRO	מיר	myr	_
+4	zikh	PRO	זיך	zyX	_
+5	take	ADV	טאַקע	tAake	_
+6	veyter	ADV	װײטער	VYter	_
+7	alle	Q	אַללע	Aalle	_
+8	mentshin	N	מענטשין	ment$yN	_
+9	yudin	N	יודין	yvdyN	_
+10	un	CONJ	און	AvN	_
+11	krustin	N	קרוסטין	krvstyN	_
+12	zeyer	ADV	זײער	zYer	_
+13	msmkh	RP-H	מסמך	msmX	_
+14	zeyn	VB	זײן	zYN	_
+15	un	CONJ	און	AvN	_
+16	zikh	PRO	זיך	zyX	_
+17	makhin	VB	מאַכין	mAaxyN	_
+18	smkht	H	סמכט	smxt	joys
+19	turh	H	טורה	tvrh	Torah
+
+SENT	1848E-JUDAH,637.160
+1	vorin	CONJ	װאָרין	VAoryN	_
+2	es	ES	עס	es	_
+3	iz	BEF	איז	Ayz	_
+4	oyf	P	אױף	AWF	_
+5	unz	PRO	אונז	Avnz	_
+6	alle	Q	אַללע	Aalle	_
+7	gekumin	VBN	געקומין	gekvmyN	_
+8	a	D	אַ	Aa	_
+9	ysueh	N	יסועה	ysveh	_
+
+SENT	1848E-JUDAH,637.161
+1	un	CONJ	און	AvN	_
+2	es	ES	עס	es	_
+3	vet	MDF	װעט	Vet	_
+4	avade	ADV	אַװדאי	AaVdAy	_
+5	aldung	Q	אַלדונג	Aaldvng	_
+6	tsu	P	צו	qv	_
+7	gitin	N	גיטין	gytyN	_
+8	oys	RP	אױס	AWs	_
+9	geyn	VB	גײן	gYN	_
+
+SENT	1848E-JUDAH,637.162
+1	men	X	מען	meN	_
+2	darf	MDF	דאַרף	dAarF	_
+3	mir	PRO	מיר	myr	_
+4	nor	FP	נאָר	nAor	_
+5	tsind	ADV	צינד	qynd	_
+6	tsu	RP	צו	qv	_
+7	zehin	VB	זעהין	zehyN	_
+8	az	C	אַז	Aaz	_
+9	men	X	מען	meN	_
+10	zol	MDF	זאָל	zAol	_
+11	mir	PRO	מיר	myr	_
+12	alle	Q	אַללע	Aalle	_
+13	mentsin	N	מענצין	menqyN	_
+14	zeyn	VB	זײן	zYN	_
+15	gitreye	ADJ	גיטרײע	gytrYe	_
+16	bruder	N	ברודער	brvder	_
+17	un	CONJ	און	AvN	_
+18	freynd	N	פֿרײנד	frYnd	_
+
+SENT	1848E-JUDAH,638.164
+1	un	CONJ	און	AvN	_
+2	haynt	ADV	הײַנט	hYant	_
+3	az	C	אַז	Aaz	_
+4	di	D	די	dy	_
+5	krustin	N	קרוסטין	krvstyN	_
+6	varfin	VBF	װאַרפֿין	VAarfyN	_
+7	avek	RP-ADV	אַװעק	AaVek	_
+8	di	D	די	dy	_
+9	snah	H	סנאַה	snAah	UNKNOWN
+10	knah	H	קנאַה	knAah	UNKNOWN
+11	kegin	P	קעגין	kegyN	_
+12	di	D	די	dy	_
+13	yudin	N	יודין	yvdyN	_
+14	velin	MDF	װעלין	VelyN	_
+15	mir	PRO	מיר	myr	_
+16	bni	H	בני	bny	sons
+17	isral	NPR	איסראַל	AysrAal	_
+18	vos	C	װאָס	VAos	_
+19	men	PRO	מען	meN	_
+20	hobin	HVF	האָבין	hAobyN	_
+21	mir	PRO	מיר	myr	_
+22	tomed	ADV	תּמיד	Tmyd	_
+23	gihat	VBN	גיהאַט	gyhAat	_
+24	gute	ADJ	גוטע	gvte	_
+25	hertser	N	הערצער	herqer	_
+26	avade	ADV	אַװדאי	AaVdAy	_
+27	mit	P	מיט	myt	_
+28	di	D	די	dy	_
+29	krustin	N	קרוסטין	krvstyN	_
+30	zeyn	VB	זײן	zYN	_
+31	eyn	D	אײן	AYN	_
+32	lb	N	לב	lb	_
+33	un	CONJ	און	AvN	_
+34	eyn	D	אײן	AYN	_
+35	nps	N	נפּס	nps	_
+
+SENT	1848E-JUDAH,638.165
+1	rbinu	H	רבינו	rbynv	rabbi_our
+2	hll	NPR	הלל	hll	_
+3	eliu	H	עליִו	elyiv	on_him
+4	hslum	H	הסלום	hslvM	the_peace
+5	der	D	דער	der	_
+6	tna	H	טנאַ	tnAa	UNKNOWN
+7	gdul	H	גדול	gdvl	great
+8	hot	HVF	האָט	hAot	_
+9	nokh	ADV	נאָך	nAoX	_
+10	var	P	װאַר	VAar	_
+11	tsvey_toyzent	NUM	צװײ_טױזענט	qVY_tWzent	_
+12	yor	N	יאָר	yAor	_
+13	gizagt	VBN	גיזאַגט	gyzAagt	_
+14	az	C	אַז	Aaz	_
+15	kl	Q	קל	kl	_
+16	turh	NPR	טורה	tvrh	_
+17	kulh	N	קולה	kvlh	_
+18	besteyt	VBF	בעסטײט	bestYt	_
+19	in	P	אין	AyN	_
+20	dem	D	דעם	deM	_
+21	eynin	NUM	אײנין	AYnyN	_
+22	psuk	N	פּסוק	psvk	_
+23	di	PRO	די	dy	_
+24	zolst	MDF	זאָלסט	zAolst	_
+25	di	D	די	dy	_
+26	andere	ADJ	אַנדערע	Aandere	_
+27	menshin	N	מענשין	men$yN	_
+28	zey	PRO	זײ	zY	_
+29	megin	MDF	מעגין	megyN	_
+30	zeyn	VB	זײן	zYN	_
+31	fun	P	פֿון	fvN	_
+32	vos	WPRO	װאָס	VAos	_
+33	fr	P	פֿר	fr	_
+34	a	D	אַ	Aa	_
+35	relugian	N	רעלוגיִאַן	relvgyiAaN	_
+36	zey	PRO	זײ	zY	_
+37	velin	MDF	װעלין	VelyN	_
+38	azu	ADV	אַזו	Aazv	_
+39	lib	RP-ADJ	ליב	lyb	_
+40	hobin	VB	האָבין	hAobyN	_
+41	vi	P	װי	Vy	_
+42	dekh	PRO	דעך	deX	_
+43	alleyn	ADV	אַללײן	AallYN	_
+
+SENT	1848E-JUDAH,638.166
+1	den	D	דען	deN	_
+2	psuk	N	פּסוק	psvk	_
+3	zol	MDF	זאָל	zAol	_
+4	mir	PRO	מיר	myr	_
+5	mit	P	מיט	myt	_
+6	guldene	ADJ	גולדענע	gvldene	_
+7	oysyes	N	אותיות	AvSyvS	_
+8-9	ongroben	RP~VB	אָנגראָבען	AongrAobeN	_
+8	on	RP	אָן	AoN	_
+9	groben	VB	גראָבען	grAobeN	_
+10	in	P	אין	AyN	_
+11	unzere	PRO$	אונזערע	Avnzere	_
+12	hertser	N	הערצער	herqer	_
+
+SENT	1848E-JUDAH,638.167
+1	un	CONJ	און	AvN	_
+2	in	P	אין	AyN	_
+3	unzerm	PRO$	אונזערם	AvnzerM	_
+4	gantsen	ADJ	גאַנצען	gAanqeN	_
+5	handel	N	האַנדעל	hAandel	_
+6	un	CONJ	און	AvN	_
+7	vandil	N	װאַנדיל	VAandyl	_
+8	zol	MDF	זאָל	zAol	_
+9	mir	PRO	מיר	myr	_
+10	tomid	ADV	טאָמיד	tAomyd	_
+11	azu	ADV	אַזו	Aazv	_
+12	lebin	VB	לעבין	lebyN	_
+13	vi	WADV	װי	Vy	_
+14	der	D	דער	der	_
+15	psuk	N	פּסוק	psvk	_
+16	heyst	VBF	הײסט	hYst	_
+
+SENT	1848E-JUDAH,638.168
+1	hsm	H	הסם	hsM	the_name
+2	itbrkh	H	איטברך	AytbrX	may_be_blessed
+3	vet	MDF	װעט	Vet	_
+4	far	P	פֿאַר	fAar	_
+5	dem	D	דעם	deM	_
+6	a	D	אַ	Aa	_
+7	brkhh	N	ברכה	brxh	_
+8	shikin	VB	שיקין	$ykyN	_
+9	oyf	P	אױף	AWF	_
+10	unz	PRO	אונז	Avnz	_
+11	un	CONJ	און	AvN	_
+12	oyf	P	אױף	AWF	_
+13	alle	Q	אַללע	Aalle	_
+14	menshin	N	מענשין	men$yN	_
+15	oyf	P	אױף	AWF	_
+16	unzre	PRO$	אונזרע	Avnzre	_
+17	un	CONJ	און	AvN	_
+18	zeyere	PRO$	זײערע	zYere	_
+19	kinder	N	קינדער	kynder	_
+20	in	CONJ	אין	AyN	_
+21	kinds_kinder	N	קינדס_קינדער	kynds_kynder	_
+22	amn	H	אַמן	AamN	amen
+
+SENT	1848E-JUDAH,638.169
+1	ktbt	H	קטבט	ktbt	writing_of
+2	blemberg	H	בלעמבערג	blemberg	at_Lemberg
+3	yom	H	יום	yvM	day
+4	a	H	אַ	Aa	one
+5	ka	H	קאַ	kAa	21
+6	oder	CONJ	אָדער	Aoder	_
+7	sni	H	סני	sny	two
+8	den	D	דען	deN	_
+9	20	NUM	20	20	_
+10	merts	NPR	מערץ	merQ	_
+11	1848	NUM	1848	1848	_
+12	itshk	NPR	איטשק	Ayt$k	_
+13	yhuda	NPR	יהודאַ	yhvdAa	_
+14	bn	NPR	בן	bN	_
+15	abrhm	NPR	אַברהם	AabrhM	_
+16	uhb	H	אוהב	Avhb	love
+17	isral	H	איסראַל	AysrAal	Israel
+18	ap	H	אַפּ	Aap	even
+19	hibb	H	היבב	hybb	cherish
+20	emis	H	עמיס	emys	peoples
+

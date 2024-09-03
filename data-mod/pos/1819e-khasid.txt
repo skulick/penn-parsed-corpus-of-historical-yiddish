@@ -1,0 +1,81 @@
+SENT	1819E-KHASID,.2
+1	zeht	VBI	זעהט	zeht	_
+2	dia	D	דיִאַ	dyiAa	_
+3	sunkeyt	N	סונקײט	svnkYt	_
+4	fun	P	פֿון	fvN	_
+5	dem	D	דעם	deM	_
+6	sfr	H	ספֿר	sfr	book
+7	musr	H	מוסר	mvsr	morality
+8	vas	C	װאַס	VAas	_
+9	biz	P	ביז	byz	_
+10	aher	ADV	אַהער	Aaher	_
+11	iz	BEF	איז	Ayz	_
+12	er	PRO	ער	er	_
+13	given	BEN	גיװען	gyVeN	_
+14	gsribn	VAN	גסריבן	gsrybN	_
+15	un	CONJ	און	AvN	_
+16	bhaltin	VAN	בהאַלטין	bhAaltyN	_
+17	un	CONJ	און	AvN	_
+18	keyn	Q	קײן	kYN	_
+19	oyg	N	אױג	AWg	_
+20	hat	HVF	האַט	hAat	_
+21	im	PRO	אים	AyM	_
+22	nit	NEG	ניט	nyt	_
+23	gilugt	VBN	גילוגט	gylvgt	_
+24	un	CONJ	און	AvN	_
+25	bklert	VBN	בקלערט	bklert	_
+26	vas	C	װאַס	VAas	_
+27	der	D	דער	der	_
+28	mkhbr	N	מכבר	mxbr	_
+29	hat	HVF	האַט	hAat	_
+30	im	PRO	אים	AyM	_
+31	ginumn	VBN	גינומן	gynvmN	_
+32	fun	P	פֿון	fvN	_
+33	grusi	ADJ	גרוסי	grvsy	_
+34	sfri	H	ספֿרי	sfry	books
+35	musr	H	מוסר	mvsr	morality
+36	un	CONJ	און	AvN	_
+37-38	tsum	P~D	צום	qvM	_
+37	tsu	P	צו	qv	_
+38	m	D	מ	m	_
+39	hoyf	N	הױף	hWF	_
+40	gstelt	VBN	גסטעלט	gstelt	_
+
+SENT	1819E-KHASID,.3
+1	der	D	דער	der	_
+2	mens	N	מענס	mens	_
+3	vas	C	װאַס	VAas	_
+4	vet	MDF	װעט	Vet	_
+5	in	P	אין	AyN	_
+6	ihm	PRO	איהם	AyhM	_
+7	lezin	VB	לעזין	lezyN	_
+8	vet	MDF	װעט	Vet	_
+9	fun	P	פֿון	fvN	_
+10	zeyn	PRO$	זײן	zYN	_
+11	its"hr	N	איצ"הר	Ayq"hr	_
+12	vern	RD	װערן	VerN	_
+13	gnezin	VX	גנעזין	gnezyN	_
+
+SENT	1819E-KHASID,.4
+1	mit	P	מיט	myt	_
+2	zeyn	PRO$	זײן	zYN	_
+3	zkhut	N	זכוט	zxvt	_
+4	veln	MDF	װעלן	VelN	_
+5	mir	PRO	מיר	myr	_
+6	bsermit	VAN	בסערמיט	bsermyt	_
+7	vern	RD	װערן	VerN	_
+8	fun	P	פֿון	fvN	_
+9	unzri	PRO$	אונזרי	Avnzry	_
+10	leyd	N	לײד	lYd	_
+
+SENT	1819E-KHASID,.5
+1	in	P	אין	AyN	_
+2	unzr	PRO$	אונזר	Avnzr	_
+3	land	N	לאַנד	lAand	_
+4	mit	P	מיט	myt	_
+5	gizang	N	גיזאַנג	gyzAang	_
+6	vern	RDF	װערן	VerN	_
+7	mir	PRO	מיר	myr	_
+8	vern	RD	װערן	VerN	_
+9	dr_freyt	VAN	דר_פֿרײט	dr_frYt	_
+

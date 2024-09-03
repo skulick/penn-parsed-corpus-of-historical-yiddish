@@ -1,0 +1,617 @@
+SENT	1712E-SARAH,83.3
+1	ikh	PRO	איך	AyX	_
+2	srh	NPR	סרה	srh	_
+3	bs	NPR	בס	bs	_
+4	tubim	NPR	טובים	tvbyM	_
+5	ikh	PRO	איך	AyX	_
+6	tu	VBF	טו	tv	_
+7	ds	D	דס	ds	_
+8	fun	P	פֿון	fvN	_
+9	vegn	N	װעגן	VegN	_
+10	libn	ADJ	ליבן	lybN	_
+11	got	NPR	גאָט	gAot	_
+12	b"h	H	ב"ה	b"h	blessed_he
+13	ub"s	H	אוב"ס	Avb"s	and_blessed_name_his
+
+SENT	1712E-SARAH,83.4
+1	un	CONJ	און	AvN	_
+2	bin	VBF	בין	byN	_
+3	msdr	RP-H	מסדר	msdr	_
+4	nokh	ADV	נאָך	nAoX	_
+5	eyn	D	אײן	AYN	_
+6	sheyne	ADJ	שײנע	$Yne	_
+7	naeye	ADJ	נאַײע	nAaYe	_
+8	tkhnh	N	טכנה	txnh	_
+9	el	H	על	el	on
+10	slsh	H	סלש	sl$	three
+11	seorim	H	סעאָרים	seAoryM	gates
+
+SENT	1712E-SARAH,83.5
+1	sher	H	שער	$er	gate
+2	hrasun	H	הראַסון	hrAasvN	the_first
+3	iz	BEF	איז	Ayz	_
+4	gstelt	VAN	גסטעלט	gstelt	_
+5	gvarn	RDN	גװאַרן	gVAarN	_
+6	oyf	P	אױף	AWF	_
+7	di	D	די	dy	_
+8	drey	NUM	דרײ	drY	_
+9	mtsut	N	מצוט	mqvt	_
+10	vs	C	װס	Vs	_
+11	mir	PRO	מיר	myr	_
+12	nsim	N	נסים	nsyM	_
+13	zenn	BEF	זענן	zenN	_
+14	varn	RDN	װאַרן	VAarN	_
+15	gbatn	VAN	גבאַטן	gbAatN	_
+
+SENT	1712E-SARAH,83.6
+1	khn"h	H	כנ"ה	xn"h	lighting_of_candles
+2	smutn	H	סמוטן	smvtN	names_their
+3	zeyer	PRO$	זײער	zYer	_
+4	namn	N	נאַמן	nAamN	_
+5	iz	VBF	איז	Ayz	_
+6	khn"h	H	כנ"ה	xn"h	lighting_of_candles
+7	.	PUNC	.	.	_
+8	klumr	H	קלומר	klvmr	namely
+9	hlh	H	הלה	hlh	challah
+10	.	PUNC	.	.	_
+11	ndh	H	נדה	ndh	lighting
+12	.	PUNC	.	.	_
+13	hdlkt	H	הדלקט	hdlkt	lighting
+14	hnr	H	הנר	hnr	the_candle
+15	.	PUNC	.	.	_
+
+SENT	1712E-SARAH,83.7
+1	un	CONJ	און	AvN	_
+2	sher	H	שער	$er	gate
+3	hsni	H	הסני	hsny	the_second
+4	iz	VBF	איז	Ayz	_
+5	eyn	D	אײן	AYN	_
+6	tkhnh	N	טכנה	txnh	_
+7	az	C	אַז	Aaz	_
+8	men	PRO	מען	meN	_
+9	bensht	VBF	בענשט	ben$t	_
+10	das	D	דת	dS	_
+11	khuds	N	כודס	xvds	_
+
+SENT	1712E-SARAH,83.8
+1	un	CONJ	און	AvN	_
+2	sher	H	שער	$er	gate
+3	hslisi	H	הסליסי	hslysy	the_third
+4	iz	VBF	איז	Ayz	_
+5	fun	P	פֿון	fvN	_
+6	imim	H	אימים	AymyM	days
+7	nuraim	H	נוראַיִם	nvrAayiM	awe-inspiring
+
+SENT	1712E-SARAH,83.9
+1	ikh	PRO	איך	AyX	_
+2	nem	VBF	נעם	neM	_
+3	tsu	P	צו	qv	_
+4	hilf	N	הילף	hylF	_
+5	dem	D	דעם	deM	_
+6	lebedign	ADJ	לעבעדיגן	lebedygN	_
+7	got	NPR	גאָט	gAot	_
+8	b"h	H	ב"ה	b"h	blessed_he
+9	vs	C	װס	Vs	_
+10	lebt	VBF	לעבט	lebt	_
+11	imer	ADV	אימער	Aymer	_
+12	un	CONJ	און	AvN	_
+13	evig	ADV	עװיג	eVyg	_
+
+SENT	1712E-SARAH,83.10
+1	un	CONJ	און	AvN	_
+2	shtel	VBF	שטעל	$tel	_
+3	di	D	די	dy	_
+4	tkhnh	N	טכנה	txnh	_
+5	uf	P	אוף	AvF	_
+6	teytsh	N	טײטש	tYt$	_
+7	mit	P	מיט	myt	_
+8	grus	ADJ	גרוס	grvs	_
+9	libshaft	N	ליבשאַפֿט	lyb$Aaft	_
+10	un	CONJ	און	AvN	_
+11	mit	P	מיט	myt	_
+12	farkht	N	פֿאַרכט	fAarxt	_
+13	un	CONJ	און	AvN	_
+14	mit	P	מיט	myt	_
+15	tsiternis	N	ציטערניס	qyternys	_
+16	mit	P	מיט	myt	_
+17	der_shreknis	N	דער_שרעקניס	der_$reknys	_
+18	mit	P	מיט	myt	_
+19	tsu_brakhene	ADJ	צו_בראַכענע	qv_brAaxene	_
+20	glidr	N	גלידר	glydr	_
+21	mit	P	מיט	myt	_
+22	fil	Q	פֿיל	fyl	_
+23	gbet	N	גבעט	gbet	_
+24	bzkhut	H	בזכוט	bzxvt	in_merit
+25	unzre	PRO$	אונזרע	Avnzre	_
+26	muters	N	מוטערס	mvters	_
+27	srh	NPR	סרה	srh	_
+28	rbkh	NPR	רבך	rbX	_
+29	rkhl	NPR	רכל	rxl	_
+30	lah	NPR	לאַה	lAah	_
+
+SENT	1712E-SARAH,83.11
+1	meyne	PRO$	מײנע	mYne	_
+2	libe	ADJ	ליבע	lybe	_
+3	muters	N	מוטערס	mvters	_
+4	zaln	MDF	זאַלן	zAalN	_
+5	fr	P	פֿר	fr	_
+6	mir	PRO	מיר	myr	_
+7	betn	VB	בעטן	betN	_
+8	gat	NPR	גאַט	gAat	_
+
+SENT	1712E-SARAH,83.12
+1	un	CONJ	און	AvN	_
+2	das	D	דת	dS	_
+3	vas	C	װאַס	VAas	_
+4	ikh	PRO	איך	AyX	_
+5	bin	VBF	בין	byN	_
+6	ne	H	נע	ne	move
+7	vnd	H	װנד	Vnd	and_wander
+8	zal	MDF	ז"ל	z"l	_
+9	mir	PRO	מיר	myr	_
+10	zeyn	VB	זײן	zYN	_
+11	eyn	D	אײן	AYN	_
+12	kprh	N	קפּרה	kprh	_
+13	uf	P	אוף	AvF	_
+14	meyne	PRO$	מײנע	mYne	_
+15	eunut	N	עונוט	evnvt	_
+
+SENT	1712E-SARAH,83.13
+1	un	CONJ	און	AvN	_
+2	hs"i	H	הס"אי	hs"Ay	his_name_may_be_blessed
+3	zal	MDF	ז"ל	z"l	_
+4	mir	PRO	מיר	myr	_
+5	mukhl	RP-H	מוכל	mvxl	_
+6	zeyn	VB	זײן	zYN	_
+7	vas	C	װאַס	VAas	_
+8	ikh	PRO	איך	AyX	_
+9	hab	HVF	האַב	hAab	_
+10	in	P	אין	AyN	_
+11	meyn	PRO$	מײן	mYN	_
+12	yugnt	N	יוגנט	yvgnt	_
+13	gesmuest	VBN	געסמועסט	gesmvest	_
+14	in	P	אין	AyN	_
+15	sul	N	סול	svl	_
+16	ven	C	װען	VeN	_
+17	men	PRO	מען	meN	_
+18	hat	HVF	האַט	hAat	_
+19	gileyent	VBN	גילײענט	gylYent	_
+20	in	P	אין	AyN	_
+21	di	D	די	dy	_
+22	libe	ADJ	ליבע	lybe	_
+23	turh	NPR	טורה	tvrh	_
+
+SENT	1712E-SARAH,83.14
+1	her	N	הער	her	_
+2	fun	P	פֿון	fvN	_
+3	dr	D	דר	dr	_
+4	gantsr	ADJ	גאַנצר	gAanqr	_
+5	velt	N	װעלט	Velt	_
+6	ikh	PRO	איך	AyX	_
+7	makh	VBF	מאַך	mAaX	_
+8	faln	VB	פֿאַלן	fAalN	_
+9	meyn	PRO$	מײן	mYN	_
+10	gbet	N	גבעט	gbet	_
+11	fr	P	פֿר	fr	_
+12	dir	PRO	דיר	dyr	_
+13	vi	C	װי	Vy	_
+14	ikh	PRO	איך	AyX	_
+15	heyb	VBF	הײב	hYb	_
+16	an	RP	אַן	AaN	_
+17	msdr	RP-H	מסדר	msdr	_
+18	tsu	TO	צו	qv	_
+19	zeyn	VB	זײן	zYN	_
+20	eyn	D	אײן	AYN	_
+21	seyne	ADJ	סײנע	sYne	_
+22	naeye	ADJ	נאַײע	nAaYe	_
+23	tkhnh	N	טכנה	txnh	_
+24	mit	P	מיט	myt	_
+25	meyn	PRO$	מײן	mYN	_
+26	gantsn	ADJ	גאַנצן	gAanqN	_
+27	grunt	N	גרונט	grvnt	_
+28	fun	P	פֿון	fvN	_
+29	meyn	PRO$	מײן	mYN	_
+30	hartsn	N	האַרצן	hAarqN	_
+
+SENT	1712E-SARAH,84.16
+1	un	CONJ	און	AvN	_
+2	zalst	MDF	זאַלסט	zAalst	_
+3	unz	PRO	אונז	Avnz	_
+4	hitn	VB	היטן	hytN	_
+5	fun	P	פֿון	fvN	_
+6	peyn	N	פּײן	pYN	_
+7	un	CONJ	און	AvN	_
+8	shmertsn	N	שמערצן	$merqN	_
+
+SENT	1712E-SARAH,84.17
+1	ikh	PRO	איך	AyX	_
+2	bet	VBF	בעט	bet	_
+3	dikh	PRO	דיך	dyX	_
+4	dm	D	דם	dM	_
+5	libn	ADJ	ליבן	lybN	_
+6	got	NPR	גאָט	gAot	_
+7	b"h	H	ב"ה	b"h	blessed_he
+8	az	C	אַז	Aaz	_
+9	er	PRO	ער	er	_
+10	zal	MDF	ז"ל	z"l	_
+11	shun	ADV	שון	$vN	_
+12	habn	VB	האַבן	hAabN	_
+13	grus	ADJ	גרוס	grvs	_
+14	rkhmnut	N	רכמנוט	rxmnvt	_
+15	uf	P	אוף	AvF	_
+16	zeyn	PRO$	זײן	zYN	_
+17	falk	N	פֿאַלק	fAalk	_
+18	vi	WADV	װי	Vy	_
+19	er	PRO	ער	er	_
+20	ht	HVF	הט	ht	_
+21	dr_hert	VBN	דר_הערט	dr_hert	_
+22	ds	D	דס	ds	_
+23	gbet	N	גבעט	gbet	_
+24	fun	P	פֿון	fvN	_
+25	unzre	PRO$	אונזרע	Avnzre	_
+26	abut	H	אַבוט	Aabvt	fathers
+27	vamhut	H	װאַמהוט	VAamhvt	and_mothers
+
+SENT	1712E-SARAH,84.18
+1	V	H	װ	V	and
+2	gedenk	VBI	געדענק	gedenk	_
+3	ven	C	װען	VeN	_
+4	abrhm	NPR	אַברהם	AabrhM	_
+5	abinu	H	אַבינו	Aabynv	father_our
+6	ht	HVF	הט	ht	_
+7	mit	P	מיט	myt	_
+8	zeyn	PRO$	זײן	zYN	_
+9	linke	ADJ	לינקע	lynke	_
+10	hand	N	האַנד	hAand	_
+11	bgrifn	VBN	בגריפֿן	bgryfN	_
+12	an	P	אַן	AaN	_
+13	dem	D	דעם	deM	_
+14	halz	N	האַלז	hAalz	_
+15	fun	P	פֿון	fvN	_
+16	itskhk	NPR	איצכק	Ayqxk	_
+
+SENT	1712E-SARAH,84.19
+1	un	CONJ	און	AvN	_
+2	in	P	אין	AyN	_
+3	zeyn	PRO$	זײן	zYN	_
+4	rekhtr	ADJ	רעכטר	rextr	_
+5	hand	N	האַנד	hAand	_
+6	nemt	VBF	נעמט	nemt	_
+7	er	PRO	ער	er	_
+8	ds	D	דס	ds	_
+9	shekht_meser	N	שעכט_מעסער	$ext_meser	_
+10	tsu	TO	צו	qv	_
+11	shekhtn	VB	שחטן	$HtN	_
+12	zeyn	PRO$	זײן	zYN	_
+13	zun	N	זון	zvN	_
+14	itskhk	NPR	איצכק	Ayqxk	_
+
+SENT	1712E-SARAH,84.20
+1	un	CONJ	און	AvN	_
+2	das	D	דת	dS	_
+3	hat	HVF	האַט	hAat	_
+4	er	PRO	ער	er	_
+5	dir	PRO	דיר	dyr	_
+6	tsu_lib	P	צו_ליב	qv_lyb	_
+7	gtan	VBN	גטאַן	gtAaN	_
+
+SENT	1712E-SARAH,84.21
+1	un	CONJ	און	AvN	_
+2	ht	HVF	הט	ht	_
+3	eyn	RP	אײן	AYN	_
+4	ghaltn	VBN	גהאַלטן	ghAaltN	_
+5	zeyn	PRO$	זײן	zYN	_
+6	rkhmnut	N	רכמנוט	rxmnvt	_
+
+SENT	1712E-SARAH,84.22
+1	azoy	ADV	אַזױ	AazW	_
+2	ker	MDF	קער	ker	_
+3	dikh	PRO	דיך	dyX	_
+4	tsu	TO	צו	qv	_
+5	dr_barmn	VB	דר_באַרמן	dr_bAarmN	_
+6	ibr	P	איבר	Aybr	_
+7	unz	PRO	אונז	Avnz	_
+8	un	CONJ	און	AvN	_
+9	eyn	RP	אײן	AYN	_
+10	tsu	TO	צו	qv	_
+11	haltn	VB	האַלטן	hAaltN	_
+12	deyn	PRO$	דײן	dYN	_
+13	tsarn	N	צאַרן	qAarN	_
+
+SENT	1712E-SARAH,84.23
+1	un	CONJ	און	AvN	_
+2	ikh	PRO	איך	AyX	_
+3	bet	VBF	בעט	bet	_
+4	himl	N	הימל	hyml	_
+5	un	CONJ	און	AvN	_
+6	erd	N	ערד	erd	_
+7	un	CONJ	און	AvN	_
+8	ali	Q	אַלי	Aaly	_
+9	heylige	ADJ	הײליגע	hYlyge	_
+10	mlakhim	N	מלאַכים	mlAaxyM	_
+11	zaln	MDF	זאַלן	zAalN	_
+12	fr	P	פֿר	fr	_
+13	mir	PRO	מיר	myr	_
+14	betn	VB	בעטן	betN	_
+15	az	C	אַז	Aaz	_
+16	meyni	PRO$	מײני	mYny	_
+17	beydi	Q	בײדי	bYdy	_
+18	tkhnut	N	טכנוט	txnvt	_
+19	zaln	MDF	זאַלן	zAalN	_
+20	vern	RD	װערן	VerN	_
+21	an	RP	אַן	AaN	_
+22	gnumn	VAN	גנומן	gnvmN	_
+
+SENT	1712E-SARAH,84.24
+1	es	ES	עס	es	_
+2	zal	MDF	ז"ל	z"l	_
+3	vern	VB	װערן	VerN	_
+4	eyn	D	אײן	AYN	_
+5	krun	N	קרון	krvN	_
+6	uf	P	אוף	AvF	_
+7	zeyn	PRO$	זײן	zYN	_
+8	heylign	ADJ	הײליגן	hYlygN	_
+9	namn	N	נאַמן	nAamN	_
+10	zeyn	PRO$	זײן	zYN	_
+11	kap	N	קאַפּ	kAap	_
+12	amn	H	אַמן	AamN	amen
+
+SENT	1712E-SARAH,84.25
+1	ikh	PRO	איך	AyX	_
+2	isho	H	אישאָ	Ay$Ao	woman
+3	srh	NPR	סרה	srh	_
+4	leyenen	VBF	לײענען	lYeneN	_
+5	mir	PRO	מיר	myr	_
+6	veyter	ADV	װײטער	VYter	_
+7	in	P	אין	AyN	_
+8	slsh	H	סלש	sl$	three
+9	sheorim	H	שערים	$eryM	gates
+10	tu	DOF	טו	tv	_
+11	betn	VB	בעטן	betN	_
+12	oykh	PRO	אױך	AWX	_
+13	,	PUNC	,	,	_
+14	yunge	ADJ	יונגע	yvnge	_
+15	veyber	N	װײבער	VYber	_
+16	,	PUNC	,	,	_
+17	ir	PRO	איר	Ayr	_
+18	zalt	MDF	זאַלט	zAalt	_
+19	nit	NEG	ניט	nyt	_
+20	shmuesin	VB	שמועסין	$mvesyN	_
+21	in	P	אין	AyN	_
+22	shul	N	שול	$vl	_
+
+SENT	1712E-SARAH,84.26
+1	varum	CONJ	װאַרום	VAarvM	_
+2	es	PRO	עס	es	_
+3	iz	VBF	איז	Ayz	_
+4	eyn	D	אײן	AYN	_
+5	groyse	ADJ	גרױסע	grWse	_
+6	zind	N	זינד	zynd	_
+7	.	PUNC	.	.	_
+
+SENT	1712E-SARAH,84.27
+1	ikh	PRO	איך	AyX	_
+2	tu	DOF	טו	tv	_
+3	gdenkn	VB	גדענקן	gdenkN	_
+4	,	PUNC	,	,	_
+5	vos	C	װאָס	VAos	_
+6	es	ES	עס	es	_
+7	shteyt	VBF	שטײט	$tYt	_
+8	az	C	אַז	Aaz	_
+9	der	D	דער	der	_
+10	tney	N	טנײ	tnY	_
+11	rbi	NPR	רבי	rby	_
+12	aliezr	NPR	אַליִעזר	Aalyiezr	_
+13	a.a.v.	X	אַ.אַ.װ.	Aa.Aa.V.	_
+
+SENT	1712E-SARAH,84.28
+1	drum	DR+P	דרום	drvM	_
+2	tu	DOF	טו	tv	_
+3	ikh	PRO	איך	AyX	_
+4	eykh	PRO	אײך	AYX	_
+5	varnn	VB	װאַרנן	VAarnN	_
+6	ds	C	דס	ds	_
+7	ir	PRO	איר	Ayr	_
+8	zalt	MDF	זאַלט	zAalt	_
+9	khs	H	כס	xs	have_mercy
+10	vslum	H	װסלום	VslvM	and_peace
+11	nit	NEG	ניט	nyt	_
+12	gstraft	VAN	גסטראַפֿט	gstrAaft	_
+13	vern	RD	װערן	VerN	_
+14	vi	WADV	װי	Vy	_
+15	ikh	PRO	איך	AyX	_
+16	bin	BEF	בין	byN	_
+17	gstraft	VAN	גסטראַפֿט	gstrAaft	_
+18	varn	RDN	װאַרן	VAarN	_
+19	mit	P	מיט	myt	_
+20	ne	H	נע	ne	move
+21	vnd	H	װנד	Vnd	and_wander
+
+SENT	1712E-SARAH,84.29
+1	ikh	PRO	איך	AyX	_
+2	tu	DOF	טו	tv	_
+3	mikh	PRO	מיך	myX	_
+4	der_mann	VB	דער_מאַנן	der_mAanN	_
+5	an	P	אַן	AaN	_
+6	ale	Q	אַלע	Aale	_
+7	zakhn	N	זאַכן	zAaxN	_
+
+SENT	1712E-SARAH,84.30
+1	ven	C	װען	VeN	_
+2	ikh	PRO	איך	AyX	_
+3	fleg	MDF	פֿלעג	fleg	_
+4	tsu	TO	צו	qv	_
+5	kumn	VB	קומן	kvmN	_
+6	in	P	אין	AyN	_
+7	der	D	דער	der	_
+8	libn	ADJ	ליבן	lybN	_
+9	sul	N	סול	svl	_
+10	on	RP	אָן	AoN	_
+11	gton	VAN	גטאָן	gtAoN	_
+12	in	P	אין	AyN	_
+13	abnim	H	אַבנים	AabnyM	stones
+14	tubus	H	טובוס	tvbvs	good
+15	fleg	MDF	פֿלעג	fleg	_
+16	ikh	PRO	איך	AyX	_
+17	nor	FP	נאָר	nAor	_
+18	shpetn	VB	שפּעטן	$petN	_
+19	un	CONJ	און	AvN	_
+20	tsu	TO	צו	qv	_
+21	lakhn	VB	לאַכן	lAaxN	_
+
+SENT	1712E-SARAH,84.31
+1	tu	DOF	טו	tv	_
+2	ikh	PRO	איך	AyX	_
+3	eykh	PRO	אײך	AYX	_
+4	heynt	ADV	הײנט	hYnt	_
+5	der_mann	VB	דער_מאַנן	der_mAanN	_
+6	un	CONJ	און	AvN	_
+7	gdeynkn	VB	גדײנקן	gdYnkN	_
+8	az	C	אַז	Aaz	_
+9	hs"i	H	הס"אי	hs"Ay	his_name_may_be_blessed
+10	b"h	H	ב"ה	b"h	blessed_he
+11	tut	DOF	טוט	tvt	_
+12	nit	NEG	ניט	nyt	_
+13	sheynkn	VB	שײנקן	$YnkN	_
+
+SENT	1712E-SARAH,84.32
+1	heynt	ADV	הײנט	hYnt	_
+2	bin	BEF	בין	byN	_
+3	ikh	PRO	איך	AyX	_
+4	ne	H	נע	ne	move
+5	vnd	H	װנד	Vnd	and_wander
+6	gkumn	VBN	גקומן	gkvmN	_
+
+SENT	1712E-SARAH,84.33
+1	meyn	PRO$	מײן	mYN	_
+2	harts	N	האַרץ	hAarQ	_
+3	tut	DOF	טוט	tvt	_
+4	in	P	אין	AyN	_
+5	mir	PRO	מיר	myr	_
+6	brmn	VB	ברמן	brmN	_
+
+SENT	1712E-SARAH,84.34
+1	drum	DR+P	דרום	drvM	_
+2	tu	DOF	טו	tv	_
+3	ikh	PRO	איך	AyX	_
+4	zeyer	ADV	זײער	zYer	_
+5	betn	VB	בעטן	betN	_
+6	az	C	אַז	Aaz	_
+7	ir	PRO	איר	Ayr	_
+8	zalt	MDF	זאַלט	zAalt	_
+9	meyne	PRO$	מײנע	mYne	_
+10	reyd	N	רײד	rYd	_
+11	far_nemen	VB	פֿאַר_נעמען	fAar_nemeN	_
+12	un	CONJ	און	AvN	_
+13	ir	PRO	איר	Ayr	_
+14	zalt	MDF	זאַלט	zAalt	_
+15	eykh	PRO	אײך	AYX	_
+16-17	tsum	P~D	צום	qvM	_
+16	tsu	P	צו	qv	_
+17	m	D	מ	m	_
+18	hartsn	N	האַרצן	hAarqN	_
+19	nemen	VB	נעמען	nemeN	_
+
+SENT	1712E-SARAH,85.36
+1	drum	DR+P	דרום	drvM	_
+2	tu	DOF	טו	tv	_
+3	ikh	PRO	איך	AyX	_
+4	isho	H	אישאָ	Ay$Ao	woman
+5	srh	NPR	סרה	srh	_
+6	eykh	PRO	אײך	AYX	_
+7	betn	VB	בעטן	betN	_
+8	az	C	אַז	Aaz	_
+9	ir	PRO	איר	Ayr	_
+10	zalt	MDF	זאַלט	zAalt	_
+11	das	D	דת	dS	_
+12	fun	P	פֿון	fvN	_
+13	libn	ADJ	ליבן	lybN	_
+14	gat	NPR	גאַט	gAat	_
+15	b"h	H	ב"ה	b"h	blessed_he
+16	vegn	N	װעגן	VegN	_
+17	tan	VB	טאַן	tAaN	_
+
+SENT	1712E-SARAH,85.37
+1	ir	PRO	איר	Ayr	_
+2	zalt	MDF	זאַלט	zAalt	_
+3	zehr	ADV	זעהר	zehr	_
+4	tsu	TO	צו	qv	_
+5	haben	VB	האַבען	hAabeN	_
+6	grus	ADJ	גרוס	grvs	_
+7	hsgkhh	N	הסגכה	hsgxh	_
+
+SENT	1712E-SARAH,85.38
+1	varum	CONJ	װאַרום	VAarvM	_
+2	ikh	PRO	איך	AyX	_
+3	srh	NPR	סרה	srh	_
+4	tu	DOF	טו	tv	_
+5	hafn	VB	האַפֿן	hAafN	_
+6	mit	P	מיט	myt	_
+7	ale	Q	אַלע	Aale	_
+8	abiunim	N	אַביִונים	AabyivnyM	_
+9	uf	P	אוף	AvF	_
+10	gats	NPR$	גאַץ	gAaQ	_
+11	hsgkhh	N	הסגכה	hsgxh	_
+
+SENT	1712E-SARAH,85.39
+1	ikh	PRO	איך	AyX	_
+2	tu	DOF	טו	tv	_
+3	dem	D	דעם	deM	_
+4	libn	ADJ	ליבן	lybN	_
+5	gat	NPR	גאַט	gAat	_
+6	betn	VB	בעטן	betN	_
+7	az	C	אַז	Aaz	_
+8	er	PRO	ער	er	_
+9	zal	MDF	ז"ל	z"l	_
+10	hsgkhh	N	הסגכה	hsgxh	_
+11	habn	VB	האַבן	hAabN	_
+12	uf	P	אוף	AvF	_
+13	meyne	PRO$	מײנע	mYne	_
+14	elte	ADJ	עלטע	elte	_
+15	teg	N	טעג	teg	_
+16	az	C	אַז	Aaz	_
+17	unzre	PRO$	אונזרע	Avnzre	_
+18	kindr	N	קינדר	kyndr	_
+19	zaln	MDF	זאַלן	zAalN	_
+20	nit	NEG	ניט	nyt	_
+21	vern	RD	װערן	VerN	_
+22	fun	P	פֿון	fvN	_
+23	unz	PRO	אונז	Avnz	_
+24	fryagt	VAN	פֿריאַגט	fryAagt	_
+
+SENT	1712E-SARAH,85.40
+1	un	CONJ	און	AvN	_
+2	hab	HVF	האַב	hAab	_
+3	ikh	PRO	איך	AyX	_
+4	eykh	PRO	אײך	AYX	_
+5	di	D	די	dy	_
+6	andre	ADJ	אַנדרע	Aandre	_
+7	naeye	ADJ	נאַײע	nAaYe	_
+8	tkhnh	N	טכנה	txnh	_
+9	msdr	RP-H	מסדר	msdr	_
+10	gvezn	VBN	גװעזן	gVezN	_
+11	az	C	אַז	Aaz	_
+12	mir	PRO	מיר	myr	_
+13	zaln	MDF	זאַלן	zAalN	_
+14	fun	P	פֿון	fvN	_
+15	unzre	PRO$	אונזרע	Avnzre	_
+16	zind	N	זינד	zynd	_
+17	un	CONJ	און	AvN	_
+18	fun	P	פֿון	fvN	_
+19	mlakh_hmut	N	מלאַכ_המוט	mlAax_hmvt	_
+20	zeyn	BE	זײן	zYN	_
+21	gnezn	VX	גנעזן	gnezN	_
+
+SENT	1712E-SARAH,85.41
+1	u	H	או	Av	and
+2	bzkhut	H	בזכוט	bzxvt	in_merit
+3	zh	H	זש	z$	this
+4	zal	MDF	ז"ל	z"l	_
+5	uns	PRO	אונס	Avns	_
+6	gat	NPR	גאַט	gAat	_
+7	brukh	H	ברוך	brvX	blessed
+8	hu	H	הו	hv	he
+9	sheynkn	VB	שײנקן	$YnkN	_
+10	ds	D	דס	ds	_
+11	lebn	N	לעבן	lebN	_
+

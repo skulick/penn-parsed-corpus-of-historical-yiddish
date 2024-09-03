@@ -1,0 +1,2574 @@
+SENT	1692E-VILNA,210.3
+1	das	D	דת	dS	_
+2	blbul	N	בלבול	blbvl	_
+3	iz	BEF	איז	Ayz	_
+4	oyf	P	אױף	AWF	_
+5	di	D	די	dy	_
+6	drey	NUM	דרײ	drY	_
+7	kdusim	N	קדוסים	kdvsyM	_
+8	bk"k	H	בק"ק	bk"k	in_community_holy
+9	vilna	NPR	װילנאַ	VylnAa	_
+10	varn	RDN	װאַרן	VAarN	_
+11	gemakht	VAN	געמאַכט	gemAaxt	_
+
+SENT	1692E-VILNA,210.4
+1	nakh	P	נ"ך	n"X	_
+2	den	D	דען	deN	_
+3	a"b	N	אַ"ב	Aa"b	_
+4	tsvey	NUM	צװײ	qVY	_
+5	mol	N	מאָל	mAol	_
+6	fun	P	פֿון	fvN	_
+7	der	D	דער	der	_
+8	a'	N	אַ'	Aa'	_
+9	biz	P	ביז	byz	_
+10	an	P	אַן	AaN	_
+11	dr	D	דר	dr	_
+12	t'	N	ט'	t'	_
+13	iz	BEF	איז	Ayz	_
+14	es	PRO	עס	es	_
+15	vorin	RDN	װאָרין	VAoryN	_
+16	gitrakht	VAN	גיטראַכט	gytrAaxt	_
+
+SENT	1692E-VILNA,210.5
+1	oykh	ADV	אױך	AWX	_
+2	zeyer	PRO$	זײער	zYer	_
+3	dreya	NUM	דרײאַ	drYAa	_
+4	nemin	N	נעמין	nemyN	_
+5	iz	BEF	איז	Ayz	_
+6	nakh	P	נ"ך	n"X	_
+7	den	D	דען	deN	_
+8	andern	ADJ	אַנדערן	AanderN	_
+9	a"b	N	אַ"ב	Aa"b	_
+10	in	P	אין	AyN	_
+11	di	D	די	dy	_
+12	ersth	ADJ	ערסטה	ersth	_
+13	oysyes	N	אותיות	AvSyvS	_
+14	varin	RDN	װאַרין	VAaryN	_
+15	areyn	ADV	אַרײן	AarYN	_
+16	gebrakht	VAN	געבראַכט	gebrAaxt	_
+
+SENT	1692E-VILNA,210.6
+1	zier	PRO$	זיִער	zyier	_
+2	nemin	N	נעמין	nemyN	_
+3	iz	BEF	איז	Ayz	_
+4	givezin	VBN	גיװעזין	gyVezyN	_
+5	r'	NPR	ר'	r'	_
+6	ikhukal	NPR	איכוקאַל	AyxvkAal	_
+7	un'	CONJ	אונ'	Avn'	_
+8	r'	NPR	ר'	r'	_
+9	msh	NPR	מש	m$	_
+10	un'	CONJ	אונ'	Avn'	_
+11	abrm	NPR	אַברם	AabrM	_
+12	hi"d	H	הי"ד	hy"d	God_will_have_blood
+
+SENT	1692E-VILNA,210.7
+1	un	CONJ	און	AvN	_
+2	drum	DR+P	דרום	drvM	_
+3	iz	BEF	איז	Ayz	_
+4	es	PRO	עס	es	_
+5	tsveya	NUM	צװײאַ	qVYAa	_
+6	mal	N	מל	ml	_
+7	nakh	P	נ"ך	n"X	_
+8	a"b	N	אַ"ב	Aa"b	_
+9	varin	RDN	װאַרין	VAaryN	_
+10	gistelt	VAN	גיסטעלט	gystelt	_
+
+SENT	1692E-VILNA,210.8
+1	dn	CONJ	דן	dN	_
+2	in	P	אין	AyN	_
+3	a"b	N	אַ"ב	Aa"b	_
+4	zenin	BEF	זענין	zenyN	_
+5	tsveya_un_tsvntsig	NUM	צװײאַ_ונ_צװנציג	qVYAa_vn_qVnqyg	_
+6	oysyes	N	אותיות	AvSyvS	_
+7	fr_melt	VAN	פֿר_מעלט	fr_melt	_
+
+SENT	1692E-VILNA,211.10
+1	un	CONJ	און	AvN	_
+2	tsvey	NUM	צװײ	qVY	_
+3	mol	N	מאָל	mAol	_
+4	tsvey_un_tsvntsig	NUM	צװײ_ונ_צװנציג	qVY_vn_qVnqyg	_
+5	iz	VBF	איז	Ayz	_
+6	fir_un_firtsig	NUM	פֿיר_ונ_פֿירציג	fyr_vn_fyrqyg	_
+7	iz	VBF	איז	Ayz	_
+8	m"d	NUM	מ"ד	m"d	_
+
+SENT	1692E-VILNA,211.11
+1	un	CONJ	און	AvN	_
+2	m"d	NUM	מ"ד	m"d	_
+3	mkht	VBF	מכט	mxt	_
+4	dm	N	דם	dM	_
+
+SENT	1692E-VILNA,211.12
+1	vist	VBI	װיסט	Vyst	_
+2	dz	C	דז	dz	_
+3	di	D	די	dy	_
+4	turh	NPR	טורה	tvrh	_
+5	vas	C	װאַס	VAas	_
+6	kumt	VBF	קומט	kvmt	_
+7	aroys	ADV	אַרױס	AarWs	_
+8	oys	P	אױס	AWs	_
+9	den	D	דען	deN	_
+10	a"b	N	אַ"ב	Aa"b	_
+11	zal	MDF	ז"ל	z"l	_
+12	eyn	D	אײן	AYN	_
+13	mlits	H	מליץ	mlyQ	UNKNOWN
+14	yusr	H	יוסר	yvsr	UNKNOWN
+15	zeyn	VB	זײן	zYN	_
+16	fr	P	פֿר	fr	_
+17	der	D	דער	der	_
+18	libh	ADJ	ליבה	lybh	_
+19	skinh	N	סקינה	skynh	_
+20	fun	P	פֿון	fvN	_
+21	vegin	N	װעגין	VegyN	_
+22	das	D	דת	dS	_
+23	reynh	ADJ	רײנה	rYnh	_
+24	dm	N	דם	dM	_
+25	vas	C	װאַס	VAas	_
+26	fun	P	פֿון	fvN	_
+27	di	D	די	dy	_
+28	kdusim	N	קדוסים	kdvsyM	_
+29	iz	BEF	איז	Ayz	_
+30	varn	RDN	װאַרן	VAarN	_
+31	fr_gasin	VAN	פֿר_גאַסין	fr_gAasyN	_
+
+SENT	1692E-VILNA,211.13
+1	un	CONJ	און	AvN	_
+2	al	Q	אַל	Aal	_
+3	di	D	די	dy	_
+4	elilut	N	עלילוט	elylvt	_
+5	zalin	MDF	זאַלין	zAalyN	_
+6	verin	RD	װערין	VeryN	_
+7	fun	P	פֿון	fvN	_
+8	isral	NPR	איסראַל	AysrAal	_
+9	fr_shlasin	VAN	פֿר_שלאַסין	fr_$lAasyN	_
+
+SENT	1692E-VILNA,211.14
+1	in	P	אין	AyN	_
+2	yor	N	יאָר	yAor	_
+3	t"n	NUM	ט"נ	t"n	1690
+4	,	PUNC	,	,	_
+5	akht_un_tsvntsig	NUM	אַכט_ונ_צװנציג	Aaxt_vn_qVnqyg	_
+6	tog	N	טאָג	tAog	_
+7	in	P	אין	AyN	_
+8	khuds	H	כודס	xvds	month
+9	ir	H	איר	Ayr	Iyar
+10	iz	BEF	איז	Ayz	_
+11	unts	PRO	אונץ	AvnQ	_
+12	di	D	די	dy	_
+13	gzirh	H	גזירה	gzyrh	decree
+14	reh	H	רעה	reh	bad
+15	gikumn	VBN	גיקומן	gykvmN	_
+16	eyn_fir	ADV	אײנ_פֿיר	AYn_fyr	_
+17	dz	C	דז	dz	_
+18	mn	PRO	מן	mN	_
+19	vert	VBF	װערט	Vert	_
+20	givar	ADJ	גיװאַר	gyVAar	_
+21	fun	P	פֿון	fvN	_
+22	der	D	דער	der	_
+23	elilh	H	עלילה	elylh	libel
+24	skr	H	סקר	skr	payment
+25	fr	P	פֿר	fr	_
+26	den	D	דען	deN	_
+27	kdus	H	קדוס	kdvs	blessing
+28	mir	H	מיר	myr	UNKNOWN
+
+SENT	1692E-VILNA,211.15
+1	berh	H	בערה	berh	UNKNOWN
+2	---	PUNC	---	---	_
+3	eyn	D	אײן	AYN	_
+4	grush	ADJ	גרוש	grv$	_
+5	gzirh	N	גזירה	gzyrh	_
+6	iz	BEF	איז	Ayz	_
+7	oyf	P	אױף	AWF	_
+8	zi	PRO	זי	zy	_
+9	gvezn	VBN	גװעזן	gVezN	_
+
+SENT	1692E-VILNA,211.16
+1	drum	DR+P	דרום	drvM	_
+2	zeynn	BEF	זײנן	zYnN	_
+3	zi	PRO	זי	zy	_
+4	dr_fun	DR+P	דר_פֿון	dr_fvN	_
+5	nit	NEG	ניט	nyt	_
+6	varn	RDN	װאַרן	VAarN	_
+7	ginezin	VX	גינעזין	gynezyN	_
+
+SENT	1692E-VILNA,211.17
+1	gar	ADV	גאַר	gAar	_
+2	habn	HVF	האַבן	hAabN	_
+3	zi	PRO	זי	zy	_
+4	an	RP	אַן	AaN	_
+5	givarn	VBN	גיװאַרן	gyVAarN	_
+6	zier	PRO$	זיִער	zyier	_
+7	gut	N	גוט	gvt	_
+8	un	CONJ	און	AvN	_
+9	blut	N	בלוט	blvt	_
+
+SENT	1692E-VILNA,211.18
+1	mlkh	H	מלך	mlX	king
+2	mlkhi	H	מלכי	mlxy	kings
+3	hmlkhim	H	המלכים	hmlxyM	the_kings
+4	hat	HVF	האַט	hAat	_
+5	nit	NEG	ניט	nyt	_
+6	velin	MDN-IPP	װעלין	VelyN	_
+7	fr_sterin	VB	פֿר_סטערין	fr_steryN	_
+8	di	D	די	dy	_
+9	rseim	N	רסעיִם	rseyiM	_
+10	ir	PRO$	איר	Ayr	_
+11	mut	N	מוט	mvt	_
+
+SENT	1692E-VILNA,211.19
+1	der_trunkn	VX	דער_טרונקן	der_trvnkN	_
+2	iz	BEF	איז	Ayz	_
+3	eyn	D	אײן	AYN	_
+4	mmzr	N	ממזר	mmzr	_
+5	givorn	RDN	גיװאָרן	gyVAorN	_
+
+SENT	1692E-VILNA,211.20
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	dinst	N	דינסט	dynst	_
+4	hat	HVF	האַט	hAat	_
+5	zikh	PRO	זיך	zyX	_
+6	gifarkhtin	VBN	גיפֿאַרכטין	gyfAarxtyN	_
+7	fr	P	פֿר	fr	_
+8	ir	PRO$	איר	Ayr	_
+9	herns	N$	הערנס	herns	_
+10	tsarin	N	צאַרין	qAaryN	_
+
+SENT	1692E-VILNA,211.21
+1	bhalt	VBF	בהאַלט	bhAalt	_
+2	zi	PRO	זי	zy	_
+3	das	D	דת	dS	_
+4	mmzr	N	ממזר	mmzr	_
+5	in	P	אין	AyN	_
+6	korn	N	קאָרן	kAorN	_
+7	;	PUNC	;	;	_
+
+SENT	1692E-VILNA,211.22
+1	tsu	P	צו	qv	_
+2	den	D	דען	deN	_
+3	abint	N	אַבינט	Aabynt	_
+4	tuain	DOF	טואַיִן	tvAayiN	_
+5	di	D	די	dy	_
+6	rseim	N	רסעיִם	rseyiM	_
+7	es	PRO	עס	es	_
+8	zukhn	VB	זוכן	zvxN	_
+9	hintn	ADV	הינטן	hyntN	_
+10	un	CONJ	און	AvN	_
+11	farin	ADV	פֿאַרין	fAaryN	_
+
+SENT	1692E-VILNA,211.23
+1	hibt	VBF	היבט	hybt	_
+2	zikh	PRO	זיך	zyX	_
+3	an	RP	אַן	AaN	_
+4	di	D	די	dy	_
+5	gzirh	H	גזירה	gzyrh	decree
+6	reh	H	רעה	reh	bad
+7	in	P	אין	AyN	_
+8	der	D	דער	der	_
+9	bizh	ADJ	ביזש	byz$	_
+10	sheh	N	שעה	$eh	_
+
+SENT	1692E-VILNA,211.24
+1	vas	WPRO	װאַס	VAas	_
+2	habn	HVF	האַבן	hAabN	_
+3	zi	PRO	זי	zy	_
+4	zikh	PRO	זיך	zyX	_
+5	bdakht	VBN	בדאַכט	bdAaxt	_
+
+SENT	1692E-VILNA,211.25
+1	in	P	אין	AyN	_
+2	grad	N	גראַד	grAad	_
+3	fr_treybn	VB	פֿר_טרײבן	fr_trYbN	_
+4	habn	HVF	האַבן	hAabN	_
+5	zi	PRO	זי	zy	_
+6	es	PRO	עס	es	_
+7	gibrakht	VBN	גיבראַכט	gybrAaxt	_
+
+SENT	1692E-VILNA,212.27
+1	zi	PRO	זי	zy	_
+2	habn	HVF	האַבן	hAabN	_
+3	mid	ADV	מיד	myd	_
+4	ginumn	VBN	גינומן	gynvmN	_
+5	hkdus	NPR	הקדוס	hkdvs	_
+6	r'	NPR	ר'	r'	_
+7	ikhzkal	NPR	איכזקאַל	AyxzkAal	_
+8	vhkdus	NPR	װהקדוס	Vhkdvs	_
+9	r'	NPR	ר'	r'	_
+10	msh	NPR	מש	m$	_
+11	vhkdus	NPR	װהקדוס	Vhkdvs	_
+12	r'	NPR	ר'	r'	_
+13	abrm	NPR	אַברם	AabrM	_
+14	bkhkhli	NPR	בככלי	bxxly	_
+15	brzl	H	ברזל	brzl	in_UNKNOWN
+16	tfish	H	טפֿיש	tfy$	prison
+
+SENT	1692E-VILNA,212.28
+1	un	CONJ	און	AvN	_
+2	iz	BEF	איז	Ayz	_
+3	gblibn	VBN	גבליבן	gblybN	_
+4	bey	P	בײ	bY	_
+5	zi	PRO	זי	zy	_
+6	eyn	D	אײן	AYN	_
+7	etsh	H	עטש	et$	UNKNOWN
+8	bad	H	באַד	bAad	evil
+9	dz	C	דז	dz	_
+10	zi	PRO	זי	zy	_
+11	zeynn	VBF	זײנן	zYnN	_
+12	kheyb	H	כײב	xYb	obligated
+13	mith	H	מיטה	myth	death
+
+SENT	1692E-VILNA,212.29
+1	kheybit	H	כײביט	xYbyt	obligated
+2	suldig	ADJ	סולדיג	svldyg	_
+3	hat	HVF	האַט	hAat	_
+4	er	PRO	ער	er	_
+5	nakh	ADV	נ"ך	n"X	_
+6	fil	Q	פֿיל	fyl	_
+7	leyt	N	לײט	lYt	_
+8	gimkht	VBN	גימכט	gymxt	_
+
+SENT	1692E-VILNA,212.30
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	zi	PRO	זי	zy	_
+4	gnumn	VBN	גנומן	gnvmN	_
+5	ltfish	H	לטפֿיש	ltfy$	to_prison
+6	nakh	ADV	נ"ך	n"X	_
+7	mer	QR	מער	mer	_
+
+SENT	1692E-VILNA,212.31
+1	da	ADV	דאַ	dAa	_
+2	var	VBF	װאַר	VAar	_
+3	di	D	די	dy	_
+4	elilh	N	עלילה	elylh	_
+5	nokh	ADV	נאָך	nAoX	_
+6	eyn_zu	ADV	אײנ_זו	AYn_zv	_
+7	hrb	ADJ	הרב	hrb	_
+8	un	CONJ	און	AvN	_
+9	shver	ADJ	שװער	$Ver	_
+
+SENT	1692E-VILNA,212.32
+1	oy	INTJ	אױ	AW	_
+2	vey	N	װײ	VY	_
+3	,	PUNC	,	,	_
+4	du	PRO	דו	dv	_
+5	libr	ADJ	ליבר	lybr	_
+6	got	NPR	גאָט	gAot	_
+7	,	PUNC	,	,	_
+8	vi	WADV	װי	Vy	_
+9-10	konstu	MDF~PRO	קאָנסטו	kAonstv	_
+9	kons	MDF	קאָנס	kAons	_
+10	tu	PRO	טו	tv	_
+11	tsu	RP	צו	qv	_
+12	zehn	VB	זעהן	zehN	_
+13	unzer	PRO$	אונזער	Avnzer	_
+14	grush	ADJ	גרוש	grv$	_
+15	gzirh	N	גזירה	gzyrh	decree
+16	vas	C	װאַס	VAas	_
+17	da	ADV	דאַ	dAa	_
+18	iz	BEF	איז	Ayz	_
+19	gsehn	VBN	גסעהן	gsehN	_
+
+SENT	1692E-VILNA,212.33
+1	tut	DOF	טוט	tvt	_
+2	zikh	PRO	זיך	zyX	_
+3	shlepin	VB	שלעפּין	$lepyN	_
+4	das	D	דת	dS	_
+5	mspt	N	מספּט	mspt	_
+6	nahnt	ADV	נאַהנט	nAahnt	_
+7	fun	P	פֿון	fvN	_
+8	eyn	D	אײן	AYN	_
+9	gants	ADJ	גאַנץ	gAanQ	_
+10	yar	N	יאַר	yAar	_
+
+SENT	1692E-VILNA,212.34
+1	di	D	די	dy	_
+2	rseim	N	רסעיִם	rseyiM	_
+3	hobn	HVF	האָבן	hAobN	_
+4	gizogt	VBN	גיזאָגט	gyzAogt	_
+5-6	umkumn	RP~VB	אומקומן	AvmkvmN	_
+5	um	RP	אום	AvM	_
+6	kumn	VB	קומן	kvmN	_
+7	muzin	MDF	מוזין	mvzyN	_
+8	al	Q	אַל	Aal	_
+9	di	D	די	dy	_
+10	vas	C	װאַס	VAas	_
+11	da	ADV	דאַ	dAa	_
+12	in	P	אין	AyN	_
+13	tfish	N	טפֿיש	tfy$	_
+14	zitsn	VBF	זיצן	zyqN	_
+15	gar	ADV	גאַר	gAar	_
+
+SENT	1692E-VILNA,212.35
+1	im"s	H	אימ"ס	Aym"s	may_be_erased_name
+2	zier	PRO$	זיִער	zyier	_
+3	kvnh	N	קװנה	kVnh	_
+4	iz	BEF	איז	Ayz	_
+5	gvezn	VBN	גװעזן	gVezN	_
+6	fun	P	פֿון	fvN	_
+7	ihudim	N	איהודים	AyhvdyM	_
+8	fil	Q	פֿיל	fyl	_
+9	gelt	N	געלט	gelt	_
+10	oys	RP	אױס	AWs	_
+11	tsu	TO	צו	qv	_
+12	reysn	VB	רײסן	rYsN	_
+
+SENT	1692E-VILNA,212.36
+1	libr	ADJ	ליבר	lybr	_
+2	got	NPR	גאָט	gAot	_
+3	,	PUNC	,	,	_
+4	tu	VBI	טו	tv	_
+5	az	P	אַז	Aaz	_
+6	on	P	אָן	AoN	_
+7	hmn	NPR	המן	hmN	_
+8	on	P	אָן	AoN	_
+9	zi	PRO	זי	zy	_
+10	eyn	D	אײן	AYN	_
+11	tseykhn	N	צײכן	qYxN	_
+
+SENT	1692E-VILNA,212.37
+1	un	CONJ	און	AvN	_
+2	shtrof	VBI	שטראָף	$trAoF	_
+3	zi	PRO	זי	zy	_
+4	nokh	P	נאָך	nAoX	_
+5	alr	Q	אַלר	Aalr	_
+6	fleysn	N	פֿלײסן	flYsN	_
+
+SENT	1692E-VILNA,212.38
+1	klm	H	קלם	klM	UNKNOWN
+2	ali	Q	אַלי	Aaly	_
+3	hab	HVF	האַב	hAab	_
+4	zikh	PRO	זיך	zyX	_
+5	eyn	RP	אײן	AYN	_
+6	gizamlt	VBN	גיזאַמלט	gyzAamlt	_
+7	in	P	אין	AyN	_
+8	yar	N	יאַר	yAar	_
+9	tn"a	H	טנ"אַ	tn"Aa	451_1691
+10	bium	H	ביִום	byivM	on_day
+11	d'	H	ד'	d'	4
+12	purim	H	פּורים	pvryM	Purim
+13	ktn	H	קטן	ktN	little
+
+SENT	1692E-VILNA,212.39
+1	hot	HVF	האָט	hAot	_
+2	bglikt	VBN	בגליקט	bglykt	_
+3	mesh	N	מעש	me$	_
+4	stn	NPR	סטן	stN	_
+5	ven	C	װען	VeN	_
+6	mn	PRO	מן	mN	_
+7	gher	MDF	גהער	gher	_
+8	zikh	PRO	זיך	zyX	_
+9	msmkh	RP-H	מסמך	msmX	_
+10	tsu	TO	צו	qv	_
+11	zeyn	VB	זײן	zYN	_
+12	mit	P	מיט	myt	_
+13	lakhin	N	לאַכין	lAaxyN	_
+14	di	D	די	dy	_
+15	mgilh	N	מגילה	mgylh	_
+
+SENT	1692E-VILNA,212.40
+1	iz	BEF	איז	Ayz	_
+2	varn	VBN	װאַרן	VAarN	_
+3	in	P	אין	AyN	_
+4	der	D	דער	der	_
+5	khilh	N	כילה	xylh	_
+6	eyn	D	אײן	AYN	_
+7	grush	ADJ	גרוש	grv$	_
+8	elilh	N	עלילה	elylh	_
+
+SENT	1692E-VILNA,212.41
+1	lnu	H	לנו	lnv	to_us
+2	---	PUNC	---	---	_
+3	tsu	P	צו	qv	_
+4	unz	PRO	אונז	Avnz	_
+5	iz	BEF	איז	Ayz	_
+6	varn	RDN	װאַרן	VAarN	_
+7	fr_kert	VAN	פֿר_קערט	fr_kert	_
+8	unzer	PRO$	אונזער	Avnzer	_
+9	freyd	N	פֿרײד	frYd	_
+10	tsu	P	צו	qv	_
+11	grush	ADJ	גרוש	grv$	_
+12	leyd	N	לײד	lYd	_
+
+SENT	1692E-VILNA,212.42
+1	ven	CONJ	װען	VeN	_
+2	di	D	די	dy	_
+3	umut	N	אומוט	Avmvt	_
+4	habin	HVF	האַבין	hAabyN	_
+5	zikh	PRO	זיך	zyX	_
+6	eyn	RP	אײן	AYN	_
+7	gizmlt	VBN	גיזמלט	gyzmlt	_
+8	tsu	P	צו	qv	_
+9	anndr	PRO	אַננדר	Aanndr	_
+
+SENT	1692E-VILNA,212.43
+1	hs"i	H	הס"אי	hs"Ay	his_name_may_be_blessed
+2	zal	MDF	ז"ל	z"l	_
+3	mtsil	RP-H	מציל	mqyl	_
+4	zeyn	VB	זײן	zYN	_
+5	fun	P	פֿון	fvN	_
+6	aln	Q	אַלן	AalN	_
+7	bizin	N	ביזין	byzyN	_
+8	er	H	ער	er	UNKNOWN
+9	biat	H	ביִאַט	byiAat	UNKNOWN
+10	hgual	H	הגואַל	hgvAal	UNKNOWN
+
+SENT	1692E-VILNA,212.44
+1	mskhd	RP-H	מסכד	msxd	_
+2	habn	HVF	האַבן	hAabN	_
+3	zi	PRO	זי	zy	_
+4	gvezin	VBN	גװעזין	gVezyN	_
+5	fun	P	פֿון	fvN	_
+6	fil	Q	פֿיל	fyl	_
+7	gald	N	גאַלד	gAald	_
+8	un'	CONJ	אונ'	Avn'	_
+9	zilbr	N	זילבר	zylbr	_
+
+SENT	1692E-VILNA,212.45
+1	oykh	ADV	אױך	AWX	_
+2	habn	HVF	האַבן	hAabN	_
+3	zi	PRO	זי	zy	_
+4	getan	VBN	געטאַן	getAaN	_
+5	tsubh	N	צובה	qvbh	_
+
+SENT	1692E-VILNA,212.46
+1	un	CONJ	און	AvN	_
+2	habn	HVF	האַבן	hAabN	_
+3	gpeynigt	VBN	גפּײניגט	gpYnygt	_
+4	zier	PRO$	זיִער	zyier	_
+5	leybr	N	לײבר	lYbr	_
+6	un	CONJ	און	AvN	_
+7	glidr	N	גלידר	glydr	_
+
+SENT	1692E-VILNA,213.48
+1	un	CONJ	און	AvN	_
+2	eyn	D	אײן	AYN	_
+3	gntsn	ADJ	גנצן	gnqN	_
+4	tag	N	תּג	Tg	_
+5	zeynen	BEF	זײנען	zYneN	_
+6	zi	PRO	זי	zy	_
+7	gizesn	VBN	גיזעסן	gyzesN	_
+8	in	P	אין	AyN	_
+9	tlit	H	טליט	tlyt	tales
+10	vtfilin	H	װטפֿילין	VtfylyN	and_tefillin
+11	ibr	P	איבר	Aybr	_
+12	zier	PRO$	זיִער	zyier	_
+13	sidr	N	סידר	sydr	_
+
+SENT	1692E-VILNA,213.49
+1	nakh	ADV	נ"ך	n"X	_
+2	habn	HVF	האַבן	hAabN	_
+3	zi	PRO	זי	zy	_
+4	gitan	VBN	גיטאַן	gytAaN	_
+5	grush	ADJ	גרוש	grv$	_
+6	tflut	N	טפֿלוט	tflvt	_
+7	dz	C	דז	dz	_
+8	es	ES	עס	es	_
+9	zal	MDF	ז"ל	z"l	_
+10	zikh	PRO	זיך	zyX	_
+11	ibr	P	איבר	Aybr	_
+12	zi	PRO	זי	zy	_
+13	dr_brmn	VB	דר_ברמן	dr_brmN	_
+14	hs"i	H	הס"אי	hs"Ay	his_name_may_be_blessed
+15	dr	WPRO	דר	dr	_
+16	da	ADV	דאַ	dAa	_
+17	heyst	VBF	הײסט	hYst	_
+18	yusb	NPR	יוסב	yvsb	_
+19	thlut	NPR	טהלוט	thlvt	_
+
+SENT	1692E-VILNA,213.50
+1	sunai	H	סונאַיִ	svnAayi	enemies
+2	isral	NPR	איסראַל	AysrAal	_
+3	habn	HVF	האַבן	hAabN	_
+4	nit	NEG	ניט	nyt	_
+5	veln	MDN-IPP	װעלן	VelN	_
+6	den	D	דען	deN	_
+7	psk	H	פּסק	psk	sentence
+8	oys	RP	אױס	AWs	_
+9	zagin	VB	זאַגין	zAagyN	_
+10	der	WPRO	דער	der	_
+11	dz	C	דז	dz	_
+12	unzr	PRO$	אונזר	Avnzr	_
+13	hrts	N	הרץ	hrQ	_
+14	zal	MDF	ז"ל	z"l	_
+15	fr_tsagin	VB	פֿר_צאַגין	fr_qAagyN	_
+
+SENT	1692E-VILNA,213.51
+1	erst	ADV	ערסט	erst	_
+2	hat	HVF	האַט	hAat	_
+3	mn	PRO	מן	mN	_
+4	ibr	P	איבר	Aybr	_
+5	neyz	N	נײז	nYz	_
+6	an	RP	אַן	AaN	_
+7	gihubn	VBN	גיהובן	gyhvbN	_
+8	mtnut	N	מטנוט	mtnvt	_
+9	tsu	TO	צו	qv	_
+10	tragin	VB	טראַגין	trAagyN	_
+11	oy	INTJ	אױ	AW	_
+12	vey	N	װײ	VY	_
+13	unzr	PRO$	אונזר	Avnzr	_
+14	tagin	N	טאַגין	tAagyN	_
+
+SENT	1692E-VILNA,213.52
+1	psk	H	פּסק	psk	sentence
+2	hrse	H	הרסע	hrse	the_evil
+3	tuain	DOF	טואַיִן	tvAayiN	_
+4	zi	PRO	זי	zy	_
+5	oys	RP	אױס	AWs	_
+6	gebn	VB	געבן	gebN	_
+
+SENT	1692E-VILNA,213.53
+1	drey	NUM	דרײ	drY	_
+2	kdusim	N	קדוסים	kdvsyM	_
+3	muzn	MDF	מוזן	mvzN	_
+4	kumn	VB	קומן	kvmN	_
+5	um	P	אום	AvM	_
+6	zier	PRO$	זיִער	zyier	_
+7	lebin	N	לעבין	lebyN	_
+
+SENT	1692E-VILNA,213.54
+1	mn	PRO	מן	mN	_
+2	zal	MDF	ז"ל	z"l	_
+3	di	D	די	dy	_
+4	drey	NUM	דרײ	drY	_
+5	kdusim	N	קדוסים	kdvsyM	_
+6	vthudim	H	װטהודים	VthvdyM	and_UNKNOWN
+7	di	D	די	dy	_
+8	reynn	ADJ	רײנן	rYnN	_
+9	itlikhs	Q	איטליכס	Aytlyxs	_
+10	leyb	N	לײב	lYb	_
+11	oyf	P	אױף	AWF	_
+12	fir	NUM	פֿיר	fyr	_
+13	teyln	VB	טײלן	tYlN	_
+14	zi	PRO	זי	zy	_
+15	meynn	VBF	מײנן	mYnN	_
+
+SENT	1692E-VILNA,213.55
+1	libr	ADJ	ליבר	lybr	_
+2	got	NPR	גאָט	gAot	_
+3	,	PUNC	,	,	_
+4	vi	WADV	װי	Vy	_
+5-6	kanstu	MDF~PRO	קאַנסטו	kAanstv	_
+5	kans	MDF	קאַנס	kAans	_
+6	tu	PRO	טו	tv	_
+7	tsu	RP	צו	qv	_
+8	zehn	VB	זעהן	zehN	_
+9	di	D	די	dy	_
+10	umrekht	N	אומרעכט	Avmrext	_
+11	vas	C	װאַס	VAas	_
+12	zi	PRO	זי	zy	_
+13	tuan	VBF	טואַן	tvAaN	_
+14	den	D	דען	deN	_
+15	falk	N	פֿאַלק	fAalk	_
+16	deynen	PRO$	דײנען	dYneN	_
+
+SENT	1692E-VILNA,213.56
+1	tsdikim	H	צדיקים	qdykyM	righteous_ones
+2	vkdushim	H	װקדושים	Vkdv$yM	and_holy_ones
+3	entfern	VBF	ענטפֿערן	entferN	_
+4	ali	Q	אַלי	Aaly	_
+5	drey	NUM	דרײ	drY	_
+6	in	P	אין	AyN	_
+7	eynn	PRO	אײנן	AYnN	_
+
+SENT	1692E-VILNA,213.57
+1	ven	C	װען	VeN	_
+2	ir	PRO	איר	Ayr	_
+3	vert	RDF	װערט	Vert	_
+4	sun	ADV	סון	svN	_
+5	unz	PRO	אונז	Avnz	_
+6	fir_teyln	VB	פֿיר_טײלן	fyr_tYlN	_
+7	dakh	ADV	דאַך	dAaX	_
+8	kent	MDF	קענט	kent	_
+9	ir	PRO	איר	Ayr	_
+10	nit	NEG	ניט	nyt	_
+11	eyn_vek	ADV	אײנ_װעק	AYn_Vek	_
+12	nemn	VB	נעמן	nemN	_
+13	unzrh	PRO$	אונזרה	Avnzrh	_
+14	ziln	N	זילן	zylN	_
+
+SENT	1692E-VILNA,213.58
+1	ven_sun	C	װענ_סון	Ven_svN	_
+2	ir	PRO	איר	Ayr	_
+3	mekht	MDF	מעכט	mext	_
+4	fresin	VB	פֿרעסין	fresyN	_
+5	unzr	PRO$	אונזר	Avnzr	_
+6	fleys	N	פֿלײס	flYs	_
+7	fun	P	פֿון	fvN	_
+8	unzr	PRO$	אונזר	Avnzr	_
+9	leybr	N	לײבר	lYbr	_
+10	oyf	P	אױף	AWF	_
+11	eyer	PRO$	אײער	AYer	_
+12	fs_tag	N	פֿס_טאַג	fs_tAag	_
+13	mit	P	מיט	myt	_
+14	eyer	PRO$	אײער	AYer	_
+15	kindr	N	קינדר	kyndr	_
+16	un	CONJ	און	AvN	_
+17	veybr	N	װײבר	VYbr	_
+18	es	PRO	עס	es	_
+19	vert	RDF	װערט	Vert	_
+20	aber	ADV	אַבער	Aaber	_
+21	oykh	PRO	אױך	AWX	_
+22	ibl	ADV	איבל	Aybl	_
+23	bkumn	VB	בקומן	bkvmN	_
+
+SENT	1692E-VILNA,213.59
+1	dz	C	דז	dz	_
+2	etts	PRO	עטץ	etQ	_
+3	unz	PRO	אונז	Avnz	_
+4	hat	HVF	האַט	hAat	_
+5	mit	P	מיט	myt	_
+6	elilut	N	עלילוט	elylvt	_
+7	in	P	אין	AyN	_
+8	gifenknis	N	גיפֿענקניס	gyfenknys	_
+9	areyn	ADV	אַרײן	AarYN	_
+10	ginumn	VBN	גינומן	gynvmN	_
+11	es	ES	עס	es	_
+12	zal	MDF	ז"ל	z"l	_
+13	nit	NEG	ניט	nyt	_
+14	leydig	ADV	לײדיג	lYdyg	_
+15	kumn	VB	קומן	kvmN	_
+16	di	D	די	dy	_
+17	trerin	N	טרערין	treryN	_
+18	fun	P	פֿון	fvN	_
+19	unzr	PRO$	אונזר	Avnzr	_
+20	veybr	N	װײבר	VYbr	_
+21	un	CONJ	און	AvN	_
+22	kindr	N	קינדר	kyndr	_
+23	vas	C	װאַס	VAas	_
+24	da	ADV	דאַ	dAa	_
+25	tuan	DOF	טואַן	tvAaN	_
+26	veynn	VB	װײנן	VYnN	_
+27	un	CONJ	און	AvN	_
+28	brumn	VB	ברומן	brvmN	_
+
+SENT	1692E-VILNA,213.60
+1	kerin	MDF	קערין	keryN	_
+2	mir	PRO	מיר	myr	_
+3	fr	P	פֿר	fr	_
+4	unzr	PRO$	אונזר	Avnzr	_
+5	toyt	N	טױט	tWt	_
+6	tsu	P	צו	qv	_
+7	gat	NPR	גאַט	gAat	_
+8	lubn	VB	לובן	lvbN	_
+9	un	CONJ	און	AvN	_
+10	dnkn	VB	דנקן	dnkN	_
+
+SENT	1692E-VILNA,213.61
+1	un	CONJ	און	AvN	_
+2	mit	P	מיט	myt	_
+3	oykh	PRO	אױך	AWX	_
+4	verin	RDF	װערין	VeryN	_
+5	mir	PRO	מיר	myr	_
+6	hbn	VB	הבן	hbN	_
+7	unzr	PRO$	אונזר	Avnzr	_
+8	spil	N	ספּיל	spyl	_
+9	un	CONJ	און	AvN	_
+10	grush	ADJ	גרוש	grv$	_
+11	tsnkin	N	צנקין	qnkyN	_
+
+SENT	1692E-VILNA,214.63
+1	fun	P	פֿון	fvN	_
+2	unzrn	PRO$	אונזרן	AvnzrN	_
+3	libn	ADJ	ליבן	lybN	_
+4	hr_gat	NPR	הר_גאַט	hr_gAat	_
+5	veln	MDF	װעלן	VelN	_
+6	mir	PRO	מיר	myr	_
+7	nit	NEG	ניט	nyt	_
+8	ab	RP	אַב	Aab	_
+9	kerin	VB	קערין	keryN	_
+
+SENT	1692E-VILNA,214.64
+1	den	CONJ	דען	deN	_
+2	er	PRO	ער	er	_
+3	kan	MDF	ק"ן	k"N	_
+4	al	Q	אַל	Aal	_
+5	unzrn	PRO$	אונזרן	AvnzrN	_
+6	gibet	N	גיבעט	gybet	_
+7	dr_vern	VB	דר_װערן	dr_VerN	_
+
+SENT	1692E-VILNA,214.65
+1	drum	DR+P	דרום	drvM	_
+2	ir	PRO	איר	Ayr	_
+3	kumrim	N	קומרים	kvmryM	_
+4	di	D	די	dy	_
+5	rid	N	ריד	ryd	_
+6	fun	P	פֿון	fvN	_
+7	enk	PRO	ענק	enk	_
+8	iz	VBF	איז	Ayz	_
+9	unts	PRO	אונץ	AvnQ	_
+10	nor	FP	נאָר	nAor	_
+11	bng	ADJ	בנג	bng	_
+12	un	CONJ	און	AvN	_
+13	eng	ADJ	ענג	eng	_
+
+SENT	1692E-VILNA,214.66
+1	reydn	N	רײדן	rYdN	_
+2	vas	C	װאַס	VAas	_
+3	ets	PRO	עץ	eQ	_
+4	tut	DOF	טוט	tvt	_
+5	unts	PRO	אונץ	AvnQ	_
+6	ap	RP	אַפּ	Aap	_
+7	reydn	VB	רײדן	rYdN	_
+8	fun	P	פֿון	fvN	_
+9	unzr	PRO$	אונזר	Avnzr	_
+10	libh	ADJ	ליבה	lybh	_
+11	amnh	N	אַמנה	Aamnh	_
+12	oyf	P	אױף	AWF	_
+13	den	D	דען	deN	_
+14	hobn	VBF	האָבן	hAobN	_
+15	mir	PRO	מיר	myr	_
+16	keyn	Q	קײן	kYN	_
+17	kvnh	N	קװנה	kVnh	_
+
+SENT	1692E-VILNA,214.67
+1	der_fun	DR+P	דער_פֿון	der_fvN	_
+2	zeyt	BEI	זײט	zYt	_
+3	visn	VAG	װיסן	VysN	_
+4	ir	PRO	איר	Ayr	_
+5	leyt	N	לײט	lYt	_
+6	,	PUNC	,	,	_
+7	um	RP	אום	AvM	_
+8	tsu	TO	צו	qv	_
+9	kumn	VB	קומן	kvmN	_
+10	fun	P	פֿון	fvN	_
+11	zeyn	PRO$	זײן	zYN	_
+12	libn	ADJ	ליבן	lybN	_
+13	namn	N	נאַמן	nAamN	_
+14	vegin	N	װעגין	VegyN	_
+15	zenin	VBF	זענין	zenyN	_
+16	mir	PRO	מיר	myr	_
+17	on_gibreyt	ADJ	אָנ_גיברײט	Aon_gybrYt	_
+18	hotsi	H	האָצי	hAoqy	UNKNOWN
+19	teykef	ADV	תּיכּף	TyKF	_
+20	heynt	ADV	הײנט	hYnt	_
+21	un	CONJ	און	AvN	_
+22	zunst	ADV	זונסט	zvnst	_
+23	ali	Q	אַלי	Aaly	_
+24	tseyt	N	צײט	qYt	_
+
+SENT	1692E-VILNA,214.68
+1	sunaim	N	סונאַיִם	svnAayiM	_
+2	da	C	דאַ	dAa	_
+3	ir	PRO	איר	Ayr	_
+4	unzr	PRO$	אונזר	Avnzr	_
+5	biz_ginr	N	ביז_גינר	byz_gynr	_
+6	zeyt	VBF	זײט	zYt	_
+7	visn	VBF	װיסן	VysN	_
+8	mir	PRO	מיר	myr	_
+9	nit	NEG	ניט	nyt	_
+10	vas	WPRO	װאַס	VAas	_
+11	ir	PRO	איר	Ayr	_
+12	meynt	VBF	מײנט	mYnt	_
+
+SENT	1692E-VILNA,214.69
+1	ir	PRO	איר	Ayr	_
+2	veyst	VBF	װײסט	VYst	_
+3	dokh	ADV	דאָך	dAoX	_
+4	vaul	ADV	װאַול	VAavl	_
+5	dz	C	דז	dz	_
+6	unzr	PRO$	אונזר	Avnzr	_
+7	libr	ADJ	ליבר	lybr	_
+8	hr_gat	NPR	הר_גאַט	hr_gAat	_
+9	straft	VBF	סטראַפֿט	strAaft	_
+10	imdar	ADV	אימדאַר	AymdAar	_
+11	unzr	PRO$	אונזר	Avnzr	_
+12	feynt	N	פֿײנט	fYnt	_
+
+SENT	1692E-VILNA,214.70
+1	teykef	ADV	תּיכּף	TyKF	_
+2	az	C	אַז	Aaz	_
+3	di	D	די	dy	_
+4	kdusim	N	קדוסים	kdvsyM	_
+5	tuin	DOF	טויִן	tvyiN	_
+6	den	D	דען	deN	_
+7	kidush	H	קידוש	kydv$	sanctification
+8	ha-shem	H	האַ-שם	hAa-$M	the_name
+9	bveyzin	VB	בװײזין	bVYzyN	_
+10	lat	VBF	לאַט	lAat	_
+11	mn	PRO	מן	mN	_
+12	zi	PRO	זי	zy	_
+13	oyf	P	אױף	AWF	_
+14	di	D	די	dy	_
+15	hent	N	הענט	hent	_
+16	un	CONJ	און	AvN	_
+17	fis	N	פֿיס	fys	_
+18	un	CONJ	און	AvN	_
+19	halz	N	האַלז	hAalz	_
+20	an	RP	אַן	AaN	_
+21	tan	VB	טאַן	tAaN	_
+22	shverh	ADJ	שװערה	$Verh	_
+23	kitrh	X	קיטרה	kytrh	_
+24	eyzin	N	אײזין	AYzyN	_
+
+SENT	1692E-VILNA,214.71
+1	un	CONJ	און	AvN	_
+2	mn	PRO	מן	mN	_
+3	last	VBF	לאַסט	lAast	_
+4	zi	PRO	זי	zy	_
+5	vrfin	VB	װרפֿין	VrfyN	_
+6	in	P	אין	AyN	_
+7	eyn	D	אײן	AYN	_
+8	fintstrh	ADJ	פֿינצטרה	fynqtrh	_
+9	fr_stinkin	ADJ	פֿר_סטינקין	fr_stynkyN	_
+10	tfish	N	טפֿיש	tfy$	_
+11	vau	WADV	װאַו	VAav	_
+12	es	ES	עס	es	_
+13	zitsn	VBF	זיצן	zyqN	_
+14	al	Q	אַל	Aal	_
+15	di	D	די	dy	_
+16	vas	C	װאַס	VAas	_
+17	zeynen	VBF	זײנען	zYneN	_
+18	kheyb	H	כײב	xYb	obligated
+19	mith	H	מיטה	myth	death
+
+SENT	1692E-VILNA,214.72
+1	un	CONJ	און	AvN	_
+2	mn	PRO	מן	mN	_
+3	tut	VBF	טוט	tvt	_
+4	zi	PRO	זי	zy	_
+5	in	P	אין	AyN	_
+6	di	D	די	dy	_
+7	tfish	N	טפֿיש	tfy$	_
+8	an	RP	אַן	AaN	_
+9	grush	ADJ	גרוש	grv$	_
+10	peyn	N	פּײן	pYN	_
+
+SENT	1692E-VILNA,214.73
+1	eyn	D	אײן	AYN	_
+2	tut	N	טוט	tvt	_
+3	ken	MDF	קען	keN	_
+4	nit	NEG	ניט	nyt	_
+5	hrbr	ADJR	הרבר	hrbr	_
+6	gzeyn	VB	גזײן	gzYN	_
+
+SENT	1692E-VILNA,214.74
+1	eyn	D	אײן	AYN	_
+2	shverh	ADJ	שװערה	$Verh	_
+3	zkh	N	זך	zX	_
+4	habn	HVF	האַבן	hAabN	_
+5	zikh	PRO	זיך	zyX	_
+6	di	D	די	dy	_
+7	kdusim	N	קדוסים	kdvsyM	_
+8	fir	RP	פֿיר	fyr	_
+9	gnumn	VBN	גנומן	gnvmN	_
+
+SENT	1692E-VILNA,214.75
+1	el	H	על	el	on
+2	kidush	H	קידוש	kydv$	sanctification
+3	ha-shem	H	האַ-שם	hAa-$M	the_name
+4	muzin	MDF	מוזין	mvzyN	_
+5	zi	PRO	זי	zy	_
+6	um	RP	אום	AvM	_
+7	kumn	VB	קומן	kvmN	_
+8	un	CONJ	און	AvN	_
+9	isurim	H	איסורים	AysvryM	prohibitions
+10	venveym	H	װענװײם	VenVYM	and_UNKNOWN
+11	fun	P	פֿון	fvN	_
+12	kl	Q	קל	kl	_
+13	isral	NPR	איסראַל	AysrAal	_
+14	vegin	N	װעגין	VegyN	_
+15	tsu	TO	צו	qv	_
+16	leydn	VB	לײדן	lYdN	_
+
+SENT	1692E-VILNA,214.76
+1	mit	P	מיט	myt	_
+2	den	D	דען	deN	_
+3	viln	MDF	װילן	VylN	_
+4	zi	PRO	זי	zy	_
+5	zikh	PRO	זיך	zyX	_
+6	fun	P	פֿון	fvN	_
+7	di	D	די	dy	_
+8	velk	N	װעלק	Velk	_
+9	ab	RP	אַב	Aab	_
+10	sheydn	VB	שײדן	$YdN	_
+
+SENT	1692E-VILNA,215.78
+1	byom	H	ביאָם	byAoM	on_day
+2	hssi	H	הססי	hssy	the_sixth
+3	p'	H	פּ'	p'	parasha
+4	uikhl	H	אויכל	Avyxl	Vahakhel
+5	fr	P	פֿר	fr	_
+6	nkht	N	נכט	nxt	_
+7	hat	HVF	האַט	hAat	_
+8	mn	PRO	מן	mN	_
+9	di	D	די	dy	_
+10	kdusim	N	קדוסים	kdvsyM	_
+11	tsu	P	צו	qv	_
+12	der	D	דער	der	_
+13	enui	N	ענויִ	envyi	_
+14	tsu	TO	צו	qv	_
+15	firn	VB	פֿירן	fyrN	_
+16	gibrakht	VBN	גיבראַכט	gybrAaxt	_
+
+SENT	1692E-VILNA,215.79
+1	un	CONJ	און	AvN	_
+2	bey	P	בײ	bY	_
+3	al	Q	אַל	Aal	_
+4	di	D	די	dy	_
+5	enyim	N	ענייִם	enyyiM	_
+6	vas	C	װאַס	VAas	_
+7	mn	PRO	מן	mN	_
+8	hat	HVF	האַט	hAat	_
+9	zi	PRO	זי	zy	_
+10	an	RP	אַן	AaN	_
+11	gitan	VBN	גיטאַן	gytAaN	_
+12	denukht	ADV	דענוכט	denvxt	_
+13	iz	BEF	איז	Ayz	_
+14	di	D	די	dy	_
+15	kdusim	N	קדוסים	kdvsyM	_
+16	nisht	Q	נישט	ny$t	_
+17	givezin	BEN	גיװעזין	gyVezyN	_
+18	gilegin	VX	גילעגין	gylegyN	_
+19	dran	DR+P	דראַן	drAaN	_
+
+SENT	1692E-VILNA,215.80
+1	gibrent	VBN	גיברענט	gybrent	_
+2	un	CONJ	און	AvN	_
+3	gibrotn	VBN	גיבראָטן	gybrAotN	_
+4	un	CONJ	און	AvN	_
+5	gprenlt	VBN	גפּרענלט	gprenlt	_
+6	hot	HVF	האָט	hAot	_
+7	man	PRO	מאַן	mAaN	_
+8	zi	PRO	זי	zy	_
+9	eyn	D	אײן	AYN	_
+10	gntsh	ADJ	גנטש	gnt$	_
+11	nkht	N	נכט	nxt	_
+
+SENT	1692E-VILNA,215.81
+1	denukht	ADV	דענוכט	denvxt	_
+2	iz	BEF	איז	Ayz	_
+3	bey	P	בײ	bY	_
+4	di	D	די	dy	_
+5	kdusim	N	קדוסים	kdvsyM	_
+6	nisht	Q	נישט	ny$t	_
+7	gvezn	BEN	גװעזן	gVezN	_
+8	giakht	VAN	גיִאַכט	gyiAaxt	_
+
+SENT	1692E-VILNA,215.82
+1	es	ES	עס	es	_
+2	iz	BEF	איז	Ayz	_
+3	zi	PRO	זי	zy	_
+4	nisht	Q	נישט	ny$t	_
+5	gilegin	VX	גילעגין	gylegyN	_
+6	givezin	BEN	גיװעזין	gyVezyN	_
+7	an	P	אַן	AaN	_
+8	zier	PRO$	זיִער	zyier	_
+9	leybr	N	לײבר	lYbr	_
+
+SENT	1692E-VILNA,215.83
+1	neyart	FP	נײאַרט	nYAart	_
+2	ds	D	דס	ds	_
+3	hat	HVF	האַט	hAat	_
+4	zi	PRO	זי	zy	_
+5	bng	ADJ	בנג	bng	_
+6	getan	VBN	געטאַן	getAaN	_
+7	den	D	דען	deN	_
+8	grusn	ADJ	גרוסן	grvsN	_
+9	tser	N	צער	qer	_
+10	vas	C	װאַס	VAas	_
+11	der_heym	ADV	דער_הײם	der_hYM	_
+12	habin	VBF	האַבין	hAabyN	_
+13	zier	PRO$	זיִער	zyier	_
+14	kindr	N	קינדר	kyndr	_
+15	un'	CONJ	אונ'	Avn'	_
+16	veybr	N	װײבר	VYbr	_
+
+SENT	1692E-VILNA,215.84
+1	den	D	דען	deN	_
+2	kdus	N	קדוס	kdvs	_
+3	r'	NPR	ר'	r'	_
+4	ikhzkal	NPR	איכזקאַל	AyxzkAal	_
+5	hat	HVF	האַט	hAat	_
+6	mn	PRO	מן	mN	_
+7-8	tsum	P~D	צום	qvM	_
+7	tsu	P	צו	qv	_
+8	m	D	מ	m	_
+9	erstin	ADJ	ערסטין	erstyN	_
+10	getsugin	VBN	געצוגין	geqvgyN	_
+11	az	P	אַז	Aaz	_
+12	eyn	D	אײן	AYN	_
+13	feyl	N	פֿײל	fYl	_
+14	fun	P	פֿון	fvN	_
+15	bugin	N	בוגין	bvgyN	_
+
+SENT	1692E-VILNA,215.85
+1	der	D	דער	der	_
+2	tleyn	N	טלײן	tlYN	_
+3	hat	HVF	האַט	hAat	_
+4	im	PRO	אים	AyM	_
+5	oys	RP	אױס	AWs	_
+6	gitan	VBN	גיטאַן	gytAaN	_
+7	nakt	ADJ	נאַקט	nAakt	_
+8	un	CONJ	און	AvN	_
+9	blus	ADJ	בלוס	blvs	_
+
+SENT	1692E-VILNA,215.86
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	im	PRO	אים	AyM	_
+4	gigosin	VBN	גיגאָסין	gygAosyN	_
+5	svebl	N	סװעבל	sVebl	_
+6	un	CONJ	און	AvN	_
+7	pekh	N	פּעך	peX	_
+8	oyf	P	אױף	AWF	_
+9	zeynh	PRO$	זײנה	zYnh	_
+10	fis	N	פֿיס	fys	_
+11	un	CONJ	און	AvN	_
+12	shus	N	שוס	$vs	_
+
+SENT	1692E-VILNA,215.87
+1	hat	HVF	האַט	hAat	_
+2	im	PRO	אים	AyM	_
+3	gikert	VBN	גיקערט	gykert	_
+4	hintn	ADV	הינטן	hyntN	_
+5	un	CONJ	און	AvN	_
+6	farin	ADV	פֿאַרין	fAaryN	_
+
+SENT	1692E-VILNA,215.88
+1	mlkh	H	מלך	mlX	king
+2	mlkhi	H	מלכי	mlxy	kings
+3	hmlkhim	H	המלכים	hmlxyM	the_kings
+4	vi	WADV	װי	Vy	_
+5-6	kanstu	MDF~PRO	קאַנסטו	kAanstv	_
+5	kans	MDF	קאַנס	kAans	_
+6	tu	PRO	טו	tv	_
+7	tsu	RP	צו	qv	_
+8	zehn	VB	זעהן	zehN	_
+9	den	D	דען	deN	_
+10	grusn	ADJ	גרוסן	grvsN	_
+11	tsarin	N	צאַרין	qAaryN	_
+
+SENT	1692E-VILNA,215.89
+1	vas	WPRO	װאַס	VAas	_
+2	hat	HVF	האַט	hAat	_
+3	der	D	דער	der	_
+4	rse	N	רסע	rse	_
+5	den	D	דען	deN	_
+6	kdus	N	קדוס	kdvs	_
+7	gibetin	VBN	גיבעטין	gybetyN	_
+
+SENT	1692E-VILNA,215.90
+1	gib	VBI	גיב	gyb	_
+2	uns	PRO	אונס	Avns	_
+3	etlikhh	Q	עטליכה	etlyxh	_
+4	rasim	H	ראַסים	rAasyM	heads
+5	vmnhinim	H	װמנהינים	VmnhynyM	and_leaders
+6	un	CONJ	און	AvN	_
+7	zunst	ADV	זונסט	zvnst	_
+8	al	Q	אַל	Aal	_
+9	di	D	די	dy	_
+10	nertin	N	נערטין	nertyN	_
+
+SENT	1692E-VILNA,215.91
+1	un	CONJ	און	AvN	_
+2	tu	DOI	טו	tv	_
+3	zi	PRO	זי	zy	_
+4	nit	NEG	ניט	nyt	_
+5	fr_tretin	VB	פֿר_טרעטין	fr_tretyN	_
+
+SENT	1692E-VILNA,215.92
+1-2	verstu	RDF~PRO	װערסטו	Verstv	_
+1	vers	RDF	װערס	Vers	_
+2	tu	PRO	טו	tv	_
+3	bleybn	VB	בלײבן	blYbN	_
+4	lebn	RP-V	לעבן	lebN	_
+
+SENT	1692E-VILNA,215.93
+1	un	CONJ	און	AvN	_
+2	alpi	H	על-פּי	el-py	thousands_of
+3	alpim	H	אַלפּים	AalpyM	thousands
+4	ver	RDF	װער	Ver	_
+5	ikh	PRO	איך	AyX	_
+6	dir	PRO	דיר	dyr	_
+7	dr_tsu	DR+P	דר_צו	dr_qv	_
+8	gebn	VB	געבן	gebN	_
+
+SENT	1692E-VILNA,215.94
+1	entfert	VBF	ענטפֿערט	entfert	_
+2	der	D	דער	der	_
+3	kdush	N	קדוש	kdv$	_
+4	biz	P	ביז	byz	_
+5	alher	ADV	אַלהער	Aalher	_
+6-7	bistu	BEF~PRO	ביסטו	bystv	_
+6	bis	BEF	ביס	bys	_
+7	tu	PRO	טו	tv	_
+8	meyn	PRO$	מײן	mYN	_
+9	her	N	הער	her	_
+10	givezin	VBN	גיװעזין	gyVezyN	_
+
+SENT	1692E-VILNA,215.95
+1	un	CONJ	און	AvN	_
+2	heynt	ADV	הײנט	hYnt	_
+3	bin	BEF	בין	byN	_
+4	ikh	PRO	איך	AyX	_
+5	fun	P	פֿון	fvN	_
+6	dir	PRO	דיר	dyr	_
+7	ginezn	VBN	גינעזן	gynezN	_
+
+SENT	1692E-VILNA,215.96
+1	ikh	PRO	איך	AyX	_
+2	vil	MDF	װיל	Vyl	_
+3	tsu	P	צו	qv	_
+4	meyn	PRO$	מײן	mYN	_
+5	hukhin	ADJ	הוכין	hvxyN	_
+6	her	N	הער	her	_
+7	gian	VB	גיִאַן	gyiAaN	_
+
+SENT	1692E-VILNA,215.97
+1	der	D	דער	der	_
+2	vert	RDF	װערט	Vert	_
+3	mir	PRO	מיר	myr	_
+4	helfn	VB	העלפֿן	helfN	_
+5	el	H	על	el	on
+6	kidush	H	קידוש	kydv$	sanctification
+7	ha-shem	H	האַ-שם	hAa-$M	the_name
+8	tsu	TO	צו	qv	_
+9	bsteyn	VB	בסטײן	bstYN	_
+
+SENT	1692E-VILNA,215.98
+1	umut_heulm	N	אומוט_העולם	Avmvt_hevlM	_
+2	un	CONJ	און	AvN	_
+3	fil	Q	פֿיל	fyl	_
+4	nimeyn	N	נימײן	nymYN	_
+5	zeynn	BEF	זײנן	zYnN	_
+6	gkumn	VBN	גקומן	gkvmN	_
+7	tsu	TO	צו	qv	_
+8	zehin	VB	זעהין	zehyN	_
+9	oyb	C	אױב	AWb	_
+10	di	D	די	dy	_
+11	kdusim	N	קדוסים	kdvsyM	_
+12	verin	RDF	װערין	VeryN	_
+13	bsteyn	VB	בסטײן	bstYN	_
+
+SENT	1692E-VILNA,216.100
+1	khlilh	INTJ	כלילה	xlylh	_
+2	vern	RDF	װערן	VerN	_
+3	zi	PRO	זי	zy	_
+4	nit	NEG	ניט	nyt	_
+5	bsteyn	VB	בסטײן	bstYN	_
+6	bey	P	בײ	bY	_
+7	eyn	D	אײן	AYN	_
+8	dibr	N	דיבר	dybr	_
+9	ver	BEF	װער	Ver	_
+10	um	RP	אום	AvM	_
+11	gikumn	VBN	גיקומן	gykvmN	_
+12	khm	H	כם	xM	have_mercy
+13	uslum	H	אוסלום	AvslvM	and_peace
+14	eyn	D	אײן	AYN	_
+15	gntsn	ADJ	גנצן	gnqN	_
+16	tsibur	N	ציבור	qybvr	_
+
+SENT	1692E-VILNA,216.101
+1	di	D	די	dy	_
+2	imurim	N	אימורים	AymvryM	_
+3	fun	P	פֿון	fvN	_
+4	den	D	דען	deN	_
+5	kidush	N	קידוש	kydv$	_
+6	habin	HVF	האַבין	hAabyN	_
+7	lng	ADV	לנג	lng	_
+8	givert	VBN	גיװערט	gyVert	_
+9	biz	C	ביז	byz	_
+10	mn	PRO	מן	mN	_
+11	hat	HVF	האַט	hAat	_
+12	zeyn	PRO$	זײן	zYN	_
+13	leyb	N	לײב	lYb	_
+14	ab	RP	אַב	Aab	_
+15	gibrent	VBN	גיברענט	gybrent	_
+16	un	CONJ	און	AvN	_
+17	gilert	VBN	גילערט	gylert	_
+18	un	CONJ	און	AvN	_
+19	gibratin	VBN	גיבראַטין	gybrAatyN	_
+20	un	CONJ	און	AvN	_
+21	hin	RP-ADV	הין	hyN	_
+22	un	CONJ	און	AvN	_
+23	her	RP-ADV	הער	her	_
+24	gikert	VBN	גיקערט	gykert	_
+
+SENT	1692E-VILNA,216.102
+1	tut	DOF	טוט	tvt	_
+2	mn	PRO	מן	mN	_
+3	nokh	P	נאָך	nAoX	_
+4	im	PRO	אים	AyM	_
+5	nemn	VB	נעמן	nemN	_
+6	dem	D	דעם	deM	_
+7	kdus	N	קדוס	kdvs	_
+8	r'	NPR	ר'	r'	_
+9	msh	NPR	מש	m$	_
+10	eyn	ADV	אײן	AYN	_
+11	fir	ADV	פֿיר	fyr	_
+
+SENT	1692E-VILNA,216.103
+1	un	CONJ	און	AvN	_
+2	dr	D	דר	dr	_
+3	rse	N	רסע	rse	_
+4	iz	BEF	איז	Ayz	_
+5	gistann	VBN	גיסטאַנן	gystAanN	_
+6	bey	P	בײ	bY	_
+7	dr	D	דר	dr	_
+8	tir	N	טיר	tyr	_
+
+SENT	1692E-VILNA,216.104
+1	un	CONJ	און	AvN	_
+2	hot	HVF	האָט	hAot	_
+3	bafuln	VBN	באַפֿולן	bAafvlN	_
+4	mn	PRO	מן	mN	_
+5	zal	MDF	ז"ל	z"l	_
+6	im	PRO	אים	AyM	_
+7	mer	QR	מער	mer	_
+8	megh	RP-H	מעגה	megh	_
+9	zeyn	VB	זײן	zYN	_
+10	un	CONJ	און	AvN	_
+11	zal	MDF	ז"ל	z"l	_
+12	im	PRO	אים	AyM	_
+13	an	RP	אַן	AaN	_
+14	tan	VB	טאַן	tAaN	_
+15	grus	ADJ	גרוס	grvs	_
+16	strtsn	N	סטרצן	strqN	_
+17	un	CONJ	און	AvN	_
+18	peyn	N	פּײן	pYN	_
+
+SENT	1692E-VILNA,216.105
+1	yhudh	N	יהודה	yhvdh	_
+2	,	PUNC	,	,	_
+3	habin	HVF	האַבין	hAabyN	_
+4	giret	VBN	גירעט	gyret	_
+5	di	D	די	dy	_
+6	rseim	N	רסעיִם	rseyiM	_
+7	tsu	P	צו	qv	_
+8	den	D	דען	deN	_
+9	kdus	N	קדוס	kdvs	_
+10	ali	Q	אַלי	Aaly	_
+11	gleykh	ADV	גלײך	glYX	_
+12	tret	VBI	טרעט	tret	_
+13	ab	RP	אַב	Aab	_
+14	fun	P	פֿון	fvN	_
+15	deynr	PRO$	דײנר	dYnr	_
+16	amnh	N	אַמנה	Aamnh	_
+17	viln	MDF	װילן	VylN	_
+18	mir	PRO	מיר	myr	_
+19	dir	PRO	דיר	dyr	_
+20	mkhin	VB	מכין	mxyN	_
+21	reykh	ADJ	רײך	rYX	_
+
+SENT	1692E-VILNA,216.106
+1	mit	P	מיט	myt	_
+2	di	D	די	dy	_
+3	gresti	ADJS	גרעסטי	gresty	_
+4	hrin	N	הרין	hryN	_
+5-6	verstu	RDF~PRO	װערסטו	Verstv	_
+5	vers	RDF	װערס	Vers	_
+6	tu	PRO	טו	tv	_
+7	zeyn	VB	זײן	zYN	_
+8	gleykh	ADJ	גלײך	glYX	_
+
+SENT	1692E-VILNA,216.107
+1	kpl	H	קפּל	kpl	doubled
+2	kplim	H	קפּלים	kplyM	manifold
+3	zagt	VBF	זאַגט	zAagt	_
+4	der	D	דער	der	_
+5	kdush	N	קדוש	kdv$	_
+6	megt	MDF	מעגט	megt	_
+7	ir	PRO	איר	Ayr	_
+8	mir	PRO	מיר	myr	_
+9	imurim	N	אימורים	AymvryM	_
+10	bsherin	VB	בשערין	b$eryN	_
+
+SENT	1692E-VILNA,216.108
+1	abr	CONJ	אַבר	Aabr	_
+2	eyn	D	אײן	AYN	_
+3	shbieh	N	שביִעה	$byieh	_
+4	tu	DOF	טו	tv	_
+5	ikh	PRO	איך	AyX	_
+6	shvern	VB	שװערן	$VerN	_
+
+SENT	1692E-VILNA,216.109
+1	eyrh	PRO$	אײרה	AYrh	_
+2	nershh	ADJ	נערשה	ner$h	_
+3	rid	N	ריד	ryd	_
+4	vil	MDF	װיל	Vyl	_
+5	ikh	PRO	איך	AyX	_
+6	nit	NEG	ניט	nyt	_
+7	tsu	RP	צו	qv	_
+8	hern	VB	הערן	herN	_
+
+SENT	1692E-VILNA,216.110
+1	lot	VBI	לוט	lvt	_
+2	op	RP	אָפּ	Aop	_
+
+SENT	1692E-VILNA,216.111
+1	un	CONJ	און	AvN	_
+2	tut	DOI	טוט	tvt	_
+3	di	D	די	dy	_
+4	reyd	N	רײד	rYd	_
+5	veyter	ADV	װײטער	VYter	_
+6	nit	NEG	ניט	nyt	_
+7	mern	VB	מערן	merN	_
+
+SENT	1692E-VILNA,216.112
+1	ikh	PRO	איך	AyX	_
+2	vil	MDF	װיל	Vyl	_
+3	fun	P	פֿון	fvN	_
+4	meyn	PRO$	מײן	mYN	_
+5	libn	ADJ	ליבן	lybN	_
+6	sheyn	ADJ	שײן	$YN	_
+7	hrtsgin	ADJ	הרצגין	hrqgyN	_
+8	gat	NPR	גאַט	gAat	_
+9	nit	NEG	ניט	nyt	_
+10	ap	RP	אַפּ	Aap	_
+11	kerin	VB	קערין	keryN	_
+
+SENT	1692E-VILNA,216.113
+1	meyn	PRO$	מײן	mYN	_
+2	gutr	ADJ	גוטר	gvtr	_
+3	kidush	N	קידוש	kydv$	_
+4	iz	BEF	איז	Ayz	_
+5	gblibn	VBN	גבליבן	gblybN	_
+6	bey	P	בײ	bY	_
+7	zeynr	PRO$	זײנר	zYnr	_
+8	amunh	N	אַמונה	Aamvnh	_
+
+SENT	1692E-VILNA,216.114
+1	un	CONJ	און	AvN	_
+2	entvr'	VBF	ענטװר'	entVr'	_
+3	mit	P	מיט	myt	_
+4	grush	ADJ	גרוש	grv$	_
+5	kvnh	N	קװנה	kVnh	_
+6	un	CONJ	און	AvN	_
+7	hknh	N	הקנה	hknh	_
+
+SENT	1692E-VILNA,216.115
+1	dz	D	דז	dz	_
+2	alts	Q	אַלץ	AalQ	_
+3	iz	VBF	איז	Ayz	_
+4	skr	H	סקר	skr	payment
+5	uelilh	H	אועלילה	Avelylh	and_libel
+6	vain	H	װאַיִן	VAayiN	UNKNOWN
+7	nkhunh	H	נכונה	nxvnh	UNKNOWN
+
+SENT	1692E-VILNA,216.116
+1	men	PRO	מען	meN	_
+2	hat	HVF	האַט	hAat	_
+3	im	PRO	אים	AyM	_
+4	in	P	אין	AyN	_
+5	svebil	N	סװעביל	sVebyl	_
+6	un	CONJ	און	AvN	_
+7	in	P	אין	AyN	_
+8	pekh	N	פּעך	peX	_
+9	tun	DON-IPP	טון	tvN	_
+10	prenlin	VB	פּרענלין	prenlyN	_
+11	un	CONJ	און	AvN	_
+12	gtsugin	VBN	גצוגין	gqvgyN	_
+13	az	P	אַז	Aaz	_
+14	di	D	די	dy	_
+15	shvekln	N	שװעקלן	$VeklN	_
+16	az	C	אַז	Aaz	_
+17	der	D	דער	der	_
+18	tleyn	N	טלײן	tlYN	_
+19	hat	HVF	האַט	hAat	_
+20	gishprokhn	VBN	גישפּראָכן	gy$prAoxN	_
+21	ikh	PRO	איך	AyX	_
+22	hab	HVF	האַב	hAab	_
+23	nit	NEG	ניט	nyt	_
+24	ghat	VBN	גהאַט	ghAat	_
+25	in	P	אין	AyN	_
+26	meynh	PRO$	מײנה	mYnh	_
+27	zin	N	זין	zyN	_
+28	tsu	TO	צו	qv	_
+29	ton	VB	טאָן	tAoN	_
+30	zelkhh	ADJ	זעלכה	zelxh	_
+31	imurim	N	אימורים	AymvryM	_
+32	ksut	H	קסוט	ksvt	UNKNOWN
+33	vidrn	P	װידרן	VydrN	_
+34	din	H	דין	dyN	justice
+
+SENT	1692E-VILNA,216.117
+1	nakh	P	נ"ך	n"X	_
+2	dem	D	דעם	deM	_
+3	tut	DOF	טוט	tvt	_
+4	men	PRO	מען	meN	_
+5	hkdus	NPR	הקדוס	hkdvs	_
+6	r'	NPR	ר'	r'	_
+7	abrhm	NPR	אַברהם	AabrhM	_
+8	firn	VB	פֿירן	fyrN	_
+
+SENT	1692E-VILNA,216.118
+1	iz	BEF	איז	Ayz	_
+2	er	PRO	ער	er	_
+3	khlis	RP-H	כליס	xlys	_
+4	givarn	VBN	גיװאַרן	gyVAarN	_
+5	fr	P	פֿר	fr	_
+6	zeynh	PRO$	זײנה	zYnh	_
+7	tirn	N	טירן	tyrN	_
+
+SENT	1692E-VILNA,216.119
+1	hot	HVF	האָט	hAot	_
+2	der	D	דער	der	_
+3	tleyn	N	טלײן	tlYN	_
+4	ginumn	VBN	גינומן	gynvmN	_
+5	mkhin	VB	מכין	mxyN	_
+6	-	PUNC	-	-	_
+7	eyn	D	אײן	AYN	_
+8	mesr	N	מעסר	mesr	_
+
+SENT	1692E-VILNA,217.121
+1	un	CONJ	און	AvN	_
+2	shneyt	VBF	שנײט	$nYt	_
+3	im	PRO	אים	AyM	_
+4	in	P	אין	AyN	_
+5	zeyn	PRO$	זײן	zYN	_
+6	hnt	N	הנט	hnt	_
+
+SENT	1692E-VILNA,217.122
+1	un	CONJ	און	AvN	_
+2	shlogt	VBF	שלאָגט	$lAogt	_
+3	in	PRO	אין	AyN	_
+4	den	D	דען	deN	_
+5	kop	N	קאָפּ	kAop	_
+6	on	P	אָן	AoN	_
+7	der	D	דער	der	_
+8	vnt	N	װנט	Vnt	_
+
+SENT	1692E-VILNA,217.123
+1	er	PRO	ער	er	_
+2	tut	DOF	טוט	tvt	_
+3	den	D	דען	deN	_
+4	kdus	N	קדוס	kdvs	_
+5	oyf	P	אױף	AWF	_
+6	der	D	דער	der	_
+7	einui	N	עיִנויִ	eyinvyi	_
+8	leygn	VB	לײגן	lYgN	_
+
+SENT	1692E-VILNA,217.124
+1	un	CONJ	און	AvN	_
+2	tut	VBF	טוט	tvt	_
+3	im	PRO	אים	AyM	_
+4	an	RP	אַן	AaN	_
+5	imurim	N	אימורים	AymvryM	_
+6	mer	QR	מער	mer	_
+7	az	P	אַז	Aaz	_
+8	ienh	D	איענה	Ayenh	_
+9	kdusim	N	קדוסים	kdvsyM	_
+10	ali	Q	אַלי	Aaly	_
+11	beydn	Q	בײדן	bYdN	_
+
+SENT	1692E-VILNA,217.125
+1	ub	C	אוב	Avb	_
+2	er	PRO	ער	er	_
+3	vert	RDF	װערט	Vert	_
+4	bsteyn	VB	בסטײן	bstYN	_
+5	tuan	DOF	טואַן	tvAaN	_
+6	zi	PRO	זי	zy	_
+7	im	PRO	אים	AyM	_
+8	prubn	VB	פּרובן	prvbN	_
+
+SENT	1692E-VILNA,217.126
+1	un	CONJ	און	AvN	_
+2	zeyn	PRO$	זײן	zYN	_
+3	leyb	N	לײב	lYb	_
+4	hat	HVF	האַט	hAat	_
+5	der	D	דער	der	_
+6	tleyn	N	טלײן	tlYN	_
+7	gimkht	VBN	גימכט	gymxt	_
+8	eytl	ADJ	אײטל	AYtl	_
+9	gribn	N	גריבן	grybN	_
+
+SENT	1692E-VILNA,217.127
+1	frey	ADV	פֿרײ	frY	_
+2	zal	MDF	ז"ל	z"l	_
+3	mn	PRO	מן	mN	_
+4	droyf	DR+P	דרױף	drWF	_
+5	klagin	VB	קלאַגין	klAagyN	_
+6	eyn	D	אײן	AYN	_
+7	grush	ADJ	גרוש	grv$	_
+8	kinh	N	קינה	kynh	_
+9	dz	C	דז	dz	_
+10	es	ES	עס	es	_
+11	hat	HVF	האַט	hAat	_
+12	nist	NEG	ניסט	nyst	_
+13	gihalfn	VBN	גיהאַלפֿן	gyhAalfN	_
+14	keyn	Q	קײן	kYN	_
+15	bksh	N	בקש	bk$	_
+16	un	CONJ	און	AvN	_
+17	thinh	N	טהינה	thynh	_
+18	un	P	און	AvN	_
+19	den	D	דען	deN	_
+20	grusn	ADJ	גרוסן	grvsN	_
+21	kidush	H	קידוש	kydv$	sanctification
+22	hshm	H	השם	h$M	the_name
+23	vas	C	װאַס	VAas	_
+24	er	PRO	ער	er	_
+25	hat	HVF	האַט	hAat	_
+26	gvizn	VBN	גװיזן	gVyzN	_
+27	oyf	P	אױף	AWF	_
+28	dr	D	דר	dr	_
+29	eini	N	עיִני	eyiny	_
+
+SENT	1692E-VILNA,217.128
+1	ir	PRO$	איר	Ayr	_
+2	zkhut	N	זכוט	zxvt	_
+3	zalin	MDF	זאַלין	zAalyN	_
+4	mir	PRO	מיר	myr	_
+5	gnisn	VB	גניסן	gnysN	_
+6	ali	Q	אַלי	Aaly	_
+7	tseyt	N	צײט	qYt	_
+8	dz	C	דז	dz	_
+9	hs"i	H	הס"אי	hs"Ay	his_name_may_be_blessed
+10	zal	MDF	ז"ל	z"l	_
+11	fr_kern	VB	פֿר_קערן	fr_kerN	_
+12	unzrh	PRO$	אונזרה	Avnzrh	_
+13	leyd	N	לײד	lYd	_
+14	tsu	P	צו	qv	_
+15	grush	ADJ	גרוש	grv$	_
+16	freyd	N	פֿרײד	frYd	_
+17	biz	P	ביז	byz	_
+18	msikh	NPR	מסיך	msyX	_
+19	zeyt	N	זײט	zYt	_
+
+SENT	1692E-VILNA,217.129
+1	droyf	DR+P	דרױף	drWF	_
+2	viln	MDF	װילן	VylN	_
+3	mir	PRO	מיר	myr	_
+4	amn	INTJ	אַמן	AamN	_
+5	zagin	VB	זאַגין	zAagyN	_
+6	heynt	ADV	הײנט	hYnt	_
+
+SENT	1692E-VILNA,217.130
+1	tsurrim	N	צוררים	qvrryM	_
+2	,	PUNC	,	,	_
+3	pritsim	N	פּריצים	pryqyM	_
+4	un	CONJ	און	AvN	_
+5	glkhes	N	גלכעס	glxes	_
+6	eyn_zu_bld	C	אײנ_זו_בלד	AYn_zv_bld	_
+7	az	C	אַז	Aaz	_
+8	zi	PRO	זי	zy	_
+9	habn	HVF	האַבן	hAabN	_
+10	das	D	דת	dS	_
+11	gzehn	VBN	גזעהן	gzehN	_
+12	dem	D	דעם	deM	_
+13	grusn	ADJ	גרוסן	grvsN	_
+14	kidush	H	קידוש	kydv$	sanctification
+15	ha-shem	H	האַ-שם	hAa-$M	the_name
+16	vas	C	װאַס	VAas	_
+17	iz	BEF	איז	Ayz	_
+18	gsen	VBN	גסען	gseN	_
+19	kdusim	N	קדוסים	kdvsyM	_
+20	ali	Q	אַלי	Aaly	_
+21	drey	NUM	דרײ	drY	_
+22	zalin	MDF	זאַלין	zAalyN	_
+23	bleybn	VB	בלײבן	blYbN	_
+24	bey	P	בײ	bY	_
+25	eynm	D	אײנם	AYnM	_
+26	vart	N	װאַרט	VAart	_
+27	da	ADV	דאַ	dAa	_
+28	gingn	VBF	גינגן	gyngN	_
+29	zi	PRO	זי	zy	_
+30	azu_bld	ADV	אַזו_בלד	Aazv_bld	_
+31	fart	ADV	פֿאַרט	fAart	_
+
+SENT	1692E-VILNA,217.131
+1	dakh	ADV	דאַך	dAaX	_
+2	hat	HVF	האַט	hAat	_
+3	gat	NPR	גאַט	gAat	_
+4	nit	NEG	ניט	nyt	_
+5	veln	MDN-IPP	װעלן	VelN	_
+6	ab	RP	אַב	Aab	_
+7	tuan	VB	טואַן	tvAaN	_
+8	zeyn	PRO$	זײן	zYN	_
+9	tsarn	N	צאַרן	qAarN	_
+
+SENT	1692E-VILNA,217.132
+1	di	D	די	dy	_
+2	drey	NUM	דרײ	drY	_
+3	kdusim	N	קדוסים	kdvsyM	_
+4	habn	HVF	האַבן	hAabN	_
+5	muzin	MDN-IPP	מוזין	mvzyN	_
+6	vern	RD	װערן	VerN	_
+7	vr_larin	VAN	װר_לאַרין	Vr_lAaryN	_
+
+SENT	1692E-VILNA,217.133
+1	oy	INTJ	אױ	AW	_
+2	vey	INTJ	װײ	VY	_
+3	,	PUNC	,	,	_
+4	vas	WPRO	װאַס	VAas	_
+5	fr	P	פֿר	fr	_
+6	eyn	D	אײן	AYN	_
+7	mkhh	N	מכה	mxh	_
+8	iz	BEF	איז	Ayz	_
+9	gshehin	VBN	גשעהין	g$ehyN	_
+10	da	ADV	דאַ	dAa	_
+11	in	P	אין	AyN	_
+12	unzrh	PRO$	אונזרה	Avnzrh	_
+13	yarn	N	יאַרן	yAarN	_
+
+SENT	1692E-VILNA,217.134
+1	rse	N	רסע	rse	_
+2	nakh	P	נ"ך	n"X	_
+3	dr	D	דר	dr	_
+4	einui	N	עיִנויִ	eyinvyi	_
+5	tut	VBF	טוט	tvt	_
+6	er	PRO	ער	er	_
+7	zi	PRO	זי	zy	_
+8	in	P	אין	AyN	_
+9	eyn	D	אײן	AYN	_
+10	klt	ADJ	קלט	klt	_
+11	khdr	N	כדר	xdr	_
+12	areyn	ADV	אַרײן	AarYN	_
+13	dz	C	דז	dz	_
+14	di	D	די	dy	_
+15	imurim	N	אימורים	AymvryM	_
+16	zaln	MDF	זאַלן	zAalN	_
+17	gresr	ADJR	גרעסר	gresr	_
+18	zeyn	VB	זײן	zYN	_
+
+SENT	1692E-VILNA,217.135
+1	da	ADV	דאַ	dAa	_
+2	leydn	VBF	לײדן	lYdN	_
+3	zi	PRO	זי	zy	_
+4	ibr	P	איבר	Aybr	_
+5	neyz	N	נײז	nYz	_
+6	nokh	ADV	נאָך	nAoX	_
+7	gresr	ADJR	גרעסר	gresr	_
+8	peyn	N	פּײן	pYN	_
+
+SENT	1692E-VILNA,217.136
+1	sukhr	N	סוכר	svxr	_
+2	habn	HVF	האַבן	hAabN	_
+3	unzri	PRO$	אונזרי	Avnzry	_
+4	bridr	N	ברידר	brydr	_
+5	gigebn	VBN	גיגעבן	gygebN	_
+6	fil	Q	פֿיל	fyl	_
+7	gelt	N	געלט	gelt	_
+
+SENT	1692E-VILNA,217.137
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	kdusim	N	קדוסים	kdvsyM	_
+4	zenn	BEF	זענן	zenN	_
+5	varn	RDN	װאַרן	VAarN	_
+6	bey	P	בײ	bY	_
+7	eyn	D	אײן	AYN	_
+8	vart	N	װאַרט	VAart	_
+9	bstent	VAN	בסטענט	bstent	_
+
+SENT	1692E-VILNA,218.139
+1	fart	ADV	פֿאַרט	fAart	_
+2	habn	HVF	האַבן	hAabN	_
+3	di	D	די	dy	_
+4	rseim	N	רסעיִם	rseyiM	_
+5	den	D	דען	deN	_
+6	psk	N	פּסק	psk	_
+7	oys	RP	אױס	AWs	_
+8	gizant	VBN	גיזאַנט	gyzAant	_
+9	dz	C	דז	dz	_
+10	al	Q	אַל	Aal	_
+11	drey	NUM	דרײ	drY	_
+12	muzn	MDF	מוזן	mvzN	_
+13	kumn	VB	קומן	kvmN	_
+14	fun	P	פֿון	fvN	_
+15	dr	D	דר	dr	_
+16	velt	N	װעלט	Velt	_
+
+SENT	1692E-VILNA,218.140
+1	tflut	N	טפֿלוט	tflvt	_
+2	tsu	P	צו	qv	_
+3	gat	NPR	גאַט	gAat	_
+4	habin	HVF	האַבין	hAabyN	_
+5	gitan	VBN	גיטאַן	gytAaN	_
+6	di	D	די	dy	_
+7	kdusim	N	קדוסים	kdvsyM	_
+8	ali	Q	אַלי	Aaly	_
+9	drey	NUM	דרײ	drY	_
+
+SENT	1692E-VILNA,218.141
+1	un	CONJ	און	AvN	_
+2	habn	HVF	האַבן	hAabN	_
+3	mtsdik	H	מצדיק	mqdyk	UNKNOWN
+4	hdin	H	הדין	hdyN	the_justice
+5	oyf	P	אױף	AWF	_
+6	zikh	PRO	זיך	zyX	_
+7	givezn	VBN	גיװעזן	gyVezN	_
+8	mit	P	מיט	myt	_
+9	grus	ADJ	גרוס	grvs	_
+10	gshrey	N	גשרײ	g$rY	_
+
+SENT	1692E-VILNA,218.142
+1	rbunu	H	רבונו	rbvnv	master_its
+2	sl	H	סל	sl	of
+3	eulm	H	עולם	evlM	world
+4	iz	BEF	איז	Ayz	_
+5	zeyer	PRO$	זײער	zYer	_
+6	gibet	N	גיבעט	gybet	_
+7	givezn	VBN	גיװעזן	gyVezN	_
+8	ven_sun	C	װענ_סון	Ven_svN	_
+9	mir	PRO	מיר	myr	_
+10	kanin	MDF	קאַנין	kAanyN	_
+11	nit	NEG	ניט	nyt	_
+12	vern	RD	װערן	VerN	_
+13	ginezin	VX	גינעזין	gynezyN	_
+14	dakh	ADV	דאַך	dAaX	_
+15	lazin	VBF	לאַזין	lAazyN	_
+16	mn	PRO	מן	mN	_
+17	zi	PRO	זי	zy	_
+18	es	PRO	עס	es	_
+19	nit	NEG	ניט	nyt	_
+20	oyf	P	אױף	AWF	_
+21	dem	D	דעם	deM	_
+22	freyan	ADJ	פֿרײאַן	frYAaN	_
+23	mrk	N	מרק	mrk	_
+24	mkhin	VB	מכין	mxyN	_
+25	dz	C	דז	dz	_
+26	di	D	די	dy	_
+27	umut	N	אומוט	Avmvt	_
+28	zaln	MDF	זאַלן	zAalN	_
+29	oys	RP	אױס	AWs	_
+30	zi	PRO	זי	zy	_
+31	nit	NEG	ניט	nyt	_
+32	lakhn	VB	לאַכן	lAaxN	_
+
+SENT	1692E-VILNA,218.143
+1	itbrkh	H	איטברך	AytbrX	may_be_blessed
+2	shmu	H	שמו	$mv	name_his
+3	,	PUNC	,	,	_
+4	gat	NPR	גאַט	gAat	_
+5	hat	HVF	האַט	hAat	_
+6	ir	PRO$	איר	Ayr	_
+7	gebet	N	געבעט	gebet	_
+8	fr_numn	VBN	פֿר_נומן	fr_nvmN	_
+
+SENT	1692E-VILNA,218.144
+1	los	VBI	לאָס	lAos	_
+2	doz	D	דאָז	dAoz	_
+3	zeyn	VB	זײן	zYN	_
+4	bsmi	H	בסמי	bsmy	in_name_of
+5	hshmim	H	השמים	h$myM	the_heavens
+6	dz	C	דז	dz	_
+7	mn	PRO	מן	mN	_
+8	zal	MDF	ז"ל	z"l	_
+9	zi	PRO	זי	zy	_
+10	um	RP	אום	AvM	_
+11	brengin	VB	ברענגין	brengyN	_
+12	oyf	P	אױף	AWF	_
+13	den	D	דען	deN	_
+14	bit	H	ביט	byt	house
+15	hkheym	H	הכײם	hxYM	the_UNKNOWN
+
+SENT	1692E-VILNA,218.145
+1	zunst	ADV	זונסט	zvnst	_
+2	ver	BEF	װער	Ver	_
+3	der	D	דער	der	_
+4	khlil	H	כליל	xlyl	UNKNOWN
+5	ha-shem	H	האַ-שם	hAa-$M	the_name
+6	givezin	VBN	גיװעזין	gyVezyN	_
+7	kpl	H	קפּל	kpl	doubled
+8	kplim	H	קפּלים	kplyM	doubled
+
+SENT	1692E-VILNA,218.146
+1	khatsi	H	כאַצי	xAaqy	half
+2	khilh	H	כילה	xylh	community
+3	kdush	H	קדוש	kdv$	holy
+4	vilnh	NPR	װילנה	Vylnh	_
+5	habin	HVF	האַבין	hAabyN	_
+6	droyf	DR+P	דרױף	drWF	_
+7	giligt	VBN	גיליגט	gylygt	_
+8	fil	Q	פֿיל	fyl	_
+9	gelt	N	געלט	gelt	_
+
+SENT	1692E-VILNA,218.147
+1	habn	HVF	האַבן	hAabN	_
+2	zi	PRO	זי	zy	_
+3	niks	Q	ניקס	nyks	_
+4	oys	RP	אױס	AWs	_
+5	girekht	VBN	גירעכט	gyrext	_
+
+SENT	1692E-VILNA,218.148
+1	neyert	CONJ	נײערט	nYert	_
+2	zi	PRO	זי	zy	_
+3	habin	HVF	האַבין	hAabyN	_
+4	hrbh	H	הרבה	hrbh	many
+5	mith	H	מיטה	myth	death
+6	gring	ADV	גרינג	gryng	_
+7	gstelt	VBN	גסטעלט	gstelt	_
+8	dz	C	דז	dz	_
+9	mn	PRO	מן	mN	_
+10	zal	MDF	ז"ל	z"l	_
+11	zi	PRO	זי	zy	_
+12	nar	FP	נאַר	nAar	_
+13	kepn	VB	קעפּן	kepN	_
+14	un	CONJ	און	AvN	_
+15	dr_mit	DR+P	דר_מיט	dr_myt	_
+16	zal	MDF	ז"ל	z"l	_
+17	zikh	PRO	זיך	zyX	_
+18	dr	D	דר	dr	_
+19	rse	N	רסע	rse	_
+20	dr_zetin	VB	דר_זעטין	dr_zetyN	_
+
+SENT	1692E-VILNA,218.149
+1	zi	PRO	זי	zy	_
+2	zehin	VBF	זעהין	zehyN	_
+3	den	D	דען	deN	_
+4	tleyn	N	טלײן	tlYN	_
+5	kumn	VB	קומן	kvmN	_
+6	nakh	P	נ"ך	n"X	_
+7	zi	PRO	זי	zy	_
+8	alh	Q	אַלה	Aalh	_
+
+SENT	1692E-VILNA,218.150
+1	da	ADV	דאַ	dAa	_
+2	zenn	BEF	זענן	zenN	_
+3	zi	PRO	זי	zy	_
+4	gegngn	VBN	געגנגן	gegngN	_
+5	mit	P	מיט	myt	_
+6	smkhh	N	סמכה	smxh	_
+7	az	C	אַז	Aaz	_
+8	es	ES	עס	es	_
+9	git	VBF	גיט	gyt	_
+10	dr	D	דר	dr	_
+11	ktn	N	קטן	ktN	_
+12	tsu	P	צו	qv	_
+13	der	D	דער	der	_
+14	klh	N	קלה	klh	_
+
+SENT	1692E-VILNA,218.151
+1	kumn	VBF	קומן	kvmN	_
+2	zi	PRO	זי	zy	_
+3	oyf	P	אױף	AWF	_
+4	dem	D	דעם	deM	_
+5	bit	H	ביט	byt	house
+6	hkheym	H	הכײם	hxYM	the_UNKNOWN
+7	hibt	VBF	היבט	hybt	_
+8	eynr	PRO	אײנר	AYnr	_
+9-10	tsum	P~D	צום	qvM	_
+9	tsu	P	צו	qv	_
+10	m	D	מ	m	_
+11	andrn	ADJ	אַנדרן	AandrN	_
+12	loz	VBI	לאָז	lAoz	_
+13	uns	PRO	אונס	Avns	_
+14	dukhtn	VB	דוכטן	dvxtN	_
+15	mir	PRO	מיר	myr	_
+16	zenn	VBF	זענן	zenN	_
+17	in	P	אין	AyN	_
+18	iruslim	NPR	אירוסלים	AyrvslyM	_
+
+SENT	1692E-VILNA,218.152
+1	da	ADV	דאַ	dAa	_
+2	hibn	VBF	היבן	hybN	_
+3	zi	PRO	זי	zy	_
+4	on	RP	אָן	AoN	_
+5	tsu	TO	צו	qv	_
+6	zgin	VB	זגין	zgyN	_
+7	di	D	די	dy	_
+8	brkhh	H	ברכה	brxh	blessing
+9	asri	H	אַסרי	Aasry	happy
+10	het	H	העט	het	the_time
+11	slhm	H	סלהם	slhM	that_to_them
+12	kkh	H	קך	kX	strength
+13	gleykh	ADV	גלײך	glYX	_
+14	az	C	אַז	Aaz	_
+15	mn	PRO	מן	mN	_
+16	iz	VBF	איז	Ayz	_
+17	mkrb	RP-H	מקרב	mkrb	_
+18	eyn	D	אײן	AYN	_
+19	krbn	H	קרבן	krbN	sacrifice
+20	trh	H	טרה	trh	Torah
+21	oyf	P	אױף	AWF	_
+22	dr	D	דר	dr	_
+23	merkh	N	מערך	merX	_
+
+SENT	1692E-VILNA,218.153
+1	libh	ADJ	ליבה	lybh	_
+2	khbrh	H	כברה	xbrh	community
+3	hkdush	H	הקדוש	hkdv$	the_holy
+4	fun	P	פֿון	fvN	_
+5	kbrnim	N	קברנים	kbrnyM	_
+6	habn	HVF	האַבן	hAabN	_
+7	fr	P	פֿר	fr	_
+8	di	D	די	dy	_
+9	kdusim	N	קדוסים	kdvsyM	_
+10	oygin	N	אױגין	AWgyN	_
+11	mkhin	VB-IPP	מכין	mxyN	_
+12	irh	PRO$	אירה	Ayrh	_
+13	kbrim	N	קברים	kbryM	_
+14	dz	C	דז	dz	_
+15	zey	PRO	זײ	zY	_
+16	zalin	MDF	זאַלין	zAalyN	_
+17	nit	NEG	ניט	nyt	_
+18	lng	ADV	לנג	lng	_
+19	lign	VB	ליגן	lygN	_
+20	fr	P	פֿר	fr	_
+21	di	D	די	dy	_
+22	umh	H	אומה	Avmh	nation
+23	akhzrim	H	אַכזרים	AaxzryM	UNKNOWN
+
+SENT	1692E-VILNA,218.154
+1	ret	VBF	רעט	ret	_
+2	eyn	D	אײן	AYN	_
+3	kdush	N	קדוש	kdv$	_
+4	tsu	P	צו	qv	_
+5	dem	D	דעם	deM	_
+6	andrn	N	אַנדרן	AandrN	_
+
+SENT	1692E-VILNA,218.155
+1	un	CONJ	און	AvN	_
+2	hibt	VBF	היבט	hybt	_
+3	eynr	PRO	אײנר	AYnr	_
+4	dem	D	דעם	deM	_
+5	andrn	ADJ	אַנדרן	AandrN	_
+6	on	RP	אָן	AoN	_
+7	tsu	TO	צו	qv	_
+8	betin	VB	בעטין	betyN	_
+9	laz	VBI	לאַז	lAaz	_
+10	mn	PRO	מן	mN	_
+11	mikh	PRO	מיך	myX	_
+12	dn	RP-H	דן	dN	_
+13	zeyn	VB	זײן	zYN	_
+14-15	tsum	P~D	צום	qvM	_
+14	tsu	P	צו	qv	_
+15	m	D	מ	m	_
+16	erstin	ADJ	ערסטין	erstyN	_
+
+SENT	1692E-VILNA,219.157
+1	meyn	PRO$	מײן	mYN	_
+2	gutn	ADJ	גוטן	gvtN	_
+3	kdus	N	קדוס	kdvs	_
+4	hthur	H	הטהור	hthvr	UNKNOWN
+5	r'	NPR	ר'	r'	_
+6	itzkal	NPR	איטזקאַל	AytzkAal	_
+7	hat	HVF	האַט	hAat	_
+8	mn	PRO	מן	mN	_
+9	dn	RP-H	דן	dN	_
+10	givezin	VBN	גיװעזין	gyVezyN	_
+
+SENT	1692E-VILNA,219.158
+1	eyn	D	אײן	AYN	_
+2	grusn	ADJ	גרוסן	grvsN	_
+3	kidush	H	קידוש	kydv$	sanctification
+4	ha-shem	H	האַ-שם	hAa-$M	the_name
+5	iz	BEF	איז	Ayz	_
+6	darkh	P	דאַרך	dAarX	_
+7	im	PRO	אים	AyM	_
+8	gshehin	VBN	גשעהין	g$ehyN	_
+9	stinr	X	סטינר	stynr	_
+10	az	C	אַז	Aaz	_
+11	hkdus	H	הקדוס	hkdvs	the_holy
+12	r'	NPR	ר'	r'	_
+13	msh	NPR	מש	m$	_
+14	hat	HVF	האַט	hAat	_
+15	den	D	דען	deN	_
+16	kidush	N	קידוש	kydv$	sanctification
+17	ha-shem	NPR	האַ-שם	hAa-$M	the_name
+18	gizehn	VBN	גיזעהן	gyzehN	_
+19	mit	P	מיט	myt	_
+20	zeyn	PRO$	זײן	zYN	_
+21	oygin	N	אױגין	AWgyN	_
+
+SENT	1692E-VILNA,219.159
+1	da	ADV	דאַ	dAa	_
+2	luft	VBF	לופֿט	lvft	_
+3	er	PRO	ער	er	_
+4	tsu	P	צו	qv	_
+5	den	D	דען	deN	_
+6	tleyn	N	טלײן	tlYN	_
+7	gshvind	ADV	גשװינד	g$Vynd	_
+8	az	P	אַז	Aaz	_
+9	eyn	D	אײן	AYN	_
+10	feyl	N	פֿײל	fYl	_
+11	fun	P	פֿון	fvN	_
+12	bugin	N	בוגין	bvgyN	_
+
+SENT	1692E-VILNA,219.160
+1	un	CONJ	און	AvN	_
+2	bit	VBF	ביט	byt	_
+3	im	PRO	אים	AyM	_
+4	freyntlikh	ADV	פֿרײנטליך	frYntlyX	_
+5	az	P	אַז	Aaz	_
+6	r'	NPR	ר'	r'	_
+7	ikhzkal	NPR	איכזקאַל	AyxzkAal	_
+8-9	zalstu	MDF~PRO	זאַלסטו	zAalstv	_
+8	zals	MDF	זאַלס	zAals	_
+9	tu	PRO	טו	tv	_
+10	meyn	PRO$	מײן	mYN	_
+11	kap	N	קאַפּ	kAap	_
+12	arap	ADV	אַראַפּ	AarAap	_
+13	hikn	VB	היקן	hykN	_
+
+SENT	1692E-VILNA,219.161
+1	hkdush	H	הקדוש	hkdv$	the_holy
+2	r'	NPR	ר'	r'	_
+3	abrm	NPR	אַברם	AabrM	_
+4	hibt	VBF	היבט	hybt	_
+5	on	RP	אָן	AoN	_
+6	shreyan	VB	שרײאַן	$rYAaN	_
+7	un	CONJ	און	AvN	_
+8	tsu	TO	צו	qv	_
+9	ridn	VB	רידן	rydN	_
+10	ikh	PRO	איך	AyX	_
+11	bit	VBF	ביט	byt	_
+12	laz	VBF	לאַז	lAaz	_
+13	mn	PRO	מן	mN	_
+14	mikh	PRO	מיך	myX	_
+15-16	tsum	P~D	צום	qvM	_
+15	tsu	P	צו	qv	_
+16	m	D	מ	m	_
+17	erstn	ADJ	ערסטן	erstN	_
+18	titn	VB	טיטן	tytN	_
+
+SENT	1692E-VILNA,219.162
+1	odr	CONJ	אָדר	Aodr	_
+2	laz	VBF	לאַז	lAaz	_
+3	mn	PRO	מן	mN	_
+4	nurl	N	נורל	nvrl	_
+5	vrfin	VB	װרפֿין	VrfyN	_
+6	tvishn	P	טװישן	tVy$N	_
+7	uns	PRO	אונס	Avns	_
+8	beydn	Q	בײדן	bYdN	_
+
+SENT	1692E-VILNA,219.163
+1	zi	PRO	זי	zy	_
+2	hibn	VBF	היבן	hybN	_
+3	on	RP	אָן	AoN	_
+4	tsu	TO	צו	qv	_
+5	zogin	VB	זאָגין	zAogyN	_
+6	frish	ADV	פֿריש	fry$	_
+7	un	CONJ	און	AvN	_
+8	shrf	ADV	שרף	$rF	_
+9	zier	PRO$	זיִער	zyier	_
+10	vidoym	N	װידױם	VydWM	_
+11	gleykh	ADV	גלײך	glYX	_
+12	az	C	אַז	Aaz	_
+13	zi	PRO	זי	zy	_
+14	hetn	HVF	העטן	hetN	_
+15	nit	NEG	ניט	nyt	_
+16	glitn	VBN	גליטן	glytN	_
+17	gar	ADV	גאַר	gAar	_
+18	keyn	Q	קײן	kYN	_
+19	enveym	N	ענװײם	enVYM	_
+20	nit	NEG	ניט	nyt	_
+
+SENT	1692E-VILNA,219.164
+1	rse	N	רסע	rse	_
+2	tut	DOF	טוט	tvt	_
+3	den	D	דען	deN	_
+4	tleyn	N	טלײן	tlYN	_
+5	zagin	VB	זאַגין	zAagyN	_
+6	er	PRO	ער	er	_
+7	zal	MDF	ז"ל	z"l	_
+8	hkdus	NPR	הקדוס	hkdvs	_
+9	r'	NPR	ר'	r'	_
+10	msh	NPR	מש	m$	_
+11	den	D	דען	deN	_
+12	kap	N	קאַפּ	kAap	_
+13	ab	RP	אַב	Aab	_
+14	slagn	VB	סלאַגן	slAagN	_
+
+SENT	1692E-VILNA,219.165
+1	ier	C	איער	Ayer	_
+2	der	D	דער	der	_
+3	rse	N	רסע	rse	_
+4	tut	DOF	טוט	tvt	_
+5	das	D	דת	dS	_
+6	ridn	VB	רידן	rydN	_
+7	ligt	VBF	ליגט	lygt	_
+8	shun	ADV	שון	$vN	_
+9	der	D	דער	der	_
+10	kop	N	קאָפּ	kAop	_
+11	fun	P	פֿון	fvN	_
+12	r'	NPR	ר'	r'	_
+13	msh	NPR	מש	m$	_
+14	mit	P	מיט	myt	_
+15	den	D	דען	deN	_
+16	kop	N	קאָפּ	kAop	_
+17	fun	P	פֿון	fvN	_
+18	r'	NPR	ר'	r'	_
+19	ihukal	NPR	איהוקאַל	AyhvkAal	_
+20	ali	Q	אַלי	Aaly	_
+21	beydn	Q	בײדן	bYdN	_
+
+SENT	1692E-VILNA,219.166
+1	oy	INTJ	אױ	AW	_
+2	vey	INTJ	װײ	VY	_
+3	,	PUNC	,	,	_
+4	habn	HVF	האַבן	hAabN	_
+5	mir	PRO	מיר	myr	_
+6	der_lebt	VBN	דער_לעבט	der_lebt	_
+7	grush	ADJ	גרוש	grv$	_
+8	leydn	N	לײדן	lYdN	_
+
+SENT	1692E-VILNA,219.167
+1	az	C	אַז	Aaz	_
+2	dr	D	דר	dr	_
+3	rse	N	רסע	rse	_
+4	zet	VBF	זעט	zet	_
+5	das	D	דת	dS	_
+6	reynh	ADJ	רײנה	rYnh	_
+7	blut	N	בלוט	blvt	_
+8	fun	P	פֿון	fvN	_
+9	di	D	די	dy	_
+10	tsvey	NUM	צװײ	qVY	_
+11	kdusim	N	קדוסים	kdvsyM	_
+12	rinn	VB	רינן	rynN	_
+13	tut	DOF	טוט	tvt	_
+14	der	D	דער	der	_
+15	rse	N	רסע	rse	_
+16	zikh	PRO	זיך	zyX	_
+17	bzinn	VB	בזינן	bzynN	_
+
+SENT	1692E-VILNA,219.168
+1	er	PRO	ער	er	_
+2	zogt	VBF	זאָגט	zAogt	_
+3	vos	WPRO	װאָס	VAos	_
+4	vil	MDF	װיל	Vyl	_
+5	ikh	PRO	איך	AyX	_
+6	gvinn	VB	גװינן	gVynN	_
+
+SENT	1692E-VILNA,219.169
+1	er	PRO	ער	er	_
+2	vil	MDF	װיל	Vyl	_
+3	hkdus	NPR	הקדוס	hkdvs	_
+4	r'	NPR	ר'	r'	_
+5	abrm	NPR	אַברם	AabrM	_
+6	lazin	VB	לאַזין	lAazyN	_
+7	lebn	VB	לעבן	lebN	_
+
+SENT	1692E-VILNA,219.170
+1	abr	CONJ	אַבר	Aabr	_
+2	fil	Q	פֿיל	fyl	_
+3	gelt	N	געלט	gelt	_
+4	,	PUNC	,	,	_
+5	ir	PRO	איר	Ayr	_
+6	ihudim	N	איהודים	AyhvdyM	_
+7	,	PUNC	,	,	_
+8	zalt	MDF	זאַלט	zAalt	_
+9	ir	PRO	איר	Ayr	_
+10	mir	PRO	מיר	myr	_
+11	fr	P	פֿר	fr	_
+12	im	PRO	אים	AyM	_
+13	gebn	VB	געבן	gebN	_
+
+SENT	1692E-VILNA,219.171
+1	beli_btim	N	בעלי_בטים	bely_btyM	_
+2	dk"k	H	דק"ק	dk"k	that_community_holy
+3	vilna	NPR	װילנאַ	VylnAa	_
+4	tuain	DOF	טואַיִן	tvAayiN	_
+5	grush	ADJ	גרוש	grv$	_
+6	alpim	N	אַלפּים	AalpyM	_
+7	gebin	VB	געבין	gebyN	_
+8	dz	C	דז	dz	_
+9	hkdus	H	הקדוס	hkdvs	the_holy
+10	r'	NPR	ר'	r'	_
+11	abrm	NPR	אַברם	AabrM	_
+12	zal	MDF	ז"ל	z"l	_
+13	bleybn	VB	בלײבן	blYbN	_
+14	lebin	RP-V	לעבין	lebyN	_
+
+SENT	1692E-VILNA,219.172
+1	r'	NPR	ר'	r'	_
+2	abrm	NPR	אַברם	AabrM	_
+3	hkdus	H	הקדוס	hkdvs	the_holy
+4	tut	DOF	טוט	tvt	_
+5	das	D	דת	dS	_
+6	dr_hern	VB	דר_הערן	dr_herN	_
+7	dz	C	דז	dz	_
+8	er	PRO	ער	er	_
+9	zal	MDF	ז"ל	z"l	_
+10	zikh	PRO	זיך	zyX	_
+11	vidr	ADV	װידר	Vydr	_
+12	bslum	H	בסלום	bslvM	in_peace
+13	aheym	ADV	אַהײם	AahYM	_
+14	um	RP	אום	AvM	_
+15	kern	VB	קרן	krN	_
+
+SENT	1692E-VILNA,219.173
+1	er	PRO	ער	er	_
+2	hibt	VBF	היבט	hybt	_
+3	on	RP	אָן	AoN	_
+4	tsu	TO	צו	qv	_
+5	shreyan	VB	שרײאַן	$rYAaN	_
+6	vas	WPRO	װאַס	VAas	_
+7	fr	P	פֿר	fr	_
+8	eyn	D	אײן	AYN	_
+9	zindr	N	זינדר	zyndr	_
+10	muz	MDF	מוז	mvz	_
+11	ikh	PRO	איך	AyX	_
+12	zeyn	VB	זײן	zYN	_
+13	dz	C	דז	dz	_
+14	mn	PRO	מן	mN	_
+15	mikh	PRO	מיך	myX	_
+16	fr	P	פֿר	fr	_
+17	eyn	D	אײן	AYN	_
+18	krbn	N	קרבן	krbN	_
+19	vil	MDF	װיל	Vyl	_
+20	nit	NEG	ניט	nyt	_
+21	bgerin	VB	בגערין	bgeryN	_
+
+SENT	1692E-VILNA,220.175
+1	eyn	D	אײן	AYN	_
+2	shbueh	N	שבועה	$bveh	_
+3	vil	MDF	װיל	Vyl	_
+4	ikh	PRO	איך	AyX	_
+5	shvern	VB	שװערן	$VerN	_
+
+SENT	1692E-VILNA,220.176
+1	oyf	P	אױף	AWF	_
+2	den	D	דען	deN	_
+3	ort	N	אָרט	Aort	_
+4	muz	MDF	מוז	mvz	_
+5	ikh	PRO	איך	AyX	_
+6	um	RP	אום	AvM	_
+7	kumn	VB	קומן	kvmN	_
+
+SENT	1692E-VILNA,220.177
+1	mit	P	מיט	myt	_
+2	meyn	PRO$	מײן	mYN	_
+3	blut	N	בלוט	blvt	_
+4	vil	MDF	װיל	Vyl	_
+5	ikh	PRO	איך	AyX	_
+6	gat	NPR	גאַט	gAat	_
+7	fr_erin	VB	פֿר_ערין	fr_eryN	_
+
+SENT	1692E-VILNA,220.178
+1	mutr	N	מוטר	mvtr	_
+2	zeynh	PRO$	זײנה	zYnh	_
+3	un	CONJ	און	AvN	_
+4	zeyn	PRO$	זײן	zYN	_
+5	veyb	N	װײב	VYb	_
+6	fln	VBF	פֿלן	flN	_
+7	oyf	P	אױף	AWF	_
+8	zeyn	PRO$	זײן	zYN	_
+9	hlz	N	הלז	hlz	_
+
+SENT	1692E-VILNA,220.179
+1	un	CONJ	און	AvN	_
+2	hibn	VBF	היבן	hybN	_
+3	an	RP	אַן	AaN	_
+4	tsu	TO	צו	qv	_
+5	veynn	VB	װײנן	VYnN	_
+6	mit	P	מיט	myt	_
+7	heysi	ADJ	הײסי	hYsy	_
+8	trern	N	טרערן	trerN	_
+
+SENT	1692E-VILNA,220.180
+1	meyn	PRO$	מײן	mYN	_
+2	kind	N	קינד	kynd	_
+3	tu	DOI	טו	tv	_
+4	zetigh	ADJ	זעטיגה	zetygh	_
+5	rid	N	ריד	ryd	_
+6	veytr	ADV	װײטר	VYtr	_
+7	nit	NEG	ניט	nyt	_
+8	mern	VB	מערן	merN	_
+
+SENT	1692E-VILNA,220.181
+1	heym	ADV	הײם	hYM	_
+2-3	zalstu	MDF~PRO	זאַלסטו	zAalstv	_
+2	zals	MDF	זאַלס	zAals	_
+3	tu	PRO	טו	tv	_
+4	dikh	PRO	דיך	dyX	_
+5	um	RP	אום	AvM	_
+6	kerin	VB	קערין	keryN	_
+
+SENT	1692E-VILNA,220.182
+1	oyf	P	אױף	AWF	_
+2	meyn	PRO$	מײן	mYN	_
+3	alth	ADJ	אַלטה	Aalth	_
+4	yarn	N	יאַרן	yAarN	_
+5	laz	VBI	לאַז	lAaz	_
+6	keyn	Q	קײן	kYN	_
+7	tser	N	צער	qer	_
+8	ibr	RP	איבר	Aybr	_
+9	farin	VB	פֿאַרין	fAaryN	_
+
+SENT	1692E-VILNA,220.183
+1	yu	INTJ	יו	yv	_
+2	dr	D	דר	dr	_
+3	kdus	N	קדוס	kdvs	_
+4	tut	DOF	טוט	tvt	_
+5	veytr	ADV	װײטר	VYtr	_
+6	nit	NEG	ניט	nyt	_
+7	ridn	VB	רידן	rydN	_
+8	eyn	D	אײן	AYN	_
+9	vart	N	װאַרט	VAart	_
+10	meyn	QR	מײן	mYN	_
+
+SENT	1692E-VILNA,220.184
+1	un	CONJ	און	AvN	_
+2	tut	DOF	טוט	tvt	_
+3	mkeym_kbud_am	RP-H	מקײמ_קבוד_אַם	mkYm_kbvd_AaM	_
+4	zeyn	VB	זײן	zYN	_
+
+SENT	1692E-VILNA,220.185
+1	da	ADV	דאַ	dAa	_
+2	tut	DOF	טוט	tvt	_
+3	er	PRO	ער	er	_
+4	mkhilh	H	מכילה	mxylh	from_community
+5	betin	VB	בעטין	betyN	_
+6	di	D	די	dy	_
+7	tsvey	NUM	צװײ	qVY	_
+8	kdusim	N	קדוסים	kdvsyM	_
+9	di	D	די	dy	_
+10	reynh	ADJ	רײנה	rYnh	_
+
+SENT	1692E-VILNA,220.186
+1	mihn	VB	מיהן	myhN	_
+2	zolt	MDF	זאָלט	zAolt	_
+3	ir	PRO	איר	Ayr	_
+4	eykh	PRO	אײך	AYX	_
+5	fr	P	פֿר	fr	_
+6	mir	PRO	מיר	myr	_
+7	un	CONJ	און	AvN	_
+8	fr	P	פֿר	fr	_
+9	kl	Q	קל	kl	_
+10	isral	NPR	איסראַל	AysrAal	_
+11	lbh	ADJ	לבה	lbh	_
+12	khbrim	N	כברים	xbryM	_
+13	meynh	PRO$	מײנה	mYnh	_
+
+SENT	1692E-VILNA,220.187
+1	ven	C	װען	VeN	_
+2	gats	NPR$	גאַץ	gAaQ	_
+3	viln	N	װילן	VylN	_
+4	tut	DOF	טוט	tvt	_
+5	azu	ADV	אַזו	Aazv	_
+6	zeyn	VB	זײן	zYN	_
+7	da	ADV	דאַ	dAa	_
+8	vil	MDF	װיל	Vyl	_
+9	ikh	PRO	איך	AyX	_
+10	aheym	ADV	אַהײם	AahYM	_
+11	gian	VB	גיִאַן	gyiAaN	_
+12	abr	CONJ	אַבר	Aabr	_
+13	nit	NEG	ניט	nyt	_
+14	mit	P	מיט	myt	_
+15	gntsn	ADJ	גנצן	gnqN	_
+16	hrtsn	N	הרצן	hrqN	_
+17	meyn	PRO$	מײן	mYN	_
+
+SENT	1692E-VILNA,220.188
+1	in	P	אין	AyN	_
+2	meyn	PRO$	מײן	mYN	_
+3	hrtsn	N	הרצן	hrqN	_
+4	tut	DOF	טוט	tvt	_
+5	es	PRO	עס	es	_
+6	mir	PRO	מיר	myr	_
+7	groyan	VB	גרױאַן	grWAaN	_
+
+SENT	1692E-VILNA,220.189
+1	nor	CONJ	נאָר	nAor	_
+2	got	NPR	גאָט	gAot	_
+3	tut	DOF	טוט	tvt	_
+4	meyn	PRO$	מײן	mYN	_
+5	libh	ADJ	ליבה	lybh	_
+6	mutr	N	מוטר	mvtr	_
+7	dr_freyan	VB	דר_פֿרײאַן	dr_frYAaN	_
+
+SENT	1692E-VILNA,220.190
+1	di	D	די	dy	_
+2	freyd	N	פֿרײד	frYd	_
+3	hat	HVF	האַט	hAat	_
+4	bey	P	בײ	bY	_
+5	dr	D	דר	dr	_
+6	mutr	N	מוטר	mvtr	_
+7	nit	NEG	ניט	nyt	_
+8	lng	ADV	לנג	lng	_
+9	givert	VBN	גיװערט	gyVert	_
+
+SENT	1692E-VILNA,220.191
+1	tsu	P	צו	qv	_
+2	eyn	D	אײן	AYN	_
+3	grusr	ADJ	גרוסר	grvsr	_
+4	leydn	N	לײדן	lYdN	_
+5	iz	BEF	איז	Ayz	_
+6	es	PRO	עס	es	_
+7	ir	PRO	איר	Ayr	_
+8	vorin	RDN	װאָרין	VAoryN	_
+9	fr_kert	VAN	פֿר_קערט	fr_kert	_
+
+SENT	1692E-VILNA,220.192
+1	der	D	דער	der	_
+2	gutr	ADJ	גוטר	gvtr	_
+3	frumr	ADJ	פֿרומר	frvmr	_
+4	zun	N	זון	zvN	_
+5	hkdus	H	הקדוס	hkdvs	the_holy
+6	r'	NPR	ר'	r'	_
+7	abr'	NPR	אַבר'	Aabr'	_
+8	iz	BEF	איז	Ayz	_
+9	etlkhi	Q	עטלכי	etlxy	_
+10	vokhn	N	װאָכן	VAoxN	_
+11	arum	ADV	אַרום	AarvM	_
+12	gistorbn	VBN	גיסטאָרבן	gystAorbN	_
+
+SENT	1692E-VILNA,220.193
+1	un	CONJ	און	AvN	_
+2	zier	PRO$	זיִער	zyier	_
+3	gelt	N	געלט	gelt	_
+4	iz	BEF	איז	Ayz	_
+5	...	PUNC	...	...	_
+6	erstn	ADV	ערסטן	erstN	_
+7	varin	RDN	װאַרין	VAaryN	_
+8	fr_darbn	VAN	פֿר_דאַרבן	fr_dAarbN	_
+
+SENT	1692E-VILNA,220.194
+1	da	ADV	דאַ	dAa	_
+2	zeynn	BEF	זײנן	zYnN	_
+3	zi	PRO	זי	zy	_
+4	gikumn	VBN	גיקומן	gykvmN	_
+5	um	P	אום	AvM	_
+6	zier	PRO$	זיִער	zyier	_
+7	gut	N	גוט	gvt	_
+8	un	CONJ	און	AvN	_
+9	blut	N	בלוט	blvt	_
+
+SENT	1692E-VILNA,220.195
+1	un	CONJ	און	AvN	_
+2	dr	D	דר	dr	_
+3	kdus	N	קדוס	kdvs	_
+4	iz	BEF	איז	Ayz	_
+5	tsu	P	צו	qv	_
+6	zeynh	PRO$	זײנה	zYnh	_
+7	khbruth	N	כברוטה	xbrvth	_
+8	mit	P	מיט	myt	_
+9	freyd	N	פֿרײד	frYd	_
+10	gigngin	VBN	גיגנגין	gygngyN	_
+
+SENT	1692E-VILNA,220.196
+1	yenh	D	יענה	yenh	_
+2	tsvey	NUM	צװײ	qVY	_
+3	kdusim	N	קדוסים	kdvsyM	_
+4	habin	HVF	האַבין	hAabyN	_
+5	im	PRO	אים	AyM	_
+6	gvis	ADV	גװיס	gVys	_
+7	sheyn	ADV	שײן	$YN	_
+8	antfngin	VBN	אַנטפֿנגין	AantfngyN	_
+
+SENT	1692E-VILNA,220.197
+1	varum	CONJ	װאַרום	VAarvM	_
+2	er	PRO	ער	er	_
+3	iz	BEF	איז	Ayz	_
+4	zu	ADV	זו	zv	_
+5	gut	ADV	גוט	gvt	_
+6	az	P	אַז	Aaz	_
+7	zi	PRO	זי	zy	_
+8	el	H	על	el	on
+9	kidush	H	קידוש	kydv$	sanctification
+10	ha-shem	H	האַ-שם	hAa-$M	the_name
+11	bstnin	VBN	בסטנין	bstnyN	_
+
+SENT	1692E-VILNA,220.198
+1	nu	INTJ	נו	nv	_
+2	itsundr	ADV	איצונדר	Ayqvndr	_
+3	vil	MDF	װיל	Vyl	_
+4	ikh	PRO	איך	AyX	_
+5	ds	D	דס	ds	_
+6	makhin	VB	מאַכין	mAaxyN	_
+7	shlisin	VB	שליסין	$lysyN	_
+
+SENT	1692E-VILNA,220.199
+1	mir	PRO	מיר	myr	_
+2	zaln	MDF	זאַלן	zAalN	_
+3	den	D	דען	deN	_
+4	zkhut	N	זכוט	zxvt	_
+5	fun	P	פֿון	fvN	_
+6	di	D	די	dy	_
+7	kdusim	N	קדוסים	kdvsyM	_
+8	gnisn	VB	גניסן	gnysN	_
+9	amn	H	אַמן	AamN	amen
+

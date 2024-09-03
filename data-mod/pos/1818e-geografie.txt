@@ -1,0 +1,4247 @@
+SENT	1818E-GEOGRAFIE,.2
+1	velkhi	WPRO	װעלכי	Velxy	_
+2	habin	VBF	האַבין	hAabyN	_
+3	grus	ADJ	גרוס	grvs	_
+4	lust	N	לוסט	lvst	_
+5	tsu	TO	צו	qv	_
+6	visn	VB	װיסן	VysN	_
+7	fun	P	פֿון	fvN	_
+8	ali	Q	אַלי	Aaly	_
+9	lender	N	לענדער	lender	_
+
+SENT	1818E-GEOGRAFIE,.3
+1	habin	HVF	האַבין	hAabyN	_
+2	mir	PRO	מיר	myr	_
+3	es	PRO	עס	es	_
+4	gidrukt	VBN	גידרוקט	gydrvkt	_
+5	oyf	P	אױף	AWF	_
+6	gimeyn	ADJ	גימײן	gymYN	_
+7	teytsi	ADJ	טײצי	tYqy	_
+8	sprakh	N	ספּראַך	sprAaX	_
+9	bkdi	ADV	בקדי	bkdy	_
+10	es	ES	עס	es	_
+11	zalin	MDF	זאַלין	zAalyN	_
+12	es	PRO	עס	es	_
+13	kenin	MD	קענין	kenyN	_
+14	ali	Q	אַלי	Aaly	_
+15	fr_steyn	VB	פֿר_סטײן	fr_stYN	_
+
+SENT	1818E-GEOGRAFIE,3.6
+1	das	D	דת	dS	_
+2	vort	N	װאָרט	VAort	_
+3	yeografeye	N	יעאָגראַפֿײע	yeAogrAafYe	_
+4	beteyt	VBF	בעטײט	betYt	_
+5	di	D	די	dy	_
+6	beshreybung	N	בעשרײבונג	be$rYbvng	_
+7	fun	P	פֿון	fvN	_
+8	unzr	PRO$	אונזר	Avnzr	_
+9	velt	N	װעלט	Velt	_
+10	oyf	P	אױף	AWF	_
+11	velkhi	WPRO	װעלכי	Velxy	_
+12	mir	PRO	מיר	myr	_
+13	vaunen	VBF	װאַונען	VAavneN	_
+14	un	CONJ	און	AvN	_
+15	fun	P	פֿון	fvN	_
+16	ihr	PRO$	איהר	Ayhr	_
+17	tsu_teylung	N	צו_טײלונג	qv_tYlvng	_
+18	oyf	P	אױף	AWF	_
+19	ali	Q	אַלי	Aaly	_
+20	khlkim	N	כלקים	xlkyM	_
+
+SENT	1818E-GEOGRAFIE,3.7
+1	di	D	די	dy	_
+2	gistalt	N	גיסטאַלט	gystAalt	_
+3	fun	P	פֿון	fvN	_
+4	dr	D	דר	dr	_
+5	gantsir	ADJ	גאַנציר	gAanqyr	_
+6	erd	N	ערד	erd	_
+7	mit	P	מיט	myt	_
+8	ali	Q	אַלי	Aaly	_
+9	vaserin	N	װאַסערין	VAaseryN	_
+10	tsu_zamin	ADV	צו_זאַמין	qv_zAamyN	_
+11	iz	VBF	איז	Ayz	_
+12	entfr	CONJ	ענטפֿר	entfr	_
+13	rund	ADJ	רונד	rvnd	_
+14	keylekhdik	ADJ	קײלעכדיק	kYlexdyk	_
+15	udr	CONJ	אודר	Avdr	_
+16	in	P	אין	AyN	_
+17	gistalt	N	גיסטאַלט	gystAalt	_
+18	der_fun	DR+P	דער_פֿון	der_fvN	_
+
+SENT	1818E-GEOGRAFIE,3.8
+1	un	CONJ	און	AvN	_
+2	deribr	DR+P	דעריבר	derybr	_
+3	rufin	VBF	רופֿין	rvfyN	_
+4	mir	PRO	מיר	myr	_
+5	di	D	די	dy	_
+6	gantsi	ADJ	גאַנצי	gAanqy	_
+7	velt	N	װעלט	Velt	_
+8	kdur	H	קדור	kdvr	UNKNOWN
+9	harts	H	האַרץ	hAarQ	the_land
+10	erd_kugl	N	ערד_קוגל	erd_kvgl	_
+11	kulia	FW	קוליִאַ	kvlyiAa	_
+12	zemmey	FW	זעממײ	zemmY	_
+
+SENT	1818E-GEOGRAFIE,3.9
+1	di	D	די	dy	_
+2	erd	N	ערד	erd	_
+3	fun	P	פֿון	fvN	_
+4	unzr	PRO$	אונזר	Avnzr	_
+5	velt	N	װעלט	Velt	_
+6	hat	VBF	האַט	hAat	_
+7	oyf	P	אױף	AWF	_
+8	zikh	PRO	זיך	zyX	_
+9	mer	QR	מער	mer	_
+10	vasir	N	װאַסיר	VAasyr	_
+11	vi	P	װי	Vy	_
+12	erd	N	ערד	erd	_
+13	bald	ADV	באַלד	bAald	_
+14	tsvey	NUM	צװײ	qVY	_
+15	mal	N	מל	ml	_
+16	za	ADV	זאַ	zAa	_
+17	fil	Q	פֿיל	fyl	_
+
+SENT	1818E-GEOGRAFIE,3.10
+1	vau	WADV	װאַו	VAav	_
+2	es	PRO	עס	es	_
+3	iz	VBF	איז	Ayz	_
+4	trukin	ADJ	טרוקין	trvkyN	_
+5	ruft	VBF	רופֿט	rvft	_
+6	men	PRO	מען	meN	_
+7	ibsh	N	איבש	Ayb$	_
+
+SENT	1818E-GEOGRAFIE,3.11
+1	un	CONJ	און	AvN	_
+2	vau	WADV	װאַו	VAav	_
+3	vaser	N	װאַסער	VAaser	_
+4	ruft	VBF	רופֿט	rvft	_
+5	men	PRO	מען	meN	_
+6	iaim	H	איאַיִם	AyAayiM	UNKNOWN
+7	nhrut	H	נהרוט	nhrvt	UNKNOWN
+8	imurim	H	אימורים	AymvryM	UNKNOWN
+9	mehr	N	מעהר	mehr	_
+10	teykhin	N	טײכין	tYxyN	_
+11	{COM:russian_omitted}	NP-PRN	{cאָם:רוססיִאַנ_אָמיטטעד}	{cAoM:rvssyiAan_Aomytted}	_
+
+SENT	1818E-GEOGRAFIE,3.12
+1	di	D	די	dy	_
+2	vas	C	װאַס	VAas	_
+3	shreybin	VBF	שרײבין	$rYbyN	_
+4	unz	PRO	אונז	Avnz	_
+5	yeagrafeye	N	יעאַגראַפֿײע	yeAagrAafYe	_
+6	veyzin	VBF	װײזין	VYzyN	_
+7	unz	PRO	אונז	Avnz	_
+8	oyf	P	אױף	AWF	_
+9	den	D	דען	deN	_
+10	papir	N	פּאַפּיר	pAapyr	_
+11	zelkhi	ADJ	זעלכי	zelxy	_
+12	grusi	ADJ	גרוסי	grvsy	_
+13	land_kartin	N	לאַנד_קאַרטין	lAand_kAartyN	_
+14	vas	C	װאַס	VAas	_
+15	es	ES	עס	es	_
+16	iz	VBF	איז	Ayz	_
+17	deroyf	DR+P	דערױף	derWF	_
+18	di	D	די	dy	_
+19	velt	N	װעלט	Velt	_
+20	in_gantsin	ADV	אינ_גאַנצין	Ayn_gAanqyN	_
+21	un	CONJ	און	AvN	_
+22	oykh	ADV	אױך	AWX	_
+23	va	WADV	װאַ	VAa	_
+24	es	ES	עס	es	_
+25	iz	VBF	איז	Ayz	_
+26	ibsh	N	איבש	Ayb$	_
+27	un	CONJ	און	AvN	_
+28	va	WADV	װאַ	VAa	_
+29	vaser	N	װאַסער	VAaser	_
+
+SENT	1818E-GEOGRAFIE,3.13
+1	zey	PRO	זײ	zY	_
+2	veyzin	VBF	װײזין	VYzyN	_
+3	oykh	ADV	אױך	AWX	_
+4	abr	ADV	אַבר	Aabr	_
+5	kleyne	ADJ	קלײנע	klYne	_
+6	mapes	N	מאַפּעס	mAapes	_
+7	oyf	P	אױף	AWF	_
+8	velkhi	WPRO	װעלכי	Velxy	_
+9	nisht	NEG	נישט	ny$t	_
+10	mer	QR	מער	mer	_
+11	tsu	TO	צו	qv	_
+12	zehn	VB	זעהן	zehN	_
+13	iz	VBF	איז	Ayz	_
+14	eyn	D	אײן	AYN	_
+15	khlk	N	כלק	xlk	_
+16	fun	P	פֿון	fvN	_
+17	dr	D	דר	dr	_
+18	velt	N	װעלט	Velt	_
+19	eyn	D	אײן	AYN	_
+20	grusin	ADJ	גרוסין	grvsyN	_
+21	udr	CONJ	אודר	Avdr	_
+22	eyn	D	אײן	AYN	_
+23	kleynem	ADJ	קלײנעם	klYneM	_
+24	udr	CONJ	אודר	Avdr	_
+25	nisht	NEG	נישט	ny$t	_
+26	mer	QR	מער	mer	_
+27	az	P	אַז	Aaz	_
+28	eyn	D	אײן	AYN	_
+29	mdinh	N	מדינה	mdynh	_
+
+SENT	1818E-GEOGRAFIE,3.14
+1	di	D	די	dy	_
+2	land_kartin	N	לאַנד_קאַרטין	lAand_kAartyN	_
+3	veyzt	VBF	װײזט	VYzt	_
+4	unz	PRO	אונז	Avnz	_
+5	gleykh	ADV	גלײך	glYX	_
+6	vi	C	װי	Vy	_
+7	di	D	די	dy	_
+8	velt	N	װעלט	Velt	_
+9	iz	VBF	איז	Ayz	_
+10	flakh	ADJ	פֿלאַך	flAaX	_
+11	plaske	ADJ	פּלאַסקע	plAaske	_
+
+SENT	1818E-GEOGRAFIE,3.15
+1	abr	CONJ	אַבר	Aabr	_
+2	dr	D	דר	dr	_
+3	ems	N	עמס	ems	_
+4	iz	VBF	איז	Ayz	_
+5	er	PRO	ער	er	_
+6	keylekhdik	ADJ	קײלעכדיק	kYlexdyk	_
+
+SENT	1818E-GEOGRAFIE,3.16
+1	oyf	P	אױף	AWF	_
+2	ali	Q	אַלי	Aaly	_
+3	land_kartin	N	לאַנד_קאַרטין	lAand_kAartyN	_
+4	iz	BEF	איז	Ayz	_
+5	men	PRO	מען	meN	_
+6	akhtung	RP-N	אַכטונג	Aaxtvng	_
+7	gebin	VAG	געבין	gebyN	_
+8	oyf	P	אױף	AWF	_
+9	dia	D	דיִאַ	dyiAa	_
+10	fir	NUM	פֿיר	fyr	_
+11	zeytin	N	זײטין	zYtyN	_
+12	az	C	אַז	Aaz	_
+13	ven	C	װען	VeN	_
+14	du	PRO	דו	dv	_
+15	leygst	VBF	לײגסט	lYgst	_
+16	es	PRO	עס	es	_
+17	fr	P	פֿר	fr	_
+18	zikh	PRO	זיך	zyX	_
+19	oyf	P	אױף	AWF	_
+20	den	D	דען	deN	_
+21	tish	N	טיש	ty$	_
+22	iz	VBF	איז	Ayz	_
+23	in	P	אין	AyN	_
+24	dr	D	דר	dr	_
+25	rekhti	ADJ	רעכטי	rexty	_
+26	hand	N	האַנד	hAand	_
+27	mzrkh	H	מזרך	mzrX	east
+
+SENT	1818E-GEOGRAFIE,3.17
+1	in	P	אין	AyN	_
+2	dr	D	דר	dr	_
+3	linkn	N	לינקן	lynkN	_
+4	iz	VBF	איז	Ayz	_
+5	merib	H	מעריב	meryb	west
+
+SENT	1818E-GEOGRAFIE,3.18
+1	ubin	ADV	אובין	AvbyN	_
+2	iz	VBF	איז	Ayz	_
+3	tsfun	H	צפֿון	qfvN	north
+
+SENT	1818E-GEOGRAFIE,3.19
+1	un	CONJ	און	AvN	_
+2	untin	ADV	אונטין	AvntyN	_
+3	iz	VBF	איז	Ayz	_
+4	drum	H	דרום	drvM	south
+
+SENT	1818E-GEOGRAFIE,4.21
+1	im	N	אים	AyM	_
+2	aukinum	N	אַוקינום	AavkynvM	_
+3	otseyan	N	אָצײאַן	AoqYAaN	_
+4	vert	RDF	װערט	Vert	_
+5	girufin	VAN	גירופֿין	gyrvfyN	_
+6	das	D	דת	dS	_
+7	grusi	ADJ	גרוסי	grvsy	_
+8	mehr	N	מעהר	mehr	_
+9	vas	C	װאַס	VAas	_
+10	ringelt	VBF	רינגעלט	ryngelt	_
+11	arum	ADV	אַרום	AarvM	_
+12	di	D	די	dy	_
+13	gantsi	ADJ	גאַנצי	gAanqy	_
+14	velt	N	װעלט	Velt	_
+
+SENT	1818E-GEOGRAFIE,4.22
+1	er	PRO	ער	er	_
+2	hat	VBF	האַט	hAat	_
+3	abr	ADV	אַבר	Aabr	_
+4	ukh	ADV	אוך	AvX	_
+5	nukh	ADV	נוך	nvX	_
+6	fil	Q	פֿיל	fyl	_
+7	andere	ADJ	אַנדערע	Aandere	_
+8	nemin	N	נעמין	nemyN	_
+
+SENT	1818E-GEOGRAFIE,4.23
+1	un	CONJ	און	AvN	_
+2	bey	P	בײ	bY	_
+3	velkhi	WD	װעלכי	Velxy	_
+4	mdinh	N	מדינה	mdynh	_
+5	er	PRO	ער	er	_
+6	ligt	VBF	ליגט	lygt	_
+7	ruft	VBF	רופֿט	rvft	_
+8	men	PRO	מען	meN	_
+9	im	PRO	אים	AyM	_
+10	nakh	P	נ"ך	n"X	_
+11	dr	D	דר	dr	_
+12	mdinh	N	מדינה	mdynh	_
+13	nakh	P	נ"ך	n"X	_
+
+SENT	1818E-GEOGRAFIE,4.24
+1	un	CONJ	און	AvN	_
+2	gants	ADV	גאַנץ	gAanQ	_
+3	veyt	ADV	װײט	VYt	_
+4	fun	P	פֿון	fvN	_
+5	dr	D	דר	dr	_
+6	ibsh	N	איבש	Ayb$	_
+7	ruft	VBF	רופֿט	rvft	_
+8	men	PRO	מען	meN	_
+9	im	PRO	אים	AyM	_
+10	dr	D	דר	dr	_
+11	stilir	NPR	סטיליר	stylyr	_
+12	iam	NPR	איאַם	AyAaM	_
+13	aukinum	N	אַוקינום	AavkynvM	_
+
+SENT	1818E-GEOGRAFIE,4.25
+1	oykh	ADV	אױך	AWX	_
+2	ruft	VBF	רופֿט	rvft	_
+3	men	PRO	מען	meN	_
+4	im	PRO	אים	AyM	_
+5	im	H	אים	AyM	sea
+6	hkrkh	H	הקרך	hkrX	UNKNOWN
+7	eyz_mer	N	אײז_מער	AYz_mer	_
+8	im	H	אים	AyM	sea
+9	khlbn	H	כלבן	xlbN	UNKNOWN
+10	das	D	דת	dS	_
+11	veysi	ADJ	װײסי	VYsy	_
+12	mer	N	מער	mer	_
+13	un	CONJ	און	AvN	_
+14	akh	ADV	אַך	AaX	_
+15	fil	Q	פֿיל	fyl	_
+16	andere	ADJ	אַנדערע	Aandere	_
+17	nemn	N	נעמן	nemN	_
+
+SENT	1818E-GEOGRAFIE,4.26
+1	imim	N	אימים	AymyM	_
+2	verin	RDF	װערין	VeryN	_
+3	girufn	VAN	גירופֿן	gyrvfN	_
+4	anderi	ADJ	אַנדערי	Aandery	_
+5	grusi	ADJ	גרוסי	grvsy	_
+6	vaserin	N	װאַסערין	VAaseryN	_
+7	vas	C	װאַס	VAas	_
+8	zeynin	VBF	זײנין	zYnyN	_
+9	gizaltsin	ADJ	גיזאַלצין	gyzAalqyN	_
+10	zua	ADV	זואַ	zvAa	_
+11	vi	P	װי	Vy	_
+12	das	D	דת	dS	_
+13	mitlendeshi	ADJ	מיטלענדעשי	mytlende$y	_
+14	mehr	N	מעהר	mehr	_
+15	im	H	אים	AyM	sea
+16	htikun	H	הטיקון	htykvN	UNKNOWN
+17	baltikeyse	ADJ	באַלטיקײסע	bAaltykYse	_
+18	mer	N	מער	mer	_
+19	im	H	אים	AyM	sea
+20	baltike	NPR	באַלטיקע	bAaltyke	_
+21	teytshi	ADJ	טײטשי	tYt$y	_
+22	mehr	N	מעהר	mehr	_
+23	im	H	אים	AyM	sea
+24	gramaneya	NPR	גראַמאַנײאַ	grAamAanYAa	_
+25	un	CONJ	און	AvN	_
+26	nukh	ADV	נוך	nvX	_
+27	anderi	ADJ	אַנדערי	Aandery	_
+
+SENT	1818E-GEOGRAFIE,4.27
+1	yaurim	H	יאַורים	yAavryM	UNKNOWN
+2	aueres	H	אַוערעס	Aaveres	UNKNOWN
+3	ruft	VBF	רופֿט	rvft	_
+4	men	PRO	מען	meN	_
+5	kleneri	ADJR	קלענערי	klenery	_
+6	vaserin	N	װאַסערין	VAaseryN	_
+7	velkhi	WPRO	װעלכי	Velxy	_
+8	zeynn	BEF	זײנן	zYnN	_
+9	tsu	P	צו	qv	_
+10	huf	N	הוף	hvF	_
+11	giklibin	VAN	גיקליבין	gyklybyN	_
+12	mit	P	מיט	myt	_
+13	zise	ADJ	זיסע	zyse	_
+14	vaser	N	װאַסער	VAaser	_
+
+SENT	1818E-GEOGRAFIE,4.28
+1	un	CONJ	און	AvN	_
+2	das	D	דת	dS	_
+3	ruft	VBF	רופֿט	rvft	_
+4	men	PRO	מען	meN	_
+5	yezare	N	יעזאַרע	yezAare	_
+
+SENT	1818E-GEOGRAFIE,4.29
+1	ven	C	װען	VeN	_
+2	eyn	D	אײן	AYN	_
+3	azere	N	אַזערע	Aazere	_
+4	hat	VBF	האַט	hAat	_
+5	abr	ADV	אַבר	Aabr	_
+6	in	P	אין	AyN	_
+7	zikh	PRO	זיך	zyX	_
+8	gizaltsene	ADJ	גיזאַלצענע	gyzAalqene	_
+9	un	CONJ	און	AvN	_
+10	bitere	ADJ	ביטערע	bytere	_
+11	vasir	N	װאַסיר	VAasyr	_
+12	ruft	VBF	רופֿט	rvft	_
+13	men	PRO	מען	meN	_
+14	es	PRO	עס	es	_
+15	ykh	H	יך	yX	UNKNOWN
+16	im	H	אים	AyM	sea
+
+SENT	1818E-GEOGRAFIE,4.30
+1	un	CONJ	און	AvN	_
+2	deriber	DR+P	דעריבער	deryber	_
+3	ruft	VBF	רופֿט	rvft	_
+4	men	PRO	מען	meN	_
+5	di	D	די	dy	_
+6	gruse	ADJ	גרוסע	grvse	_
+7	kaspishe	ADJ	קאַספּישע	kAaspy$e	_
+8	azere	N	אַזערע	Aazere	_
+9	im	N	אים	AyM	_
+10	veyl	C	װײל	VYl	_
+11	zi	PRO	זי	zy	_
+12	iz	VBF	איז	Ayz	_
+13	gizaltsin	ADJ	גיזאַלצין	gyzAalqyN	_
+14	un	CONJ	און	AvN	_
+15	iz	VBF	איז	Ayz	_
+16	bey	P	בײ	bY	_
+17	mdinh	N	מדינה	mdynh	_
+18	kspi	NPR	קספּי	kspy	_
+
+SENT	1818E-GEOGRAFIE,4.31
+1	brikh	H	בריך	bryX	UNKNOWN
+2	him	H	הים	hyM	the_sea
+3	eynge_mehr	N	אײנגע_מעהר	AYnge_mehr	_
+4	tseyasgina	FW	צײאַסגינאַ	qYAasgynAa	_
+5	marski	FW	מאַרסקי	mAarsky	_
+6	ruft	VBF	רופֿט	rvft	_
+7	men	PRO	מען	meN	_
+8	zu	ADV	זו	zv	_
+9	eyn	D	אײן	AYN	_
+10	urt	N	אורט	Avrt	_
+11	va	WADV	װאַ	VAa	_
+12	der	D	דער	der	_
+13	im	N	אים	AyM	_
+14	iz	BEF	איז	Ayz	_
+15	zeyer	ADV	זײער	zYer	_
+16	gikvetst	VAN	גיקװעצט	gykVeqt	_
+17	tsu_vishin	P	צו_װישין	qv_Vy$yN	_
+18	tsvey	NUM	צװײ	qVY	_
+19	ibsut	N	איבסוט	Aybsvt	_
+20	un	CONJ	און	AvN	_
+21	geyt	VBF	גײט	gYt	_
+22	nit	NEG	ניט	nyt	_
+23	breyt	ADV	ברײט	brYt	_
+
+SENT	1818E-GEOGRAFIE,4.32
+1	un	CONJ	און	AvN	_
+2	in	P	אין	AyN	_
+3	beyde	Q	בײדע	bYde	_
+4	zeytin	N	זײטין	zYtyN	_
+5	beheft	VBF	בעהעפֿט	beheft	_
+6	er	PRO	ער	er	_
+7	tsvey	NUM	צװײ	qVY	_
+8	breyte	ADJ	ברײטע	brYte	_
+9	imim	N	אימים	AymyM	_
+10	zu	ADV	זו	zv	_
+11	vi	WADV	װי	Vy	_
+12	das	D	דת	dS	_
+13	eynge	ADJ	אײנגע	AYnge	_
+14	mehr	N	מעהר	mehr	_
+15	kalez	NPR	קאַלעז	kAalez	_
+16	iz	VBF	איז	Ayz	_
+17	mfsik	RP-H	מפֿסיק	mfsyk	_
+18	tsu_veysin	P	צו_װײסין	qv_VYsyN	_
+19	frnkreykh	NPR	פֿרנקרײך	frnkrYX	_
+20	un	CONJ	און	AvN	_
+21	england	NPR	ענגלאַנד	englAand	_
+
+SENT	1818E-GEOGRAFIE,4.33
+1	dardanel	NPR	דאַרדאַנעל	dAardAanel	_
+2	iz	VBF	איז	Ayz	_
+3	bey	P	בײ	bY	_
+4	kanstantinapl	NPR	קאַנסטאַנטינאַפּל	kAanstAantynAapl	_
+
+SENT	1818E-GEOGRAFIE,4.34
+1	gibarlater	NPR	גיבאַרלאַטער	gybAarlAater	_
+2	iz	VBF	איז	Ayz	_
+3	mpsik	RP-H	מפּסיק	mpsyk	_
+4	tsvishn	P	צװישן	qVy$N	_
+5	spneya	NPR	ספּנײאַ	spnYAa	_
+6	un	CONJ	און	AvN	_
+7	afrike	NPR	אַפֿריקע	Aafryke	_
+
+SENT	1818E-GEOGRAFIE,4.35
+1	un	CONJ	און	AvN	_
+2	dr	D	דר	dr	_
+3	zund	N	זונד	zvnd	_
+4	iz	VBF	איז	Ayz	_
+5	mfsik	RP-H	מפֿסיק	mfsyk	_
+6	tsu_vishin	P	צו_װישין	qv_Vy$yN	_
+7	sveydin	NPR	סװײדין	sVYdyN	_
+8	un	CONJ	און	AvN	_
+9	deni_mark	NPR	דעני_מאַרק	deny_mAark	_
+
+SENT	1818E-GEOGRAFIE,4.36
+1	un	CONJ	און	AvN	_
+2	mitsileyen	NPR	מיצילײען	myqylYeN	_
+3	iz	VBF	איז	Ayz	_
+4	mfsik	RP-H	מפֿסיק	mfsyk	_
+5	tsu_visin	P	צו_װיסין	qv_VysyN	_
+6	misileya	NPR	מיסילײאַ	mysylYAa	_
+7	un	CONJ	און	AvN	_
+8	neapal	NPR	נעאַפּאַל	neAapAal	_
+
+SENT	1818E-GEOGRAFIE,4.37
+1	lsun	H	לסון	lsvN	UNKNOWN
+2	his	H	היס	hys	UNKNOWN
+3	mehr_buzen	N	מעהר_בוזען	mehr_bvzeN	_
+4	ruft	VBF	רופֿט	rvft	_
+5	men	PRO	מען	meN	_
+6	zu	ADV	זו	zv	_
+7	eyn	D	אײן	AYN	_
+8	urt	N	אורט	Avrt	_
+9	va	WADV	װאַ	VAa	_
+10	der	D	דער	der	_
+11	im	N	אים	AyM	_
+12	rukt	VBF	רוקט	rvkt	_
+13	zikh	PRO	זיך	zyX	_
+14	areyn	ADV	אַרײן	AarYN	_
+15	eyn	D	אײן	AYN	_
+16	grusi	ADJ	גרוסי	grvsy	_
+17	stik	N	סטיק	styk	_
+18	in	P	אין	AyN	_
+19	dr	D	דר	dr	_
+20	ibsh	N	איבש	Ayb$	_
+
+SENT	1818E-GEOGRAFIE,5.39
+1	nml	H	נמל	nml	UNKNOWN
+2	him	H	הים	hyM	the_sea
+3	ruft	VBF	רופֿט	rvft	_
+4	men	PRO	מען	meN	_
+5	zu	ADV	זו	zv	_
+6	eyn	D	אײן	AYN	_
+7	urt	N	אורט	Avrt	_
+8	va	WADV	װאַ	VAa	_
+9	eyn	D	אײן	AYN	_
+10	kleyn	ADJ	קלײן	klYN	_
+11	stikl	N	סטיקל	stykl	_
+12	im	N	אים	AyM	_
+13	gist	VBF	גיסט	gyst	_
+14	zikh	PRO	זיך	zyX	_
+15	oys	RP	אױס	AWs	_
+16	in	P	אין	AyN	_
+17	dr	D	דר	dr	_
+18	ibsh	N	איבש	Ayb$	_
+19	vas	C	װאַס	VAas	_
+20	derinin	ADV	דערינין	derynyN	_
+21	kanin	MDF	קאַנין	kAanyN	_
+22	zikh	PRO	זיך	zyX	_
+23	stelin	VB	סטעלין	stelyN	_
+24	grusi	ADJ	גרוסי	grvsy	_
+25	shifin	N	שיפֿין	$yfyN	_
+26	un	CONJ	און	AvN	_
+27	ukh	ADV	אוך	AvX	_
+28	akrentin	N	אַקרענטין	AakrentyN	_
+29	tsu	TO	צו	qv	_
+30	behaltin	VB	בעהאַלטין	behAaltyN	_
+31	zikh	PRO	זיך	zyX	_
+32	fun	P	פֿון	fvN	_
+33	vind	N	װינד	Vynd	_
+34	udr	CONJ	אודר	Avdr	_
+35	fun	P	פֿון	fvN	_
+36	anderi	ADJ	אַנדערי	Aandery	_
+37	nutsin	N	נוצין	nvqyN	_
+38	vegin	N	װעגין	VegyN	_
+
+SENT	1818E-GEOGRAFIE,5.40
+1	im	H	אים	AyM	sea
+2	haeym	H	האַײם	hAaYM	UNKNOWN
+3	arkhipelag	FW	אַרכיפּעלאַג	AarxypelAag	_
+4	iz	VBF	איז	Ayz	_
+5	eyn	D	אײן	AYN	_
+6	stik	N	סטיק	styk	_
+7	im	N	אים	AyM	_
+8	vas	C	װאַס	VAas	_
+9	iz	VBF	איז	Ayz	_
+10	gants	ADV	גאַנץ	gAanQ	_
+11	gidikht	ADJ	גידיכט	gydyxt	_
+12	mit	P	מיט	myt	_
+13	inzlen	N	אינזלען	AynzleN	_
+14	grusi	ADJ	גרוסי	grvsy	_
+15	un	CONJ	און	AvN	_
+16	kleyni	ADJ	קלײני	klYny	_
+17	un	CONJ	און	AvN	_
+18	nahant	ADV	נאַהאַנט	nAahAant	_
+19	eynh	PRO	אײנה	AYnh	_
+20	fun	P	פֿון	fvN	_
+21	di	D	די	dy	_
+22	anderi	ADJ	אַנדערי	Aandery	_
+
+SENT	1818E-GEOGRAFIE,5.41
+1	nhr	N	נהר	nhr	_
+2	vert	RDF	װערט	Vert	_
+3	girufin	VAN	גירופֿין	gyrvfyN	_
+4	eyn	D	אײן	AYN	_
+5	lufidige	ADJ	לופֿידיגע	lvfydyge	_
+6	vasr	N	װאַסר	VAasr	_
+7	vas	C	װאַס	VAas	_
+8	geyt	VBF	גײט	gYt	_
+9	ir	PRO$	איר	Ayr	_
+10	veg	N	װעג	Veg	_
+11	vi	P	װי	Vy	_
+12	in	P	אין	AyN	_
+13	eyn	D	אײן	AYN	_
+14	karite	N	קאַריטע	kAaryte	_
+
+SENT	1818E-GEOGRAFIE,5.42
+1	meeyn	N	מעײן	meYN	_
+2	vert	RDF	װערט	Vert	_
+3	girufin	VAN	גירופֿין	gyrvfyN	_
+4	das	D	דת	dS	_
+5	urt	N	אורט	Avrt	_
+6	fun	P	פֿון	fvN	_
+7	vanin	WADV	װאַנין	VAanyN	_
+8	di	D	די	dy	_
+9	teykhin	N	טײכין	tYxyN	_
+10	heybin	VBF	הײבין	hYbyN	_
+11	zikh	PRO	זיך	zyX	_
+12	an	RP	אַן	AaN	_
+13	tsu	TO	צו	qv	_
+14	tsihen	VB	ציהען	qyheN	_
+
+SENT	1818E-GEOGRAFIE,5.43
+1	un	CONJ	און	AvN	_
+2	ali	Q	אַלי	Aaly	_
+3	teykhin	N	טײכין	tYxyN	_
+4	heybin	VBF	הײבין	hYbyN	_
+5	zikh	PRO	זיך	zyX	_
+6	an	RP	אַן	AaN	_
+7	tsu	TO	צו	qv	_
+8	tsihen	VB	ציהען	qyheN	_
+9	fun	P	פֿון	fvN	_
+10	untr	P	אונטר	Avntr	_
+11	eyn	D	אײן	AYN	_
+12	barg	N	באַרג	bAarg	_
+
+SENT	1818E-GEOGRAFIE,5.44
+1	das	D	דת	dS	_
+2	us_laz	N	אוס_לאַז	Avs_lAaz	_
+3	fun	P	פֿון	fvN	_
+4	di	D	די	dy	_
+5	teykhin	N	טײכין	tYxyN	_
+6	va	WADV	װאַ	VAa	_
+7	zey	PRO	זײ	zY	_
+8	falin	VBF	פֿאַלין	fAalyN	_
+9	areyn	ADV	אַרײן	AarYN	_
+10	in	P	אין	AyN	_
+11	eyn	D	אײן	AYN	_
+12	greseri	ADJR	גרעסערי	gresery	_
+13	teykh	N	טײך	tYX	_
+14	udr	CONJ	אודר	Avdr	_
+15	in	P	אין	AyN	_
+16	im	N	אים	AyM	_
+17	areyn	ADV	אַרײן	AarYN	_
+18	ruft	VBF	רופֿט	rvft	_
+19	men	PRO	מען	meN	_
+20	es	PRO	עס	es	_
+21	den	D	דען	deN	_
+22	tuer	N	טוער	tver	_
+
+SENT	1818E-GEOGRAFIE,5.45
+1	un	CONJ	און	AvN	_
+2	ali	Q	אַלי	Aaly	_
+3	vaserin	N	װאַסערין	VAaseryN	_
+4	kumen	VBF	קומען	kvmeN	_
+5	in	P	אין	AyN	_
+6	im	N	אים	AyM	_
+7	areyn	ADV	אַרײן	AarYN	_
+8	us_ginumin	P	אוס_גינומין	Avs_gynvmyN	_
+9	eyn	D	אײן	AYN	_
+10	teykh	N	טײך	tYX	_
+11	velkhir	WPRO	װעלכיר	Velxyr	_
+12	iz	VBF	איז	Ayz	_
+13	in	P	אין	AyN	_
+14	afrike	NPR	אַפֿריקע	Aafryke	_
+15	in	P	אין	AyN	_
+16	mdint	N	מדינט	mdynt	_
+17	nigriley	NPR	ניגרילײ	nygrylY	_
+
+SENT	1818E-GEOGRAFIE,5.46
+1	der	D	דער	der	_
+2	nar	FP	נאַר	nAar	_
+3	vart	BEF	װאַרט	VAart	_
+4	fr_falin	VX	פֿר_פֿאַלין	fr_fAalyN	_
+5	in	P	אין	AyN	_
+6	dr	D	דר	dr	_
+7	mdbr	N	מדבר	mdbr	_
+8	in	P	אין	AyN	_
+9	grusi	ADJ	גרוסי	grvsy	_
+10	zend	N	זענד	zend	_
+
+SENT	1818E-GEOGRAFIE,5.47
+1	es	ES	עס	es	_
+2	iz	VBF	איז	Ayz	_
+3	ukh	ADV	אוך	AvX	_
+4	faran	ADJ	פֿאַראַן	fAarAaN	_
+5	oyf	P	אױף	AWF	_
+6	dr	D	דר	dr	_
+7	velt	N	װעלט	Velt	_
+8	grabints	N	גראַבינץ	grAabynQ	_
+9	kanalin	N	קאַנאַלין	kAanAalyN	_
+10	velkhi	WPRO	װעלכי	Velxy	_
+11	tsihen	VBF	ציהען	qyheN	_
+12	zikh	PRO	זיך	zyX	_
+13	fun	P	פֿון	fvN	_
+14	eyn	D	אײן	AYN	_
+15	teykh	N	טײך	tYX	_
+16	in	P	אין	AyN	_
+17	dr	D	דר	dr	_
+18	anderi	ADJ	אַנדערי	Aandery	_
+
+SENT	1818E-GEOGRAFIE,5.48
+1	abr	CONJ	אַבר	Aabr	_
+2	das	D	דת	dS	_
+3	iz	BEF	איז	Ayz	_
+4	durkh	P	דורך	dvrX	_
+5	mentshlikhi	ADJ	מענטשליכי	ment$lyxy	_
+6	arbeyt	N	אַרבײט	AarbYt	_
+7	gigrabin	VAN	גיגראַבין	gygrAabyN	_
+8	givarin	RDN	גיװאַרין	gyVAaryN	_
+
+SENT	1818E-GEOGRAFIE,5.49
+1	arts	N	אַרץ	AarQ	_
+2	ruft	VBF	רופֿט	rvft	_
+3	men	PRO	מען	meN	_
+4	zu	ADV	זו	zv	_
+5	eyn	D	אײן	AYN	_
+6	gruse	ADJ	גרוסע	grvse	_
+7	stik	N	סטיק	styk	_
+8	land	N	לאַנד	lAand	_
+9	vas	C	װאַס	VAas	_
+10	er	PRO	ער	er	_
+11	iz	BEF	איז	Ayz	_
+12	nit	NEG	ניט	nyt	_
+13-14	ibrgirisin	RP~VAN	איברגיריסין	AybrgyrysyN	_
+13	ibr	RP	איבר	Aybr	_
+14	girisin	VAN	גיריסין	gyrysyN	_
+15	mit	P	מיט	myt	_
+16	keyn	Q	קײן	kYN	_
+17	im	N	אים	AyM	_
+
+SENT	1818E-GEOGRAFIE,5.50
+1	inzel	N	אינזעל	Aynzel	_
+2	vispe	FW	װיספּע	Vyspe	_
+3	ruft	VBF	רופֿט	rvft	_
+4	men	PRO	מען	meN	_
+5	zu	ADJ	זו	zv	_
+6	eyn	D	אײן	AYN	_
+7	stik	N	סטיק	styk	_
+8	land	N	לאַנד	lAand	_
+9	velkhir	WPRO	װעלכיר	Velxyr	_
+10	fun	P	פֿון	fvN	_
+11	ali	Q	אַלי	Aaly	_
+12	zeytin	N	זײטין	zYtyN	_
+13	mit	P	מיט	myt	_
+14	im	N	אים	AyM	_
+15	begasin	VAN	בעגאַסין	begAasyN	_
+16	iz	BEF	איז	Ayz	_
+17	in	CONJ	אין	AyN	_
+18	men	PRO	מען	meN	_
+19	kan	MDF	ק"ן	k"N	_
+20-21	im	P~D	אים	AyM	_
+20	i	P	אי	Ay	_
+21	m	D	מ	m	_
+22	ibsh	N	איבש	Ayb$	_
+23	tsu	P	צו	qv	_
+24	im	PRO	אים	AyM	_
+25	nit	NEG	ניט	nyt	_
+26	tsu	RP	צו	qv	_
+27	kumin	VB	קומין	kvmyN	_
+
+SENT	1818E-GEOGRAFIE,5.51
+1	khtsi	H	כצי	xqy	half
+2	khai	H	כאַיִ	xAayi	UNKNOWN
+3	halber	ADJ	האַלבער	hAalber	_
+4	inzel	N	אינזעל	Aynzel	_
+5	ruft	VBF	רופֿט	rvft	_
+6	men	PRO	מען	meN	_
+7	zu	ADV	זו	zv	_
+8	eyn	D	אײן	AYN	_
+9	stik	N	סטיק	styk	_
+10	land	N	לאַנד	lAand	_
+11	vas	C	װאַס	VAas	_
+12	er	PRO	ער	er	_
+13	iz	BEF	איז	Ayz	_
+14	mit	P	מיט	myt	_
+15	vasir	N	װאַסיר	VAasyr	_
+16	begasin	VAN	בעגאַסין	begAasyN	_
+17	un	CONJ	און	AvN	_
+18	nist	NEG	ניסט	nyst	_
+19	mer	QR	מער	mer	_
+20	az	P	אַז	Aaz	_
+21	mit	P	מיט	myt	_
+22	eyn	D	אײן	AYN	_
+23	zeyt	N	זײט	zYt	_
+24	iz	BEF	איז	Ayz	_
+25	er	PRO	ער	er	_
+26	tsu	P	צו	qv	_
+27	ibsh	N	איבש	Ayb$	_
+28	bheft	VAN	בהעפֿט	bheft	_
+29	un	CONJ	און	AvN	_
+30	men	PRO	מען	meN	_
+31	kan	MDF	ק"ן	k"N	_
+32	nist	NEG	ניסט	nyst	_
+33	mer	QR	מער	mer	_
+34	az	P	אַז	Aaz	_
+35	durkh	P	דורך	dvrX	_
+36	dartin	ADV	דאַרטין	dAartyN	_
+37	tsu	RP	צו	qv	_
+38	kumin	VB	קומין	kvmyN	_
+
+SENT	1818E-GEOGRAFIE,6.53
+1	brikh	H	בריך	bryX	UNKNOWN
+2	harts	H	האַרץ	hAarQ	the_land
+3	erd_eynge	N	ערד_ײנגע	erd_Ynge	_
+4	meyendi	FW	מײענדי	mYendy	_
+5	marze	FW	מאַרזע	mAarze	_
+6	ruft	VBF	רופֿט	rvft	_
+7	men	PRO	מען	meN	_
+8	zu	ADV	זו	zv	_
+9	eyn	D	אײן	AYN	_
+10	langi	ADJ	לאַנגי	lAangy	_
+11	stik	N	סטיק	styk	_
+12	erd	N	ערד	erd	_
+13	velkhir	WPRO	װעלכיר	Velxyr	_
+14	zikh	PRO	זיך	zyX	_
+15	tsiht	VBF	ציהט	qyht	_
+16	tsu_vishin	P	צו_װישין	qv_Vy$yN	_
+17	tsvey	NUM	צװײ	qVY	_
+18	imim	N	אימים	AymyM	_
+
+SENT	1818E-GEOGRAFIE,6.54
+1	un	CONJ	און	AvN	_
+2	in	P	אין	AyN	_
+3	di	D	די	dy	_
+4	ekin	N	עקין	ekyN	_
+5	iz	BEF	איז	Ayz	_
+6	er	PRO	ער	er	_
+7	beheft	VAN	בעהעפֿט	beheft	_
+8	tsu	P	צו	qv	_
+9	tsvey	NUM	צװײ	qVY	_
+10	ibsut	N	איבסוט	Aybsvt	_
+
+SENT	1818E-GEOGRAFIE,6.55
+1	kap	N	קאַפּ	kAap	_
+2	heyst	VBF	הײסט	hYst	_
+3	eyn	D	אײן	AYN	_
+4	zeyr	ADV	זײר	zYr	_
+5	hukhir	ADJ	הוכיר	hvxyr	_
+6	berg	N	בערג	berg	_
+7	vas	C	װאַס	VAas	_
+8	tsiht	VBF	ציהט	qyht	_
+9	zikh	PRO	זיך	zyX	_
+10	fun	P	פֿון	fvN	_
+11	ibsh	N	איבש	Ayb$	_
+12	in	P	אין	AyN	_
+13	im	N	אים	AyM	_
+14	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1818E-GEOGRAFIE,6.56
+1	afaka	N	אַפֿאַקאַ	AafAakAa	_
+2	udr	CONJ	אודר	Avdr	_
+3	skale	N	סקאַלע	skAale	_
+4	iz	VBF	איז	Ayz	_
+5	eyn	D	אײן	AYN	_
+6	barg	N	באַרג	bAarg	_
+7	vas	C	װאַס	VAas	_
+8	iz	VBF	איז	Ayz	_
+9	ful	ADJ	פֿול	fvl	_
+10	steynr	N	סטײנר	stYnr	_
+
+SENT	1818E-GEOGRAFIE,6.57
+1	khr	N	כר	xr	_
+2	iz	VBF	איז	Ayz	_
+3	eyn	D	אײן	AYN	_
+4	gants	ADV	גאַנץ	gAanQ	_
+5	hukhir	ADJ	הוכיר	hvxyr	_
+6	barg	N	באַרג	bAarg	_
+
+SENT	1818E-GEOGRAFIE,6.58
+1	gbeh	N	גבעה	gbeh	_
+2	iz	VBF	איז	Ayz	_
+3	eyn	D	אײן	AYN	_
+4	klenerir	ADJR	קלענעריר	kleneryr	_
+5	barg	N	באַרג	bAarg	_
+
+SENT	1818E-GEOGRAFIE,6.59
+1	di	D	די	dy	_
+2	erd	N	ערד	erd	_
+3	habin	HVF	האַבין	hAabyN	_
+4	mir	PRO	מיר	myr	_
+5	eyn	RP	אײן	AYN	_
+6	giteylt	VBN	גיטײלט	gytYlt	_
+7	in	P	אין	AyN	_
+8	tsveyen	NUM	צװײען	qVYeN	_
+9	das	D	דת	dS	_
+10	heyst	VBF	הײסט	hYst	_
+11	ibsh	N	איבש	Ayb$	_
+12	un	CONJ	און	AvN	_
+13	imim	N	אימים	AymyM	_
+
+SENT	1818E-GEOGRAFIE,6.60
+1	abr	CONJ	אַבר	Aabr	_
+2	di	D	די	dy	_
+3	ibsh	N	איבש	Ayb$	_
+4	iz	BEF	איז	Ayz	_
+5	eyn	RP	אײן	AYN	_
+6	giteylt	VAN	גיטײלט	gytYlt	_
+7	in	P	אין	AyN	_
+8	4	NUM	4	4	_
+9	khlkim	N	כלקים	xlkyM	_
+
+SENT	1818E-GEOGRAFIE,6.61
+1	un	CONJ	און	AvN	_
+2	azu	ADV	אַזו	Aazv	_
+3	heysin	VBF	הײסין	hYsyN	_
+4	zey	PRO	זײ	zY	_
+5	eaurape	NPR	עאַוראַפּע	eAavrAape	_
+6	,	PUNC	,	,	_
+7	azie	NPR	אַזיִע	Aazyie	_
+8	afrike	NPR	אַפֿריקע	Aafryke	_
+9	un	CONJ	און	AvN	_
+10	di	D	די	dy	_
+11	amerike	NPR	אַמעריקע	Aameryke	_
+12	mit	P	מיט	myt	_
+13	al	Q	אַל	Aal	_
+14	di	D	די	dy	_
+15	vispes	N	װיספּעס	Vyspes	_
+16	vas	C	װאַס	VAas	_
+17	zeynen	VBF	זײנען	zYneN	_
+18	nahent	ADV	נאַהענט	nAahent	_
+19	bey	P	בײ	bY	_
+20	zey	PRO	זײ	zY	_
+
+SENT	1818E-GEOGRAFIE,6.62
+1	anderi	ADJ	אַנדערי	Aandery	_
+2	teylin	VBF	טײלין	tYlyN	_
+3	es	PRO	עס	es	_
+4	abr	ADV	אַבר	Aabr	_
+5	in	P	אין	AyN	_
+6	finf	NUM	פֿינף	fynF	_
+7	khlkum	N	כלקום	xlkvM	_
+8	eaurape	NPR	עאַוראַפּע	eAavrAape	_
+9	,	PUNC	,	,	_
+10	azie	NPR	אַזיִע	Aazyie	_
+11	afrike	NPR	אַפֿריקע	Aafryke	_
+12	,	PUNC	,	,	_
+13	amerike	NPR	אַמעריקע	Aameryke	_
+14	un	CONJ	און	AvN	_
+15	australazie	NPR	אַוסטראַלאַזיִע	AavstrAalAazyie	_
+16	uder	CONJ	אודער	Avder	_
+17	polinezie	NPR	פּאָלינעזיִע	pAolynezyie	_
+
+SENT	1818E-GEOGRAFIE,6.63
+1	un	CONJ	און	AvN	_
+2	in	P	אין	AyN	_
+3	dem	D	דעם	deM	_
+4	khlk	N	כלק	xlk	_
+5	rekhnt	VBF	רעכנט	rexnt	_
+6	men	PRO	מען	meN	_
+7	es	ES	עס	es	_
+8	di	D	די	dy	_
+9	inzlen	N	אינזלען	AynzleN	_
+10	di	D	די	dy	_
+11	vas	C	װאַס	VAas	_
+12	men	PRO	מען	meN	_
+13	veys	VBF	װײס	VYs	_
+14	fun	P	פֿון	fvN	_
+15	lang	ADV	לאַנג	lAang	_
+16	an	RP	אַן	AaN	_
+17	un	CONJ	און	AvN	_
+18	ukh	ADV	אוך	AvX	_
+19	di	D	די	dy	_
+20	neye_gifunene	ADJ	נײע_גיפֿונענע	nYe_gyfvnene	_
+21	oyf	P	אױף	AWF	_
+22	dem	D	דעם	deM	_
+23	indishin	ADJ	אינדישין	Ayndy$yN	_
+24	otsan	N	אָצאַן	AoqAaN	_
+25	in	P	אין	AyN	_
+26	mzrkh	H	מזרך	mzrX	east
+27	un	CONJ	און	AvN	_
+28	drum	H	דרום	drvM	south
+29	azie	NPR	אַזיִע	Aazyie	_
+
+SENT	1818E-GEOGRAFIE,6.64
+1	un	CONJ	און	AvN	_
+2	deruntr	DR+P	דערונטר	dervntr	_
+3	iz	VBF	איז	Ayz	_
+4	di	D	די	dy	_
+5	grusi	ADJ	גרוסי	grvsy	_
+6	inzln	N	אינזלן	AynzlN	_
+7	ney	NPR	נײ	nY	_
+8	haland	NPR	האַלאַנד	hAalAand	_
+9	veyl	C	װײל	VYl	_
+10	zi	PRO	זי	zy	_
+11	iz	VBF	איז	Ayz	_
+12	greser	ADJR	גרעסער	greser	_
+13	fr	P	פֿר	fr	_
+14	eurape	N	עוראַפּע	evrAape	_
+
+SENT	1818E-GEOGRAFIE,6.65
+1	di	D	די	dy	_
+2	tsvey	NUM	צװײ	qVY	_
+3	khlkim	N	כלקים	xlkyM	_
+4	zeynn	VBF	זײנן	zYnN	_
+5	nit	NEG	ניט	nyt	_
+6	fun	P	פֿון	fvN	_
+7	eybig	ADV	אײביג	AYbyg	_
+8	bekant	ADJ	בעקאַנט	bekAant	_
+
+SENT	1818E-GEOGRAFIE,6.66
+1	den	CONJ	דען	deN	_
+2	men	PRO	מען	meN	_
+3	hat	HVF	האַט	hAat	_
+4	fun	P	פֿון	fvN	_
+5	lang	ADV	לאַנג	lAang	_
+6	an	RP	אַן	AaN	_
+7	nit	NEG	ניט	nyt	_
+8	mer	QR	מער	mer	_
+9	givst	VBN	גיװסט	gyVst	_
+10	az	P	אַז	Aaz	_
+11	di	D	די	dy	_
+12	ersti	ADJ	ערסטי	ersty	_
+13	drey	NUM	דרײ	drY	_
+14	khlkim	N	כלקים	xlkyM	_
+15	das	D	דת	dS	_
+16	heyst	VBF	הײסט	hYst	_
+17	eaurape	NPR	עאַוראַפּע	eAavrAape	_
+18	azie	NPR	אַזיִע	Aazyie	_
+19	afrike	NPR	אַפֿריקע	Aafryke	_
+
+SENT	1818E-GEOGRAFIE,6.67
+1	das	D	דת	dS	_
+2	iz	BEF	איז	Ayz	_
+3	oykh	ADV	אױך	AWX	_
+4	nukh	ADV	נוך	nvX	_
+5	nit	NEG	ניט	nyt	_
+6	gants	ADV	גאַנץ	gAanQ	_
+7	farful	ADV	פֿאַרפֿול	fAarfvl	_
+8	givezin	VBN	גיװעזין	gyVezyN	_
+9	bakant	ADJ	באַקאַנט	bAakAant	_
+
+SENT	1818E-GEOGRAFIE,6.68
+1	di	D	די	dy	_
+2	drey	NUM	דרײ	drY	_
+3	khlkim	N	כלקים	xlkyM	_
+4	ruft	VBF	רופֿט	rvft	_
+5	men	PRO	מען	meN	_
+6	di	D	די	dy	_
+7	alte	ADJ	אַלטע	Aalte	_
+8	velt	N	װעלט	Velt	_
+9	veyl	C	װײל	VYl	_
+10	zey	PRO	זײ	zY	_
+11	zeynen	VBF	זײנען	zYneN	_
+12	shun	ADV	שון	$vN	_
+13	fun	P	פֿון	fvN	_
+14	lang	ADVP	לאַנג	lAang	_
+15	an	RP	אַן	AaN	_
+16	bekant	ADJ	בעקאַנט	bekAant	_
+
+SENT	1818E-GEOGRAFIE,6.69
+1	amerike	NPR	אַמעריקע	Aameryke	_
+2	ruft	VBF	רופֿט	rvft	_
+3	men	PRO	מען	meN	_
+4	abr	ADV	אַבר	Aabr	_
+5	di	D	די	dy	_
+6	neye	ADJ	נײע	nYe	_
+7	velt	N	װעלט	Velt	_
+8	veyl	C	װײל	VYl	_
+9	zi	PRO	זי	zy	_
+10	iz	BEF	איז	Ayz	_
+11	nit	NEG	ניט	nyt	_
+12	lang	ADV	לאַנג	lAang	_
+13	bikant	ADJ	ביקאַנט	bykAant	_
+14	givarn	VBN	גיװאַרן	gyVAarN	_
+
+SENT	1818E-GEOGRAFIE,6.70
+1	das	D	דת	dS	_
+2	land	N	לאַנד	lAand	_
+3	amerike	NPR	אַמעריקע	Aameryke	_
+4	iz	BEF	איז	Ayz	_
+5	der_gangin	VAN	דער_גאַנגין	der_gAangyN	_
+6	givarin	RDN	גיװאַרין	gyVAaryN	_
+7	durkh	P	דורך	dvrX	_
+8	eyn	D	אײן	AYN	_
+9	man	N	מאַן	mAaN	_
+10	vas	C	װאַס	VAas	_
+11	men	PRO	מען	meN	_
+12	hat	HVF	האַט	hAat	_
+13	im	PRO	אים	AyM	_
+14	girufin	VBN	גירופֿין	gyrvfyN	_
+15	kalumbus	N	קאַלומבוס	kAalvmbvs	_
+16	in	P	אין	AyN	_
+17	das	D	דת	dS	_
+18	yahr	N	יאַהר	yAahr	_
+19	1491	NUM	1491	1491	_
+
+SENT	1818E-GEOGRAFIE,6.71
+1	un	CONJ	און	AvN	_
+2	dem	D	דעם	deM	_
+3	namen	N	נאַמען	nAameN	_
+4	amerike	NPR	אַמעריקע	Aameryke	_
+5	hat	HVF	האַט	hAat	_
+6	es	PRO	עס	es	_
+7	bakumen	VBN	באַקומען	bAakvmeN	_
+8	fun	P	פֿון	fvN	_
+9	eynm	PRO	אײנם	AYnM	_
+10	vas	C	װאַס	VAas	_
+11	hat	HVF	האַט	hAat	_
+12	giheysin	VBN	גיהײסין	gyhYsyN	_
+13	amerike	NPR	אַמעריקע	Aameryke	_
+14	vespustsius	NPR	װעספּוסציִוס	Vespvsqyivs	_
+15	eyn	D	אײן	AYN	_
+16	soykhr	N	סױכר	sWxr	_
+17	fun	P	פֿון	fvN	_
+18	flarentsie	N	פֿלאַרענציִע	flAarenqyie	_
+19	vas	C	װאַס	VAas	_
+20	iz	BEF	איז	Ayz	_
+21	gigangin	VBN	גיגאַנגין	gygAangyN	_
+22	un	CONJ	און	AvN	_
+23	iz	BEF	איז	Ayz	_
+24	der_gangen	VBN	דער_גאַנגען	der_gAangeN	_
+25	nakh	P	נ"ך	n"X	_
+26	mer	QR	מער	mer	_
+27	velt	N	װעלט	Velt	_
+
+SENT	1818E-GEOGRAFIE,6.72
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	hat	HVF	האַט	hAat	_
+4	gilazin	VBN	גילאַזין	gylAazyN	_
+5	zeyn	PRO$	זײן	zYN	_
+6	namen	N	נאַמען	nAameN	_
+7	deroyf	DR+P	דערױף	derWF	_
+8	gebin	VB	געבין	gebyN	_
+
+SENT	1818E-GEOGRAFIE,6.73
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	ap	RP	אַפּ	Aap	_
+4	ginumen	VBN	גינומען	gynvmeN	_
+5	fun	P	פֿון	fvN	_
+6	yenm	D	יענם	yenM	_
+7	dem	D	דעם	deM	_
+8	kbud	N	קבוד	kbvd	_
+
+SENT	1818E-GEOGRAFIE,6.74
+1	das	D	דת	dS	_
+2	erste	ADJ	ערסטע	erste	_
+3	bvaunung	N	בװאַונונג	bVAavnvng	_
+4	in	P	אין	AyN	_
+5	der	D	דער	der	_
+6	velt	N	װעלט	Velt	_
+7	hat	HVF	האַט	hAat	_
+8	zikh	PRO	זיך	zyX	_
+9	an	RP	אַן	AaN	_
+10	ghubin	VBN	גהובין	ghvbyN	_
+11	in	P	אין	AyN	_
+12	azie	NPR	אַזיִע	Aazyie	_
+
+SENT	1818E-GEOGRAFIE,6.75
+1	varum	CONJ	װאַרום	VAarvM	_
+2	dart	ADV	דאַרט	dAart	_
+3	iz	BEF	איז	Ayz	_
+4	bshafn	VAN	בשאַפֿן	b$AafN	_
+5	givarn	RDN	גיװאַרן	gyVAarN	_
+6	adm	NPR	אַדם	AadM	_
+7	hrasun	H	הראַסון	hrAasvN	the_first
+
+SENT	1818E-GEOGRAFIE,7.77
+1	un	CONJ	און	AvN	_
+2	dartin	ADV	דאַרטין	dAartyN	_
+3	iz	BEF	איז	Ayz	_
+4	gegebin	VAN	געגעבין	gegebyN	_
+5	givarin	RDN	גיװאַרין	gyVAaryN	_
+6	di	D	די	dy	_
+7	turh	NPR	טורה	tvrh	_
+
+SENT	1818E-GEOGRAFIE,7.78
+1	un	CONJ	און	AvN	_
+2	oykh	ADV	אױך	AWX	_
+3	di	D	די	dy	_
+4	avut	N	אַװוּט	AaVUt	_
+5	habin	HVF	האַבין	hAabyN	_
+6	dartin	ADV	דאַרטין	dAartyN	_
+7	givaunt	VBN	גיװאַונט	gyVAavnt	_
+
+SENT	1818E-GEOGRAFIE,7.79
+1	der	D	דער	der	_
+2	khlk	N	כלק	xlk	_
+3	iz	BEF	איז	Ayz	_
+4	givezin	VBN	גיװעזין	gyVezyN	_
+5	brimter	ADJ	ברימטער	brymter	_
+6	in	P	אין	AyN	_
+7	der	D	דער	der	_
+8	gantser	ADJ	גאַנצער	gAanqer	_
+9	velt	N	װעלט	Velt	_
+
+SENT	1818E-GEOGRAFIE,7.80
+1	yetst	ADV	יעצט	yeqt	_
+2	iz	VBF	איז	Ayz	_
+3	abr	ADV	אַבר	Aabr	_
+4	eaurape	NPR	עאַוראַפּע	eAavrAape	_
+5	barimter	ADJR	באַרימטער	bAarymter	_
+6	ibr	P	איבר	Aybr	_
+7	ire	PRO$	אירע	Ayre	_
+8	teyne	ADJ	טײנע	tYne	_
+9	gnhgt	N	גנהגט	gnhgt	_
+10	ibr	P	איבר	Aybr	_
+11	ire	PRO$	אירע	Ayre	_
+12	gute	ADJ	גוטע	gvte	_
+13	regirung	N	רעגירונג	regyrvng	_
+14	un	CONJ	און	AvN	_
+15	ibr	P	איבר	Aybr	_
+16	ire	PRO$	אירע	Ayre	_
+17	kligere	ADJR	קליגערע	klygere	_
+18	msptim	N	מספּטים	msptyM	_
+
+SENT	1818E-GEOGRAFIE,7.81
+1	di	D	די	dy	_
+2	anderi	ADJ	אַנדערי	Aandery	_
+3	khlkim	N	כלקים	xlkyM	_
+4	habin	VBF	האַבין	hAabyN	_
+5	abr	ADV	אַבר	Aabr	_
+6	nit	NEG	ניט	nyt	_
+7	di	D	די	dy	_
+8	melut	N	מעלוט	melvt	_
+
+SENT	1818E-GEOGRAFIE,7.82
+1	nar	FP	נאַר	nAar	_
+2	di	D	די	dy	_
+3	ekste	ADJ	עקסטע	ekste	_
+4	mdinut	N	מדינוט	mdynvt	_
+5	fun	P	פֿון	fvN	_
+6	azie	NPR	אַזיִע	Aazyie	_
+7	regirn	VBF	רעגירן	regyrN	_
+8	nakh	ADV	נ"ך	n"X	_
+9	mit	P	מיט	myt	_
+10	khkhmh	N	ככמה	xxmh	_
+
+SENT	1818E-GEOGRAFIE,7.83
+1	das	D	דת	dS	_
+2	iz	VBF	איז	Ayz	_
+3	khine	NPR	כינע	xyne	_
+4	un	CONJ	און	AvN	_
+5	yapanie	NPR	יאַפּאַניִע	yAapAanyie	_
+
+SENT	1818E-GEOGRAFIE,7.84
+1	abr	ADV	אַבר	Aabr	_
+2	di	D	די	dy	_
+3	merb	N	מערב	merb	west
+4	zeyt	N	זײט	zYt	_
+5	fun	P	פֿון	fvN	_
+6	azie	NPR	אַזיִע	Aazyie	_
+7	iz	VBF	איז	Ayz	_
+8	nit	NEG	ניט	nyt	_
+9	azu	ADV	אַזו	Aazv	_
+
+SENT	1818E-GEOGRAFIE,7.85
+1	der	D	דער	der	_
+2	grester	ADJS	גרעסטער	grester	_
+3	teyl	N	טײל	tYl	_
+4	fun	P	פֿון	fvN	_
+5	afrike	NPR	אַפֿריקע	Aafryke	_
+6	zeynen	VBF	זײנען	zYneN	_
+7	nar	FP	נאַר	nAar	_
+8	barbarzintses	N	באַרבאַרזינצעס	bAarbAarzynqes	_
+
+SENT	1818E-GEOGRAFIE,7.86
+1	das	D	דת	dS	_
+2	heyst	VBF	הײסט	hYst	_
+3	zey	PRO	זײ	zY	_
+4	habin	VBF	האַבין	hAabyN	_
+5	keyn	Q	קײן	kYN	_
+6	rekhti	ADJ	רעכטי	rexty	_
+7	amunh	N	אַמונה	Aamvnh	_
+8	un	CONJ	און	AvN	_
+9	keyn	Q	קײן	kYN	_
+10	rekht	ADJ	רעכט	rext	_
+11	far_stand	N	פֿאַר_סטאַנד	fAar_stAand	_
+
+SENT	1818E-GEOGRAFIE,7.87
+1	in	P	אין	AyN	_
+2	amerike	NPR	אַמעריקע	Aameryke	_
+3	iz	VBF	איז	Ayz	_
+4	nar	FP	נאַר	nAar	_
+5	kluge	ADJ	קלוגע	klvge	_
+6	leyt	N	לײט	lYt	_
+7	vau	WADV	װאַו	VAav	_
+8	eaurapeianer	NPR	עאַוראַפּעיִאַנער	eAavrAapeyiAaner	_
+9	habin	HVF	האַבין	hAabyN	_
+10	zikh	PRO	זיך	zyX	_
+11	bazelt	VBN	באַזעלט	bAazelt	_
+
+SENT	1818E-GEOGRAFIE,7.88
+1	veyter	ADV	װײטער	VYter	_
+2	iz	VBF	איז	Ayz	_
+3	nakh	ADV	נ"ך	n"X	_
+4	alts	Q	אַלץ	AalQ	_
+5	vild	ADJ	װילד	Vyld	_
+6	un	CONJ	און	AvN	_
+7	pust	ADJ	פּוסט	pvst	_
+
+SENT	1818E-GEOGRAFIE,7.89
+1	andri	ADJ	אַנדרי	Aandry	_
+2	ertr	N	ערטר	ertr	_
+3	zeynen	VBF	זײנען	zYneN	_
+4	nakh	ADV	נ"ך	n"X	_
+5	zeyer	ADV	זײער	zYer	_
+6	veynig	Q	װײניג	VYnyg	_
+7	bekant	ADJ	בעקאַנט	bekAant	_
+
+SENT	1818E-GEOGRAFIE,7.90
+1	eaurpie	NPR	עאַורפּיִע	eAavrpyie	_
+2	di	D	די	dy	_
+3	grenetsin	N	גרענעצין	greneqyN	_
+4	fun	P	פֿון	fvN	_
+5	eaurpe	NP	עאַורפּע	eAavrpe	_
+
+SENT	1818E-GEOGRAFIE,7.91
+1	eaurpie	NPR	עאַורפּיִע	eAavrpyie	_
+2	grentst	VBF	גרענצט	grenqt	_
+3	zikh	PRO	זיך	zyX	_
+4	:	PUNC	:	:	_
+
+SENT	1818E-GEOGRAFIE,7.92
+1	oyf	P	אױף	AWF	_
+2	tsfun	H	צפֿון	qfvN	north
+3	zeyt	N	זײט	zYt	_
+4	iz	VBF	איז	Ayz	_
+5	der	D	דער	der	_
+6	eyz_mer	N	אײז_מער	AYz_mer	_
+
+SENT	1818E-GEOGRAFIE,7.93
+1	oyf	P	אױף	AWF	_
+2	mzrkh	H	מזרך	mzrX	east
+3	zeyt	N	זײט	zYt	_
+4	iz	VBF	איז	Ayz	_
+5	dr	D	דר	dr	_
+6	grekser	ADJ	גרעקסער	grekser	_
+7	arkhiplag	N	אַרכיפּלאַג	AarxyplAag	_
+8	der	D	דער	der	_
+9	dardnel	NPR	דאַרדנעל	dAardnel	_
+10	der	D	דער	der	_
+11	azavsr	ADJ	אַזאַװסר	AazAaVsr	_
+12	mehr	N	מעהר	mehr	_
+13	der	D	דער	der	_
+14	teykh	N	טײך	tYX	_
+15	dan	NPR	דאַן	dAaN	_
+16	un	CONJ	און	AvN	_
+17	di	D	די	dy	_
+18	uralske	ADJ	אוראַלסקע	AvrAalske	_
+19	berg	N	בערג	berg	_
+
+SENT	1818E-GEOGRAFIE,7.94
+1	oyf	P	אױף	AWF	_
+2	drum	H	דרום	drvM	south
+3	iz	VBF	איז	Ayz	_
+4	dr	D	דר	dr	_
+5	grenits	N	גרעניץ	grenyQ	_
+6	dr	D	דר	dr	_
+7	mit_lendesher	ADJ	מיט_לענדעשער	myt_lende$er	_
+8	mer	N	מער	mer	_
+
+SENT	1818E-GEOGRAFIE,7.95
+1	oyf	P	אױף	AWF	_
+2	merib	H	מעריב	meryb	west
+3	iz	VBF	איז	Ayz	_
+4	der	D	דער	der	_
+5	grents	N	גרענץ	grenQ	_
+6	oykh	ADV	אױך	AWX	_
+7	der	D	דער	der	_
+8	atlantisher	ADJ	אַטלאַנטישער	AatlAanty$er	_
+9	mehr	N	מעהר	mehr	_
+
+SENT	1818E-GEOGRAFIE,7.96
+1	eaurpie	NPR	עאַורפּיִע	eAavrpyie	_
+2	hat	VBF	האַט	hAat	_
+3	in	P	אין	AyN	_
+4	zikh	PRO	זיך	zyX	_
+5	drey	NUM	דרײ	drY	_
+6	kitriut	N	קיטריִוט	kytryivt	_
+7	rus_land	NPR	רוס_לאַנד	rvs_lAand	_
+8	estreykh	NPR	עסטרײך	estrYX	_
+9	un	CONJ	און	AvN	_
+10	turkaye	NPR	טורקײַע	tvrkYae	_
+11	der	D	דער	der	_
+12	pups	N	פּופּס	pvps	_
+13	hat	VBF	האַט	hAat	_
+14	oykh	ADV	אױך	AWX	_
+15	fr	P	פֿר	fr	_
+16	zikh	PRO	זיך	zyX	_
+17	eyn	D	אײן	AYN	_
+18	groys	ADJ	גרױס	grWs	_
+19	stik	N	סטיק	styk	_
+20	land	N	לאַנד	lAand	_
+21	oyf	P	אױף	AWF	_
+22	velkhi	WPRO	װעלכי	Velxy	_
+23	er	PRO	ער	er	_
+24	zelbst	ADV	זעלבסט	zelbst	_
+25	deruf	DR+P	דערוף	dervF	_
+26	hersht	VBF	הערשט	her$t	_
+27	un	CONJ	און	AvN	_
+28	ukh	ADV	אוך	AvX	_
+29	drey_tsehn	NUM	דרײ_צעהן	drY_qehN	_
+30	mlukhut	N	מלוכוט	mlvxvt	_
+
+SENT	1818E-GEOGRAFIE,7.97
+1	un	CONJ	און	AvN	_
+2	das	D	דת	dS	_
+3	zeynen	VBF	זײנען	zYneN	_
+4	zey	PRO	זײ	zY	_
+5	{COM:list_omitted}	NP	{cאָם:ליסט_אָמיטטעד}	{cAoM:lyst_Aomytted}	_
+
+SENT	1818E-GEOGRAFIE,8.99
+1	un	CONJ	און	AvN	_
+2	es	PRO	עס	es	_
+3	hat	VBF	האַט	hAat	_
+4	in	P	אין	AyN	_
+5	zikh	PRO	זיך	zyX	_
+6	nakh	ADV	נ"ך	n"X	_
+7	zeks	NUM	זעקס	zeks	_
+8	kinigreykhin	N	קיניגרײכין	kynygrYxyN	_
+9	mlukhut	N	מלוכוט	mlvxvt	_
+10	velkhi	WPRO	װעלכי	Velxy	_
+11	giherin	VBF	גיהערין	gyheryN	_
+12	unter	P	אונטער	Avnter	_
+13	andri	ADJ	אַנדרי	Aandry	_
+14	ksrin	N	קסרין	ksryN	_
+15	un	CONJ	און	AvN	_
+16	mlkhim	N	מלכים	mlxyM	_
+17	zu	ADV	זו	zv	_
+18	vi	WADV	װי	Vy	_
+19	pulin	NPR	פּולין	pvlyN	_
+20	giher	VBF	גיהער	gyher	_
+21	untir	P	אונטיר	Avntyr	_
+22	dem	D	דעם	deM	_
+23	russhin	ADJ	רוסשין	rvs$yN	_
+24	kisr	N	קיסר	kysr	_
+
+SENT	1818E-GEOGRAFIE,8.100
+1	zu	ADV	זו	zv	_
+2	iz	VBF	איז	Ayz	_
+3	nakh	ADV	נ"ך	n"X	_
+4	finf	NUM	פֿינף	fynF	_
+5	mlukhut	N	מלוכוט	mlvxvt	_
+
+SENT	1818E-GEOGRAFIE,8.101
+1	un	CONJ	און	AvN	_
+2	das	D	דת	dS	_
+3	zeyn	VBF	זײן	zYN	_
+4	zey	PRO	זײ	zY	_
+5	:	PUNC	:	:	_
+6	{COM:list_omitted}	NP	{cאָם:ליסט_אָמיטטעד}	{cAoM:lyst_Aomytted}	_
+
+SENT	1818E-GEOGRAFIE,8.102
+1	ukh	ADV	אוך	AvX	_
+2	hat	VBF	האַט	hAat	_
+3	es	PRO	עס	es	_
+4	in	P	אין	AyN	_
+5	zikh	PRO	זיך	zyX	_
+6	fil	Q	פֿיל	fyl	_
+7	gruse	ADJ	גרוסע	grvse	_
+8	kurferstin	N	קורפֿערסטין	kvrferstyN	_
+9	un	CONJ	און	AvN	_
+10	kleneri	ADJR	קלענערי	klenery	_
+
+SENT	1818E-GEOGRAFIE,8.103
+1	ukh	ADV	אוך	AvX	_
+2	hat	VBF	האַט	hAat	_
+3	es	PRO	עס	es	_
+4	in	P	אין	AyN	_
+5	zikh	PRO	זיך	zyX	_
+6	fir	NUM	פֿיר	fyr	_
+7	frey	ADJ	פֿרײ	frY	_
+8	reykh_stet	N	רײכ_סטעט	rYx_stet	_
+9	{COM:list_omitted}	NP-PRN	{cאָם:ליסט_אָמיטטעד}	{cAoM:lyst_Aomytted}	_
+
+SENT	1818E-GEOGRAFIE,8.104
+1	fun	P	פֿון	fvN	_
+2	di	D	די	dy	_
+3	gresti	ADJS	גרעסטי	gresty	_
+4	teykhin	N	טײכין	tYxyN	_
+5	vas	C	װאַס	VAas	_
+6	zeyn	VBF	זײן	zYN	_
+7	in	P	אין	AyN	_
+8	irupe	NPR	אירופּע	Ayrvpe	_
+
+SENT	1818E-GEOGRAFIE,8.105
+1	in	P	אין	AyN	_
+2	teyts_land	NPR	טײצ_לאַנד	tYq_lAand	_
+3	iz	VBF	איז	Ayz	_
+4	der	D	דער	der	_
+5	duney	NPR	דונײ	dvnY	_
+6	dr	D	דר	dr	_
+7	reyn	NPR	רײן	rYN	_
+8	di	D	די	dy	_
+9	udre	NPR	אודרע	Avdre	_
+10	un	CONJ	און	AvN	_
+11	di	D	די	dy	_
+12	elbe	NPR	עלבע	elbe	_
+
+SENT	1818E-GEOGRAFIE,8.106
+1	in	P	אין	AyN	_
+2	itley	NPR	איטלײ	AytlY	_
+3	is	VBF	איס	Ays	_
+4	dr	D	דר	dr	_
+5	tiber	NPR	טיבער	tyber	_
+6	adiga	NPR	אַדיגאַ	AadygAa	_
+7	un	CONJ	און	AvN	_
+8	pa	NPR	פּאַ	pAa	_
+
+SENT	1818E-GEOGRAFIE,8.107
+1	in	P	אין	AyN	_
+2	freynkrikh	NPR	פֿרײנקריך	frYnkryX	_
+3	iz	VBF	איז	Ayz	_
+4	di	D	די	dy	_
+5	sekvane	NPR	סעקװאַנע	sekVAane	_
+6	radan	NPR	ראַדאַן	rAadAaN	_
+7	un	CONJ	און	AvN	_
+8	garana	NPR	גאַראַנאַ	gAarAanAa	_
+
+SENT	1818E-GEOGRAFIE,8.108
+1	in	P	אין	AyN	_
+2	hispaney	NPR	היספּאַנײ	hyspAanY	_
+3	un	CONJ	און	AvN	_
+4	purtegal	NPR	פּורטעגאַל	pvrtegAal	_
+5	iz	VBF	איז	Ayz	_
+6	di	D	די	dy	_
+7	ebre	NPR	עברע	ebre	_
+8	tag	NPR	תּג	Tg	_
+9	gvadalkvivir	NPR	גװאַדאַלקװיװיר	gVAadAalkVyVyr	_
+10	un	CONJ	און	AvN	_
+11	duera	NPR	דועראַ	dverAa	_
+
+SENT	1818E-GEOGRAFIE,8.109
+1	in	P	אין	AyN	_
+2	england	NPR	ענגלאַנד	englAand	_
+3	iz	VBF	איז	Ayz	_
+4	di	D	די	dy	_
+5	tamiza	NPR	טאַמיזאַ	tAamyzAa	_
+
+SENT	1818E-GEOGRAFIE,8.110
+1	in	P	אין	AyN	_
+2	rus_land	NPR	רוס_לאַנד	rvs_lAand	_
+3	iz	VBF	איז	Ayz	_
+4	der	D	דער	der	_
+5	don	NPR	דן	dN	_
+6	velge	NPR	װעלגע	Velge	_
+7	dvine	NPR	דװינע	dVyne	_
+8	dneypr	NPR	דנײפּר	dnYpr	_
+9	neve	NPR	נעװע	neVe	_
+10	nemir	NPR	נעמיר	nemyr	_
+11	un	CONJ	און	AvN	_
+12	viley	NPR	װילײ	VylY	_
+
+SENT	1818E-GEOGRAFIE,8.111
+1	in	P	אין	AyN	_
+2	pulin	NPR	פּולין	pvlyN	_
+3	iz	VBF	איז	Ayz	_
+4	dr	D	דר	dr	_
+5	veysil	NPR	װײסיל	VYsyl	_
+
+SENT	1818E-GEOGRAFIE,8.112
+1	fun	P	פֿון	fvN	_
+2	di	D	די	dy	_
+3	gresti	ADJS	גרעסטי	gresty	_
+4	yezares	N	יעזאַרעס	yezAares	_
+5	in	P	אין	AyN	_
+6	irupe	NPR	אירופּע	Ayrvpe	_
+
+SENT	1818E-GEOGRAFIE,8.113
+1	in	P	אין	AyN	_
+2	rus_land	NPR	רוס_לאַנד	rvs_lAand	_
+3	iz	VBF	איז	Ayz	_
+4	di	D	די	dy	_
+5	larage	NPR	לאַראַגע	lAarAage	_
+6	anege	NPR	אַנעגע	Aanege	_
+7	peeypoys	NPR	פּעײפּױס	peYpWs	_
+8	ilmen	NPR	אילמען	AylmeN	_
+9	beyelh	NPR	בײעלה	bYelh	_
+10	azire	N	אַזירע	Aazyre	_
+11	un	CONJ	און	AvN	_
+12	nakh	ADV	נ"ך	n"X	_
+13	veytir	ADJ	װײטיר	VYtyr	_
+
+SENT	1818E-GEOGRAFIE,8.114
+1	in	P	אין	AyN	_
+2	pulin	NPR	פּולין	pvlyN	_
+3	iz	VBF	איז	Ayz	_
+4	di	D	די	dy	_
+5	geple	NPR	געפּלע	geple	_
+
+SENT	1818E-GEOGRAFIE,8.115
+1	in	P	אין	AyN	_
+2	sveydin	NPR	סװײדין	sVYdyN	_
+3	iz	VBF	איז	Ayz	_
+4	venir	NPR	װעניר	Venyr	_
+5	meler	NPR	מעלער	meler	_
+6	heltar	NPR	העלטאַר	heltAar	_
+7	in	P	אין	AyN	_
+8	teyts_land	NPR	טײצ_לאַנד	tYq_lAand	_
+9	kanstantseyen	NPR	קאַנסטאַנצײען	kAanstAanqYeN	_
+
+SENT	1818E-GEOGRAFIE,8.116
+1	in	P	אין	AyN	_
+2	itlie	NPR	איטליִע	Aytlyie	_
+3	udr	CONJ	אודר	Avdr	_
+4	vlakhin_land	NPR	װלאַכינ_לאַנד	VlAaxyn_lAand	_
+5	iz	VBF	איז	Ayz	_
+6	laga	NPR	לאַגאַ	lAagAa	_
+7	di	NPR	די	dy	_
+8	kama	NPR	קאַמאַ	kAamAa	_
+9	laga	NPR	לאַגאַ	lAagAa	_
+10	di	NPR	די	dy	_
+11	garda	NPR	גאַרדאַ	gAardAa	_
+12	laga	NPR	לאַגאַ	lAagAa	_
+13	magiare	NPR	מאַגיִאַרע	mAagyiAare	_
+
+SENT	1818E-GEOGRAFIE,9.118
+1	fun	P	פֿון	fvN	_
+2	di	D	די	dy	_
+3	gresti	ADJS	גרעסטי	gresty	_
+4	rezidents_hupt_stet	N	רעזידענצ_הופּט_סטעט	rezydenq_hvpt_stet	_
+5	vas	C	װאַס	VAas	_
+6	zeyn	VBF	זײן	zYN	_
+7	in	P	אין	AyN	_
+8	irupie	NPR	אירופּיִע	Ayrvpyie	_
+
+SENT	1818E-GEOGRAFIE,9.119
+1	in	P	אין	AyN	_
+2	pupsin_land	NPR	פּופּסינ_לאַנד	pvpsyn_lAand	_
+3	iz	VBF	איז	Ayz	_
+4	di	D	די	dy	_
+5	grusi	ADJ	גרוסי	grvsy	_
+6	stat	N	סטאַט	stAat	_
+7	rum	NPR	רום	rvM	_
+8	bey	P	בײ	bY	_
+9	dr	D	דר	dr	_
+10	teykh	N	טײך	tYX	_
+11	tiber	NPR	טיבער	tyber	_
+
+SENT	1818E-GEOGRAFIE,9.120
+1	in	P	אין	AyN	_
+2	rus_land	NPR	רוס_לאַנד	rvs_lAand	_
+3	iz	VBF	איז	Ayz	_
+4	pitrs_burg	NPR	פּיטרס_בורג	pytrs_bvrg	_
+5	bey	P	בײ	bY	_
+6	der	D	דער	der	_
+7	neve	NPR	נעװע	neVe	_
+
+SENT	1818E-GEOGRAFIE,9.121
+1	in	P	אין	AyN	_
+2	usterie	NPR	אוסטעריִע	Avsteryie	_
+3	iz	VBF	איז	Ayz	_
+4	vin	NPR	װין	VyN	_
+5	bey	P	בײ	bY	_
+6	dunay	NPR	דונײַ	dvnYa	_
+
+SENT	1818E-GEOGRAFIE,9.122
+1	in	P	אין	AyN	_
+2	tirkey	NPR	טירקײ	tyrkY	_
+3	iz	VBF	איז	Ayz	_
+4	stambil	NPR	סטאַמביל	stAambyl	_
+5	udr	CONJ	אודר	Avdr	_
+6	kanstnatinapil	NPR	קאַנסטנאַטינאַפּיל	kAanstnAatynAapyl	_
+7	bey	P	בײ	bY	_
+8	das	D	דת	dS	_
+9	eynge	ADJ	אײנגע	AYnge	_
+10	mehr	N	מעהר	mehr	_
+
+SENT	1818E-GEOGRAFIE,9.123
+1	in	P	אין	AyN	_
+2	engil_land	NPR	ענגיל_לאַנד	engyl_lAand	_
+3	iz	VBF	איז	Ayz	_
+4	lundin	NPR	לונדין	lvndyN	_
+5	bey	P	בײ	bY	_
+6	dr	D	דר	dr	_
+7	tamize	NPR	טאַמיזע	tAamyze	_
+
+SENT	1818E-GEOGRAFIE,9.124
+1	in	P	אין	AyN	_
+2	deni_mark	NPR	דעני_מאַרק	deny_mAark	_
+3	iz	VBF	איז	Ayz	_
+4	kapenhagen	NPR	קאַפּענהאַגען	kAapenhAageN	_
+5	oyf	P	אױף	AWF	_
+6	eyn	D	אײן	AYN	_
+7	kleyn	ADJ	קלײן	klYN	_
+8	vispe	N	װיספּע	Vyspe	_
+
+SENT	1818E-GEOGRAFIE,9.125
+1	in	P	אין	AyN	_
+2	shveydin	NPR	שװײדין	$VYdyN	_
+3	iz	VBF	איז	Ayz	_
+4	stakhalem	NPR	סטאַכאַלעם	stAaxAaleM	_
+
+SENT	1818E-GEOGRAFIE,9.126
+1	in	P	אין	AyN	_
+2	preysin	NPR	פּרײסין	prYsyN	_
+3	iz	VBF	איז	Ayz	_
+4	brlin	NPR	ברלין	brlyN	_
+5	bey	P	בײ	bY	_
+6	der	D	דער	der	_
+7	sprean	NPR	ספּרעאַן	spreAaN	_
+
+SENT	1818E-GEOGRAFIE,9.127
+1	in	P	אין	AyN	_
+2	merib	H	מעריב	meryb	west
+3	fun	P	פֿון	fvN	_
+4	preysin	NPR	פּרײסין	prYsyN	_
+5	iz	VBF	איז	Ayz	_
+6	kinigs_berg	NPR	קיניגס_בערג	kynygs_berg	_
+7	bey	P	בײ	bY	_
+8	den	D	דען	deN	_
+9	pregel	NPR	פּרעגעל	pregel	_
+
+SENT	1818E-GEOGRAFIE,9.128
+1	in	P	אין	AyN	_
+2	pulin	NPR	פּולין	pvlyN	_
+3	iz	VBF	איז	Ayz	_
+4	varshoy	NPR	װאַרשױ	VAar$W	_
+5	bey	P	בײ	bY	_
+6	der	D	דער	der	_
+7	veysil	NPR	װײסיל	VYsyl	_
+
+SENT	1818E-GEOGRAFIE,9.129
+1	in	P	אין	AyN	_
+2	ungerin	NPR	אונגערין	AvngeryN	_
+3	iz	VBF	איז	Ayz	_
+4	upfe	NPR	אופּפֿע	Avpfe	_
+5	oder	CONJ	אָדער	Aoder	_
+6	buda	NPR	בודאַ	bvdAa	_
+7	bey	P	בײ	bY	_
+8	dunoy	NPR	דונױ	dvnW	_
+
+SENT	1818E-GEOGRAFIE,9.130
+1	in	P	אין	AyN	_
+2	tsiekh	NPR	ציִעך	qyieX	_
+3	iz	VBF	איז	Ayz	_
+4	prag	NPR	פּראַג	prAag	_
+5	bey	P	בײ	bY	_
+6	mildave	NPR	מילדאַװע	myldAaVe	_
+
+SENT	1818E-GEOGRAFIE,9.131
+1	in	P	אין	AyN	_
+2	zaksn	NPR	זאַקסן	zAaksN	_
+3	iz	VBF	איז	Ayz	_
+4	drezin	NPR	דרעזין	drezyN	_
+5	bey	P	בײ	bY	_
+6	dr	D	דר	dr	_
+7	elbe	NPR	עלבע	elbe	_
+
+SENT	1818E-GEOGRAFIE,9.132
+1	in	P	אין	AyN	_
+2	vestfalin	NPR	װעסטפֿאַלין	VestfAalyN	_
+3	iz	VBF	איז	Ayz	_
+4	kasel	NPR	קאַסעל	kAasel	_
+5	nit	NEG	ניט	nyt	_
+6	veyt	ADV	װײט	VYt	_
+7	fun	P	פֿון	fvN	_
+8	dr	D	דר	dr	_
+9	teykh	N	טײך	tYX	_
+10	fulde	NPR	פֿולדע	fvlde	_
+
+SENT	1818E-GEOGRAFIE,9.133
+1	in	P	אין	AyN	_
+2	haland	NPR	האַלאַנד	hAalAand	_
+3	iz	VBF	איז	Ayz	_
+4	amstrdm	NPR	אַמסטרדם	AamstrdM	_
+
+SENT	1818E-GEOGRAFIE,9.134
+1	in	P	אין	AyN	_
+2	nidr_land	NPR	נידר_לאַנד	nydr_lAand	_
+3	iz	VBF	איז	Ayz	_
+4	bruksel	NPR	ברוקסעל	brvksel	_
+5	bey	P	בײ	bY	_
+6	dr	D	דר	dr	_
+7	menne	NPR	מעננע	menne	_
+
+SENT	1818E-GEOGRAFIE,9.135
+1	in	P	אין	AyN	_
+2	virtimberg	NPR	װירטימבערג	Vyrtymberg	_
+3	iz	VBF	איז	Ayz	_
+4	stutgrad	NPR	סטוטגראַד	stvtgrAad	_
+5	bey	P	בײ	bY	_
+6	netsker	NPR	נעצקער	neqker	_
+
+SENT	1818E-GEOGRAFIE,9.136
+1	in	P	אין	AyN	_
+2	beyerin	NPR	בײערין	bYeryN	_
+3	iz	VBF	איז	Ayz	_
+4	munikh	NPR	מוניך	mvnyX	_
+5	bey	P	בײ	bY	_
+6	iser	NPR	איסור	Aysvr	_
+
+SENT	1818E-GEOGRAFIE,9.137
+1	in	P	אין	AyN	_
+2	frnkreykh	NPR	פֿרנקרײך	frnkrYX	_
+3	iz	VBF	איז	Ayz	_
+4	pariz	NPR	פּאַריז	pAaryz	_
+5	bey	P	בײ	bY	_
+6	dr	D	דר	dr	_
+7	sekvane	NPR	סעקװאַנע	sekVAane	_
+
+SENT	1818E-GEOGRAFIE,9.138
+1	in	P	אין	AyN	_
+2	fartugal	NPR	פֿאַרטוגאַל	fAartvgAal	_
+3	iz	VBF	איז	Ayz	_
+4	lizbon	NPR	ליזבאָן	lyzbAoN	_
+
+SENT	1818E-GEOGRAFIE,9.139
+1	in	P	אין	AyN	_
+2	hispaneye	NPR	היספּאַנײע	hyspAanYe	_
+3	iz	VBF	איז	Ayz	_
+4	madrit	NPR	מאַדריט	mAadryt	_
+
+SENT	1818E-GEOGRAFIE,9.140
+1	in	P	אין	AyN	_
+2	sardinie	NPR	סאַרדיניִע	sAardynyie	_
+3	iz	VBF	איז	Ayz	_
+4	kagliari	NPR	קאַגליִאַרי	kAaglyiAary	_
+
+SENT	1818E-GEOGRAFIE,9.141
+1	in	P	אין	AyN	_
+2	neapaleye	NPR	נעאַפּאַלײע	neAapAalYe	_
+3	iz	VBF	איז	Ayz	_
+4	neapal	NPR	נעאַפּאַל	neAapAal	_
+
+SENT	1818E-GEOGRAFIE,9.142
+1	in	P	אין	AyN	_
+2	sitsuleye	NPR	סיצולײע	syqvlYe	_
+3	iz	VBF	איז	Ayz	_
+4	plaerme	NPR	פּלאַערמע	plAaerme	_
+
+SENT	1818E-GEOGRAFIE,9.143
+1	fun	P	פֿון	fvN	_
+2	di	D	די	dy	_
+3	gresti	ADJS	גרעסטי	gresty	_
+4	berg	N	בערג	berg	_
+5	in	P	אין	AyN	_
+6	irupe	NPR	אירופּע	Ayrvpe	_
+
+SENT	1818E-GEOGRAFIE,9.144
+1	di	D	די	dy	_
+2	grusi	ADJ	גרוסי	grvsy	_
+3	berg	N	בערג	berg	_
+4	kulien	NPR	קוליִען	kvlyieN	_
+5	ader	CONJ	אַדער	Aader	_
+6	alip	NPR	אַליפּ	Aalyp	_
+7	iz	VBF	איז	Ayz	_
+8	tsvishin	P	צװישין	qVy$yN	_
+9	narvegin	NPR	נאַרװעגין	nAarVegyN	_
+10	un	CONJ	און	AvN	_
+11	shveydin	NPR	שװײדין	$VYdyN	_
+
+SENT	1818E-GEOGRAFIE,9.145
+1	di	D	די	dy	_
+2	uralishki	ADJ	אוראַלישקי	AvrAaly$ky	_
+3	berg	N	בערג	berg	_
+4	makhin	VBF	מאַכין	mAaxyN	_
+5	eyn	D	אײן	AYN	_
+6	tsu_visin_seyd	N	צו_װיסינ_סײד	qv_Vysyn_sYd	_
+7	tsu_visin	P	צו_װיסין	qv_VysyN	_
+8	irpie	NPR	אירפּיִע	Ayrpyie	_
+9	un	CONJ	און	AvN	_
+10	azie	NPR	אַזיִע	Aazyie	_
+
+SENT	1818E-GEOGRAFIE,9.146
+1	zey	PRO	זײ	zY	_
+2	tsihen	VBF	ציהען	qyheN	_
+3	zikh	PRO	זיך	zyX	_
+4	fun	P	פֿון	fvN	_
+5	dr	D	דר	dr	_
+6	teykh	N	טײך	tYX	_
+7	ural	NPR	אוראַל	AvrAal	_
+8	biz	P	ביז	byz	_
+9	dem	D	דעם	deM	_
+10	eyz_mehr	N	אײז_מעהר	AYz_mehr	_
+
+SENT	1818E-GEOGRAFIE,9.147
+1	di	D	די	dy	_
+2	karpatsi	ADJ	קאַרפּאַצי	kAarpAaqy	_
+3	berg	N	בערג	berg	_
+4	iz	VBF	איז	Ayz	_
+5	tsu_visin	P	צו_װיסין	qv_VysyN	_
+6	pulin	NPR	פּולין	pvlyN	_
+7	un	CONJ	און	AvN	_
+8	ungerin	NPR	אונגערין	AvngeryN	_
+
+SENT	1818E-GEOGRAFIE,9.148
+1	apeniner	ADJ	אַפּענינער	Aapenyner	_
+2	berg	N	בערג	berg	_
+3	iz	VBF	איז	Ayz	_
+4	in	P	אין	AyN	_
+5	italie	NPR	איטאַליִע	AytAalyie	_
+
+SENT	1818E-GEOGRAFIE,9.149
+1	di	D	די	dy	_
+2	alper	ADJ	אַלפּער	Aalper	_
+3	berg	N	בערג	berg	_
+4	tsihen	VBF	ציהען	qyheN	_
+5	zikh	PRO	זיך	zyX	_
+6	tsu_vishin	P	צו_װישין	qv_Vy$yN	_
+7	frnkreykh	NPR	פֿרנקרײך	frnkrYX	_
+8	un	CONJ	און	AvN	_
+9	italie	NPR	איטאַליִע	AytAalyie	_
+10	shveytsin	NPR	שװײצין	$VYqyN	_
+11	un	CONJ	און	AvN	_
+12	teyts_land	NPR	טײצ_לאַנד	tYq_lAand	_
+
+SENT	1818E-GEOGRAFIE,9.150
+1	di	D	די	dy	_
+2	piraneyski	ADJ	פּיראַנײסקי	pyrAanYsky	_
+3	berg	N	בערג	berg	_
+4	teylt	VBF	טײלט	tYlt	_
+5	ap	RP	אַפּ	Aap	_
+6	frankreykh	NPR	פֿראַנקרײך	frAankrYX	_
+7	fun	P	פֿון	fvN	_
+8	ispanie	NPR	איספּאַניִע	AyspAanyie	_
+
+SENT	1818E-GEOGRAFIE,9.151
+1	erdts_giberg	N	ערדצ_גיבערג	erdq_gyberg	_
+2	teylt	VBF	טײלט	tYlt	_
+3	ab	RP	אַב	Aab	_
+4	beyhm	NPR	בײהם	bYhM	_
+5	fun	P	פֿון	fvN	_
+6	shleze	NPR	שלעזע	$leze	_
+
+SENT	1818E-GEOGRAFIE,9.152
+1	oykh	ADV	אױך	AWX	_
+2	iz	VBF	איז	Ayz	_
+3	faran	ADJ	פֿאַראַן	fAarAaN	_
+4	berg	N	בערג	berg	_
+5	velkhe	WPRO	װעלכע	Velxe	_
+6	varfin	VBF	װאַרפֿין	VAarfyN	_
+7	fun	P	פֿון	fvN	_
+8	zikh	PRO	זיך	zyX	_
+9	feyer	N	פֿײער	fYer	_
+10	arus	ADV	אַרוס	Aarvs	_
+
+SENT	1818E-GEOGRAFIE,10.154
+1	dr	D	דר	dr	_
+2	feyer_berg	N	פֿײער_בערג	fYer_berg	_
+3	eklie	NPR	עקליִע	eklyie	_
+4	iz	VBF	איז	Ayz	_
+5	in	P	אין	AyN	_
+6	islandie	N	איסלאַנדיִע	AyslAandyie	_
+
+SENT	1818E-GEOGRAFIE,10.155
+1	dr	D	דר	dr	_
+2	feyer_berg	N	פֿײער_בערג	fYer_berg	_
+3	vezevius	NPR	װעזעװיִוס	VezeVyivs	_
+4	iz	VBF	איז	Ayz	_
+5	in	P	אין	AyN	_
+6	neapel	NPR	נעאַפּעל	neAapel	_
+
+SENT	1818E-GEOGRAFIE,10.156
+1	di	D	די	dy	_
+2	etna	NPR	עטנאַ	etnAa	_
+3	uder	CONJ	אודער	Avder	_
+4	gibel	NPR	גיבעל	gybel	_
+5	iz	VBF	איז	Ayz	_
+6	in	P	אין	AyN	_
+7	sitsilie	NPR	סיציליִע	syqylyie	_
+
+SENT	1818E-GEOGRAFIE,10.157
+1	fun	P	פֿון	fvN	_
+2	rusishe	ADJ	רוסישע	rvsy$e	_
+3	ksriut	N	קסריִוט	ksryivt	_
+4	zi	PRO	זי	zy	_
+5	grenetst	VBF	גרענעצט	greneqt	_
+6	zikh	PRO	זיך	zyX	_
+
+SENT	1818E-GEOGRAFIE,10.158
+1	tsu	P	צו	qv	_
+2	tsfun	H	צפֿון	qfvN	north
+3	zeyt	N	זײט	zYt	_
+4	iz	VBF	איז	Ayz	_
+5	mdint	N	מדינט	mdynt	_
+6	narvegn	NPR	נאַרװעגן	nAarVegN	_
+7	un	CONJ	און	AvN	_
+8	der	D	דער	der	_
+9	eyz_mer	N	אײז_מער	AYz_mer	_
+
+SENT	1818E-GEOGRAFIE,10.159
+1	oyf	P	אױף	AWF	_
+2	mzrkh	H	מזרך	mzrX	east
+3	zeyt	N	זײט	zYt	_
+4	iz	VBF	איז	Ayz	_
+5	im	N	אים	AyM	_
+6	ukunum	H	אוקונום	AvkvnvM	UNKNOWN
+7	hmzrkhi	H	המזרכי	hmzrxy	UNKNOWN
+
+SENT	1818E-GEOGRAFIE,10.160
+1	oyf	P	אױף	AWF	_
+2	drum	H	דרום	drvM	south
+3	zeyt	N	זײט	zYt	_
+4	iz	VBF	איז	Ayz	_
+5	mdint	N	מדינט	mdynt	_
+6	khine	NPR	כינע	xyne	_
+7	velne	NPR	װעלנע	Velne	_
+8	tatareye	NPR	טאַטאַרײע	tAatAarYe	_
+9	kaspisisen	ADJ	קאַספּיסיסען	kAaspysyseN	_
+10	mer	N	מער	mer	_
+11	im	N	אים	AyM	_
+12	kaspi	NPR	קאַספּי	kAaspy	_
+13	azavisin	ADJ	אַזאַװיסין	AazAaVysyN	_
+14	mer	N	מער	mer	_
+15	un	CONJ	און	AvN	_
+16	terkey	NPR	טערקײ	terkY	_
+
+SENT	1818E-GEOGRAFIE,10.161
+1	oyf	P	אױף	AWF	_
+2	merib	H	מעריב	meryb	west
+3	zeyt	N	זײט	zYt	_
+4	mit	P	מיט	myt	_
+5	terkey	NPR	טערקײ	terkY	_
+6	galitsie	NPR	גאַליציִע	gAalyqyie	_
+7	preysin	NPR	פּרײסין	prYsyN	_
+8	shvedin	NPR	שװעדין	$VedyN	_
+9	narvegin	NPR	נאַרװעגין	nAarVegyN	_
+
+SENT	1818E-GEOGRAFIE,10.162
+1	gants	ADJ	גאַנץ	gAanQ	_
+2	rusland	NPR	רוסלאַנד	rvslAand	_
+3	hat	VBF	האַט	hAat	_
+4	in	P	אין	AyN	_
+5	zikh	PRO	זיך	zyX	_
+6	365000	NUM	365000	365000	_
+7	meyl	N	מײל	mYl	_
+8	kvadrattve	ADJ	קװאַדראַטטװע	kVAadrAattVe	_
+
+SENT	1818E-GEOGRAFIE,10.163
+1	dr_fun	DR+P	דר_פֿון	dr_fvN	_
+2	iz	VBF	איז	Ayz	_
+3	292000	NUM	292000	292000	_
+4	in	P	אין	AyN	_
+5	azie	NPR	אַזיִע	Aazyie	_
+
+SENT	1818E-GEOGRAFIE,10.164
+1	un	CONJ	און	AvN	_
+2	das	D	דת	dS	_
+3	iberige	ADJ	איבעריגע	Ayberyge	_
+4	73000	NUM	73000	73000	_
+5	meyl	N	מײל	mYl	_
+6	iz	VBF	איז	Ayz	_
+7	in	P	אין	AyN	_
+8	urape	NPR	אוראַפּע	AvrAape	_
+
+SENT	1818E-GEOGRAFIE,10.165
+1	di	D	די	dy	_
+2	praduktin	N	פּראַדוקטין	prAadvktyN	_
+3	vas	C	װאַס	VAas	_
+4	rusland	NPR	רוסלאַנד	rvslAand	_
+5	hat	VBF	האַט	hAat	_
+6	in	P	אין	AyN	_
+7	zikh	PRO	זיך	zyX	_
+8	iz	VBF	איז	Ayz	_
+9	aler_hand	ADJ	אַלער_האַנד	Aaler_hAand	_
+
+SENT	1818E-GEOGRAFIE,10.166
+1	di	D	די	dy	_
+2	amunh	N	אַמונה	Aamvnh	_
+3	vas	C	װאַס	VAas	_
+4	hersht	VBF	הערשט	her$t	_
+5	in	P	אין	AyN	_
+6	rusland	NPR	רוסלאַנד	rvslAand	_
+7	iz	VBF	איז	Ayz	_
+8	grekes_ruses	ADJ	גרעקעס_רוסעס	grekes_rvses	_
+
+SENT	1818E-GEOGRAFIE,10.167
+1	aber	CONJ	אַבער	Aaber	_
+2	oykh	ADV	אױך	AWX	_
+3	aler_hand	ADJ	אַלער_האַנד	Aaler_hAand	_
+4	amunut	N	אַמונוט	Aamvnvt	_
+5	iz	VBF	איז	Ayz	_
+6	frey	ADJ	פֿרײ	frY	_
+7	in	P	אין	AyN	_
+8	land	N	לאַנד	lAand	_
+
+SENT	1818E-GEOGRAFIE,10.168
+1	aler_hand	ADJ	אַלער_האַנד	Aaler_hAand	_
+2	fabrikes	N	פֿאַבריקעס	fAabrykes	_
+3	un	CONJ	און	AvN	_
+4	hand_varg	N	האַנד_װאַרג	hAand_VAarg	_
+5	far_greserin	VBF	פֿאַר_גרעסערין	fAar_greseryN	_
+6	zikh	PRO	זיך	zyX	_
+7	fun	P	פֿון	fvN	_
+8	tseyt	N	צײט	qYt	_
+9	tsu	P	צו	qv	_
+10	tseyt	N	צײט	qYt	_
+
+SENT	1818E-GEOGRAFIE,10.169
+1	zu	ADV	זו	zv	_
+2	oykh	ADV	אױך	AWX	_
+3	das	D	דת	dS	_
+4	handil	N	האַנדיל	hAandyl	_
+5	vert	RDF	װערט	Vert	_
+6	ale	Q	אַלע	Aale	_
+7	tseyt	N	צײט	qYt	_
+8	mer	QR	מער	mer	_
+9	far_spreyt	VAN	פֿאַר_ספּרײט	fAar_sprYt	_
+
+SENT	1818E-GEOGRAFIE,10.170
+1	das	D	דת	dS	_
+2	rgirung	N	רגירונג	rgyrvng	_
+3	fun	P	פֿון	fvN	_
+4	rusland	NPR	רוסלאַנד	rvslAand	_
+5	iz	VBF	איז	Ayz	_
+6	durkh	P	דורך	dvrX	_
+7	den	D	דען	deN	_
+8	kisr	N	קיסר	kysr	_
+9	alksndr	NPR	אַלקסנדר	Aalksndr	_
+10	der	D	דער	der	_
+11	zelbst_herster	N	זעלבסט_הערסטער	zelbst_herster	_
+12	fun	P	פֿון	fvN	_
+13	ale	Q	אַלע	Aale	_
+14	rusin	NPR	רוסין	rvsyN	_
+
+SENT	1818E-GEOGRAFIE,10.171
+1	das	D	דת	dS	_
+2	heyst	VBF	הײסט	hYst	_
+3	er	PRO	ער	er	_
+4	kan	MDF	ק"ן	k"N	_
+5	in	P	אין	AyN	_
+6	das	D	דת	dS	_
+7	land	N	לאַנד	lAand	_
+8	makhin	VB	מאַכין	mAaxyN	_
+9	vas	WPRO	װאַס	VAas	_
+10	er	PRO	ער	er	_
+11	vil	VBF	װיל	Vyl	_
+
+SENT	1818E-GEOGRAFIE,10.172
+1	un	CONJ	און	AvN	_
+2	darf	MDF	דאַרף	dAarF	_
+3	bey	P	בײ	bY	_
+4	keynen	Q	קײנען	kYneN	_
+5	tsu	TO	צו	qv	_
+6	fregin	VB	פֿרעגין	fregyN	_
+
+SENT	1818E-GEOGRAFIE,11.174
+1	das	D	דת	dS	_
+2	eyn_tragung	N	אײנ_טראַגונג	AYn_trAagvng	_
+3	fun	P	פֿון	fvN	_
+4	aler_hant	ADJ	אַלער_האַנט	Aaler_hAant	_
+5	ap_gebung	N	אַפּ_געבונג	Aap_gebvng	_
+6	in	P	אין	AyN	_
+7	das	D	דת	dS	_
+8	land	N	לאַנד	lAand	_
+9	iz	VBF	איז	Ayz	_
+10	220_mileyon	NUM	220_מילײאָן	220_mylYAoN	_
+11	rubl	N	רובל	rvbl	_
+12	ale	Q	אַלע	Aale	_
+13	yar	N	יאַר	yAar	_
+
+SENT	1818E-GEOGRAFIE,11.175
+1	rus_land	NPR	רוס_לאַנד	rvs_lAand	_
+2	hat	VBF	האַט	hAat	_
+3	mer	QR	מער	mer	_
+4	az	P	אַז	Aaz	_
+5	600000	NUM	600000	600000	_
+6	kheyl	N	כײל	xYl	_
+7	velkhi	WPRO	װעלכי	Velxy	_
+8	nutsin	VBF	נוצין	nvqyN	_
+9	tsu	P	צו	qv	_
+10	mlkhmh	N	מלכמה	mlxmh	_
+11	oyf	P	אױף	AWF	_
+12	der	D	דער	der	_
+13	ibsh	N	איבש	Ayb$	_
+14	80000	NUM	80000	80000	_
+15	zelner	N	זעלנער	zelner	_
+16	un	CONJ	און	AvN	_
+17	materazin	N	מאַטעראַזין	mAaterAazyN	_
+18	32	NUM	32	32	_
+19	akrentin	N	אַקרענטין	AakrentyN	_
+20	18	NUM	18	18	_
+21	fregatin	N	פֿרעגאַטין	fregAatyN	_
+22	velkhe	WPRO	װעלכע	Velxe	_
+23	nutsin	VBF	נוצין	nvqyN	_
+24	tsu	P	צו	qv	_
+25	mlkhmh	N	מלכמה	mlxmh	_
+26	oyf	P	אױף	AWF	_
+27	di	D	די	dy	_
+28	imim	N	אימים	AymyM	_
+
+SENT	1818E-GEOGRAFIE,11.176
+1	rus_land	NPR	רוס_לאַנד	rvs_lAand	_
+2	hat	VBF	האַט	hAat	_
+3	in	P	אין	AyN	_
+4	zikh	PRO	זיך	zyX	_
+5	6	NUM	6	6	_
+6	universittin	N	אוניװערסיטטין	AvnyVersyttyN	_
+7	in	P	אין	AyN	_
+8	{COM:list_omitted}	NP	{cאָם:ליסט_אָמיטטעד}	{cAoM:lyst_Aomytted}	_
+
+SENT	1818E-GEOGRAFIE,11.177
+1	rus_land	NPR	רוס_לאַנד	rvs_lAand	_
+2	hat	VBF	האַט	hAat	_
+3	in	P	אין	AyN	_
+4	zikh	PRO	זיך	zyX	_
+5	50	NUM	50	50	_
+6	gubernes	N	גובערנעס	gvbernes	_
+
+SENT	1818E-GEOGRAFIE,11.178
+1	un	CONJ	און	AvN	_
+2	das	D	דת	dS	_
+3	zeynen	VBF	זײנען	zYneN	_
+4	zey	PRO	זײ	zY	_
+5	:	PUNC	:	:	_
+6	{COM:list_omitted}	NP	{cאָם:ליסט_אָמיטטעד}	{cAoM:lyst_Aomytted}	_
+
+SENT	1818E-GEOGRAFIE,11.179
+1	velkhi	WPRO	װעלכי	Velxy	_
+2	habin	VBF	האַבין	hAabyN	_
+3	in	P	אין	AyN	_
+4	zikh	PRO	זיך	zyX	_
+5	anderi	ADJ	אַנדערי	Aandery	_
+6	praves	N	פּראַװעס	prAaVes	_
+7	:	PUNC	:	:	_
+8	{COM:list_omitted}	NP-PRN	{cאָם:ליסט_אָמיטטעד}	{cAoM:lyst_Aomytted}	_
+
+SENT	1818E-GEOGRAFIE,11.180
+1	ukh	ADV	אוך	AvX	_
+2	hat	VBF	האַט	hAat	_
+3	rus_land	NPR	רוס_לאַנד	rvs_lAand	_
+4	eyn	D	אײן	AYN	_
+5	stik	N	סטיק	styk	_
+6	mdinh	N	מדינה	mdynh	_
+7	vas	C	װאַס	VAas	_
+8	men	PRO	מען	meN	_
+9	ruft	VBF	רופֿט	rvft	_
+10	gruzie	NPR	גרוזיִע	grvzyie	_
+11	nahant	ADV	נאַהאַנט	nAahAant	_
+12	fun	P	פֿון	fvN	_
+13	perzeye	NPR	פּערזײע	perzYe	_
+14	in	P	אין	AyN	_
+15	velkhi	WPRO	װעלכי	Velxy	_
+16	es	ES	עס	es	_
+17	vaunen	VBF	װאַונען	VAavneN	_
+18	ukh	ADV	אוך	AvX	_
+19	ihudim	N	איהודים	AyhvdyM	_
+
+SENT	1818E-GEOGRAFIE,11.181
+1	oykh	ADV	אױך	AWX	_
+2	eyn	D	אײן	AYN	_
+3	stik	N	סטיק	styk	_
+4	land	N	לאַנד	lAand	_
+5	fun	P	פֿון	fvN	_
+6	dunski	ADJ	דונסקי	dvnsky	_
+7	kazakin	N	קאַזאַקין	kAazAakyN	_
+
+SENT	1818E-GEOGRAFIE,11.182
+1	oykh	ADV	אױך	AWX	_
+2	di	D	די	dy	_
+3	pravintseye	N	פּראַװינצײע	prAaVynqYe	_
+4	fun	P	פֿון	fvN	_
+5	beyalistak	NPR	בײאַליסטאַק	bYAalystAak	_
+6	velkhi	WPRO	װעלכי	Velxy	_
+7	hat	VBF	האַט	hAat	_
+8	in	P	אין	AyN	_
+9	zikh	PRO	זיך	zyX	_
+10	200000	NUM	200000	200000	_
+11	nfsut	N	נפֿסוט	nfsvt	_
+
+SENT	1818E-GEOGRAFIE,11.183
+1	oykh	ADV	אױך	AWX	_
+2	eyn	D	אײן	AYN	_
+3	gruse	ADJ	גרוסע	grvse	_
+4	stik	N	סטיק	styk	_
+5	mdinh	N	מדינה	mdynh	_
+6	in	P	אין	AyN	_
+7	finland	N	פֿינלאַנד	fynlAand	_
+8	velkhi	WPRO	װעלכי	Velxy	_
+9	in	P	אין	AyN	_
+10	yahr	N	יאַהר	yAahr	_
+11	1809	NUM	1809	1809	_
+12	iz	BEF	איז	Ayz	_
+13	es	PRO	עס	es	_
+14	ap	RP	אַפּ	Aap	_
+15	ginumin	VAN	גינומין	gynvmyN	_
+16	givarin	RDN	גיװאַרין	gyVAaryN	_
+17	fun	P	פֿון	fvN	_
+18	shveydishin	ADJ	שװײדישין	$VYdy$yN	_
+19	kinigreykh	N	קיניגרײך	kynygrYX	_
+20	durkh	P	דורך	dvrX	_
+21	slus	N	סלוס	slvs	_
+
+SENT	1818E-GEOGRAFIE,11.184
+1	un	CONJ	און	AvN	_
+2	es	ES	עס	es	_
+3	iz	VBF	איז	Ayz	_
+4	derinn	ADV	דערינן	derynN	_
+5	faran	ADJ	פֿאַראַן	fAarAaN	_
+6	898463	NUM	898463	898463	_
+7	npsut	N	נפּסוט	npsvt	_
+
+SENT	1818E-GEOGRAFIE,12.186
+1	oykh	ADV	אױך	AWX	_
+2	giveltigt	VBF	גיװעלטיגט	gyVeltygt	_
+3	rus_land	NPR	רוס_לאַנד	rvs_lAand	_
+4	oyf	P	אױף	AWF	_
+5	fil	Q	פֿיל	fyl	_
+6	vitpesn	N	װיטפּעסן	VytpesN	_
+7	vas	C	װאַס	VAas	_
+8	ligt	VBF	ליגט	lygt	_
+9	oyf	P	אױף	AWF	_
+10	den	D	דען	deN	_
+11	im	N	אים	AyM	_
+12	akinus	N	אַקינוס	Aakynvs	_
+13	un	CONJ	און	AvN	_
+14	ukh	ADV	אוך	AvX	_
+15	etlikhi	Q	עטליכי	etlyxy	_
+16	kleyne	ADJ	קלײנע	klYne	_
+17	stikir	N	סטיקיר	stykyr	_
+18	land	N	לאַנד	lAand	_
+19	atades	X	אַטאַדעס	AatAades	_
+20	in	P	אין	AyN	_
+21	amerike	NPR	אַמעריקע	Aameryke	_
+22	maldave	NPR	מאַלדאַװע	mAaldAaVe	_
+23	un	CONJ	און	AvN	_
+24	besarbey	NPR	בעסאַרבײ	besAarbY	_
+25	in	P	אין	AyN	_
+26	velkhi	WPRO	װעלכי	Velxy	_
+27	zeyn	VBF	זײן	zYN	_
+28	di	D	די	dy	_
+29	tsvey	NUM	צװײ	qVY	_
+30	grusi	ADJ	גרוסי	grvsy	_
+31	stet	N	סטעט	stet	_
+32	yas	NPR	יאַס	yAas	_
+33	un	CONJ	און	AvN	_
+34	bender	NPR	בענדער	bender	_
+
+SENT	1818E-GEOGRAFIE,12.187
+1	fun	P	פֿון	fvN	_
+2	pulishi	ADJ	פּולישי	pvly$y	_
+3	kinigreykh	N	קיניגרײך	kynygrYX	_
+4	di	D	די	dy	_
+5	grenetsin	N	גרענעצין	greneqyN	_
+6	zeynn	VBF	זײנן	zYnN	_
+7	dizi	D	דיזי	dyzy	_
+
+SENT	1818E-GEOGRAFIE,12.188
+1	tsu	P	צו	qv	_
+2	mrkh	H	מרך	mrX	east
+3	zeyt	N	זײט	zYt	_
+4	iz	VBF	איז	Ayz	_
+5	rus_land	NPR	רוס_לאַנד	rvs_lAand	_
+
+SENT	1818E-GEOGRAFIE,12.189
+1	tsu	P	צו	qv	_
+2	merib	H	מעריב	meryb	west
+3	iz	VBF	איז	Ayz	_
+4	puzna	NPR	פּוזנאַ	pvznAa	_
+5	mit	P	מיט	myt	_
+6	di	D	די	dy	_
+7	gantsi	ADJ	גאַנצי	gAanqy	_
+8	stik	N	סטיק	styk	_
+9	mdinh	N	מדינה	mdynh	_
+10	vas	C	װאַס	VAas	_
+11	giher	VBF	גיהער	gyher	_
+12	dr_tsu	DR+P	דר_צו	dr_qv	_
+
+SENT	1818E-GEOGRAFIE,12.190
+1	un	CONJ	און	AvN	_
+2	yetsund	ADV	יעצונד	yeqvnd	_
+3	giher	VBF	גיהער	gyher	_
+4	es	PRO	עס	es	_
+5-6	tsum	P~D	צום	qvM	_
+5	tsu	P	צו	qv	_
+6	m	D	מ	m	_
+7	preysishin	ADJ	פּרײסישין	prYsy$yN	_
+8	kinig	N	קיניג	kynyg	_
+
+SENT	1818E-GEOGRAFIE,12.191
+1	oyf	P	אױף	AWF	_
+2	tsfun	N	צפֿון	qfvN	north
+3	zeyt	N	זײט	zYt	_
+4	iz	VBF	איז	Ayz	_
+5	preysin	NPR	פּרײסין	prYsyN	_
+
+SENT	1818E-GEOGRAFIE,12.192
+1	un	CONJ	און	AvN	_
+2	tsu	P	צו	qv	_
+3	drum	H	דרום	drvM	south
+4	iz	VBF	איז	Ayz	_
+5	galeytseye	NPR	גאַלײצײע	gAalYqYe	_
+6	un	CONJ	און	AvN	_
+7	di	D	די	dy	_
+8	frey	ADJ	פֿרײ	frY	_
+9	reykh_stat	N	רײכ_סטאַט	rYx_stAat	_
+10	krake	NPR	קראַקע	krAake	_
+11	un	CONJ	און	AvN	_
+12	ds	D	דס	ds	_
+13	vas	C	װאַס	VAas	_
+14	tsu	P	צו	qv	_
+15	ir	PRO	איר	Ayr	_
+16	giher	VBF	גיהער	gyher	_
+
+SENT	1818E-GEOGRAFIE,12.193
+1	pulin	NPR	פּולין	pvlyN	_
+2	hat	VBF	האַט	hAat	_
+3	in	P	אין	AyN	_
+4	zikh	PRO	זיך	zyX	_
+5	platts	N	פּלאַטץ	plAatQ	_
+6	2214	NUM	2214	2214	_
+7	meyl	N	מײל	mYl	_
+8	kvadrattavi	ADJ	קװאַדראַטטאַװי	kVAadrAattAaVy	_
+9	487	NUM	487	487	_
+10	stet	N	סטעט	stet	_
+11	21576	NUM	21576	21576	_
+12	derfer	N	דערפֿער	derfer	_
+13	un	CONJ	און	AvN	_
+14	mehr	QR	מעהר	mehr	_
+15	als	P	אַלס	Aals	_
+16	drey_milian	NUM	דרײ_מיליִאַן	drY_mylyiAaN	_
+17	npsut	N	נפּסוט	npsvt	_
+
+SENT	1818E-GEOGRAFIE,12.194
+1	estreykhisi	ADJ	עסטרײכיסי	estrYxysy	_
+2	kisriut	N	קיסריִוט	kysryivt	_
+3	di	D	די	dy	_
+4	grenetsin	N	גרענעצין	greneqyN	_
+5	zeyn	VBF	זײן	zYN	_
+6	dizi	D	דיזי	dyzy	_
+
+SENT	1818E-GEOGRAFIE,12.195
+1	tsu	P	צו	qv	_
+2	mzrkh	ADJ	מזרך	mzrX	_
+3	zeyt	N	זײט	zYt	_
+4	iz	VBF	איז	Ayz	_
+5	rus_land	NPR	רוס_לאַנד	rvs_lAand	_
+6	un	CONJ	און	AvN	_
+7	turkey	NPR	טורקײ	tvrkY	_
+
+SENT	1818E-GEOGRAFIE,12.196
+1	tsu	P	צו	qv	_
+2	drum	H	דרום	drvM	south
+3	iz	VBF	איז	Ayz	_
+4	oykh	ADV	אױך	AWX	_
+5	turkey	NPR	טורקײ	tvrkY	_
+6	adriatishki	ADJ	אַדריִאַטישקי	AadryiAaty$ky	_
+7	mehr	N	מעהר	mehr	_
+8	itley	NPR	איטלײ	AytlY	_
+9	un	CONJ	און	AvN	_
+10	vinitsey	NPR	װיניצײ	VynyqY	_
+
+SENT	1818E-GEOGRAFIE,12.197
+1	tsu	P	צו	qv	_
+2	merib	H	מעריב	meryb	west
+3	iz	VBF	איז	Ayz	_
+4	oykh	ADV	אױך	AWX	_
+5	adriatisiki	ADJ	אַדריִאַטיסיקי	AadryiAatysyky	_
+6	mehr	N	מעהר	mehr	_
+7	itley	NPR	איטלײ	AytlY	_
+8	un	CONJ	און	AvN	_
+9	teyts_land	NPR	טײצ_לאַנד	tYq_lAand	_
+
+SENT	1818E-GEOGRAFIE,12.198
+1	tsu	P	צו	qv	_
+2	tsfun	H	צפֿון	qfvN	north
+3	iz	VBF	איז	Ayz	_
+4	preysin	NPR	פּרײסין	prYsyN	_
+5	krakevir	ADJ	קראַקעװיר	krAakeVyr	_
+6	kreyz	N	קרײז	krYz	_
+7	un	CONJ	און	AvN	_
+8	rus_land	NPR	רוס_לאַנד	rvs_lAand	_
+
+SENT	1818E-GEOGRAFIE,12.199
+1	ds	D	דס	ds	_
+2	land	N	לאַנד	lAand	_
+3	hat	VBF	האַט	hAat	_
+4	in	P	אין	AyN	_
+5	zikh	PRO	זיך	zyX	_
+6	11200	NUM	11200	11200	_
+7	meyl	N	מײל	mYl	_
+8	kvadratavi	ADJ	קװאַדראַטאַװי	kVAadrAatAaVy	_
+9	platts	N	פּלאַטץ	plAatQ	_
+10	un	CONJ	און	AvN	_
+11	24_mileyan	NUM	24_מילײאַן	24_mylYAaN	_
+12	npsut	N	נפּסוט	npsvt	_
+
+SENT	1818E-GEOGRAFIE,12.200
+1	preysisi	ADJ	פּרײסיסי	prYsysy	_
+2	kinigreykh	N	קיניגרײך	kynygrYX	_
+3	di	D	די	dy	_
+4	grenetsin	N	גרענעצין	greneqyN	_
+5	zeyn	VBF	זײן	zYN	_
+6	dizi	D	דיזי	dyzy	_
+
+SENT	1818E-GEOGRAFIE,12.201
+1	tsu	P	צו	qv	_
+2	tsfun	H	צפֿון	qfvN	north
+3	zeyt	N	זײט	zYt	_
+4	iz	VBF	איז	Ayz	_
+5	mekil_berg	NPR	מעקיל_בערג	mekyl_berg	_
+
+SENT	1818E-GEOGRAFIE,12.202
+1	tsu	P	צו	qv	_
+2	mzrkh	H	מזרך	mzrX	east
+3	zeyt	N	זײט	zYt	_
+4	iz	VBF	איז	Ayz	_
+5	rus_land	NPR	רוס_לאַנד	rvs_lAand	_
+
+SENT	1818E-GEOGRAFIE,12.203
+1	tsu	P	צו	qv	_
+2	drum	H	דרום	drvM	south
+3	iz	VBF	איז	Ayz	_
+4	pulin	NPR	פּולין	pvlyN	_
+5	ustreye	NPR	אוסטרײע	AvstrYe	_
+6	zaksin	NPR	זאַקסין	zAaksyN	_
+
+SENT	1818E-GEOGRAFIE,12.204
+1	tsu	P	צו	qv	_
+2	merib	H	מעריב	meryb	west
+3	zeyt	N	זײט	zYt	_
+4	iz	VBF	איז	Ayz	_
+5	frankreykh	NPR	פֿראַנקרײך	frAankrYX	_
+6	nidr_land	NPR	נידר_לאַנד	nydr_lAand	_
+7	un	CONJ	און	AvN	_
+8	teyts_land	NPR	טײצ_לאַנד	tYq_lAand	_
+
+SENT	1818E-GEOGRAFIE,13.206
+1	es	PRO	עס	es	_
+2	hat	VBF	האַט	hAat	_
+3	in	P	אין	AyN	_
+4	zikh	PRO	זיך	zyX	_
+5	4900	NUM	4900	4900	_
+6	meyl	N	מײל	mYl	_
+7	kvadratevi	ADJ	קװאַדראַטעװי	kVAadrAateVy	_
+8	platts	N	פּלאַטץ	plAatQ	_
+9	un	CONJ	און	AvN	_
+10	10_mileyan	NUM	10_מילײאַן	10_mylYAaN	_
+11	npsut	N	נפּסוט	npsvt	_
+
+SENT	1818E-GEOGRAFIE,13.207
+1	in	P	אין	AyN	_
+2	mzrkh	H	מזרך	mzrX	east
+3	zeyt	N	זײט	zYt	_
+4	fun	P	פֿון	fvN	_
+5	preysin	NPR	פּרײסין	prYsyN	_
+6	zeyn	VBF	זײן	zYN	_
+7	di	D	די	dy	_
+8	gresti	ADJS	גרעסטי	gresty	_
+9	stet	N	סטעט	stet	_
+10	kinigs_berg	NPR	קיניגס_בערג	kynygs_berg	_
+11	bey	P	בײ	bY	_
+12	den	D	דען	deN	_
+13	pregil	NPR	פּרעגיל	pregyl	_
+14	vas	C	װאַס	VAas	_
+15	falt	VBF	פֿאַלט	fAalt	_
+16	areyn	ADV	אַרײן	AarYN	_
+17	in	P	אין	AyN	_
+18	frish	ADJ	פֿריש	fry$	_
+19	hafin	N	האַפֿין	hAafyN	_
+20	pilava	NPR	פּילאַװאַ	pylAaVAa	_
+21	udr	CONJ	אודר	Avdr	_
+22	pilu	NPR	פּילו	pylv	_
+23	mit	P	מיט	myt	_
+24	eyn	D	אײן	AYN	_
+25	gutin	ADJ	גוטין	gvtyN	_
+26	part	N	פּאַרט	pAart	_
+27	memil	NPR	מעמיל	memyl	_
+28	mit	P	מיט	myt	_
+29	eyn	D	אײן	AYN	_
+30	part	N	פּאַרט	pAart	_
+31	un	CONJ	און	AvN	_
+32	eyn	D	אײן	AYN	_
+33	gutin	ADJ	גוטין	gvtyN	_
+34	khzkt	N	כזקט	xzkt	_
+35	un	CONJ	און	AvN	_
+36	gumbin	N	גומבין	gvmbyN	_
+
+SENT	1818E-GEOGRAFIE,13.208
+1	in	P	אין	AyN	_
+2	merib	H	מעריב	meryb	west
+3	zeyt	N	זײט	zYt	_
+4	zeyn	VBF	זײן	zYN	_
+5	di	D	די	dy	_
+6	gresti	ADJS	גרעסטי	gresty	_
+7	stet	N	סטעט	stet	_
+8	gdansk	NPR	גדאַנסק	gdAansk	_
+9	kvidnin	NPR	קװידנין	kVydnyN	_
+10	elbling	NPR	עלבלינג	elblyng	_
+11	un	CONJ	און	AvN	_
+12	grudents	NPR	גרודענץ	grvdenQ	_
+13	mit	P	מיט	myt	_
+14	eyn	D	אײן	AYN	_
+15	gutin	ADJ	גוטין	gvtyN	_
+16	khukt	N	כוקט	xvkt	_
+
+SENT	1818E-GEOGRAFIE,13.209
+1	in	P	אין	AyN	_
+2	brandenburg	NPR	בראַנדענבורג	brAandenbvrg	_
+3	vas	C	װאַס	VAas	_
+4	giher	VBF	גיהער	gyher	_
+5	tsu	P	צו	qv	_
+6	preysin	NPR	פּרײסין	prYsyN	_
+7	zeyn	VBF	זײן	zYN	_
+8	di	D	די	dy	_
+9	gresti	ADJS	גרעסטי	gresty	_
+10	stet	N	סטעט	stet	_
+
+SENT	1818E-GEOGRAFIE,13.210
+1	in	P	אין	AyN	_
+2	pamerin	N	פּאַמערין	pAameryN	_
+3	zeyn	VBF	זײן	zYN	_
+4	di	D	די	dy	_
+5	gresti	ADJS	גרעסטי	gresty	_
+6	stet	N	סטעט	stet	_
+
+SENT	1818E-GEOGRAFIE,13.211
+1	in	P	אין	AyN	_
+2	slezey	N	סלעזײ	slezY	_
+3	zeyn	VBF	זײן	zYN	_
+4	di	D	די	dy	_
+5	gresti	ADJS	גרעסטי	gresty	_
+6	stet	N	סטעט	stet	_
+
+SENT	1818E-GEOGRAFIE,13.212
+1	in	P	אין	AyN	_
+2	zaksin	NPR	זאַקסין	zAaksyN	_
+3	vas	C	װאַס	VAas	_
+4	giher	VBF	גיהער	gyher	_
+5	yetsund	ADV	יעצונד	yeqvnd	_
+6	tsu	P	צו	qv	_
+7	preysin	NPR	פּרײסין	prYsyN	_
+8	zeyn	VBF	זײן	zYN	_
+9	di	D	די	dy	_
+10	gresti	ADJS	גרעסטי	gresty	_
+11	stet	N	סטעט	stet	_
+12	:	PUNC	:	:	_
+
+SENT	1818E-GEOGRAFIE,13.213
+1	ukh	ADV	אוך	AvX	_
+2	hat	HVF	האַט	hAat	_
+3	preysin	NPR	פּרײסין	prYsyN	_
+4	ginumin	VBN	גינומין	gynvmyN	_
+5	eyn	D	אײן	AYN	_
+6	gruse	ADJ	גרוסע	grvse	_
+7	teyl	N	טײל	tYl	_
+8	land	N	לאַנד	lAand	_
+
+SENT	1818E-GEOGRAFIE,13.214
+1	un	CONJ	און	AvN	_
+2	derinn	ADV	דערינן	derynN	_
+3	zeyn	VBF	זײן	zYN	_
+4	di	D	די	dy	_
+5	stet	N	סטעט	stet	_
+
+SENT	1818E-GEOGRAFIE,14.216
+1	fun	P	פֿון	fvN	_
+2	baeyersi	ADJ	באַײערסי	bAaYersy	_
+3	kinigreykh	N	קיניגרײך	kynygrYX	_
+
+SENT	1818E-GEOGRAFIE,14.217
+1	di	D	די	dy	_
+2	kinigreykh	N	קיניגרײך	kynygrYX	_
+3	fun	P	פֿון	fvN	_
+4	beyerin	NPR	בײערין	bYeryN	_
+5	hot	VBF	האָט	hAot	_
+6	in	P	אין	AyN	_
+7	zikh	PRO	זיך	zyX	_
+8	15000	NUM	15000	15000	_
+9	meyl	N	מײל	mYl	_
+10	kvadratavi	ADJ	קװאַדראַטאַװי	kVAadrAatAaVy	_
+11	platts	N	פּלאַטץ	plAatQ	_
+12	un	CONJ	און	AvN	_
+13	mer	QR	מער	mer	_
+14	az	P	אַז	Aaz	_
+15	3_mileyan	NUM	3_מילײאַן	3_mylYAaN	_
+16	npsut	N	נפּסוט	npsvt	_
+
+SENT	1818E-GEOGRAFIE,14.218
+1	das	D	דת	dS	_
+2	land	N	לאַנד	lAand	_
+3	ligt	VBF	ליגט	lygt	_
+4	bey	P	בײ	bY	_
+5	di	D	די	dy	_
+6	teykin	N	טײקין	tYkyN	_
+7	dunoy	NPR	דונױ	dvnW	_
+8	reyn	NPR	רײן	rYN	_
+9	un	CONJ	און	AvN	_
+10	meyn	NPR	מײן	mYN	_
+
+SENT	1818E-GEOGRAFIE,14.219
+1	es	ES	עס	es	_
+2	kinigt	VBF	קיניגט	kynygt	_
+3	derinin	ADV	דערינין	derynyN	_
+4	maksimileyan	NPR	מאַקסימילײאַן	mAaksymylYAaN	_
+5	yazef	NPR	יאַזעף	yAazeF	_
+
+SENT	1818E-GEOGRAFIE,14.220
+1	eyn_kunft	N	אײנ_קונפֿט	AYn_kvnft	_
+2	hat	VBF	האַט	hAat	_
+3	das	D	דת	dS	_
+4	land	N	לאַנד	lAand	_
+5	18_mileyan	NUM	18_מילײאַן	18_mylYAaN	_
+6	guldin	N	גולדין	gvldyN	_
+7	un	CONJ	און	AvN	_
+8	60000	NUM	60000	60000	_
+9	kheyl	N	כײל	xYl	_
+
+SENT	1818E-GEOGRAFIE,14.221
+1	di	D	די	dy	_
+2	gresti	ADJS	גרעסטי	gresty	_
+3	stet	N	סטעט	stet	_
+4	zeyn	VBF	זײן	zYN	_
+5	dize	D	דיזע	dyze	_
+6	oykh	ADV	אױך	AWX	_
+7	vas	C	װאַס	VAas	_
+8	ap	RP	אַפּ	Aap	_
+9	ginumin	VAN	גינומין	gynvmyN	_
+10	givarin	RDN	גיװאַרין	gyVAaryN	_
+11	iz	BEF	איז	Ayz	_
+12	fun	P	פֿון	fvN	_
+13	frankreykh	NPR	פֿראַנקרײך	frAankrYX	_
+14	di	D	די	dy	_
+15	stat	N	סטאַט	stAat	_
+16	tsveybrekin	NPR	צװײברעקין	qVYbrekyN	_
+
+SENT	1818E-GEOGRAFIE,14.222
+1	zaksin	NPR	זאַקסין	zAaksyN	_
+2	kinigreykh	N	קיניגרײך	kynygrYX	_
+
+SENT	1818E-GEOGRAFIE,14.223
+1	zaksin_land	NPR	זאַקסינ_לאַנד	zAaksyn_lAand	_
+2	hat	VBF	האַט	hAat	_
+3	nist	NEG	ניסט	nyst	_
+4	mer	QR	מער	mer	_
+5	az	P	אַז	Aaz	_
+6	340	NUM	340	340	_
+7	meyl	N	מײל	mYl	_
+8	kvadratavi	ADJ	קװאַדראַטאַװי	kVAadrAatAaVy	_
+9	platts	N	פּלאַטץ	plAatQ	_
+10	un	CONJ	און	AvN	_
+11	mer	QR	מער	mer	_
+12	az	P	אַז	Aaz	_
+13	eyn_mileyan	NUM	אײנ_מילײאַן	AYn_mylYAaN	_
+14	npsut	N	נפּסוט	npsvt	_
+
+SENT	1818E-GEOGRAFIE,14.224
+1	der	D	דער	der	_
+2	kinig	N	קיניג	kynyg	_
+3	iz	VBF	איז	Ayz	_
+4	drinn	ADV	דרינן	drynN	_
+5	fridrikh	NPR	פֿרידריך	frydryX	_
+6	agust	NPR	אַגוסט	Aagvst	_
+
+SENT	1818E-GEOGRAFIE,14.225
+1	eyn_kunft	N	אײנ_קונפֿט	AYn_kvnft	_
+2	hat	VBF	האַט	hAat	_
+3	ds	D	דס	ds	_
+4	land	N	לאַנד	lAand	_
+5	10_mileyan	NUM	10_מילײאַן	10_mylYAaN	_
+6	guldn	N	גולדן	gvldN	_
+7	un	CONJ	און	AvN	_
+8	nist	NEG	ניסט	nyst	_
+9	mer	QR	מער	mer	_
+10	az	P	אַז	Aaz	_
+11	10000	NUM	10000	10000	_
+12	khl	N	כל	xl	_
+
+SENT	1818E-GEOGRAFIE,14.226
+1	di	D	די	dy	_
+2	gresti	ADJS	גרעסטי	gresty	_
+3	stet	N	סטעט	stet	_
+4	zeynn	VBF	זײנן	zYnN	_
+5	dize	D	דיזע	dyze	_
+6	{COM:list_omitted}	NP-PRN	{cאָם:ליסט_אָמיטטעד}	{cAoM:lyst_Aomytted}	_
+
+SENT	1818E-GEOGRAFIE,14.227
+1	hanaversi	ADJ	האַנאַװערסי	hAanAaVersy	_
+2	kinigreykh	N	קיניגרײך	kynygrYX	_
+
+SENT	1818E-GEOGRAFIE,14.228
+1	di	D	די	dy	_
+2	hanavrshi	ADJ	האַנאַװרשי	hAanAaVr$y	_
+3	land	N	לאַנד	lAand	_
+4	velkhi	WPRO	װעלכי	Velxy	_
+5	hat	VBF	האַט	hAat	_
+6	in	P	אין	AyN	_
+7	zikh	PRO	זיך	zyX	_
+8	580	NUM	580	580	_
+9	meyl	N	מײל	mYl	_
+10	platts	N	פּלאַטץ	plAatQ	_
+11	un	CONJ	און	AvN	_
+12	mer	QR	מער	mer	_
+13	az	P	אַז	Aaz	_
+14	eyn_mileyan	NUM	אײנ_מילײאַן	AYn_mylYAaN	_
+15	npsut	N	נפּסוט	npsvt	_
+16	iz	VBF	איז	Ayz	_
+17	yetsund	ADV	יעצונד	yeqvnd	_
+18	eyn	D	אײן	AYN	_
+19	kinigreykh	N	קיניגרײך	kynygrYX	_
+20	velkhi	WPRO	װעלכי	Velxy	_
+21	giher	VBF	גיהער	gyher	_
+22-23	tsum	P~D	צום	qvM	_
+22	tsu	P	צו	qv	_
+23	m	D	מ	m	_
+24	engilshin	ADJ	ענגילשין	engyl$yN	_
+25	kinig	N	קיניג	kynyg	_
+26	un	CONJ	און	AvN	_
+27	hat	VBF	האַט	hAat	_
+28	eyn_kunft	N	אײנ_קונפֿט	AYn_kvnft	_
+29	10_mileyan	NUM	10_מילײאַן	10_mylYAaN	_
+30	guldin	N	גולדין	gvldyN	_
+31	un	CONJ	און	AvN	_
+32	24000	NUM	24000	24000	_
+33	kheyl	N	כײל	xYl	_
+
+SENT	1818E-GEOGRAFIE,14.229
+1	di	D	די	dy	_
+2	gresti	ADJS	גרעסטי	gresty	_
+3	stet	N	סטעט	stet	_
+4	zeyn	VBF	זײן	zYN	_
+5	derinen	ADV	דערינען	deryneN	_
+
+SENT	1818E-GEOGRAFIE,15.231
+1	virtimbergr	ADJ	װירטימבערגר	Vyrtymbergr	_
+2	kinigreykh	N	קיניגרײך	kynygrYX	_
+
+SENT	1818E-GEOGRAFIE,15.232
+1	di	D	די	dy	_
+2	kinigreykh	N	קיניגרײך	kynygrYX	_
+3	hat	VBF	האַט	hAat	_
+4	in	P	אין	AyN	_
+5	zikh	PRO	זיך	zyX	_
+6	669	NUM	669	669	_
+7	meyl	N	מײל	mYl	_
+8	arubeut	H	אַרובעוט	Aarvbevt	UNKNOWN
+9	platts	N	פּלאַטץ	plAatQ	_
+10	un	CONJ	און	AvN	_
+11	1578000	NUM	1578000	1578000	_
+12	npsut	N	נפּסוט	npsvt	_
+
+SENT	1818E-GEOGRAFIE,15.233
+1	es	ES	עס	es	_
+2	kinigt	VBF	קיניגט	kynygt	_
+3	drinn	ADV	דרינן	drynN	_
+4	fridrerik	NPR	פֿרידרעריק	frydreryk	_
+5	vilhelm	NPR	װילהעלם	VylhelM	_
+6	karal	NPR	קאַראַל	kAarAal	_
+
+SENT	1818E-GEOGRAFIE,15.234
+1	eyn_kunft	N	אײנ_קונפֿט	AYn_kvnft	_
+2	hat	VBF	האַט	hAat	_
+3	das	D	דת	dS	_
+4	land	N	לאַנד	lAand	_
+5	10_mileyan	NUM	10_מילײאַן	10_mylYAaN	_
+6	guldin	N	גולדין	gvldyN	_
+7	un	CONJ	און	AvN	_
+8	27000	NUM	27000	27000	_
+9	kheyl	N	כײל	xYl	_
+
+SENT	1818E-GEOGRAFIE,15.235
+1	di	D	די	dy	_
+2	gresti	ADJS	גרעסטי	gresty	_
+3	stet	N	סטעט	stet	_
+4	zeyn	VBF	זײן	zYN	_
+5	derinn	ADV	דערינן	derynN	_
+
+SENT	1818E-GEOGRAFIE,15.236
+1	sardineyer	ADJ	סאַרדינײער	sAardynYer	_
+2	kinigreykh	N	קיניגרײך	kynygrYX	_
+
+SENT	1818E-GEOGRAFIE,15.237
+1	di	D	די	dy	_
+2	kinigreykh	N	קיניגרײך	kynygrYX	_
+3	hat	VBF	האַט	hAat	_
+4	in	P	אין	AyN	_
+5	zikh	PRO	זיך	zyX	_
+6	1350	NUM	1350	1350	_
+7	meyl	N	מײל	mYl	_
+8	platts	N	פּלאַטץ	plAatQ	_
+9	un	CONJ	און	AvN	_
+10	3_mileyan_mit_eyn_halb	NUM	3_מילײאַנ_מיט_ײנ_האַלב	3_mylYAan_myt_Yn_hAalb	_
+11	npsut	N	נפּסוט	npsvt	_
+
+SENT	1818E-GEOGRAFIE,15.238
+1	eyn_kunft	N	אײנ_קונפֿט	AYn_kvnft	_
+2	hat	VBF	האַט	hAat	_
+3	das	D	דת	dS	_
+4	land	N	לאַנד	lAand	_
+5	48_mileyan	NUM	48_מילײאַן	48_mylYAaN	_
+6	liver	N	ליװער	lyVer	_
+7	un	CONJ	און	AvN	_
+8	70000	NUM	70000	70000	_
+9	kheyl	N	כײל	xYl	_
+10	un	CONJ	און	AvN	_
+11	2	NUM	2	2	_
+12	fregatin	N	פֿרעגאַטין	fregAatyN	_
+13	ader	CONJ	אַדער	Aader	_
+14	aukrentin	N	אַוקרענטין	AavkrentyN	_
+
+SENT	1818E-GEOGRAFIE,15.239
+1	di	D	די	dy	_
+2	gresti	ADJS	גרעסטי	gresty	_
+3	stet	N	סטעט	stet	_
+4	zeyn	VBF	זײן	zYN	_
+5	drinn	ADV	דרינן	drynN	_
+6	samberi	NPR	סאַמבערי	sAambery	_
+7	turin	NPR	טורין	tvryN	_
+8	in	P	אין	AyN	_
+9	velkhi	WPRO	װעלכי	Velxy	_
+10	der	D	דער	der	_
+11	kinig	N	קיניג	kynyg	_
+12	viktar	NPR	װיקטאַר	VyktAar	_
+13	emanuel	NPR	עמאַנועל	emAanvel	_
+14	rezedirt	VBF	רעזעדירט	rezedyrt	_
+15	genevi	NPR	גענעװי	geneVy	_
+16	kagliarey	NPR	קאַגליִאַרײ	kAaglyiAarY	_
+17	in	P	אין	AyN	_
+18	velkhi	WPRO	װעלכי	Velxy	_
+19	der	D	דער	der	_
+20	vitse_kinig	N	װיצע_קיניג	Vyqe_kynyg	_
+21	rezidirt	VBF	רעזידירט	rezydyrt	_
+
+SENT	1818E-GEOGRAFIE,15.240
+1	fun	P	פֿון	fvN	_
+2	vlakhin_land	NPR	װלאַכינ_לאַנד	VlAaxyn_lAand	_
+
+SENT	1818E-GEOGRAFIE,15.241
+1	in	CONJ	אין	AyN	_
+2	vlakhin_land	NPR	װלאַכינ_לאַנד	VlAaxyn_lAand	_
+3	uder	CONJ	אודער	Avder	_
+4	itley	NPR	איטלײ	AytlY	_
+5	in	P	אין	AyN	_
+6	velkhi	WPRO	װעלכי	Velxy	_
+7	tsu_far	ADV	צו_פֿאַר	qv_fAar	_
+8	napala	NPR	נאַפּאַלאַ	nAapAalAa	_
+9	gikinigt	VBN	גיקיניגט	gykynygt	_
+10	hat	HVF	האַט	hAat	_
+11	iz	BEF	איז	Ayz	_
+12	yetsund	ADV	יעצונד	yeqvnd	_
+13	tsu_teylt	VAN	צו_טײלט	qv_tYlt	_
+14	givarin	RDN	גיװאַרין	gyVAaryN	_
+15	oyf	P	אױף	AWF	_
+16	sardinier	ADJ	סאַרדיניִער	sAardynyier	_
+17	kinigreykh	N	קיניגרײך	kynygrYX	_
+18	velkhi	WPRO	װעלכי	Velxy	_
+19	shun	ADV	שון	$vN	_
+20	bsribn	VAN	בסריבן	bsrybN	_
+21	iz	BEF	איז	Ayz	_
+22	zu	ADV	זו	zv	_
+23	oykh	ADV	אױך	AWX	_
+24	oyf	P	אױף	AWF	_
+25	lambarde_vintsie	ADJ	לאַמבאַרדע_װינציִע	lAambAarde_Vynqyie	_
+26	kinigreykh	N	קיניגרײך	kynygrYX	_
+27	velkhi	WPRO	װעלכי	Velxy	_
+28	giher	VBF	גיהער	gyher	_
+29-30	tsum	P~D	צום	qvM	_
+29	tsu	P	צו	qv	_
+30	m	D	מ	m	_
+31	estreykhshin	ADJ	עסטרײכשין	estrYx$yN	_
+32	kisr	N	קיסר	kysr	_
+
+SENT	1818E-GEOGRAFIE,15.242
+1	un	CONJ	און	AvN	_
+2	es	PRO	עס	es	_
+3	hat	VBF	האַט	hAat	_
+4	eyn	D	אײן	AYN	_
+5	vitse_kinig	N	װיצע_קיניג	Vyqe_kynyg	_
+6	velkhir	WPRO	װעלכיר	Velxyr	_
+7	rezidirt	VBF	רעזידירט	rezydyrt	_
+8	in	P	אין	AyN	_
+9	vinitsey	NPR	װיניצײ	VynyqY	_
+10	un	CONJ	און	AvN	_
+11	tsu	P	צו	qv	_
+12	tseytin	N	צײטין	qYtyN	_
+13	in	P	אין	AyN	_
+14	medileyan	NPR	מעדילײאַן	medylYAaN	_
+
+SENT	1818E-GEOGRAFIE,16.244
+1	di	D	די	dy	_
+2	gresti	ADJS	גרעסטי	gresty	_
+3	stet	N	סטעט	stet	_
+4	zeyn	VBF	זײן	zYN	_
+5	drinn	ADV	דרינן	drynN	_
+6	vinetsie	NPR	װינעציִע	Vyneqyie	_
+
+SENT	1818E-GEOGRAFIE,16.245
+1	zi	PRO	זי	zy	_
+2	iz	BEF	איז	Ayz	_
+3	giboyt	VAN	גיבױט	gybWt	_
+4	oyf	P	אױף	AWF	_
+5	60	NUM	60	60	_
+6	kleyni	ADJ	קלײני	klYny	_
+7	vispes	N	װיספּעס	Vyspes	_
+
+SENT	1818E-GEOGRAFIE,16.246
+1	un	CONJ	און	AvN	_
+2	es	ES	עס	es	_
+3	iz	VBF	איז	Ayz	_
+4	drinn	ADV	דרינן	drynN	_
+5	450	NUM	450	450	_
+6	brikin	N	בריקין	brykyN	_
+
+SENT	1818E-GEOGRAFIE,16.247
+1	medilian	N	מעדיליִאַן	medylyiAaN	_
+2	makbe	N	מאַקבע	mAakbe	_
+3	un	CONJ	און	AvN	_
+4	nokh	ADV	נאָך	nAoX	_
+5	fil	Q	פֿיל	fyl	_
+6	anderi	ADJ	אַנדערי	Aandery	_
+
+SENT	1818E-GEOGRAFIE,16.248
+1	oykh	ADV	אױך	AWX	_
+2	hat	HVF	האַט	hAat	_
+3	men	PRO	מען	meN	_
+4	in	P	אין	AyN	_
+5	das	D	דת	dS	_
+6	vlakhin_land	NPR	װלאַכינ_לאַנד	VlAaxyn_lAand	_
+7	ap	RP	אַפּ	Aap	_
+8	giteylt	VBN	גיטײלט	gytYlt	_
+9	eyn	D	אײן	AYN	_
+10	stik	N	סטיק	styk	_
+11	mdinh	N	מדינה	mdynh	_
+12	fun	P	פֿון	fvN	_
+13	90	NUM	90	90	_
+14	meyl	N	מײל	mYl	_
+15	plats	N	פּלאַץ	plAaQ	_
+16	hundrt_tuzint	NUM	הונדרט_טוזינט	hvndrt_tvzynt	_
+17	npsut	N	נפּסוט	npsvt	_
+18	tsvey_mileyan	NUM	צװײ_מילײאַן	qVY_mylYAaN	_
+19	frank	N	פֿראַנק	frAank	_
+20	eyn_kunft	N	אײנ_קונפֿט	AYn_kvnft	_
+21	fr	P	פֿר	fr	_
+22	di	D	די	dy	_
+23	takhtir	N	טאַכטיר	tAaxtyr	_
+24	fun	P	פֿון	fvN	_
+25	estreykir	ADJ	עסטרײקיר	estrYkyr	_
+26	kisr	N	קיסר	kysr	_
+27	marie	NPR	מאַריִע	mAaryie	_
+28	ludvike	NPR	לודװיקע	lvdVyke	_
+29	di	D	די	dy	_
+30	grus_ferstin	N	גרוס_פֿערסטין	grvs_ferstyN	_
+31	fun	P	פֿון	fvN	_
+32	parme	NPR	פּאַרמע	pAarme	_
+
+SENT	1818E-GEOGRAFIE,16.249
+1	di	D	די	dy	_
+2	gresti	ADJS	גרעסטי	gresty	_
+3	stet	N	סטעט	stet	_
+4	zeyn	VBF	זײן	zYN	_
+5	derinn	ADV	דערינן	derynN	_
+
+SENT	1818E-GEOGRAFIE,16.250
+1	oykh	ADV	אױך	AWX	_
+2	iz	VBF	איז	Ayz	_
+3	in	P	אין	AyN	_
+4	vlakhin_land	NPR	װלאַכינ_לאַנד	VlAaxyn_lAand	_
+5	das	D	דת	dS	_
+6	grus_kurferst	N	גרוס_קורפֿערסט	grvs_kvrferst	_
+7	fun	P	פֿון	fvN	_
+8	tuskaney	NPR	טוסקאַנײ	tvskAanY	_
+9	velkhi	WPRO	װעלכי	Velxy	_
+10	hat	VBF	האַט	hAat	_
+11	in	P	אין	AyN	_
+12	zikh	PRO	זיך	zyX	_
+13	350	NUM	350	350	_
+14	meyl	N	מײל	mYl	_
+15	plats	N	פּלאַץ	plAaQ	_
+16	eyn_mileyan_mit_eyn_halb	NUM	אײנ_מילײאַנ_מיט_ײנ_האַלב	AYn_mylYAan_myt_Yn_hAalb	_
+17	npsut	N	נפּסוט	npsvt	_
+
+SENT	1818E-GEOGRAFIE,16.251
+1	un	CONJ	און	AvN	_
+2	es	PRO	עס	es	_
+3	giher	VBF	גיהער	gyher	_
+4-5	tsum	P~D	צום	qvM	_
+4	tsu	P	צו	qv	_
+5	m	D	מ	m	_
+6	grus_ferst	N	גרוס_פֿערסט	grvs_ferst	_
+7	fun	P	פֿון	fvN	_
+8	estreykh	NPR	עסטרײך	estrYX	_
+9	ferdinand	NPR	פֿערדינאַנד	ferdynAand	_
+
+SENT	1818E-GEOGRAFIE,16.252
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	gresti	ADJS	גרעסטי	gresty	_
+4	stet	N	סטעט	stet	_
+5	zeyn	VBF	זײן	zYN	_
+6	derinn	ADV	דערינן	derynN	_
+7	flarentsey	NPR	פֿלאַרענצײ	flAarenqY	_
+8	mit	P	מיט	myt	_
+9	75000	NUM	75000	75000	_
+10	eyn_vanir	N	אײנ_װאַניר	AYn_VAanyr	_
+11	pisa	NPR	פּיסאַ	pysAa	_
+12	livarne	NPR	ליװאַרנע	lyVAarne	_
+13	eyn	D	אײן	AYN	_
+14	grus	ADJ	גרוס	grvs	_
+15	handil_stat	N	האַנדיל_סטאַט	hAandyl_stAat	_
+16	peyambin	NPR	פּײאַמבין	pYAambyN	_
+
+SENT	1818E-GEOGRAFIE,16.253
+1	un	CONJ	און	AvN	_
+2	oykh	ADV	אױך	AWX	_
+3	giher	VBF	גיהער	gyher	_
+4	tsu	P	צו	qv	_
+5	dizin	D	דיזין	dyzyN	_
+6	land	N	לאַנד	lAand	_
+7	di	D	די	dy	_
+8	vispe	N	װיספּע	Vyspe	_
+9	elbe	NPR	עלבע	elbe	_
+10	oyf	P	אױף	AWF	_
+11	dem	D	דעם	deM	_
+12	mitlendshin	ADJ	מיטלענדשין	mytlend$yN	_
+13	mehr	N	מעהר	mehr	_
+
+SENT	1818E-GEOGRAFIE,16.254
+1	fun	P	פֿון	fvN	_
+2	das	D	דת	dS	_
+3	pupsin_land	NPR	פּופּסינ_לאַנד	pvpsyn_lAand	_
+
+SENT	1818E-GEOGRAFIE,16.255
+1	dem	D	דעם	deM	_
+2	pups_land	NPR	פּופּס_לאַנד	pvps_lAand	_
+3	hat	VBF	האַט	hAat	_
+4	in	P	אין	AyN	_
+5	zikh	PRO	זיך	zyX	_
+6	530	NUM	530	530	_
+7	meyl	N	מײל	mYl	_
+8	platts	N	פּלאַטץ	plAatQ	_
+9	1500000	NUM	1500000	1500000	_
+10	npsut	N	נפּסוט	npsvt	_
+
+SENT	1818E-GEOGRAFIE,16.256
+1	es	ES	עס	es	_
+2	regirt	VBF	רעגירט	regyrt	_
+3	derinn	ADV	דערינן	derynN	_
+4	yetst	ADV	יעצט	yeqt	_
+5	pius	NPR	פּיִוס	pyivs	_
+6	der	D	דער	der	_
+7	zibend	N	זיבענד	zybend	_
+8	dr	D	דר	dr	_
+9	hekhstr	N	העכסטר	hexstr	_
+10	ibr	P	איבר	Aybr	_
+11	ali	Q	אַלי	Aaly	_
+12	kumrim	N	קומרים	kvmryM	_
+13	fun	P	פֿון	fvN	_
+14	rumish_katulish	ADJ	רומיש_קאַטוליש	rvmy$_kAatvly$	_
+15	gloybin	N	גלױבין	glWbyN	_
+
+SENT	1818E-GEOGRAFIE,16.257
+1	di	D	די	dy	_
+2	grusi	ADJ	גרוסי	grvsy	_
+3	stat	N	סטאַט	stAat	_
+4	rum	NPR	רום	rvM	_
+5	velkhi	WPRO	װעלכי	Velxy	_
+6	ligt	VBF	ליגט	lygt	_
+7	bey	P	בײ	bY	_
+8	dr	D	דר	dr	_
+9	teykh	N	טײך	tYX	_
+10	tiber	NPR	טיבער	tyber	_
+11	iz	VBF	איז	Ayz	_
+12	di	D	די	dy	_
+13	rezidents_stat	N	רעזידענצ_סטאַט	rezydenq_stAat	_
+14	fun	P	פֿון	fvN	_
+15	ds	D	דס	ds	_
+16	gantsi	ADJ	גאַנצי	gAanqy	_
+17	land	N	לאַנד	lAand	_
+
+SENT	1818E-GEOGRAFIE,16.258
+1	dr	D	דר	dr	_
+2	pups	N	פּופּס	pvps	_
+3	hat	VBF	האַט	hAat	_
+4	derinn	ADV	דערינן	derynN	_
+5	zeyn	PRO$	זײן	zYN	_
+6	palsts	N	פּאַלסץ	pAalsQ	_
+7	in	P	אין	AyN	_
+8	velkhin	WPRO	װעלכין	VelxyN	_
+9	iz	VBF	איז	Ayz	_
+10	faran	ADJ	פֿאַראַן	fAarAaN	_
+11	22	NUM	22	22	_
+12	dzirzintses	N	דזירזינצעס	dzyrzynqes	_
+13	plattsin	N	פּלאַטצין	plAatqyN	_
+14	11246	NUM	11246	11246	_
+15	pakaves	N	פּאַקאַװעס	pAakAaVes	_
+
+SENT	1818E-GEOGRAFIE,16.259
+1	un	CONJ	און	AvN	_
+2	khuts	P	חוץ	HvQ	_
+3	dem	D	דעם	deM	_
+4	iz	VBF	איז	Ayz	_
+5	faran	ADJ	פֿאַראַן	fAarAaN	_
+6	ukh	ADV	אוך	AvX	_
+7	fil	Q	פֿיל	fyl	_
+8	anderi	ADJ	אַנדערי	Aandery	_
+9	zeyer	ADV	זײער	zYer	_
+10	vaunderlikhe	ADJ	װאַונדערליכע	VAavnderlyxe	_
+11	palatsin	N	פּאַלאַצין	pAalAaqyN	_
+12	un	CONJ	און	AvN	_
+13	gmakhin	N	גמאַכין	gmAaxyN	_
+
+SENT	1818E-GEOGRAFIE,16.260
+1	fun	P	פֿון	fvN	_
+2	das	D	דת	dS	_
+3	kinigreykh	N	קיניגרײך	kynygrYX	_
+4	neapal	NPR	נעאַפּאַל	neAapAal	_
+5	uder	CONJ	אודער	Avder	_
+6	beyde	Q	בײדע	bYde	_
+7	sitsileyen	NPR	סיצילײען	syqylYeN	_
+
+SENT	1818E-GEOGRAFIE,17.262
+1	das	D	דת	dS	_
+2	land	N	לאַנד	lAand	_
+3	neapal	NPR	נעאַפּאַל	neAapAal	_
+4	hat	VBF	האַט	hAat	_
+5	in	P	אין	AyN	_
+6	zikh	PRO	זיך	zyX	_
+7	1437	NUM	1437	1437	_
+8	meyl	N	מײל	mYl	_
+9	platts	N	פּלאַטץ	plAatQ	_
+10	un	CONJ	און	AvN	_
+11	14500000	NUM	14500000	14500000	_
+12	npsut	N	נפּסוט	npsvt	_
+
+SENT	1818E-GEOGRAFIE,17.263
+1	neapal	NPR	נעאַפּאַל	neAapAal	_
+2	iz	VBF	איז	Ayz	_
+3	di	D	די	dy	_
+4	rezidents_stat	N	רעזידענצ_סטאַט	rezydenq_stAat	_
+5	fun	P	פֿון	fvN	_
+6	kinig	N	קיניג	kynyg	_
+
+SENT	1818E-GEOGRAFIE,17.264
+1	zi	PRO	זי	zy	_
+2	iz	VBF	איז	Ayz	_
+3	di	D	די	dy	_
+4	reykhsti	ADJS	רײכסטי	rYxsty	_
+5	un	CONJ	און	AvN	_
+6	di	D	די	dy	_
+7	fremsti	ADJS	פֿרעמסטי	fremsty	_
+8	stat	N	סטאַט	stAat	_
+9	in	P	אין	AyN	_
+10	gnts	ADV	גנץ	gnQ	_
+11	vlakhin_land	NPR	װלאַכינ_לאַנד	VlAaxyn_lAand	_
+
+SENT	1818E-GEOGRAFIE,17.265
+1	zi	PRO	זי	zy	_
+2	hat	VBF	האַט	hAat	_
+3	in	P	אין	AyN	_
+4	zikh	PRO	זיך	zyX	_
+5	40000	NUM	40000	40000	_
+6	eyn_vanir	N	אײנ_װאַניר	AYn_VAanyr	_
+
+SENT	1818E-GEOGRAFIE,17.266
+1	hat	VBF	האַט	hAat	_
+2	ukh	ADV	אוך	AvX	_
+3	eyn	D	אײן	AYN	_
+4	gutin	ADJ	גוטין	gvtyN	_
+5	part	N	פּאַרט	pAart	_
+6	bey	P	בײ	bY	_
+7	den	D	דען	deN	_
+8	im	N	אים	AyM	_
+
+SENT	1818E-GEOGRAFIE,17.267
+1	di	D	די	dy	_
+2	inzl	N	אינזל	Aynzl	_
+3	uder	CONJ	אודער	Avder	_
+4	kinigreykh	N	קיניגרײך	kynygrYX	_
+5	sitsilien	NPR	סיציליִען	syqylyieN	_
+
+SENT	1818E-GEOGRAFIE,17.268
+1	di	D	די	dy	_
+2	land	N	לאַנד	lAand	_
+3	sitsileyen	NPR	סיצילײען	syqylYeN	_
+4	ligt	VBF	ליגט	lygt	_
+5	oyf	P	אױף	AWF	_
+6	eyn	D	אײן	AYN	_
+7	gruse	ADJ	גרוסע	grvse	_
+8	inzl	N	אינזל	Aynzl	_
+9	di	D	די	dy	_
+10	greste	ADJS	גרעסטע	greste	_
+11	vas	C	װאַס	VAas	_
+12	es	ES	עס	es	_
+13	gifnt	VBF	גיפֿנט	gyfnt	_
+14	zikh	PRO	זיך	zyX	_
+15	oyf	P	אױף	AWF	_
+16	dem	D	דעם	deM	_
+17	mitlendishn	ADJ	מיטלענדישן	mytlendy$N	_
+18	mer	N	מער	mer	_
+
+SENT	1818E-GEOGRAFIE,17.269
+1	es	PRO	עס	es	_
+2	grentst	VBF	גרענצט	grenqt	_
+3	zikh	PRO	זיך	zyX	_
+4	fun	P	פֿון	fvN	_
+5	mzrkh	H	מזרך	mzrX	east
+6	zeyt	N	זײט	zYt	_
+7	un	CONJ	און	AvN	_
+8	drum	H	דרום	drvM	south
+9	zeyt	N	זײט	zYt	_
+10	mit	P	מיט	myt	_
+11	neapel	NPR	נעאַפּעל	neAapel	_
+12	vas	C	װאַס	VAas	_
+13	es	PRO	עס	es	_
+14	teylt	VBF	טײלט	tYlt	_
+15	zikh	PRO	זיך	zyX	_
+16	ap	RP	אַפּ	Aap	_
+17	mit	P	מיט	myt	_
+18	eyn	D	אײן	AYN	_
+19	eynge	ADJ	אײנגע	AYnge	_
+20	mer	N	מער	mer	_
+
+SENT	1818E-GEOGRAFIE,17.270
+1	es	PRO	עס	es	_
+2	hat	VBF	האַט	hAat	_
+3	in	P	אין	AyN	_
+4	zikh	PRO	זיך	zyX	_
+5	587	NUM	587	587	_
+6	meyl	N	מײל	mYl	_
+7	kvadratavi	ADJ	קװאַדראַטאַװי	kVAadrAatAaVy	_
+8	un	CONJ	און	AvN	_
+9	1655539	NUM	1655539	1655539	_
+10	eyn_vauner	N	אײנ_װאַונער	AYn_VAavner	_
+
+SENT	1818E-GEOGRAFIE,17.271
+1	das	D	דת	dS	_
+2	land	N	לאַנד	lAand	_
+3	teylt	VBF	טײלט	tYlt	_
+4	zikh	PRO	זיך	zyX	_
+5	in	P	אין	AyN	_
+6	drey	NUM	דרײ	drY	_
+7	pravintsin	N	פּראַװינצין	prAaVynqyN	_
+
+SENT	1818E-GEOGRAFIE,17.272
+1	das	D	דת	dS	_
+2	land	N	לאַנד	lAand	_
+3	sitsilie	NPR	סיציליִע	syqylyie	_
+4	hat	VBF	האַט	hAat	_
+5	tsu	P	צו	qv	_
+6	zikh	PRO	זיך	zyX	_
+7	nakh	ADV	נ"ך	n"X	_
+8	mer	QR	מער	mer	_
+9	kleyin	ADJ	קלײיִן	klYyiN	_
+10	inzlin	N	אינזלין	AynzlyN	_
+
+SENT	1818E-GEOGRAFIE,17.273
+1	di	D	די	dy	_
+2	inzl	N	אינזל	Aynzl	_
+3	malta	NPR	מאַלטאַ	mAaltAa	_
+
+SENT	1818E-GEOGRAFIE,17.274
+1	di	D	די	dy	_
+2	inzl	N	אינזל	Aynzl	_
+3	malte	NPR	מאַלטע	mAalte	_
+4	mit	P	מיט	myt	_
+5	nakh	ADV	נ"ך	n"X	_
+6	tsvey	NUM	צװײ	qVY	_
+7	kleyni	ADJ	קלײני	klYny	_
+8	inzlin	N	אינזלין	AynzlyN	_
+9	fr_nemn	VBF	פֿר_נעמן	fr_nemN	_
+10	8	NUM	8	8	_
+11	kvadrat_meyl	N	קװאַדראַט_מײל	kVAadrAat_mYl	_
+
+SENT	1818E-GEOGRAFIE,17.275
+1	un	CONJ	און	AvN	_
+2	habn	VBF	האַבן	hAabN	_
+3	114000	NUM	114000	114000	_
+4	eyn_vauner	N	אײנ_װאַונער	AYn_VAavner	_
+
+SENT	1818E-GEOGRAFIE,17.276
+1	zey	PRO	זײ	zY	_
+2	gihern	VBF	גיהערן	gyherN	_
+3	itsund	ADV	איצונד	Ayqvnd	_
+4-5	tsum	P~D	צום	qvM	_
+4	tsu	P	צו	qv	_
+5	m	D	מ	m	_
+6	englendr	NPR	ענגלענדר	englendr	_
+
+SENT	1818E-GEOGRAFIE,17.277
+1	di	D	די	dy	_
+2	hoypt_stat	N	הױפּט_סטאַט	hWpt_stAat	_
+3	dr_fun	DR+P	דר_פֿון	dr_fvN	_
+4	ruft	VBF	רופֿט	rvft	_
+5	mn	PRO	מן	mN	_
+6	malta	NPR	מאַלטאַ	mAaltAa	_
+
+SENT	1818E-GEOGRAFIE,17.278
+1	zey	PRO	זײ	zY	_
+2	hat	VBF	האַט	hAat	_
+3	an	P	אַן	AaN	_
+4	zikh	PRO	זיך	zyX	_
+5	tsvey	NUM	צװײ	qVY	_
+6	partn	N	פּאַרטן	pAartN	_
+7	mit	P	מיט	myt	_
+8	eyn	D	אײן	AYN	_
+9	khzkt	N	כזקט	xzkt	_
+
+SENT	1818E-GEOGRAFIE,18.280
+1	di	D	די	dy	_
+2	zibn	NUM	זיבן	zybN	_
+3	yunishe	ADJ	יונישע	yvny$e	_
+4	inzlin	N	אינזלין	AynzlyN	_
+
+SENT	1818E-GEOGRAFIE,18.281
+1	di	D	די	dy	_
+2	yunishi	ADJ	יונישי	yvny$y	_
+3	inzlin	N	אינזלין	AynzlyN	_
+4	habn	VBF	האַבן	hAabN	_
+5	in	P	אין	AyN	_
+6	zikh	PRO	זיך	zyX	_
+7	44	NUM	44	44	_
+8	kvadrat_meyl	N	קװאַדראַט_מײל	kVAadrAat_mYl	_
+9	un	CONJ	און	AvN	_
+10	187000	NUM	187000	187000	_
+11	eyn_vauner	N	אײנ_װאַונער	AYn_VAavner	_
+
+SENT	1818E-GEOGRAFIE,18.282
+1	un	CONJ	און	AvN	_
+2	zey	PRO	זײ	zY	_
+3	gihern	VBF	גיהערן	gyherN	_
+4-5	untrn	P~D	אונטרן	AvntrN	_
+4	untr	P	אונטר	Avntr	_
+5	n	D	נ	n	_
+6	shuts	N	שוץ	$vQ	_
+7	fun	P	פֿון	fvN	_
+8	england	NPR	ענגלאַנד	englAand	_
+
+SENT	1818E-GEOGRAFIE,18.283
+1	di	D	די	dy	_
+2	hoypt_stat	N	הױפּט_סטאַט	hWpt_stAat	_
+3	ruft	VBF	רופֿט	rvft	_
+4	mn	PRO	מן	mN	_
+5	karfu	N	קאַרפֿו	kAarfv	_
+
+SENT	1818E-GEOGRAFIE,18.284
+1	zi	PRO	זי	zy	_
+2	hat	VBF	האַט	hAat	_
+3	14000	NUM	14000	14000	_
+4	eyn_vauner	N	אײנ_װאַונער	AYn_VAavner	_
+5	un	CONJ	און	AvN	_
+6	oykh	ADV	אױך	AWX	_
+7	eyn	D	אײן	AYN	_
+8	khzkt	N	כזקט	xzkt	_
+
+SENT	1818E-GEOGRAFIE,18.285
+1	shveyts	NPR	שװײץ	$VYQ	_
+2	uder	CONJ	אודער	Avder	_
+3	shveytsarie	ADJ	שװײצאַריִע	$VYqAaryie	_
+4	land	N	לאַנד	lAand	_
+
+SENT	1818E-GEOGRAFIE,18.286
+1	di	D	די	dy	_
+2	mdinh	N	מדינה	mdynh	_
+3	shveyts	NPR	שװײץ	$VYQ	_
+4	grentst	VBF	גרענצט	grenqt	_
+5	zikh	PRO	זיך	zyX	_
+6	fun	P	פֿון	fvN	_
+7	mzrkh	H	מזרך	mzrX	east
+8	zeyt	N	זײט	zYt	_
+9	mit	P	מיט	myt	_
+10	frankreykh	NPR	פֿראַנקרײך	frAankrYX	_
+11	fun	P	פֿון	fvN	_
+12	tsfun	H	צפֿון	qfvN	north
+13	un	CONJ	און	AvN	_
+14	merib	H	מעריב	meryb	west
+15	zeyt	N	זײט	zYt	_
+16	mit	P	מיט	myt	_
+17	teytsh_land	NPR	טײטש_לאַנד	tYt$_lAand	_
+18	un	CONJ	און	AvN	_
+19	fun	P	פֿון	fvN	_
+20	drum	H	דרום	drvM	south
+21	zeyt	N	זײט	zYt	_
+22	mit	P	מיט	myt	_
+23	italie	NPR	איטאַליִע	AytAalyie	_
+
+SENT	1818E-GEOGRAFIE,18.287
+1	es	PRO	עס	es	_
+2	hat	VBF	האַט	hAat	_
+3	in	P	אין	AyN	_
+4	zikh	PRO	זיך	zyX	_
+5	870	NUM	870	870	_
+6	kvadrat_meyl	N	קװאַדראַט_מײל	kVAadrAat_mYl	_
+7	un	CONJ	און	AvN	_
+8	7138000	NUM	7138000	7138000	_
+9	eyn_vauner	N	אײנ_װאַונער	AYn_VAavner	_
+
+SENT	1818E-GEOGRAFIE,18.288
+1	zi	PRO	זי	zy	_
+2	teylt	VBF	טײלט	tYlt	_
+3	zikh	PRO	זיך	zyX	_
+4	in	P	אין	AyN	_
+5	22	NUM	22	22	_
+6	kantanes	N	קאַנטאַנעס	kAantAanes	_
+7	uder	CONJ	אודער	Avder	_
+8	pravintsin	N	פּראַװינצין	prAaVynqyN	_
+
+SENT	1818E-GEOGRAFIE,18.289
+1	oykh	ADV	אױך	AWX	_
+2	habn	VBF	האַבן	hAabN	_
+3	zey	PRO	זײ	zY	_
+4	32886	NUM	32886	32886	_
+5	beli_mlkhmut	N	בעלי_מלכמוט	bely_mlxmvt	_
+
+SENT	1818E-GEOGRAFIE,18.290
+1	di	D	די	dy	_
+2	khkhnth	N	ככנטה	xxnth	_
+3	uder	CONJ	אודער	Avder	_
+4	eyn_kunft	N	אײנ_קונפֿט	AYn_kvnft	_
+5	fun	P	פֿון	fvN	_
+6	gantsin	ADJ	גאַנצין	gAanqyN	_
+7	land	N	לאַנד	lAand	_
+8	iz	VBF	איז	Ayz	_
+9	540107	NUM	540107	540107	_
+10	shveytser	ADJ	שװײצער	$VYqer	_
+11	frankn	N	פֿראַנקן	frAankN	_
+
+SENT	1818E-GEOGRAFIE,18.291
+1	fun	P	פֿון	fvN	_
+2	ds	D	דס	ds	_
+3	kinigreykh	N	קיניגרײך	kynygrYX	_
+4	nidr_land	NPR	נידר_לאַנד	nydr_lAand	_
+
+SENT	1818E-GEOGRAFIE,18.292
+1	di	D	די	dy	_
+2	mdinh	N	מדינה	mdynh	_
+3	nidr_land	NPR	נידר_לאַנד	nydr_lAand	_
+4	grentst	VBF	גרענצט	grenqt	_
+5	zikh	PRO	זיך	zyX	_
+6	fun	P	פֿון	fvN	_
+7	tsfun	N	צפֿון	qfvN	_
+8	un	CONJ	און	AvN	_
+9	mzrkh	H	מזרך	mzrX	east
+10	zeyt	N	זײט	zYt	_
+11	mit	P	מיט	myt	_
+12	dem	D	דעם	deM	_
+13	im	N	אים	AyM	_
+14	hlfuni	N	הלפֿוני	hlfvny	_
+15	uder	CONJ	אודער	Avder	_
+16	nard_mer	NPR	נאַרד_מער	nAard_mer	_
+17	fun	P	פֿון	fvN	_
+18	drum	H	דרום	drvM	south
+19	zeyt	N	זײט	zYt	_
+20	in	P	אין	AyN	_
+21	frankreykh	NPR	פֿראַנקרײך	frAankrYX	_
+22	fun	P	פֿון	fvN	_
+23	merib	H	מעריב	meryb	west
+24	zeyt	N	זײט	zYt	_
+25	mit	P	מיט	myt	_
+26	teyts_land	NPR	טײצ_לאַנד	tYq_lAand	_
+
+SENT	1818E-GEOGRAFIE,18.293
+1	es	PRO	עס	es	_
+2	hat	VBF	האַט	hAat	_
+3	in	P	אין	AyN	_
+4	zikh	PRO	זיך	zyX	_
+5	1194	NUM	1194	1194	_
+6	kvadrt_meyl	N	קװאַדרט_מײל	kVAadrt_mYl	_
+7	un	CONJ	און	AvN	_
+8	5126400	NUM	5126400	5126400	_
+9	eyn_vauner	N	אײנ_װאַונער	AYn_VAavner	_
+
+SENT	1818E-GEOGRAFIE,18.294
+1	ali	Q	אַלי	Aaly	_
+2	religies	N	רעליגיִעס	relygyies	_
+3	habn	VBF	האַבן	hAabN	_
+4	frey	N	פֿרײ	frY	_
+5	efntlikh	ADV	עפֿנטליך	efntlyX	_
+6	ir	PRO$	איר	Ayr	_
+7	gbet	N	גבעט	gbet	_
+8	tsu	TO	צו	qv	_
+9	tan	VB	טאַן	tAaN	_
+10	in	P	אין	AyN	_
+11	land	N	לאַנד	lAand	_
+
+SENT	1818E-GEOGRAFIE,18.295
+1	un	CONJ	און	AvN	_
+2	habn	VBF	האַבן	hAabN	_
+3	oykh	ADV	אױך	AWX	_
+4	shuts	N	שוץ	$vQ	_
+5	fun	P	פֿון	fvN	_
+6	dr	D	דר	dr	_
+7	mlukhh	N	מלוכה	mlvxh	_
+
+SENT	1818E-GEOGRAFIE,19.297
+1	dr	D	דר	dr	_
+2	handl	N	האַנדל	hAandl	_
+3	iz	VBF	איז	Ayz	_
+4	stark	ADJ	סטאַרק	stAark	_
+5	in	P	אין	AyN	_
+6	dr	D	דר	dr	_
+7	gantsr	ADJ	גאַנצר	gAanqr	_
+8	mdinh	N	מדינה	mdynh	_
+
+SENT	1818E-GEOGRAFIE,19.298
+1	un	CONJ	און	AvN	_
+2	fun	P	פֿון	fvN	_
+3	tsvey	NUM	צװײ	qVY	_
+4	yahr	N	יאַהר	yAahr	_
+5	an	RP	אַן	AaN	_
+6	hat	HVF	האַט	hAat	_
+7	er	PRO	ער	er	_
+8	zikh	PRO	זיך	zyX	_
+9	nakh	ADV	נ"ך	n"X	_
+10	starker	ADVR	סטאַרקער	stAarker	_
+11	an	RP	אַן	AaN	_
+12	gihubin	VBN	גיהובין	gyhvbyN	_
+
+SENT	1818E-GEOGRAFIE,19.299
+1	das	D	דת	dS	_
+2	gantsi	ADJ	גאַנצי	gAanqy	_
+3	land	N	לאַנד	lAand	_
+4	vert	RDF	װערט	Vert	_
+5	tsu_teylt	VAN	צו_טײלט	qv_tYlt	_
+6	in	P	אין	AyN	_
+7	16	NUM	16	16	_
+8	pravintsin	N	פּראַװינצין	prAaVynqyN	_
+9	dr_tsu	DR+P	דר_צו	dr_qv	_
+10	di	D	די	dy	_
+11	mdinh	N	מדינה	mdynh	_
+12	haland	NPR	האַלאַנד	hAalAand	_
+13	vas	C	װאַס	VAas	_
+14	di	D	די	dy	_
+15	hoypt_stat	N	הױפּט_סטאַט	hWpt_stAat	_
+16	iz	VBF	איז	Ayz	_
+17	amstrdm	NPR	אַמסטרדם	AamstrdM	_
+18	dr	D	דר	dr	_
+19	vaunung	N	װאַונונג	VAavnvng	_
+20	fun	P	פֿון	fvN	_
+21	dem	D	דעם	deM	_
+22	mlkh	N	מלך	mlX	_
+
+SENT	1818E-GEOGRAFIE,19.300
+1	oykh	ADV	אױך	AWX	_
+2	giher	VBF	גיהער	gyher	_
+3	dr_tsu	DR+P	דר_צו	dr_qv	_
+4	di	D	די	dy	_
+5	pravints	N	פּראַװינץ	prAaVynQ	_
+6	brabantsie	NPR	בראַבאַנציִע	brAabAanqyie	_
+7	vas	C	װאַס	VAas	_
+8	di	D	די	dy	_
+9	hoypt_stat	N	הױפּט_סטאַט	hWpt_stAat	_
+10	iz	VBF	איז	Ayz	_
+11	dr_fun	DR+P	דר_פֿון	dr_fvN	_
+12	bruksel	NPR	ברוקסעל	brvksel	_
+13	vas	C	װאַס	VAas	_
+14	in	P	אין	AyN	_
+15	ir	PRO	איר	Ayr	_
+16	iz	VBF	איז	Ayz	_
+17	eyn	D	אײן	AYN	_
+18	gruse	ADJ	גרוסע	grvse	_
+19	fabrike	N	פֿאַבריקע	fAabryke	_
+20	fun	P	פֿון	fvN	_
+21	brabaner	ADJ	בראַבאַנער	brAabAaner	_
+22	kroynn	N	קרױנן	krWnN	_
+
+SENT	1818E-GEOGRAFIE,19.301
+1	oykh	ADV	אױך	AWX	_
+2	hat	VBF	האַט	hAat	_
+3	nidrland	NPR	נידרלאַנד	nydrlAand	_
+4	bzitsung	N	בזיצונג	bzyqvng	_
+5	in	P	אין	AyN	_
+6	azie	NPR	אַזיִע	Aazyie	_
+7	afrike	NPR	אַפֿריקע	Aafryke	_
+8	un	CONJ	און	AvN	_
+9	in	P	אין	AyN	_
+10	amerike	NPR	אַמעריקע	Aameryke	_
+
+SENT	1818E-GEOGRAFIE,19.302
+1	fun	P	פֿון	fvN	_
+2	england	NPR	ענגלאַנד	englAand	_
+3	uder	CONJ	אודער	Avder	_
+4	grus_britaneye	NPR	גרוס_בריטאַנײע	grvs_brytAanYe	_
+
+SENT	1818E-GEOGRAFIE,19.303
+1	engiland	NPR	ענגילאַנד	engylAand	_
+2	mit	P	מיט	myt	_
+3	dem	D	דעם	deM	_
+4	land	N	לאַנד	lAand	_
+5	skatsey	NPR	סקאַצײ	skAaqY	_
+6	un	CONJ	און	AvN	_
+7	irland	NPR	אירלאַנד	AyrlAand	_
+8	velkhi	WPRO	װעלכי	Velxy	_
+9	zeyn	VBF	זײן	zYN	_
+10	ali	Q	אַלי	Aaly	_
+11	eyn	D	אײן	AYN	_
+12	kinigreykh	N	קיניגרײך	kynygrYX	_
+13	hat	VBF	האַט	hAat	_
+14	in	P	אין	AyN	_
+15	zikh	PRO	זיך	zyX	_
+16	5596	NUM	5596	5596	_
+17	meyl	N	מײל	mYl	_
+18	platts	N	פּלאַטץ	plAatQ	_
+19	un	CONJ	און	AvN	_
+20	mer	QR	מער	mer	_
+21	az	P	אַז	Aaz	_
+22	17_mileyan	NUM	17_מילײאַן	17_mylYAaN	_
+23	eyn_vanir	N	אײנ_װאַניר	AYn_VAanyr	_
+
+SENT	1818E-GEOGRAFIE,19.304
+1	dr	D	דר	dr	_
+2	kinig	N	קיניג	kynyg	_
+3	iz	VBF	איז	Ayz	_
+4	derinn	ADV	דערינן	derynN	_
+5	yerzi	NPR	יערזי	yerzy	_
+6	der	D	דער	der	_
+7	3	N	3	3	_
+
+SENT	1818E-GEOGRAFIE,19.305
+1	ibsh	N	איבש	Ayb$	_
+2	kheyl	N	כײל	xYl	_
+3	hat	VBF	האַט	hAat	_
+4	das	D	דת	dS	_
+5	land	N	לאַנד	lAand	_
+6	100000	NUM	100000	100000	_
+7	un	CONJ	און	AvN	_
+8	gruse	ADJ	גרוסע	grvse	_
+9	akrentin	N	אַקרענטין	AakrentyN	_
+10	255	NUM	255	255	_
+11	fregatin	N	פֿרעגאַטין	fregAatyN	_
+12	258	N	258	258	_
+13	un	CONJ	און	AvN	_
+14	kleneri	ADJR	קלענערי	klenery	_
+15	shifin	N	שיפֿין	$yfyN	_
+
+SENT	1818E-GEOGRAFIE,19.306
+1	di	D	די	dy	_
+2	gresti	ADJS	גרעסטי	gresty	_
+3	stet	N	סטעט	stet	_
+4	zeyn	VBF	זײן	zYN	_
+5	in	P	אין	AyN	_
+6	dizin	D	דיזין	dyzyN	_
+7	land	N	לאַנד	lAand	_
+8	:	PUNC	:	:	_
+9	lundin	NPR	לונדין	lvndyN	_
+
+SENT	1818E-GEOGRAFIE,19.307
+1	zi	PRO	זי	zy	_
+2	hat	VBF	האַט	hAat	_
+3	in	P	אין	AyN	_
+4	zikh	PRO	זיך	zyX	_
+5	10000	NUM	10000	10000	_
+6	eyn_vanir	N	אײנ_װאַניר	AYn_VAanyr	_
+
+SENT	1818E-GEOGRAFIE,19.308
+1	eyn	NUM	אײן	AYN	_
+2	meyl	N	מײל	mYl	_
+3	un	CONJ	און	AvN	_
+4	eyn_halb	NUM	אײנ_האַלב	AYn_hAalb	_
+5	iz	VBF	איז	Ayz	_
+6	di	D	די	dy	_
+7	ling	N	לינג	lyng	_
+
+SENT	1818E-GEOGRAFIE,19.309
+1	un	CONJ	און	AvN	_
+2	eyn_halb	NUM	אײנ_האַלב	AYn_hAalb	_
+3	meyl	N	מײל	mYl	_
+4	iz	VBF	איז	Ayz	_
+5	di	D	די	dy	_
+6	breyt	N	ברײט	brYt	_
+7	fun	P	פֿון	fvN	_
+8	stat	N	סטאַט	stAat	_
+
+SENT	1818E-GEOGRAFIE,19.310
+1	das	D	דת	dS	_
+2	kinigreykh	N	קיניגרײך	kynygrYX	_
+3	partugal	NPR	פּאַרטוגאַל	pAartvgAal	_
+
+SENT	1818E-GEOGRAFIE,19.311
+1	di	D	די	dy	_
+2	mdinh	N	מדינה	mdynh	_
+3	fun	P	פֿון	fvN	_
+4	partugal	NPR	פּאַרטוגאַל	pAartvgAal	_
+5	grenitst	VBF	גרעניצט	grenyqt	_
+6	zikh	PRO	זיך	zyX	_
+7	fun	P	פֿון	fvN	_
+8	tsfun	H	צפֿון	qfvN	north
+9	un	CONJ	און	AvN	_
+10	merib	H	מעריב	meryb	west
+11	zeyt	N	זײט	zYt	_
+12	mit	P	מיט	myt	_
+13	spanie	NPR	ספּאַניִע	spAanyie	_
+14	fun	P	פֿון	fvN	_
+15	drum	H	דרום	drvM	south
+16	un	CONJ	און	AvN	_
+17	mzrkh	H	מזרך	mzrX	east
+18	zeyt	N	זײט	zYt	_
+19	mit	P	מיט	myt	_
+20	dem	D	דעם	deM	_
+21	atlantikshe	ADJ	אַטלאַנטיקשע	AatlAantyk$e	_
+22	mer	N	מער	mer	_
+
+SENT	1818E-GEOGRAFIE,19.312
+1	zi	PRO	זי	zy	_
+2	hat	VBF	האַט	hAat	_
+3	in	P	אין	AyN	_
+4	zikh	PRO	זיך	zyX	_
+5	1656	NUM	1656	1656	_
+6	kvadrat_meyl	N	קװאַדראַט_מײל	kVAadrAat_mYl	_
+7	un	CONJ	און	AvN	_
+8	368300	NUM	368300	368300	_
+9	eyn_vauner	N	אײנ_װאַונער	AYn_VAavner	_
+
+SENT	1818E-GEOGRAFIE,20.314
+1	di	D	די	dy	_
+2	hkhnsh	N	הכנש	hxn$	_
+3	udr	CONJ	אודר	Avdr	_
+4	eyn_kunft	N	אײנ_קונפֿט	AYn_kvnft	_
+5	fun	P	פֿון	fvN	_
+6	dr	D	דר	dr	_
+7	mdinh	N	מדינה	mdynh	_
+8	btragt	VBF	בטראַגט	btrAagt	_
+9	39_milian	NUM	39_מיליִאַן	39_mylyiAaN	_
+10	guldn	N	גולדן	gvldN	_
+
+SENT	1818E-GEOGRAFIE,20.315
+1	oykh	ADV	אױך	AWX	_
+2	habn	VBF	האַבן	hAabN	_
+3	zey	PRO	זײ	zY	_
+4	52000	NUM	52000	52000	_
+5	beli_mlkhmut	N	בעלי_מלכמוט	bely_mlxmvt	_
+6	oyf	P	אױף	AWF	_
+7	dr	D	דר	dr	_
+8	ibsh	N	איבש	Ayb$	_
+9	akht_tsinien	NUM	אַכט_ציניִען	Aaxt_qynyieN	_
+10	shifin	N	שיפֿין	$yfyN	_
+11	fuftsehn	NUM	פֿופֿצעהן	fvfqehN	_
+12	fregatin	N	פֿרעגאַטין	fregAatyN	_
+13	un	CONJ	און	AvN	_
+14	1200	NUM	1200	1200	_
+15	meytkes	N	מײטקעס	mYtkes	_
+
+SENT	1818E-GEOGRAFIE,20.316
+1	es	PRO	עס	es	_
+2	teylt	VBF	טײלט	tYlt	_
+3	zikh	PRO	זיך	zyX	_
+4	in	P	אין	AyN	_
+5	tsvey	NUM	צװײ	qVY	_
+6	kinigreykh	N	קיניגרײך	kynygrYX	_
+7	:	PUNC	:	:	_
+8	partugalie	NPR	פּאַרטוגאַליִע	pAartvgAalyie	_
+9	un	CONJ	און	AvN	_
+10	algarbi	NPR	אַלגאַרבי	AalgAarby	_
+
+SENT	1818E-GEOGRAFIE,20.317
+1	di	D	די	dy	_
+2	mdinh	N	מדינה	mdynh	_
+3	partugal	NPR	פּאַרטוגאַל	pAartvgAal	_
+4	hat	VBF	האַט	hAat	_
+5	in	P	אין	AyN	_
+6	zikh	PRO	זיך	zyX	_
+7	finf	NUM	פֿינף	fynF	_
+8	pravintsn	N	פּראַװינצן	prAaVynqN	_
+
+SENT	1818E-GEOGRAFIE,20.318
+1	di	D	די	dy	_
+2	hoypt_stat	N	הױפּט_סטאַט	hWpt_stAat	_
+3	fun	P	פֿון	fvN	_
+4	dr	D	דר	dr	_
+5	gantsr	ADJ	גאַנצר	gAanqr	_
+6	mdinh	N	מדינה	mdynh	_
+7	iz	VBF	איז	Ayz	_
+8	lizban	NPR	ליזבאַן	lyzbAaN	_
+9	bey	P	בײ	bY	_
+10	der	D	דער	der	_
+11	tg	NPR	טג	tg	_
+
+SENT	1818E-GEOGRAFIE,20.319
+1	oykh	ADV	אױך	AWX	_
+2	hat	VBF	האַט	hAat	_
+3	partugal	NPR	פּאַרטוגאַל	pAartvgAal	_
+4	bzitsung	N	בזיצונג	bzyqvng	_
+5	in	P	אין	AyN	_
+6	ali	Q	אַלי	Aaly	_
+7	drey	NUM	דרײ	drY	_
+8	khlkim	N	כלקים	xlkyM	_
+9	fun	P	פֿון	fvN	_
+10	dr	D	דר	dr	_
+11	velt	N	װעלט	Velt	_
+12	in	P	אין	AyN	_
+13	azie	NPR	אַזיִע	Aazyie	_
+14	in	P	אין	AyN	_
+15	amerike	NPR	אַמעריקע	Aameryke	_
+16	un	CONJ	און	AvN	_
+17	in	P	אין	AyN	_
+18	afrike	NPR	אַפֿריקע	Aafryke	_
+19	vas	C	װאַס	VAas	_
+20	es	ES	עס	es	_
+21	giher	VBF	גיהער	gyher	_
+22	dr_tsu	DR+P	דר_צו	dr_qv	_
+23	di	D	די	dy	_
+24	inzl	N	אינזל	Aynzl	_
+25	madera	NPR	מאַדעראַ	mAaderAa	_
+26	fun	P	פֿון	fvN	_
+27	vanen	WADV	װאַנען	VAaneN	_
+28	dr	D	דר	dr	_
+29	gutr	ADJ	גוטר	gvtr	_
+30	veyn	N	װײן	VYN	_
+31	kumt	VBF	קומט	kvmt	_
+32	aroys	ADV	אַרױס	AarWs	_
+33	un	CONJ	און	AvN	_
+34	oykh	ADV	אױך	AWX	_
+35	fil	Q	פֿיל	fyl	_
+36	tsuker	N	צוקער	qvker	_
+
+SENT	1818E-GEOGRAFIE,20.320
+1	das	D	דת	dS	_
+2	kinigreykh	N	קיניגרײך	kynygrYX	_
+3	spanie	NPR	ספּאַניִע	spAanyie	_
+
+SENT	1818E-GEOGRAFIE,20.321
+1	spanie	NPR	ספּאַניִע	spAanyie	_
+2	grenitst	VBF	גרעניצט	grenyqt	_
+3	zikh	PRO	זיך	zyX	_
+4	fun	P	פֿון	fvN	_
+5	tsfun	H	צפֿון	qfvN	north
+6	zeyt	N	זײט	zYt	_
+7	mit	P	מיט	myt	_
+8	frankreykh	NPR	פֿראַנקרײך	frAankrYX	_
+9	fun	P	פֿון	fvN	_
+10	merib	H	מעריב	meryb	west
+11	zeyt	N	זײט	zYt	_
+12	mit	P	מיט	myt	_
+13	frankreykh	NPR	פֿראַנקרײך	frAankrYX	_
+14	un	CONJ	און	AvN	_
+15	mit	P	מיט	myt	_
+16	dem	D	דעם	deM	_
+17	mitlandishn	ADJ	מיטלאַנדישן	mytlAandy$N	_
+18	mer	N	מער	mer	_
+19	fun	P	פֿון	fvN	_
+20	drum	H	דרום	drvM	south
+21	zeyt	N	זײט	zYt	_
+22	mit	P	מיט	myt	_
+23	dem	D	דעם	deM	_
+24	atlantikisin	ADJ	אַטלאַנטיקיסין	AatlAantykysyN	_
+25	mer	N	מער	mer	_
+26	un	CONJ	און	AvN	_
+27	mit	P	מיט	myt	_
+28	dem	D	דעם	deM	_
+29	mitlendishn	ADJ	מיטלענדישן	mytlendy$N	_
+30	mer	N	מער	mer	_
+31	un	CONJ	און	AvN	_
+32	mit	P	מיט	myt	_
+33	dem	D	דעם	deM	_
+34	engin	ADJ	ענגין	engyN	_
+35	mer	N	מער	mer	_
+36	fun	P	פֿון	fvN	_
+37	gibralter	NPR	גיבראַלטער	gybrAalter	_
+38	un	CONJ	און	AvN	_
+39	fun	P	פֿון	fvN	_
+40	mzrkh	H	מזרך	mzrX	east
+41	zeyt	N	זײט	zYt	_
+42	mit	P	מיט	myt	_
+43	dem	D	דעם	deM	_
+44	atlantikisn	ADJ	אַטלאַנטיקיסן	AatlAantykysN	_
+45	mer	N	מער	mer	_
+46	un	CONJ	און	AvN	_
+47	mit	P	מיט	myt	_
+48	partugal	NPR	פּאַרטוגאַל	pAartvgAal	_
+
+SENT	1818E-GEOGRAFIE,20.322
+1	di	D	די	dy	_
+2	gantsi	ADJ	גאַנצי	gAanqy	_
+3	mdinh	N	מדינה	mdynh	_
+4	hat	VBF	האַט	hAat	_
+5	in	P	אין	AyN	_
+6	zikh	PRO	זיך	zyX	_
+7	8910	NUM	8910	8910	_
+8	kvadrat_meyl	N	קװאַדראַט_מײל	kVAadrAat_mYl	_
+9	oykh	ADV	אױך	AWX	_
+10	10351075	NUM	10351075	10351075	_
+11	eyn_vauner	N	אײנ_װאַונער	AYn_VAavner	_
+
+SENT	1818E-GEOGRAFIE,20.323
+1	di	D	די	dy	_
+2	katulishe	ADJ	קאַטולישע	kAatvly$e	_
+3	amune	N	אַמונע	Aamvne	_
+4	iz	VBF	איז	Ayz	_
+5	nar	FP	נאַר	nAar	_
+6	eyni	NUM	אײני	AYny	_
+7	in	P	אין	AyN	_
+8	gantsin	ADJ	גאַנצין	gAanqyN	_
+9	land	N	לאַנד	lAand	_
+
+SENT	1818E-GEOGRAFIE,20.324
+1	veytr	ADV	װײטר	VYtr	_
+2	vert	RDF	װערט	Vert	_
+3	keyn	Q	קײן	kYN	_
+4	andri	N	אַנדרי	Aandry	_
+5	in	P	אין	AyN	_
+6	land	N	לאַנד	lAand	_
+7	nit	NEG	ניט	nyt	_
+8	gilitn	VAN	גיליטן	gylytN	_
+
+SENT	1818E-GEOGRAFIE,20.325
+1	ds	D	דס	ds	_
+2	gantse	ADJ	גאַנצע	gAanqe	_
+3	land	N	לאַנד	lAand	_
+4	spanie	NPR	ספּאַניִע	spAanyie	_
+5	teylt	VBF	טײלט	tYlt	_
+6	zikh	PRO	זיך	zyX	_
+7	in	P	אין	AyN	_
+8	fir_tsehn	NUM	פֿיר_צעהן	fyr_qehN	_
+9	pravintsn	N	פּראַװינצן	prAaVynqN	_
+
+SENT	1818E-GEOGRAFIE,20.326
+1	di	D	די	dy	_
+2	hoypt_stat	N	הױפּט_סטאַט	hWpt_stAat	_
+3	fun	P	פֿון	fvN	_
+4	land	N	לאַנד	lAand	_
+5	iz	VBF	איז	Ayz	_
+6	madrit	NPR	מאַדריט	mAadryt	_
+7	vau	WADV	װאַו	VAav	_
+8	dr	D	דר	dr	_
+9	mlkh	N	מלך	mlX	_
+10	hat	VBF	האַט	hAat	_
+11	zeyn	PRO$	זײן	zYN	_
+12	vaunung	N	װאַונונג	VAavnvng	_
+
+SENT	1818E-GEOGRAFIE,20.327
+1	oykh	ADV	אױך	AWX	_
+2	hat	VBF	האַט	hAat	_
+3	spanie	NPR	ספּאַניִע	spAanyie	_
+4	tsvey	NUM	צװײ	qVY	_
+5	inzlin	N	אינזלין	AynzlyN	_
+6	oyf	P	אױף	AWF	_
+7	dem	D	דעם	deM	_
+8	mitlendsn	ADJ	מיטלענדסן	mytlendsN	_
+9	mer	N	מער	mer	_
+10	mayarka	NPR	מײַאַרקאַ	mYaAarkAa	_
+11	un	CONJ	און	AvN	_
+12	minarka	NPR	מינאַרקאַ	mynAarkAa	_
+13	un	CONJ	און	AvN	_
+14	oykh	ADV	אױך	AWX	_
+15	bzutsung	N	בזוצונג	bzvqvng	_
+16	in	P	אין	AyN	_
+17	azie	NPR	אַזיִע	Aazyie	_
+18	afrike	NPR	אַפֿריקע	Aafryke	_
+19	un	CONJ	און	AvN	_
+20	in	P	אין	AyN	_
+21	amerike	NPR	אַמעריקע	Aameryke	_
+
+SENT	1818E-GEOGRAFIE,21.329
+1	ds	D	דס	ds	_
+2	kinigreykh	N	קיניגרײך	kynygrYX	_
+3	frankreykh	NPR	פֿראַנקרײך	frAankrYX	_
+
+SENT	1818E-GEOGRAFIE,21.330
+1	di	D	די	dy	_
+2	mdinh	N	מדינה	mdynh	_
+3	fun	P	פֿון	fvN	_
+4	frankreykh	NPR	פֿראַנקרײך	frAankrYX	_
+5	grentst	VBF	גרענצט	grenqt	_
+6	zikh	PRO	זיך	zyX	_
+7	fun	P	פֿון	fvN	_
+8	tsfun	H	צפֿון	qfvN	north
+9	zeyt	N	זײט	zYt	_
+10	mit	P	מיט	myt	_
+11	nidr_land	NPR	נידר_לאַנד	nydr_lAand	_
+12	un	CONJ	און	AvN	_
+13	mit	P	מיט	myt	_
+14	dem	D	דעם	deM	_
+15	nard_mer	NPR	נאַרד_מער	nAard_mer	_
+16	fun	P	פֿון	fvN	_
+17	merib	H	מעריב	meryb	west
+18	zeyt	N	זײט	zYt	_
+19	mit	P	מיט	myt	_
+20	dem	D	דעם	deM	_
+21	atlantiksen	ADJ	אַטלאַנטיקסען	AatlAantykseN	_
+22	mer	N	מער	mer	_
+23	un	CONJ	און	AvN	_
+24	mit	P	מיט	myt	_
+25	spanie	NPR	ספּאַניִע	spAanyie	_
+26	fun	P	פֿון	fvN	_
+27	drum	H	דרום	drvM	south
+28	zeyt	N	זײט	zYt	_
+29	mit	P	מיט	myt	_
+30	spanie	NPR	ספּאַניִע	spAanyie	_
+31	un	CONJ	און	AvN	_
+32	mit	P	מיט	myt	_
+33	dem	D	דעם	deM	_
+34	mitlendishn	ADJ	מיטלענדישן	mytlendy$N	_
+35	mer	N	מער	mer	_
+36	un	CONJ	און	AvN	_
+37	fun	P	פֿון	fvN	_
+38	mzrkh	H	מזרך	mzrX	east
+39	zeyt	N	זײט	zYt	_
+40	mit	P	מיט	myt	_
+41	itali	NPR	איטאַלי	AytAaly	_
+42	shveyzer	NPR	שװײזער	$VYzer	_
+43	un	CONJ	און	AvN	_
+44	teytsland	NPR	טײצלאַנד	tYqlAand	_
+
+SENT	1818E-GEOGRAFIE,21.331
+1	zi	PRO	זי	zy	_
+2	hat	VBF	האַט	hAat	_
+3	in	P	אין	AyN	_
+4	zikh	PRO	זיך	zyX	_
+5	9650	NUM	9650	9650	_
+6	kvadrat_meyl	N	קװאַדראַט_מײל	kVAadrAat_mYl	_
+7	oykh	ADV	אױך	AWX	_
+8	29_mileyan	NUM	29_מילײאַן	29_mylYAaN	_
+9	eyn_vauner	N	אײנ_װאַונער	AYn_VAavner	_
+
+SENT	1818E-GEOGRAFIE,21.332
+1	frankreykh	NPR	פֿראַנקרײך	frAankrYX	_
+2	hat	VBF	האַט	hAat	_
+3	150000	NUM	150000	150000	_
+4	beli_mlkhmut	N	בעלי_מלכמוט	bely_mlxmvt	_
+5	oyf	P	אױף	AWF	_
+6	dr	D	דר	dr	_
+7	ibsh	N	איבש	Ayb$	_
+8	fuftsig	NUM	פֿופֿציג	fvfqyg	_
+9	linien_shifn	N	ליניִענ_שיפֿן	lynyien_$yfN	_
+10	fertsig	NUM	פֿערציג	ferqyg	_
+11	fregatin	N	פֿרעגאַטין	fregAatyN	_
+12	khuts	P	חוץ	HvQ	_
+13	kleyni	ADJ	קלײני	klYny	_
+14	shifn	N	שיפֿן	$yfN	_
+
+SENT	1818E-GEOGRAFIE,21.333
+1	in	P	אין	AyN	_
+2	yar	N	יאַר	yAar	_
+3	1789	NUM	1789	1789	_
+4	hat	HVF	האַט	hAat	_
+5	zikh	PRO	זיך	zyX	_
+6	frankreykh	NPR	פֿראַנקרײך	frAankrYX	_
+7	giteylt	VBN	גיטײלט	gytYlt	_
+8	in	P	אין	AyN	_
+9	33	NUM	33	33	_
+10	gruse	ADJ	גרוסע	grvse	_
+11	pravintsies	N	פּראַװינציִעס	prAaVynqyies	_
+
+SENT	1818E-GEOGRAFIE,21.334
+1	itsund	ADV	איצונד	Ayqvnd	_
+2	teylt	VBF	טײלט	tYlt	_
+3	zi	PRO	זי	zy	_
+4	zikh	PRO	זיך	zyX	_
+5	in	P	אין	AyN	_
+6	86	NUM	86	86	_
+7	departeiegsn	N	דעפּאַרטעיִעגסן	depAarteyiegsN	_
+
+SENT	1818E-GEOGRAFIE,21.335
+1	in	P	אין	AyN	_
+2	dr	D	דר	dr	_
+3	zelbr	ADJ	זעלבר	zelbr	_
+4	mlkhmh	N	מלכמה	mlxmh	_
+5	hat	HVF	האַט	hAat	_
+6	frankreykh	NPR	פֿראַנקרײך	frAankrYX	_
+7	fr_loyrn	VBN	פֿר_לױרן	fr_lWrN	_
+8	gants	Q	גאַנץ	gAanQ	_
+9	haland	NPR	האַלאַנד	hAalAand	_
+10	eyn	D	אײן	AYN	_
+11	stik	N	סטיק	styk	_
+12	fun	P	פֿון	fvN	_
+13	teytsh_land	NPR	טײטש_לאַנד	tYt$_lAand	_
+14	oykh	ADV	אױך	AWX	_
+15	itali	NPR	איטאַלי	AytAaly	_
+16	venetie	NPR	װענעטיִע	Venetyie	_
+
+SENT	1818E-GEOGRAFIE,21.336
+1	in	P	אין	AyN	_
+2	alem	Q	אַלעם	AaleM	_
+3	hat	HVF	האַט	hAat	_
+4	frankreykh	NPR	פֿראַנקרײך	frAankrYX	_
+5	fr_larn	VBN	פֿר_לאַרן	fr_lAarN	_
+6	lerkh	H	לערך	lerX	approximately
+7	fun	P	פֿון	fvN	_
+8	13_mileyan	NUM	13_מילײאַן	13_mylYAaN	_
+9	eyn_vauner	N	אײנ_װאַונער	AYn_VAavner	_
+
+SENT	1818E-GEOGRAFIE,21.337
+1	pariz	NPR	פּאַריז	pAaryz	_
+2	iz	VBF	איז	Ayz	_
+3	di	D	די	dy	_
+4	hoypt_stat	N	הױפּט_סטאַט	hWpt_stAat	_
+5	fun	P	פֿון	fvN	_
+6	gantsin	N	גאַנצין	gAanqyN	_
+7	di	D	די	dy	_
+8	vaunung	N	װאַונונג	VAavnvng	_
+9	fun	P	פֿון	fvN	_
+10	mlkh	N	מלך	mlX	_
+
+SENT	1818E-GEOGRAFIE,21.338
+1	di	D	די	dy	_
+2	stat	N	סטאַט	stAat	_
+3	pariz	NPR	פּאַריז	pAaryz	_
+4	hat	VBF	האַט	hAat	_
+5	eyn	D	אײן	AYN	_
+6	um_kreyz	N	אומ_קרײז	Avm_krYz	_
+7	fun	P	פֿון	fvN	_
+8	zibn	NUM	זיבן	zybN	_
+9	meyl	N	מײל	mYl	_
+
+SENT	1818E-GEOGRAFIE,21.339
+1	oykh	ADV	אױך	AWX	_
+2	hat	VBF	האַט	hAat	_
+3	zi	PRO	זי	zy	_
+4	547756	NUM	547756	547756	_
+5	eyn_vauner	N	אײנ_װאַונער	AYn_VAavner	_
+6	zeyer	ADV	זײער	zYer	_
+7	fil	Q	פֿיל	fyl	_
+8	shini	ADJ	שיני	$yny	_
+9	hoyzr	N	הױזר	hWzr	_
+10	un	CONJ	און	AvN	_
+11	palatsin	N	פּאַלאַצין	pAalAaqyN	_
+12	drey	NUM	דרײ	drY	_
+13	akademies	N	אַקאַדעמיִעס	AakAademyies	_
+14	oykh	ADV	אױך	AWX	_
+15	fil	Q	פֿיל	fyl	_
+16	fabrikn	N	פֿאַבריקן	fAabrykN	_
+
+SENT	1818E-GEOGRAFIE,21.340
+1	di	D	די	dy	_
+2	stat	N	סטאַט	stAat	_
+3	versal	NPR	װערסאַל	VersAal	_
+4	iz	VBF	איז	Ayz	_
+5	oykh	ADV	אױך	AWX	_
+6	eyn	D	אײן	AYN	_
+7	gruse	ADJ	גרוסע	grvse	_
+8	un	CONJ	און	AvN	_
+9	eyn	D	אײן	AYN	_
+10	sheyne	ADJ	שײנע	$Yne	_
+11	stat	N	סטאַט	stAat	_
+
+SENT	1818E-GEOGRAFIE,21.341
+1	zi	PRO	זי	zy	_
+2	hat	VBF	האַט	hAat	_
+3	eyn	D	אײן	AYN	_
+4	fabriki	N	פֿאַבריקי	fAabryky	_
+5	fun	P	פֿון	fvN	_
+6	giver	N	גיװער	gyVer	_
+7	kli	H	קלי	kly	tool
+8	zeyn	H	זײן	zYN	UNKNOWN
+9	vas	C	װאַס	VAas	_
+10	es	ES	עס	es	_
+11	iz	VBF	איז	Ayz	_
+12	di	D	די	dy	_
+13	besti	ADJS	בעסטי	besty	_
+14	in	P	אין	AyN	_
+15	gants	ADJ	גאַנץ	gAanQ	_
+16	eaurape	NPR	עאַוראַפּע	eAavrAape	_
+
+SENT	1818E-GEOGRAFIE,21.342
+1	oykh	ADV	אױך	AWX	_
+2	in	P	אין	AyN	_
+3	dr	D	דר	dr	_
+4	stat	N	סטאַט	stAat	_
+5	limn	NPR	לימן	lymN	_
+6	gifinn	VBF	גיפֿינן	gyfynN	_
+7	zikh	PRO	זיך	zyX	_
+8	fil	Q	פֿיל	fyl	_
+9	zeyd_fabrikn	N	זײד_פֿאַבריקן	zYd_fAabrykN	_
+

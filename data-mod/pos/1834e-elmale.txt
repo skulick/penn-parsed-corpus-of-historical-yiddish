@@ -1,0 +1,1976 @@
+SENT	1834E-ELMALE,49.3
+1	a.	LS	אַ.	Aa.	_
+2	al	H	אַל	Aal	God
+3	alhinu	H	אַלהינו	Aalhynv	our_God
+4	slit	H	סליט	slyt	UNKNOWN
+5	beulmu	H	בעולמו	bevlmv	on_world_our
+6	du	PRO	דו	dv	_
+7	bist	VBF	ביסט	byst	_
+8	der	D	דער	der	_
+9	got	NPR	גאָט	gAot	_
+10	fun	P	פֿון	fvN	_
+11	dr	D	דר	dr	_
+12	gantsr	ADJ	גאַנצר	gAanqr	_
+13	velt	N	װעלט	Velt	_
+
+SENT	1834E-ELMALE,49.4
+1-2	hastu	HVF~PRO	האַסטו	hAastv	_
+1	has	HVF	האַס	hAas	_
+2	tu	PRO	טו	tv	_
+3	den	ADV	דען	deN	_
+4	far_koyft	VBN	פֿאַר_קױפֿט	fAar_kWft	_
+5	unz	PRO	אונז	Avnz	_
+6	on	P	אָן	AoN	_
+7	gelt	N	געלט	gelt	_
+
+SENT	1834E-ELMALE,49.5
+1	ey	C	אײ	AY	_
+2	du	PRO	דו	dv	_
+3	hast	HVF	האַסט	hAast	_
+4	di	D	די	dy	_
+5	velt	N	װעלט	Velt	_
+6	bashafin	VBN	באַשאַפֿין	bAa$AafyN	_
+7-8	hastu	HVF~PRO	האַסטו	hAastv	_
+7	has	HVF	האַס	hAas	_
+8	tu	PRO	טו	tv	_
+9	dakh	ADV	דאַך	dAaX	_
+10	fun	P	פֿון	fvN	_
+11	unzern	PRO$	אונזערן	AvnzerN	_
+12	vegin	N	װעגין	VegyN	_
+13	dem	D	דעם	deM	_
+14	ym	N	ים	yM	_
+15	gishpaltin	VBN	גישפּאַלטין	gy$pAaltyN	_
+
+SENT	1834E-ELMALE,49.6
+1	un	CONJ	און	AvN	_
+2	hast	HVF	האַסט	hAast	_
+3	unz	PRO	אונז	Avnz	_
+4	gigebin	VBN	גיגעבין	gygebyN	_
+5	di	D	די	dy	_
+6	turh	NPR	טורה	tvrh	_
+7	vas	C	װאַס	VAas	_
+8	zi	PRO	זי	zy	_
+9	heybt	VBF	הײבט	hYbt	_
+10	zikh	PRO	זיך	zyX	_
+11	an	RP	אַן	AaN	_
+12	mit	P	מיט	myt	_
+13	dem	D	דעם	deM	_
+14	b	N	ב	b	_
+
+SENT	1834E-ELMALE,49.7
+1	un	CONJ	און	AvN	_
+2	mir	PRO	מיר	myr	_
+3	habin	HVF	האַבין	hAabyN	_
+4	dem	D	דעם	deM	_
+5	berg	N	בערג	berg	_
+6	sini	NPR	סיני	syny	_
+7	arum	ADV	אַרום	AarvM	_
+8	giringlt	VBN	גירינגלט	gyrynglt	_
+9	vi	P	װי	Vy	_
+10	eyn	D	אײן	AYN	_
+11	kroyn	N	קרױן	krWN	_
+
+SENT	1834E-ELMALE,49.8
+1	un	CONJ	און	AvN	_
+2	das	D	דת	dS	_
+3	iz	BEF	איז	Ayz	_
+4	alts	Q	אַלץ	AalQ	_
+5	fun	P	פֿון	fvN	_
+6	unzern	PRO$	אונזערן	AvnzerN	_
+7	vegin	N	װעגין	VegyN	_
+8	givezin	VBN	גיװעזין	gyVezyN	_
+9	az	C	אַז	Aaz	_
+10	mir	PRO	מיר	myr	_
+11	zalin	MDF	זאַלין	zAalyN	_
+12	zeyn	BE	זײן	zYN	_
+13	fun	P	פֿון	fvN	_
+14	toyt	N	טױט	tWt	_
+15	genezin	VX	גענעזין	genezyN	_
+
+SENT	1834E-ELMALE,49.9
+1	un	CONJ	און	AvN	_
+2	heynt	ADV	הײנט	hYnt	_
+3	rbinu	H	רבינו	rbynv	rabbi_our
+4	sl	H	סל	sl	of
+5	eulm	H	עולם	evlM	world
+6	du	PRO	דו	dv	_
+7	hast	HVF	האַסט	hAast	_
+8	unzeri	PRO$	אונזערי	Avnzery	_
+9	leyt	N	לײט	lYt	_
+10	in	P	אין	AyN	_
+11	di	D	די	dy	_
+12	pukhzim	N	פּוכזים	pvxzyM	_
+13	hent	N	הענט	hent	_
+14	areyn	ADV	אַרײן	AarYN	_
+15	gigebin	VBN	גיגעבין	gygebyN	_
+16	az	C	אַז	Aaz	_
+17	zey	PRO	זײ	zY	_
+18	zalin	MDF	זאַלין	zAalyN	_
+19	unz	PRO	אונז	Avnz	_
+20	breyngn	VB	ברײנגן	brYngN	_
+21	fun	P	פֿון	fvN	_
+22	unzr	PRO$	אונזר	Avnzr	_
+23	lebin	N	לעבין	lebyN	_
+
+SENT	1834E-ELMALE,49.10
+1	b.	LS	ב.	b.	_
+2	bvdai	ADV	בװדאַיִ	bVdAayi	_
+3	iz	BEF	איז	Ayz	_
+4	das	D	דת	dS	_
+5	um_zist	ADV	אומ_זיסט	Avm_zyst	_
+6	nit	NEG	ניט	nyt	_
+7	givezin	VBN	גיװעזין	gyVezyN	_
+8	az	C	אַז	Aaz	_
+9	di	D	די	dy	_
+10	ihudim	N	איהודים	AyhvdyM	_
+11	habin	HVF	האַבין	hAabyN	_
+12	nit	NEG	ניט	nyt	_
+13	gikent	MDN	גיקענט	gykent	_
+14	ptur	RP-H	פּטור	ptvr	_
+15	verin	VB	װערין	VeryN	_
+16	fun	P	פֿון	fvN	_
+17	dem	D	דעם	deM	_
+18	bitern	ADJ	ביטערן	byterN	_
+19	toyt	N	טױט	tWt	_
+
+SENT	1834E-ELMALE,50.12
+1	un	CONJ	און	AvN	_
+2-3	lomir	VBI~PRO	לאָמיר	lAomyr	_
+2	lo	VBI	לאָ	lAo	_
+3	mir	PRO	מיר	myr	_
+4	gideynkn	VB	גידײנקן	gydYnkN	_
+5	az	C	אַז	Aaz	_
+6	durkh	P	דורך	dvrX	_
+7	msh	NPR	מש	m$	_
+8	rbinu	NPR	רבינו	rbynv	_
+9	eliu	H	עליִו	elyiv	on_him
+10	hshm	H	השם	h$M	the_peace
+11	hat	HVF	האַט	hAat	_
+12	men	PRO	מען	meN	_
+13	unz	PRO	אונז	Avnz	_
+14	gitan	DON	גיטאַן	gytAaN	_
+15	unzir	PRO$	אונזיר	Avnzyr	_
+16	lebin	N	לעבין	lebyN	_
+17	seynkin	VB	סײנקין	sYnkyN	_
+
+SENT	1834E-ELMALE,50.13
+1	az	C	אַז	Aaz	_
+2	msh	NPR	מש	m$	_
+3	rbinu	H	רבינו	rbynv	rabbi_our
+4	hat	HVF	האַט	hAat	_
+5	gitan	DON	גיטאַן	gytAaN	_
+6	oyf	P	אױף	AWF	_
+7	dem	D	דעם	deM	_
+8	barg	N	באַרג	bAarg	_
+9	sini	NPR	סיני	syny	_
+10	geyn	VB	גײן	gYN	_
+11	un	CONJ	און	AvN	_
+12	hat	HVF	האַט	hAat	_
+13	far	P	פֿאַר	fAar	_
+14	hshm	H	השם	h$M	the_name
+15	itbrkh	H	איטברך	AytbrX	may_be_blessed
+16	fertsig	NUM	פֿערציג	ferqyg	_
+17	teg	N	טעג	teg	_
+18	gitan	DON	גיטאַן	gytAaN	_
+19	steyn	VB	סטײן	stYN	_
+20	azoy	ADV	אַזױ	AazW	_
+21	hat	HVF	האַט	hAat	_
+22	der	D	דער	der	_
+23	stn	N	סטן	stN	_
+24	givizin	VBN	גיװיזין	gyVyzyN	_
+25	di	D	די	dy	_
+26	yudin	N	יודין	yvdyN	_
+27	gleykh	ADV	גלײך	glYX	_
+28	vi	WADV	װי	Vy	_
+29	men	PRO	מען	meN	_
+30	tragt	VBF	טראַגט	trAagt	_
+31	msh	NPR	מש	m$	_
+32	rbinu	H	רבינו	rbynv	rabbi_our
+33	untr	P	אונטר	Avntr	_
+34	dem	D	דעם	deM	_
+35	himl	N	הימל	hyml	_
+36	oyf	P	אױף	AWF	_
+37	eyn	D	אײן	AYN	_
+38	mth	N	מטה	mth	_
+
+SENT	1834E-ELMALE,50.14
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	stn	N	סטן	stN	_
+4	hat	HVF	האַט	hAat	_
+5	das	D	דת	dS	_
+6	unmistin	H	אונמיסטין	AvnmystyN	UNKNOWN
+7	umisne	H	אומיסנע	Avmysne	UNKNOWN
+8	gitan	VBN	גיטאַן	gytAaN	_
+9	er	PRO	ער	er	_
+10	zal	MDF	ז"ל	z"l	_
+11	bakumn	VB	באַקומן	bAakvmN	_
+12	ibr	P	איבר	Aybr	_
+13	zey	PRO	זײ	zY	_
+14	di	D	די	dy	_
+15	slith	N	סליטה	slyth	_
+
+SENT	1834E-ELMALE,50.15
+1	azoy	ADV	אַזױ	AazW	_
+2	hat	HVF	האַט	hAat	_
+3	der	D	דער	der	_
+4	stn	N	סטן	stN	_
+5	der_hitst	VBN	דער_היצט	der_hyqt	_
+6	zeyeri	PRO$	זײערי	zYery	_
+7	nirin	N	נירין	nyryN	_
+
+SENT	1834E-ELMALE,50.16
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	hat	HVF	האַט	hAat	_
+4	zey	PRO	זײ	zY	_
+5	givalt	MDN	גיװאַלט	gyVAalt	_
+6	fun	P	פֿון	fvN	_
+7	yudishin	ADJ	יודישין	yvdy$yN	_
+8	dt	N	דט	dt	_
+9	arop	ADV	אַראָפּ	AarAop	_
+10	firin	VB	פֿירין	fyryN	_
+
+SENT	1834E-ELMALE,50.17
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	ihudim	N	איהודים	AyhvdyM	_
+4	habin	HVF	האַבין	hAabyN	_
+5	an	RP	אַן	AaN	_
+6	gihoybin	VBN	גיהױבין	gyhWbyN	_
+7	tantsin	VB	טאַנצין	tAanqyN	_
+8	un	CONJ	און	AvN	_
+9	lakhin	VB	לאַכין	lAaxyN	_
+
+SENT	1834E-ELMALE,50.18
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	gitan	DON	גיטאַן	gytAaN	_
+4	dinin	VB	דינין	dynyN	_
+5	di	D	די	dy	_
+6	ebudh	H	עבודה	ebvdh	work
+7	zrh	H	זרה	zrh	strange
+
+SENT	1834E-ELMALE,50.19
+1	drum	DR+P	דרום	drvM	_
+2	hot	HVF	האָט	hAot	_
+3	hsm	H	הסם	hsM	the_name
+4	itbrkh	H	איטברך	AytbrX	may_be_blessed
+5	gitan	DON	גיטאַן	gytAaN	_
+6	varfin	VB	װאַרפֿין	VAarfyN	_
+7	di	D	די	dy	_
+8	khtaim	N	כטאַיִם	xtAayiM	_
+9	oyf	P	אױף	AWF	_
+10	ali	Q	אַלי	Aaly	_
+11	durut	N	דורוט	dvrvt	_
+
+SENT	1834E-ELMALE,50.20
+1	dort	ADV	דאָרט	dAort	_
+2	hot	HVF	האָט	hAot	_
+3	men	PRO	מען	meN	_
+4	givarfin	VBN	גיװאַרפֿין	gyVAarfyN	_
+5	bk"k	H	בק"ק	bk"k	in_community_holy
+6	umn	NPR	אומן	AvmN	_
+7	mann	N	מאַנן	mAanN	_
+8	un	CONJ	און	AvN	_
+9	veybr	N	װײבר	VYbr	_
+10	un	CONJ	און	AvN	_
+11	kindr	N	קינדר	kyndr	_
+12	in	P	אין	AyN	_
+13	di	D	די	dy	_
+14	brunin	N	ברונין	brvnyN	_
+
+SENT	1834E-ELMALE,50.21
+1	g.	LS	ג.	g.	_
+2	gdul	H	גדול	gdvl	great
+3	euni	H	עוני	evny	UNKNOWN
+4	mnsa	H	מנסאַ	mnsAa	UNKNOWN
+5	vi	WADV	װי	Vy	_
+6	groys	ADJ	גרױס	grWs	_
+7	kenin	VBF	קענין	kenyN	_
+8	unzri	PRO$	אונזרי	Avnzry	_
+9	zind	N	זינד	zynd	_
+10	tsu	TO	צו	qv	_
+11	tragin	VB	טראַגין	trAagyN	_
+
+SENT	1834E-ELMALE,50.22
+1	un	CONJ	און	AvN	_
+2	es	ES	עס	es	_
+3	iz	BEF	איז	Ayz	_
+4	oyf	P	אױף	AWF	_
+5	unz	PRO	אונז	Avnz	_
+6	der	D	דער	der	_
+7	psuk	N	פּסוק	psvk	_
+8	mkoym	RP-H	מקױם	mkWM	_
+9	givarin	VBN	גיװאַרין	gyVAaryN	_
+
+SENT	1834E-ELMALE,50.23
+1	ir	PRO	איר	Ayr	_
+2	vet	MDF	װעט	Vet	_
+3	tan	DO	טאַן	tAaN	_
+4-5	umloyfin	RP~VB	אומלױפֿין	AvmlWfyN	_
+4	um	RP	אום	AvM	_
+5	loyfin	VB	לױפֿין	lWfyN	_
+
+SENT	1834E-ELMALE,50.24
+1	un	CONJ	און	AvN	_
+2	keyn	Q	קײן	kYN	_
+3	mensh	N	מענש	men$	_
+4	vet	MDF	װעט	Vet	_
+5	oykh	PRO	אױך	AWX	_
+6	nit	NEG	ניט	nyt	_
+7	nakh	RP	נ"ך	n"X	_
+8	yagin	VB	יאַגין	yAagyN	_
+
+SENT	1834E-ELMALE,50.25
+1	den	CONJ	דען	deN	_
+2	in	P	אין	AyN	_
+3	tutoyb	N	טוטױב	tvtWb	_
+4	hat	HVF	האַט	hAat	_
+5	zikh	PRO	זיך	zyX	_
+6	an	RP	אַן	AaN	_
+7	gihoybin	VBN	גיהױבין	gyhWbyN	_
+8	di	D	די	dy	_
+9	gzrh	N	גזרה	gzrh	_
+
+SENT	1834E-ELMALE,50.26
+1	oykh	ADV	אױך	AWX	_
+2	oyf	P	אױף	AWF	_
+3	kmh	H	קמה	kmh	a_few
+4	khlut	H	כלוט	xlvt	communities
+5	iz	BEF	איז	Ayz	_
+6	given	VBN	גיװען	gyVeN	_
+7	di	D	די	dy	_
+8	tsrh	N	צרה	qrh	_
+
+SENT	1834E-ELMALE,50.27
+1	drum	DR+P	דרום	drvM	_
+2	betin	VBF	בעטין	betyN	_
+3	mir	PRO	מיר	myr	_
+4	rbinu	H	רבינו	rbynv	rabbi_our
+5	shl	H	של	$l	of
+6	eulm	H	עולם	evlM	world
+7	du	PRO	דו	dv	_
+8	zalst	MDF	זאַלסט	zAalst	_
+9	an	P	אַן	AaN	_
+10	di	D	די	dy	_
+11	rseim	N	רסעיִם	rseyiM	_
+12	habin	VB	האַבין	hAabyN	_
+13	eyn	D	אײן	AYN	_
+14	nkmh	N	נקמה	nkmh	_
+
+SENT	1834E-ELMALE,50.28
+1	den	CONJ	דען	deN	_
+2	in	P	אין	AyN	_
+3	di	D	די	dy	_
+4	mdinh	N	מדינה	mdynh	_
+5	ukreyna	NPR	אוקרײנאַ	AvkrYnAa	_
+6	iz	BEF	איז	Ayz	_
+7	nit	NEG	ניט	nyt	_
+8	giblibin	VBN	גיבליבין	gyblybyN	_
+9	fun	P	פֿון	fvN	_
+10	di	D	די	dy	_
+11	ihudim	N	איהודים	AyhvdyM	_
+12	eyn	D	אײן	AYN	_
+13	lebedigi	ADJ	לעבעדיגי	lebedygy	_
+14	nshmh	N	נשמה	n$mh	_
+
+SENT	1834E-ELMALE,50.29
+1	d.	LS	ד.	d.	_
+2	dinim	H	דינים	dynyM	laws
+3	ksim	H	קסים	ksyM	UNKNOWN
+4	umrim	H	אומרים	AvmryM	and_UNKNOWN
+5	habin	HVF	האַבין	hAabyN	_
+6	zey	PRO	זײ	zY	_
+7	nebikh	INTJ	נעביך	nebyX	_
+8	fun	P	פֿון	fvN	_
+9	dem	D	דעם	deM	_
+10	libin	ADJ	ליבין	lybyN	_
+11	hshm	H	השם	h$M	the_name
+12	itbrkh	H	איטברך	AytbrX	may_be_blessed
+13	vegin	N	װעגין	VegyN	_
+14	mkbl	RP-H	מקבל	mkbl	_
+15	givezin	VBN	גיװעזין	gyVezyN	_
+16	bahbh	H	באַהבה	bAahbh	UNKNOWN
+
+SENT	1834E-ELMALE,50.30
+1	un	CONJ	און	AvN	_
+2	zey	PRO	זײ	zY	_
+3	habin	HVF	האַבין	hAabyN	_
+4	{eyner}	PRO	{אײנער}	{AYner}	_
+5	tsu	P	צו	qv	_
+6	dem	D	דעם	deM	_
+7	andrn	ADJ	אַנדרן	AandrN	_
+8	gizagt	VBN	גיזאַגט	gyzAagt	_
+9-10	lomir	VBI~PRO	לאָמיר	lAomyr	_
+9	lo	VBI	לאָ	lAo	_
+10	mir	PRO	מיר	myr	_
+11	eyn	D	אײן	AYN	_
+12	kleyni	ADJ	קלײני	klYny	_
+13	seh	H	סעה	seh	time
+14	nshmh	H	נשמה	n$mh	soul
+15	leydin	VB	לײדין	lYdyN	_
+16	oyb	C	אױב	AWb	_
+17	mir	PRO	מיר	myr	_
+18	velin	MDF	װעלין	VelyN	_
+19	habin	VB	האַבין	hAabyN	_
+20	eulm_hba	N	עולמ_הבאַ	evlm_hbAa	_
+
+SENT	1834E-ELMALE,50.31
+1	den	CONJ	דען	deN	_
+2	das	D	דת	dS	_
+3	hat	HVF	האַט	hAat	_
+4	alts	Q	אַלץ	AalQ	_
+5	gimakht	VBN	גימאַכט	gymAaxt	_
+6	unzri	PRO$	אונזרי	Avnzry	_
+7	khtaim	N	כטאַיִם	xtAayiM	_
+
+SENT	1834E-ELMALE,50.32
+1	libe	ADJ	ליבע	lybe	_
+2	bridr	N	ברידר	brydr	_
+3	vi	INTJ	װי	Vy	_
+4	vos	WPRO	װאָס	VAos	_
+5	zeynin	VBF	זײנין	zYnyN	_
+6	unzri	PRO$	אונזרי	Avnzry	_
+7	tnaim	N	טנאַיִם	tnAayiM	_
+
+SENT	1834E-ELMALE,50.33
+1	der_mant	VBI	דער_מאַנט	der_mAant	_
+2	eykh	PRO	אײך	AYX	_
+3	ven	C	װען	VeN	_
+4	men	PRO	מען	meN	_
+5	hat	HVF	האַט	hAat	_
+6	eyn	D	אײן	AYN	_
+7	mens	N	מענס	mens	_
+8	um	RP	אום	AvM	_
+9	gibrakht	VBN	גיבראַכט	gybrAaxt	_
+10	azoy	ADV	אַזױ	AazW	_
+11	hat	HVF	האַט	hAat	_
+12	di	D	די	dy	_
+13	gantsi	ADJ	גאַנצי	gAanqy	_
+14	velt	N	װעלט	Velt	_
+15	giveynt	VBN	גיװײנט	gyVYnt	_
+16	un	CONJ	און	AvN	_
+17	giklagt	VBN	גיקלאַגט	gyklAagt	_
+
+SENT	1834E-ELMALE,50.34
+1	itsund	ADV	איצונד	Ayqvnd	_
+2	zeynin	BEF	זײנין	zYnyN	_
+3	um	RP	אום	AvM	_
+4	gikumn	VBN	גיקומן	gykvmN	_
+5	fil	Q	פֿיל	fyl	_
+6	tnaim	N	טנאַיִם	tnAayiM	_
+7	vas	C	װאַס	VAas	_
+8	men	PRO	מען	meN	_
+9	veyst	VBF	װײסט	VYst	_
+10	gar_nit	NEG	גאַר_ניט	gAar_nyt	_
+11	varum	WPRO+P	װאַרום	VAarvM	_
+12	zeyer	PRO$	זײער	zYer	_
+13	deh	N	דעה	deh	_
+14	iz	BEF	איז	Ayz	_
+15	givezin	VBN	גיװעזין	gyVezyN	_
+16	an	RP	אַן	AaN	_
+17	tsu	TO	צו	qv	_
+18	falin	VB	פֿאַלין	fAalyN	_
+19	oyf	P	אױף	AWF	_
+20	brod	N	בראָד	brAod	_
+
+SENT	1834E-ELMALE,50.35
+1	valt	VLF	װאַלט	VAalt	_
+2	hshm	H	השם	h$M	the_name
+3	itbrkh	H	איטברך	AytbrX	may_be_blessed
+4	nit	NEG	ניט	nyt	_
+5	gisheynkt	VBN	גישײנקט	gy$Ynkt	_
+6	dem	D	דעם	deM	_
+7	khsid	N	כסיד	xsyd	_
+8	fan	NPR	פֿאַן	fAaN	_
+9	barntski	NPR	באַרנצקי	bAarnqky	_
+10	valt	VLF	װאַלט	VAalt	_
+11	hlilh	INTJ	הלילה	hlylh	_
+12	given	VBN	גיװען	gyVeN	_
+13	azoy	ADV	אַזױ	AazW	_
+14	vi	P	װי	Vy	_
+15	gzirh	H	גזירה	gzyrh	decree
+16	khmil	NPR	כמיל	xmyl	_
+17	im"s	H	אימ"ס	Aym"s	may_be_erased_name
+
+SENT	1834E-ELMALE,50.36
+1	hshm	H	השם	h$M	the_name
+2	itbrkh	H	איטברך	AytbrX	may_be_blessed
+3	hat	HVF	האַט	hAat	_
+4	unz	PRO	אונז	Avnz	_
+5	gihaltin	VBN	גיהאַלטין	gyhAaltyN	_
+6	in	P	אין	AyN	_
+7	ali	Q	אַלי	Aaly	_
+8	tseytin	N	צײטין	qYtyN	_
+
+SENT	1834E-ELMALE,50.37
+1	men	PRO	מען	meN	_
+2	hat	HVF	האַט	hAat	_
+3	di	D	די	dy	_
+4	pukhzim	N	פּוכזים	pvxzyM	_
+5	gitan	DON	גיטאַן	gytAaN	_
+6	toytin	VB	טױטין	tWtyN	_
+7	oyf	P	אױף	AWF	_
+8	tsu	TO	צו	qv	_
+9	heyngn	VB	הײנגן	hYngN	_
+
+SENT	1834E-ELMALE,50.38
+1	hat	HVF	האַט	hAat	_
+2	men	PRO	מען	meN	_
+3	zey	PRO	זײ	zY	_
+4	gifirt	VBN	גיפֿירט	gyfyrt	_
+5	in	P	אין	AyN	_
+6	itlikhs	Q	איטליכס	Aytlyxs	_
+7	stat	N	סטאַט	stAat	_
+8	meylin	X	מײלין	mYlyN	_
+
+SENT	1834E-ELMALE,50.39
+1	abr	CONJ	אַבר	Aabr	_
+2	unzri	PRO$	אונזרי	Avnzry	_
+3	vndin	N	װנדין	VndyN	_
+4	habin	HVF	האַבין	hAabyN	_
+5	zikh	PRO	זיך	zyX	_
+6	nit	NEG	ניט	nyt	_
+7	gitan	DON	גיטאַן	gytAaN	_
+8	far_heylin	VB	פֿאַר_הײלין	fAar_hYlyN	_
+
+SENT	1834E-ELMALE,50.40
+1	h.	LS	ה.	h.	_
+2	hla	H	הלאַ	hlAa	is_it_not
+3	lmsme	H	למסמע	lmsme	to_hearing_of
+4	azn	H	אַזן	AazN	ear
+5	dabh	H	דאַבה	dAabh	grieved_she
+6	npsnu	H	נפּסנו	npsnv	souls_our
+7	ven	C	װען	VeN	_
+8	men	PRO	מען	meN	_
+9	hert	VBF	הערט	hert	_
+10	das	D	דת	dS	_
+11	tut	VBF	טוט	tvt	_
+12	unz	PRO	אונז	Avnz	_
+13	vey	RP-N	װײ	VY	_
+14	unzri	PRO$	אונזרי	Avnzry	_
+15	leybr	N	לײבר	lYbr	_
+16	az	C	אַז	Aaz	_
+17	men	PRO	מען	meN	_
+18	hat	HVF	האַט	hAat	_
+19	mtmh	RP-H	מטמה	mtmh	_
+20	given	VBN	גיװען	gyVeN	_
+21	fil	Q	פֿיל	fyl	_
+22	veybr	N	װײבר	VYbr	_
+
+SENT	1834E-ELMALE,51.42
+1	bvdai	ADV	בװדאַיִ	bVdAayi	_
+2	zeynin	BEF	זײנין	zYnyN	_
+3	mir	PRO	מיר	myr	_
+4	zindigr	N	זינדיגר	zyndygr	_
+5	givezin	VBN	גיװעזין	gyVezyN	_
+
+SENT	1834E-ELMALE,51.43
+1	ven	C	װען	VeN	_
+2	du	PRO	דו	dv	_
+3	hast	HVF	האַסט	hAast	_
+4	gitan	DON	גיטאַן	gytAaN	_
+5	shveygin	VB	שװײגין	$VYgyN	_
+6	az	C	אַז	Aaz	_
+7	zey	PRO	זײ	zY	_
+8	habin	HVF	האַבין	hAabyN	_
+9	gikoylet	VBN	גיקױלעט	gykWlet	_
+10	veybr	N	װײבר	VYbr	_
+11	un	CONJ	און	AvN	_
+12	zeygindiki	ADJ	זײגינדיקי	zYgyndyky	_
+13	kindr	N	קינדר	kyndr	_
+14	zeynin	BEF	זײנין	zYnyN	_
+15	oyf	P	אױף	AWF	_
+16	dem	D	דעם	deM	_
+17	shoys	N	שױס	$Ws	_
+18	gizesin	VBN	גיזעסין	gyzesyN	_
+
+SENT	1834E-ELMALE,51.44
+1	vi	WADV	װי	Vy	_
+2	fil	Q	פֿיל	fyl	_
+3	ihudim	N	איהודים	AyhvdyM	_
+4	kindr	N	קינדר	kyndr	_
+5	hat	HVF	האַט	hAat	_
+6	men	PRO	מען	meN	_
+7	dem	D	דעם	deM	_
+8	zumr	N	זומר	zvmr	_
+9	gitan	DON	גיטאַן	gytAaN	_
+10	avek	RP-ADV	אַװעק	AaVek	_
+11	leygin	VB	לײגין	lYgyN	_
+
+SENT	1834E-ELMALE,51.45
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	kleyni	ADJ	קלײני	klYny	_
+4	kindr	N	קינדר	kyndr	_
+5	habin	HVF	האַבין	hAabyN	_
+6	fun	P	פֿון	fvN	_
+7	di	D	די	dy	_
+8	toyte	ADJ	טױטע	tWte	_
+9	mutr	N	מוטר	mvtr	_
+10	gitan	DON	גיטאַן	gytAaN	_
+11	zeygin	VB	זײגין	zYgyN	_
+12	vi	WADV	װי	Vy	_
+13	di	D	די	dy	_
+14	kindr	N	קינדר	kyndr	_
+15	habin	HVF	האַבין	hAabyN	_
+16	di	D	די	dy	_
+17	brust	N	ברוסט	brvst	_
+18	gitsoygin	VBN	גיצױגין	gyqWgyN	_
+
+SENT	1834E-ELMALE,51.46
+1	un	CONJ	און	AvN	_
+2	milkh	N	מילך	mylX	_
+3	hat	HVF	האַט	hAat	_
+4	nit	NEG	ניט	nyt	_
+5	givalt	MDN	גיװאַלט	gyVAalt	_
+6	geyn	VB	גײן	gYN	_
+
+SENT	1834E-ELMALE,51.47
+1	un	CONJ	און	AvN	_
+2	tsvishin	P	צװישין	qVy$yN	_
+3	di	D	די	dy	_
+4	kindr	N	קינדר	kyndr	_
+5	iz	BEF	איז	Ayz	_
+6	givarin	VBN	גיװאַרין	gyVAaryN	_
+7	a	D	אַ	Aa	_
+8	groys	ADJ	גרױס	grWs	_
+9	giveyn	N	גיװײן	gyVYN	_
+
+SENT	1834E-ELMALE,51.48
+1	der	D	דער	der	_
+2	zkhut	N	זכוט	zxvt	_
+3	fun	P	פֿון	fvN	_
+4	di	D	די	dy	_
+5	kleyni	ADJ	קלײני	klYny	_
+6	kindr	N	קינדר	kyndr	_
+7	zal	MDF	ז"ל	z"l	_
+8	unz	PRO	אונז	Avnz	_
+9	bey	RP	בײ	bY	_
+10	steyn	VB	סטײן	stYN	_
+11	az	C	אַז	Aaz	_
+12	men	PRO	מען	meN	_
+13	zal	MDF	ז"ל	z"l	_
+14	zehin	VB	זעהין	zehyN	_
+15	an	P	אַן	AaN	_
+16	di	D	די	dy	_
+17	pkhzim	N	פּכזים	pxzyM	_
+18	eyn	D	אײן	AYN	_
+19	groysi	ADJ	גרױסי	grWsy	_
+20	nkmh	N	נקמה	nkmh	_
+
+SENT	1834E-ELMALE,51.49
+1	varum	CONJ	װאַרום	VAarvM	_
+2	di	D	די	dy	_
+3	kleyni	ADJ	קלײני	klYny	_
+4	kindr	N	קינדר	kyndr	_
+5	habin	HVF	האַבין	hAabyN	_
+6	azoy	ADV	אַזױ	AazW	_
+7	lang	ADV	לאַנג	lAang	_
+8	giveynt	VBN	גיװײנט	gyVYnt	_
+9	biz	C	ביז	byz	_
+10	es	ES	עס	es	_
+11	iz	BEF	איז	Ayz	_
+12	zey	PRO	זײ	zY	_
+13	aroys	ADV	אַרױס	AarWs	_
+14	gigangin	VBN	גיגאַנגין	gygAangyN	_
+15	di	D	די	dy	_
+16	nsmh	N	נסמה	nsmh	_
+
+SENT	1834E-ELMALE,51.50
+1	di	D	די	dy	_
+2	tragendike	ADJ	טראַגענדיקע	trAagendyke	_
+3	veyber	N	װײבער	VYber	_
+4	habin	HVF	האַבין	hAabyN	_
+5	zey	PRO	זײ	zY	_
+6	di	D	די	dy	_
+7	beykhr	N	בײכר	bYxr	_
+8	oyf	RP	אױף	AWF	_
+9	gispaltin	VBN	גיספּאַלטין	gyspAaltyN	_
+
+SENT	1834E-ELMALE,51.51
+1	kets	N	קעץ	keQ	_
+2	un	CONJ	און	AvN	_
+3	meyz	N	מײז	mYz	_
+4	habin	HVF	האַבין	hAabyN	_
+5	zey	PRO	זײ	zY	_
+6	in	P	אין	AyN	_
+7	di	D	די	dy	_
+8	beykhr	N	בײכר	bYxr	_
+9	areyn	ADV	אַרײן	AarYN	_
+10	gitan	VBN	גיטאַן	gytAaN	_
+
+SENT	1834E-ELMALE,51.52
+1	u.	LS	או.	Av.	_
+2	u	H	או	Av	and
+3	akhr	H	אַכר	Aaxr	after
+4	zh	H	זש	z$	this
+5	nakh	P	נ"ך	n"X	_
+6	dem_dozign	D	דעמ_דאָזיגן	dem_dAozygN	_
+7	az	C	אַז	Aaz	_
+8	di	D	די	dy	_
+9	rseim	N	רסעיִם	rseyiM	_
+10	habin	HVF	האַבין	hAabyN	_
+11	azoy	ADV	אַזױ	AazW	_
+12	eyn	D	אײן	AYN	_
+13	hrigh	N	הריגה	hrygh	_
+14	gimakht	VBN	גימאַכט	gymAaxt	_
+15	un	CONJ	און	AvN	_
+16	habin	HVF	האַבין	hAabyN	_
+17	fil	Q	פֿיל	fyl	_
+18	gutts	N	גוטץ	gvtQ	_
+19	bakumn	VBN	באַקומן	bAakvmN	_
+20	habin	HVF	האַבין	hAabyN	_
+21	zey	PRO	זײ	zY	_
+22	eyn	D	אײן	AYN	_
+23	etsh	N	עטש	et$	_
+24	gihaltin	VBN	גיהאַלטין	gyhAaltyN	_
+25	vi	WADV	װי	Vy	_
+26	zey	PRO	זײ	zY	_
+27	zalin	MDF	זאַלין	zAalyN	_
+28	eyn	RP	אײן	AYN	_
+29	nemen	VB	נעמען	nemeN	_
+30	di	D	די	dy	_
+31	stat	N	סטאַט	stAat	_
+32	umn	NPR	אומן	AvmN	_
+
+SENT	1834E-ELMALE,51.53
+1	z.	LS	ז.	z.	_
+2	zkhur	H	זכור	zxvr	remember
+3	lnu	H	לנו	lnv	to_us
+4	.	PUNC	.	.	_
+5	brit	H	בריט	bryt	covenant
+6	abut	H	אַבוט	Aabvt	fathers
+7	uzkhut	H	אוזכוט	Avzxvt	and_merits
+8	amhut	H	אַמהוט	Aamhvt	mothers
+9	bey	P	בײ	bY	_
+10	zelkhi	ADJ	זעלכי	zelxy	_
+11	veybr	N	װײבר	VYbr	_
+12	hot	HVF	האָט	hAot	_
+13	slmh	NPR	סלמה	slmh	_
+14	hmlkh	H	המלך	hmlX	the_king
+15	gizagt	VBN	גיזאַגט	gyzAagt	_
+
+SENT	1834E-ELMALE,51.54
+1	dos	D	דאָס	dAos	_
+2	meynt	VBF	מײנט	mYnt	_
+3	der	D	דער	der	_
+4	psuk	N	פּסוק	psvk	_
+
+SENT	1834E-ELMALE,51.55
+1	eyn	D	אײן	AYN	_
+2	isho	N	אישאָ	Ay$Ao	_
+3	vas	C	װאַס	VAas	_
+4	zi	PRO	זי	zy	_
+5	iz	VBF	איז	Ayz	_
+6	seyn	ADJ	סײן	sYN	_
+7	iz	VBF	איז	Ayz	_
+8	dos	D	דאָס	dAos	_
+9	nit	NEG	ניט	nyt	_
+10	gut	ADJ	גוט	gvt	_
+
+SENT	1834E-ELMALE,51.56
+1	abr	CONJ	אַבר	Aabr	_
+2	di	D	די	dy	_
+3	isho	N	אישאָ	Ay$Ao	_
+4	vas	C	װאַס	VAas	_
+5	gats_farkhtig	ADJ	גאַצ_פֿאַרכטיג	gAaq_fAarxtyg	_
+6	iz	VBF	איז	Ayz	_
+7	meg	MDF	מעג	meg	_
+8	men	PRO	מען	meN	_
+9	ye	ADV	יע	ye	_
+10	loybin	VB	לױבין	lWbyN	_
+
+SENT	1834E-ELMALE,51.57
+1	oykh	ADV	אױך	AWX	_
+2	kerin	MDF	קערין	keryN	_
+3	mir	PRO	מיר	myr	_
+4	tsu	TO	צו	qv	_
+5	veynin	VB	װײנין	VYnyN	_
+6	{oyf}	P	{אױף}	{AWF}	_
+7	azoy	ADV	אַזױ	AazW	_
+8	eyn	D	אײן	AYN	_
+9	frume	ADJ	פֿרומע	frvme	_
+10	ashh	N	אַשה	Aa$h	_
+11	zi	PRO	זי	zy	_
+12	hat	HVF	האַט	hAat	_
+13	giheysin	VBN	גיהײסין	gyhYsyN	_
+14	di	D	די	dy	_
+15	tokhtr	N	טאָכטר	tAoxtr	_
+16	fun	P	פֿון	fvN	_
+17	rbi	NPR	רבי	rby	_
+18	mtitsiub	NPR	מטיציִוב	mtyqyivb	_
+19	vas	C	װאַס	VAas	_
+20	fun	P	פֿון	fvN	_
+21	ir	PRO	איר	Ayr	_
+22	hat	HVF	האַט	hAat	_
+23	zikh	PRO	זיך	zyX	_
+24	an	RP	אַן	AaN	_
+25	gihoybn	VBN	גיהױבן	gyhWbN	_
+26	di	D	די	dy	_
+27	hrigh	N	הריגה	hrygh	_
+
+SENT	1834E-ELMALE,51.58
+1	men	PRO	מען	meN	_
+2	meg	MDF	מעג	meg	_
+3	zi	PRO	זי	zy	_
+4	rekhinen	VB	רעכינען	rexyneN	_
+5	far	P	פֿאַר	fAar	_
+6	a	D	אַ	Aa	_
+7	tsnueh	N	צנועה	qnveh	_
+
+SENT	1834E-ELMALE,51.59
+1	ven	CONJ	װען	VeN	_
+2	zi	PRO	זי	zy	_
+3	hat	HVF	האַט	hAat	_
+4	ir	PRO$	איר	Ayr	_
+5	lebin	N	לעבין	lebyN	_
+6	eyn	RP	אײן	AYN	_
+7	gistelt	VBN	גיסטעלט	gystelt	_
+
+SENT	1834E-ELMALE,51.60
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	nit	NEG	ניט	nyt	_
+4	givalt	MDN	גיװאַלט	gyVAalt	_
+5	dinn	VB	דינן	dynN	_
+6	tsu	P	צו	qv	_
+7	di	D	די	dy	_
+8	kukbim	N	קוקבים	kvkbyM	_
+
+SENT	1834E-ELMALE,51.61
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3-4	angihoybin	RP~VBN	אַנגיהױבין	AangyhWbyN	_
+3	an	RP	אַן	AaN	_
+4	gihoybin	VBN	גיהױבין	gyhWbyN	_
+5	tsu	TO	צו	qv	_
+6	shreyen	VB	שרײען	$rYeN	_
+7	tsu	P	צו	qv	_
+8	di	D	די	dy	_
+9	ibrigi	ADJ	איבריגי	Aybrygy	_
+10	veybr	N	װײבר	VYbr	_
+11	um	P	אום	AvM	_
+12	gots	NPR$	גאָטס	gAots	_
+13	vilin	N	װילין	VylyN	_
+14	mir	PRO	מיר	myr	_
+15	zalin	MDF	זאַלין	zAalyN	_
+16	zikh	PRO	זיך	zyX	_
+17	nit	NEG	ניט	nyt	_
+18	{lazin}	VB	{לאַזין}	{lAazyN}	_
+19	mtma	RP-H	מטמאַ	mtmAa	_
+20	zeyn	VB	זײן	zYN	_
+21	un	CONJ	און	AvN	_
+22	im	PRO	אים	AyM	_
+23	oykh	ADV	אױך	AWX	_
+24	nit	NEG	ניט	nyt	_
+25-26	optretin	RP~VB	אָפּטרעטין	AoptretyN	_
+25	op	RP	אָפּ	Aop	_
+26	tretin	VB	טרעטין	tretyN	_
+27	zeyn	PRO$	זײן	zYN	_
+28	libn	ADJ	ליבן	lybN	_
+29	namn	N	נאַמן	nAamN	_
+
+SENT	1834E-ELMALE,51.62
+1	azoy	ADV	אַזױ	AazW	_
+2	habin	HVF	האַבין	hAabyN	_
+3	di	D	די	dy	_
+4	veybr	N	װײבר	VYbr	_
+5	an	RP	אַן	AaN	_
+6	gihoybin	VBN	גיהױבין	gyhWbyN	_
+7	tsu	TO	צו	qv	_
+8	veynin	VB	װײנין	VYnyN	_
+9	un	CONJ	און	AvN	_
+10	tsu	TO	צו	qv	_
+11	shreyen	VB	שרײען	$rYeN	_
+12	un	CONJ	און	AvN	_
+13	vidyum	N	װידיום	VydyvM	_
+14	tsu	TO	צו	qv	_
+15	zagin	VB	זאַגין	zAagyN	_
+16	biz	C	ביז	byz	_
+17	zeyere	PRO$	זײערע	zYere	_
+18	kshrh	ADJ	קשרה	k$rh	_
+19	nshmut	N	נשמוט	n$mvt	_
+20	iz	BEF	איז	Ayz	_
+21	zey	PRO	זײ	zY	_
+22	oys	RP	אױס	AWs	_
+23	gigangin	VBN	גיגאַנגין	gygAangyN	_
+
+SENT	1834E-ELMALE,51.63
+1	kh.	LS	כ.	x.	_
+2	khi	H	כי	xy	UNKNOWN
+3	ukim	H	אוקים	AvkyM	UNKNOWN
+4	libr	ADJ	ליבר	lybr	_
+5	gut	N	גוט	gvt	_
+6	eybig	ADJ	אײביג	AYbyg	_
+7	iz	VBF	איז	Ayz	_
+8	deyn	PRO$	דײן	dYN	_
+9	lebin	N	לעבין	lebyN	_
+
+SENT	1834E-ELMALE,51.64
+1	fun	P	פֿון	fvN	_
+2	vest	WPRO$	װעסט	Vest	_
+3	vegin	N	װעגין	VegyN	_
+4-5	hastu	HVF~PRO	האַסטו	hAastv	_
+4	has	HVF	האַס	hAas	_
+5	tu	PRO	טו	tv	_
+6	deyn	PRO$	דײן	dYN	_
+7	libe	ADJ	ליבע	lybe	_
+8	falk	N	פֿאַלק	fAalk	_
+9	umh	H	אומה	Avmh	nation
+10	isral	NPR	איסראַל	AysrAal	_
+11	in	P	אין	AyN	_
+12	azoy	ADV	אַזױ	AazW	_
+13	eyn	D	אײן	AYN	_
+14	umh	H	אומה	Avmh	nation
+15	splh	H	ספּלה	splh	UNKNOWN
+16	in	P	אין	AyN	_
+17	zeyere	PRO$	זײערע	zYere	_
+18	hent	N	הענט	hent	_
+19	areyn	ADV	אַרײן	AarYN	_
+20	gigebin	VBN	גיגעבין	gygebyN	_
+
+SENT	1834E-ELMALE,51.65
+1	zey	PRO	זײ	zY	_
+2	kenin	MDF	קענין	kenyN	_
+3	dakh	ADV	דאַך	dAaX	_
+4	far_koyft	VAN	פֿאַר_קױפֿט	fAar_kWft	_
+5	verin	RD	װערין	VeryN	_
+6	gar	ADV	גאַר	gAar	_
+7	um_zist	ADV	אומ_זיסט	Avm_zyst	_
+
+SENT	1834E-ELMALE,51.66
+1	lebedigi	ADJ	לעבעדיגי	lebedygy	_
+2	kindr	N	קינדר	kyndr	_
+3	habin	HVF	האַבין	hAabyN	_
+4	bey	P	בײ	bY	_
+5	zeyer	PRO$	זײער	zYer	_
+6	toyte	ADJ	טױטע	tWte	_
+7	mutr	N	מוטר	mvtr	_
+8	gizoygit	VBN	גיזױגיט	gyzWgyt	_
+9	di	D	די	dy	_
+10	brist	N	בריסט	bryst	_
+
+SENT	1834E-ELMALE,51.67
+1	un	CONJ	און	AvN	_
+2	a	D	אַ	Aa	_
+3	teyl	N	טײל	tYl	_
+4	hot	HVF	האָט	hAot	_
+5	men	PRO	מען	meN	_
+6	gikepft	VBN	גיקעפּפֿט	gykepft	_
+7	bevnuhinu	H	בעװנוהינו	beVnvhynv	for_sins_our
+8	khrbim	H	כרבים	xrbyM	swords
+
+SENT	1834E-ELMALE,51.68
+1	di	D	די	dy	_
+2	hrugim	N	הרוגים	hrvgyM	_
+3	zeynin	BEF	זײנין	zYnyN	_
+4	nit	NEG	ניט	nyt	_
+5-6	tsum	P~D	צום	qvM	_
+5	tsu	P	צו	qv	_
+6	m	D	מ	m	_
+7	kbr	H	קבר	kbr	cemetery
+8	isral	NPR	איסראַל	AysrAal	_
+9	gikumn	VBN	גיקומן	gykvmN	_
+
+SENT	1834E-ELMALE,51.69
+1	un	CONJ	און	AvN	_
+2	hint	N	הינט	hynt	_
+3	und	CONJ	אונד	Avnd	_
+4	khzirim	N	כזירים	xzyryM	_
+5	habin	HVF	האַבין	hAabyN	_
+6	zey	PRO	זײ	zY	_
+7	arum	ADV	אַרום	AarvM	_
+8	gishlept	VBN	גישלעפּט	gy$lept	_
+9	in	P	אין	AyN	_
+10	di	D	די	dy	_
+11	gasin	N	גאַסין	gAasyN	_
+
+SENT	1834E-ELMALE,52.71
+1	oyf	P	אױף	AWF	_
+2	dem	D	דעם	deM	_
+3	vas	C	װאַס	VAas	_
+4	iz	BEF	איז	Ayz	_
+5	gekr	RP-H	געקר	gekr	_
+6	givarin	VBN	גיװאַרין	gyVAaryN	_
+7	fun	P	פֿון	fvN	_
+8	di	D	די	dy	_
+9	isral	NPR	איסראַל	AysrAal	_
+10	a	D	אַ	Aa	_
+11	gantsi	ADJ	גאַנצי	gAanqy	_
+12	mspkhh	N	מספּכה	mspxh	_
+
+SENT	1834E-ELMALE,52.72
+1	t.	LS	ט.	t.	_
+2	tub	H	טוב	tvb	good
+3	lkl	H	לקל	lkl	to_all
+4	got	NPR	גאָט	gAot	_
+5	du	PRO	דו	dv	_
+6	bist	VBF	ביסט	byst	_
+7	zeyer	ADV	זײער	zYer	_
+8	gut	ADJ	גוט	gvt	_
+
+SENT	1834E-ELMALE,52.73
+1	nu	ADV	נו	nv	_
+2	vi	WADV	װי	Vy	_
+3	kenin	MDF	קענין	kenyN	_
+4	mir	PRO	מיר	myr	_
+5	lebin	VB	לעבין	lebyN	_
+6	far	P	פֿאַר	fAar	_
+7	groysi	ADJ	גרױסי	grWsy	_
+8	tsrut	N	צרוט	qrvt	_
+
+SENT	1834E-ELMALE,52.74
+1	ven	CONJ	װען	VeN	_
+2	es	ES	עס	es	_
+3	iz	BEF	איז	Ayz	_
+4	far_gasin	VAN	פֿאַר_גאַסין	fAar_gAasyN	_
+5	givarin	RDN	גיװאַרין	gyVAaryN	_
+6	azoy	ADV	אַזױ	AazW	_
+7	fil	Q	פֿיל	fyl	_
+8	yudishe	ADJ	יודישע	yvdy$e	_
+9	blut	N	בלוט	blvt	_
+
+SENT	1834E-ELMALE,52.75
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	pukhzim	N	פּוכזים	pvxzyM	_
+4	habin	HVF	האַבין	hAabyN	_
+5	zikh	PRO	זיך	zyX	_
+6	in	P	אין	AyN	_
+7	blut	N	בלוט	blvt	_
+8	lazin	VBN-IPP	לאַזין	lAazyN	_
+9	badin	VB	באַדין	bAadyN	_
+
+SENT	1834E-ELMALE,52.76
+1	vi	WADV	װי	Vy	_
+2	iz	VBF	איז	Ayz	_
+3	miglikh	ADJ	מיגליך	myglyX	_
+4	di	D	די	dy	_
+5	kkhlut	N	קכלוט	kxlvt	_
+6	tsu	TO	צו	qv	_
+7	nenin	VB	נענין	nenyN	_
+
+SENT	1834E-ELMALE,52.77
+1	vi	WADV	װי	Vy	_
+2	fil	Q	פֿיל	fyl	_
+3	sfri	H	ספֿרי	sfry	books
+4	turut	H	טורוט	tvrvt	Torah
+5	habin	HVF	האַבין	hAabyN	_
+6	di	D	די	dy	_
+7	pukhzim	N	פּוכזים	pvxzyM	_
+8	gitan	DON	גיטאַן	gytAaN	_
+9	far_brenin	VB	פֿאַר_ברענין	fAar_brenyN	_
+
+SENT	1834E-ELMALE,52.78
+1	i.	LS	אי.	Ay.	_
+2	itumim	H	איטומים	AytvmyM	orphans
+3	heynu	H	הײנו	hYnv	that_is
+4	uain	H	אואַיִן	AvAayiN	and_there_is_not
+5	ab	H	אַב	Aab	father
+6	vi	N	װי	Vy	_
+7	gishrian	VAN	גישריִאַן	gy$ryiAaN	_
+8	vas	WPRO	װאַס	VAas	_
+9	far	P	פֿאַר	fAar	_
+10	eyn	D	אײן	AYN	_
+11	tsrh	N	צרה	qrh	_
+12	iz	BEF	איז	Ayz	_
+13	gisehn	VBN	גיסעהן	gysehN	_
+14	in	P	אין	AyN	_
+15	dem	D	דעם	deM	_
+16	yar	N	יאַר	yAar	_
+17	bevnutinu	H	בעװנוטינו	beVnvtynv	for_sins_our
+18	hrbim	H	הרבים	hrbyM	the_many
+
+SENT	1834E-ELMALE,52.79
+1	vi	WADV	װי	Vy	_
+2	fil	Q	פֿיל	fyl	_
+3	veybr	N	װײבר	VYbr	_
+4	zeynin	BEF	זײנין	zYnyN	_
+5	giblibin	VBN	גיבליבין	gyblybyN	_
+6	egunut	N	עגונוט	egvnvt	widows
+
+SENT	1834E-ELMALE,52.80
+1	alpi	H	על-פּי	el-py	thousands_of
+2	alpim	H	אַלפּים	AalpyM	thousands
+3	fun	P	פֿון	fvN	_
+4	di	D	די	dy	_
+5	ihudim	N	איהודים	AyhvdyM	_
+6	hobin	HVF	האָבין	hAobyN	_
+7	zey	PRO	זײ	zY	_
+8	ibr_giret	VBN	איבר_גירעט	Aybr_gyret	_
+9	zey	PRO	זײ	zY	_
+10	zalin	MDF	זאַלין	zAalyN	_
+11	tsu	RP	צו	qv	_
+12	steyn	VB	סטײן	stYN	_
+13	tsu	P	צו	qv	_
+14	zeyer	PRO$	זײער	zYer	_
+15	amunh	N	אַמונה	Aamvnh	_
+
+SENT	1834E-ELMALE,52.81
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	vas	C	װאַס	VAas	_
+4	habin	HVF	האַבין	hAabyN	_
+5	nit	NEG	ניט	nyt	_
+6	givalt	MDN	גיװאַלט	gyVAalt	_
+7	tsu	RP	צו	qv	_
+8	steyn	VB	סטײן	stYN	_
+9	hat	HVF	האַט	hAat	_
+10	men	PRO	מען	meN	_
+11	zey	PRO	זײ	zY	_
+12	gitan	DON	גיטאַן	gytAaN	_
+13	yagin	VB	יאַגין	yAagyN	_
+14	tsu	P	צו	qv	_
+15	der	D	דער	der	_
+16	brunh	N	ברונה	brvnh	_
+
+SENT	1834E-ELMALE,52.82
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	hat	HVF	האַט	hAat	_
+4	zey	PRO	זײ	zY	_
+5	mit	P	מיט	myt	_
+6	koylin	N	קױלין	kWlyN	_
+7	der_shlagin	VBN	דער_שלאַגין	der_$lAagyN	_
+
+SENT	1834E-ELMALE,52.83
+1	men	PRO	מען	meN	_
+2	hat	HVF	האַט	hAat	_
+3	gar	ADV	גאַר	gAar	_
+4	nit	NEG	ניט	nyt	_
+5	gikent	MDN	גיקענט	gykent	_
+6	der_steyn	VB	דער_סטײן	der_stYN	_
+7	bey	P	בײ	bY	_
+8	der	D	דער	der	_
+9	brunh	N	ברונה	brvnh	_
+10	far	P	פֿאַר	fAar	_
+11	groys	ADJ	גרױס	grWs	_
+12	gishrey	N	גישרײ	gy$rY	_
+13	und	CONJ	אונד	Avnd	_
+14	groys	ADJ	גרױס	grWs	_
+15	giveyn	N	גיװײן	gyVYN	_
+
+SENT	1834E-ELMALE,52.84
+1	das	D	דת	dS	_
+2	iz	BEF	איז	Ayz	_
+3	nit	NEG	ניט	nyt	_
+4	gihert	VAN	גיהערט	gyhert	_
+5	givarin	RDN	גיװאַרין	gyVAaryN	_
+6	in	P	אין	AyN	_
+7	der	D	דער	der	_
+8	tseyt	N	צײט	qYt	_
+9	ven	C	װען	VeN	_
+10	khmelnitski	NPR	כמעלניצקי	xmelnyqky	_
+11	imkh	H	אימך	AymX	may_be_erased
+12	smu	H	סמו	smv	name_his
+13	iz	BEF	איז	Ayz	_
+14	given	VBN	גיװען	gyVeN	_
+15	in	P	אין	AyN	_
+16	zeyni	PRO$	זײני	zYny	_
+17	tseytn	N	צײטן	qYtN	_
+18	az	C	אַז	Aaz	_
+19	men	PRO	מען	meN	_
+20	zal	MDF	ז"ל	z"l	_
+21	in	P	אין	AyN	_
+22	der	D	דער	der	_
+23	brunh	N	ברונה	brvnh	_
+24	areyn	ADV	אַרײן	AarYN	_
+25	varfin	VB	װאַרפֿין	VAarfyN	_
+26	loytin	N	לױטין	lWtyN	_
+
+SENT	1834E-ELMALE,52.85
+1	k.	LS	ק.	k.	_
+2	klu	H	קלו	klv	UNKNOWN
+3	eini	H	עיִני	eyiny	eyes
+4	bdmeut	H	בדמעוט	bdmevt	UNKNOWN
+5	meyne	PRO$	מײנע	mYne	_
+6	oygin	N	אױגין	AWgyN	_
+7	zeynin	BEF	זײנין	zYnyN	_
+8	mir	PRO	מיר	myr	_
+9	far	P	פֿאַר	fAar	_
+10	trerin	N	טרערין	treryN	_
+11	tsu	RP	צו	qv	_
+12	gangn	VBN	גאַנגן	gAangN	_
+
+SENT	1834E-ELMALE,52.86
+1	men	PRO	מען	meN	_
+2	hat	HVF	האַט	hAat	_
+3-4	tsum	P~D	צום	qvM	_
+3	tsu	P	צו	qv	_
+4	m	D	מ	m	_
+5	erstin	ADJ	ערסטין	erstyN	_
+6	dem	D	דעם	deM	_
+7	rb	N	רב	rb	_
+8	fun	P	פֿון	fvN	_
+9	tatiub	NPR	טאַטיִוב	tAatyivb	_
+10	un	X	און	AvN	_
+11	mit	P	מיט	myt	_
+12	dem	D	דעם	deM	_
+13	prits	N	פּריץ	pryQ	_
+14	oyf	P	אױף	AWF	_
+15	eyn	D	אײן	AYN	_
+16	tlit	N	טליט	tlyt	_
+17	gihangin	VBN	גיהאַנגין	gyhAangyN	_
+
+SENT	1834E-ELMALE,52.87
+1	azoy	ADV	אַזױ	AazW	_
+2	eyn	D	אײן	AYN	_
+3	tsrh	N	צרה	qrh	_
+4	iz	BEF	איז	Ayz	_
+5	nit	NEG	ניט	nyt	_
+6	gisehn	VBN	גיסעהן	gysehN	_
+
+SENT	1834E-ELMALE,52.88
+1	vi	WADV	װי	Vy	_
+2	di	D	די	dy	_
+3	oygin	N	אױגין	AWgyN	_
+4	habin	HVF	האַבין	hAabyN	_
+5	das	D	דת	dS	_
+6	gikent	MDN	גיקענט	gykent	_
+7	tsu	RP	צו	qv	_
+8	zehen	VB	זעהען	zeheN	_
+9	azoy	ADV	אַזױ	AazW	_
+10	eyn	D	אײן	AYN	_
+11	groysi	ADJ	גרױסי	grWsy	_
+12	tsrh	N	צרה	qrh	_
+
+SENT	1834E-ELMALE,52.89
+1	fil	Q	פֿיל	fyl	_
+2	hrugim	N	הרוגים	hrvgyM	_
+3	habin	HVF	האַבין	hAabyN	_
+4	zikh	PRO	זיך	zyX	_
+5	givalgert	VBN	גיװאַלגערט	gyVAalgert	_
+6	in	P	אין	AyN	_
+7	di	D	די	dy	_
+8	gasin	N	גאַסין	gAasyN	_
+
+SENT	1834E-ELMALE,52.90
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	hint	N	הינט	hynt	_
+4	habin	HVF	האַבין	hAabyN	_
+5	zeyer	PRO$	זײער	zYer	_
+6	leyb	N	לײב	lYb	_
+7	gitan	DON	גיטאַן	gytAaN	_
+8	fresin	VB	פֿרעסין	fresyN	_
+
+SENT	1834E-ELMALE,52.91
+1	men	PRO	מען	meN	_
+2	zal	MDF	ז"ל	z"l	_
+3	shoyn	ADV	שױן	$WN	_
+4	veytr	ADV	װײטר	VYtr	_
+5	zeyn	VB	זײן	zYN	_
+6	bbtuh	H	בבטוה	bbtvh	in_safety
+7	ubskth	H	אובסקטה	Avbskth	and_quiet
+
+SENT	1834E-ELMALE,52.92
+1	l.	LS	ל.	l.	_
+2	leulm	H	לעולם	levlM	to_world
+3	la	H	לאַ	lAa	not
+4	askkh	H	אַסקך	AaskX	I_will_forget
+5	eybig	ADV	אײביג	AYbyg	_
+6	kerin	VBF	קערין	keryN	_
+7	{kenin}	X	{קענין}	{kenyN}	_
+8	mir	PRO	מיר	myr	_
+9	nit	NEG	ניט	nyt	_
+10	{tsu}	TO	{צו}	{qv}	_
+11	far_gesin	VB	פֿאַר_געסין	fAar_gesyN	_
+12	un	CONJ	און	AvN	_
+13	{oyf}	P	{אױף}	{AWF}	_
+14	der	D	דער	der	_
+15	gzirh	N	גזירה	gzyrh	_
+16	tsu	TO	צו	qv	_
+17	klogin	VB	קלאָגין	klAogyN	_
+
+SENT	1834E-ELMALE,52.93
+1	di	D	די	dy	_
+2	hrugim	N	הרוגים	hrvgyM	_
+3	habin	HVF	האַבין	hAabyN	_
+4	zikh	PRO	זיך	zyX	_
+5	givalgirt	VBN	גיװאַלגירט	gyVAalgyrt	_
+6	in	P	אין	AyN	_
+7	di	D	די	dy	_
+8	gasin	N	גאַסין	gAasyN	_
+
+SENT	1834E-ELMALE,52.94
+1	un	CONJ	און	AvN	_
+2	keynr	Q	קײנר	kYnr	_
+3	hat	HVF	האַט	hAat	_
+4	zey	PRO	זײ	zY	_
+5	nit	NEG	ניט	nyt	_
+6	gihat	VBN	גיהאַט	gyhAat	_
+7	tsu	TO	צו	qv	_
+8	bagrabin	VB	באַגראַבין	bAagrAabyN	_
+
+SENT	1834E-ELMALE,52.95
+1	di	D	די	dy	_
+2	kindr	N	קינדר	kyndr	_
+3	hobin	HVF	האָבין	hAobyN	_
+4	zey	PRO	זײ	zY	_
+5	gitrogin	VBN	גיטראָגין	gytrAogyN	_
+6	gibundin	ADJ	גיבונדין	gybvndyN	_
+7	vi	P	װי	Vy	_
+8	di	D	די	dy	_
+9	shaf	N	שאַף	$AaF	_
+
+SENT	1834E-ELMALE,52.96
+1	un	CONJ	און	AvN	_
+2	fatr	N	פֿאַטר	fAatr	_
+3	un	CONJ	און	AvN	_
+4	mutr	N	מוטר	mvtr	_
+5	habin	HVF	האַבין	hAabyN	_
+6	tsu	RP	צו	qv	_
+7	gizehn	VBN	גיזעהן	gyzehN	_
+8	di	D	די	dy	_
+9	skhihth	N	סכיהטה	sxyhth	_
+10	vi	WADV	װי	Vy	_
+11	men	PRO	מען	meN	_
+12	hat	HVF	האַט	hAat	_
+13	di	D	די	dy	_
+14	kindr	N	קינדר	kyndr	_
+15	gibrakht	VBN	גיבראַכט	gybrAaxt	_
+16	oyf	P	אױף	AWF	_
+17	der	D	דער	der	_
+18	ekidh	N	עקידה	ekydh	_
+
+SENT	1834E-ELMALE,52.97
+1	m.	LS	מ.	m.	_
+2	msru	H	מסרו	msrv	gave_they
+3	nps	H	נפּס	nps	soul
+4	ugoytm	H	אוגױטם	AvgWtM	and_corpses_their
+5	men	PRO	מען	meN	_
+6	hat	HVF	האַט	hAat	_
+7	gikoylt	VBN	גיקױלט	gykWlt	_
+8	oyf	P	אױף	AWF	_
+9	dem	D	דעם	deM	_
+10	mutrs	N$	מוטרס	mvtrs	_
+11	soys	N	סױס	sWs	_
+12	di	D	די	dy	_
+13	kindr	N	קינדר	kyndr	_
+14	vi	N	װי	Vy	_
+15	gishrien	VAN	גישריִען	gy$ryieN	_
+
+SENT	1834E-ELMALE,52.98
+1	di	D	די	dy	_
+2	pukhzim	N	פּוכזים	pvxzyM	_
+3	habin	HVF	האַבין	hAabyN	_
+4	zikh	PRO	זיך	zyX	_
+5	in	P	אין	AyN	_
+6	gantsin	ADJ	גאַנצין	gAanqyN	_
+7	zumr	N	זומר	zvmr	_
+8	in	P	אין	AyN	_
+9	idishe	ADJ	אידישע	Aydy$e	_
+10	blut	N	בלוט	blvt	_
+11	gitan	DON	גיטאַן	gytAaN	_
+12	vashin	VB	װאַשין	VAa$yN	_
+
+SENT	1834E-ELMALE,53.100
+1	un	CONJ	און	AvN	_
+2	oykh	ADV	אױך	AWX	_
+3	kmh	H	קמה	kmh	a_few
+4	alpim	H	אַלפּים	AalpyM	thousands
+5	bkhurim	H	בכורים	bxvryM	young_men
+6	ubtulut	H	אובטולוט	Avbtvlvt	and_young_women
+7	hat	HVF	האַט	hAat	_
+8	men	PRO	מען	meN	_
+9	di	D	די	dy	_
+10	tsvantsig	NUM	צװאַנציג	qVAanqyg	_
+11	in	P	אין	AyN	_
+12	der	D	דער	der	_
+13	maskva	N	מאַסקװאַ	mAaskVAa	_
+14	areyn	ADV	אַרײן	AarYN	_
+15	gifirt	VBN	גיפֿירט	gyfyrt	_
+
+SENT	1834E-ELMALE,53.101
+1	in	P	אין	AyN	_
+2	gants	ADJ	גאַנץ	gAanQ	_
+3	vinkil	N	װינקיל	Vynkyl	_
+4	habin	HVF	האַבין	hAabyN	_
+5	di	D	די	dy	_
+6	pukhzim	N	פּוכזים	pvxzyM	_
+7	gar	ADV	גאַר	gAar	_
+8	oys	RP	אױס	AWs	_
+9	gishnitin	VBN	גישניטין	gy$nytyN	_
+
+SENT	1834E-ELMALE,53.102
+1	rbinu	H	רבינו	rbynv	rabbi_our
+2	sl	H	סל	sl	of
+3	eulm	H	עולם	evlM	world
+4	hsukn	H	הסוקן	hsvkN	UNKNOWN
+5	bmrumim	H	במרומים	bmrvmyM	UNKNOWN
+6	zey	VBI	זײ	zY	_
+7	zikh	PRO	זיך	zyX	_
+8	nukm	RP-H	נוקם	nvkM	_
+9	khsidim	N	חסידים	HsydyM	_
+10	viriaim	H	װיריִאַים	VyryiAayM	and_UNKNOWN
+11	utmimim	H	אוטמימים	AvtmymyM	and_UNKNOWN
+
+SENT	1834E-ELMALE,53.103
+1	n.	LS	נ.	n.	_
+2	nhrgu	H	נהרגו	nhrgv	UNKNOWN
+3	btulut	H	בטולוט	btvlvt	young_women
+4	ugm	H	אוגם	AvgM	and_also
+5	bkhurim	H	בכורים	bxvryM	young_men
+6	tbkhh	H	טבכה	tbxh	UNKNOWN
+7	npsi	H	נפּסי	npsy	souls
+8	bmstrim	H	במסטרים	bmstryM	UNKNOWN
+9	bevnutinu	H	בעװנוטינו	beVnvtynv	for_sins_our
+10	hrbim	H	הרבים	hrbyM	the_many
+11	der	H	דער	der	UNKNOWN
+12	mdt	H	מדט	mdt	UNKNOWN
+13	hdin	H	הדין	hdyN	the_justice
+14	hot	HVF	האָט	hAot	_
+15	in	P	אין	AyN	_
+16	der	D	דער	der	_
+17	gantsr	ADJ	גאַנצר	gAanqr	_
+18	velt	N	װעלט	Velt	_
+19	shult	ADJ	שולט	$vlt	_
+20	givezin	VBN	גיװעזין	gyVezyN	_
+
+SENT	1834E-ELMALE,53.104
+1	iz	VBF	איז	Ayz	_
+2	dokh	ADV	דאָך	dAoX	_
+3	zeyer	ADV	זײער	zYer	_
+4	bitr	ADJ	ביטר	bytr	_
+5	un	CONJ	און	AvN	_
+6	zeyer	ADV	זײער	zYer	_
+7	vi	ADJ	װי	Vy	_
+
+SENT	1834E-ELMALE,53.105
+1	men	PRO	מען	meN	_
+2	hot	HVF	האָט	hAot	_
+3	unzri	PRO$	אונזרי	Avnzry	_
+4	lumdim	N	לומדים	lvmdyM	_
+5	oys	RP	אױס	AWs	_
+6	gikoylet	VBN	גיקױלעט	gykWlet	_
+7	vas	C	װאַס	VAas	_
+8	habin	HVF	האַבין	hAabyN	_
+9	unz	PRO	אונז	Avnz	_
+10	mgin	RP-H	מגין	mgyN	_
+11	givezin	VBN	גיװעזין	gyVezyN	_
+
+SENT	1834E-ELMALE,53.106
+1	s.	LS	ס.	s.	_
+2	spri	H	ספּרי	spry	UNKNOWN
+3	tudut	H	טודוט	tvdvt	UNKNOWN
+4	varum	WPRO+P	װאַרום	VAarvM	_
+5	tut	DOF	טוט	tvt	_
+6	ir	PRO	איר	Ayr	_
+7	shveygin	VB	שװײגין	$VYgyN	_
+8	un	CONJ	און	AvN	_
+9	tut	DOF	טוט	tvt	_
+10	nit	NEG	ניט	nyt	_
+11	klogin	VB	קלאָגין	klAogyN	_
+
+SENT	1834E-ELMALE,53.107
+1	den	CONJ	דען	deN	_
+2	es	ES	עס	es	_
+3	iz	BEF	איז	Ayz	_
+4	azoy	ADV	אַזױ	AazW	_
+5	eyn	D	אײן	AYN	_
+6	khrph	N	כרפּה	xrph	_
+7	gisehn	VBN	גיסעהן	gysehN	_
+
+SENT	1834E-ELMALE,53.108
+1	di	D	די	dy	_
+2	pukhzim	N	פּוכזים	pvxzyM	_
+3	habin	HVF	האַבין	hAabyN	_
+4	oykh	PRO	אױך	AWX	_
+5	in	P	אין	AyN	_
+6	di	D	די	dy	_
+7	gasin	N	גאַסין	gAasyN	_
+8	arum	ADV	אַרום	AarvM	_
+9	gitragin	VBN	גיטראַגין	gytrAagyN	_
+10	oy	N	אױ	AW	_
+11	un	CONJ	און	AvN	_
+12	vi	N	װי	Vy	_
+13	gishrian	VAN	גישריִאַן	gy$ryiAaN	_
+
+SENT	1834E-ELMALE,53.109
+1	vi	WADV	װי	Vy	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zey	PRO	זײ	zY	_
+4	eykh	PRO	אײך	AYX	_
+5	far_spreyt	VBN	פֿאַר_ספּרײט	fAar_sprYt	_
+6	in	P	אין	AyN	_
+7	ali	Q	אַלי	Aaly	_
+8	vegin	N	װעגין	VegyN	_
+
+SENT	1834E-ELMALE,53.110
+1	un	CONJ	און	AvN	_
+2	der_tsu	DR+P	דער_צו	der_qv	_
+3	zeynin	BEF	זײנין	zYnyN	_
+4	oyf	P	אױף	AWF	_
+5	eykh	PRO	אײך	AYX	_
+6	mit	P	מיט	myt	_
+7	nsim	N	נסים	nsyM	_
+8	tsdkniut	N	צדקניִוט	qdknyivt	_
+9	gilegin	VBN	גילעגין	gylegyN	_
+
+SENT	1834E-ELMALE,53.111
+1	oy	N	אױ	AW	_
+2	un	CONJ	און	AvN	_
+3	vi	N	װי	Vy	_
+4	gishrian	VAN	גישריִאַן	gy$ryiAaN	_
+5	vi	WADV	װי	Vy	_
+6	men	PRO	מען	meN	_
+7	hat	HVF	האַט	hAat	_
+8	zey	PRO	זײ	zY	_
+9	gitan	VBN	גיטאַן	gytAaN	_
+10	a	D	אַ	Aa	_
+11	zelkhe	ADJ	זעלכע	zelxe	_
+12	mitut	N	מיטוט	mytvt	_
+13	smunut	N	סמונוט	smvnvt	_
+
+SENT	1834E-ELMALE,53.112
+1	un	CONJ	און	AvN	_
+2	der_tsu	DR+P	דער_צו	der_qv	_
+3	zeynin	BEF	זײנין	zYnyN	_
+4	azoy	ADV	אַזױ	AazW	_
+5	fil	Q	פֿיל	fyl	_
+6	veybr	N	װײבר	VYbr	_
+7	nebikh	INTJ	נעביך	nebyX	_
+8	giblibin	VBN	גיבליבין	gyblybyN	_
+9	egunut	N	עגונוט	egvnvt	widows
+
+SENT	1834E-ELMALE,53.113
+1	e.	LS	ע.	e.	_
+2	el	H	על	el	UNKNOWN
+3	alh	H	אַלה	Aalh	UNKNOWN
+4	ali	H	אַלי	Aaly	to_me
+5	bukhih	H	בוכיה	bvxyh	UNKNOWN
+6	elini	H	עליני	elyny	UNKNOWN
+7	eini	H	עיִני	eyiny	eyes
+8	iyurh	H	אייורה	Ayyvrh	UNKNOWN
+9	mim	H	מים	myM	UNKNOWN
+10	dos	D	דאָס	dAos	_
+11	khurbn	N	חורבן	HvrbN	_
+12	iz	VBF	איז	Ayz	_
+13	gleykh	ADV	גלײך	glYX	_
+14	azoy	ADV	אַזױ	AazW	_
+15	vi	P	װי	Vy	_
+16	der	D	דער	der	_
+17	khurbn	N	חורבן	HvrbN	_
+18	fun	P	פֿון	fvN	_
+19	iruslim	NPR	אירוסלים	AyrvslyM	_
+
+SENT	1834E-ELMALE,53.114
+1	rbinu	H	רבינו	rbynv	rabbi_our
+2	sl	H	סל	sl	of
+3	eulm	H	עולם	evlM	world
+4	biz	P	ביז	byz	_
+5	vi	WADV	װי	Vy	_
+6	lang	ADV	לאַנג	lAang	_
+7-8	vestu	MDF~PRO	װעסטו	Vestv	_
+7	ves	MDF	װעס	Ves	_
+8	tu	PRO	טו	tv	_
+9	dikh	PRO	דיך	dyX	_
+10	nit	NEG	ניט	nyt	_
+11	der_barimn	VB	דער_באַרימן	der_bAarymN	_
+12	ibr	P	איבר	Aybr	_
+13	di	D	די	dy	_
+14	kleyni	ADJ	קלײני	klYny	_
+15	kindr	N	קינדר	kyndr	_
+
+SENT	1834E-ELMALE,53.115
+1	varum	CONJ	װאַרום	VAarvM	_
+2	zey	PRO	זײ	zY	_
+3	zeynin	BEF	זײנין	zYnyN	_
+4	nebikh	INTJ	נעביך	nebyX	_
+5	giblibin	VBN	גיבליבין	gyblybyN	_
+6	gibundin	ADJ	גיבונדין	gybvndyN	_
+7	azoy	ADV	אַזױ	AazW	_
+8	,	PUNC	,	,	_
+9	vi	P	װי	Vy	_
+10	di	D	די	dy	_
+11	rindr	N	רינדר	ryndr	_
+
+SENT	1834E-ELMALE,53.116
+1	got	NPR	גאָט	gAot	_
+2	barukh	H	באַרוך	bAarvX	blessed
+3	hu	H	הו	hv	he
+4-5	hastu	HVF~PRO	האַסטו	hAastv	_
+4	has	HVF	האַס	hAas	_
+5	tu	PRO	טו	tv	_
+6	gikent	MDN	גיקענט	gykent	_
+7	tsu	RP	צו	qv	_
+8	zehn	VB	זעהן	zehN	_
+9	vi	C	װי	Vy	_
+10	men	PRO	מען	meN	_
+11	hat	HVF	האַט	hAat	_
+12	eyn	D	אײן	AYN	_
+13	is	N	איס	Ays	_
+14	hsub	N	הסוב	hsvb	_
+15	lebedigr_heyt	ADV	לעבעדיגר_הײט	lebedygr_hYt	_
+16	di	D	די	dy	_
+17	hoyt	N	הױט	hWt	_
+18	ap	RP	אַפּ	Aap	_
+19	gitsoygin	VBN	גיצױגין	gyqWgyN	_
+20	un	CONJ	און	AvN	_
+21	eynr	PRO	אײנר	AYnr	_
+22	mit	P	מיט	myt	_
+23	dem	D	דעם	deM	_
+24	andrn	ADJ	אַנדרן	AandrN	_
+25	habin	HVF	האַבין	hAabyN	_
+26	zikh	PRO	זיך	zyX	_
+27	givarfin	VBN	גיװאַרפֿין	gyVAarfyN	_
+28	mit	P	מיט	myt	_
+29	di	D	די	dy	_
+30	sfri	H	ספֿרי	sfry	books
+31	turut	H	טורוט	tvrvt	Torah
+
+SENT	1834E-ELMALE,53.117
+1	ts.	LS	צ.	q.	_
+2	tsik	H	ציק	qyk	UNKNOWN
+3	ath	H	אַטה	Aath	UNKNOWN
+4	el	H	על	el	UNKNOWN
+5	kl-hba	H	קל-הבאַ	kl-hbAa	all_the_coming
+6	mir	PRO	מיר	myr	_
+7	habin	HVF	האַבין	hAabyN	_
+8	bvdai	ADV	בװדאַיִ	bVdAayi	_
+9	kenin	MD	קענין	kenyN	_
+10	dir	PRO	דיר	dyr	_
+11	nit	NEG	ניט	nyt	_
+12	rekht	ADV	רעכט	rext	_
+13	gitan	VBN	גיטאַן	gytAaN	_
+14	oy	N	אױ	AW	_
+15	un	CONJ	און	AvN	_
+16	vey	N	װײ	VY	_
+17	gishrign	VAN	גישריגן	gy$rygN	_
+
+SENT	1834E-ELMALE,53.118
+1	es	ES	עס	es	_
+2	iz	BEF	איז	Ayz	_
+3	fil	Q	פֿיל	fyl	_
+4	toyzint	NUM	טױזינט	tWzynt	_
+5	mentshin	N	מענטשין	ment$yN	_
+6	um	RP	אום	AvM	_
+7	gikumn	VBN	גיקומן	gykvmN	_
+8	gleykh	ADV	גלײך	glYX	_
+9	vi	P	װי	Vy	_
+10	eyn	D	אײן	AYN	_
+11	man	N	מאַן	mAaN	_
+
+SENT	1834E-ELMALE,53.119
+1	rbinu	H	רבינו	rbynv	rabbi_our
+2	sl	H	סל	sl	of
+3	eulm	H	עולם	evlM	world
+4	vi	WADV	װי	Vy	_
+5-6	hastu	HVF~PRO	האַסטו	hAastv	_
+5	has	HVF	האַס	hAas	_
+6	tu	PRO	טו	tv	_
+7	fun	P	פֿון	fvN	_
+8	unz	PRO	אונז	Avnz	_
+9	ap	RP	אַפּ	Aap	_
+10	gitan	VBN	גיטאַן	gytAaN	_
+11	deyni	PRO$	דײני	dYny	_
+12	oygin	N	אױגין	AWgyN	_
+
+SENT	1834E-ELMALE,54.121
+1	klut	N	קלוט	klvt	_
+2	un	CONJ	און	AvN	_
+3	khtnim	N	כטנים	xtnyM	_
+4	habin	HVF	האַבין	hAabyN	_
+5	eynr	PRO	אײנר	AYnr	_
+6	tsu	P	צו	qv	_
+7	dem	D	דעם	deM	_
+8	andrn	ADJ	אַנדרן	AandrN	_
+9	gitan	DON	גיטאַן	gytAaN	_
+10	reydin	VB	רײדין	rYdyN	_
+
+SENT	1834E-ELMALE,54.122
+1	oy	N	אױ	AW	_
+2	un	CONJ	און	AvN	_
+3	vey	N	װײ	VY	_
+4	gishrien	VAN	גישריִען	gy$ryieN	_
+5	vi	WADV	װי	Vy	_
+6-7	hastu	HVF~PRO	האַסטו	hAastv	_
+6	has	HVF	האַס	hAas	_
+7	tu	PRO	טו	tv	_
+8	unzri	PRO$	אונזרי	Avnzry	_
+9	fatr	N	פֿאַטר	fAatr	_
+10	un	CONJ	און	AvN	_
+11	mutr	N	מוטר	mvtr	_
+12	gitan	VBN	גיטאַן	gytAaN	_
+13	an	P	אַן	AaN	_
+14	unz	PRO	אונז	Avnz	_
+15	der_lebin	VB	דער_לעבין	der_lebyN	_
+16	groysi	ADJ	גרױסי	grWsy	_
+17	leydin	N	לײדין	lYdyN	_
+
+SENT	1834E-ELMALE,54.123
+1	rbinu	H	רבינו	rbynv	rabbi_our
+2	sl	H	סל	sl	of
+3	eulm	H	עולם	evlM	world
+4	vu	WADV	װוּ	VU	_
+5	iz	BEF	איז	Ayz	_
+6	given	VBN	גיװען	gyVeN	_
+7	deyn	PRO$	דײן	dYN	_
+8	rkhmnut	N	רכמנוט	rxmnvt	_
+
+SENT	1834E-ELMALE,54.124
+1	den	CONJ	דען	deN	_
+2	es	ES	עס	es	_
+3	zeynin	BEF	זײנין	zYnyN	_
+4	nebikh	INTJ	נעביך	nebyX	_
+5	giblibin	VBN	גיבליבין	gyblybyN	_
+6	azoy	ADV	אַזױ	AazW	_
+7	fil	Q	פֿיל	fyl	_
+8	itumim	N	איטומים	AytvmyM	_
+9	un	CONJ	און	AvN	_
+10	almnut	N	אַלמנוט	Aalmnvt	_
+
+SENT	1834E-ELMALE,54.125
+1	q.	LS	q.	q.	_
+2	kdusi	H	קדוסי	kdvsy	UNKNOWN
+3	eliun	H	עליִון	elyivN	UNKNOWN
+4	tseku	H	צעקו	qekv	UNKNOWN
+5	bkul	H	בקול	bkvl	UNKNOWN
+6	illh	H	איללה	Ayllh	UNKNOWN
+7	un	CONJ	און	AvN	_
+8	hobin	HVF	האָבין	hAobyN	_
+9	gizogt	VBN	גיזאָגט	gyzAogt	_
+10	rbunu	H	רבונו	rbvnv	rabbi_our
+11	shl	H	של	$l	of
+12	eulm	H	עולם	evlM	world
+13	es	PRO	עס	es	_
+14	iz	VBF	איז	Ayz	_
+15	shoyn	ADV	שױן	$WN	_
+16	tseyt	N	צײט	qYt	_
+17	az	C	אַז	Aaz	_
+18	du	PRO	דו	dv	_
+19	zalst	MDF	זאַלסט	zAalst	_
+20	shikin	VB	שיקין	$ykyN	_
+21	oyf	P	אױף	AWF	_
+22	di	D	די	dy	_
+23	pukhzim	N	פּוכזים	pvxzyM	_
+24	a	D	אַ	Aa	_
+25	mplh	N	מפּלה	mplh	_
+
+SENT	1834E-ELMALE,54.126
+1	azoy	ADV	אַזױ	AazW	_
+2	hat	HVF	האַט	hAat	_
+3	zikh	PRO	זיך	zyX	_
+4	gat	NPR	גאַט	gAat	_
+5	ibr	P	איבר	Aybr	_
+6	unz	PRO	אונז	Avnz	_
+7	mrkhm	RP-H	מרכם	mrxM	_
+8	given	VBN	גיװען	gyVeN	_
+
+SENT	1834E-ELMALE,54.127
+1	mir	PRO	מיר	myr	_
+2	habin	HVF	האַבין	hAabyN	_
+3	gizehin	VBN	גיזעהין	gyzehyN	_
+4	mit	P	מיט	myt	_
+5	unzri	PRO$	אונזרי	Avnzry	_
+6	oygin	N	אױגין	AWgyN	_
+7	vi	C	װי	Vy	_
+8	men	PRO	מען	meN	_
+9	hat	HVF	האַט	hAat	_
+10	dem	D	דעם	deM	_
+11	rse	N	רסע	rse	_
+12	gante	NPR	גאַנטע	gAante	_
+13	lebedigr_heyt	ADV	לעבעדיגר_הײט	lebedygr_hYt	_
+14	di	D	די	dy	_
+15	hoyt	N	הױט	hWt	_
+16	ap	RP	אַפּ	Aap	_
+17	gitsoygin	VBN	גיצױגין	gyqWgyN	_
+
+SENT	1834E-ELMALE,54.128
+1	r.	LS	ר.	r.	_
+2	rkhum	H	רכום	rxvM	UNKNOWN
+3	tsdik	H	צדיק	qdyk	righteous_person
+4	der_barimigr	ADJ	דער_באַרימיגר	der_bAarymygr	_
+5	fatr	N	פֿאַטר	fAatr	_
+6	helf	VBI	העלף	helF	_
+7	unz	PRO	אונז	Avnz	_
+
+SENT	1834E-ELMALE,54.129
+1	den	CONJ	דען	deN	_
+2	du	PRO	דו	dv	_
+3	hast	HVF	האַסט	hAast	_
+4	in	P	אין	AyN	_
+5	deyn	PRO$	דײן	dYN	_
+6	turh	NPR	טורה	tvrh	_
+7	an	RP	אַן	AaN	_
+8	gishribin	VBN	גישריבין	gy$rybyN	_
+9	krkhm	H	קרכם	krxM	like_is_merciful
+10	ab	H	אַב	Aab	father
+11	el	H	על	el	on
+12	bnim	H	בנים	bnyM	sons
+
+SENT	1834E-ELMALE,54.130
+1	es	ES	עס	es	_
+2	iz	BEF	איז	Ayz	_
+3	shoyn	ADV	שױן	$WN	_
+4	far_shvartst	VAN	פֿאַר_שװאַרצט	fAar_$VAarqt	_
+5	givarn	RDN	גיװאַרן	gyVAarN	_
+6	in	P	אין	AyN	_
+7	dem	D	דעם	deM	_
+8	bitrn	ADJ	ביטרן	bytrN	_
+9	glut	N	גלוט	glvt	_
+10	unzr	PRO$	אונזר	Avnzr	_
+11	pnim	N	פּנים	pnyM	_
+
+SENT	1834E-ELMALE,54.131
+1	mir	PRO	מיר	myr	_
+2	zeynin	VBF	זײנין	zYnyN	_
+3	vist	ADJ	װיסט	Vyst	_
+4	in	P	אין	AyN	_
+5	glut	N	גלוט	glvt	_
+
+SENT	1834E-ELMALE,54.132
+1	mir	PRO	מיר	myr	_
+2	leydin	VBF	לײדין	lYdyN	_
+3	groysi	ADJ	גרױסי	grWsy	_
+4	tsrut	N	צרוט	qrvt	_
+5	obr	X	אָבר	Aobr	_
+
+SENT	1834E-ELMALE,54.133
+1	di	D	די	dy	_
+2	gzirh	N	גזירה	gzyrh	_
+3	iz	BEF	איז	Ayz	_
+4	ngzr	RP-H	נגזר	ngzr	_
+5	givarin	VBN	גיװאַרין	gyVAaryN	_
+6-7	im	P~D	אים	AyM	_
+6	i	P	אי	Ay	_
+7	m	D	מ	m	_
+8	yum	H	יום	yvM	day
+9	kpur	H	קפּור	kpvr	atonement
+10	az	C	אַז	Aaz	_
+11	men	PRO	מען	meN	_
+12	zal	MDF	ז"ל	z"l	_
+13	tan	VB	טאַן	tAaN	_
+14	alpi	H	על-פּי	el-py	thousands_of
+15	rbbut	H	רבבוט	rbbvt	UNKNOWN
+16	ihudim	N	איהודים	AyhvdyM	_
+17	groysi	ADJ	גרױסי	grWsy	_
+18	ipurim	H	איפּורים	AypvryM	UNKNOWN
+
+SENT	1834E-ELMALE,54.134
+1	unzri	PRO$	אונזרי	Avnzry	_
+2	zind	N	זינד	zynd	_
+3	habin	HVF	האַבין	hAabyN	_
+4	das	D	דת	dS	_
+5	gitan	VBN	גיטאַן	gytAaN	_
+
+SENT	1834E-ELMALE,54.135
+1	mir	PRO	מיר	myr	_
+2	zeynin	VBF	זײנין	zYnyN	_
+3	itsund	ADV	איצונד	Ayqvnd	_
+4	mtudh	RP-H	מטודה	mtvdh	_
+5	far	P	פֿאַר	fAar	_
+6	dem	D	דעם	deM	_
+7	almekhtign	ADJ	אַלמעכטיגן	AalmextygN	_
+8	got	NPR	גאָט	gAot	_
+9	vas	C	װאַס	VAas	_
+10	er	PRO	ער	er	_
+11	vert	RDF	װערט	Vert	_
+12	an	RP	אַן	AaN	_
+13	girufin	VAN	גירופֿין	gyrvfyN	_
+14	al	Q	אַל	Aal	_
+15	sdi	X	סדי	sdy	_
+16	er	PRO	ער	er	_
+17	zal	MDF	ז"ל	z"l	_
+18	unz	PRO	אונז	Avnz	_
+19	mtsil	RP-H	מציל	mqyl	_
+20	zeyn	VB	זײן	zYN	_
+21	fun	P	פֿון	fvN	_
+22	beyzi	ADJ	בײזי	bYzy	_
+23	gzirut	H	גזירוט	gzyrvt	decrees
+24	un	CONJ	און	AvN	_
+25	er	PRO	ער	er	_
+26	zal	MDF	ז"ל	z"l	_
+27	unz	PRO	אונז	Avnz	_
+28	mukhl	RP-H	מוכל	mvxl	_
+29	zeyn	VB	זײן	zYN	_
+30	oyf	P	אױף	AWF	_
+31	unzri	PRO$	אונזרי	Avnzry	_
+32	ebirut	N	עבירוט	ebyrvt	_
+
+SENT	1834E-ELMALE,54.136
+1	sh.	LS	ש.	$.	_
+2	sdi	H	סדי	sdy	UNKNOWN
+3	mlkh	H	מלך	mlX	king
+4	eliun	H	עליִון	elyivN	UNKNOWN
+5	vi	WADV	װי	Vy	_
+6	habin	HVF	האַבין	hAabyN	_
+7	zey	PRO	זײ	zY	_
+8	an	RP	אַן	AaN	_
+9	gihoybin	VBN	גיהױבין	gyhWbyN	_
+10	tsu	TO	צו	qv	_
+11	shreyen	VB	שרײען	$rYeN	_
+12	mit	P	מיט	myt	_
+13	groys	ADJ	גרױס	grWs	_
+14	gishrey	N	גישרײ	gy$rY	_
+
+SENT	1834E-ELMALE,54.137
+1	un	CONJ	און	AvN	_
+2	mit	P	מיט	myt	_
+3	groys	ADJ	גרױס	grWs	_
+4	giveyn	N	גיװײן	gyVYN	_
+5	zeyeri	PRO$	זײערי	zYery	_
+6	ksrh	ADJ	קסרה	ksrh	_
+7	nshmut	N	נשמוט	n$mvt	_
+8	iz	BEF	איז	Ayz	_
+9	oys	RP	אױס	AWs	_
+10	gigangin	VBN	גיגאַנגין	gygAangyN	_
+
+SENT	1834E-ELMALE,54.138
+1	drum	DR+P	דרום	drvM	_
+2	rbinu	H	רבינו	rbynv	rabbi_our
+3	sl	H	סל	sl	of
+4	eulm	H	עולם	evlM	world
+5	du	PRO	דו	dv	_
+6	zalst	MDF	זאַלסט	zAalst	_
+7	unz	PRO	אונז	Avnz	_
+8	das	D	דת	dS	_
+9	blut	N	בלוט	blvt	_
+10	fun	P	פֿון	fvN	_
+11	zey	PRO	זײ	zY	_
+12	nit	NEG	ניט	nyt	_
+13	lazin	VB	לאַזין	lAazyN	_
+14	ruen	VB	רוען	rveN	_
+15	biz	C	ביז	byz	_
+16	du	PRO	דו	dv	_
+17	vest	MDF	װעסט	Vest	_
+18	an	P	אַן	AaN	_
+19	di	D	די	dy	_
+20	pukhzim	N	פּוכזים	pvxzyM	_
+21	eyn	D	אײן	AYN	_
+22	nkmh	N	נקמה	nkmh	_
+23	tuan	VB	טואַן	tvAaN	_
+
+SENT	1834E-ELMALE,54.139
+1	th.	LS	טה.	th.	_
+2	tsubh	H	צובה	qvbh	repentance
+3	utplh	H	אוטפּלה	Avtplh	and_prayer
+4	utsdkh	H	אוצדך	AvqdX	and_charity
+5	mebirin	H	מעבירין	mebyryN	remove
+6	at	H	אַט	Aat	direct_object_marker
+7	rue	H	רוע	rve	evil
+8	hgzrh	H	הגזרה	hgzrh	the_decree
+9	hsm	H	הסם	hsM	the_name
+10	itbrkh	H	איטברך	AytbrX	may_be_blessed
+11	zal	MDF	ז"ל	z"l	_
+12	zikh	PRO	זיך	zyX	_
+13	ibr	P	איבר	Aybr	_
+14	unz	PRO	אונז	Avnz	_
+15	mrkhm	RP-H	מרכם	mrxM	_
+16	zeyn	VB	זײן	zYN	_
+
+SENT	1834E-ELMALE,54.140
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	zal	MDF	ז"ל	z"l	_
+4	unz	PRO	אונז	Avnz	_
+5	shikin	VB	שיקין	$ykyN	_
+6	di	D	די	dy	_
+7	gaulh	N	גאַולה	gAavlh	_
+8	bmhrh	H	במהרה	bmhrh	in_speed
+9	biminu	H	בימינו	bymynv	in_days_our
+10	amn	H	אַמן	AamN	amen
+11	slh	H	סלה	slh	Selah
+

@@ -1,0 +1,104 @@
+SENT	1740W-DRISES,.2
+1	az	C	אַז	Aaz	_
+2	er	PRO	ער	er	_
+3	nit	NEG	ניט	nyt	_
+4	broykh	VBF	ברױך	brWX	_
+5	tsu	TO	צו	qv	_
+6	zukhin	VB	זוכין	zvxyN	_
+7	in	P	אין	AyN	_
+8	ali	Q	אַלי	Aaly	_
+9	sfrim	N	ספֿרים	sfryM	_
+
+SENT	1740W-DRISES,.3
+1	vas	WPRO	װאַס	VAas	_
+2	da	ADV	דאַ	dAa	_
+3	iz	VBF	איז	Ayz	_
+4	durkh	P	דורך	dvrX	_
+5	eyn	D	אײן	AYN	_
+6	pst	N	פּסט	pst	_
+7	giat	VBF	גיִאַט	gyiAat	_
+8	dem	D	דעם	deM	_
+9	mensh	N	מענש	men$	_
+10	besr	ADVR	בעסר	besr	_
+11	tsu	P	צו	qv	_
+12	hertsin	N	הערצין	herqyN	_
+
+SENT	1740W-DRISES,.4
+1	di	WPRO	די	dy	_
+2	da	ADV	דאַ	dAa	_
+3	bistit	VBF	ביסטיט	bystyt	_
+4	in	P	אין	AyN	_
+5	di	D	די	dy	_
+6	pstim	N	פּסטים	pstyM	_
+7	oykh	ADV	אױך	AWX	_
+8	in	P	אין	AyN	_
+9	hertsin	N	הערצין	herqyN	_
+
+SENT	1740W-DRISES,.5
+1	oyb	C	אױב	AWb	_
+2	es	PRO	עס	es	_
+3	gleykh	ADV	גלײך	glYX	_
+4	neyart	FP	נײאַרט	nYAart	_
+5	mekht	MDF	מעכט	mext	_
+6	helfin	VB	העלפֿין	helfyN	_
+7	tsu	P	צו	qv	_
+8	eynem	PRO	אײנעם	AYneM	_
+9	fun	P	פֿון	fvN	_
+10	toyznt	NUM	טױזנט	tWznt	_
+
+SENT	1740W-DRISES,.6
+1	vas	C	װאַס	VAas	_
+2	ikh	PRO	איך	AyX	_
+3	hab	HVF	האַב	hAab	_
+4	mikh	PRO	מיך	myX	_
+5	bmiat	VBN	במיִאַט	bmyiAat	_
+
+SENT	1740W-DRISES,.7
+1	di	WPRO	די	dy	_
+2	durkh	P	דורך	dvrX	_
+3	mir	PRO	מיר	myr	_
+4	vert	RDF	װערט	Vert	_
+5	kumn	VB	קומן	kvmN	_
+
+SENT	1740W-DRISES,.8
+1	ds	C	דס	ds	_
+2	ikh	PRO	איך	AyX	_
+3	heys	VBF	הײס	hYs	_
+4	ds	D	דס	ds	_
+5	sfr	N	ספֿר	sfr	_
+6	nakh	P	נ"ך	n"X	_
+7	eyn	D	אײן	AYN	_
+8	namn	N	נאַמן	nAamN	_
+
+SENT	1740W-DRISES,.9
+1	ikh	PRO	איך	AyX	_
+2	hab	HVF	האַב	hAab	_
+3	gtun	VBN	גטון	gtvN	_
+4	fr	P	פֿר	fr	_
+5	gmeyni	ADJ	גמײני	gmYny	_
+6	leyt	N	לײט	lYt	_
+7	di	WPRO	די	dy	_
+8	nit	NEG	ניט	nyt	_
+9	frstin	VBF	פֿרסטין	frstyN	_
+10	lsn	H	לסן	lsN	language
+11	hkds	H	הקדס	hkds	the_holy
+
+SENT	1740W-DRISES,.10
+1	ikh	PRO	איך	AyX	_
+2	zal	MDF	ז"ל	z"l	_
+3	nit	NEG	ניט	nyt	_
+4	vern	RD	װערן	VerN	_
+5	gstroykhlt	VAN	גסטרױכלט	gstrWxlt	_
+6	mit	P	מיט	myt	_
+7	meyni	PRO$	מײני	mYny	_
+8	tsung	N	צונג	qvng	_
+
+SENT	1740W-DRISES,.11
+1	oyb	C	אױב	AWb	_
+2	villeykht	ADV	װיללײכט	VyllYxt	_
+3	mekht	MDF	מעכט	mext	_
+4	gfundn	VAN	גפֿונדן	gfvndN	_
+5	vern	RD	װערן	VerN	_
+6	eyn	D	אײן	AYN	_
+7	shent	N	שענט	$ent	_
+

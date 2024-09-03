@@ -1,0 +1,241 @@
+SENT	1704E-ELLUSH,.2
+1	az	C	אַז	Aaz	_
+2	der	D	דער	der	_
+3	eulm	N	עולם	evlM	_
+4	iz	VBF	איז	Ayz	_
+5	gibuat	X	גיבואַט	gybvAat	_
+6	habin	X	האַבין	hAabyN	_
+
+SENT	1704E-ELLUSH,.3
+1	az	C	אַז	Aaz	_
+2	alts	Q	אַלץ	AalQ	_
+3	hengt	VBF	הענגט	hengt	_
+4	an	P	אַן	AaN	_
+5	deyn	PRO$	דײן	dYN	_
+6	sfe	N	ספֿע	sfe	_
+7	al	Q	אַל	Aal	_
+8	ding	N	דינג	dyng	_
+
+SENT	1704E-ELLUSH,.4
+1	gat	NPR	גאַט	gAat	_
+2	vas	C	װאַס	VAas	_
+3	met	VBF	מעט	met	_
+4	in	P	אין	AyN	_
+5	himl	N	הימל	hyml	_
+
+SENT	1704E-ELLUSH,.5
+1	gat	NPR	גאַט	gAat	_
+2	vas	C	װאַס	VAas	_
+3	bishefin	VBN	בישעפֿין	by$efyN	_
+4	het	HVF	העט	het	_
+5	himl	N	הימל	hyml	_
+6	di	D	די	dy	_
+7	mlakhim	N	מלאַכים	mlAaxyM	_
+
+SENT	1704E-ELLUSH,.6
+1	di	WPRO	די	dy	_
+2	da	ADV	דאַ	dAa	_
+3	habin	VBF	האַבין	hAabyN	_
+4	lib	RP-ADJ	ליב	lyb	_
+5	iri	PRO$	אירי	Ayry	_
+6	leybr	N	לײבר	lYbr	_
+
+SENT	1704E-ELLUSH,.7
+1	az	C	אַז	Aaz	_
+2	di	D	די	dy	_
+3	gmilut	H	גמילוט	gmylvt	acts
+4	khsdim	H	כסדים	xsdyM	pious_ones
+5	...	PUNC	...	...	_
+
+SENT	1704E-ELLUSH,.8
+1	vas	WPRO	װאַס	VAas	_
+2	der	D	דער	der	_
+3	mens	N	מענס	mens	_
+4	tut	VBF	טוט	tvt	_
+5	mit	P	מיט	myt	_
+6	di	D	די	dy	_
+7	tutn	N	טוטן	tvtN	_
+
+SENT	1704E-ELLUSH,.9
+1	az	C	אַז	Aaz	_
+2	ikh	PRO	איך	AyX	_
+3	far	VBF	פֿאַר	fAar	_
+4	in	P	אין	AyN	_
+5	erts	H	ערץ	erQ	land
+6	isral	NPR	איסראַל	AysrAal	_
+7	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1704E-ELLUSH,.10
+1	az	C	אַז	Aaz	_
+2	ikh	PRO	איך	AyX	_
+3	ver	RDF	װער	Ver	_
+4	zukhh	RP-H	זוכה	zvxh	_
+5	zeyn	VB	זײן	zYN	_
+6	tsu	TO	צו	qv	_
+7	kumn	VB	קומן	kvmN	_
+8	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1704E-ELLUSH,.11
+1	az	C	אַז	Aaz	_
+2	hs"i	H	הס"אי	hs"Ay	his_name_may_be_blessed
+3	zal	MDF	ז"ל	z"l	_
+4	eykh	PRO	אײך	AYX	_
+5	mit	P	מיט	myt	_
+6	eyrh	PRO$	אײרה	AYrh	_
+7	mann	N	מאַנן	mAanN	_
+8	und	CONJ	אונד	Avnd	_
+9	kindr	N	קינדר	kyndr	_
+10	irh	PRO$	אירה	Ayrh	_
+11	yar	N	יאַר	yAar	_
+12	dr_lengn	VB	דר_לענגן	dr_lengN	_
+
+SENT	1704E-ELLUSH,.12
+1	dz	C	דז	dz	_
+2	keynr	Q	קײנר	kYnr	_
+3	zul	MDF	זול	zvl	_
+4	zikh	PRO	זיך	zyX	_
+5	nit	NEG	ניט	nyt	_
+6	dr_vegn	VB	דר_װעגן	dr_VegN	_
+
+SENT	1704E-ELLUSH,.13
+1	vaz	WPRO	װאַז	VAaz	_
+2	hash	H	האַש	hAa$	the_name
+3	hkdush	H	הקדוש	hkdv$	the_holy
+4	mit	P	מיט	myt	_
+5	pirn	N	פּירן	pyrN	_
+6	hat	HVF	האַט	hAat	_
+7	gimakht	VBN	גימאַכט	gymAaxt	_
+
+SENT	1704E-ELLUSH,.14
+1	vi	C	װי	Vy	_
+2	der	D	דער	der	_
+3	ben	N	בן	bN	son
+4	adam	NPR	אַדאַם	AadAaM	_
+5	iz	VBF	איז	Ayz	_
+6	zikh	PRO	זיך	zyX	_
+7	nuhg	RP-H	נוהג	nvhg	_
+8	mit	P	מיט	myt	_
+9	dem	D	דעם	deM	_
+10	menshn	N	מענשן	men$N	_
+
+SENT	1704E-ELLUSH,.15
+1	az	C	אַז	Aaz	_
+2	itlikhr	Q	איטליכר	Aytlyxr	_
+3	{z}al	MDF	{ז}אַל	{z}Aal	_
+4	verstin	VB	װערסטין	VerstyN	_
+
+SENT	1704E-ELLUSH,.16
+1	vas	C	װאַס	VAas	_
+2	es	ES	עס	es	_
+3	iz	VBF	איז	Ayz	_
+4	hurb	ADJ	הורב	hvrb	_
+5	das	D	דת	dS	_
+6	art	N	אַרט	Aart	_
+
+SENT	1704E-ELLUSH,.17
+1	vau	WADV	װאַו	VAav	_
+2	min	PRO	מין	myN	_
+3	hat	HVF	האַט	hAat	_
+4	fergebin	VBN	פֿערגעבין	fergebyN	_
+5	unzi	PRO$	אונזי	Avnzy	_
+6	zind	N	זינד	zynd	_
+
+SENT	1704E-ELLUSH,.18
+1	az	C	אַז	Aaz	_
+2	das	D	דת	dS	_
+3	iz	VBF	איז	Ayz	_
+4	gmlu	H	גמלו	gmlv	recompensed_they
+5	khsrim	H	כסרים	xsryM	absent
+6	sl	H	סל	sl	of
+7	ams	H	אַמס	Aams	UNKNOWN
+
+SENT	1704E-ELLUSH,.19
+1	ven	C	װען	VeN	_
+2	eynr	PRO	אײנר	AYnr	_
+3	is	BEF	איס	Ays	_
+4	gistt	VAN	גיסטט	gystt	_
+
+SENT	1704E-ELLUSH,.20
+1	az	C	אַז	Aaz	_
+2	zi	PRO	זי	zy	_
+3	zehn	VBF	זעהן	zehN	_
+4	az	C	אַז	Aaz	_
+5	di	D	די	dy	_
+6	nsmh	N	נסמה	nsmh	_
+7	zoymt	VBF	זױמט	zWmt	_
+8	i	C	אי	Ay	_
+9	zi	PRO	זי	zy	_
+10	git	VBF	גיט	gyt	_
+11	arus	ADV	אַרוס	Aarvs	_
+
+SENT	1704E-ELLUSH,.21
+1	az	C	אַז	Aaz	_
+2	zi	PRO	זי	zy	_
+3	zehn	VBF	זעהן	zehN	_
+4	az	C	אַז	Aaz	_
+5	es	PRO	עס	es	_
+6	givert	VBF	גיװערט	gyVert	_
+7	lang	ADV	לאַנג	lAang	_
+
+SENT	1704E-ELLUSH,.22
+1	ven	C	װען	VeN	_
+2	zi	PRO	זי	zy	_
+3	kumn	VBF	קומן	kvmN	_
+4	tsu	P	צו	qv	_
+5	im	PRO	אים	AyM	_
+6	i	C	אי	Ay	_
+7	di	D	די	dy	_
+8	nshmh	N	נשמה	n$mh	_
+9	git	VBF	גיט	gyt	_
+10	arus	ADV	אַרוס	Aarvs	_
+
+SENT	1704E-ELLUSH,.23
+1	vas	WPRO	װאַס	VAas	_
+2	ikh	PRO	איך	AyX	_
+3	hab	HVF	האַב	hAab	_
+4	gifunn	VBN	גיפֿונן	gyfvnN	_
+
+SENT	1704E-ELLUSH,.24
+1	az	C	אַז	Aaz	_
+2	der	D	דער	der	_
+3	mens	N	מענס	mens	_
+4	iz	VBF	איז	Ayz	_
+5	nsh	H	נש	n$	UNKNOWN
+6	lmut	H	למוט	lmvt	UNKNOWN
+
+SENT	1704E-ELLUSH,.25
+1	az	C	אַז	Aaz	_
+2	di	D	די	dy	_
+3	nshmh	N	נשמה	n$mh	_
+4	zal	MDF	ז"ל	z"l	_
+5	nit	NEG	ניט	nyt	_
+6	oys	RP	אױס	AWs	_
+7	gin	VB	גין	gyN	_
+
+SENT	1704E-ELLUSH,.26
+1	i	C	אי	Ay	_
+2	zi	PRO	זי	zy	_
+3	git	VBF	גיט	gyt	_
+4	aroys	ADV	אַרױס	AarWs	_
+
+SENT	1704E-ELLUSH,.27
+1	az	C	אַז	Aaz	_
+2	men	PRO	מען	meN	_
+3	hat	HVF	האַט	hAat	_
+4	gizagt	VBN	גיזאַגט	gyzAagt	_
+5	fir	NUM	פֿיר	fyr	_
+6	drfin	X	דרפֿין	drfyN	_
+7	simus_use	VB	סימוס_וסע	symvs_vse	_
+
+SENT	1704E-ELLUSH,.28
+1	az	C	אַז	Aaz	_
+2	min	N	מין	myN	_
+3	iz	VBF	איז	Ayz	_
+4	bey	P	בײ	bY	_
+5	im	PRO	אים	AyM	_
+
+SENT	1704E-ELLUSH,.29
+1	di	WPRO	די	dy	_
+2	darbey	DR+P	דאַרבײ	dAarbY	_
+3	steyain	VBF	סטײאַיִן	stYAayiN	_
+

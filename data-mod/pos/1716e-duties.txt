@@ -1,0 +1,178 @@
+SENT	1716E-DUTIES,.2
+1	dz	C	דז	dz	_
+2	gat	NPR	גאַט	gAat	_
+3	iz	VBF	איז	Ayz	_
+4	imr	ADV	אימר	Aymr	_
+5	un	CONJ	און	AvN	_
+6	ibig	ADV	איביג	Aybyg	_
+7	var	ADJ	װאַר	VAar	_
+
+SENT	1716E-DUTIES,.3
+1	dz	C	דז	dz	_
+2	zoyln	MDF	זױלן	zWlN	_
+3	zikh	PRO	זיך	zyX	_
+4	dran	DR+P	דראַן	drAaN	_
+5	kern	VB	קרן	krN	_
+6	manin	N	מאַנין	mAanyN	_
+7	un'	CONJ	אונ'	Avn'	_
+8	veybr	N	װײבר	VYbr	_
+9	oykh	ADV	אױך	AWX	_
+10	ali	Q	אַלי	Aaly	_
+11	leyt	N	לײט	lYt	_
+
+SENT	1716E-DUTIES,.4
+1	vi	C	װי	Vy	_
+2	mn	PRO	מן	mN	_
+3	zal	MDF	ז"ל	z"l	_
+4	an	P	אַן	AaN	_
+5	den	D	דען	deN	_
+6	ikhud	N	איכוד	Ayxvd	_
+7	gloybn	VB	גלױבן	glWbN	_
+8	mit	P	מיט	myt	_
+9	gantsn	ADJ	גאַנצן	gAanqN	_
+10	hertsn	N	הערצן	herqN	_
+
+SENT	1716E-DUTIES,.5
+1	vi	C	װי	Vy	_
+2	der	D	דער	der	_
+3	mens	N	מענס	mens	_
+4	zal	MDF	ז"ל	z"l	_
+5	val	ADV	װאַל	VAal	_
+6	prubn	VB	פּרובן	prvbN	_
+7	oyf	P	אױף	AWF	_
+8	gatsdinst	N	גאַצדינסט	gAaqdynst	_
+
+SENT	1716E-DUTIES,.6
+1	dz	C	דז	dz	_
+2	er	PRO	ער	er	_
+3	nit	NEG	ניט	nyt	_
+4	zal	MDF	ז"ל	z"l	_
+5	meynn	VB	מײנן	mYnN	_
+
+SENT	1716E-DUTIES,.7
+1	daz	C	דאַז	dAaz	_
+2	das	D	דת	dS	_
+3	eshiruth	N	עשירוטה	e$yrvth	_
+4	iz	BEF	איז	Ayz	_
+5	im	PRO	אים	AyM	_
+6	an_gbarn	ADJ	אַנ_גבאַרן	Aan_gbAarN	_
+
+SENT	1716E-DUTIES,.8
+1	dz	C	דז	dz	_
+2	mir	PRO	מיר	myr	_
+3	isral	NPR	איסראַל	AysrAal	_
+4	zeynn	VBF	זײנן	zYnN	_
+
+SENT	1716E-DUTIES,.9
+1	ven	C	װען	VeN	_
+2	mir	PRO	מיר	myr	_
+3	es	PRO	עס	es	_
+4	viln	MDF	װילן	VylN	_
+5	prubin	VB	פּרובין	prvbyN	_
+
+SENT	1716E-DUTIES,.10
+1	vi	C	װי	Vy	_
+2	mir	PRO	מיר	myr	_
+3	zaln	MDF	זאַלן	zAalN	_
+4	unzr	PRO$	אונזר	Avnzr	_
+5	...	N	...	...	_
+6	habn	VB	האַבן	hAabN	_
+7	oyf	P	אױף	AWF	_
+8	gat	NPR	גאַט	gAat	_
+9	aleyn	ADV	אַלײן	AalYN	_
+
+SENT	1716E-DUTIES,.11
+1	als	Q	אַלס	Aals	_
+2	vas	WPRO	װאַס	VAas	_
+3	gishikht	VBF	גישיכט	gy$yxt	_
+4	fun	P	פֿון	fvN	_
+5	grus	N	גרוס	grvs	_
+6	biz	P	ביז	byz	_
+7	kleyn	N	קלײן	klYN	_
+
+SENT	1716E-DUTIES,.12
+1	daz	C	דאַז	dAaz	_
+2	ali	Q	אַלי	Aaly	_
+3	unzr	PRO$	אונזר	Avnzr	_
+4	mesi	N	מעסי	mesy	_
+5	...	PUNC	...	...	_
+6	zal	MDF	ז"ל	z"l	_
+7	alis	Q	אַליס	Aalys	_
+8	zeyn	VB	זײן	zYN	_
+9	lshm	H	לשם	l$M	for_sake
+10	shmim	H	שמים	$myM	heavens
+
+SENT	1716E-DUTIES,.13
+1	mesi	H	מעסי	mesy	deeds
+2	vas	C	װאַס	VAas	_
+3	mir	PRO	מיר	myr	_
+4	tuan	VBF	טואַן	tvAaN	_
+
+SENT	1716E-DUTIES,.14
+1	dz	C	דז	dz	_
+2	man	PRO	מאַן	mAaN	_
+3	zal	MDF	ז"ל	z"l	_
+4	zikh	PRO	זיך	zyX	_
+5	gnts	ADV	גנץ	gnQ	_
+6	sfl	ADJ	ספֿל	sfl	_
+7	haltn	VB	האַלטן	hAaltN	_
+
+SENT	1716E-DUTIES,.15
+1	vi	C	װי	Vy	_
+2	man	PRO	מאַן	mAaN	_
+3	zal	MDF	ז"ל	z"l	_
+4	zikh	PRO	זיך	zyX	_
+5	vaul	ADV	װאַול	VAavl	_
+6	bidenkn	VB	בידענקן	bydenkN	_
+
+SENT	1716E-DUTIES,.16
+1	vi	C	װי	Vy	_
+2	mir	PRO	מיר	myr	_
+3	zaln	MDF	זאַלן	zAalN	_
+4	khshbun	H	כשבון	x$bvN	arithmetic
+5	ldk	H	לדק	ldk	to_fine
+6	ha	H	האַ	hAa	the
+7	tn	H	טן	tN	UNKNOWN
+8	oyl	H	אױל	AWl	want
+9	ali	Q	אַלי	Aaly	_
+10	unzri	PRO$	אונזרי	Avnzry	_
+11	mesim	N	מעסים	mesyM	_
+
+SENT	1716E-DUTIES,.17
+1	vas	WPRO	װאַס	VAas	_
+2	der_tsu	DR+P	דער_צו	der_qv	_
+3	gihert	VBF	גיהערט	gyhert	_
+
+SENT	1716E-DUTIES,.18
+1	ier	C	איער	Ayer	_
+2	man	PRO	מאַן	mAaN	_
+3	kumt	VBF	קומט	kvmt	_
+4	in	P	אין	AyN	_
+5	der	D	דער	der	_
+6	finstr	ADJ	פֿינסטר	fynstr	_
+7	erd	N	ערד	erd	_
+
+SENT	1716E-DUTIES,.19
+1	dz	C	דז	dz	_
+2	mir	PRO	מיר	myr	_
+3	zalin	MDF	זאַלין	zAalyN	_
+4	zikh	PRO	זיך	zyX	_
+5	purs	ADJ	פּורס	pvrs	_
+6	zeyn	VB	זײן	zYN	_
+7	fun	P	פֿון	fvN	_
+8	menkhi	Q	מענכי	menxy	_
+9	zakhn	N	זאַכן	zAaxN	_
+
+SENT	1716E-DUTIES,.20
+1	ven_shun	C	װענ_שון	Ven_$vN	_
+2	mn	PRO	מן	mN	_
+3	ken	MDF	קען	keN	_
+4	ez	PRO	עז	ez	_
+5	habn	VB	האַבן	hAabN	_
+
+SENT	1716E-DUTIES,.21
+1	di	WPRO	די	dy	_
+2	in	P	אין	AyN	_
+3	tayts	N	טײַץ	tYaQ	_
+4	stin	VBF	סטין	styN	_
+

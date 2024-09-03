@@ -1,0 +1,3100 @@
+SENT	1928E-ZARETSKI-MENDELE,19.3
+1	1	LS	1	1	_
+2	in	P	אין	AyN	_
+3	an	D	אַן	AaN	_
+4	analogisher	ADJ	אַנאַלאָגישער	AanAalAogy$er	_
+5	arbet	N	אַרבעט	Aarbet	_
+6	vegn	P	װעגן	VegN	_
+7	sholem-aleykhemn	NPR	שלום-אַלײכעמן	$lvM-AalYxemN	_
+8	di_yidishe_shprakh_1,_z.5-10	REF	די_ייִדישע_שפּראַכ_1,_ז.5-10	dy_yyidy$e_$prAax_1,_z.5-10	_
+9	hob	HVF	האָב	hAob	_
+10	ikh	PRO	איך	AyX	_
+11	gevizn	VBN	געװיזן	geVyzN	_
+12	,	PUNC	,	,	_
+13	az	C	אַז	Aaz	_
+14	far	P	פֿאַר	fAar	_
+15	a	D	אַ	Aa	_
+16	norme	N	נאָרמע	nAorme	_
+17-18	farn	P~D	פֿאַרן	fAarN	_
+17	far	P	פֿאַר	fAar	_
+18	n	D	נ	n	_
+19	yidishn	ADJ	ייִדישן	yyidy$N	_
+20	verterseyder	N	װערטערסײדער	VertersYder	_
+21	ken	MDF	קען	keN	_
+22	men	PRO	מען	meN	_
+23-24	onnemen	RP~VB	אָננעמען	AonnemeN	_
+23	on	RP	אָן	AoN	_
+24	nemen	VB	נעמען	nemeN	_
+25	:	PUNC	:	:	_
+26	perzonvort	N	פּערזאָנװאָרט	perzAonVAort	_
+27	,	PUNC	,	,	_
+28	verbum	FW	װערבום	VerbvM	_
+29	finitum	FW	פֿיניטום	fynytvM	_
+30	,	PUNC	,	,	_
+31-32	afn	P~D	אַפֿן	AafN	_
+31	af	P	אַף	AaF	_
+32	n	D	נ	n	_
+33	tsveytn	ADJ	צװײטן	qVYtN	_
+34	ort	N	אָרט	Aort	_
+35	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,19.4
+1	derbey	DR+P	דערבײ	derbY	_
+2	darf	MDF	דאַרף	dAarF	_
+3	men	PRO	מען	meN	_
+4	rekhenen	VB	רעכענען	rexeneN	_
+5	di	D	די	dy	_
+6	erter	N	ערטער	erter	_
+7	nit	NEG	ניט	nyt	_
+8	loyt	P	לוט	lvt	_
+9	bazundere	ADJ	באַזונדערע	bAazvndere	_
+10	verter	N	װערטער	Verter	_
+11	,	PUNC	,	,	_
+12	nor	CONJ	נאָר	nAor	_
+13	loyt	P	לוט	lvt	_
+14	grupes	N	גרופּעס	grvpes	_
+15	verter	N	װערטער	Verter	_
+16	,	PUNC	,	,	_
+17	gebundn	VAN	געבונדן	gebvndN	_
+18	tsvishn	P	צװישן	qVy$N	_
+19	zikh	PRO	זיך	zyX	_
+20	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,19.5
+1	dos	D	דאָס	dAos	_
+2	perzonvort	N	פּערזאָנװאָרט	perzAonVAort	_
+3-4	afn	P~D	אַפֿן	AafN	_
+3	af	P	אַף	AaF	_
+4	n	D	נ	n	_
+5	erstn	ADJ	ערסטן	erstN	_
+6	ort	N	אָרט	Aort	_
+7	kumt	VBF	קומט	kvmt	_
+8	,	PUNC	,	,	_
+9	in	P	אין	AyN	_
+10	a	D	אַ	Aa	_
+11	zats	N	זאַץ	zAaQ	_
+12	a	D	אַ	Aa	_
+13	forzetsung	N	פֿאָרזעצונג	fAorzeqvng	_
+14	(	OPAREN	(	(	_
+15	me	PRO	מע	me	_
+16	ken	MDF	קען	keN	_
+17-18	tsugebn	RP~VB	צוגעבן	qvgebN	_
+17	tsu	RP	צו	qv	_
+18	gebn	VB	געבן	gebN	_
+19	:	PUNC	:	:	_
+20	demolt	ADV	דעמאָלט	demAolt	_
+21	,	PUNC	,	,	_
+22	deriber	DR+P	דעריבער	deryber	_
+23	,	PUNC	,	,	_
+24	u.d.g.	X	או.ד.ג.	Av.d.g.	_
+25	)	CPAREN	)	)	_
+26	oyb	C	אױב	AWb	_
+27	nit	NEG	ניט	nyt	_
+28	rekhenen	VB	רעכענען	rexeneN	_
+29	imperativ	N	אימפּעראַטיװ	AymperAatyV	_
+30	in	P	אין	AyN	_
+31	a	D	אַ	Aa	_
+32	zats	N	זאַץ	zAaQ	_
+33	vegn	P	װעגן	VegN	_
+34	der	D	דער	der	_
+35	tsitirung	N	ציטירונג	qytyrvng	_
+36	,	PUNC	,	,	_
+37	velkher	WPRO	װעלכער	Velxer	_
+38	kumt	VBF	קומט	kvmt	_
+39	nokh	P	נאָך	nAoX	_
+40	der	D	דער	der	_
+41	tsitat	N	ציטאַט	qytAat	_
+42	,	PUNC	,	,	_
+
+SENT	1928E-ZARETSKI-MENDELE,19.6
+1	a.a.	X	אַ.אַ.	Aa.Aa.	_
+2	dos	D	דאָס	dAos	_
+3	perzonvort	N	פּערזאָנװאָרט	perzAonVAort	_
+4-5	ofn	P~D	אָפֿן	AofN	_
+4	of	P	עוף	evF	_
+5	n	D	נ	n	_
+6	dritn	ADJ	דריטן	drytN	_
+7	ort	N	אָרט	Aort	_
+8	kumt	VBF	קומט	kvmt	_
+9	in	P	אין	AyN	_
+10	oysrufzatsn	N	אױסרופֿזאַצן	AWsrvfzAaqN	_
+
+SENT	1928E-ZARETSKI-MENDELE,19.7
+1	un	CONJ	און	AvN	_
+2	iz	BEF	איז	Ayz	_
+3	biklal	ADV	בכּלל	bKll	_
+4	gevendt	VAN	געװענדט	geVendt	_
+5	on	P	אָן	AoN	_
+6	dem	D	דעם	deM	_
+7	ritm	N	ריטם	rytM	_
+8	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,19.8
+1	fun	P	פֿון	fvN	_
+2	etlekhe	Q	עטלעכע	etlexe	_
+3	sholem-aleykhems	NPR$	שלום-אַלײכעמס	$lvM-AalYxems	_
+4	tekstn	N	טעקסטן	tekstN	_
+5	hob	HVF	האָב	hAob	_
+6	ikh	PRO	איך	AyX	_
+7	gekrogn	VBN	געקראָגן	gekrAogN	_
+8	didozike	D	דידאָזיקע	dydAozyke	_
+9	tsifrn	N	ציפֿרן	qyfrN	_
+10	.	PUNC	.	.	_
+11	in	P	אין	AyN	_
+12	umopheyngikn	ADJ	אומאָפּהײנגיקן	AvmAophYngykN	_
+13	zats	N	זאַץ	zAaQ	_
+14	2	N	2	2	_
+15	78%	NUM	78%	78%	_
+16	1	N	1	1	_
+17	21%	NUM	21%	21%	_
+18	3	N	3	3	_
+19	1%	NUM	1%	1%	_
+20	in	P	אין	AyN	_
+21	bayzats	N	בײַזאַץ	bYazAaQ	_
+22	2	N	2	2	_
+23	88%	NUM	88%	88%	_
+24	1	N	1	1	_
+25	12%	NUM	12%	12%	_
+26	3	N	3	3	_
+27	0%	NUM	0%	0%	_
+
+SENT	1928E-ZARETSKI-MENDELE,19.9
+1	2	LS	2	2	_
+2	itst	ADV	איצט	Ayqt	_
+3	hob	HVF	האָב	hAob	_
+4	ikh	PRO	איך	AyX	_
+5-6	durkhgemakht	RP~VBN	דורכגעמאַכט	dvrxgemAaxt	_
+5	durkh	RP	דורך	dvrX	_
+6	gemakht	VBN	געמאַכט	gemAaxt	_
+7	an	D	אַן	AaN	_
+8	enlekhe	ADJ	ענלעכע	enlexe	_
+9	arbet	N	אַרבעט	Aarbet	_
+10	iber	P	איבער	Ayber	_
+11	mendeles	NPR$	מענדעלעס	mendeles	_
+12	a	D	אַ	Aa	_
+13	tekst	N	טעקסט	tekst	_
+14	,	PUNC	,	,	_
+15	emes	ADV	אמת	AmS	_
+16	a	D	אַ	Aa	_
+17	klenern	ADJR	קלענערן	klenerN	_
+18	,	PUNC	,	,	_
+19	vi	P	װי	Vy	_
+20	dortn	ADV	דאָרטן	dAortN	_
+21	sholem-aleykhems	NPR$	שלום-אַלײכעמס	$lvM-AalYxems	_
+22	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,19.10
+1	kh'	PRO	כ'	x'	_
+2	hob	HVF	האָב	hAob	_
+3-4	durkhshtudirt	RP~VBN	דורכשטודירט	dvrx$tvdyrt	_
+3	durkh	RP	דורך	dvrX	_
+4	shtudirt	VBN	שטודירט	$tvdyrt	_
+5	di	D	די	dy	_
+6	hakdome	N	האַקדאָמע	hAakdAome	_
+7	un	CONJ	און	AvN	_
+8	di	D	די	dy	_
+9	erste	ADJ	ערסטע	erste	_
+10	tsvey	NUM	צװײ	qVY	_
+11	kapitlen	N	קאַפּיטלען	kAapytleN	_
+12	fun	P	פֿון	fvN	_
+13	der	D	דער	der	_
+14	kliatshe	N	קליִאַטשע	klyiAat$e	_
+15	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,19.11
+1	kh'	PRO	כ'	x'	_
+2	hob	HVF	האָב	hAob	_
+3	do	ADV	דאָ	dAo	_
+4-5	ongetseylt	RP~VBN	אָנגעצײלט	AongeqYlt	_
+4	on	RP	אָן	AoN	_
+5	getseylt	VBN	געצײלט	geqYlt	_
+6	,	PUNC	,	,	_
+7	tsuzamen	ADV	צוזאַמען	qvzAameN	_
+8	mit	P	מיט	myt	_
+9	imperativn	N	אימפּעראַטיװן	AymperAatyVN	_
+10	,	PUNC	,	,	_
+11	505	NUM	505	505	_
+12	perzonverter	N	פּערזאָנװערטער	perzAonVerter	_
+13	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,20.12
+1	apriori	ADV	אַפּריִאָרי	AapryiAory	_
+2	hot	HVF	האָט	hAot	_
+3	men	PRO	מען	meN	_
+4	zikh	PRO	זיך	zyX	_
+5	gekont	MDN	געקאָנט	gekAont	_
+6	rikhtn	VB	ריכטן	ryxtN	_
+7	,	PUNC	,	,	_
+8	az	C	אַז	Aaz	_
+9	keyn	Q	קײן	kYN	_
+10	groyser	ADJ	גרױסער	grWser	_
+11	untersheyd	N	אונטערשײד	Avnter$Yd	_
+12	akegn	P	אַקעגן	AakegN	_
+13	di	D	די	dy	_
+14	tsifern	N	ציפֿערן	qyferN	_
+15	ba	P	באַ	bAa	_
+16	sholem-aleykehmen	NPR	שלום-אַלײקעהמען	$lvM-AalYkehmeN	_
+17	vet	MDF	װעט	Vet	_
+18	do	ADV	דאָ	dAo	_
+19	nit	NEG	ניט	nyt	_
+20	zeyn	VB	זײן	zYN	_
+21	:	PUNC	:	:	_
+
+SENT	1928E-ZARETSKI-MENDELE,20.13
+1	beyde	Q	בײדע	bYde	_
+2	shreybers	N	שרײבערס	$rYbers	_
+3	nutsn	VBF	נוצן	nvqN	_
+4	a	D	אַ	Aa	_
+5	zatsboy	N	זאַצבױ	zAaqbW	_
+6	,	PUNC	,	,	_
+7	vos	C	װאָס	VAos	_
+8	sheydt	VBF	שײדט	$Ydt	_
+9	zikh	PRO	זיך	zyX	_
+10	nit	NEG	ניט	nyt	_
+11	veyt	ADV	װײט	VYt	_
+12	op	RP	אָפּ	Aop	_
+13-14	funm	P~D	פֿונם	fvnM	_
+13	fun	P	פֿון	fvN	_
+14	m	D	מ	m	_
+15	folkstimlekhn	N	פֿאָלקסטימלעכן	fAolkstymlexN	_
+16	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,20.14
+1	es	PRO	עס	es	_
+2	hot	HVF	האָט	hAot	_
+3	zikh	PRO	זיך	zyX	_
+4-5	aroysgevizn	ADV~VBN	אַרױסגעװיזן	AarWsgeVyzN	_
+4	aroys	ADV	אַרױס	AarWs	_
+5	gevizn	VBN	געװיזן	geVyzN	_
+6	azoy	ADV	אַזױ	AazW	_
+7	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,20.15
+1	ze	VBI	זע	ze	_
+2	tabele	N	טאַבעלע	tAabele	_
+3	z.	N	ז.	z.	_
+4	21-22	NUM	21-22	21-22	_
+5	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,20.16
+1	di	D	די	dy	_
+2	iberike	ADJ	איבעריקע	Ayberyke	_
+3	47	NUM	47	47	_
+4	perzonverter	N	פּערזאָנװערטער	perzAonVerter	_
+5	zeynen	VBF	זײנען	zYneN	_
+6	tsveyte	ADJ	צװײטע	qVYte	_
+7	koordinirt	VAN	קאָאָרדינירט	kAoAordynyrt	_
+8	mit	P	מיט	myt	_
+9	frierdike	N	פֿריִערדיקע	fryierdyke	_
+10	,	PUNC	,	,	_
+11	vi	P	װי	Vy	_
+12	:	PUNC	:	:	_
+
+SENT	1928E-ZARETSKI-MENDELE,20.17
+1	1	LS	1	1	_
+2	shlepn	VB	שלעפּן	$lepN	_
+3	shlept	VBF	שלעפּט	$lept	_
+4	es	PRO	עס	es	_
+5	zikh	PRO	זיך	zyX	_
+6	shtendik	ADV	שטענדיק	$tendyk	_
+7	arum	ADV	אַרום	AarvM	_
+
+SENT	1928E-ZARETSKI-MENDELE,20.18
+1	un	CONJ	און	AvN	_
+2	horevet	VBF	האָרעװעט	hAoreVet	_
+3	efsher	ADV	אפֿשר	Af$r	_
+4	nokh	ADV	נאָך	nAoX	_
+5	mer	QR	מער	mer	_
+6	fun	P	פֿון	fvN	_
+7	yene	D	יענע	yene	_
+8	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,20.19
+1	ba	P	באַ	bAa	_
+2	azelkhe	ADJ	אַזעלכע	Aazelxe	_
+3	perzonverter	N	פּערזאָנװערטער	perzAonVerter	_
+4	darf	MDF	דאַרף	dAarF	_
+5	men	PRO	מען	meN	_
+6	,	PUNC	,	,	_
+7	veyzt	VBF	װײזט	VYzt	_
+8	oys	RP	אױס	AWs	_
+9	,	PUNC	,	,	_
+10	nit	NEG	ניט	nyt	_
+11	reydn	VB	רײדן	rYdN	_
+12	poshet	ADV	פּשוט	p$vt	_
+13	vegn	P	װעגן	VegN	_
+14	erstn	ADJ	ערסטן	erstN	_
+15	,	PUNC	,	,	_
+16	tsveytn	ADJ	צװײטן	qVYtN	_
+17	un	CONJ	און	AvN	_
+18	dritn	ADJ	דריטן	drytN	_
+19	ort	N	אָרט	Aort	_
+20	;	PUNC	;	;	_
+
+SENT	1928E-ZARETSKI-MENDELE,20.20
+1	es	ES	עס	es	_
+2	darf	MDF	דאַרף	dAarF	_
+3-4	oysnemen	RP~VB	אױסנעמען	AWsnemeN	_
+3	oys	RP	אױס	AWs	_
+4	nemen	VB	נעמען	nemeN	_
+5	a	D	אַ	Aa	_
+6	tnay	N	תּנאַי	TnAay	_
+7	,	PUNC	,	,	_
+8	vi_azoy	WADV	װי_אַזױ	Vy_AazW	_
+9	tsu	TO	צו	qv	_
+10	tseyln	VB	צײלן	qYlN	_
+11	di	D	די	dy	_
+12	erter	N	ערטער	erter	_
+13	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,20.21
+1	ale	Q	אַלע	Aale	_
+2	47	NUM	47	47	_
+3	koordinirte	ADJ	קאָאָרדינירטע	kAoAordynyrte	_
+4	perzonvert	N	פּערזאָנװערט	perzAonVert	_
+5	shteyen	VBF	שטײען	$tYeN	_
+6	bald	ADV	באַלד	bAald	_
+7-8	nokhn	P~D	נאָכן	nAoxN	_
+7	nokh	P	נאָך	nAoX	_
+8	n	D	נ	n	_
+9	"	PUNC	"	"	_
+10	un	CONJ	און	AvN	_
+11	"	PUNC	"	"	_
+12	oder	CONJ	אָדער	Aoder	_
+13-14	nokhn	P~D	נאָכן	nAoxN	_
+13	nokh	P	נאָך	nAoX	_
+14	n	D	נ	n	_
+15	ort	N	אָרט	Aort	_
+16	,	PUNC	,	,	_
+17	vu	WADV	װוּ	VU	_
+18	s	ES	ס	s	_
+19	volt	VLF	װאָלט	VAolt	_
+20	geven	VBN	געװען	geVeN	_
+21	"	PUNC	"	"	_
+22	un	CONJ	און	AvN	_
+23	"	PUNC	"	"	_
+24	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,20.22
+1	3	LS	3	3	_
+2	ikh	PRO	איך	AyX	_
+3	gey	VBF	גײ	gY	_
+4	ariber	ADV	אַריבער	Aaryber	_
+5-6	tsum	P~D	צום	qvM	_
+5	tsu	P	צו	qv	_
+6	m	D	מ	m	_
+7	analiz	N	אַנאַליז	AanAalyz	_
+8	fun	P	פֿון	fvN	_
+9	bazundere	ADJ	באַזונדערע	bAazvndere	_
+10	faln	N	פֿאַלן	fAalN	_
+11	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,20.23
+1	tsvishn	P	צװישן	qVy$N	_
+2	di	D	די	dy	_
+3	245	NUM	245	245	_
+4	perzonverter	N	פּערזאָנװערטער	perzAonVerter	_
+5-6	afn	P~D	אַפֿן	AafN	_
+5	af	P	אַף	AaF	_
+6	n	D	נ	n	_
+7	tsveytn	ADJ	צװײטן	qVYtN	_
+8	ort	N	אָרט	Aort	_
+9	in	P	אין	AyN	_
+10	umopheyngikn	ADJ	אומאָפּהײנגיקן	AvmAophYngykN	_
+11	zats	N	זאַץ	zAaQ	_
+12	darf	MDF	דאַרף	dAarF	_
+13	men	PRO	מען	meN	_
+14	bezunder	ADV	בעזונדער	bezvnder	_
+15	dermonen	VB	דערמאָנען	dermAoneN	_
+16	10	NUM	10	10	_
+17	faln	N	פֿאַלן	fAalN	_
+18	,	PUNC	,	,	_
+19	ven	C	װען	VeN	_
+20-21	afn	P~D	אַפֿן	AafN	_
+20	af	P	אַף	AaF	_
+21	n	D	נ	n	_
+22	erstn	ADJ	ערסטן	erstN	_
+23	ort	N	אָרט	Aort	_
+24	iz	VBF	איז	Ayz	_
+25	der	D	דער	der	_
+26	fiktiver	ADJ	פֿיקטיװער	fyktyVer	_
+27	subyekt	N	סוביעקט	svbyekt	_
+28	"	PUNC	"	"	_
+29	es	ES	עס	es	_
+30	"	PUNC	"	"	_
+31	10	NUM	10	10	_
+32	fun	P	פֿון	fvN	_
+33	244	N	244	244	_
+34	heyst	VBF	הײסט	hYst	_
+35	4%	NUM	4%	4%	_
+
+SENT	1928E-ZARETSKI-MENDELE,20.24
+1	ze	VBI	זע	ze	_
+2	dos	D	דאָס	dAos	_
+3	artikel	N	אַרטיקעל	Aartykel	_
+4	vegn	P	װעגן	VegN	_
+5	sholem-aleykehms	NPR$	שלום-אַלײקעהמס	$lvM-AalYkehms	_
+6	verterseyder	N	װערטערסײדער	VertersYder	_
+7	in	P	אין	AyN	_
+8	der	D	דער	der	_
+9	yidishe	ADJ	ייִדישע	yyidy$e	_
+10	sprakh	N	ספּראַך	sprAaX	_
+11	no.	N	נאָ.	nAo.	_
+12	1	NUM	1	1	_
+
+SENT	1928E-ZARETSKI-MENDELE,20.25
+1	ba	P	באַ	bAa	_
+2	sholem-aleykhemen	NPR	שלום-אַלײכעמען	$lvM-AalYxemeN	_
+3	hob	HVF	האָב	hAob	_
+4	ikh	PRO	איך	AyX	_
+5-6	ongetseylt	RP~VBN	אָנגעצײלט	AongeqYlt	_
+5	on	RP	אָן	AoN	_
+6	getseylt	VBN	געצײלט	geqYlt	_
+7	68	NUM	68	68	_
+8	fun	P	פֿון	fvN	_
+9	1255	N	1255	1255	_
+10	,	PUNC	,	,	_
+11	d.h.	X	ד.ה.	d.h.	_
+12	kimat	ADV	כּמעט	Kmet	_
+13	5,5%	NUM	5,5%	5,5%	_
+14	,	PUNC	,	,	_
+15	ts.b.	X	צ.ב.	q.b.	_
+
+SENT	1928E-ZARETSKI-MENDELE,20.26
+1	2	LS	2	2	_
+2	es	ES	עס	es	_
+3	iz	VBF	איז	Ayz	_
+4	mir	PRO	מיר	myr	_
+5	a	D	אַ	Aa	_
+6	veytik	N	װײטיק	VYtyk	_
+7	tsu	TO	צו	qv	_
+8	zogn	VB	זאָגן	zAogN	_
+
+SENT	1928E-ZARETSKI-MENDELE,20.27
+1	s	PRO	ס	s	_
+2	volt	VLF	װאָלט	VAolt	_
+3	gekent	MDN	געקענט	gekent	_
+4	zayn	VB	זײַן	zYaN	_
+
+SENT	1928E-ZARETSKI-MENDELE,20.28
+1	2a	LS	2אַ	2Aa	_
+2	mir	PRO	מיר	myr	_
+3	iz	VBF	איז	Ayz	_
+4	a	D	אַ	Aa	_
+5	veytik	N	װײטיק	VYtyk	_
+6	tsu	TO	צו	qv	_
+7	zogn	VB	זאָגן	zAogN	_
+
+SENT	1928E-ZARETSKI-MENDELE,20.29
+1	2b	LS	2ב	2b	_
+2	a	D	אַ	Aa	_
+3	veytik	N	װײטיק	VYtyk	_
+4	iz	VBF	איז	Ayz	_
+5	mir	PRO	מיר	myr	_
+6	tsu	TO	צו	qv	_
+7	zogn	VB	זאָגן	zAogN	_
+
+SENT	1928E-ZARETSKI-MENDELE,21.30
+1	dem	D	דעם	deM	_
+2	oyskleyb	N	אױסקלײב	AWsklYb	_
+3	tsvishn	P	צװישן	qVy$N	_
+4-5	onheybn	RP~VB	אָנהײבן	AonhYbN	_
+4	on	RP	אָן	AoN	_
+5	heybn	VB	הײבן	hYbN	_
+6	a	D	אַ	Aa	_
+7	zats	N	זאַץ	zAaQ	_
+8	mit	P	מיט	myt	_
+9	"	PUNC	"	"	_
+10	es	ES	עס	es	_
+11	"	PUNC	"	"	_
+12	oder	CONJ	אָדער	Aoder	_
+13	mit	P	מיט	myt	_
+14	a	D	אַ	Aa	_
+15	virklekhn	ADJ	װירקלעכן	VyrklexN	_
+16	zatsglid	N	זאַצגליד	zAaqglyd	_
+17	hob	HVF	האָב	hAob	_
+18	ikh	PRO	איך	AyX	_
+19	in	P	אין	AyN	_
+20	frierdike	ADJ	פֿריִערדיקע	fryierdyke	_
+21	arbetn	N	אַרבעטן	AarbetN	_
+22	gepruvt	VBN	געפּרוּװט	geprUVt	_
+23	derklern	VB	דערקלערן	derklerN	_
+24	mit	P	מיט	myt	_
+25	ritm-foderungen	N	ריטם-פֿאָדערונגען	rytM-fAodervngeN	_
+26	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,21.31
+1	mendeles	NPR$	מענדעלעס	mendeles	_
+2	material	N	מאַטעריִאַל	mAateryiAal	_
+3	hot	HVF	האָט	hAot	_
+4	mir	PRO	מיר	myr	_
+5	nit	NEG	ניט	nyt	_
+6	gegebn	VBN	געגעבן	gegebN	_
+7	nit	NEG	ניט	nyt	_
+8	keyn	Q	קײן	kYN	_
+9	opleykenung	N	אָפּלײקענונג	AoplYkenvng	_
+10	,	PUNC	,	,	_
+11	nit	NEG	ניט	nyt	_
+12	keyn	Q	קײן	kYN	_
+13	zikherere	ADJ	זיכערערע	zyxerere	_
+14	bashtetikung	N	באַשטעטיקונג	bAa$tetykvng	_
+15	fun	P	פֿון	fvN	_
+16	der	D	דער	der	_
+17	hasore	N	האַסאָרע	hAasAore	_
+18	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,21.32
+1	4	LS	4	4	_
+2	veyter	ADV	װײטער	VYter	_
+3	,	PUNC	,	,	_
+4	zeynen	VBF	זײנען	zYneN	_
+5	tsvishn	P	צװישן	qVy$N	_
+6	di	D	די	dy	_
+7	244	NUM	244	244	_
+8	perzonverter	N	פּערזאָנװערטער	perzAonVerter	_
+9	3	NUM	3	3	_
+10	in	P	אין	AyN	_
+11	shteyendike	ADJ	שטײענדיקע	$tYendyke	_
+12	formules	N	פֿאָרמולעס	fAormvles	_
+13	:	PUNC	:	:	_
+
+SENT	1928E-ZARETSKI-MENDELE,21.33
+1	1	NUM	1	1	_
+2	mol	N	מאָל	mAol	_
+3	"	PUNC	"	"	_
+4	vos	WPRO	װאָס	VAos	_
+5	heyst	VBF	הײסט	hYst	_
+6	"	PUNC	"	"	_
+7	me	PRO	מע	me	_
+8	zogt	VBF	זאָגט	zAogt	_
+9	keynmol	ADV	קײנמאָל	kYnmAol	_
+10	nit	NEG	ניט	nyt	_
+11	:	PUNC	:	:	_
+12	heyst	VBF	הײסט	hYst	_
+13	vos	WPRO	װאָס	VAos	_
+14	un	CONJ	און	AvN	_
+15	2	NUM	2	2	_
+16	mol	N	מאָל	mAol	_
+17	dos	D	דאָס	dAos	_
+18	heyst	VBF	הײסט	hYst	_
+
+SENT	1928E-ZARETSKI-MENDELE,21.34
+1	heyst	VBF	הײסט	hYst	_
+2	dos	D	דאָס	dAos	_
+3	kumt	VBF	קומט	kvmt	_
+4	nor	FP	נאָר	nAor	_
+5	in	P	אין	AyN	_
+6	a	D	אַ	Aa	_
+7	spetsieln	ADJ	ספּעציִעלן	speqyielN	_
+8	fal	N	פֿאַל	fAal	_
+
+SENT	1928E-ZARETSKI-MENDELE,21.35
+1	5	LS	5	5	_
+2	lesof	ADV	לסוף	lsvF	_
+3	,	PUNC	,	,	_
+4	nokh	ADV	נאָך	nAoX	_
+5	5	NUM	5	5	_
+6	perzonverter	N	פּערזאָנװערטער	perzAonVerter	_
+7	,	PUNC	,	,	_
+8	vos	C	װאָס	VAos	_
+9	men	PRO	מען	meN	_
+10	darf	MDF	דאַרף	dAarF	_
+11	spetsiel	ADV	ספּעציִעל	speqyiel	_
+12-13	oysteyln	RP~VB	אױסטײלן	AWstYlN	_
+12	oys	RP	אױס	AWs	_
+13	teyln	VB	טײלן	tYlN	_
+14	in	P	אין	AyN	_
+15	behandlung	N	בעהאַנדלונג	behAandlvng	_
+16	:	PUNC	:	:	_
+
+SENT	1928E-ZARETSKI-MENDELE,21.36
+1	3	LS	3	3	_
+2	azoy	ADV	אַזױ	AazW	_
+3	vi	WADV	װי	Vy	_
+4	ikh	PRO	איך	AyX	_
+5	hob	HVF	האָב	hAob	_
+6	dem	D	דעם	deM	_
+7	oylem	N	עולם	evlM	_
+8-9	tsugezogt	RP~VBN	צוגעזאָגט	qvgezAogt	_
+8	tsu	RP	צו	qv	_
+9	gezogt	VBN	געזאָגט	gezAogt	_
+10-12	aroystsugebn	ADV~TO~VB	אַרױסצוגעבן	AarWsqvgebN	_
+10	aroys	ADV	אַרױס	AarWs	_
+11	tsu	TO	צו	qv	_
+12	gebn	VB	געבן	gebN	_
+13	a	D	אַ	Aa	_
+14	tsveytn	ADJ	צװײטן	qVYtN	_
+15	teyl	N	טײל	tYl	_
+16	fun	P	פֿון	fvN	_
+17	der	D	דער	der	_
+18	takse	N	טאַקסע	tAakse	_
+19	un	CONJ	און	AvN	_
+20	hob	HVF	האָב	hAob	_
+21	derbey	DR+P	דערבײ	derbY	_
+22	nisht	NEG	נישט	ny$t	_
+23	gezogt	VBN	געזאָגט	gezAogt	_
+24	bli-neyder	N	בלי--נדר	bly--ndr	_
+25	,	PUNC	,	,	_
+26	bekheyn	ADV	בכן	bxN	_
+27	iz	VBF	איז	Ayz	_
+28	dokh	ADV	דאָך	dAoX	_
+29	meyn	PRO$	מײן	mYN	_
+30	vort	N	װאָרט	VAort	_
+31	shoyn	ADV	שױן	$WN	_
+32	bleykh	ADJ	בלײך	blYX	_
+33	take	ADV	טאַקע	tAake	_
+34	vi	P	װי	Vy	_
+35	a	D	אַ	Aa	_
+36	neyder	N	נדר	ndr	_
+37	,	PUNC	,	,	_
+
+SENT	1928E-ZARETSKI-MENDELE,21.37
+1	heynt	CONJ	הײנט	hYnt	_
+2	vi	WADV	װי	Vy	_
+3	iz	BEF	איז	Ayz	_
+4	der	D	דער	der	_
+5	din	N	דין	dyN	_
+6	,	PUNC	,	,	_
+7	raboysim	N	רבותים	rbvSyM	_
+
+SENT	1928E-ZARETSKI-MENDELE,21.38
+1	fun	P	פֿון	fvN	_
+2	"	PUNC	"	"	_
+3	heynt	ADV	הײנט	hYnt	_
+4	"	PUNC	"	"	_
+5	heybt	VBF	הײבט	hYbt	_
+6	zikh	PRO	זיך	zyX	_
+7	on	RP	אָן	AoN	_
+8	an	D	אַן	AaN	_
+9	umopheyngiker	ADJ	אומאָפּהײנגיקער	AvmAophYngyker	_
+10	zats	N	זאַץ	zAaQ	_
+
+SENT	1928E-ZARETSKI-MENDELE,21.39
+1	dos	D	דאָס	dAos	_
+2	frierdike	N	פֿריִערדיקע	fryierdyke	_
+3	iz	VBF	איז	Ayz	_
+4	,	PUNC	,	,	_
+5	klor	ADV	קלאָר	klAor	_
+6	,	PUNC	,	,	_
+7	nit	NEG	ניט	nyt	_
+8	keyn	Q	קײן	kYN	_
+9	bayzats	N	בײַזאַץ	bYazAaQ	_
+10	tsu	P	צו	qv	_
+11	dem	D	דעם	deM	_
+
+SENT	1928E-ZARETSKI-MENDELE,21.40
+1	ober	CONJ	אָבער	Aober	_
+2	"	PUNC	"	"	_
+3	heynt	ADV	הײנט	hYnt	_
+4	"	PUNC	"	"	_
+5	iz	VBF	איז	Ayz	_
+6	a	D	אַ	Aa	_
+7	bindvort	N	בינדװאָרט	byndVAort	_
+8	,	PUNC	,	,	_
+
+SENT	1928E-ZARETSKI-MENDELE,21.41
+1	d.h.	X	ד.ה.	d.h.	_
+2	farnemt	VBF	פֿאַרנעמט	fAarnemt	_
+3	nit	NEG	ניט	nyt	_
+4	keyn	Q	קײן	kYN	_
+5	ort	N	אָרט	Aort	_
+6	legabe	P	לגבי	lgby	_
+7	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+8	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,21.42
+1	di	D	די	dy	_
+2	hanokhe	N	הנחה	hnHh	_
+3	,	PUNC	,	,	_
+4	az	C	אַז	Aaz	_
+5	a	D	אַ	Aa	_
+6	bindvort	N	בינדװאָרט	byndVAort	_
+7	farnemt	VBF	פֿאַרנעמט	fAarnemt	_
+8	nit	NEG	ניט	nyt	_
+9	keyn	Q	קײן	kYN	_
+10	ort	N	אָרט	Aort	_
+11	legabe	P	לגבי	lgby	_
+12	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+13	,	PUNC	,	,	_
+14	iz	VBF	איז	Ayz	_
+15	nit	NEG	ניט	nyt	_
+16	keyn	Q	קײן	kYN	_
+17	fakt	N	פֿאַקט	fAakt	_
+18	fun	P	פֿון	fvN	_
+19	der	D	דער	der	_
+20	shprakh	N	שפּראַך	$prAaX	_
+21	,	PUNC	,	,	_
+22	di	D	די	dy	_
+23	sprakh	N	ספּראַך	sprAaX	_
+24	hot	VBF	האָט	hAot	_
+25	dokh	ADV	דאָך	dAoX	_
+26	in	P	אין	AyN	_
+27	zikh	PRO	זיך	zyX	_
+28	nit	NEG	ניט	nyt	_
+29	keyn	Q	קײן	kYN	_
+30	formulirungen	N	פֿאָרמולירונגען	fAormvlyrvngeN	_
+31	,	PUNC	,	,	_
+32	nor	CONJ	נאָר	nAor	_
+33	a	D	אַ	Aa	_
+34	formulirung	N	פֿאָרמולירונג	fAormvlyrvng	_
+35	fun	P	פֿון	fvN	_
+36	a	D	אַ	Aa	_
+37	fakt	N	פֿאַקט	fAakt	_
+38	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,21.43
+1	die	D	דיִע	dyie	_
+2	zelbike	ADJ	זעלביקע	zelbyke	_
+3	faktn	N	פֿאַקטן	fAaktN	_
+4	ken	MDF	קען	keN	_
+5	men	PRO	מען	meN	_
+6	formulirn	VB	פֿאָרמולירן	fAormvlyrN	_
+7	ba	P	באַ	bAa	_
+8	a	D	אַ	Aa	_
+9	farkerter	ADJ	פֿאַרקערטער	fAarkerter	_
+10	hanokhe	N	הנחה	hnHh	_
+11	oykh	ADV	אױך	AWX	_
+12	,	PUNC	,	,	_
+
+SENT	1928E-ZARETSKI-MENDELE,21.44
+1	ober	CONJ	אָבער	Aober	_
+2	demolt	ADV	דעמאָלט	demAolt	_
+3	vet	MDF	װעט	Vet	_
+4	di	D	די	dy	_
+5	formulirung	N	פֿאָרמולירונג	fAormvlyrvng	_
+6	zeyn	VB	זײן	zYN	_
+7	shverer	ADJR	שװערער	$Verer	_
+8	,	PUNC	,	,	_
+9	viniker	ADVR	װיניקער	Vynyker	_
+10	shparevdik	ADJ	שפּאַרעװדיק	$pAareVdyk	_
+11	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,21.45
+1	alzo	ADV	אַלזאָ	AalzAo	_
+2	,	PUNC	,	,	_
+3	shteyt	VBF	שטײט	$tYt	_
+4	do	ADV	דאָ	dAo	_
+5	dos	D	דאָס	dAos	_
+6	perzonvort	N	פּערזאָנװאָרט	perzAonVAort	_
+7	"	PUNC	"	"	_
+8	iz	VBF	איז	Ayz	_
+9	"	PUNC	"	"	_
+10-11	afn	P~D	אַפֿן	AafN	_
+10	af	P	אַף	AaF	_
+11	n	D	נ	n	_
+12	tsveytn	ADJ	צװײטן	qVYtN	_
+13	ort	N	אָרט	Aort	_
+14	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,21.46
+1	4	LS	4	4	_
+2	heynt	CONJ	הײנט	hYnt	_
+3	vi	WADV	װי	Vy	_
+4	iz	VBF	איז	Ayz	_
+5	der	D	דער	der	_
+6	din	N	דין	dyN	_
+7	,	PUNC	,	,	_
+8	raboysim	N	רבותים	rbvSyM	_
+9	,	PUNC	,	,	_
+
+SENT	1928E-ZARETSKI-MENDELE,21.47
+1	hob	HVF	האָב	hAob	_
+2	ikh	PRO	איך	AyX	_
+3	zey	PRO	זײ	zY	_
+4	gefregt	VBN	געפֿרעגט	gefregt	_
+5	,	PUNC	,	,	_
+6	az	C	אַז	Aaz	_
+7	ikh	PRO	איך	AyX	_
+8	gib	VBF	גיב	gyb	_
+9	atsind	ADV	אַצינד	Aaqynd	_
+10	aroys	ADV	אַרױס	AarWs	_
+11	meyn	PRO$	מײן	mYN	_
+12	kliatshe	N	קליִאַטשע	klyiAat$e	_
+13	,	PUNC	,	,	_
+14	oyb	C	אױב	AWb	_
+15	ikh	PRO	איך	AyX	_
+16	ken	MDF	קען	keN	_
+17	mit	P	מיט	myt	_
+18	ir	PRO	איר	Ayr	_
+19	yuitse	RP-H	יויִצע	yvyiqe	_
+20	zeyn	VB	זײן	zYN	_
+21	meyn	PRO$	מײן	mYN	_
+22	neyder	N	נדר	ndr	_
+23	?	PUNC	?	?	_
+
+SENT	1928E-ZARETSKI-MENDELE,21.48
+1	der	D	דער	der	_
+2	"	PUNC	"	"	_
+3	oyb	C	אױב	AWb	_
+4	"	PUNC	"	"	_
+5	iz	VBF	איז	Ayz	_
+6	mir	PRO	מיר	myr	_
+7	do	ADV	דאָ	dAo	_
+8	nit	NEG	ניט	nyt	_
+9	gants	ADV	גאַנץ	gAanQ	_
+10	klor	ADJ	קלאָר	klAor	_
+11	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,21.49
+1	tsi	C	צי	qy	_
+2	iz	VBF	איז	Ayz	_
+3	dos	D	דאָס	dAos	_
+4	a	D	אַ	Aa	_
+5	fregpartikl	N	פֿרעגפּאַרטיקל	fregpAartykl	_
+6	?	PUNC	?	?	_
+7	oder	CONJ	אָדער	Aoder	_
+8	a	D	אַ	Aa	_
+9	fregpartikl	N	פֿרעגפּאַרטיקל	fregpAartykl	_
+10	un	CONJ	און	AvN	_
+11	bindvort	N	בינדװאָרט	byndVAort	_
+12	in	P	אין	AyN	_
+13	a	D	אַ	Aa	_
+14	umopheyngikn	ADJ	אומאָפּהײנגיקן	AvmAophYngykN	_
+15	zats	N	זאַץ	zAaQ	_
+16	tsuzamen	ADV	צוזאַמען	qvzAameN	_
+17	?	PUNC	?	?	_
+
+SENT	1928E-ZARETSKI-MENDELE,21.50
+1	tsi	C	צי	qy	_
+2	efsher	ADV	אפֿשר	Af$r	_
+3	iz	VBF	איז	Ayz	_
+4	es	PRO	עס	es	_
+5	gor	ADV	גאָר	gAor	_
+6	a	D	אַ	Aa	_
+7	beyzats	N	בײזאַץ	bYzAaQ	_
+8	tsu	P	צו	qv	_
+9	"	PUNC	"	"	_
+10	gefregt	VBN	געפֿרעגט	gefregt	_
+11	"	PUNC	"	"	_
+12	?	PUNC	?	?	_
+
+SENT	1928E-ZARETSKI-MENDELE,21.51
+1-2	bam	P~D	באַם	bAaM	_
+1	ba	P	באַ	bAa	_
+2	m	D	מ	m	_
+3	heyntikn	ADJ	הײנטיקן	hYntykN	_
+4	tsushtand	N	צושטאַנד	qv$tAand	_
+5	fun	P	פֿון	fvN	_
+6	yidisher	ADJ	ייִדישער	yyidy$er	_
+7	sprakhforshung	N	ספּראַכפֿאָרשונג	sprAaxfAor$vng	_
+8	,	PUNC	,	,	_
+9	ven	C	װען	VeN	_
+10	s'	ES	ס'	s'	_
+11	iz	VBF	איז	Ayz	_
+12-13	nito	NEG~ADV	ניטאָ	nytAo	_
+12	nit	NEG	ניט	nyt	_
+13	o	ADV	אָ	Ao	_
+14	nit	NEG	ניט	nyt	_
+15	keyn	Q	קײן	kYN	_
+16	akademisher	ADJ	אַקאַדעמישער	AakAademy$er	_
+17	verterbukh	N	װערטערבוך	VerterbvX	_
+18	,	PUNC	,	,	_
+19	nit	NEG	ניט	nyt	_
+20	keyn	Q	קײן	kYN	_
+21	gramatik	N	גראַמאַטיק	grAamAatyk	_
+22	tsu	P	צו	qv	_
+23	bazundere	ADJ	באַזונדערע	bAazvndere	_
+24	shreybers	N	שרײבערס	$rYbers	_
+25	,	PUNC	,	,	_
+26	muz	MDF	מוז	mvz	_
+27	men	PRO	מען	meN	_
+28	zikh	PRO	זיך	zyX	_
+29	oft	ADV	אָפֿט	Aoft	_
+30	banugenen	VB	באַנוגענען	bAanvgeneN	_
+31	mit	P	מיט	myt	_
+32	eygene	ADJ	אײגענע	AYgene	_
+33	sprakh-asotsiatsies	N	ספּראַך-אַסאָציִאַציִעס	sprAaX-AasAoqyiAaqyies	_
+34	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,21.52
+1	un	CONJ	און	AvN	_
+2	az	C	אַז	Aaz	_
+3	in	P	אין	AyN	_
+4	meyn	PRO$	מײן	mYN	_
+5	eygener	ADJ	אײגענער	AYgener	_
+6	shprakh	N	שפּראַך	$prAaX	_
+7	iz	VBF	איז	Ayz	_
+8	aza	ADJ	אַזאַ	AazAa	_
+9	konstruktie	N	קאָנסטרוקטיִע	kAonstrvktyie	_
+10-11	nito	NEG~ADV	ניטאָ	nytAo	_
+10	nit	NEG	ניט	nyt	_
+11	o	ADV	אָ	Ao	_
+12	iz	VBF	איז	Ayz	_
+13	mir	PRO	מיר	myr	_
+14	take	ADV	טאַקע	tAake	_
+15	shver	ADJ	שװער	$Ver	_
+16	tsu	TO	צו	qv	_
+17	kvalifitsirn	VB	קװאַליפֿיצירן	kVAalyfyqyrN	_
+18	di	D	די	dy	_
+19	dersheynung	N	דערשײנונג	der$Ynvng	_
+20	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,21.53
+1	ikh	PRO	איך	AyX	_
+2	volt	VLF	װאָלט	VAolt	_
+3	gezogt	VBN	געזאָגט	gezAogt	_
+4	:	PUNC	:	:	_
+5	tsi	C	צי	qy	_
+6	ken	MDF	קען	keN	_
+7	ikh	PRO	איך	AyX	_
+8	yuitse	RP-H	יויִצע	yvyiqe	_
+9	zeyn	VB	זײן	zYN	_
+
+SENT	1928E-ZARETSKI-MENDELE,21.54
+1	bamerkung	N	באַמערקונג	bAamerkvng	_
+2	:	PUNC	:	:	_
+3	mendele	NPR	מענדעלע	mendele	_
+4	nits	VBF	ניץ	nyQ	_
+5	dem	D	דעם	deM	_
+6	"	PUNC	"	"	_
+7	oyb	C	אױב	AWb	_
+8	"	PUNC	"	"	_
+9	,	PUNC	,	,	_
+10	biklal	ADV	בכּלל	bKll	_
+11	,	PUNC	,	,	_
+12	un	CONJ	און	AvN	_
+13	in	P	אין	AyN	_
+14	dem	D	דעם	deM	_
+15	fal	N	פֿאַל	fAal	_
+16	bifrat	ADV	בפֿרט	bfrt	_
+17	,	PUNC	,	,	_
+18	genoy	ADV	גענױ	genW	_
+19	vi	P	װי	Vy	_
+20	"	PUNC	"	"	_
+21	tsi	C	צי	qy	_
+22	"	PUNC	"	"	_
+23	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,21.55
+1	ikh	PRO	איך	AyX	_
+2	farekhn	VBF	פֿאַרעכן	fAarexN	_
+3	dem	D	דעם	deM	_
+4	fal	N	פֿאַל	fAal	_
+5	tsu	P	צו	qv	_
+6	di	D	די	dy	_
+7	perzonverter	N	פּערזאָנװערטער	perzAonVerter	_
+8-9	afn	P~D	אַפֿן	AafN	_
+8	af	P	אַף	AaF	_
+9	n	D	נ	n	_
+10	tsveytn	ADJ	צװײטן	qVYtN	_
+11	ort	N	אָרט	Aort	_
+12	in	P	אין	AyN	_
+13	umopheyngikn	ADJ	אומאָפּהײנגיקן	AvmAophYngykN	_
+14	zats	N	זאַץ	zAaQ	_
+15	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,21.56
+1	5	LS	5	5	_
+2	vi	WADV	װי	Vy	_
+3	noyekh	NPR	נח	nH	_
+4	iz	BEF	איז	Ayz	_
+5	amol	ADV	אַמאָל	AamAol	_
+6	in	P	אין	AyN	_
+7	der	D	דער	der	_
+8	toyve	N	טובֿה	tv~h	_
+9-10	ibergeblibn	RP~VBN	איבערגעבליבן	AybergeblybN	_
+9	iber	RP	איבער	Ayber	_
+10	geblibn	VBN	געבליבן	geblybN	_
+11	fun	P	פֿון	fvN	_
+12	ale	Q	אַלע	Aale	_
+13	bashefenisn	N	באַשעפֿעניסן	bAa$efenysN	_
+14	af	P	אַף	AaF	_
+15	der	D	דער	der	_
+16	velt	N	װעלט	Velt	_
+17	,	PUNC	,	,	_
+18	vos	C	װאָס	VAos	_
+19	zeynen	BEF	זײנען	zYneN	_
+20	dertrunken	VX	דערטרונקען	dertrvnkeN	_
+21	gevorn	RDN	געװאָרן	geVAorN	_
+22	in	P	אין	AyN	_
+23	dem	D	דעם	deM	_
+24	mabl	N	מבול	mbvl	_
+25	,	PUNC	,	,	_
+26	azoy	ADV	אַזױ	AazW	_
+27	bin	BEF	בין	byN	_
+28	ikh	PRO	איך	AyX	_
+29	,	PUNC	,	,	_
+30	yisroel	NPR	ישׂראל	yCrAl	_
+31	ben	NPR	בן	bN	_
+32	tsipe	NPR	ציפּע	qype	_
+33	,	PUNC	,	,	_
+34-35	ibergeblibn	RP~VBN	איבערגעבליבן	AybergeblybN	_
+34	iber	RP	איבער	Ayber	_
+35	geblibn	VBN	געבליבן	geblybN	_
+36	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.58
+1	ikh	PRO	איך	AyX	_
+2	nem	VBF	נעם	neM	_
+3	on	RP	אָן	AoN	_
+4	,	PUNC	,	,	_
+5	az	C	אַז	Aaz	_
+6	der	D	דער	der	_
+7	bayzats	N	בײַזאַץ	bYazAaQ	_
+8	aleyn	ADV	אַלײן	AalYN	_
+9	a	D	אַ	Aa	_
+10	tsunofgezetzter	ADJ	צונאָפֿגעזעטזטער	qvnAofgezetzter	_
+11	vos	C	װאָס	VAos	_
+12	mit	P	מיט	myt	_
+13	im	PRO	אים	AyM	_
+14	heybt	VBF	הײבט	hYbt	_
+15	zikh	PRO	זיך	zyX	_
+16	on	RP	אָן	AoN	_
+17	di	D	די	dy	_
+18	frage	N	פֿראַגע	frAage	_
+19	,	PUNC	,	,	_
+20	un	CONJ	און	AvN	_
+21	der	D	דער	der	_
+22	anshtprekhiker	ADJ	אַנשטפּרעכיקער	Aan$tprexyker	_
+23	pronom	N	פּראָנאָם	prAonAoM	_
+24	"	PUNC	"	"	_
+25	azoy	ADV	אַזױ	AazW	_
+26	"	PUNC	"	"	_
+27	bildn	VBF	בילדן	byldN	_
+28	tsuzamen	ADV	צוזאַמען	qvzAameN	_
+29	eyn	D	אײן	AYN	_
+30	grupe	N	גרופּע	grvpe	_
+31	,	PUNC	,	,	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.59
+1	ikh	PRO	איך	AyX	_
+2	halt	VBF	האַלט	hAalt	_
+3	far	P	פֿאַר	fAar	_
+4	iberik	ADJ	איבעריק	Ayberyk	_
+5	zikh	PRO	זיך	zyX	_
+6-7	opshteln	RP~VB	אָפּשטעלן	Aop$telN	_
+6	op	RP	אָפּ	Aop	_
+7	shteln	VB	שטעלן	$telN	_
+8	do	ADV	דאָ	dAo	_
+9	af	P	אַף	AaF	_
+10	derklerungen	N	דערקלערונגען	derklervngeN	_
+11	,	PUNC	,	,	_
+12	az	C	אַז	Aaz	_
+13	"	PUNC	"	"	_
+14	azoy	ADV	אַזױ	AazW	_
+15	"	PUNC	"	"	_
+16	iz	VBF	איז	Ayz	_
+17	a	D	אַ	Aa	_
+18	pronom	N	פּראָנאָם	prAonAoM	_
+19	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.60
+1	deriber	DR+P	דעריבער	deryber	_
+2	halt	VBF	האַלט	hAalt	_
+3	ikh	PRO	איך	AyX	_
+4	,	PUNC	,	,	_
+5	az	C	אַז	Aaz	_
+6	"	PUNC	"	"	_
+7	bin	VBF	בין	byN	_
+8	"	PUNC	"	"	_
+9	iz	VBF	איז	Ayz	_
+10-11	afn	P~D	אַפֿן	AafN	_
+10	af	P	אַף	AaF	_
+11	n	D	נ	n	_
+12	tsveytn	ADJ	צװײטן	qVYtN	_
+13	ort	N	אָרט	Aort	_
+14	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.61
+1	iberiks	ADV	איבעריקס	Ayberyks	_
+2	di	D	די	dy	_
+3	frage	N	פֿראַגע	frAage	_
+4	fodert	VBF	פֿאָדערט	fAodert	_
+5	nokh	ADV	נאָך	nAoX	_
+6	veyterdike	ADJ	װײטערדיקע	VYterdyke	_
+7	derklerung	N	דערקלערונג	derklervng	_
+8	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.62
+1	me	PRO	מע	me	_
+2	ken	MDF	קען	keN	_
+3	zogn	VB	זאָגן	zAogN	_
+4	:	PUNC	:	:	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.63
+1	5a	LS	5אַ	5Aa	_
+2	ven	C	װען	VeN	_
+3	ikh	PRO	איך	AyX	_
+4	vel	MDF	װעל	Vel	_
+5	kumen	VB	קומען	kvmeN	_
+6	aheym	ADV	אַהײם	AahYM	_
+7	,	PUNC	,	,	_
+8	demolt	ADV	דעמאָלט	demAolt	_
+9	vel	MDF	װעל	Vel	_
+10	ikh	PRO	איך	AyX	_
+11	shreybn	VB	שרײבן	$rYbN	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.64
+1	der	D	דער	der	_
+2	bayzats	N	בײַזאַץ	bYazAaQ	_
+3-4	mitn	P~D	מיטן	mytN	_
+3	mit	P	מיט	myt	_
+4	n	D	נ	n	_
+5	entfer-vort	N	ענטפֿער-װאָרט	entfer-VAort	_
+6	"	PUNC	"	"	_
+7	demolt	ADV	דעמאָלט	demAolt	_
+8	"	PUNC	"	"	_
+9	veyzn	VBF	װײזן	VYzN	_
+10	do	ADV	דאָ	dAo	_
+11	oys	RP	אױס	AWs	_
+12	tsu	TO	צו	qv	_
+13	zeyn	VB	זײן	zYN	_
+14	eyn	D	אײן	AYN	_
+15	grupe	N	גרופּע	grvpe	_
+16	,	PUNC	,	,	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.65
+1	me	PRO	מע	me	_
+2	ken	MDF	קען	keN	_
+3	oykh	ADV	אױך	AWX	_
+4	zogn	VB	זאָגן	zAogN	_
+5	:	PUNC	:	:	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.66
+1	5b	LS	5ב	5b	_
+2	ven	C	װען	VeN	_
+3	ikh	PRO	איך	AyX	_
+4	vel	MDF	װעל	Vel	_
+5	kumen	VB	קומען	kvmeN	_
+6	aheym	ADV	אַהײם	AahYM	_
+7	,	PUNC	,	,	_
+8	vel	MDF	װעל	Vel	_
+9	ikh	PRO	איך	AyX	_
+10	demolt	ADV	דעמאָלט	demAolt	_
+11	shreybn	VB	שרײבן	$rYbN	_
+12	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.67
+1	efsher	ADV	אפֿשר	Af$r	_
+2	bekumt	VBF	בעקומט	bekvmt	_
+3	in	P	אין	AyN	_
+4	tsveytn	ADJ	צװײטן	qVYtN	_
+5	fal	N	פֿאַל	fAal	_
+6	"	PUNC	"	"	_
+7	demolt	ADV	דעמאָלט	demAolt	_
+8	"	PUNC	"	"	_
+9	mer	QR	מער	mer	_
+10	bateytikeyt	N	באַטײטיקײט	bAatYtykYt	_
+11	?	PUNC	?	?	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.68
+1	6	LS	6	6	_
+2	a	D	אַ	Aa	_
+3	teyl	N	טײל	tYl	_
+4	hobn	HVF	האָבן	hAobN	_
+5	zikh	PRO	זיך	zyX	_
+6	tseshlept	VBN	צעשלעפּט	qe$lept	_
+7	,	PUNC	,	,	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.69
+1	a	D	אַ	Aa	_
+2	teyl	N	טײל	tYl	_
+3	zeynen	BEF	זײנען	zYneN	_
+4	gevorn	RDN	געװאָרן	geVAorN	_
+5	meamldit	VAN	מעאַמלדיט	meAamldyt	_
+6	,	PUNC	,	,	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.70
+1	un	CONJ	און	AvN	_
+2	a	D	אַ	Aa	_
+3	teyl	N	טײל	tYl	_
+4	,	PUNC	,	,	_
+5	misteyns	ADV	מיסטײנס	mystYns	_
+6	gezogt	VAN	געזאָגט	gezAogt	_
+7	,	PUNC	,	,	_
+8	toygn	VBF	טױגן	tWgN	_
+9	dertsu	DR+P	דערצו	derqv	_
+10	afilu	FP	אַפֿילו	Aafylv	_
+11	oykh	ADV	אױך	AWX	_
+12	nit	NEG	ניט	nyt	_
+13	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.71
+1	veyzt	VBF	װײזט	VYzt	_
+2	oys	RP	אױס	AWs	_
+3	,	PUNC	,	,	_
+4	az	C	אַז	Aaz	_
+5	"	PUNC	"	"	_
+6-7	misteyns-gezogt	ADV~VAN	מיסטײנס-געזאָגט	mystYns-gezAogt	_
+6	misteyns-	ADV	מיסטײנס-	mystYns-	_
+7	gezogt	VAN	געזאָגט	gezAogt	_
+8	"	PUNC	"	"	_
+9	tsit	VBF	ציט	qyt	_
+10	do	ADV	דאָ	dAo	_
+11	tsu	P	צו	qv	_
+12	a	D	אַ	Aa	_
+13	teyl	N	טײל	tYl	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.72
+1	oyb	C	אױב	AWb	_
+2	azoy	ADV	אַזױ	AazW	_
+3	iz	VBF	איז	Ayz	_
+4	es	PRO	עס	es	_
+5	eyn	D	אײן	AYN	_
+6	grupe	N	גרופּע	grvpe	_
+7	,	PUNC	,	,	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.73
+1	un	CONJ	און	AvN	_
+2	dos	D	דאָס	dAos	_
+3	perzonvort	N	פּערזאָנװאָרט	perzAonVAort	_
+4	shteyt	VBF	שטײט	$tYt	_
+5-6	afn	P~D	אַפֿן	AafN	_
+5	af	P	אַף	AaF	_
+6	n	D	נ	n	_
+7	tsveytn	ADJ	צװײטן	qVYtN	_
+8	ort	N	אָרט	Aort	_
+9	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.74
+1	nisht	NEG	נישט	ny$t	_
+2	klor	ADJ	קלאָר	klAor	_
+3	:	PUNC	:	:	_
+4	tsi	C	צי	qy	_
+5	kon	MDF	קאָן	kAoN	_
+6	men	PRO	מען	meN	_
+7	nisht	NEG	נישט	ny$t	_
+8	zogn	VB	זאָגן	zAogN	_
+9	:	PUNC	:	:	_
+10	un	CONJ	און	AvN	_
+11	a	D	אַ	Aa	_
+12	tayl	N	טײַל	tYal	_
+13	toygn	VBF	טױגן	tWgN	_
+14	,	PUNC	,	,	_
+15	misteyns-gezogt	ADV	מיסטײנס-געזאָגט	mystYns-gezAogt	_
+16	,	PUNC	,	,	_
+17	dertsu	DR+P	דערצו	derqv	_
+18	oykh	ADV	אױך	AWX	_
+19	nit	NEG	ניט	nyt	_
+20	?	PUNC	?	?	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.75
+1	"	PUNC	"	"	_
+2-3	misteyns-gezogt	ADV~VAN	מיסטײנס-געזאָגט	mystYns-gezAogt	_
+2	misteyns-	ADV	מיסטײנס-	mystYns-	_
+3	gezogt	VAN	געזאָגט	gezAogt	_
+4	"	PUNC	"	"	_
+5	vet	MDF	װעט	Vet	_
+6	demolt	ADV	דעמאָלט	demAolt	_
+7	klar	ADV	קלאַר	klAar	_
+8	tsien	VB	ציון	qyvN	_
+9	tsu	P	צו	qv	_
+10	"	PUNC	"	"	_
+11	toygn	VB	טױגן	tWgN	_
+12	"	PUNC	"	"	_
+13	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.76
+1	ot	FP	אָט	Aot	_
+2	iz	VBF	איז	Ayz	_
+3	vider	ADV	װידער	Vyder	_
+4	eyne	PRO	אײנע	AYne	_
+5	fun	P	פֿון	fvN	_
+6	di	D	די	dy	_
+7	filtsolike	ADJ	פֿילצאָליקע	fylqAolyke	_
+8	gramatishe	ADJ	גראַמאַטישע	grAamAaty$e	_
+9	detal-frages	N	דעטאַל-פֿראַגעס	detAal-frAages	_
+10	,	PUNC	,	,	_
+11	vos	C	װאָס	VAos	_
+12	vartn	VBF	װאַרטן	VAartN	_
+13	nokh	ADV	נאָך	nAoX	_
+14	af	P	אַף	AaF	_
+15	zeyer	PRO$	זײער	zYer	_
+16	derlerner	N	דערלערנער	derlerner	_
+17	un	CONJ	און	AvN	_
+18	derlernung	N	דערלערנונג	derlernvng	_
+19	.	PUNC	.	.	_
+20	di	D	די	dy	_
+21	gramatishe	ADJ	גראַמאַטישע	grAamAaty$e	_
+22	tsiung	N	ציִונג	qyivng	_
+23	un	CONJ	און	AvN	_
+24	di	D	די	dy	_
+25	shtelung	N	שטעלונג	$telvng	_
+26-27	funm	P~D	פֿונם	fvnM	_
+26	fun	P	פֿון	fvN	_
+27	m	D	מ	m	_
+28	vort	N	װאָרט	VAort	_
+29	"	PUNC	"	"	_
+30-31	misteyns-gezogt	ADV~VAN	מיסטײנס-געזאָגט	mystYns-gezAogt	_
+30	misteyns-	ADV	מיסטײנס-	mystYns-	_
+31	gezogt	VAN	געזאָגט	gezAogt	_
+32	"	PUNC	"	"	_
+33	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.77
+1	7	LS	7	7	_
+2	oyb	C	אױב	AWb	_
+3	zi	PRO	זי	zy	_
+4	iz	VBF	איז	Ayz	_
+5	oykh	ADV	אױך	AWX	_
+6	a	D	אַ	Aa	_
+7	shtot-beheyme	N	שטאָט-בהמה	$tAot-bhmh	_
+8	,	PUNC	,	,	_
+9	dos	D	דאָס	dAos	_
+10	iz	VBF	איז	Ayz	_
+11	erst	ADV	ערסט	erst	_
+12	di	D	די	dy	_
+13	shayle	N	שאלה	$Alh	_
+14	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.78
+1	analogish	ADJ	אַנאַלאָגיש	AanAalAogy$	_
+2-3	mitn	P~D	מיטן	mytN	_
+2	mit	P	מיט	myt	_
+3	n	D	נ	n	_
+4	fal	N	פֿאַל	fAal	_
+5	5	N	5	5	_
+6	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.79
+1	6.	LS	6.	6.	_
+2	fun	P	פֿון	fvN	_
+3	di	D	די	dy	_
+4	35	NUM	35	35	_
+5	perzonverter	N	פּערזאָנװערטער	perzAonVerter	_
+6-7	afn	P~D	אַפֿן	AafN	_
+6	af	P	אַף	AaF	_
+7	n	D	נ	n	_
+8	erstn	ADJ	ערסטן	erstN	_
+9	ort	N	אָרט	Aort	_
+10	zeyen	VBF	זײען	zYeN	_
+11	24	NUM	24	24	_
+12	in	P	אין	AyN	_
+13	zatsn	N	זאַצן	zAaqN	_
+14	,	PUNC	,	,	_
+15	vos	C	װאָס	VAos	_
+16	kumen	VBF	קומען	kvmeN	_
+17	nokh	P	נאָך	nAoX	_
+18	a	D	אַ	Aa	_
+19	tsitat	N	ציטאַט	qytAat	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.80
+1	un	CONJ	און	AvN	_
+2	veyzn	VBF	װײזן	VYzN	_
+3	,	PUNC	,	,	_
+4	ver	WPRO	װער	Ver	_
+5	es	ES	עס	es	_
+6	zogt	VBF	זאָגט	zAogt	_
+7	zey	PRO	זײ	zY	_
+8	,	PUNC	,	,	_
+9	ts.b.	X	צ.ב.	q.b.	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.81
+1	8	LS	8	8	_
+2	oyb	C	אױב	AWb	_
+3	azoy	ADV	אַזױ	AazW	_
+4	,	PUNC	,	,	_
+5	zog	VBF	זאָג	zAog	_
+6	ikh	PRO	איך	AyX	_
+7	tsu	P	צו	qv	_
+8	im	PRO	אים	AyM	_
+9	,	PUNC	,	,	_
+10	koyf	VBF	קױף	kWF	_
+11	ikh	PRO	איך	AyX	_
+12	di	D	די	dy	_
+13	kliatshe	N	קליִאַטשע	klyiAat$e	_
+14	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.82
+1	6	NUM	6	6	_
+2	zeynen	VBF	זײנען	zYneN	_
+3	in	P	אין	AyN	_
+4	bamerkzatsn	N	באַמערקזאַצן	bAamerkzAaqN	_
+5	,	PUNC	,	,	_
+6	vos	C	װאָס	VAos	_
+7	kumen	VBF	קומען	kvmeN	_
+8	in	P	אין	AyN	_
+9	gruntzats	N	גרונטזאַץ	grvntzAaQ	_
+10	oder	CONJ	אָדער	Aoder	_
+11	nokh	P	נאָך	nAoX	_
+12	im	PRO	אים	AyM	_
+13	,	PUNC	,	,	_
+14	ts.b.	X	צ.ב.	q.b.	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.83
+1	9	LS	9	9	_
+2	fundestvegn	ADV	פֿונדעסטװעגן	fvndestVegN	_
+3	,	PUNC	,	,	_
+4	dakht	VBF	דאַכט	dAaxt	_
+5	zikh	PRO	זיך	zyX	_
+6	mir	PRO	מיר	myr	_
+7	,	PUNC	,	,	_
+8	vi	WADV	װי	Vy	_
+9	bald	ADV	באַלד	bAald	_
+10	afilu	FP	אַפֿילו	Aafylv	_
+11	di	D	די	dy	_
+12	kliatshe	N	קליִאַטשע	klyiAat$e	_
+13	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.84
+1	tsvishn	P	צװישן	qVy$N	_
+2	di	D	די	dy	_
+3	6	N	6	6	_
+4	zeynen	VBF	זײנען	zYneN	_
+5	3	NUM	3	3	_
+6	azelkhe	ADJ	אַזעלכע	Aazelxe	_
+7	,	PUNC	,	,	_
+8	vos	C	װאָס	VAos	_
+9	keyn	Q	קײן	kYN	_
+10	ander	ADJ	אַנדער	Aander	_
+11	shtelung	N	שטעלונג	$telvng	_
+12	iz	VBF	איז	Ayz	_
+13	ba	P	באַ	bAa	_
+14	zey	PRO	זײ	zY	_
+15	klal	ADV	כּלל	Kll	_
+16	nit	NEG	ניט	nyt	_
+17	meglekh	ADJ	מעגלעך	megleX	_
+18	1	NUM	1	1	_
+19	mol	N	מאָל	mAol	_
+20	"	PUNC	"	"	_
+21	dukht	VBF	דוכט	dvxt	_
+22	zikh	PRO	זיך	zyX	_
+23	"	PUNC	"	"	_
+24	und	CONJ	אונד	Avnd	_
+25	2	NUM	2	2	_
+26	mol	N	מאָל	mAol	_
+27	"	PUNC	"	"	_
+28	dakht	VBF	דאַכט	dAaxt	_
+29	zikh	PRO	זיך	zyX	_
+30	"	PUNC	"	"	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.85
+1	"	PUNC	"	"	_
+2	zikh	PRO	זיך	zyX	_
+3	"	PUNC	"	"	_
+4	kumt	VBF	קומט	kvmt	_
+5	nit	NEG	ניט	nyt	_
+6-7	farn	P~D	פֿאַרן	fAarN	_
+6	far	P	פֿאַר	fAar	_
+7	n	D	נ	n	_
+8	perzonvort	N	פּערזאָנװאָרט	perzAonVAort	_
+
+SENT	1928E-ZARETSKI-MENDELE,22.86
+1	3	NUM	3	3	_
+2	perzonverter	N	פּערזאָנװערטער	perzAonVerter	_
+3	zeynen	VBF	זײנען	zYneN	_
+4	in	P	אין	AyN	_
+5	zatsn	N	זאַצן	zAaqN	_
+6	,	PUNC	,	,	_
+7	vos	C	װאָס	VAos	_
+8	shteln	VBF	שטעלן	$telN	_
+9	for	RP	פֿאָר	fAor	_
+10	a	D	אַ	Aa	_
+11	farzetsung	N	פֿאַרזעצונג	fAarzeqvng	_
+12	fun	P	פֿון	fvN	_
+13	di	D	די	dy	_
+14	frierdike	N	פֿריִערדיקע	fryierdyke	_
+15	,	PUNC	,	,	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.87
+1	d.h.	X	ד.ה.	d.h.	_
+2	di	D	די	dy	_
+3	shtelung	N	שטעלונג	$telvng	_
+4	fun	P	פֿון	fvN	_
+5	perzonvort	N	פּערזאָנװאָרט	perzAonVAort	_
+6-7	afn	P~D	אַפֿן	AafN	_
+6	af	P	אַף	AaF	_
+7	n	D	נ	n	_
+8	erstn	ADJ	ערסטן	erstN	_
+9	ort	N	אָרט	Aort	_
+10	dint	VBF	דינט	dynt	_
+11	far	P	פֿאַר	fAar	_
+12	a	D	אַ	Aa	_
+13	gramatish	ADJ	גראַמאַטיש	grAamAaty$	_
+14	mitl	N	מיטל	mytl	_
+15	fun	P	פֿון	fvN	_
+16	farzetsung	N	פֿאַרזעצונג	fAarzeqvng	_
+17	,	PUNC	,	,	_
+18	farbeytndik	VAG	פֿאַרבײטנדיק	fAarbYtndyk	_
+19	an	D	אַן	AaN	_
+20	ander	ADJ	אַנדער	Aander	_
+21	gramamtishn	ADJ	גראַמאַמטישן	grAamAamty$N	_
+22	mitl	N	מיטל	mytl	_
+23	,	PUNC	,	,	_
+24	a	D	אַ	Aa	_
+25	bindvort	N	בינדװאָרט	byndVAort	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.88
+1	ot	FP	אָט	Aot	_
+2	zeynen	VBF	זײנען	zYneN	_
+3	zey	PRO	זײ	zY	_
+4	:	PUNC	:	:	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.89
+1	10	LS	10	10	_
+2	nu	INTJ	נו	nv	_
+3	,	PUNC	,	,	_
+4	vilt	VBF	װילט	Vylt	_
+5	ir	PRO	איר	Ayr	_
+6	,	PUNC	,	,	_
+7	reb	NPR	ר'	r'	_
+8	mendele	NPR	מענדעלע	mendele	_
+9	?	PUNC	?	?	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.90
+1	ikh	PRO	איך	AyX	_
+2	farbind	VBF	פֿאַרבינד	fAarbynd	_
+3	do	ADV	דאָ	dAo	_
+4	di	D	די	dy	_
+5	shtelung	N	שטעלונג	$telvng	_
+6	fun	P	פֿון	fvN	_
+7	perzonvort	N	פּערזאָנװאָרט	perzAonVAort	_
+8-9	mitn	P~D	מיטן	mytN	_
+8	mit	P	מיט	myt	_
+9	n	D	נ	n	_
+10	moment	N	מאָמענט	mAoment	_
+11	fun	P	פֿון	fvN	_
+12	farzetsung	N	פֿאַרזעצונג	fAarzeqvng	_
+13	,	PUNC	,	,	_
+14	nit	NEG	ניט	nyt	_
+15	mit	P	מיט	myt	_
+16	der	D	דער	der	_
+17	fregikeyt	N	פֿרעגיקײט	fregykYt	_
+18	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.91
+1	me	PRO	מע	me	_
+2	ken	MDF	קען	keN	_
+3	zogn	VB	זאָגן	zAogN	_
+4	:	PUNC	:	:	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.92
+1	10a	LS	10אַ	10Aa	_
+2	nu	INTJ	נו	nv	_
+3	,	PUNC	,	,	_
+4	ir	PRO	איר	Ayr	_
+5	vilt	VBF	װילט	Vylt	_
+6	,	PUNC	,	,	_
+7	reb	NPR	ר'	r'	_
+8	mendele	NPR	מענדעלע	mendele	_
+9	?	PUNC	?	?	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.93
+1	dos	D	דאָס	dAos	_
+2	iz	VBF	איז	Ayz	_
+3	oykh	ADV	אױך	AWX	_
+4	meglekh	ADJ	מעגלעך	megleX	_
+5	,	PUNC	,	,	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.94
+1	mernit	ADV	מערניט	mernyt	_
+2	di	D	די	dy	_
+3	frage	N	פֿראַגע	frAage	_
+4	vet	MDF	װעט	Vet	_
+5	zeyn	BE	זײן	zYN	_
+6	neyniker	ADV	נײניקער	nYnyker	_
+7	farbundn	VAN	פֿאַרבונדן	fAarbvndN	_
+8-9	mitn	P~D	מיטן	mytN	_
+8	mit	P	מיט	myt	_
+9	n	D	נ	n	_
+10	frierdikn	ADJ	פֿריִערדיקן	fryierdykN	_
+11	tekst	N	טעקסט	tekst	_
+12	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.95
+1	11	LS	11	11	_
+2	un	CONJ	און	AvN	_
+3	bifrat	ADV	בפֿרט	bfrt	_
+4	nokh	ADV	נאָך	nAoX	_
+5	mir	PRO	מיר	myr	_
+6	yidn	N	ייִדן	yyidN	_
+7	,	PUNC	,	,	_
+8	vos	C	װאָס	VAos	_
+9	mir	PRO	מיר	myr	_
+10	zeynen	VBF	זײנען	zYneN	_
+11	azoy	ADV	אַזױ	AazW	_
+12	in	P	אין	AyN	_
+13	der	D	דער	der	_
+14	klem	N	קלעם	kleM	_
+15	,	PUNC	,	,	_
+16	geshtikt	VAN	געשטיקט	ge$tykt	_
+17	,	PUNC	,	,	_
+18	gedrikt	VAN	געדריקט	gedrykt	_
+19	fun	P	פֿון	fvN	_
+20	ale	Q	אַלע	Aale	_
+21	zeytn	N	זײטן	zYtN	_
+22	,	PUNC	,	,	_
+23	iz	VBF	איז	Ayz	_
+24-25	nishto	NEG~ADV	נישטאָ	ny$tAo	_
+24	nisht	NEG	נישט	ny$t	_
+25	o	ADV	אָ	Ao	_
+26	far	P	פֿאַר	fAar	_
+27	unz	PRO	אונז	Avnz	_
+28	keyn	Q	קײן	kYN	_
+29	ander	ADJ	אַנדער	Aander	_
+30	veg	N	װעג	Veg	_
+31-33	aroystsureysn	ADV~TO~VB	אַרױסצורײסן	AarWsqvrYsN	_
+31	aroys	ADV	אַרױס	AarWs	_
+32	tsu	TO	צו	qv	_
+33	reysn	VB	רײסן	rYsN	_
+34	zikh	PRO	זיך	zyX	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.96
+1	do	ADV	דאָ	dAo	_
+2	iz	VBF	איז	Ayz	_
+3	an	D	אַן	AaN	_
+4	anakolit	N	אַנאַקאָליט	AanAakAolyt	_
+5	gebrokhener	ADJ	געבראָכענער	gebrAoxener	_
+6	zats	N	זאַץ	zAaQ	_
+7	:	PUNC	:	:	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.97
+1	"	PUNC	"	"	_
+2	mir	PRO	מיר	myr	_
+3	yidn	N	ייִדן	yyidN	_
+4	"	PUNC	"	"	_
+5	hot	HVF	האָט	hAot	_
+6	gezolt	MDN	געזאָלט	gezAolt	_
+7	zeyn	VB	זײן	zYN	_
+8	a	D	אַ	Aa	_
+9	subyekt	N	סוביעקט	svbyekt	_
+10	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.98
+1	ober	CONJ	אָבער	Aober	_
+2	der	D	דער	der	_
+3	predikat	N	פּרעדיקאַט	predykAat	_
+4	"	PUNC	"	"	_
+5	iz	BEF	איז	Ayz	_
+6-7	nishto	NEG~ADV	נישטאָ	ny$tAo	_
+6	nisht	NEG	נישט	ny$t	_
+7	o	ADV	אָ	Ao	_
+8	"	PUNC	"	"	_
+9	kon	MDF	קאָן	kAoN	_
+10	tsu	P	צו	qv	_
+11	im	PRO	אים	AyM	_
+12	nit	NEG	ניט	nyt	_
+13	tsien	VB	ציון	qyvN	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.99
+1	aderabe	ADV	אַדרבא	AadrbA	_
+2	,	PUNC	,	,	_
+3	der	D	דער	der	_
+4	onveyz	N	אָנװײז	AonVYz	_
+5	of	P	עוף	evF	_
+6	"	PUNC	"	"	_
+7	yidn	N	ייִדן	yyidN	_
+8	"	PUNC	"	"	_
+9	iz	BEF	איז	Ayz	_
+10	do	ADV	דאָ	dAo	_
+11-12	ibergekhazert	RP~VAN	איבערגעחזרט	AybergeHzrt	_
+11	iber	RP	איבער	Ayber	_
+12	gekhazert	VAN	געחזרט	geHzrt	_
+13	als	P	אַלס	Aals	_
+14	dativ	N	דאַטיװ	dAatyV	_
+15	"	PUNC	"	"	_
+16	far	P	פֿאַר	fAar	_
+17	unz	PRO	אונז	Avnz	_
+18	"	PUNC	"	"	_
+19	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.100
+1	formal	ADV	פֿאָרמאַל	fAormAal	_
+2	iz	VBF	איז	Ayz	_
+3	,	PUNC	,	,	_
+4	alzo	ADV	אַלזאָ	AalzAo	_
+5	,	PUNC	,	,	_
+6	"	PUNC	"	"	_
+7	mir	PRO	מיר	myr	_
+8	yidn	N	ייִדן	yyidN	_
+9	"	PUNC	"	"	_
+10	an	D	אַן	AaN	_
+11	ofener	ADJ	אָפֿענער	Aofener	_
+12	baheft	N	באַהעפֿט	bAaheft	_
+13	baheft	N	באַהעפֿט	bAaheft	_
+14	on	P	אָן	AoN	_
+15	a	D	אַ	Aa	_
+16	predikat	N	פּרעדיקאַט	predykAat	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.101
+1	un	CONJ	און	AvN	_
+2	"	PUNC	"	"	_
+3	iz	VBF	איז	Ayz	_
+4	"	PUNC	"	"	_
+5	heybt	VBF	הײבט	hYbt	_
+6	on	RP	אָן	AoN	_
+7	mit	P	מיט	myt	_
+8	zikh	PRO	זיך	zyX	_
+9	a	D	אַ	Aa	_
+10	neyem	ADJ	נײעם	nYeM	_
+11	zats	N	זאַץ	zAaQ	_
+12	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.102
+1	me	PRO	מע	me	_
+2	volt	VLF	װאָלט	VAolt	_
+3	gekent	MDN	געקענט	gekent	_
+4	zogn	VB	זאָגן	zAogN	_
+5	:	PUNC	:	:	_
+6	11a	LS	11אַ	11Aa	_
+7	mir	PRO	מיר	myr	_
+8	yidn	N	ייִדן	yyidN	_
+9	,	PUNC	,	,	_
+10	vos	C	װאָס	VAos	_
+11	mir	PRO	מיר	myr	_
+12	zeynen	VBF	זײנען	zYneN	_
+13	azoy	ADV	אַזױ	AazW	_
+14	in	P	אין	AyN	_
+15	der	D	דער	der	_
+16	klem	N	קלעם	kleM	_
+17	,	PUNC	,	,	_
+18	geshtikt	VAN	געשטיקט	ge$tykt	_
+19	,	PUNC	,	,	_
+20	gedrikt	VAN	געדריקט	gedrykt	_
+21	fun	P	פֿון	fvN	_
+22	ale	Q	אַלע	Aale	_
+23	zeytn	N	זײטן	zYtN	_
+24	,	PUNC	,	,	_
+25	far	P	פֿאַר	fAar	_
+26	unz	PRO	אונז	Avnz	_
+27-28	nishto	NEG~ADV	נישטאָ	ny$tAo	_
+27	nisht	NEG	נישט	ny$t	_
+28	o	ADV	אָ	Ao	_
+29	keyn	Q	קײן	kYN	_
+30	ander	ADJ	אַנדער	Aander	_
+31	veg	N	װעג	Veg	_
+32	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.103
+1	demolt	ADV	דעמאָלט	demAolt	_
+2	volt	VLF	װאָלט	VAolt	_
+3	,	PUNC	,	,	_
+4	dukht	VBF	דוכט	dvxt	_
+5	zikh	PRO	זיך	zyX	_
+6	,	PUNC	,	,	_
+7	di	D	די	dy	_
+8	farbindung	N	פֿאַרבינדונג	fAarbyndvng	_
+9	tsvishn	P	צװישן	qVy$N	_
+10	beyde	Q	בײדע	bYde	_
+11	baheftn	N	באַהעפֿטן	bAaheftN	_
+12	geven	VBN	געװען	geVeN	_
+13	shvakher	ADJ	שװאַכער	$VAaxer	_
+14	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.104
+1	12	LS	12	12	_
+2	di	D	די	dy	_
+3	koyles	N	קולות	kvlvS	_
+4	hobn	HVF	האָבן	hAobN	_
+5	zikh	PRO	זיך	zyX	_
+6	alts	Q	אַלץ	AalQ	_
+7	derveysert	VBN	דערװײסערט	derVYsert	_
+8	un	CONJ	און	AvN	_
+9	zikh	PRO	זיך	zyX	_
+10	fartrogn	VBN	פֿאַרטראָגן	fAartrAogN	_
+11	gor	FP	גאָר	gAor	_
+12	in	P	אין	AyN	_
+13	an	D	אַן	AaN	_
+14	ander	ADJ	אַנדער	Aander	_
+15	zeyt	N	זײט	zYt	_
+16	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.105
+1	shtey	VBF	שטײ	$tY	_
+2	ikh	PRO	איך	AyX	_
+3	mir	PRO	מיר	myr	_
+4	uf	RP	אוף	AvF	_
+5	,	PUNC	,	,	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.106
+1	gey	VBF	גײ	gY	_
+2	af	P	אַף	AaF	_
+3	tsikavests	N	ציקאַװעסץ	qykAaVesQ	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.107
+1	lesof	ADV	לסוף	lsvF	_
+2	,	PUNC	,	,	_
+3	2	NUM	2	2	_
+4	faln	N	פֿאַלן	fAalN	_
+5	fun	P	פֿון	fvN	_
+6	shtelung	N	שטעלונג	$telvng	_
+7-8	afn	P~D	אַפֿן	AafN	_
+7	af	P	אַף	AaF	_
+8	n	D	נ	n	_
+9	erstn	ADJ	ערסטן	erstN	_
+10	ort	N	אָרט	Aort	_
+11	,	PUNC	,	,	_
+12	vos	C	װאָס	VAos	_
+13	shlisn	VBF	שליסן	$lysN	_
+14	zikh	PRO	זיך	zyX	_
+15	nit	NEG	ניט	nyt	_
+16	eyn	RP	אײן	AYN	_
+17	in	P	אין	AyN	_
+18	di	D	די	dy	_
+19	bizaherike	ADJ	ביזאַהעריקע	byzAaheryke	_
+20	rubrikes	N	רובריקעס	rvbrykes	_
+21	:	PUNC	:	:	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.108
+1	13	LS	13	13	_
+2	ir	PRO	איר	Ayr	_
+3	mendele	NPR	מענדעלע	mendele	_
+4	moykhr	NPR	מױכר	mWxr	_
+5	sforim	NPR	ספֿרים	sfryM	_
+6	,	PUNC	,	,	_
+7	zogt	VBF	זאָגט	zAogt	_
+8	mendele	NPR	מענדעלע	mendele	_
+9	moykher-sforim	NPR	מוכר-ספֿרים	mvxr-sfryM	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.109
+1	ikh	PRO	איך	AyX	_
+2	meyn	VBF	מײן	mYN	_
+3	,	PUNC	,	,	_
+4	az	C	אַז	Aaz	_
+5	dos	D	דאָס	dAos	_
+6	iz	VBF	איז	Ayz	_
+7	poshet	ADV	פּשוט	p$vt	_
+8	a	D	אַ	Aa	_
+9	hebreizm	N	העברעיִזם	hebreyizM	_
+10	.	PUNC	.	.	_
+11	a	D	אַ	Aa	_
+12	bukhshteblekhe	ADJ	בוכשטעבלעכע	bvx$teblexe	_
+13	iberzetsung	N	איבערזעצונג	Ayberzeqvng	_
+14	fun	P	פֿון	fvN	_
+15	hebreish	N	העברעיִש	hebreyi$	_
+16	oder	CONJ	אָדער	Aoder	_
+17	nokhgemakht	ADJ	נאָכגעמאַכט	nAoxgemAaxt	_
+18	kheyderfartaytsh	N	כײדערפֿאַרטײַטש	xYderfAartYat$	_
+19	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.110
+1	14	LS	14	14	_
+2	kholile	INTJ	חלילה	Hlylh	_
+3	!	PUNC	!	!	_
+4	ikh	PRO	איך	AyX	_
+5	treyb	VBF	טרײב	trYb	_
+6	gornisht	NEG	גאָרנישט	gAorny$t	_
+7	keyn	Q	קײן	kYN	_
+8	katoves	N	כּתּבֿות	KT~vS	_
+9	,	PUNC	,	,	_
+10	zogt	VBF	זאָגט	zAogt	_
+11	er	PRO	ער	er	_
+12	tsu	P	צו	qv	_
+13	mir	PRO	מיר	myr	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.111
+1	un	CONJ	און	AvN	_
+2	nemt	VBF	נעמט	nemt	_
+3	bald	ADV	באַלד	bAald	_
+4	take	ADV	טאַקע	tAake	_
+5	aroys	ADV	אַרױס	AarWs	_
+6	fun	P	פֿון	fvN	_
+7	unter	P	אונטער	Avnter	_
+8	der	D	דער	der	_
+9	pole	N	פּאָלע	pAole	_
+10	a	D	אַ	Aa	_
+11	groysn	ADJ	גרױסן	grWsN	_
+12	pak	N	פּאַק	pAak	_
+13	mit	P	מיט	myt	_
+14	papirn	N	פּאַפּירן	pAapyrN	_
+15	,	PUNC	,	,	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.112
+1	zet	VBF	זעט	zet	_
+2	ir	PRO	איר	Ayr	_
+3	,	PUNC	,	,	_
+4	reb	NPR	ר'	r'	_
+5	mendele	NPR	מענדעלע	mendele	_
+6	,	PUNC	,	,	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.113
+1	dos	D	דאָס	dAos	_
+2	ingantsn	ADV	אינגאַנצן	AyngAanqN	_
+3	geher	VBF	געהער	geher	_
+4	eynem	PRO	אײנעם	AYneM	_
+5	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.114
+1	derklern	VB	דערקלערן	derklerN	_
+2	di	D	די	dy	_
+3	shtelung	N	שטעלונג	$telvng	_
+4	fun	P	פֿון	fvN	_
+5	"	PUNC	"	"	_
+6	zet	VBF	זעט	zet	_
+7	"	PUNC	"	"	_
+8	iz	VBF	איז	Ayz	_
+9	mir	PRO	מיר	myr	_
+10	shver	ADJ	שװער	$Ver	_
+11	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.115
+1	keyn	Q	קײן	kYN	_
+2	"	PUNC	"	"	_
+3	forzetsung	N	פֿאָרזעצונג	fAorzeqvng	_
+4	"	PUNC	"	"	_
+5	in	P	אין	AyN	_
+6	fargleykh	N	פֿאַרגלײך	fAarglYX	_
+7	mit	P	מיט	myt	_
+8	der	D	דער	der	_
+9	meglekher	ADJ	מעגלעכער	meglexer	_
+10	konstruktsie	N	קאָנסטרוקציִע	kAonstrvkqyie	_
+11	"	PUNC	"	"	_
+12	ir	PRO	איר	Ayr	_
+13	zet	VBF	זעט	zet	_
+14	,	PUNC	,	,	_
+15	reb	NPR	ר'	r'	_
+16	mendele	NPR	מענדעלע	mendele	_
+17	"	PUNC	"	"	_
+18	fil	VBF	פֿיל	fyl	_
+19	ikh	PRO	איך	AyX	_
+20	do	ADV	דאָ	dAo	_
+21	nit	NEG	ניט	nyt	_
+22	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.116
+1	farbindn	VB	פֿאַרבינדן	fAarbyndN	_
+2	di	D	די	dy	_
+3	shtelung	N	שטעלונג	$telvng	_
+4	fun	P	פֿון	fvN	_
+5	perzonvort	N	פּערזאָנװאָרט	perzAonVAort	_
+6	mit	P	מיט	myt	_
+7	dem	D	דעם	deM	_
+8	shvakhn	ADJ	שװאַכן	$VAaxN	_
+9	shans	N	שאַנס	$Aans	_
+10	fun	P	פֿון	fvN	_
+11	fregikeyt	N	פֿרעגיקײט	fregykYt	_
+12	,	PUNC	,	,	_
+13	vos	C	װאָס	VAos	_
+14	iz	VBF	איז	Ayz	_
+15	do	ADV	דאָ	dAo	_
+16	do	ADV	דאָ	dAo	_
+17	,	PUNC	,	,	_
+18	ken	MDF	קען	keN	_
+19	ikh	PRO	איך	AyX	_
+20	oykh	ADV	אױך	AWX	_
+21	nit	NEG	ניט	nyt	_
+22	:	PUNC	:	:	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.117
+1	di	D	די	dy	_
+2	konstruktsie	N	קאָנסטרוקציִע	kAonstrvkqyie	_
+3	"	PUNC	"	"	_
+4	ir	PRO	איר	Ayr	_
+5	zet	VBF	זעט	zet	_
+6	,	PUNC	,	,	_
+7	reb	NPR	ר'	r'	_
+8	mendele	NPR	מענדעלע	mendele	_
+9	"	PUNC	"	"	_
+10	hot	VBF	האָט	hAot	_
+11	dukht	VBF	דוכט	dvxt	_
+12	mir	PRO	מיר	myr	_
+13	,	PUNC	,	,	_
+14	punkt	ADV	פּונקט	pvnkt	_
+15	dem	D	דעם	deM	_
+16	zelbikn	ADJ	זעלביקן	zelbykN	_
+17	shans	N	שאַנס	$Aans	_
+18	fun	P	פֿון	fvN	_
+19	fregikeyt	N	פֿרעגיקײט	fregykYt	_
+20	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.118
+1	"	PUNC	"	"	_
+2	zet	VBF	זעט	zet	_
+3	ir	PRO	איר	Ayr	_
+4	"	PUNC	"	"	_
+5	zet	VBF	זעט	zet	_
+6	dokh	ADV	דאָך	dAoX	_
+7	oys	RP	אױס	AWs	_
+8	tsu	TO	צו	qv	_
+9	zeyn	VB	זײן	zYN	_
+10	mer	QR	מער	mer	_
+11	hemshekh	N	המשך	hm$X	_
+12	tsu	P	צו	qv	_
+13	der	D	דער	der	_
+14	frierdiker	ADJ	פֿריִערדיקער	fryierdyker	_
+15	fraze	N	פֿראַזע	frAaze	_
+16	,	PUNC	,	,	_
+17	eyder	P	אײדער	AYder	_
+18	"	PUNC	"	"	_
+19	ir	PRO	איר	Ayr	_
+20	zet	VBF	זעט	zet	_
+21	"	PUNC	"	"	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.119
+1	khutsh	P	כוטש	xvt$	_
+2	dem	D	דעם	deM	_
+3	,	PUNC	,	,	_
+4	hot	VBF	האָט	hAot	_
+5	"	PUNC	"	"	_
+6	zet	VBF	זעט	zet	_
+7	zikh	PRO	זיך	zyX	_
+8	"	PUNC	"	"	_
+9	epes	Q	עפּעס	epes	_
+10	fun	P	פֿון	fvN	_
+11	dem	D	דעם	deM	_
+12	kharakter	N	כאַראַקטער	xAarAakter	_
+13	fun	P	פֿון	fvN	_
+14	"	PUNC	"	"	_
+15	a	D	אַ	Aa	_
+16	shteyendiker	ADJ	שטײענדיקער	$tYendyker	_
+17	forml	N	פֿאָרמל	fAorml	_
+18	"	PUNC	"	"	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.120
+1	7.	LS	7.	7.	_
+2-3	afn	P~D	אַפֿן	AafN	_
+2	af	P	אַף	AaF	_
+3	n	D	נ	n	_
+4	dritn	ADJ	דריטן	drytN	_
+5	ort	N	אָרט	Aort	_
+6	shteyen	VBF	שטײען	$tYeN	_
+7	in	P	אין	AyN	_
+8	umopheyngike	ADJ	אומאָפּהײנגיקע	AvmAophYngyke	_
+9	zatsn	N	זאַצן	zAaqN	_
+10	6	NUM	6	6	_
+11	perzonverter	N	פּערזאָנװערטער	perzAonVerter	_
+12	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.121
+1	dos	D	דאָס	dAos	_
+2	zeynen	VBF	זײנען	zYneN	_
+3	zey	PRO	זײ	zY	_
+4	:	PUNC	:	:	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.122
+1	15	LS	15	15	_
+2	ikh	PRO	איך	AyX	_
+3	a	D	אַ	Aa	_
+4	shteyger	N	שטײגער	$tYger	_
+5	,	PUNC	,	,	_
+6	in	P	אין	AyN	_
+7	meyn	PRO$	מײן	mYN	_
+8	madreyge	N	מדרגה	mdrgh	_
+9	,	PUNC	,	,	_
+10	hob	HVF	האָב	hAob	_
+11	in	P	אין	AyN	_
+12	ir	PRO	איר	Ayr	_
+13	gefunen	VBN	געפֿונען	gefvneN	_
+14	kimat	ADV	כּמעט	Kmet	_
+15	alts	Q	אַלץ	AalQ	_
+16	yidishe	ADJ	ייִדישע	yyidy$e	_
+17	neshomes	N	נשמות	n$mvS	_
+18	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.123
+1	16	LS	16	16	_
+2	deriber	DR+P	דעריבער	deryber	_
+3	,	PUNC	,	,	_
+4	az	C	אַז	Aaz	_
+5	ikh	PRO	איך	AyX	_
+6	hob	HVF	האָב	hAob	_
+7	zikh	PRO	זיך	zyX	_
+8-9	eyngeshport	RP~VBN	אײנגעשפּאָרט	AYnge$pAort	_
+8	eyn	RP	אײן	AYN	_
+9	geshport	VBN	געשפּאָרט	ge$pAort	_
+10	nisht	NEG	נישט	ny$t	_
+11	yung	ADJ	יונג	yvng	_
+12	khasene	RP-N	חתונה	HSvnh	_
+13	tsu	TO	צו	qv	_
+14	hobn	VB	האָבן	hAobN	_
+15	,	PUNC	,	,	_
+16	hob	HVF	האָב	hAob	_
+17	ikh	PRO	איך	AyX	_
+18	es	PRO	עס	es	_
+19-20	oysgefirt	RP~VBN	אױסגעפֿירט	AWsgefyrt	_
+19	oys	RP	אױס	AWs	_
+20	gefirt	VBN	געפֿירט	gefyrt	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.124
+1	17	LS	17	17	_
+2	oyb	C	אױב	AWb	_
+3	ikh	PRO	איך	AyX	_
+4	aleyn	ADV	אַלײן	AalYN	_
+5	vel	MDF	װעל	Vel	_
+6	itst	ADV	איצט	Ayqt	_
+7	in	P	אין	AyN	_
+8	di	D	די	dy	_
+9	yunge	ADJ	יונגע	yvnge	_
+10	yorn	N	יאָרן	yAorN	_
+11	nisht	NEG	נישט	ny$t	_
+12	zorgn	VB	זאָרגן	zAorgN	_
+13	far	P	פֿאַר	fAar	_
+14	meyn	PRO$	מײן	mYN	_
+15	takhles	N	תּכלית	TxlyS	_
+16	,	PUNC	,	,	_
+17	vos	WPRO	װאָס	VAos	_
+18	ken	MDF	קען	keN	_
+19	kholile	INTJ	חלילה	Hlylh	_
+20	zeyn	VB	זײן	zYN	_
+21	der	D	דער	der	_
+22	sof	N	סוף	svF	_
+23	fun	P	פֿון	fvN	_
+24	mir	PRO	מיר	myr	_
+25	?	PUNC	?	?	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.125
+1	18	LS	18	18	_
+2	akh	INTJ	אַך	AaX	_
+3	,	PUNC	,	,	_
+4	ven	C	װען	VeN	_
+5	doktoyrim	N	דאָקטױרים	dAoktWryM	_
+6	zoln	MDF	זאָלן	zAolN	_
+7	beser	ADV	בעסער	beser	_
+8	farshteyn	VB	פֿאַרשטײן	fAar$tYN	_
+
+SENT	1928E-ZARETSKI-MENDELE,23.126
+1	fn.	LS	פֿן.	fN.	_
+2	a	D	אַ	Aa	_
+3	bazundere	ADJ	באַזונדערע	bAazvndere	_
+4	baheft	N	באַהעפֿט	bAaheft	_
+5	biklal	ADV	בכּלל	bKll	_
+6	a	D	אַ	Aa	_
+7	interyektsie	N	אינטעריעקציִע	Aynteryekqyie	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.128
+1	19	LS	19	19	_
+2	un	CONJ	און	AvN	_
+3	tsveytns	ADV	צװײטנס	qVYtns	_
+4	,	PUNC	,	,	_
+5-6	avekgenumen	ADV~VAN	אַװעקגענומען	AaVekgenvmeN	_
+5	avek	ADV	אַװעק	AaVek	_
+6	genumen	VAN	גענומען	genvmeN	_
+7	shoyn	ADV	שױן	$WN	_
+8	rakhmones	N	רחמנות	rHmnvS	_
+9	,	PUNC	,	,	_
+10	hot	VBF	האָט	hAot	_
+11	dokh	ADV	דאָך	dAoX	_
+12	di	D	די	dy	_
+13	shkape	N	שקאַפּע	$kAape	_
+14	af	P	אַף	AaF	_
+15	mir	PRO	מיר	myr	_
+16	take	ADV	טאַקע	tAake	_
+17	a	D	אַ	Aa	_
+18	groys	ADJ	גרױס	grWs	_
+19	rekht	N	רעכט	rext	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.129
+1	20	LS	20	20	_
+2	fundestvegn	ADV	פֿונדעסטװעגן	fvndestVegN	_
+3	,	PUNC	,	,	_
+4	dakht	VBF	דאַכט	dAaxt	_
+5	zikh	PRO	זיך	zyX	_
+6	mir	PRO	מיר	myr	_
+7	,	PUNC	,	,	_
+8	vi	WADV	װי	Vy	_
+9	bald	ADV	באַלד	bAald	_
+10	afilu	FP	אַפֿילו	Aafylv	_
+11	di	D	די	dy	_
+12	kliatshe	N	קליִאַטשע	klyiAat$e	_
+13	,	PUNC	,	,	_
+14	aza	ADV	אַזאַ	AazAa	_
+15	proste	ADJ	פּראָסטע	prAoste	_
+16	podokhe	N	פּאָדאָכע	pAodAoxe	_
+17	,	PUNC	,	,	_
+18	hot	VBF	האָט	hAot	_
+19	af	P	אַף	AaF	_
+20	mir	PRO	מיר	myr	_
+21	epes	Q	עפּעס	epes	_
+22	a	D	אַ	Aa	_
+23	rekht	N	רעכט	rext	_
+24	,	PUNC	,	,	_
+25	muz	MDF	מוז	mvz	_
+26	ikh	PRO	איך	AyX	_
+27	alpi	H	על-פּי	el-py	thousands_of
+28	din	H	דין	dyN	justice
+
+SENT	1928E-ZARETSKI-MENDELE,24.130
+1	der	D	דער	der	_
+2	bamerkzats	N	באַמערקזאַץ	bAamerkzAaQ	_
+3	virkt	VBF	װירקט	Vyrkt	_
+4	nit	NEG	ניט	nyt	_
+5-6	afn	P~D	אַפֿן	AafN	_
+5	af	P	אַף	AaF	_
+6	n	D	נ	n	_
+7	verterzeyder	N	װערטערזײדער	VerterzYder	_
+8	,	PUNC	,	,	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.131
+1	heyst	VBF	הײסט	hYst	_
+2	es	PRO	עס	es	_
+3	er	PRO	ער	er	_
+4	farnemt	VBF	פֿאַרנעמט	fAarnemt	_
+5	nit	NEG	ניט	nyt	_
+6	keyn	Q	קײן	kYN	_
+7	"	PUNC	"	"	_
+8	ort	N	אָרט	Aort	_
+9	"	PUNC	"	"	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.132
+1	fun	P	פֿון	fvN	_
+2	di	D	די	dy	_
+3	6	NUM	6	6	_
+4	gehern	VBF	געהערן	geherN	_
+5	tsvey	NUM	צװײ	qVY	_
+6	tsu	P	צו	qv	_
+7	tipn	N	טיפּן	typN	_
+8	,	PUNC	,	,	_
+9	vos	C	װאָס	VAos	_
+10	kh	PRO	כ	x	_
+11	hob	HVF	האָב	hAob	_
+12	shoyn	ADV	שױן	$WN	_
+13	registrirt	VBN	רעגיסטרירט	regystryrt	_
+14	in	P	אין	AyN	_
+15	andere	ADJ	אַנדערע	Aandere	_
+16	erter	N	ערטער	erter	_
+17	;	PUNC	;	;	_
+18	zats	N	זאַץ	zAaQ	_
+19	17	NUM	17	17	_
+20	:	PUNC	:	:	_
+21	fregzats	N	פֿרעגזאַץ	fregzAaQ	_
+22-23	mitn	P~D	מיטן	mytN	_
+22	mit	P	מיט	myt	_
+23	n	D	נ	n	_
+24	fregpronom	N	פֿרעגפּראָנאָם	fregprAonAoM	_
+25	nit	NEG	ניט	nyt	_
+26-27	afn	P~D	אַפֿן	AafN	_
+26	af	P	אַף	AaF	_
+27	n	D	נ	n	_
+28	erstn	ADJ	ערסטן	erstN	_
+29	ort	N	אָרט	Aort	_
+30	.	PUNC	.	.	_
+31	fn	P	פֿן	fN	_
+32	praktishe	ADJ	פּראַקטישע	prAakty$e	_
+33	yidish	ADJ	ייִדיש	yyidy$	_
+34	gramatik	N	גראַמאַטיק	grAamAatyk	_
+35	,	PUNC	,	,	_
+36	z.	N	ז.	z.	_
+37	156	NUM	156	156	_
+38	,	PUNC	,	,	_
+39	punkt	N	פּונקט	pvnkt	_
+40	4	NUM	4	4	_
+41	.	PUNC	.	.	_
+42	zats	N	זאַץ	zAaQ	_
+43	18	NUM	18	18	_
+44	:	PUNC	:	:	_
+45	oysrufzats	N	אױסרופֿזאַץ	AWsrvfzAaQ	_
+46	fn	P	פֿן	fN	_
+47	dortn	ADV	דאָרטן	dAortN	_
+48	,	PUNC	,	,	_
+49	punkt	N	פּונקט	pvnkt	_
+50	3	NUM	3	3	_
+51	,	PUNC	,	,	_
+52	un	CONJ	און	AvN	_
+53	"	PUNC	"	"	_
+54	yidishe	ADJ	ייִדישע	yyidy$e	_
+55	shprakh	N	שפּראַך	$prAaX	_
+56	"	PUNC	"	"	_
+57	num.	N	נום.	nvM.	_
+58	1	NUM	1	1	_
+59	,	PUNC	,	,	_
+60	shpalt	N	שפּאַלט	$pAalt	_
+61	9	NUM	9	9	_
+62	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.133
+1	far	P	פֿאַר	fAar	_
+2	di	D	די	dy	_
+3	iberike	ADJ	איבעריקע	Ayberyke	_
+4	fir	NUM	פֿיר	fyr	_
+5	darf	MDF	דאַרף	dAarF	_
+6	men	PRO	מען	meN	_
+7	efsher	ADV	אפֿשר	Af$r	_
+8	nemen	VB	נעמען	nemeN	_
+9	in	P	אין	AyN	_
+10	akht	N	אַכט	Aaxt	_
+11	ritmishe	ADJ	ריטמישע	rytmy$e	_
+12	foderungen	N	פֿאָדערונגען	fAodervngeN	_
+13	fargl.	VBI	פֿאַרגל.	fAargl.	_
+14	di	D	די	dy	_
+15	redaktsionele	ADJ	רעדאַקציִאָנעלע	redAakqyiAonele	_
+16	onmerkung	N	אָנמערקונג	Aonmerkvng	_
+17	tsu	P	צו	qv	_
+18	meyn	PRO$	מײן	mYN	_
+19	artikl	N	אַרטיקל	Aartykl	_
+20	vegn	P	װעגן	VegN	_
+21	sholem-aleykhems	NPR$	שלום-אַלײכעמס	$lvM-AalYxems	_
+22	verterseyder	N	װערטערסײדער	VertersYder	_
+23	.	PUNC	.	.	_
+24	oder	CONJ	אָדער	Aoder	_
+25	tifer	ADVR	טיפֿער	tyfer	_
+26-27	durkhkritikirn	RP~VB	דורכקריטיקירן	dvrxkrytykyrN	_
+26	durkh	RP	דורך	dvrX	_
+27	kritikirn	VB	קריטיקירן	krytykyrN	_
+28	dem	D	דעם	deM	_
+29	bagrif	N	באַגריף	bAagryF	_
+30	"	PUNC	"	"	_
+31	ort	N	אָרט	Aort	_
+32	"	PUNC	"	"	_
+33	in	P	אין	AyN	_
+34	der	D	דער	der	_
+35	lere	N	לערע	lere	_
+36	vegn	P	װעגן	VegN	_
+37	verterseyder	N	װערטערסײדער	VertersYder	_
+38	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.134
+1	8.	LS	8.	8.	_
+2	in	P	אין	AyN	_
+3	beyzatsn	N	בײזאַצן	bYzAaqN	_
+4	zeynen	VBF	זײנען	zYneN	_
+5-6	afn	P~D	אַפֿן	AafN	_
+5	af	P	אַף	AaF	_
+6	n	D	נ	n	_
+7	tsveytn	ADJ	צװײטן	qVYtN	_
+8	ort	N	אָרט	Aort	_
+9	129	NUM	129	129	_
+10	perzonverter	N	פּערזאָנװערטער	perzAonVerter	_
+11	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.135
+1	beyshphiln	N	בײשפּהילן	bY$phylN	_
+2	:	PUNC	:	:	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.136
+1	21	LS	21	21	_
+2	geloybt	VAN	געלױבט	gelWbt	_
+3	iz	BEF	איז	Ayz	_
+4	der	D	דער	der	_
+5	boyre	N	בורא	bvrA	_
+6	,	PUNC	,	,	_
+7	vos	C	װאָס	VAos	_
+8-9	nokhdem	P~PRO	נאָכדעם	nAoxdeM	_
+8	nokh	P	נאָך	nAoX	_
+9	dem	PRO	דעם	deM	_
+10	,	PUNC	,	,	_
+11	vi	C	װי	Vy	_
+12	er	PRO	ער	er	_
+13	hot	HVF	האָט	hAot	_
+14	bashafn	VBN	באַשאַפֿן	bAa$AafN	_
+15	di	D	די	dy	_
+16	gants	ADJ	גאַנץ	gAanQ	_
+17	groyse	ADJ	גרױסע	grWse	_
+18	velt	N	װעלט	Velt	_
+19	,	PUNC	,	,	_
+20	hot	HVF	האָט	hAot	_
+21	er	PRO	ער	er	_
+22	zikh	PRO	זיך	zyX	_
+23	meyashev	RP-H	מײשב	mY$b	_
+24	geven	VBN	געװען	geVeN	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.137
+1	di	D	די	dy	_
+2	bindverter	N	בינדװערטער	byndVerter	_
+3	"	PUNC	"	"	_
+4	vos	C	װאָס	VAos	_
+5	"	PUNC	"	"	_
+6	un	CONJ	און	AvN	_
+7	"	PUNC	"	"	_
+8	vi	C	װי	Vy	_
+9	"	PUNC	"	"	_
+10	rekhenen	VBF	רעכענען	rexeneN	_
+11	zikh	PRO	זיך	zyX	_
+12	nit	NEG	ניט	nyt	_
+13	far	P	פֿאַר	fAar	_
+14	keyn	Q	קײן	kYN	_
+15	"	PUNC	"	"	_
+16	erter	N	ערטער	erter	_
+17	"	PUNC	"	"	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.138
+1	22	LS	22	22	_
+2-3	ongeshribn	RP~VAN	אָנגעשריבן	Aonge$rybN	_
+2	on	RP	אָן	AoN	_
+3	geshribn	VAN	געשריבן	ge$rybN	_
+4	af	P	אַף	AaF	_
+5	di	D	די	dy	_
+6	zakhn	N	זאַכן	zAaxN	_
+7	,	PUNC	,	,	_
+8	velkhe	WPRO	װעלכע	Velxe	_
+9	er	PRO	ער	er	_
+10	hot	HVF	האָט	hAot	_
+11	gemakht	VBN	געמאַכט	gemAaxt	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.139
+1	der	D	דער	der	_
+2	relativ-pronom	N	רעלאַטיװ-פּראָנאָם	relAatyV-prAonAoM	_
+3	"	PUNC	"	"	_
+4	velkhe	WPRO	װעלכע	Velxe	_
+5	"	PUNC	"	"	_
+6	rekhnt	VBF	רעכנט	rexnt	_
+7	zikh	PRO	זיך	zyX	_
+8	nit	NEG	ניט	nyt	_
+9	far	P	פֿאַר	fAar	_
+10	keyn	Q	קײן	kYN	_
+11	ort	N	אָרט	Aort	_
+12	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.140
+1	23	LS	23	23	_
+2	es	ES	עס	es	_
+3	ken	MDF	קען	keN	_
+4	efsher	ADV	אפֿשר	Af$r	_
+5	nokh	ADV	נאָך	nAoX	_
+6	meglekh	ADJ	מעגלעך	megleX	_
+7	zeyn	VB	זײן	zYN	_
+8	,	PUNC	,	,	_
+9	me	PRO	מע	me	_
+10	zal	MDF	ז"ל	z"l	_
+11	eykh	PRO	אײך	AYX	_
+12	nokh	ADV	נאָך	nAoX	_
+13	epes	Q	עפּעס	epes	_
+14-15	oysleyen	RP~VB	אױסלײען	AWslYeN	_
+14	oys	RP	אױס	AWs	_
+15	leyen	VB	לײען	lYeN	_
+16	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.141
+1	beyzats	N	בײזאַץ	bYzAaQ	_
+2	on	P	אָן	AoN	_
+3	baheftvort	N	באַהעפֿטװאָרט	bAaheftVAort	_
+4	:	PUNC	:	:	_
+5	asindeton	N	אַסינדעטאָן	AasyndetAoN	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.142
+1	9	LS	9	9	_
+2-3	afn	P~D	אַפֿן	AafN	_
+2	af	P	אַף	AaF	_
+3	n	D	נ	n	_
+4	erstn	ADJ	ערסטן	erstN	_
+5	ort	N	אָרט	Aort	_
+6	shteyen	VBF	שטײען	$tYeN	_
+7	23	NUM	23	23	_
+8	perzonvert	N	פּערזאָנװערט	perzAonVert	_
+9	,	PUNC	,	,	_
+10	fun	P	פֿון	fvN	_
+11	zey	PRO	זײ	zY	_
+12	19	NUM	19	19	_
+13	in	P	אין	AyN	_
+14	beyzatsn	N	בײזאַצן	bYzAaqN	_
+15	mit	P	מיט	myt	_
+16	"	PUNC	"	"	_
+17	vos	C	װאָס	VAos	_
+18	"	PUNC	"	"	_
+19	un	CONJ	און	AvN	_
+20	mit	P	מיט	myt	_
+21	farshportn	ADJ	פֿאַרשפּאָרטן	fAar$pAortN	_
+22	subyekt	N	סוביעקט	svbyekt	_
+23	,	PUNC	,	,	_
+24-25	funm	P~D	פֿונם	fvnM	_
+24	fun	P	פֿון	fvN	_
+25	m	D	מ	m	_
+26	tip	N	טיפּ	typ	_
+27	:	PUNC	:	:	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.143
+1	24	LS	24	24	_
+2	ale	Q	אַלע	Aale	_
+3	zakhn	N	זאַכן	zAaxN	_
+4	,	PUNC	,	,	_
+5	vos	C	װאָס	VAos	_
+6	zeynen	VBF	זײנען	zYneN	_
+7	neytik	ADJ	נײטיק	nYtyk	_
+8-9	tsum	P~D	צום	qvM	_
+8	tsu	P	צו	qv	_
+9	m	D	מ	m	_
+10	ekzamen	N	עקזאַמען	ekzAameN	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.144
+1	di	D	די	dy	_
+2	grupe	N	גרופּע	grvpe	_
+3	iz	BEF	איז	Ayz	_
+4	shoyn	ADV	שױן	$WN	_
+5-6	ongevizn	RP~VAN	אָנגעװיזן	AongeVyzN	_
+5	on	RP	אָן	AoN	_
+6	gevizn	VAN	געװיזן	geVyzN	_
+7	in	P	אין	AyN	_
+8	artikl	N	אַרטיקל	Aartykl	_
+9	vegn	P	װעגן	VegN	_
+10	sholem-aleykhems	NPR$	שלום-אַלײכעמס	$lvM-AalYxems	_
+11	verterseyder	N	װערטערסײדער	VertersYder	_
+12	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.145
+1	di	D	די	dy	_
+2	iberike	ADJ	איבעריקע	Ayberyke	_
+3	4	NUM	4	4	_
+4	faln	N	פֿאַלן	fAalN	_
+5	zeynen	VBF	זײנען	zYneN	_
+6	:	PUNC	:	:	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.146
+1	25	LS	25	25	_
+2	der	D	דער	der	_
+3	mekhaber	N	מחבר	mHbr	_
+4	aleyn	ADV	אַלײן	AalYN	_
+5	iz	VBF	איז	Ayz	_
+6	atsind	ADV	אַצינד	Aaqynd	_
+7	,	PUNC	,	,	_
+8	loy	H	לא	lA	not
+9	aleykhem	H	עליכם	elyxM	to_you
+10	,	PUNC	,	,	_
+11	epes	Q	עפּעס	epes	_
+12	,	PUNC	,	,	_
+13	vi	WADV	װי	Vy	_
+14	ruft	VBF	רופֿט	rvft	_
+15	me	PRO	מע	me	_
+16	es	PRO	עס	es	_
+17	tsemist	ADJ	צעמיסט	qemyst	_
+18	,	PUNC	,	,	_
+19	gor	ADV	גאָר	gAor	_
+20	tsetrogt	ADJ	צעטראָגט	qetrAogt	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.147
+1	meglekh	ADJ	מעגלעך	megleX	_
+2	,	PUNC	,	,	_
+3	az	C	אַז	Aaz	_
+4	do	ADV	דאָ	dAo	_
+5	darf	MDF	דאַרף	dAarF	_
+6	men	PRO	מען	meN	_
+7	gikher	ADVR	גיכער	gyxer	_
+8	haltn	VB	האַלטן	hAaltN	_
+9	"	PUNC	"	"	_
+10	vi	WADV	װי	Vy	_
+11	ruft	VBF	רופֿט	rvft	_
+12	men	PRO	מען	meN	_
+13	es	PRO	עס	es	_
+14	"	PUNC	"	"	_
+15	far	P	פֿאַר	fAar	_
+16	a	D	אַ	Aa	_
+17	bemerkzats	N	בעמערקזאַץ	bemerkzAaQ	_
+18	mit	P	מיט	myt	_
+19	shans	N	שאַנס	$Aans	_
+20	fun	P	פֿון	fvN	_
+21	fregikeyt	N	פֿרעגיקײט	fregykYt	_
+22	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.148
+1	26	LS	26	26	_
+2	fun	P	פֿון	fvN	_
+3	ale	Q	אַלע	Aale	_
+4	meyne	PRO$	מײנע	mYne	_
+5	khaveyrim	N	חבֿרים	H~ryM	_
+6	,	PUNC	,	,	_
+7	velkhe	WPRO	װעלכע	Velxe	_
+8	zeynen	BEF	זײנען	zYneN	_
+9	durkh	P	דורך	dvrX	_
+10	dem	D	דעם	deM	_
+11	onshikenis	N	אָנשיקעניס	Aon$ykenys	_
+12	fun	P	פֿון	fvN	_
+13	di	D	די	dy	_
+14	shadkhonim	N	שאַדכאָנים	$AadxAonyM	_
+15	gevorn	VBN	געװאָרן	geVAorN	_
+16	yunge	ADJ	יונגע	yvnge	_
+17	balebeslekh	N	באַלעבעסלעך	bAalebesleX	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.149
+1	in	P	אין	AyN	_
+2	a	D	אַ	Aa	_
+3	relativzats	N	רעלאַטיװזאַץ	relAatyVzAaQ	_
+4	mit	P	מיט	myt	_
+5	"	PUNC	"	"	_
+6	velkher	WPRO	װעלכער	Velxer	_
+7	"	PUNC	"	"	_
+8	kumt	VBF	קומט	kvmt	_
+9	dos	D	דאָס	dAos	_
+10	perzonvort	N	פּערזאָנװאָרט	perzAonVAort	_
+11	biklal	ADV	בכּלל	bKll	_
+12-13	afn	P~D	אַפֿן	AafN	_
+12	af	P	אַף	AaF	_
+13	n	D	נ	n	_
+14	tsveytn	ADJ	צװײטן	qVYtN	_
+15	ort	N	אָרט	Aort	_
+16	,	PUNC	,	,	_
+17	khuts	P	חוץ	HvQ	_
+18	in	P	אין	AyN	_
+19	di	D	די	dy	_
+20	faln	N	פֿאַלן	fAalN	_
+21	,	PUNC	,	,	_
+22	ven	C	װען	VeN	_
+23	"	PUNC	"	"	_
+24	velkher	WPRO	װעלכער	Velxer	_
+25	"	PUNC	"	"	_
+26	iz	VBF	איז	Ayz	_
+27	a	D	אַ	Aa	_
+28	nominativ	N	נאָמינאַטיװ	nAomynAatyV	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.150
+1	demolt	ADV	דעמאָלט	demAolt	_
+2	kumt	VBF	קומט	kvmt	_
+3	dos	D	דאָס	dAos	_
+4-5	afn	P~D	אַפֿן	AafN	_
+4	af	P	אַף	AaF	_
+5	n	D	נ	n	_
+6	erstn	ADJ	ערסטן	erstN	_
+7	ort	N	אָרט	Aort	_
+8	fn._greyzn_un_sfeykes,_z._112-113	REF	פֿן._גרײזנ_ונ_ספֿײקעס,_ז._112-113	fN._grYzn_vn_sfYkes,_z._112-113	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.151
+1	27	LS	27	27	_
+2	vel	MDF	װעל	Vel	_
+3	ikh	PRO	איך	AyX	_
+4	ober	ADV	אָבער	Aober	_
+5	vern	VB	װערן	VerN	_
+6	a	D	אַ	Aa	_
+7	doktor	N	דאָקטאָר	dAoktAor	_
+8	,	PUNC	,	,	_
+9	vet	MDF	װעט	Vet	_
+10	zikh	PRO	זיך	zyX	_
+11	efenen	VB	עפֿענען	efeneN	_
+12	far	P	פֿאַר	fAar	_
+13	mir	PRO	מיר	myr	_
+14	a	D	אַ	Aa	_
+15	velt	N	װעלט	Velt	_
+16	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.152
+1	28	LS	28	28	_
+2	iz	BEF	איז	Ayz	_
+3	mir	PRO	מיר	myr	_
+4	beser	ADV	בעסער	beser	_
+5	gevorn	VBN	געװאָרן	geVAorN	_
+6	,	PUNC	,	,	_
+7	hob	HVF	האָב	hAob	_
+8	ikh	PRO	איך	AyX	_
+9	zikh	PRO	זיך	zyX	_
+10-11	ibergebetn	RP~VBN	איבערגעבעטן	AybergebetN	_
+10	iber	RP	איבער	Ayber	_
+11	gebetn	VBN	געבעטן	gebetN	_
+12	mit	P	מיט	myt	_
+13	zey	PRO	זײ	zY	_
+14	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.153
+1	dos	D	דאָס	dAos	_
+2	iz	VBF	איז	Ayz	_
+3	der	D	דער	der	_
+4	normaler	ADJ	נאָרמאַלער	nAormAaler	_
+5	boy	N	בױ	bW	_
+6	fun	P	פֿון	fvN	_
+7	asindetishn	ADJ	אַסינדעטישן	Aasyndety$N	_
+8	badingzats	N	באַדינגזאַץ	bAadyngzAaQ	_
+9	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.154
+1	10	LS	10	10	_
+2	in	P	אין	AyN	_
+3	tsvey	NUM	צװײ	qVY	_
+4	faln	N	פֿאַלן	fAalN	_
+5	shteyt	VBF	שטײט	$tYt	_
+6	dos	D	דאָס	dAos	_
+7	perzonvort	N	פּערזאָנװאָרט	perzAonVAort	_
+8	in	P	אין	AyN	_
+9	bayzats	N	בײַזאַץ	bYazAaQ	_
+10-11	afn	P~D	אַפֿן	AafN	_
+10	af	P	אַף	AaF	_
+11	n	D	נ	n	_
+12	dritn	ADJ	דריטן	drytN	_
+13	ort	N	אָרט	Aort	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.155
+1	ba	P	באַ	bAa	_
+2	sholem-aleykhemen	NPR	שלום-אַלײכעמען	$lvM-AalYxemeN	_
+3	hob	HVF	האָב	hAob	_
+4	ikh	PRO	איך	AyX	_
+5	aza	ADJ	אַזאַ	AazAa	_
+6	fal	N	פֿאַל	fAal	_
+7	keyn	Q	קײן	kYN	_
+8	eynem	NUM	אײנעם	AYneM	_
+9	nit	NEG	ניט	nyt	_
+10	gefunen	VBN	געפֿונען	gefvneN	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.156
+1	29	LS	29	29	_
+2	vayl	C	װײַל	VYal	_
+3	dos	D	דאָס	dAos	_
+4	mentshl	N	מענטשל	ment$l	_
+5	,	PUNC	,	,	_
+6	vi	WADV	װי	Vy	_
+7	ir	PRO	איר	Ayr	_
+8	kukt	VBF	קוקט	kvkt	_
+9	im	PRO	אים	AyM	_
+10	on	RP	אָן	AoN	_
+11	,	PUNC	,	,	_
+12	hot	VBF	האָט	hAot	_
+13	in	P	אין	AyN	_
+14	zikh	PRO	זיך	zyX	_
+
+SENT	1928E-ZARETSKI-MENDELE,24.157
+1	30	LS	30	30	_
+2	dos	D	דאָס	dAos	_
+3	bashtendike	ADJ	באַשטענדיקע	bAa$tendyke	_
+4	ibertrakhtn	N	איבערטראַכטן	AybertrAaxtN	_
+5	,	PUNC	,	,	_
+6	tomer	ADV	טאָמער	tAomer	_
+7	kholile	INTJ	חלילה	Hlylh	_
+8	vet	MDF	װעט	Vet	_
+9	zeyn	VB	זײן	zYN	_
+10	umzist	ADJ	אומזיסט	Avmzyst	_
+11	di	D	די	dy	_
+12	gants	ADJ	גאַנץ	gAanQ	_
+13	mi	N	מי	my	_
+
+SENT	1928E-ZARETSKI-MENDELE,25.159
+1	in	P	אין	AyN	_
+2	erstn	ADJ	ערסטן	erstN	_
+3	fal	N	פֿאַל	fAal	_
+4	darf	MDF	דאַרף	dAarF	_
+5	men	PRO	מען	meN	_
+6	efsher	ADV	אפֿשר	Af$r	_
+7-8	onnemen	RP~VB	אָננעמען	AonnemeN	_
+7	on	RP	אָן	AoN	_
+8	nemen	VB	נעמען	nemeN	_
+9	,	PUNC	,	,	_
+10	az	C	אַז	Aaz	_
+11	der	D	דער	der	_
+12	beyzats	N	בײזאַץ	bYzAaQ	_
+13	tsit	VBF	ציט	qyt	_
+14	tsu	P	צו	qv	_
+15	mentshl	N	מענטשל	ment$l	_
+
+SENT	1928E-ZARETSKI-MENDELE,25.160
+1	demolt	ADV	דעמאָלט	demAolt	_
+2	shteyt	VBF	שטײט	$tYt	_
+3	der	D	דער	der	_
+4	perzonvort	N	פּערזאָנװאָרט	perzAonVAort	_
+5-6	afn	P~D	אַפֿן	AafN	_
+5	af	P	אַף	AaF	_
+6	n	D	נ	n	_
+7	tsveytn	ADJ	צװײטן	qVYtN	_
+8	ort	N	אָרט	Aort	_
+9	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,25.161
+1	in	P	אין	AyN	_
+2	tsveytn	ADJ	צװײטן	qVYtN	_
+3	fal	N	פֿאַל	fAal	_
+4	halt	VBF	האַלט	hAalt	_
+5	ikh	PRO	איך	AyX	_
+6	"	PUNC	"	"	_
+7	tomer	ADV	טאָמער	tAomer	_
+8	"	PUNC	"	"	_
+9	nit	NEG	ניט	nyt	_
+10	far	P	פֿאַר	fAar	_
+11	keyn	Q	קײן	kYN	_
+12	bindvort	N	בינדװאָרט	byndVAort	_
+
+SENT	1928E-ZARETSKI-MENDELE,25.162
+1	demolt	ADV	דעמאָלט	demAolt	_
+2	volt	VLF	װאָלט	VAolt	_
+3	dos	D	דאָס	dAos	_
+4	perzonvort	N	פּערזאָנװאָרט	perzAonVAort	_
+5	geven	VBN	געװען	geVeN	_
+6-7	afn	P~D	אַפֿן	AafN	_
+6	af	P	אַף	AaF	_
+7	n	D	נ	n	_
+8	tsveytn	ADJ	צװײטן	qVYtN	_
+9	ort	N	אָרט	Aort	_
+10	,	PUNC	,	,	_
+11	vayl	C	װײַל	VYal	_
+12	dos	D	דאָס	dAos	_
+13	bindvort	N	בינדװאָרט	byndVAort	_
+14	rekhnt	VBF	רעכנט	rexnt	_
+15	zikh	PRO	זיך	zyX	_
+16	nit	NEG	ניט	nyt	_
+17	nor	FP	נאָר	nAor	_
+18	far	P	פֿאַר	fAar	_
+19	a	D	אַ	Aa	_
+20	fregvort	N	פֿרעגװאָרט	fregVAort	_
+21-22	inm	P~D	אינם	AynM	_
+21	in	P	אין	AyN	_
+22	m	D	מ	m	_
+23	beyzats	N	בײזאַץ	bYzAaQ	_
+24	gufe	X	גופֿא	gvfA	_
+25	,	PUNC	,	,	_
+
+SENT	1928E-ZARETSKI-MENDELE,25.163
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	baheftung	N	באַהעפֿטונג	bAaheftvng	_
+4-5	funm	P~D	פֿונם	fvnM	_
+4	fun	P	פֿון	fvN	_
+5	m	D	מ	m	_
+6	bayzats	N	בײַזאַץ	bYazAaQ	_
+7	mit	P	מיט	myt	_
+8	"	PUNC	"	"	_
+9	ibertrakhtn	VB	איבערטראַכטן	AybertrAaxtN	_
+10	"	PUNC	"	"	_
+11	halt	VBF	האַלט	hAalt	_
+12	ikh	PRO	איך	AyX	_
+13	far	P	פֿאַר	fAar	_
+14	asindeton	N	אַסינדעטאָן	AasyndetAoN	_
+15	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,25.164
+1	ikh	PRO	איך	AyX	_
+2	gey	VBF	גײ	gY	_
+3	aroys	ADV	אַרױס	AarWs	_
+4	derfun	DR+P	דערפֿון	derfvN	_
+5	,	PUNC	,	,	_
+6	vos	C	װאָס	VAos	_
+7	ven	C	װען	VeN	_
+8	der	D	דער	der	_
+9	bayzats	N	בײַזאַץ	bYazAaQ	_
+10	zol	MDF	זאָל	zAol	_
+11	vern	VB	װערן	VerN	_
+12	zelbshtendik	ADJ	זעלבשטענדיק	zelb$tendyk	_
+13	,	PUNC	,	,	_
+14	vet	MDF	װעט	Vet	_
+15	"	PUNC	"	"	_
+16	tomer	ADV	טאָמער	tAomer	_
+17	"	PUNC	"	"	_
+18	nit	NEG	ניט	nyt	_
+19-20	opfaln	RP~VB	אָפּפֿאַלן	AopfAalN	_
+19	op	RP	אָפּ	Aop	_
+20	faln	VB	פֿאַלן	fAalN	_
+21	,	PUNC	,	,	_
+22	vi	WADV	װי	Vy	_
+23	dos	D	דאָס	dAos	_
+24	kumt	VBF	קומט	kvmt	_
+25	for	RP	פֿאָר	fAor	_
+26	mit	P	מיט	myt	_
+27	a	D	אַ	Aa	_
+28	bindvort	N	בינדװאָרט	byndVAort	_
+29	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,25.165
+1	meglekh	ADJ	מעגלעך	megleX	_
+2	ober	ADV	אָבער	Aober	_
+3	,	PUNC	,	,	_
+4	az	C	אַז	Aaz	_
+5	me	PRO	מע	me	_
+6	darf	MDF	דאַרף	dAarF	_
+7-8	onnemen	RP~VB	אָננעמען	AonnemeN	_
+7	on	RP	אָן	AoN	_
+8	nemen	VB	נעמען	nemeN	_
+9	"	PUNC	"	"	_
+10	tomer	ADV	טאָמער	tAomer	_
+11	kholile	INTJ	חלילה	Hlylh	_
+12	"	PUNC	"	"	_
+13	far	P	פֿאַר	fAar	_
+14	eyn	NUM	אײן	AYN	_
+15	grupe	N	גרופּע	grvpe	_
+
+SENT	1928E-ZARETSKI-MENDELE,25.166
+1	demolt	ADV	דעמאָלט	demAolt	_
+2	volt	VLF	װאָלט	VAolt	_
+3	dos	D	דאָס	dAos	_
+4	perzonvort	N	פּערזאָנװאָרט	perzAonVAort	_
+5	geven	VBN	געװען	geVeN	_
+6-7	afn	P~D	אַפֿן	AafN	_
+6	af	P	אַף	AaF	_
+7	n	D	נ	n	_
+8	tsveytn	ADJ	צװײטן	qVYtN	_
+9	ort	N	אָרט	Aort	_
+10	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,25.167
+1	ikh	PRO	איך	AyX	_
+2	rekhn	VBF	רעכן	rexN	_
+3	"	PUNC	"	"	_
+4	tomer	ADV	טאָמער	tAomer	_
+5	kholile	INTJ	חלילה	Hlylh	_
+6	"	PUNC	"	"	_
+7	far	P	פֿאַר	fAar	_
+8	tsvey	NUM	צװײ	qVY	_
+9	grupes	N	גרופּעס	grvpes	_
+10	,	PUNC	,	,	_
+11	vayl	C	װײַל	VYal	_
+12	me	PRO	מע	me	_
+13	ken	MDF	קען	keN	_
+14	zogn	VB	זאָגן	zAogN	_
+15	:	PUNC	:	:	_
+16	30a	LS	30אַ	30Aa	_
+17	tomer	ADV	טאָמער	tAomer	_
+18	vet	MDF	װעט	Vet	_
+19	kholile	INTJ	חלילה	Hlylh	_
+20	zeyn	VB	זײן	zYN	_
+21	umzist	ADV	אומזיסט	Avmzyst	_
+22	di	D	די	dy	_
+23	gantse	ADJ	גאַנצע	gAanqe	_
+24	mi	N	מי	my	_
+25	?	PUNC	?	?	_
+
+SENT	1928E-ZARETSKI-MENDELE,25.168
+1	11	LS	11	11	_
+2	keyn	Q	קײן	kYN	_
+3	oysfirn	N	אױספֿירן	AWsfyrN	_
+4	vegn	P	װעגן	VegN	_
+5	mendeles	NPR$	מענדעלעס	mendeles	_
+6	verterseyder	N	װערטערסײדער	VertersYder	_
+7	makh	VBF	מאַך	mAaX	_
+8	ikh	PRO	איך	AyX	_
+9	nit	NEG	ניט	nyt	_
+
+SENT	1928E-ZARETSKI-MENDELE,25.169
+1	deruf	DR+P	דערוף	dervF	_
+2	iz	VBF	איז	Ayz	_
+3	,	PUNC	,	,	_
+4	erstns	ADV	ערסטנס	erstns	_
+5	,	PUNC	,	,	_
+6	der	D	דער	der	_
+7	derlernter	ADJ	דערלערנטער	derlernter	_
+8	material	N	מאַטעריִאַל	mAateryiAal	_
+9	tsu	ADV	צו	qv	_
+10	kleyn	ADJ	קלײן	klYN	_
+
+SENT	1928E-ZARETSKI-MENDELE,26.170
+1	tsveytns	ADV	צװײטנס	qVYtns	_
+2	,	PUNC	,	,	_
+3	volt	VLF	װאָלט	VAolt	_
+4	afile	FP	אַפֿילו	Aafylv	_
+5	fun	P	פֿון	fvN	_
+6	a	D	אַ	Aa	_
+7	genug	Q	גענוג	genvg	_
+8	groysn	ADJ	גרױסן	grWsN	_
+9	material	N	מאַטעריִאַל	mAateryiAal	_
+10	shver	ADJ	שװער	$Ver	_
+11	geven	VBN	געװען	geVeN	_
+12	tsu	TO	צו	qv	_
+13	makhn	VB	מאַכן	mAaxN	_
+14	oysfirn	N	אױספֿירן	AWsfyrN	_
+
+SENT	1928E-ZARETSKI-MENDELE,26.171
+1	vorem	CONJ	װאָרעם	VAoreM	_
+2	derlernen	VB	דערלערנען	derlerneN	_
+3	mendeles	NPR$	מענדעלעס	mendeles	_
+4	verterseyder	N	װערטערסײדער	VertersYder	_
+5	heyst	VBF	הײסט	hYst	_
+6	dokh	ADV	דאָך	dAoX	_
+7	fargleykhen	VB	פֿאַרגלײכען	fAarglYxeN	_
+8	im	PRO	אים	AyM	_
+9	mit	P	מיט	myt	_
+10	epes	Q	עפּעס	epes	_
+11	an	D	אַן	AaN	_
+12	ander	ADJ	אַנדער	Aander	_
+13	verterseyder	N	װערטערסײדער	VertersYder	_
+14	,	PUNC	,	,	_
+15	vos	C	װאָס	VAos	_
+16	gilt	VBF	גילט	gylt	_
+17	far	P	פֿאַר	fAar	_
+18	a	D	אַ	Aa	_
+19	norme	N	נאָרמע	nAorme	_
+20	,	PUNC	,	,	_
+21	ober	CONJ	אָבער	Aober	_
+22	lekolafokhes	H	לעקאָלאַפֿאָכעס	lekAolAafAoxes	UNKNOWN
+23	far	P	פֿאַר	fAar	_
+24	an	D	אַן	AaN	_
+25	etalon	N	עטאַלאָן	etAalAoN	_
+26	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,26.172
+1	velkher	WD	װעלכער	Velxer	_
+2	verterseyder	N	װערטערסײדער	VertersYder	_
+3	ken	MDF	קען	keN	_
+4	es	PRO	עס	es	_
+5	zeyn	VB	זײן	zYN	_
+6	?	PUNC	?	?	_
+
+SENT	1928E-ZARETSKI-MENDELE,26.173
+1	dos	D	דאָס	dAos	_
+2	ken	MDF	קען	keN	_
+3	zeyn	VB	זײן	zYN	_
+4	der	D	דער	der	_
+5	yidisher	ADJ	ייִדישער	yyidy$er	_
+6	verterseyder	N	װערטערסײדער	VertersYder	_
+7	folkstimlekher	ADJR	פֿאָלקסטימלעכער	fAolkstymlexer	_
+8	oder	CONJ	אָדער	Aoder	_
+9	literarisher	ADJR	ליטעראַרישער	lyterAary$er	_
+
+SENT	1928E-ZARETSKI-MENDELE,26.174
+1	kedey	C	כּדי	Kdy	_
+2	tsu	TO	צו	qv	_
+3	bakumen	VB	באַקומען	bAakvmeN	_
+4	di	D	די	dy	_
+5	gezetsn	N	געזעצן	gezeqN	_
+6	fun	P	פֿון	fvN	_
+7	aza	ADJ	אַזאַ	AazAa	_
+8	verterseyder	N	װערטערסײדער	VertersYder	_
+9	,	PUNC	,	,	_
+10	darf	MDF	דאַרף	dAarF	_
+11	men	PRO	מען	meN	_
+12	studirn	VB	סטודירן	stvdyrN	_
+13	sey	CONJ	סײ	sY	_
+14	mendelen	NPR	מענדעלען	mendeleN	_
+15	,	PUNC	,	,	_
+16	sey	CONJ	סײ	sY	_
+17	sholem-aleykemen	NPR	שלום-אַלײקעמען	$lvM-AalYkemeN	_
+18	,	PUNC	,	,	_
+19	sey	CONJ	סײ	sY	_
+20	bergelsonen	NPR	בערגעלסאָנען	bergelsAoneN	_
+21	,	PUNC	,	,	_
+22	sey	CONJ	סײ	sY	_
+23	di	D	די	dy	_
+24	lebedike	ADJ	לעבעדיקע	lebedyke	_
+25	reyd	N	רײד	rYd	_
+26	,	PUNC	,	,	_
+27	af	P	אַף	AaF	_
+28-29	vifl	WADV~Q	װיפֿל	Vyfl	_
+28	vi	WADV	װי	Vy	_
+29	fl	Q	פֿל	fl	_
+30	dos	D	דאָס	dAos	_
+31	iz	VBF	איז	Ayz	_
+32	meglekh	ADJ	מעגלעך	megleX	_
+33	usv.	X	אוסװ.	AvsV.	_
+
+SENT	1928E-ZARETSKI-MENDELE,26.175
+1	dos	D	דאָס	dAos	_
+2	vos	C	װאָס	VAos	_
+3	ikh	PRO	איך	AyX	_
+4	tu	VBF	טו	tv	_
+5	in	P	אין	AyN	_
+6	dem	D	דעם	deM	_
+7	artikl	N	אַרטיקל	Aartykl	_
+8	,	PUNC	,	,	_
+9	iz	VBF	איז	Ayz	_
+10	nokh	ADV	נאָך	nAoX	_
+11	dervayl	ADV	דערװײַל	derVYal	_
+12	nit	NEG	ניט	nyt	_
+13	keyn	Q	קײן	kYN	_
+14	tsushteyer	N	צושטײער	qv$tYer	_
+15	tsu	P	צו	qv	_
+16	mendeles	NPR$	מענדעלעס	mendeles	_
+17	gramatik	N	גראַמאַטיק	grAamAatyk	_
+18	,	PUNC	,	,	_
+
+SENT	1928E-ZARETSKI-MENDELE,26.176
+1	s'	ES	ס'	s'	_
+2	iz	VBF	איז	Ayz	_
+3	a	D	אַ	Aa	_
+4	tsushteyer	N	צושטײער	qv$tYer	_
+5	tsu	P	צו	qv	_
+6	der	D	דער	der	_
+7	yidisher	ADJ	ייִדישער	yyidy$er	_
+8	literarisher	ADJ	ליטעראַרישער	lyterAary$er	_
+9	gramatik	N	גראַמאַטיק	grAamAatyk	_
+10	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,26.177
+1	fun	P	פֿון	fvN	_
+2	di	D	די	dy	_
+3	500	NUM	500	500	_
+4	perzonverter	N	פּערזאָנװערטער	perzAonVerter	_
+5	hot	HVF	האָט	hAot	_
+6	der	D	דער	der	_
+7	grester	ADJS	גרעסטער	grester	_
+8	teyl	N	טײל	tYl	_
+9	beshtetikt	VBN	בעשטעטיקט	be$tetykt	_
+10	di	D	די	dy	_
+11	gezetsn	N	געזעצן	gezeqN	_
+12	,	PUNC	,	,	_
+13	vos	C	װאָס	VAos	_
+14	kh'	PRO	כ'	x'	_
+15	hob	HVF	האָב	hAob	_
+16	shoyn	ADV	שױן	$WN	_
+17	frier	ADVR	פֿריִער	fryier	_
+18	formulirt	VBN	פֿאָרמולירט	fAormvlyrt	_
+
+SENT	1928E-ZARETSKI-MENDELE,26.178
+1	eynike	Q	אײניקע	AYnyke	_
+2	veyzn	VBF	װײזן	VYzN	_
+3	op	RP	אָפּ	Aop	_
+4	epes	Q	עפּעס	epes	_
+5	neys	ADJ	נײס	nYs	_
+
+SENT	1928E-ZARETSKI-MENDELE,26.179
+1	oder	CONJ	אָדער	Aoder	_
+2	tsvingen	VBF	צװינגען	qVyngeN	_
+3	veyter	ADV	װײטער	VYter	_
+4-6	nokhtsuklern	RP~TO~VB	נאָכצוקלערן	nAoxqvklerN	_
+4	nokh	RP	נאָך	nAoX	_
+5	tsu	TO	צו	qv	_
+6	klern	VB	קלערן	klerN	_
+7	.	PUNC	.	.	_
+
+SENT	1928E-ZARETSKI-MENDELE,26.180
+1	beyde	Q	בײדע	bYde	_
+2	rezultatn	N	רעזולטאַטן	rezvltAatN	_
+3	zeynen	VBF	זײנען	zYneN	_
+4	nutsik	ADJ	נוציק	nvqyk	_
+5	.	PUNC	.	.	_
+

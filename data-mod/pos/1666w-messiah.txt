@@ -1,0 +1,3381 @@
+SENT	1666W-MESSIAH,P.3
+1	eyn	D	אײן	AYN	_
+2	sheyn	ADJ	שײן	$YN	_
+3	ney	ADJ	נײ	nY	_
+4	lid	N	ליד	lyd	_
+5	fun	P	פֿון	fvN	_
+6	msikh	NPR	מסיך	msyX	_
+
+SENT	1666W-MESSIAH,P.4
+1	kl	Q	קל	kl	all
+2	isral	NPR	איסראַל	AysrAal	_
+3	lebn	N	לעבן	lebN	_
+4	hert	VBI	הערט	hert	_
+5	mir	PRO	מיר	myr	_
+6	tsu	RP	צו	qv	_
+
+SENT	1666W-MESSIAH,P.5
+1	ikh	PRO	איך	AyX	_
+2	vil	MDF	װיל	Vyl	_
+3	eykh	PRO	אײך	AYX	_
+4	den	D	דען	deN	_
+5	shreybr	N	שרײבר	$rYbr	_
+6	gebn	VB	געבן	gebN	_
+7	tsu	TO	צו	qv	_
+8	kenh	VB	קענה	kenh	_
+
+SENT	1666W-MESSIAH,P.6
+1	er	PRO	ער	er	_
+2	heyst	VBF	הײסט	hYst	_
+3	yekb	NPR	יעקב	yekb	_
+4	toysk	NPR	טױסק	tWsk	_
+5	fun	P	פֿון	fvN	_
+6	prag	NPR	פּראַג	prAag	_
+
+SENT	1666W-MESSIAH,P.7
+1	eyn_zu	ADV	אײנ_זו	AYn_zv	_
+2	tut	DOF	טוט	tvt	_
+3	er	PRO	ער	er	_
+4	zikh	PRO	זיך	zyX	_
+5	nenh	VB	נענה	nenh	_
+
+SENT	1666W-MESSIAH,P.8
+1	dz	D	דז	dz	_
+2	lid	N	ליד	lyd	_
+3	hat	HVF	האַט	hAat	_
+4	er	PRO	ער	er	_
+5	gar	ADV	גאַר	gAar	_
+6	shoyn	ADV	שױן	$WN	_
+7	gimakht	VBN	גימאַכט	gymAaxt	_
+8	erst	ADV	ערסט	erst	_
+9	dz	D	דז	dz	_
+10	alf_bit	N	אַלפֿ_ביט	Aalf_byt	_
+11	un	CONJ	און	AvN	_
+12	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+13	zeyn	PRO$	זײן	zYN	_
+14	gimelt	N	גימעלט	gymelt	_
+
+SENT	1666W-MESSIAH,P.9
+1	unzr	PRO$	אונזר	Avnzr	_
+2	sbtim	N	סבטים	sbtyM	_
+3	zeyn	VBF	זײן	zYN	_
+4	al	Q	אַל	Aal	_
+5	mit	P	מיט	myt	_
+6	alih	NPR	אַליה	Aalyh	_
+7	nbia	H	נביִאַ	nbyiAa	prophet
+8	bireyt	ADJ	בירײט	byrYt	_
+9	unz	PRO	אונז	Avnz	_
+10	tsu	TO	צו	qv	_
+11	brengin	VB	ברענגין	brengyN	_
+12	in	P	אין	AyN	_
+13	heylign	ADJ	הײליגן	hYlygN	_
+14	land	N	לאַנד	lAand	_
+15	mit	P	מיט	myt	_
+16	grush	ADJ	גרוש	grv$	_
+17	freyd	N	פֿרײד	frYd	_
+
+SENT	1666W-MESSIAH,P.10
+1	in	P	אין	AyN	_
+2	velkh	WD	װעלך	VelX	_
+3	lendr	N	לענדר	lendr	_
+4	shbtim	N	שבטים	$btyM	_
+5	zeynh	BEF	זײנה	zYnh	_
+6	kumn	VBN	קומן	kvmN	_
+7	habin	HVF	האַבין	hAabyN	_
+8	zi	PRO	זי	zy	_
+9	alz	Q	אַלז	Aalz	_
+10	mit	P	מיט	myt	_
+11	shrekin	N	שרעקין	$rekyN	_
+12	eyn	RP	אײן	AYN	_
+13	ginumn	VBN	גינומן	gynvmN	_
+
+SENT	1666W-MESSIAH,P.11
+1	ir	PRO	איר	Ayr	_
+2	megt	MDF	מעגט	megt	_
+3	mit	P	מיט	myt	_
+4	freyd	N	פֿרײד	frYd	_
+5	al	Q	אַל	Aal	_
+6	kumn	VB	קומן	kvmN	_
+7	tsu	TO	צו	qv	_
+8	loyfin	VB	לױפֿין	lWfyN	_
+9	un	CONJ	און	AvN	_
+10	eykh	PRO	אײך	AYX	_
+11	daz	D	דאַז	dAaz	_
+12	hoykh_giert	ADJ	הױכ_גיִערט	hWx_gyiert	_
+13	likd	N	ליקד	lykd	_
+14	tsu	TO	צו	qv	_
+15	koyfn	VB	קױפֿן	kWfN	_
+
+SENT	1666W-MESSIAH,1.13
+1	in	P	אין	AyN	_
+2	eyn	D	אײן	AYN	_
+3	teyl	N	טײל	tYl	_
+4	artin	N	אַרטין	AartyN	_
+5	vau	WADV	װאַו	VAav	_
+6	unzr	PRO$	אונזר	Avnzr	_
+7	bridr	N	ברידר	brydr	_
+8	zeyn	VBF	זײן	zYN	_
+9	di	D	די	dy	_
+10	visn	VBF	װיסן	VysN	_
+11	fun	P	פֿון	fvN	_
+12	niks	Q	ניקס	nyks	_
+13	tsu	TO	צו	qv	_
+14	zagn	VB	זאַגן	zAagN	_
+15	dz	C	דז	dz	_
+16	mshikh	NPR	משיך	m$yX	_
+17	kumn	VB	קומן	kvmN	_
+18	zal	MDF	ז"ל	z"l	_
+19	bld	ADV	בלד	bld	_
+20	in	P	אין	AyN	_
+21	kurtsin	ADJ	קורצין	kvrqyN	_
+22	tagn	N	תּגין	TgyN	_
+
+SENT	1666W-MESSIAH,1.14
+1	hitsundrt	ADV	היצונדרט	hyqvndrt	_
+2	,	PUNC	,	,	_
+3	ir	PRO	איר	Ayr	_
+4	libn	ADJ	ליבן	lybN	_
+5	leyt	N	לײט	lYt	_
+6	hert	VBI	הערט	hert	_
+7	mn	PRO	מן	mN	_
+8	eytl	ADV	אײטל	AYtl	_
+9	grush	ADJ	גרוש	grv$	_
+10	freyd	N	פֿרײד	frYd	_
+11	amn	H	אַמן	AamN	amen
+12	uamn	H	אואַמן	AvAamN	and_amen
+13	uamn	H	אואַמן	AvAamN	and_amen
+
+SENT	1666W-MESSIAH,2.16
+1	bidenkt	VBI	בידענקט	bydenkt	_
+2	,	PUNC	,	,	_
+3	ir	PRO	איר	Ayr	_
+4	libn	ADJ	ליבן	lybN	_
+5	bridr	N	ברידר	brydr	_
+6	meyn	PRO$	מײן	mYN	_
+7	ibr_al	ADV	איבר_אַל	Aybr_Aal	_
+8	oyf	P	אױף	AWF	_
+9	al	Q	אַל	Aal	_
+10	di	D	די	dy	_
+11	zeytn	N	זײטן	zYtN	_
+12	vi	C	װי	Vy	_
+13	mir	PRO	מיר	myr	_
+14	verin	RDF	װערין	VeryN	_
+15	in	P	אין	AyN	_
+16	arts	N	אַרץ	AarQ	_
+17	isral	NPR	איסראַל	AysrAal	_
+18	kumn	VB	קומן	kvmN	_
+19	tsu	TO	צו	qv	_
+20	farin	VB	פֿאַרין	fAaryN	_
+21	un'	CONJ	אונ'	Avn'	_
+22	tsu	TO	צו	qv	_
+23	reytn	VB	רײטן	rYtN	_
+
+SENT	1666W-MESSIAH,2.17
+1	hshm	H	השם	h$M	the_name
+2	itbrkh	H	איטברך	AytbrX	may_be_blessed
+3	vil	MDF	װיל	Vyl	_
+4	unz	PRO	אונז	Avnz	_
+5	nit	NEG	ניט	nyt	_
+6	mer	ADV	מער	mer	_
+7	in	P	אין	AyN	_
+8	glut	N	גלוט	glvt	_
+9	lazin	VB	לאַזין	lAazyN	_
+
+SENT	1666W-MESSIAH,2.18
+1	mir	PRO	מיר	myr	_
+2	velin	MDF	װעלין	VelyN	_
+3	bald	ADV	באַלד	bAald	_
+4	herin	VB	הערין	heryN	_
+5	sufr	H	סופֿר	svfr	shofar
+6	msikh	NPR	מסיך	msyX	_
+7	blazin	VB	בלאַזין	blAazyN	_
+
+SENT	1666W-MESSIAH,3.20
+1	grush	ADJ	גרוש	grv$	_
+2	freyd	N	פֿרײד	frYd	_
+3	in	P	אין	AyN	_
+4	amstrdm	NPR	אַמסטרדם	AamstrdM	_
+5	hb	HVF	הב	hb	_
+6	ikh	PRO	איך	AyX	_
+7	fil	Q	פֿיל	fyl	_
+8	gihert	VBN	גיהערט	gyhert	_
+9	un	CONJ	און	AvN	_
+10	akh	ADV	אַך	AaX	_
+11	gizehn	VBN	גיזעהן	gyzehN	_
+12	vi	C	װי	Vy	_
+13	guth	ADJ	גוטה	gvth	_
+14	brif	N	בריף	bryF	_
+15	gikumn	VBN	גיקומן	gykvmN	_
+16	zeyn	BEF	זײן	zYN	_
+17	vaz	WPRO	װאַז	VAaz	_
+18	freyd	N	פֿרײד	frYd	_
+19	var	BEF	װאַר	VAar	_
+20	da	ADV	דאַ	dAa	_
+21	gisehn	VBN	גיסעהן	gysehN	_
+22	vi	C	װי	Vy	_
+23	di	D	די	dy	_
+24	partigizn	N	פּאַרטיגיזן	pAartygyzN	_
+25	habin	HVF	האַבין	hAabyN	_
+26	di	D	די	dy	_
+27	sfr	H	ספֿר	sfr	book
+28	turh	H	טורה	tvrh	Torah
+29	oyz	RP	אױז	AWz	_
+30	ginumh	VBN	גינומה	gynvmh	_
+
+SENT	1666W-MESSIAH,3.21
+1	dar_kign	DR+P	דאַר_קיגן	dAar_kygN	_
+2	gitntst	VBN	גיטנצט	gytnqt	_
+3	un'	CONJ	אונ'	Avn'	_
+4	gisprungnh	VBN	גיספּרונגנה	gysprvngnh	_
+5	amn	H	אַמן	AamN	amen
+6	uamn	H	אואַמן	AvAamN	and_amen
+7	uamn	H	אואַמן	AvAamN	and_amen
+
+SENT	1666W-MESSIAH,4.23
+1	daz	D	דאַז	dAaz	_
+2	bit_hmkdsh	N	ביט_המקדש	byt_hmkd$	temple
+3	hut	HVF	הוט	hvt	_
+4	got	NPR	גאָט	gAot	_
+5	zelbr	ADV	זעלבר	zelbr	_
+6	giboyt	VBN	גיבױט	gybWt	_
+
+SENT	1666W-MESSIAH,4.24
+1	dz	D	דז	dz	_
+2	vert	RDF	װערט	Vert	_
+3	ibig	ADV	איביג	Aybyg	_
+4	bleybn	VB	בלײבן	blYbN	_
+
+SENT	1666W-MESSIAH,4.25
+1	di	D	די	dy	_
+2	rseim	N	רסעיִם	rseyiM	_
+3	vern	RDF	װערן	VerN	_
+4	dribr	DR+P	דריבר	drybr	_
+5	habin	VB	האַבין	hAabyN	_
+6	keyn	Q	קײן	kYN	_
+7	makht	N	מאַכט	mAaxt	_
+8	,	PUNC	,	,	_
+9	keyn	Q	קײן	kYN	_
+10	tslilut	N	צלילוט	qlylvt	_
+11	kenn	MD	קענן	kenN	_
+12	treybn	VB	טרײבן	trYbN	_
+
+SENT	1666W-MESSIAH,4.26
+1	eytl	ADJ	אײטל	AYtl	_
+2	urgln	N	אורגלן	AvrglN	_
+3	selmey	N	סעלמײ	selmY	_
+4	vert	RDF	װערט	Vert	_
+5	man	PRO	מאַן	mAaN	_
+6	drinh	ADV	דרינה	drynh	_
+7	hern	VB	הערן	herN	_
+8	unzrn	PRO$	אונזרן	AvnzrN	_
+9	libn	ADJ	ליבן	lybN	_
+10	got	NPR	גאָט	gAot	_
+11	tsu	P	צו	qv	_
+12	erin	N	ערין	eryN	_
+
+SENT	1666W-MESSIAH,5.28
+1	habn	VB	האַבן	hAabN	_
+2	verin	RDF	װערין	VeryN	_
+3	mir	PRO	מיר	myr	_
+4	dinh	ADV	דינה	dynh	_
+5	al	Q	אַל	Aal	_
+6	di	D	די	dy	_
+7	freyd	N	פֿרײד	frYd	_
+8	fun	P	פֿון	fvN	_
+9	arglin	N	אַרגלין	AarglyN	_
+10	un'	CONJ	אונ'	Avn'	_
+11	shelmey	N	שעלמײ	$elmY	_
+
+SENT	1666W-MESSIAH,5.29
+1	zi	PRO	זי	zy	_
+2	antbitn	VBF	אַנטביטן	AantbytN	_
+3	unz	PRO	אונז	Avnz	_
+4	in	P	אין	AyN	_
+5	al	Q	אַל	Aal	_
+6	di	D	די	dy	_
+7	lnd	N	לנד	lnd	_
+8	dz	C	דז	dz	_
+9	mir	PRO	מיר	myr	_
+10	zikh	PRO	זיך	zyX	_
+11	zaln	MDF	זאַלן	zAalN	_
+12	freyan	VB	פֿרײאַן	frYAaN	_
+
+SENT	1666W-MESSIAH,5.30
+1	zi	PRO	זי	zy	_
+2	habn	VBF	האַבן	hAabN	_
+3	dart	ADV	דאַרט	dAart	_
+4	keyn	Q	קײן	kYN	_
+5	glut	N	גלוט	glvt	_
+6	mer	ADV	מער	mer	_
+
+SENT	1666W-MESSIAH,5.31
+1	di	D	די	dy	_
+2	lebn	VBF	לעבן	lebN	_
+3	al	Q	אַל	Aal	_
+4	mit	P	מיט	myt	_
+5	vreydin	N	װרײדין	VrYdyN	_
+6	zer	ADV	זער	zer	_
+7	amn	H	אַמן	AamN	amen
+8	uamn	H	אואַמן	AvAamN	and_amen
+9	uamn	H	אואַמן	AvAamN	and_amen
+
+SENT	1666W-MESSIAH,6.33
+1	ver	WPRO	װער	Ver	_
+2	nun	ADV	נ	n	_
+3	akh	ADV	אַך	AaX	_
+4	vil	MDF	װיל	Vyl	_
+5	zeyn	BE	זײן	zYN	_
+6	der_freyd	VAN	דער_פֿרײד	der_frYd	_
+7	der	D	דער	der	_
+8	zal	MDF	ז"ל	z"l	_
+9	akh	ADV	אַך	AaX	_
+10	bald	ADV	באַלד	bAald	_
+11	hin	RP-ADV	הין	hyN	_
+12	kumn	VB	קומן	kvmN	_
+
+SENT	1666W-MESSIAH,6.34
+1	unzr	PRO$	אונזר	Avnzr	_
+2	mlkh	N	מלך	mlX	_
+3	iz	BEF	איז	Ayz	_
+4	gikrint	VAN	גיקרינט	gykrynt	_
+5	,	PUNC	,	,	_
+
+SENT	1666W-MESSIAH,6.35
+1	dz	D	דז	dz	_
+2	habn	HVF	האַבן	hAabN	_
+3	mir	PRO	מיר	myr	_
+4	vr_numn	VBN	װר_נומן	Vr_nvmN	_
+5	vi	C	װי	Vy	_
+6	er	PRO	ער	er	_
+7	eyn	D	אײן	AYN	_
+8	vrumr	ADJ	װרומר	Vrvmr	_
+9	man	N	מאַן	mAaN	_
+10	vil	Q	װיל	Vyl	_
+11	gutz	ADJ	גוטז	gvtz	_
+12	vaundr	N	װאַונדר	VAavndr	_
+13	hat	HVF	האַט	hAat	_
+14	er	PRO	ער	er	_
+15	gitun	VBN	גיטון	gytvN	_
+16	amn	H	אַמן	AamN	amen
+
+SENT	1666W-MESSIAH,7.37
+1	zi	PRO	זי	zy	_
+2	shikn	VBF	שיקן	$ykN	_
+3	slukhim	N	סלוכים	slvxyM	_
+4	in	P	אין	AyN	_
+5	al	Q	אַל	Aal	_
+6	di	D	די	dy	_
+7	lnd	N	לנד	lnd	_
+
+SENT	1666W-MESSIAH,7.38
+1	di	D	די	dy	_
+2	smkhh	N	סמכה	smxh	_
+3	tuan	DOF	טואַן	tvAaN	_
+4	zi	PRO	זי	zy	_
+5	sheybn	VB	שײבן	$YbN	_
+6	dz	C	דז	dz	_
+7	mir	PRO	מיר	myr	_
+8	zalin	MDF	זאַלין	zAalyN	_
+9	makhn	VB	מאַכן	mAaxN	_
+10	fart	ADV	פֿאַרט	fAart	_
+11	nit	NEG	ניט	nyt	_
+12	lang	ADV	לאַנג	lAang	_
+13	hi	ADV	הי	hy	_
+14	tsu	TO	צו	qv	_
+15	bleybn	VB	בלײבן	blYbN	_
+
+SENT	1666W-MESSIAH,7.39
+1	ver	WPRO	װער	Ver	_
+2	dakh	ADV	דאַך	dAaX	_
+3	gar	ADV	גאַר	gAar	_
+4	keyn	Q	קײן	kYN	_
+5	gelt	N	געלט	gelt	_
+6	,	PUNC	,	,	_
+7	gut	N	גוט	gvt	_
+8	hat	VBF	האַט	hAat	_
+9	eynr	PRO	אײנר	AYnr	_
+10	den	D	דען	deN	_
+11	andern	ADJ	אַנדערן	AanderN	_
+12	helfn	VB	העלפֿן	helfN	_
+13	fart	ADV	פֿאַרט	fAart	_
+14	amn	H	אַמן	AamN	amen
+15	uamn	H	אואַמן	AvAamN	and_amen
+16	uamn	H	אואַמן	AvAamN	and_amen
+
+SENT	1666W-MESSIAH,8.41
+1	kidusim	N	קידוסים	kydvsyM	_
+2	hert	VBF	הערט	hert	_
+3	mn	PRO	מן	mN	_
+4	alh	Q	אַלה	Aalh	_
+5	tag	N	תּג	Tg	_
+6	vau	C	װאַו	VAav	_
+7	nsim	N	נסים	nsyM	_
+8	dart	ADV	דאַרט	dAart	_
+9	gisehn	VBF	גיסעהן	gysehN	_
+
+SENT	1666W-MESSIAH,8.42
+1	mir	PRO	מיר	myr	_
+2	velin	MDF	װעלין	VelyN	_
+3	zikh	PRO	זיך	zyX	_
+4	akh	ADV	אַך	AaX	_
+5	mkhn	VB	מכן	mxN	_
+6	vart	ADV	װאַרט	VAart	_
+7	di	D	די	dy	_
+8	smkhh	N	סמכה	smxh	_
+9	akh	ADV	אַך	AaX	_
+10	tsu	TO	צו	qv	_
+11	zehn	VB	זעהן	zehN	_
+
+SENT	1666W-MESSIAH,8.43
+1	unzr	PRO$	אונזר	Avnzr	_
+2	hndl	N	הנדל	hndl	_
+3	iz	VBF	איז	Ayz	_
+4	dakh	ADV	דאַך	dAaX	_
+5	vaul	ADV	װאַול	VAavl	_
+6	bestelt	ADJ	בעסטעלט	bestelt	_
+
+SENT	1666W-MESSIAH,8.44
+1	spart	VBI	ספּאַרט	spAart	_
+2	oykh	PRO	אױך	AWX	_
+3	nit	NEG	ניט	nyt	_
+4	keyn	Q	קײן	kYN	_
+5	gut	N	גוט	gvt	_
+6	nakh	CONJ	נ"ך	n"X	_
+7	gelt	N	געלט	gelt	_
+
+SENT	1666W-MESSIAH,9.46
+1	tut	DOI	טוט	tvt	_
+2	eykh	PRO	אײך	AYX	_
+3	nit	NEG	ניט	nyt	_
+4	zoymn	VB	זױמן	zWmN	_
+5	bridr	N	ברידר	brydr	_
+6	meyn	PRO$	מײן	mYN	_
+
+SENT	1666W-MESSIAH,9.47
+1	keyn	Q	קײן	kYN	_
+2	gelt	N	געלט	gelt	_
+3	zalt	MDF	זאַלט	zAalt	_
+4	ir	PRO	איר	Ayr	_
+5	nit	NEG	ניט	nyt	_
+6	sparn	VB	ספּאַרן	spAarN	_
+
+SENT	1666W-MESSIAH,9.48
+1	ven	C	װען	VeN	_
+2	mir	PRO	מיר	myr	_
+3	kumn	VBF	קומן	kvmN	_
+4	in	P	אין	AyN	_
+5	heylign	ADJ	הײליגן	hYlygN	_
+6	lnd	N	לנד	lnd	_
+7	areyn	ADV	אַרײן	AarYN	_
+8	zeynh	VBF	זײנה	zYnh	_
+9	mir	PRO	מיר	myr	_
+10	ney	ADV	נײ	nY	_
+11	gibarn	ADJ	גיבאַרן	gybAarN	_
+12	veyl	C	װײל	VYl	_
+13	uns	PRO	אונס	Avns	_
+14	vil	MDF	װיל	Vyl	_
+15	gebn	VB	געבן	gebN	_
+16	der	D	דער	der	_
+17	libh	ADJ	ליבה	lybh	_
+18	gat	NPR	גאַט	gAat	_
+19	vaz	WPRO	װאַז	VAaz	_
+20	er	PRO	ער	er	_
+21	uns	PRO	אונס	Avns	_
+22	far_shprakhn	VBN	פֿאַר_שפּראַכן	fAar_$prAaxN	_
+23	hat	HVF	האַט	hAat	_
+
+SENT	1666W-MESSIAH,10.50
+1	ihudim	N	איהודים	AyhvdyM	_
+2	,	PUNC	,	,	_
+3	libn	ADJ	ליבן	lybN	_
+4	bridr	N	ברידר	brydr	_
+5	meyn	PRO$	מײן	mYN	_
+6	,	PUNC	,	,	_
+7	zeyt	VBI	זײט	zYt	_
+8	veyter	ADV	װײטער	VYter	_
+9	frilikh	ADJ	פֿריליך	frylyX	_
+10	veyl	C	װײל	VYl	_
+11	unz	PRO	אונז	Avnz	_
+12	hat	HVF	האַט	hAat	_
+13	gebn	VBN	געבן	gebN	_
+14	der	D	דער	der	_
+15	libh	ADJ	ליבה	lybh	_
+16	gat	NPR	גאַט	gAat	_
+17	mir	PRO	מיר	myr	_
+18	habn	VBF	האַבן	hAabN	_
+19	unzrn	PRO$	אונזרן	AvnzrN	_
+20	mlkh	N	מלך	mlX	_
+
+SENT	1666W-MESSIAH,10.51
+1	der	D	דער	der	_
+2	vert	RDF	װערט	Vert	_
+3	helfin	VB	העלפֿין	helfyN	_
+4	al	Q	אַל	Aal	_
+5	di	D	די	dy	_
+6	leyt	N	לײט	lYt	_
+
+SENT	1666W-MESSIAH,10.52
+1	mir	PRO	מיר	myr	_
+2	habn	HVF	האַבן	hAabN	_
+3	gihuft	VBN	גיהופֿט	gyhvft	_
+4	eyn	D	אײן	AYN	_
+5	lngh	ADJ	לנגה	lngh	_
+6	tseyt	N	צײט	qYt	_
+
+SENT	1666W-MESSIAH,11.54
+1	kl	Q	קל	kl	all
+2	eulm	N	עולם	evlM	_
+3	vau	WADV	װאַו	VAav	_
+4	mir	PRO	מיר	myr	_
+5	bridr	N	ברידר	brydr	_
+6	zeyn	VBF	זײן	zYN	_
+7	un	CONJ	און	AvN	_
+8	vern	RDF	װערן	VerN	_
+9	di	D	די	dy	_
+10	smkhh	N	סמכה	smxh	_
+11	herin	VB	הערין	heryN	_
+12	di	D	די	dy	_
+13	vern	RDF	װערן	VerN	_
+14	reyzn	VB	רײזן	rYzN	_
+15	tag	N	תּג	Tg	_
+16	un'	CONJ	אונ'	Avn'	_
+17	nakht	N	נאַכט	nAaxt	_
+18	nakh	P	נ"ך	n"X	_
+19	iruslim	NPR	אירוסלים	AyrvslyM	_
+20	gern	ADV	גערן	gerN	_
+
+SENT	1666W-MESSIAH,11.55
+1	ir	PRO$	איר	Ayr	_
+2	hndl	N	הנדל	hndl	_
+3	iz	VBF	איז	Ayz	_
+4	dakh	ADV	דאַך	dAaX	_
+5	vaul	ADV	װאַול	VAavl	_
+6	gistelt	ADJ	גיסטעלט	gystelt	_
+
+SENT	1666W-MESSIAH,11.56
+1	mir	PRO	מיר	myr	_
+2	megn	MDF	מעגן	megN	_
+3	kumn	VB	קומן	kvmN	_
+4	zundr	P	זונדר	zvndr	_
+5	gelt	N	געלט	gelt	_
+
+SENT	1666W-MESSIAH,12.58
+1	libr	ADJ	ליבר	lybr	_
+2	her_got	NPR	הער_גאָט	her_gAot	_
+3	laz	VBI	לאַז	lAaz	_
+4	kumn	VB	קומן	kvmN	_
+5	di	D	די	dy	_
+6	gaulh	N	גאַולה	gAavlh	_
+7	bld	ADV	בלד	bld	_
+8	nit	NEG	ניט	nyt	_
+9	mit	P	מיט	myt	_
+10	grusin	ADJ	גרוסין	grvsyN	_
+11	shrekin	N	שרעקין	$rekyN	_
+
+SENT	1666W-MESSIAH,12.59
+1	unzr	PRO$	אונזר	Avnzr	_
+2	glut	N	גלוט	glvt	_
+3	hat	HVF	האַט	hAat	_
+4	gar	ADV	גאַר	gAar	_
+5	lng	ADV	לנג	lng	_
+6	givert	VBN	גיװערט	gyVert	_
+
+SENT	1666W-MESSIAH,12.60
+1	verst	RDF	װערסט	Verst	_
+2	unz	PRO	אונז	Avnz	_
+3	nit	NEG	ניט	nyt	_
+4	lazin	VB	לאַזין	lAazyN	_
+5	stekn	VB	סטעקן	stekN	_
+
+SENT	1666W-MESSIAH,12.61
+1	mir	PRO	מיר	myr	_
+2	habn	HVF	האַבן	hAabN	_
+3	glitn	VBN	גליטן	glytN	_
+4	grus	ADJ	גרוס	grvs	_
+5	elent	N	עלענט	elent	_
+
+SENT	1666W-MESSIAH,12.62
+1	mkh	VBI	מך	mX	_
+2	unzr	PRO$	אונזר	Avnzr	_
+3	glut	N	גלוט	glvt	_
+4	bld	ADV	בלד	bld	_
+5	eyn	D	אײן	AYN	_
+6	end	N	ענד	end	_
+
+SENT	1666W-MESSIAH,13.64
+1	mit	P	מיט	myt	_
+2	unzr	PRO$	אונזר	Avnzr	_
+3	eltrn	N	עלטרן	eltrN	_
+4	hast	HVF	האַסט	hAast	_
+5	du	PRO	דו	dv	_
+6	akh	ADV	אַך	AaX	_
+7	grus	ADJ	גרוס	grvs	_
+8	guts	N	גוטס	gvts	_
+9	gitan	VBN	גיטאַן	gytAaN	_
+10	da	C	דאַ	dAa	_
+11	zi	PRO	זי	zy	_
+12	in	P	אין	AyN	_
+13	mtsrim	NPR	מצרים	mqryM	_
+14	varn	VBF	װאַרן	VAarN	_
+
+SENT	1666W-MESSIAH,13.65
+1	zi	PRO	זי	zy	_
+2	habn	HVF	האַבן	hAabN	_
+3	dart	ADV	דאַרט	dAart	_
+4	giarbt	VBN	גיִאַרבט	gyiAarbt	_
+5	shver	ADV	שװער	$Ver	_
+
+SENT	1666W-MESSIAH,13.66
+1	gabn	VBF	גאַבן	gAabN	_
+2	zikh	PRO	זיך	zyX	_
+3	gnts	ADV	גנץ	gnQ	_
+4	vr_larn	ADJ	װר_לאַרן	Vr_lAarN	_
+
+SENT	1666W-MESSIAH,13.67
+1	du	PRO	דו	dv	_
+2	shikst	VBF	שיקסט	$ykst	_
+3	tsu	P	צו	qv	_
+4	freh	NPR	פֿרעה	freh	_
+5	msh	NPR	מש	m$	_
+6	,	PUNC	,	,	_
+7	deyn	PRO$	דײן	dYN	_
+8	gitreyan	ADJ	גיטרײאַן	gytrYAaN	_
+9	knekht	N	קנעכט	knext	_
+
+SENT	1666W-MESSIAH,13.68
+1-2	hustu	HVF~PRO	הוסטו	hvstv	_
+1	hus	HVF	הוס	hvs	_
+2	tu	PRO	טו	tv	_
+3	zi	PRO	זי	zy	_
+4	oyz	RP	אױז	AWz	_
+5	gitsugin	VBN	גיצוגין	gyqvgyN	_
+6	mit	P	מיט	myt	_
+7	deynr	PRO$	דײנר	dYnr	_
+8	makht	N	מאַכט	mAaxt	_
+
+SENT	1666W-MESSIAH,14.70
+1	nakh	RP	נ"ך	n"X	_
+2	shikt	VBF	שיקט	$ykt	_
+3	freh	NPR	פֿרעה	freh	_
+4	al	Q	אַל	Aal	_
+5	zeyn	PRO$	זײן	zYN	_
+6	knekht	N	קנעכט	knext	_
+
+SENT	1666W-MESSIAH,14.71
+1	un	CONJ	און	AvN	_
+2	tut	DOF	טוט	tvt	_
+3	zelbrt	ADV	זעלברט	zelbrt	_
+4	nakh	RP	נ"ך	n"X	_
+5	yagn	VB	יאַגן	yAagN	_
+
+SENT	1666W-MESSIAH,14.72
+1	isral	NPR	איסראַל	AysrAal	_
+2	durftn	MDF	דורפֿטן	dvrftN	_
+3	zikh	PRO	זיך	zyX	_
+4	vern	VB	װערן	VerN	_
+5	nit	NEG	ניט	nyt	_
+
+SENT	1666W-MESSIAH,14.73
+1	gut	N	גוט	gvt	_
+2	tut	DOF	טוט	tvt	_
+3	zi	PRO	זי	zy	_
+4	zelbrt	ADV	זעלברט	zelbrt	_
+5	shlagin	VB	שלאַגין	$lAagyN	_
+
+SENT	1666W-MESSIAH,14.74
+1	isral	NPR	איסראַל	AysrAal	_
+2	varin	BEF	װאַרין	VAaryN	_
+3	bld	ADV	בלד	bld	_
+4	dr_freyt	VAN	דר_פֿרײט	dr_frYt	_
+
+SENT	1666W-MESSIAH,14.75
+1	mtsrim	NPR	מצרים	mqryM	_
+2	hatin	VBF	האַטין	hAatyN	_
+3	grush	ADJ	גרוש	grv$	_
+4	leyt	N	לײט	lYt	_
+
+SENT	1666W-MESSIAH,15.77
+1	sumh	H	סומה	svmh	UNKNOWN
+2	smrus	H	סמרוס	smrvs	UNKNOWN
+3	gut	N	גוט	gvt	_
+4	hat	HVF	האַט	hAat	_
+5	zi	PRO	זי	zy	_
+6	dr_freyat	VBN	דר_פֿרײאַט	dr_frYAat	_
+7	di	D	די	dy	_
+8	yungn	N	יונגן	yvngN	_
+9	un	CONJ	און	AvN	_
+10	di	D	די	dy	_
+11	altn	N	אַלטן	AaltN	_
+
+SENT	1666W-MESSIAH,15.78
+1	da	C	דאַ	dAa	_
+2	isral	NPR	איסראַל	AysrAal	_
+3	kamn	VBF	קאַמן	kAamN	_
+4	tsu	P	צו	qv	_
+5	dem	D	דעם	deM	_
+6	mer	N	מער	mer	_
+7	da	ADV	דאַ	dAa	_
+8	hat	HVF	האַט	hAat	_
+9	ez	PRO	עז	ez	_
+10	gut	N	גוט	gvt	_
+11	gispltn	VBN	גיספּלטן	gyspltN	_
+
+SENT	1666W-MESSIAH,15.79
+1	kindr	N	קינדר	kyndr	_
+2	isral	NPR	איסראַל	AysrAal	_
+3	gingn	VBF	גינגן	gyngN	_
+4	durkh	RP	דורך	dvrX	_
+5	mit	P	מיט	myt	_
+6	grusr	ADJ	גרוסר	grvsr	_
+7	er	N	ער	er	_
+
+SENT	1666W-MESSIAH,15.80
+1	mlkh	N	מלך	mlX	_
+2	mtsrim	NPR	מצרים	mqryM	_
+3	dr_trunk	VBF	דר_טרונק	dr_trvnk	_
+4	mit	P	מיט	myt	_
+5	al	Q	אַל	Aal	_
+6	zeyn	PRO$	זײן	zYN	_
+7	her	N	הער	her	_
+
+SENT	1666W-MESSIAH,16.82
+1	ets	ADV	עץ	eQ	_
+2	,	PUNC	,	,	_
+3	libn	ADJ	ליבן	lybN	_
+4	bridr	N	ברידר	brydr	_
+5	,	PUNC	,	,	_
+6	zeyt	VBI	זײט	zYt	_
+7	akh	ADV	אַך	AaX	_
+8	frum	ADJ	פֿרום	frvM	_
+9	vi	WADV	װי	Vy	_
+10	unzr	PRO$	אונזר	Avnzr	_
+11	eltrn	N	עלטרן	eltrN	_
+12	zeyn	BEF	זײן	zYN	_
+13	givezn	VBN	גיװעזן	gyVezN	_
+
+SENT	1666W-MESSIAH,16.83
+1	unzr	PRO$	אונזר	Avnzr	_
+2	her_gut	NPR	הער_גוט	her_gvt	_
+3	vert	RDF	װערט	Vert	_
+4	unz	PRO	אונז	Avnz	_
+5	helfn	VB	העלפֿן	helfN	_
+6	fart	ADV	פֿאַרט	fAart	_
+7	un'	CONJ	אונ'	Avn'	_
+8	makhin	VB	מאַכין	mAaxyN	_
+9	bald	ADV	באַלד	bAald	_
+10	ginezn	VB	גינעזן	gynezN	_
+
+SENT	1666W-MESSIAH,16.84
+1	unzr	PRO$	אונזר	Avnzr	_
+2	sbtim	N	סבטים	sbtyM	_
+3	zeyn	VBF	זײן	zYN	_
+4	al	Q	אַל	Aal	_
+5	bireyt	ADJ	בירײט	byrYt	_
+6	tsu	TO	צו	qv	_
+7	helfin	VB	העלפֿין	helfyN	_
+8	unz	PRO	אונז	Avnz	_
+9	mit	P	מיט	myt	_
+10	grusr	ADJ	גרוסר	grvsr	_
+11	vreyd	N	װרײד	VrYd	_
+
+SENT	1666W-MESSIAH,17.86
+1	fun	P	פֿון	fvN	_
+2	unzrn	PRO$	אונזרן	AvnzrN	_
+3	mlkh	N	מלך	mlX	_
+4	vil	MDF	װיל	Vyl	_
+5	ikh	PRO	איך	AyX	_
+6	hibn	VB	היבן	hybN	_
+7	an	RP	אַן	AaN	_
+8	vi	WADV	װי	Vy	_
+9	er	PRO	ער	er	_
+10	vr	P	װר	Vr	_
+11	unz	PRO	אונז	Avnz	_
+12	tut	DOF	טוט	tvt	_
+13	shtreytn	VB	שטרײטן	$trYtN	_
+
+SENT	1666W-MESSIAH,17.87
+1	vi	WD	װי	Vy	_
+2	grush	ADJ	גרוש	grv$	_
+3	farkht	N	פֿאַרכט	fAarxt	_
+4	hat	VBF	האַט	hAat	_
+5	mn	PRO	מן	mN	_
+6	vr	P	װר	Vr	_
+7	im	PRO	אים	AyM	_
+8	vau	WADV	װאַו	VAav	_
+9	er	PRO	ער	er	_
+10	kumt	VBF	קומט	kvmt	_
+11	mit	P	מיט	myt	_
+12	zeynh	PRO$	זײנה	zYnh	_
+13	leytn	N	לײטן	lYtN	_
+
+SENT	1666W-MESSIAH,17.88
+1	zi	PRO	זי	zy	_
+2	gibn	VBF	גיבן	gybN	_
+3	im	PRO	אים	AyM	_
+4	vaz	WPRO	װאַז	VAaz	_
+5	er	PRO	ער	er	_
+6	bigert	VBF	ביגערט	bygert	_
+
+SENT	1666W-MESSIAH,17.89
+1	er	PRO	ער	er	_
+2	bidarf	VBF	בידאַרף	bydAarF	_
+3	keyn	Q	קײן	kYN	_
+4	bikz	N	ביקז	bykz	_
+5	keyn	Q	קײן	kYN	_
+6	shvert	N	שװערט	$Vert	_
+
+SENT	1666W-MESSIAH,18.91
+1	tsu	P	צו	qv	_
+2	den	D	דען	deN	_
+3	terkin	N	טערקין	terkyN	_
+4	iz	BEF	איז	Ayz	_
+5	unzr	PRO$	אונזר	Avnzr	_
+6	mlkh	N	מלך	mlX	_
+7	kumn	VBN	קומן	kvmN	_
+8	in	P	אין	AyN	_
+9	der	D	דער	der	_
+10	heypt_stat	N	הײפּט_סטאַט	hYpt_stAat	_
+11	fun	P	פֿון	fvN	_
+12	terkeya	NPR	טערקײאַ	terkYAa	_
+
+SENT	1666W-MESSIAH,18.92
+1	unzr	PRO$	אונזר	Avnzr	_
+2	bridr	N	ברידר	brydr	_
+3	varin	VBF	װאַרין	VAaryN	_
+4	ez	PRO	עז	ez	_
+5	givar	ADJ	גיװאַר	gyVAar	_
+
+SENT	1666W-MESSIAH,18.93
+1	vi	WADV	װי	Vy	_
+2	tetin	DOF	טעטין	tetyN	_
+3	zi	PRO	זי	zy	_
+4	zikh	PRO	זיך	zyX	_
+5	vreyan	VB	װרײאַן	VrYAaN	_
+
+SENT	1666W-MESSIAH,18.94
+1	tsu	P	צו	qv	_
+2	den	D	דען	deN	_
+3	mlkh	N	מלך	mlX	_
+4	hub	VBF	הוב	hvb	_
+5	er	PRO	ער	er	_
+6	sprekhn	VB	ספּרעכן	sprexN	_
+7	an	RP	אַן	AaN	_
+
+SENT	1666W-MESSIAH,18.95
+1	deyn	PRO$	דײן	dYN	_
+2	kroyn	N	קרױן	krWN	_
+3	muz	MDF	מוז	mvz	_
+4	ikh	PRO	איך	AyX	_
+5	fun	P	פֿון	fvN	_
+6	dir	PRO	דיר	dyr	_
+7	han	VB	האַן	hAaN	_
+
+SENT	1666W-MESSIAH,18.96
+1	kan	VBF	ק"ן	k"N	_
+2	ikh	PRO	איך	AyX	_
+3	dakh	ADV	דאַך	dAaX	_
+4	nit	NEG	ניט	nyt	_
+5	den	D	דען	deN	_
+6	yudn	N	יודן	yvdN	_
+7	gat	NPR	גאַט	gAat	_
+
+SENT	1666W-MESSIAH,19.98
+1	vil	MDF	װיל	Vyl	_
+2	ikh	PRO	איך	AyX	_
+3	dikh	PRO	דיך	dyX	_
+4	an	RP	אַן	AaN	_
+5	nit	NEG	ניט	nyt	_
+6	hern	VB	הערן	herN	_
+7	gleykh	ADV	גלײך	glYX	_
+8	az	C	אַז	Aaz	_
+9	freh	NPR	פֿרעה	freh	_
+10	hat	HVF	האַט	hAat	_
+11	gitan	VBN	גיטאַן	gytAaN	_
+12	un	CONJ	און	AvN	_
+13	tet	DOF	טעט	tet	_
+14	zeyn	PRO$	זײן	zYN	_
+15	herts	N	הערץ	herQ	_
+16	bishverin	VB	בישװערין	by$VeryN	_
+
+SENT	1666W-MESSIAH,19.99
+1	unzr	PRO$	אונזר	Avnzr	_
+2	mlkh	N	מלך	mlX	_
+3	hat	HVF	האַט	hAat	_
+4	far	P	פֿאַר	fAar	_
+5	im	PRO	אים	AyM	_
+6	grus	ADJ	גרוס	grvs	_
+7	vaundr	N	װאַונדר	VAavndr	_
+8	gitan	VBN	גיטאַן	gytAaN	_
+
+SENT	1666W-MESSIAH,19.100
+1	iz	BEF	איז	Ayz	_
+2	er	PRO	ער	er	_
+3	dr_srakin	VBN	דר_סראַקין	dr_srAakyN	_
+4	mit	P	מיט	myt	_
+5	al	Q	אַל	Aal	_
+6	zeyn	PRO$	זײן	zYN	_
+7	man	N	מאַן	mAaN	_
+
+SENT	1666W-MESSIAH,19.101
+1	rekht_fertig	ADJ	רעכט_פֿערטיג	rext_fertyg	_
+2	iz	VBF	איז	Ayz	_
+3	unzr	PRO$	אונזר	Avnzr	_
+4	got	NPR	גאָט	gAot	_
+5	hub	VBF	הוב	hvb	_
+6	unzr	PRO$	אונזר	Avnzr	_
+7	mlkh	N	מלך	mlX	_
+8	an	RP	אַן	AaN	_
+9	tsu	TO	צו	qv	_
+10	sprekhn	VB	ספּרעכן	sprexN	_
+
+SENT	1666W-MESSIAH,20.103
+1	du	PRO	דו	dv	_
+2	bist	VBF	ביסט	byst	_
+3	gleykh	ADJ	גלײך	glYX	_
+4	az	C	אַז	Aaz	_
+5	freh	NPR	פֿרעה	freh	_
+6	var	VBF	װאַר	VAar	_
+
+SENT	1666W-MESSIAH,20.104
+1	du	PRO	דו	dv	_
+2	verst	RDF	װערסט	Verst	_
+3	ez	PRO	עז	ez	_
+4	nit	NEG	ניט	nyt	_
+5	dr_lakhin	VB	דר_לאַכין	dr_lAaxyN	_
+
+SENT	1666W-MESSIAH,20.105
+1	du	PRO	דו	dv	_
+2	vert	RDF	װערט	Vert	_
+3	nakh	RP	נ"ך	n"X	_
+4	shreyan	VB	שרײאַן	$rYAaN	_
+5	mit	P	מיט	myt	_
+6	al	Q	אַל	Aal	_
+7	deyn	PRO$	דײן	dYN	_
+8	knekht	N	קנעכט	knext	_
+9	der	D	דער	der	_
+10	yudn	N	יודן	yvdN	_
+11	gloybn	N	גלױבן	glWbN	_
+12	iz	VBF	איז	Ayz	_
+13	girekht	ADJ	גירעכט	gyrext	_
+
+SENT	1666W-MESSIAH,21.107
+1	shreyan	VB	שרײאַן	$rYAaN	_
+2	vert	RDF	װערט	Vert	_
+3	ir	PRO	איר	Ayr	_
+4	ali	Q	אַלי	Aaly	_
+5	gleykh	ADV	גלײך	glYX	_
+6	,	PUNC	,	,	_
+7	ir	PRO	איר	Ayr	_
+8	terkin	N	טערקין	terkyN	_
+9	un'	CONJ	אונ'	Avn'	_
+10	akh	ADV	אַך	AaX	_
+11	heydn	N	הײדן	hYdN	_
+12	ihudim	N	איהודים	AyhvdyM	_
+13	nemt	VBI	נעמט	nemt	_
+14	vaz	WPRO	װאַז	VAaz	_
+15	ir	PRO	איר	Ayr	_
+16	bigert	VBF	ביגערט	bygert	_
+
+SENT	1666W-MESSIAH,21.108
+1	un'	CONJ	אונ'	Avn'	_
+2	tsikht	VBI	ציכט	qyxt	_
+3	al	Q	אַל	Aal	_
+4	hin	RP-ADV	הין	hyN	_
+5	mit	P	מיט	myt	_
+6	freydn	N	פֿרײדן	frYdN	_
+
+SENT	1666W-MESSIAH,21.109
+1	mir	PRO	מיר	myr	_
+2	farkhtin	VBF	פֿאַרכטין	fAarxtyN	_
+3	zikh	PRO	זיך	zyX	_
+4	vr	P	װר	Vr	_
+5	eyer	PRO$	אײער	AYer	_
+6	got	NPR	גאָט	gAot	_
+7	der	WPRO	דער	der	_
+8	di	D	די	dy	_
+9	velt	N	װעלט	Velt	_
+10	bishafin	VBN	בישאַפֿין	by$AafyN	_
+11	hat	HVF	האַט	hAat	_
+
+SENT	1666W-MESSIAH,22.111
+1	tikf	ADV	טיקף	tykF	_
+2	az	C	אַז	Aaz	_
+3	mir	PRO	מיר	myr	_
+4	isral	NPR	איסראַל	AysrAal	_
+5	tfilh	N	טפֿילה	tfylh	_
+6	tuan	VBF	טואַן	tvAaN	_
+7	gat	NPR	גאַט	gAat	_
+8	tut	DOF	טוט	tvt	_
+9	unz	PRO	אונז	Avnz	_
+10	bld	ADV	בלד	bld	_
+11	dr_herin	VB	דר_הערין	dr_heryN	_
+
+SENT	1666W-MESSIAH,22.112
+1	da	C	דאַ	dAa	_
+2	unzr	PRO$	אונזר	Avnzr	_
+3	bridr	N	ברידר	brydr	_
+4	oyz	P	אױז	AWz	_
+5	glut	N	גלוט	glvt	_
+6	mtsrim	NPR	מצרים	mqryM	_
+7	gingn	VBF	גינגן	gyngN	_
+8	vas	WPRO	װאַס	VAas	_
+9	ir	PRO$	איר	Ayr	_
+10	herts	N	הערץ	herQ	_
+11	tet	DOF	טעט	tet	_
+12	bigern	VB	ביגערן	bygerN	_
+
+SENT	1666W-MESSIAH,22.113
+1	mtsrim	NPR	מצרים	mqryM	_
+2	varn	VBF	װאַרן	VAarN	_
+3	blindh	ADJ	בלינדה	blyndh	_
+4	leyt	N	לײט	lYt	_
+
+SENT	1666W-MESSIAH,22.114
+1	isral	NPR	איסראַל	AysrAal	_
+2	makhtn	VBF	מאַכטן	mAaxtN	_
+3	guth	ADJ	גוטה	gvth	_
+4	beyt	N	בײט	bYt	_
+
+SENT	1666W-MESSIAH,23.116
+1	ir	PRO	איר	Ayr	_
+2	libn	ADJ	ליבן	lybN	_
+3	bridr	N	ברידר	brydr	_
+4	yung	ADJ	יונג	yvng	_
+5	un	CONJ	און	AvN	_
+6	alt	ADJ	אַלט	Aalt	_
+7	nemt	VBI	נעמט	nemt	_
+8	oykh	PRO	אױך	AWX	_
+9	daz	D	דאַז	dAaz	_
+10	in	P	אין	AyN	_
+11	hrtsin	N	הרצין	hrqyN	_
+
+SENT	1666W-MESSIAH,23.117
+1	oyb	C	אױב	AWb	_
+2	eyn	D	אײן	AYN	_
+3	teyl	N	טײל	tYl	_
+4	bey	P	בײ	bY	_
+5	eykh	PRO	אײך	AYX	_
+6	ebirut	H	עבירוט	ebyrvt	UNKNOWN
+7	zeyn	VBF	זײן	zYN	_
+8	leyt	VBI	לײט	lYt	_
+9	eyn	D	אײן	AYN	_
+10	vinig	Q	װיניג	Vynyg	_
+11	smrtsin	N	סמרצין	smrqyN	_
+
+SENT	1666W-MESSIAH,23.118
+1	oyz	P	אױז	AWz	_
+2	glut	N	גלוט	glvt	_
+3	mtsrim	NPR	מצרים	mqryM	_
+4	kamn	VBF	קאַמן	kAamN	_
+5	nit	NEG	ניט	nyt	_
+6	mit	RP-ADV	מיט	myt	_
+7	di	D	די	dy	_
+8	bizh	ADJ	ביזש	byz$	_
+9	leyt	N	לײט	lYt	_
+
+SENT	1666W-MESSIAH,23.119
+1	zi	PRO	זי	zy	_
+2	starbn	VBF	סטאַרבן	stAarbN	_
+3	in	P	אין	AyN	_
+4	der	D	דער	der	_
+5	finstr	ADJ	פֿינסטר	fynstr	_
+6	tseyt	N	צײט	qYt	_
+
+SENT	1666W-MESSIAH,24.121
+1	nimnt	Q	נימנט	nymnt	_
+2	fun	P	פֿון	fvN	_
+3	unzr	PRO$	אונזר	Avnzr	_
+4	bridr	N	ברידר	brydr	_
+5	in	P	אין	AyN	_
+6	gnts	ADJ	גנץ	gnQ	_
+7	terkeya	NPR	טערקײאַ	terkYAa	_
+8	keyn	Q	קײן	kYN	_
+9	hndl	N	הנדל	hndl	_
+10	tuan	DOF	טואַן	tvAaN	_
+11	zi	PRO	זי	zy	_
+12	mer	ADV	מער	mer	_
+13	treybn	VB	טרײבן	trYbN	_
+
+SENT	1666W-MESSIAH,24.122
+1	al	Q	אַל	Aal	_
+2	di	D	די	dy	_
+3	freyd	N	פֿרײד	frYd	_
+4	vaz	C	װאַז	VAaz	_
+5	ir	PRO$	איר	Ayr	_
+6	hrts	N	הרץ	hrQ	_
+7	bigert	VBF	ביגערט	bygert	_
+8	ir	PRO$	איר	Ayr	_
+9	skhurh	N	סכורה	sxvrh	_
+10	lazn	VBF	לאַזן	lAazN	_
+11	bleybn	VB	בלײבן	blYbN	_
+
+SENT	1666W-MESSIAH,24.123
+1	az	P	אַז	Aaz	_
+2	mlakhm	N	מלאַכם	mlAaxM	_
+3	zeynh	BEF	זײנה	zYnh	_
+4	zi	PRO	זי	zy	_
+5	giakht	VAN	גיִאַכט	gyiAaxt	_
+
+SENT	1666W-MESSIAH,24.124
+1	zi	PRO	זי	zy	_
+2	lernn	VBF	לערנן	lernN	_
+3	turh	NPR	טורה	tvrh	_
+4	tag	N	תּג	Tg	_
+5	un	CONJ	און	AvN	_
+6	nkht	N	נכט	nxt	_
+
+SENT	1666W-MESSIAH,25.126
+1	yum	H	יום	yvM	day
+2	d'	H	ד'	d'	4
+3	sivn	H	סיװן	syVN	Sivan
+4	td"u	H	טד"או	td"Av	5426_1665-1666
+5	lp"k	H	לפּ"ק	lp"k	to_detail_small
+6	zeynh	BEF	זײנה	zYnh	_
+7	ktbim	N	קטבים	ktbyM	_
+8	aroyz	ADV	אַרױז	AarWz	_
+9	gikumn	VBN	גיקומן	gykvmN	_
+10	vi	C	װי	Vy	_
+11	unzr	PRO$	אונזר	Avnzr	_
+12	gaulh	N	גאַולה	gAavlh	_
+13	iz	VBF	איז	Ayz	_
+14	far_hndn	ADJ	פֿאַר_הנדן	fAar_hndN	_
+15	nar	FP	נאַר	nAar	_
+16	in	P	אין	AyN	_
+17	eyn	D	אײן	AYN	_
+18	kurtsh	ADJ	קורטש	kvrt$	_
+19	tseyt	N	צײט	qYt	_
+20	tsu	TO	צו	qv	_
+21	kumn	VB	קומן	kvmN	_
+
+SENT	1666W-MESSIAH,25.127
+1	vent	VBI	װענט	Vent	_
+2	eyer	PRO$	אײער	AYer	_
+3	hrts	N	הרץ	hrQ	_
+4	mit	P	מיט	myt	_
+5	tsubh	N	צובה	qvbh	_
+6	alh	Q	אַלה	Aalh	_
+7	gar	ADV	גאַר	gAar	_
+
+SENT	1666W-MESSIAH,25.128
+1	mshikh	NPR	משיך	m$yX	_
+2	kumt	VBF	קומט	kvmt	_
+3	in	P	אין	AyN	_
+4	dizn	D	דיזן	dyzN	_
+5	yar	N	יאַר	yAar	_
+
+SENT	1666W-MESSIAH,26.130
+1	ihudim	N	איהודים	AyhvdyM	_
+2	,	PUNC	,	,	_
+3	libn	ADJ	ליבן	lybN	_
+4	bridr	N	ברידר	brydr	_
+5	meyn	PRO$	מײן	mYN	_
+6	mir	PRO	מיר	myr	_
+7	veln	MDF	װעלן	VelN	_
+8	al	Q	אַל	Aal	_
+9	grush	ADJ	גרוש	grv$	_
+10	freyd	N	פֿרײד	frYd	_
+11	bginh	VB	בגינה	bgynh	_
+
+SENT	1666W-MESSIAH,26.131
+1	mir	PRO	מיר	myr	_
+2	verin	RDF	װערין	VeryN	_
+3	bald	ADV	באַלד	bAald	_
+4	farin	VB	פֿאַרין	fAaryN	_
+5	in	P	אין	AyN	_
+6	heylign	ADJ	הײליגן	hYlygN	_
+7	land	N	לאַנד	lAand	_
+8	vr	P	װר	Vr	_
+9	freyd	N	פֿרײד	frYd	_
+10	tntsin	VB	טנצין	tnqyN	_
+11	un	CONJ	און	AvN	_
+12	springn	VB	ספּרינגן	spryngN	_
+
+SENT	1666W-MESSIAH,26.132
+1	vr_gesin	VAN	װר_געסין	Vr_gesyN	_
+2	vert	RDF	װערט	Vert	_
+3	unzr	PRO$	אונזר	Avnzr	_
+4	truarkeyt	N	טרואַרקײט	trvAarkYt	_
+5	andrst	ADV	אַנדרסט	Aandrst	_
+6	nit	NEG	ניט	nyt	_
+7	az	P	אַז	Aaz	_
+8	grush	ADJ	גרוש	grv$	_
+9	freyd	N	פֿרײד	frYd	_
+
+SENT	1666W-MESSIAH,27.134
+1	eyn	D	אײן	AYN	_
+2	purtgiz	N	פּורטגיז	pvrtgyz	_
+3	hut	HVF	הוט	hvt	_
+4	an	P	אַן	AaN	_
+5	yum	H	יום	yvM	day
+6	b'	H	ב'	b'	2
+7	sivn	H	סיװן	syVN	Sivan
+8	td"u	H	טד"או	td"Av	5426_1665-1666
+9	di	D	די	dy	_
+10	brif	N	בריף	bryF	_
+11	fun	P	פֿון	fvN	_
+12	di	D	די	dy	_
+13	guth	ADJ	גוטה	gvth	_
+14	bsurt	H	בסורט	bsvrt	news
+15	gilezin	VBN	גילעזין	gylezyN	_
+16	tsu	P	צו	qv	_
+17	amstrdm	NPR	אַמסטרדם	AamstrdM	_
+18	in	P	אין	AyN	_
+19	di	D	די	dy	_
+20	purtgizr	N	פּורטגיזר	pvrtgyzr	_
+21	bit_hknst	N	ביט_הקנסט	byt_hknst	synagogue
+
+SENT	1666W-MESSIAH,27.135
+1	vi	WADV	װי	Vy	_
+2	var	VBF	װאַר	VAar	_
+3	dz	D	דז	dz	_
+4	eyn	D	אײן	AYN	_
+5	frilikh	ADJ	פֿריליך	frylyX	_
+6	vezin	N	װעזין	VezyN	_
+
+SENT	1666W-MESSIAH,27.136
+1	da	C	דאַ	dAa	_
+2	er	PRO	ער	er	_
+3	di	D	די	dy	_
+4	brif	N	בריף	bryF	_
+5	hat	HVF	האַט	hAat	_
+6	oyf	RP	אױף	AWF	_
+7	gitan	VBN	גיטאַן	gytAaN	_
+8	vi	WADV	װי	Vy	_
+9	hoyb	VBF	הױב	hWb	_
+10	mn	PRO	מן	mN	_
+11	eyn	D	אײן	AYN	_
+12	brukh	H	ברוך	brvX	blessed
+13	hba	H	הבאַ	hbAa	the_coming
+14	an	RP	אַן	AaN	_
+
+SENT	1666W-MESSIAH,28.138
+1	kumt	VBI	קומט	kvmt	_
+2	her	RP-ADV	הער	her	_
+3	,	PUNC	,	,	_
+4	ir	PRO	איר	Ayr	_
+5	libn	ADJ	ליבן	lybN	_
+6	bridr	N	ברידר	brydr	_
+7	meyn	PRO$	מײן	mYN	_
+
+SENT	1666W-MESSIAH,28.139
+1	ikh	PRO	איך	AyX	_
+2	vil	MDF	װיל	Vyl	_
+3	eykh	PRO	אײך	AYX	_
+4	eyn	D	אײן	AYN	_
+5	teil	N	טעיִל	teyil	_
+6	fun	P	פֿון	fvN	_
+7	di	D	די	dy	_
+8	tidusim	N	טידוסים	tydvsyM	_
+9	shreybn	VB	שרײבן	$rYbN	_
+10	vi	WADV	װי	Vy	_
+11	zi	PRO	זי	zy	_
+12	antbitn	VBF	אַנטביטן	AantbytN	_
+13	sheynfrlikh	ADV	שײנפֿרליך	$YnfrlyX	_
+
+SENT	1666W-MESSIAH,28.140
+1	mir	PRO	מיר	myr	_
+2	verin	RDF	װערין	VeryN	_
+3	nit	NEG	ניט	nyt	_
+4	lng	ADV	לנג	lng	_
+5	in	P	אין	AyN	_
+6	glut	N	גלוט	glvt	_
+7	bleybn	VB	בלײבן	blYbN	_
+
+SENT	1666W-MESSIAH,28.141
+1	der	D	דער	der	_
+2	tirks	ADJ	טירקס	tyrks	_
+3	mlkh	N	מלך	mlX	_
+4	hat	HVF	האַט	hAat	_
+5	lazin	VBN-IPP	לאַזין	lAazyN	_
+6	tspin	VB	צפּין	qpyN	_
+7	mlkh	N	מלך	mlX	_
+8	mshikh	NPR	משיך	m$yX	_
+9	,	PUNC	,	,	_
+10	den	D	דען	deN	_
+11	grusn	ADJ	גרוסן	grvsN	_
+12	man	N	מאַן	mAaN	_
+
+SENT	1666W-MESSIAH,28.142
+1	habn	HVF	האַבן	hAabN	_
+2	zikh	PRO	זיך	zyX	_
+3	al	Q	אַל	Aal	_
+4	di	D	די	dy	_
+5	tirn	N	טירן	tyrN	_
+6	kign	P	קיגן	kygN	_
+7	in	PRO	אין	AyN	_
+8	oyf	RP	אױף	AWF	_
+9	gitan	VBN	גיטאַן	gytAaN	_
+
+SENT	1666W-MESSIAH,29.144
+1	bidenkt	VBI	בידענקט	bydenkt	_
+2	,	PUNC	,	,	_
+3	ir	PRO	איר	Ayr	_
+4	libn	ADJ	ליבן	lybN	_
+5	bridr	N	ברידר	brydr	_
+6	meyn	PRO$	מײן	mYN	_
+
+SENT	1666W-MESSIAH,29.145
+1	zeynh	VBF	זײנה	zYnh	_
+2	dz	D	דז	dz	_
+3	nit	NEG	ניט	nyt	_
+4	grush	ADJ	גרוש	grv$	_
+5	vaundr	N	װאַונדר	VAavndr	_
+6	un'	CONJ	אונ'	Avn'	_
+7	tseykhn	N	צײכן	qYxN	_
+8	?	PUNC	?	?	_
+
+SENT	1666W-MESSIAH,29.146
+1	vi	WADV	װי	Vy	_
+2	unzr	PRO$	אונזר	Avnzr	_
+3	mlkh	N	מלך	mlX	_
+4	iz	VBF	איז	Ayz	_
+5	eyn	D	אײן	AYN	_
+6	grusr	ADJ	גרוסר	grvsr	_
+7	held	N	העלד	held	_
+
+SENT	1666W-MESSIAH,29.147
+1	ez	ES	עז	ez	_
+2	iz	VBF	איז	Ayz	_
+3	nit	NEG	ניט	nyt	_
+4	mer	ADV	מער	mer	_
+5	zeyn	PRO$	זײן	zYN	_
+6	gleykhn	N	גלײכן	glYxN	_
+
+SENT	1666W-MESSIAH,29.148
+1	oyf	P	אױף	AWF	_
+2	di	D	די	dy	_
+3	vasr	N	װאַסר	VAasr	_
+4	hat	HVF	האַט	hAat	_
+5	unzr	PRO$	אונזר	Avnzr	_
+6	mlkh	N	מלך	mlX	_
+7	akh	ADV	אַך	AaX	_
+8	grush	ADJ	גרוש	grv$	_
+9	kidusim	N	קידוסים	kydvsyM	_
+10	gitan	VBN	גיטאַן	gytAaN	_
+
+SENT	1666W-MESSIAH,29.149
+1	ir	PRO	איר	Ayr	_
+2	vert	RDF	װערט	Vert	_
+3	eykh	PRO	אײך	AYX	_
+4	fr_vaundrin	VB	פֿר_װאַונדרין	fr_VAavndryN	_
+5	veyb	N	װײב	VYb	_
+6	un	CONJ	און	AvN	_
+7	man	N	מאַן	mAaN	_
+
+SENT	1666W-MESSIAH,30.151
+1	bld	ADV	בלד	bld	_
+2	verin	RDF	װערין	VeryN	_
+3	mir	PRO	מיר	myr	_
+4	kumn	VB	קומן	kvmN	_
+5	in	P	אין	AyN	_
+6	unzr	PRO$	אונזר	Avnzr	_
+7	lnd	N	לנד	lnd	_
+
+SENT	1666W-MESSIAH,30.152
+1	libr	ADJ	ליבר	lybr	_
+2	got	NPR	גאָט	gAot	_
+3	laz	VBI	לאַז	lAaz	_
+4	unz	PRO	אונז	Avnz	_
+5	glingin	VB	גלינגין	glyngyN	_
+
+SENT	1666W-MESSIAH,30.153
+1	mir	PRO	מיר	myr	_
+2	velin	MDF	װעלין	VelyN	_
+3	dikh	PRO	דיך	dyX	_
+4	lubin	VB	לובין	lvbyN	_
+5	mit	P	מיט	myt	_
+6	grush	ADJ	גרוש	grv$	_
+7	vreyd	N	װרײד	VrYd	_
+
+SENT	1666W-MESSIAH,30.154
+1	sirh	N	סירה	syrh	_
+2	veln	MDF	װעלן	VelN	_
+3	mir	PRO	מיר	myr	_
+4	zingn	VB	זינגן	zyngN	_
+
+SENT	1666W-MESSIAH,30.155
+1	unzr	PRO$	אונזר	Avnzr	_
+2	eltrn	N	עלטרן	eltrN	_
+3	hbin	HVF	הבין	hbyN	_
+4	sirh	N	סירה	syrh	_
+5	gizungn	VBN	גיזונגן	gyzvngN	_
+6	in	P	אין	AyN	_
+7	den	D	דען	deN	_
+8	tifn	ADJ	טיפֿן	tyfN	_
+9	mer	N	מער	mer	_
+
+SENT	1666W-MESSIAH,30.156
+1	du	PRO	דו	dv	_
+2	bizt	VBF	ביזט	byzt	_
+3	ibr	P	איבר	Aybr	_
+4	di	D	די	dy	_
+5	velt	N	װעלט	Velt	_
+6	eyn	D	אײן	AYN	_
+7	grusr	ADJ	גרוסר	grvsr	_
+8	her	N	הער	her	_
+
+SENT	1666W-MESSIAH,31.158
+1	nun	ADV	נ	n	_
+2	,	PUNC	,	,	_
+3	shinh	ADJ	שינה	$ynh	_
+4	zun	N	זון	zvN	_
+5	,	PUNC	,	,	_
+6	un'	CONJ	אונ'	Avn'	_
+7	tsikh	VBI	ציך	qyX	_
+8	dikh	PRO	דיך	dyX	_
+9	oyz	RP	אױז	AWz	_
+
+SENT	1666W-MESSIAH,31.159
+1	un	CONJ	און	AvN	_
+2	sheyn	VBI	שײן	$YN	_
+3	unz	PRO	אונז	Avnz	_
+4	vakr	ADV	װאַקר	VAakr	_
+5	fleysg	ADV	פֿלײסג	flYsg	_
+
+SENT	1666W-MESSIAH,31.160
+1	ihushie	NPR	איהושיִע	Ayhv$yie	_
+2-3	hastu	HVF~PRO	האַסטו	hAastv	_
+2	has	HVF	האַס	hAas	_
+3	tu	PRO	טו	tv	_
+4	akh	ADV	אַך	AaX	_
+5	gdint	VBN	גדינט	gdynt	_
+6	da	C	דאַ	dAa	_
+7	er	PRO	ער	er	_
+8	hat	HVF	האַט	hAat	_
+9	drshlagn	VBN	דרשלאַגן	dr$lAagN	_
+10	mlakhim	N	מלאַכים	mlAaxyM	_
+11	eyn_un'_dreysg	NUM	אײנ_ונ'_דרײסג	AYn_vn'_drYsg	_
+
+SENT	1666W-MESSIAH,31.161
+1	du	PRO	דו	dv	_
+2	hast	HVF	האַסט	hAast	_
+3	im	PRO	אים	AyM	_
+4	al_zu	ADV	אַל_זו	Aal_zv	_
+5	lng	ADV	לנג	lng	_
+6	gisheynt	VBN	גישײנט	gy$Ynt	_
+7	biz	C	ביז	byz	_
+8	er	PRO	ער	er	_
+9	hat	HVF	האַט	hAat	_
+10	dr_shlagn	VBN	דר_שלאַגן	dr_$lAagN	_
+11	al	Q	אַל	Aal	_
+12	di	D	די	dy	_
+13	feynt	N	פֿײנט	fYnt	_
+
+SENT	1666W-MESSIAH,32.163
+1	lbnh	N	לבנה	lbnh	_
+2	,	PUNC	,	,	_
+3	kum	VBI	קום	kvM	_
+4	du	PRO	דו	dv	_
+5	akh	ADV	אַך	AaX	_
+6	eyn_her	ADV	אײנ_הער	AYn_her	_
+7	,	PUNC	,	,	_
+
+SENT	1666W-MESSIAH,32.164
+1	leykht	VBI	לײכט	lYxt	_
+2	mit	P	מיט	myt	_
+3	al	Q	אַל	Aal	_
+4	di	D	די	dy	_
+5	stern	N	סטערן	sterN	_
+
+SENT	1666W-MESSIAH,32.165
+1	da	C	דאַ	dAa	_
+2	unzr	PRO$	אונזר	Avnzr	_
+3	eltrn	N	עלטרן	eltrN	_
+4	in	P	אין	AyN	_
+5	glut	N	גלוט	glvt	_
+6	mtsrim	NPR	מצרים	mqryM	_
+7	gingn	VBF	גינגן	gyngN	_
+8	leykht	VBI	לײכט	lYxt	_
+9	du	PRO	דו	dv	_
+10	in	PRO	אין	AyN	_
+11	akh	ADV	אַך	AaX	_
+12	gar	ADV	גאַר	gAar	_
+13	gern	ADV	גערן	gerN	_
+
+SENT	1666W-MESSIAH,32.166
+1	du	PRO	דו	dv	_
+2	bist	VBF	ביסט	byst	_
+3	eytl	ADJ	אײטל	AYtl	_
+4	drbrmikeyt	N	דרברמיקײט	drbrmykYt	_
+
+SENT	1666W-MESSIAH,32.167
+1	dr_liz	VBI	דר_ליז	dr_lyz	_
+2	unz	PRO	אונז	Avnz	_
+3	akh	ADV	אַך	AaX	_
+4	mit	P	מיט	myt	_
+5	grush	ADJ	גרוש	grv$	_
+6	freyd	N	פֿרײד	frYd	_
+
+SENT	1666W-MESSIAH,33.169
+1	almekhtig	ADJ	אַלמעכטיג	Aalmextyg	_
+2	bistr	ADJS	ביסטר	bystr	_
+3	,	PUNC	,	,	_
+4	got	NPR	גאָט	gAot	_
+5	,	PUNC	,	,	_
+6	un'	CONJ	אונ'	Avn'	_
+7	keynr	Q	קײנר	kYnr	_
+8	mer	QR	מער	mer	_
+9	laz	VBI	לאַז	lAaz	_
+10	di	D	די	dy	_
+11	vreyd	N	װרײד	VrYd	_
+12	bld	ADV	בלד	bld	_
+13	gisehn	VB	גיסעהן	gysehN	_
+
+SENT	1666W-MESSIAH,33.170
+1	al	Q	אַל	Aal	_
+2	di	D	די	dy	_
+3	umt	N	אומט	Avmt	_
+4	glubn	VBF	גלובן	glvbN	_
+5	nit	NEG	ניט	nyt	_
+6	az	C	אַז	Aaz	_
+7	mshikh	NPR	משיך	m$yX	_
+8	zal	MDF	ז"ל	z"l	_
+9	kumn	VB	קומן	kvmN	_
+
+SENT	1666W-MESSIAH,33.171
+1	laz	VBI	לאַז	lAaz	_
+2	deynh	PRO$	דײנה	dYnh	_
+3	vaundr	N	װאַונדר	VAavndr	_
+4	zehn	VB	זעהן	zehN	_
+
+SENT	1666W-MESSIAH,33.172
+1	zi	PRO	זי	zy	_
+2	treybn	VBF	טרײבן	trYbN	_
+3	oyz	P	אױז	AWz	_
+4	unz	PRO	אונז	Avnz	_
+5	irn	PRO$	אירן	AyrN	_
+6	spot	N	ספּאָט	spAot	_
+
+SENT	1666W-MESSIAH,33.173
+1	helf	VBI	העלף	helF	_
+2	unz	PRO	אונז	Avnz	_
+3	,	PUNC	,	,	_
+4	du	PRO	דו	dv	_
+5	libr	ADJ	ליבר	lybr	_
+6	got	NPR	גאָט	gAot	_
+
+SENT	1666W-MESSIAH,34.175
+1	al	Q	אַל	Aal	_
+2	di	D	די	dy	_
+3	tirkn	N	טירקן	tyrkN	_
+4	in	P	אין	AyN	_
+5	irn	PRO$	אירן	AyrN	_
+6	lnd	N	לנד	lnd	_
+7	di	D	די	dy	_
+8	vern	RDF	װערן	VerN	_
+9	zer	ADV	זער	zer	_
+10	dr_shrekn	VB	דר_שרעקן	dr_$rekN	_
+11	vi	WADV	װי	Vy	_
+12	elihu	NPR	עליהו	elyhv	_
+13	hnbi	H	הנבי	hnby	the_prophet
+14	vert	RDF	װערט	Vert	_
+15	shufr	H	שופֿר	$vfr	shofar
+16	mshikh	NPR	משיך	m$yX	_
+17	blazn	VB	בלאַזן	blAazN	_
+
+SENT	1666W-MESSIAH,34.176
+1	alih	NPR	אַליה	Aalyh	_
+2	vert	RDF	װערט	Vert	_
+3	blazn	VB	בלאַזן	blAazN	_
+4	mit	P	מיט	myt	_
+5	grusin	ADJ	גרוסין	grvsyN	_
+6	shl	N	של	$l	_
+
+SENT	1666W-MESSIAH,34.177
+1	zi	PRO	זי	zy	_
+2	oyf	P	אױף	AWF	_
+3	ir	PRO$	איר	Ayr	_
+4	pnim	N	פּנים	pnyM	_
+5	fl	VBF	פֿל	fl	_
+
+SENT	1666W-MESSIAH,35.179
+1	kl	Q	קל	kl	all
+2	eulm	N	עולם	evlM	_
+3	vau	WADV	װאַו	VAav	_
+4	mir	PRO	מיר	myr	_
+5	,	PUNC	,	,	_
+6	bridr	N	ברידר	brydr	_
+7	,	PUNC	,	,	_
+8	zeyn	VBF	זײן	zYN	_
+9	ibr_al	ADV	איבר_אַל	Aybr_Aal	_
+10	in	P	אין	AyN	_
+11	al	Q	אַל	Aal	_
+12	di	D	די	dy	_
+13	lndin	N	לנדין	lndyN	_
+14	mit	P	מיט	myt	_
+15	gmilut	H	גמילוט	gmylvt	deeds
+16	khsd	H	כסד	xsd	loving-kindness
+17	an	P	אַן	AaN	_
+18	armh	ADJ	אַרמה	Aarmh	_
+19	leyt	N	לײט	lYt	_
+
+SENT	1666W-MESSIAH,35.180
+1	di	D	די	dy	_
+2	gaulh	N	גאַולה	gAavlh	_
+3	iz	VBF	איז	Ayz	_
+4	nant	ADV	נאַנט	nAant	_
+5	far_hndin	ADJ	פֿאַר_הנדין	fAar_hndyN	_
+
+SENT	1666W-MESSIAH,35.181
+1	zeyt	VBI	זײט	zYt	_
+2	al	Q	אַל	Aal	_
+3	frum	ADJ	פֿרום	frvM	_
+4	,	PUNC	,	,	_
+5	ir	PRO	איר	Ayr	_
+6	libn	ADJ	ליבן	lybN	_
+7	kindr	N	קינדר	kyndr	_
+8	meyn	PRO$	מײן	mYN	_
+
+SENT	1666W-MESSIAH,35.182
+1	vert	RDF	װערט	Vert	_
+2	ir	PRO	איר	Ayr	_
+3	di	D	די	dy	_
+4	gaulh	N	גאַולה	gAavlh	_
+5	zukhh	RP-H	זוכה	zvxh	_
+6	zeyn	VB	זײן	zYN	_
+
+SENT	1666W-MESSIAH,36.184
+1	hert	VBI	הערט	hert	_
+2	,	PUNC	,	,	_
+3	vaz	WPRO	װאַז	VAaz	_
+4	unzr	PRO$	אונזר	Avnzr	_
+5	mlkh	N	מלך	mlX	_
+6	hat	HVF	האַט	hAat	_
+7	gitan	VBN	גיטאַן	gytAaN	_
+8	sbti	NPR	סבטי	sbty	_
+9	tsvi	NPR	צבֿי	q~y	_
+10	hukh_gibarn	ADJ	הוכ_גיבאַרן	hvx_gybAarN	_
+
+SENT	1666W-MESSIAH,36.185
+1	di	D	די	dy	_
+2	terkn	N	טערקן	terkN	_
+3	habin	HVF	האַבין	hAabyN	_
+4	in	PRO	אין	AyN	_
+5	tfus	RP-H	טפֿוס	tfvs	_
+6	ginumn	VBN	גינומן	gynvmN	_
+7	in	P	אין	AyN	_
+8	eynm	D	אײנם	AYnM	_
+9	tifn	ADJ	טיפֿן	tyfN	_
+10	tarn	N	טאַרן	tAarN	_
+
+SENT	1666W-MESSIAH,36.186
+1	zu_bld	C	זו_בלד	zv_bld	_
+2	er	PRO	ער	er	_
+3	kam	VBF	קאַם	kAaM	_
+4	in	P	אין	AyN	_
+5	di	D	די	dy	_
+6	tfish	N	טפֿיש	tfy$	_
+7	aneyn	ADV	אַנײן	AanYN	_
+8	kam	VBF	קאַם	kAaM	_
+9	im	PRO	אים	AyM	_
+10	eyn	D	אײן	AYN	_
+11	grusr	ADJ	גרוסר	grvsr	_
+12	sheyn	N	שײן	$YN	_
+13	ruit	ADJ	רויִט	rvyit	_
+14	az	P	אַז	Aaz	_
+15	feyar	N	פֿײאַר	fYAar	_
+
+SENT	1666W-MESSIAH,37.188
+1	al	Q	אַל	Aal	_
+2	di	D	די	dy	_
+3	fir	NUM	פֿיר	fyr	_
+4	vent	N	װענט	Vent	_
+5	hubin	VBF	הובין	hvbyN	_
+6	an	RP	אַן	AaN	_
+7	tsu	TO	צו	qv	_
+8	brenh	VB	ברענה	brenh	_
+
+SENT	1666W-MESSIAH,37.189
+1	in	P	אין	AyN	_
+2	di	D	די	dy	_
+3	tfish	N	טפֿיש	tfy$	_
+4	zakhn	VBF	זאַכן	zAaxN	_
+5	zi	PRO	זי	zy	_
+6	sheynfrlikh	ADV	שײנפֿרליך	$YnfrlyX	_
+7	daz	C	דאַז	dAaz	_
+8	mlakhim	N	מלאַכים	mlAaxyM	_
+9	bey	P	בײ	bY	_
+10	im	PRO	אים	AyM	_
+11	zenh	VBF	זענה	zenh	_
+
+SENT	1666W-MESSIAH,37.190
+1	di	D	די	dy	_
+2	tirkn	N	טירקן	tyrkN	_
+3	valtn	MDF	װאַלטן	VAaltN	_
+4	in	PRO	אין	AyN	_
+5	ledig	ADJ	לעדיג	ledyg	_
+6	lan	VB	לאַן	lAaN	_
+
+SENT	1666W-MESSIAH,37.191
+1	unzr	PRO$	אונזר	Avnzr	_
+2	mlkh	N	מלך	mlX	_
+3	valt	MDF	װאַלט	VAalt	_
+4	nit	NEG	ניט	nyt	_
+5	oyz	P	אױז	AWz	_
+6	der	D	דער	der	_
+7	tfish	N	טפֿיש	tfy$	_
+8	gan	VB	גאַן	gAaN	_
+
+SENT	1666W-MESSIAH,38.193
+1	rengnirn	VB	רענגנירן	rengnyrN	_
+2	vert	RDF	װערט	Vert	_
+3	in	P	אין	AyN	_
+4	irushlim	NPR	אירושלים	Ayrv$lyM	_
+5	ibr	P	איבר	Aybr	_
+6	kindr	N	קינדר	kyndr	_
+7	isral	NPR	איסראַל	AysrAal	_
+8	al	Q	אַל	Aal	_
+9	unzr	PRO$	אונזר	Avnzr	_
+10	mlkh	N	מלך	mlX	_
+11	hukh_gibarn	ADJ	הוכ_גיבאַרן	hvx_gybAarN	_
+
+SENT	1666W-MESSIAH,38.194
+1	shbti	NPR	שבטי	$bty	_
+2	tsvi	NPR	צבֿי	q~y	_
+3	iz	BEF	איז	Ayz	_
+4	er	PRO	ער	er	_
+5	gimelt	X	גימעלט	gymelt	_
+6	fun	P	פֿון	fvN	_
+7	sbt	NPR	סבט	sbt	_
+8	ihudh	NPR	איהודה	Ayhvdh	_
+9	oyz	RP	אױז	AWz	_
+10	dr_karn	VAN	דר_קאַרן	dr_kAarN	_
+
+SENT	1666W-MESSIAH,38.195
+1	veyl	C	װײל	VYl	_
+2	in	PRO	אין	AyN	_
+3	gat	NPR	גאַט	gAat	_
+4	hat	HVF	האַט	hAat	_
+5	zelbrt	ADV	זעלברט	zelbrt	_
+6	tsu	P	צו	qv	_
+7	eyn	D	אײן	AYN	_
+8	mlkh	N	מלך	mlX	_
+9	gimakht	VBN	גימאַכט	gymAaxt	_
+10	drum	DR+P	דרום	drvM	_
+11	vert	RDF	װערט	Vert	_
+12	er	PRO	ער	er	_
+13	zeyn	BE	זײן	zYN	_
+14	gar	ADV	גאַר	gAar	_
+15	hoykh	ADV	הױך	hWX	_
+16	giakht	VAN	גיִאַכט	gyiAaxt	_
+
+SENT	1666W-MESSIAH,39.197
+1	bit	VBF	ביט	byt	_
+2	oykh	PRO	אױך	AWX	_
+3	,	PUNC	,	,	_
+4	libn	ADJ	ליבן	lybN	_
+5	kindr	N	קינדר	kyndr	_
+6	hat	VBF	האַט	hAat	_
+7	eynr	PRO	אײנר	AYnr	_
+8	oyf	P	אױף	AWF	_
+9	den	D	דען	deN	_
+10	andrin	ADJ	אַנדרין	AandryN	_
+11	eyn	D	אײן	AYN	_
+12	bizn	ADJ	ביזן	byzN	_
+13	mkhsbh	N	מכסבה	mxsbh	_
+14	tut	DOI	טוט	tvt	_
+15	oykh	PRO	אױך	AWX	_
+16	far_gebin	VB	פֿאַר_געבין	fAar_gebyN	_
+17	dz	C	דז	dz	_
+18	ir	PRO	איר	Ayr	_
+19	mit	P	מיט	myt	_
+20	gutin	ADJ	גוטין	gvtyN	_
+21	hrtsin	N	הרצין	hrqyN	_
+22	nakh	P	נ"ך	n"X	_
+23	iruslim	NPR	אירוסלים	AyrvslyM	_
+24	kumt	VBF	קומט	kvmt	_
+25	mit	P	מיט	myt	_
+26	freydn	N	פֿרײדן	frYdN	_
+27	dart	ADV	דאַרט	dAart	_
+28	tsu	TO	צו	qv	_
+29	lebn	VB	לעבן	lebN	_
+
+SENT	1666W-MESSIAH,39.198
+1	unzr	PRO$	אונזר	Avnzr	_
+2	bridr	N	ברידר	brydr	_
+3	shreybn	VBF	שרײבן	$rYbN	_
+4	biseydlikh	ADV	ביסײדליך	bysYdlyX	_
+5	klar	ADV	קלאַר	klAar	_
+
+SENT	1666W-MESSIAH,39.199
+1	mshikh	NPR	משיך	m$yX	_
+2	kumt	VBF	קומט	kvmt	_
+3	in	P	אין	AyN	_
+4	dizn	D	דיזן	dyzN	_
+5	yar	N	יאַר	yAar	_
+
+SENT	1666W-MESSIAH,40.201
+1	nakh	ADV	נ"ך	n"X	_
+2	mer	QR	מער	mer	_
+3	hbin	HVF	הבין	hbyN	_
+4	oyz	P	אױז	AWz	_
+5	spet	N	ספּעט	spet	_
+6	unzr	PRO$	אונזר	Avnzr	_
+7	bridr	N	ברידר	brydr	_
+8	gshribn	VBN	גשריבן	g$rybN	_
+
+SENT	1666W-MESSIAH,40.202
+1	mir	PRO	מיר	myr	_
+2	zalin	MDF	זאַלין	zAalyN	_
+3	zikh	PRO	זיך	zyX	_
+4	droyf	DR+P	דרױף	drWF	_
+5	rikhtn	VB	ריכטן	ryxtN	_
+6	in	P	אין	AyN	_
+7	dizn	D	דיזן	dyzN	_
+8	yar	N	יאַר	yAar	_
+9	verin	RDF	װערין	VeryN	_
+10	mir	PRO	מיר	myr	_
+11	zukhh	RP-H	זוכה	zvxh	_
+12	zeyn	VB	זײן	zYN	_
+13	krbnut	N	קרבנוט	krbnvt	_
+14	tsu	TO	צו	qv	_
+15	senkin	VB	סענקין	senkyN	_
+
+SENT	1666W-MESSIAH,40.203
+1	daz	D	דאַז	dAaz	_
+2	bit_hmkdsh	N	ביט_המקדש	byt_hmkd$	temple
+3	iz	BEF	איז	Ayz	_
+4	varin	VBN	װאַרין	VAaryN	_
+5	tsu	ADV	צו	qv	_
+6	breyt	ADJ	ברײט	brYt	_
+7	krbnut	N	קרבנוט	krbnvt	_
+8	tsu	TO	צו	qv	_
+9	brengin	VB	ברענגין	brengyN	_
+10	alh	Q	אַלה	Aalh	_
+11	tseyt	N	צײט	qYt	_
+
+SENT	1666W-MESSIAH,41.205
+1	isral	NPR	איסראַל	AysrAal	_
+2	,	PUNC	,	,	_
+3	libn	ADJ	ליבן	lybN	_
+4	bridr	N	ברידר	brydr	_
+5	meyn	PRO$	מײן	mYN	_
+6	,	PUNC	,	,	_
+7	hlt	VBI	הלט	hlt	_
+8	oykh	PRO	אױך	AWX	_
+9	nit	NEG	ניט	nyt	_
+10	min	ADV	מין	myN	_
+11	far_bargn	ADJ	פֿאַר_באַרגן	fAar_bAargN	_
+
+SENT	1666W-MESSIAH,41.206
+1	mir	PRO	מיר	myr	_
+2	herin	VBF	הערין	heryN	_
+3	un'	CONJ	אונ'	Avn'	_
+4	zikhn	VBF	זיכן	zyxN	_
+5	bsurt	H	בסורט	bsvrt	news
+6	tubh	H	טובה	tvbh	good
+
+SENT	1666W-MESSIAH,41.207
+1	nun	ADV	נ	n	_
+2	mir	PRO	מיר	myr	_
+3	drfn	MDF	דרפֿן	drfN	_
+4	nit	NEG	ניט	nyt	_
+5	mer	ADV	מער	mer	_
+6	zargn	VB	זאַרגן	zAargN	_
+
+SENT	1666W-MESSIAH,41.208
+1	hsm	H	הסם	hsM	the_name
+2	itbrkh	H	איטברך	AytbrX	may_be_blessed
+3	hat	HVF	האַט	hAat	_
+4	unz	PRO	אונז	Avnz	_
+5	gsikt	VBN	גסיקט	gsykt	_
+6	di	D	די	dy	_
+7	tseyt	N	צײט	qYt	_
+8	tsu	TO	צו	qv	_
+9	zitsn	VB	זיצן	zyqN	_
+10	in	P	אין	AyN	_
+11	eytl	ADJ	אײטל	AYtl	_
+12	frilikhkeyt	N	פֿריליכקײט	frylyxkYt	_
+
+SENT	1666W-MESSIAH,42.210
+1	mir	PRO	מיר	myr	_
+2	habn	HVF	האַבן	hAabN	_
+3	gihaft	VBN	גיהאַפֿט	gyhAaft	_
+4	mer	QR	מער	mer	_
+5	az	P	אַז	Aaz	_
+6	tuznt	NUM	טוזנט	tvznt	_
+7	yar	N	יאַר	yAar	_
+8	in	P	אין	AyN	_
+9	unzrn	PRO$	אונזרן	AvnzrN	_
+10	shvern	ADJ	שװערן	$VerN	_
+11	glut	N	גלוט	glvt	_
+12	hsm	H	הסם	hsM	the_name
+13	itbrkh	H	איטברך	AytbrX	may_be_blessed
+14	zal	MDF	ז"ל	z"l	_
+15	mshikh	NPR	משיך	m$yX	_
+16	sikn	VB	סיקן	sykN	_
+17	tsu	TO	צו	qv	_
+18	lizn	VB	ליזן	lyzN	_
+19	oyz	RP	אױז	AWz	_
+20	unzr	PRO$	אונזר	Avnzr	_
+21	tsrut	N	צרוט	qrvt	_
+
+SENT	1666W-MESSIAH,42.211
+1	veyl	C	װײל	VYl	_
+2	mir	PRO	מיר	myr	_
+3	habn	HVF	האַבן	hAabN	_
+4	mit	P	מיט	myt	_
+5	shtarkn	N	שטאַרקן	$tAarkN	_
+6	yu	ADV	יו	yv	_
+7	der_vert	VBN	דער_װערט	der_Vert	_
+8	di	D	די	dy	_
+9	tseyt	N	צײט	qYt	_
+10	hat	HVF	האַט	hAat	_
+11	unz	PRO	אונז	Avnz	_
+12	gat	NPR	גאַט	gAat	_
+13	alh	Q	אַלה	Aalh	_
+14	dr_freyt	VBN	דר_פֿרײט	dr_frYt	_
+
+SENT	1666W-MESSIAH,43.213
+1	neyart	FP	נײאַרט	nYAart	_
+2	unzr	PRO$	אונזר	Avnzr	_
+3	got	NPR	גאָט	gAot	_
+4	aleyn	ADV	אַלײן	AalYN	_
+5	vau	WADV	װאַו	VAav	_
+6	iz	VBF	איז	Ayz	_
+7	mer	ADV	מער	mer	_
+8	zeyn	PRO$	זײן	zYN	_
+9	gleykhn	ADJ	גלײכן	glYxN	_
+
+SENT	1666W-MESSIAH,43.214
+1	er	PRO	ער	er	_
+2	nemt	VBF	נעמט	nemt	_
+3	far	P	פֿאַר	fAar	_
+4	zikh	PRO	זיך	zyX	_
+5	di	D	די	dy	_
+6	tfilh	N	טפֿילה	tfylh	_
+7	fun	P	פֿון	fvN	_
+8	armh	ADJ	אַרמה	Aarmh	_
+9	leyt	N	לײט	lYt	_
+10	zoy	ADV	זױ	zW	_
+11	val	ADV	װאַל	VAal	_
+12	az	P	אַז	Aaz	_
+13	fun	P	פֿון	fvN	_
+14	di	D	די	dy	_
+15	reykhn	N	רײכן	rYxN	_
+
+SENT	1666W-MESSIAH,43.215
+1	di	D	די	dy	_
+2	reykhh	N	רײכה	rYxh	_
+3	treybn	VBF	טרײבן	trYbN	_
+4	mit	P	מיט	myt	_
+5	ir	PRO$	איר	Ayr	_
+6	gelt	N	געלט	gelt	_
+7	eytl	ADJ	אײטל	AYtl	_
+8	lust	N	לוסט	lvst	_
+9	un'	CONJ	אונ'	Avn'	_
+10	vreyd	N	װרײד	VrYd	_
+
+SENT	1666W-MESSIAH,43.216
+1	un'	CONJ	אונ'	Avn'	_
+2	akhtin	VBF	אַכטין	AaxtyN	_
+3	nit	NEG	ניט	nyt	_
+4	keyn	Q	קײן	kYN	_
+5	armh	ADJ	אַרמה	Aarmh	_
+6	leyt	N	לײט	lYt	_
+
+SENT	1666W-MESSIAH,44.218
+1	habn	HVF	האַבן	hAabN	_
+2	unzr	PRO$	אונזר	Avnzr	_
+3	nbiaim	N	נביִאַים	nbyiAayM	_
+4	gisribn	VBN	גיסריבן	gysrybN	_
+5	oyz	P	אױז	AWz	_
+6	irn	PRO$	אירן	AyrN	_
+7	lnd	N	לנד	lnd	_
+8	tsu	P	צו	qv	_
+9	di	D	די	dy	_
+10	reykhh	ADJ	רײכה	rYxh	_
+11	leytn	N	לײטן	lYtN	_
+12	zi	PRO	זי	zy	_
+13	zalin	MDF	זאַלין	zAalyN	_
+14	armh	ADJ	אַרמה	Aarmh	_
+15	leyt	N	לײט	lYt	_
+16	vaul	ADV	װאַול	VAavl	_
+17	teyln	VB	טײלן	tYlN	_
+18	mit	RP-ADV	מיט	myt	_
+19	das	C	דת	dS	_
+20	zi	PRO	זי	zy	_
+21	akh	ADV	אַך	AaX	_
+22	mit	RP-ADV	מיט	myt	_
+23	kumn	VBF	קומן	kvmN	_
+24	bitseytn	ADV	ביצײטן	byqYtN	_
+
+SENT	1666W-MESSIAH,44.219
+1	vern	RDF	װערן	VerN	_
+2	zi	PRO	זי	zy	_
+3	di	D	די	dy	_
+4	armh	ADJ	אַרמה	Aarmh	_
+5	leyt	N	לײט	lYt	_
+6	nit	NEG	ניט	nyt	_
+7	veln	MD	װעלן	VelN	_
+8	herin	VB	הערין	heryN	_
+9	vern	RDF	װערן	VerN	_
+10	zi	PRO	זי	zy	_
+11	untr	P	אונטר	Avntr	_
+12	vegn	N	װעגן	VegN	_
+13	ir	PRO$	איר	Ayr	_
+14	gelt	N	געלט	gelt	_
+15	mit	P	מיט	myt	_
+16	zarg	N	זאַרג	zAarg	_
+17	vr_tsern	VB	װר_צערן	Vr_qerN	_
+
+SENT	1666W-MESSIAH,45.221
+1	meynn	VBF	מײנן	mYnN	_
+2	eyn	D	אײן	AYN	_
+3	teyl	N	טײל	tYl	_
+4	reykhh	ADJ	רײכה	rYxh	_
+5	leyt	N	לײט	lYt	_
+6	zi	PRO	זי	zy	_
+7	vern	RDF	װערן	VerN	_
+8	in	P	אין	AyN	_
+9	arts	N	אַרץ	AarQ	_
+10	isral	NPR	איסראַל	AysrAal	_
+11	nit	NEG	ניט	nyt	_
+12	habn	VB	האַבן	hAabN	_
+13	tsu	TO	צו	qv	_
+14	lebn	VB	לעבן	lebN	_
+15	ven	C	װען	VeN	_
+16	zi	PRO	זי	zy	_
+17	armh	ADJ	אַרמה	Aarmh	_
+18	leyt	N	לײט	lYt	_
+19	vern	RDF	װערן	VerN	_
+20	mkhbd	RP-H	מכבד	mxbd	_
+21	zeyn	VB	זײן	zYN	_
+22	un'	CONJ	אונ'	Avn'	_
+23	vern	RDF	װערן	VerN	_
+24	tsdkh	N	צדך	qdX	_
+25	gebn	VB	געבן	gebN	_
+26	men	PRO	מען	meN	_
+27	vert	RDF	װערט	Vert	_
+28	zi	PRO	זי	zy	_
+29	dart	ADV	דאַרט	dAart	_
+30	hltin	VB	הלטין	hltyN	_
+31	zist	ADV	זיסט	zyst	_
+32	dr	D	דר	dr	_
+33	hekhir	ADJR	העכיר	hexyr	_
+
+SENT	1666W-MESSIAH,45.222
+1	zi	PRO	זי	zy	_
+2	zaln	MDF	זאַלן	zAalN	_
+3	nar	FP	נאַר	nAar	_
+4	brengin	VB	ברענגין	brengyN	_
+5	sinh	ADJ	סינה	synh	_
+6	kidush_bekhir	N	קידוש_בעכיר	kydv$_bexyr	_
+
+SENT	1666W-MESSIAH,46.224
+1	kibudim	N	כּיבודים	KybvdyM	_
+2	vert	RDF	װערט	Vert	_
+3	mn	PRO	מן	mN	_
+4	di	D	די	dy	_
+5	zelbign	ADJ	זעלביגן	zelbygN	_
+6	reykhn	N	רײכן	rYxN	_
+7	an	RP	אַן	AaN	_
+8	tun	VB	טון	tvN	_
+9	ven	C	װען	VeN	_
+10	zi	PRO	זי	zy	_
+11	vern	RDF	װערן	VerN	_
+12	nakh	P	נ"ך	n"X	_
+13	arts	N	אַרץ	AarQ	_
+14	isral	NPR	איסראַל	AysrAal	_
+15	kumn	VB	קומן	kvmN	_
+
+SENT	1666W-MESSIAH,46.225
+1	di	WPRO	די	dy	_
+2	da	ADV	דאַ	dAa	_
+3	habn	HVF	האַבן	hAabN	_
+4	nutts	N	נוטץ	nvtQ	_
+5	gihat	VBN	גיהאַט	gyhAat	_
+6	an	P	אַן	AaN	_
+7	armh	ADJ	אַרמה	Aarmh	_
+8	leyt	N	לײט	lYt	_
+9	un	CONJ	און	AvN	_
+10	habn	HVF	האַבן	hAabN	_
+11	zi	PRO	זי	zy	_
+12	mit	RP-ADV	מיט	myt	_
+13	ginumn	VBN	גינומן	gynvmN	_
+14	menkhh	Q	מענכה	menxh	_
+15	reykh	ADJ	רײך	rYX	_
+16	hltn	VBF	הלטן	hltN	_
+17	di	D	די	dy	_
+18	gaulh	N	גאַולה	gAavlh	_
+19	gar	ADV	גאַר	gAar	_
+20	vr	P	װר	Vr	_
+21	nisht	Q	נישט	ny$t	_
+22	di	D	די	dy	_
+23	vern	RDF	װערן	VerN	_
+24	hi	ADV	הי	hy	_
+25	pigrn	VB	פּיגרן	pygrN	_
+26	oyf	P	אױף	AWF	_
+27	den	D	דען	deN	_
+28	mist	N	מיסט	myst	_
+
+SENT	1666W-MESSIAH,47.227
+1	vi	WADV	װי	Vy	_
+2	vert	RDF	װערט	Vert	_
+3	himl	N	הימל	hyml	_
+4	un	CONJ	און	AvN	_
+5	erd	N	ערד	erd	_
+6	un	CONJ	און	AvN	_
+7	hukhh	ADJ	הוכה	hvxh	_
+8	berg	N	בערג	berg	_
+9	habn	VB	האַבן	hAabN	_
+10	grush	ADJ	גרוש	grv$	_
+11	murh	N	מורה	mvrh	_
+
+SENT	1666W-MESSIAH,47.228
+1	al	Q	אַל	Aal	_
+2	di	D	די	dy	_
+3	kruteyar	N	קרוטײאַר	krvtYAar	_
+4	un	CONJ	און	AvN	_
+5	vildh	ADJ	װילדה	Vyldh	_
+6	tir	N	טיר	tyr	_
+7	vern	RDF	װערן	VerN	_
+8	dr_srekn	VB	דר_סרעקן	dr_srekN	_
+9	fr	P	פֿר	fr	_
+10	unzrn	PRO$	אונזרן	AvnzrN	_
+11	burh	N	בורה	bvrh	_
+
+SENT	1666W-MESSIAH,47.229
+1	er	PRO	ער	er	_
+2	vert	RDF	װערט	Vert	_
+3	oyf	P	אױף	AWF	_
+4	di	D	די	dy	_
+5	rseim	N	רסעיִם	rseyiM	_
+6	sreyan	VB	סרײאַן	srYAaN	_
+7	mit	P	מיט	myt	_
+8	grusn	ADJ	גרוסן	grvsN	_
+9	sl	N	סל	sl	_
+
+SENT	1666W-MESSIAH,47.230
+1	vr	P	װר	Vr	_
+2	varhkt	N	װאַרהקט	VAarhkt	_
+3	vert	RDF	װערט	Vert	_
+4	alts	Q	אַלץ	AalQ	_
+5	dr_nidr	ADV	דר_נידר	dr_nydr	_
+6	fl	VB	פֿל	fl	_
+
+SENT	1666W-MESSIAH,48.232
+1	nit	NEG	ניט	nyt	_
+2	eynr	NUM	אײנר	AYnr	_
+3	hat	HVF	האַט	hAat	_
+4	zikh	PRO	זיך	zyX	_
+5	kenh	MDN-IPP	קענה	kenh	_
+6	vr_brgin	VB	װר_ברגין	Vr_brgyN	_
+7	in	P	אין	AyN	_
+8	der	D	דער	der	_
+9	zelbig	ADJ	זעלביג	zelbyg	_
+10	tseytn	N	צײטן	qYtN	_
+11	di	WPRO	די	dy	_
+12	unzr	PRO$	אונזר	Avnzr	_
+13	eltrn	N	עלטרן	eltrN	_
+14	hbin	HVF	הבין	hbyN	_
+15	mlkhmh	N	מלכמה	mlxmh	_
+16	gihltn	VBN	גיהלטן	gyhltN	_
+
+SENT	1666W-MESSIAH,48.233
+1	hsm	H	הסם	hsM	the_name
+2	itbrkh	H	איטברך	AytbrX	may_be_blessed
+3	tet	DOF	טעט	tet	_
+4	vr	P	װר	Vr	_
+5	zi	PRO	זי	zy	_
+6	streytn	VB	סטרײטן	strYtN	_
+
+SENT	1666W-MESSIAH,48.234
+1	hitsundrt	ADV	היצונדרט	hyqvndrt	_
+2	vert	RDF	װערט	Vert	_
+3	ez	PRO	עז	ez	_
+4	al_zoy	ADV	אַל_זױ	Aal_zW	_
+5	gin	VB	גין	gyN	_
+
+SENT	1666W-MESSIAH,48.235
+1	hsm	H	הסם	hsM	the_name
+2	itbrkh	H	איטברך	AytbrX	may_be_blessed
+3	vert	RDF	װערט	Vert	_
+4	akh	ADV	אַך	AaX	_
+5	zelbrt	ADV	זעלברט	zelbrt	_
+6	mit	P	מיט	myt	_
+7	unz	PRO	אונז	Avnz	_
+8	zeyn	VB	זײן	zYN	_
+
+SENT	1666W-MESSIAH,49.237
+1	hsm	H	הסם	hsM	the_name
+2	itbrkh	H	איטברך	AytbrX	may_be_blessed
+3	hut	HVF	הוט	hvt	_
+4	vr	P	װר	Vr	_
+5	tseytn	N	צײטן	qYtN	_
+6	unzr	PRO$	אונזר	Avnzr	_
+7	eltrn	N	עלטרן	eltrN	_
+8	oyf	P	אױף	AWF	_
+9	berg	N	בערג	berg	_
+10	sini	NPR	סיני	syny	_
+11	di	D	די	dy	_
+12	turh	NPR	טורה	tvrh	_
+13	gebn	VBN	געבן	gebN	_
+
+SENT	1666W-MESSIAH,49.238
+1	kant	MDF	קאַנט	kAant	_
+2	akh	ADV	אַך	AaX	_
+3	nimnt	Q	נימנט	nymnt	_
+4	zeyn	PRO$	זײן	zYN	_
+5	stim	N	סטים	styM	_
+6	hern	VB	הערן	herN	_
+
+SENT	1666W-MESSIAH,49.239
+1	kl	Q	קל	kl	all
+2	isral	NPR	איסראַל	AysrAal	_
+3	hatn	VBF	האַטן	hAatN	_
+4	grush	ADJ	גרוש	grv$	_
+5	farkht	N	פֿאַרכט	fAarxt	_
+
+SENT	1666W-MESSIAH,49.240
+1	ez	PRO	עז	ez	_
+2	fil	VBF	פֿיל	fyl	_
+3	alz	Q	אַלז	Aalz	_
+4	tsu	P	צו	qv	_
+5	di	D	די	dy	_
+6	erdn	N	ערדן	erdN	_
+
+SENT	1666W-MESSIAH,49.241
+1	kl	Q	קל	kl	all
+2	isral	NPR	איסראַל	AysrAal	_
+3	ruftn	VBF	רופֿטן	rvftN	_
+4	mshh	NPR	משה	m$h	_
+5	gots	NPR$	גאָטס	gAots	_
+6	gitreyer	ADJ	גיטרײער	gytrYer	_
+7	knekht	N	קנעכט	knext	_
+8	zag	VBI	זאַג	zAag	_
+9	unz	PRO	אונז	Avnz	_
+10	vaz	WPRO	װאַז	VAaz	_
+11	unzr	PRO$	אונזר	Avnzr	_
+12	her_gat	NPR	הער_גאַט	her_gAat	_
+13	shprekht	VBF	שפּרעכט	$prext	_
+
+SENT	1666W-MESSIAH,50.243
+1	rbuti	N	רבוטי	rbvty	_
+2	lebn	N	לעבן	lebN	_
+3	hert	VBI	הערט	hert	_
+4	nun	ADV	נ	n	_
+5	tsu	RP	צו	qv	_
+6	di	D	די	dy	_
+7	freyd	N	פֿרײד	frYd	_
+8	vaz	C	װאַז	VAaz	_
+9	unsr	PRO$	אונסר	Avnsr	_
+10	nviaim	N	נװיִאַים	nVyiAayM	_
+11	shreybn	VBF	שרײבן	$rYbN	_
+
+SENT	1666W-MESSIAH,50.244
+1	kl	Q	קל	kl	all
+2	isral	NPR	איסראַל	AysrAal	_
+3	vert	RDF	װערט	Vert	_
+4	daz	D	דאַז	dAaz	_
+5	herts	N	הערץ	herQ	_
+6	dr_kvikn	VB	דר_קװיקן	dr_kVykN	_
+
+SENT	1666W-MESSIAH,50.245
+1	vi	WADV	װי	Vy	_
+2	mir	PRO	מיר	myr	_
+3	simkhh	N	סימכה	symxh	_
+4	vern	RDF	װערן	VerN	_
+5	treybn	VB	טרײבן	trYbN	_
+
+SENT	1666W-MESSIAH,50.246
+1	hsm	H	הסם	hsM	the_name
+2	itbrkh	H	איטברך	AytbrX	may_be_blessed
+3	vil	MDF	װיל	Vyl	_
+4	unz	PRO	אונז	Avnz	_
+5	alh	Q	אַלה	Aalh	_
+6	gebn	VB	געבן	gebN	_
+7	in	P	אין	AyN	_
+8	gizuntheyt	N	גיזונטהײט	gyzvnthYt	_
+9	unzr	PRO$	אונזר	Avnzr	_
+10	yar	N	יאַר	yAar	_
+11	oyz	RP	אױז	AWz	_
+12	lebn	VB	לעבן	lebN	_
+
+SENT	1666W-MESSIAH,51.248
+1	vi	P	װי	Vy	_
+2	far	P	פֿאַר	fAar	_
+3	tseytn	N	צײטן	qYtN	_
+4	unzr	PRO$	אונזר	Avnzr	_
+5	eltrn	N	עלטרן	eltrN	_
+6	tsu	P	צו	qv	_
+7	fir	NUM	פֿיר	fyr	_
+8	finf_hundrt	NUM	פֿינפֿ_הונדרט	fynf_hvndrt	_
+9	yar	N	יאַר	yAar	_
+10	vern	RDF	װערן	VerN	_
+11	mir	PRO	מיר	myr	_
+12	alh	Q	אַלה	Aalh	_
+13	lebn	VB	לעבן	lebN	_
+
+SENT	1666W-MESSIAH,51.249
+1	daz	D	דאַז	dAaz	_
+2	land	N	לאַנד	lAand	_
+3	vaz	WPRO	װאַז	VAaz	_
+4	unz	PRO	אונז	Avnz	_
+5	gat	NPR	גאַט	gAat	_
+6	far_shprakhin	VBN	פֿאַר_שפּראַכין	fAar_$prAaxyN	_
+7	hat	HVF	האַט	hAat	_
+8	vert	RDF	װערט	Vert	_
+9	er	PRO	ער	er	_
+10	unz	PRO	אונז	Avnz	_
+11	vidr	ADV	װידר	Vydr	_
+12	gebn	VB	געבן	gebN	_
+
+SENT	1666W-MESSIAH,51.250
+1	daz	D	דאַז	dAaz	_
+2	gleykhin	ADJ	גלײכין	glYxyN	_
+3	iz	VBF	איז	Ayz	_
+4	nit	NEG	ניט	nyt	_
+5	fun	P	פֿון	fvN	_
+6	unzr	PRO$	אונזר	Avnzr	_
+7	got	NPR	גאָט	gAot	_
+8	der	WPRO	דער	der	_
+9	himl	N	הימל	hyml	_
+10	un'	CONJ	אונ'	Avn'	_
+11	erd	N	ערד	erd	_
+12	bishafin	VBN	בישאַפֿין	by$AafyN	_
+13	hat	HVF	האַט	hAat	_
+
+SENT	1666W-MESSIAH,52.252
+1	vi	WADV	װי	Vy	_
+2	vert	RDF	װערט	Vert	_
+3	daz	D	דאַז	dAaz	_
+4	eyn	D	אײן	AYN	_
+5	grush	ADJ	גרוש	grv$	_
+6	smkhh	N	סמכה	smxh	_
+7	zeyn	VB	זײן	zYN	_
+8	in	P	אין	AyN	_
+9	al	Q	אַל	Aal	_
+10	unzr	PRO$	אונזר	Avnzr	_
+11	glidr	N	גלידר	glydr	_
+
+SENT	1666W-MESSIAH,52.253
+1	in	P	אין	AyN	_
+2	arts	N	אַרץ	AarQ	_
+3	isral	NPR	איסראַל	AysrAal	_
+4	vert	RDF	װערט	Vert	_
+5	eyner	PRO	אײנער	AYner	_
+6	den	D	דען	deN	_
+7	andrn	ADJ	אַנדרן	AandrN	_
+8	dr_kenh	VB	דר_קענה	dr_kenh	_
+9	shvestr	N	שװעסטר	$Vestr	_
+10	un'	CONJ	אונ'	Avn'	_
+11	akh	ADV	אַך	AaX	_
+12	bridr	N	ברידר	brydr	_
+
+SENT	1666W-MESSIAH,52.254
+1	hitsundrt	ADV	היצונדרט	hyqvndrt	_
+2	veys	VBF	װײס	VYs	_
+3	eynr	PRO	אײנר	AYnr	_
+4	fun	P	פֿון	fvN	_
+5	andrn	ADJ	אַנדרן	AandrN	_
+6	nit	NEG	ניט	nyt	_
+7	tsu	TO	צו	qv	_
+8	zagn	VB	זאַגן	zAagN	_
+9	biz	C	ביז	byz	_
+10	mir	PRO	מיר	myr	_
+11	vern	RDF	װערן	VerN	_
+12	vr_zmlt	VAN	װר_זמלט	Vr_zmlt	_
+13	in	P	אין	AyN	_
+14	kurtsn	ADJ	קורצן	kvrqN	_
+15	tagn	N	תּגין	TgyN	_
+
+SENT	1666W-MESSIAH,53.256
+1	akh	ADV	אַך	AaX	_
+2	habn	HVF	האַבן	hAabN	_
+3	unzr	PRO$	אונזר	Avnzr	_
+4	nbiaim	N	נביִאַים	nbyiAayM	_
+5	gishribin	VBN	גישריבין	gy$rybyN	_
+6	vaz	WPRO	װאַז	VAaz	_
+7	da	ADV	דאַ	dAa	_
+8	vert	RDF	װערט	Vert	_
+9	mer	QR	מער	mer	_
+10	gisehn	VB	גיסעהן	gysehN	_
+
+SENT	1666W-MESSIAH,53.257
+1	hsm	H	הסם	hsM	the_name
+2	itbrkh	H	איטברך	AytbrX	may_be_blessed
+3	vert	RDF	װערט	Vert	_
+4	akh	ADV	אַך	AaX	_
+5	grush	ADJ	גרוש	grv$	_
+6	vaundr	N	װאַונדר	VAavndr	_
+7	tun	VB	טון	tvN	_
+
+SENT	1666W-MESSIAH,53.258
+1	dz	D	דז	dz	_
+2	vern	RDF	װערן	VerN	_
+3	mir	PRO	מיר	myr	_
+4	bld	ADV	בלד	bld	_
+5	zehn	VB	זעהן	zehN	_
+
+SENT	1666W-MESSIAH,53.259
+1	in	P	אין	AyN	_
+2	mtsrim	NPR	מצרים	mqryM	_
+3	hut	HVF	הוט	hvt	_
+4	hsm	H	הסם	hsM	the_name
+5	itbrkh	H	איטברך	AytbrX	may_be_blessed
+6	an	P	אַן	AaN	_
+7	zi	PRO	זי	zy	_
+8	nkmt	N	נקמט	nkmt	_
+9	gitun	VBN	גיטון	gytvN	_
+10	i	C	אי	Ay	_
+11	unz	PRO	אונז	Avnz	_
+12	valtn	MDF	װאַלטן	VAaltN	_
+13	lidig	ADJ	לידיג	lydyg	_
+14	lan	VB	לאַן	lAaN	_
+
+SENT	1666W-MESSIAH,54.261
+1	lazin	VB	לאַזין	lAazyN	_
+2	verin	RDF	װערין	VeryN	_
+3	zi	PRO	זי	zy	_
+4	unz	PRO	אונז	Avnz	_
+5	bald	ADV	באַלד	bAald	_
+6	frey	ADJ	פֿרײ	frY	_
+
+SENT	1666W-MESSIAH,54.262
+1	hsm	H	הסם	hsM	the_name
+2	itbrkh	H	איטברך	AytbrX	may_be_blessed
+3	vil	MDF	װיל	Vyl	_
+4	ez	PRO	עז	ez	_
+5	habin	VB	האַבין	hAabyN	_
+
+SENT	1666W-MESSIAH,54.263
+1	di	D	די	dy	_
+2	mtsrim	NPR	מצרים	mqryM	_
+3	valtin	MDF	װאַלטין	VAaltyN	_
+4	unzr	PRO$	אונזר	Avnzr	_
+5	eltrn	N	עלטרן	eltrN	_
+6	akh	ADV	אַך	AaX	_
+7	nit	NEG	ניט	nyt	_
+8	lidig	ADJ	לידיג	lydyg	_
+9	lan	VB	לאַן	lAaN	_
+
+SENT	1666W-MESSIAH,54.264
+1	zi	PRO	זי	zy	_
+2	mustin	MDF	מוסטין	mvstyN	_
+3	hkin	VB	הקין	hkyN	_
+4	un'	CONJ	אונ'	Avn'	_
+5	grabn	VB	גראַבן	grAabN	_
+
+SENT	1666W-MESSIAH,54.265
+1	vi	WADV	װי	Vy	_
+2	iz	VBF	איז	Ayz	_
+3	unzr	PRO$	אונזר	Avnzr	_
+4	got	NPR	גאָט	gAot	_
+5	eyn	D	אײן	AYN	_
+6	grusr	ADJ	גרוסר	grvsr	_
+7	her	N	הער	her	_
+
+SENT	1666W-MESSIAH,54.266
+1	makht	VBF	מאַכט	mAaxt	_
+2	zi	PRO	זי	zy	_
+3	vr_trinkn	VB	װר_טרינקן	Vr_trynkN	_
+4	in	P	אין	AyN	_
+5	tifn	ADJ	טיפֿן	tyfN	_
+6	mer	N	מער	mer	_
+
+SENT	1666W-MESSIAH,55.268
+1	fun	P	פֿון	fvN	_
+2	erstin	ADV	ערסטין	erstyN	_
+3	lis	VBF	ליס	lys	_
+4	gat	NPR	גאַט	gAat	_
+5	hsrah	H	הסראַה	hsrAah	UNKNOWN
+6	tan	VB	טאַן	tAaN	_
+7	den	D	דען	deN	_
+8	mlkh	N	מלך	mlX	_
+9	fun	P	פֿון	fvN	_
+10	mtsrim	NPR	מצרים	mqryM	_
+11	er	PRO	ער	er	_
+12	zalt	MDF	זאַלט	zAalt	_
+13	isral	NPR	איסראַל	AysrAal	_
+14	lidig	ADJ	לידיג	lydyg	_
+15	lan	VB	לאַן	lAaN	_
+16	udr	CONJ	אודר	Avdr	_
+17	er	PRO	ער	er	_
+18	vert	RDF	װערט	Vert	_
+19	hbin	VB	הבין	hbyN	_
+20	bizh	ADJ	ביזש	byz$	_
+21	khleym	N	כלײם	xlYM	_
+
+SENT	1666W-MESSIAH,55.269
+1	got	NPR	גאָט	gAot	_
+2	makht	VBF	מאַכט	mAaxt	_
+3	in	PRO	אין	AyN	_
+4	zeyn	PRO$	זײן	zYN	_
+5	herts	N	הערץ	herQ	_
+6	gar	ADV	גאַר	gAar	_
+7	shver	ADJ	שװער	$Ver	_
+
+SENT	1666W-MESSIAH,55.270
+1	ikh	PRO	איך	AyX	_
+2	vil	MDF	װיל	Vyl	_
+3	eykh	PRO	אײך	AYX	_
+4	fun	P	פֿון	fvN	_
+5	im	PRO	אים	AyM	_
+6	shreybn	VB	שרײבן	$rYbN	_
+7	mer	QR	מער	mer	_
+
+SENT	1666W-MESSIAH,56.272
+1	trakhtin	VB	טראַכטין	trAaxtyN	_
+2	tet	DOF	טעט	tet	_
+3	freh	NPR	פֿרעה	freh	_
+4	un'	CONJ	אונ'	Avn'	_
+5	al	Q	אַל	Aal	_
+6	zeyn	PRO$	זײן	zYN	_
+7	knekht	N	קנעכט	knext	_
+8	vi	WADV	װי	Vy	_
+9	zi	PRO	זי	zy	_
+10	unzrh	PRO$	אונזרה	Avnzrh	_
+11	bridr	N	ברידר	brydr	_
+12	valtin	MDF	װאַלטין	VAaltyN	_
+13	plagin	VB	פּלאַגין	plAagyN	_
+
+SENT	1666W-MESSIAH,56.273
+1	got	NPR	גאָט	gAot	_
+2	gab	VBF	גאַב	gAab	_
+3	in	PRO	אין	AyN	_
+4	vidr	ADV	װידר	Vydr	_
+5	eyn	D	אײן	AYN	_
+6	bizh	ADJ	ביזש	byz$	_
+7	tseyt	N	צײט	qYt	_
+
+SENT	1666W-MESSIAH,56.274
+1	mit	P	מיט	myt	_
+2	tsehn	NUM	צעהן	qehN	_
+3	mkut	N	מקוט	mkvt	_
+4	gishlagin	VBN	גישלאַגין	gy$lAagyN	_
+
+SENT	1666W-MESSIAH,56.275
+1	al	Q	אַל	Aal	_
+2	di	D	די	dy	_
+3	rseim	N	רסעיִם	rseyiM	_
+4	zal	MDF	ז"ל	z"l	_
+5	es	PRO	עס	es	_
+6	al_zoy	ADV	אַל_זױ	Aal_zW	_
+7	gin	VB	גין	gyN	_
+8	di	WPRO	די	dy	_
+9	oyf	P	אױף	AWF	_
+10	unz	PRO	אונז	Avnz	_
+11	tsu	P	צו	qv	_
+12	bizn	N	ביזן	byzN	_
+13	shtin	VBF	שטין	$tyN	_
+
+SENT	1666W-MESSIAH,57.277
+1	vil	MDF	װיל	Vyl	_
+2	ikh	PRO	איך	AyX	_
+3	eykh	PRO	אײך	AYX	_
+4	hitsundrt	ADV	היצונדרט	hyqvndrt	_
+5	shreybn	VB	שרײבן	$rYbN	_
+6	mer	QR	מער	mer	_
+7	fun	P	פֿון	fvN	_
+8	unzr	PRO$	אונזר	Avnzr	_
+9	mlkh	N	מלך	mlX	_
+10	hoykh_gibarin	ADJ	הױכ_גיבאַרין	hWx_gybAaryN	_
+
+SENT	1666W-MESSIAH,57.278
+1	oyf	P	אױף	AWF	_
+2	in	PRO	אין	AyN	_
+3	hbin	HVF	הבין	hbyN	_
+4	mir	PRO	מיר	myr	_
+5	lang	ADV	לאַנג	lAang	_
+6	givart	VBN	גיװאַרט	gyVAart	_
+7	fil	Q	פֿיל	fyl	_
+8	menkhh	Q	מענכה	menxh	_
+9	yar	N	יאַר	yAar	_
+10	un'	CONJ	אונ'	Avn'	_
+11	tagin	N	טאַגין	tAagyN	_
+12	unz	PRO	אונז	Avnz	_
+13	tsu	TO	צו	qv	_
+14	brengin	VB	ברענגין	brengyN	_
+15	in	P	אין	AyN	_
+16	daz	D	דאַז	dAaz	_
+17	heylig	ADJ	הײליג	hYlyg	_
+18	lnd	N	לנד	lnd	_
+
+SENT	1666W-MESSIAH,57.279
+1	got	NPR	גאָט	gAot	_
+2	helf	VBF	העלף	helF	_
+3	mit	P	מיט	myt	_
+4	zeynh	PRO$	זײנה	zYnh	_
+5	rekht	ADJ	רעכט	rext	_
+6	hnt	N	הנט	hnt	_
+
+SENT	1666W-MESSIAH,58.281
+1	ihudim	N	איהודים	AyhvdyM	_
+2	di	WPRO	די	dy	_
+3	in	P	אין	AyN	_
+4	arts	N	אַרץ	AarQ	_
+5	isral	NPR	איסראַל	AysrAal	_
+6	zeyn	VBF	זײן	zYN	_
+7	di	D	די	dy	_
+8	habin	HVF	האַבין	hAabyN	_
+9	unz	PRO	אונז	Avnz	_
+10	gishribn	VBN	גישריבן	gy$rybN	_
+11	oyz	P	אױז	AWz	_
+12	irh	PRO$	אירה	Ayrh	_
+13	lndin	N	לנדין	lndyN	_
+14	tsu	P	צו	qv	_
+15	unzr	PRO$	אונזר	Avnzr	_
+16	brider	N	ברידער	bryder	_
+17	ibr_al	ADV	איבר_אַל	Aybr_Aal	_
+18	vau	WADV	װאַו	VAav	_
+19	yhudim	N	יהודים	yhvdyM	_
+20	zeyn	VBF	זײן	zYN	_
+21	far_hndin	ADJ	פֿאַר_הנדין	fAar_hndyN	_
+
+SENT	1666W-MESSIAH,58.282
+1	alihu	NPR	אַליהו	Aalyhv	_
+2	hnbia	H	הנביִאַ	hnbyiAa	the_prophet
+3	iz	BEF	איז	Ayz	_
+4	gnts	ADV	גנץ	gnQ	_
+5	tsu	RP	צו	qv	_
+6	bireyt	VAN	בירײט	byrYt	_
+
+SENT	1666W-MESSIAH,58.283
+1	vi	WADV	װי	Vy	_
+2	treybn	VBF	טרײבן	trYbN	_
+3	zi	PRO	זי	zy	_
+4	eyn	D	אײן	AYN	_
+5	grush	ADJ	גרוש	grv$	_
+6	vreyd	N	װרײד	VrYd	_
+
+SENT	1666W-MESSIAH,59.285
+1	srim	N	סרים	sryM	_
+2	un'	CONJ	אונ'	Avn'	_
+3	duksim	N	דוכּוסים	dvKvsyM	_
+4	in	P	אין	AyN	_
+5	irn	PRO$	אירן	AyrN	_
+6	lnd	N	לנד	lnd	_
+7	di	D	די	dy	_
+8	hbin	HVF	הבין	hbyN	_
+9	tsu	RP	צו	qv	_
+10	gizehn	VBN	גיזעהן	gyzehN	_
+11	vaz	WPRO	װאַז	VAaz	_
+12	unzrim	PRO$	אונזרים	AvnzryM	_
+13	mlkh	N	מלך	mlX	_
+14	shbsi	NPR	שבסי	$bsy	_
+15	fr	P	פֿר	fr	_
+16	nism	H	ניסם	nysM	wonders
+17	zeyn	BEF	זײן	zYN	_
+18	gisehn	VBN	גיסעהן	gysehN	_
+
+SENT	1666W-MESSIAH,59.286
+1	in	P	אין	AyN	_
+2	eyn	D	אײן	AYN	_
+3	grus	ADJ	גרוס	grvs	_
+4	feyar	N	פֿײאַר	fYAar	_
+5	stelt	VBF	סטעלט	stelt	_
+6	zikh	PRO	זיך	zyX	_
+7	dr	D	דר	dr	_
+8	vrumr	ADJ	װרומר	Vrvmr	_
+9	man	N	מאַן	mAaN	_
+
+SENT	1666W-MESSIAH,59.287
+1	daz	D	דאַז	dAaz	_
+2	hut	HVF	הוט	hvt	_
+3	im	PRO	אים	AyM	_
+4	gar	ADV	גאַר	gAar	_
+5	keyn	Q	קײן	kYN	_
+6	shadin	N	שאַדין	$AadyN	_
+7	gitan	VBN	גיטאַן	gytAaN	_
+
+SENT	1666W-MESSIAH,60.289
+1	kumn	VBN	קומן	kvmN	_
+2	zeyn	BEF	זײן	zYN	_
+3	tsu	TO	צו	qv	_
+4	lafin	VB	לאַפֿין	lAafyN	_
+5	falk	N	פֿאַלק	fAalk	_
+6	az	P	אַז	Aaz	_
+7	znd	N	זנד	znd	_
+8	in	P	אין	AyN	_
+9	mer	N	מער	mer	_
+10	di	D	די	dy	_
+11	vaundr	N	װאַונדר	VAavndr	_
+12	tsu	TO	צו	qv	_
+13	gizehn	VB	גיזעהן	gyzehN	_
+14	mit	P	מיט	myt	_
+15	unzrin	PRO$	אונזרין	AvnzryN	_
+16	mlkh	N	מלך	mlX	_
+17	shbsi	NPR	שבסי	$bsy	_
+18	tsvi	NPR	צבֿי	q~y	_
+19	vaz	WPRO	װאַז	VAaz	_
+20	nism	H	ניסם	nysM	wonders
+21	zeyn	BEF	זײן	zYN	_
+22	gisehn	VBN	גיסעהן	gysehN	_
+
+SENT	1666W-MESSIAH,60.290
+1	habin	HVF	האַבין	hAabyN	_
+2	gshrian	VBN	גשריִאַן	g$ryiAaN	_
+3	grus	ADJ	גרוס	grvs	_
+4	un'	CONJ	אונ'	Avn'	_
+5	kleyn	ADJ	קלײן	klYN	_
+6	du	PRO	דו	dv	_
+7	muz	MDF	מוז	mvz	_
+8	givis	ADV	גיװיס	gyVys	_
+9	mshikh	NPR	משיך	m$yX	_
+10	zeyn	VB	זײן	zYN	_
+
+SENT	1666W-MESSIAH,61.292
+1	zi	PRO	זי	zy	_
+2	hubn	VBF	הובן	hvbN	_
+3	al	Q	אַל	Aal	_
+4	tsu	TO	צו	qv	_
+5	shreyan	VB	שרײאַן	$rYAaN	_
+6	an	RP	אַן	AaN	_
+7	mir	PRO	מיר	myr	_
+8	habn	HVF	האַבן	hAabN	_
+9	unzr	PRO$	אונזר	Avnzr	_
+10	lebn	N	לעבן	lebN	_
+11	nit	NEG	ניט	nyt	_
+12	gzehn	VBN	גזעהן	gzehN	_
+
+SENT	1666W-MESSIAH,61.293
+1	daz	D	דאַז	dAaz	_
+2	kan	MDF	ק"ן	k"N	_
+3	keyn	Q	קײן	kYN	_
+4	mens	N	מענס	mens	_
+5	nit	NEG	ניט	nyt	_
+6	makhtig	ADJ	מאַכטיג	mAaxtyg	_
+7	zeyn	VB	זײן	zYN	_
+
+SENT	1666W-MESSIAH,61.294
+1	fun	P	פֿון	fvN	_
+2	gat	NPR	גאַט	gAat	_
+3	iz	BEF	איז	Ayz	_
+4	es	PRO	עס	es	_
+5	gisehn	VBN	גיסעהן	gysehN	_
+
+SENT	1666W-MESSIAH,61.295
+1	zi	PRO	זי	zy	_
+2	shrian	VBF	שריִאַן	$ryiAaN	_
+3	al	Q	אַל	Aal	_
+4	mit	P	מיט	myt	_
+5	grusr	ADJ	גרוסר	grvsr	_
+6	makht	N	מאַכט	mAaxt	_
+7	der	D	דער	der	_
+8	yudn	N	יודן	yvdN	_
+9	glabn	N	גלאַבן	glAabN	_
+10	iz	VBF	איז	Ayz	_
+11	grakht	ADJ	גראַכט	grAaxt	_
+
+SENT	1666W-MESSIAH,62.297
+1	tsu	TO	צו	qv	_
+2	lafn	VB	לאַפֿן	lAafN	_
+3	kumn	VBF	קומן	kvmN	_
+4	dart	ADV	דאַרט	dAart	_
+5	oyz	P	אױז	AWz	_
+6	al	Q	אַל	Aal	_
+7	di	D	די	dy	_
+8	lnd	N	לנד	lnd	_
+9	unzr	PRO$	אונזר	Avnzr	_
+10	mlkh	N	מלך	mlX	_
+11	an	RP	אַן	AaN	_
+12	tsu	TO	צו	qv	_
+13	zehn	VB	זעהן	zehN	_
+14	gern	ADV	גערן	gerN	_
+
+SENT	1666W-MESSIAH,62.298
+1	veyl	C	װײל	VYl	_
+2	im	PRO	אים	AyM	_
+3	gat	NPR	גאַט	gAat	_
+4	ht	HVF	הט	ht	_
+5	zulkhi	ADJ	זולכי	zvlxy	_
+6	vaundr	N	װאַונדר	VAavndr	_
+7	gitun	VBN	גיטון	gytvN	_
+8	i	ADV	אי	Ay	_
+9	tetn	DOF	טעטן	tetN	_
+10	zi	PRO	זי	zy	_
+11	im	PRO	אים	AyM	_
+12	ern	VB	ערן	erN	_
+
+SENT	1666W-MESSIAH,62.299
+1	das	D	דת	dS	_
+2	mus	MDF	מוס	mvs	_
+3	zeyn	VB	זײן	zYN	_
+4	keyn	Q	קײן	kYN	_
+5	shlekhtr	ADJ	שלעכטר	$lextr	_
+6	man	N	מאַן	mAaN	_
+7	veyl	C	װײל	VYl	_
+8	im	PRO	אים	AyM	_
+9	gat	NPR	גאַט	gAat	_
+10	ht	HVF	הט	ht	_
+11	zulkhi	ADJ	זולכי	zvlxy	_
+12	vaundr	N	װאַונדר	VAavndr	_
+13	gitun	VBN	גיטון	gytvN	_
+
+SENT	1666W-MESSIAH,63.301
+1	lubin	VB	לובין	lvbyN	_
+2	tetin	DOF	טעטין	tetyN	_
+3	zi	PRO	זי	zy	_
+4	unzrin	PRO$	אונזרין	AvnzryN	_
+5	gat	NPR	גאַט	gAat	_
+6	ibr_al	ADV	איבר_אַל	Aybr_Aal	_
+7	in	P	אין	AyN	_
+8	al	Q	אַל	Aal	_
+9	di	D	די	dy	_
+10	lndin	N	לנדין	lndyN	_
+
+SENT	1666W-MESSIAH,63.302
+1	di	D	די	dy	_
+2	shrian	VBF	שריִאַן	$ryiAaN	_
+3	ibr	P	איבר	Aybr	_
+4	den	D	דען	deN	_
+5	yudn	N	יודן	yvdN	_
+6	got	NPR	גאָט	gAot	_
+7	iz	VBF	איז	Ayz	_
+8	keynr	Q	קײנר	kYnr	_
+9	mer	ADV	מער	mer	_
+10	far_hndin	ADJ	פֿאַר_הנדין	fAar_hndyN	_
+
+SENT	1666W-MESSIAH,63.303
+1	ven	C	װען	VeN	_
+2	yhudim	N	יהודים	yhvdyM	_
+3	tun	VBF	טון	tvN	_
+4	fleysig	ADV	פֿלײסיג	flYsyg	_
+5	ir	PRO$	איר	Ayr	_
+6	gibet	N	גיבעט	gybet	_
+7	zi	PRO	זי	zy	_
+8	habin	VBF	האַבין	hAabyN	_
+9	vaz	WPRO	װאַז	VAaz	_
+10	ir	PRO$	איר	Ayr	_
+11	hrts	N	הרץ	hrQ	_
+12	bigert	VBF	ביגערט	bygert	_
+
+SENT	1666W-MESSIAH,64.305
+1	mant	VBI	מאַנט	mAant	_
+2	oykh	PRO	אױך	AWX	_
+3	nun	ADV	נ	n	_
+4	zelbr	ADV	זעלבר	zelbr	_
+5	,	PUNC	,	,	_
+6	libh	ADJ	ליבה	lybh	_
+7	bridr	N	ברידר	brydr	_
+8	meyn	PRO$	מײן	mYN	_
+
+SENT	1666W-MESSIAH,64.306
+1	nemt	VBI	נעמט	nemt	_
+2	oykh	PRO	אױך	AWX	_
+3	feyn	ADV	פֿײן	fYN	_
+4	tsu	P	צו	qv	_
+5	hrtsin	N	הרצין	hrqyN	_
+
+SENT	1666W-MESSIAH,64.307
+1	daz	D	דאַז	dAaz	_
+2	glut	N	גלוט	glvt	_
+3	iz	VBF	איז	Ayz	_
+4	unz	PRO	אונז	Avnz	_
+5	mekhtig	ADV	מעכטיג	mextyg	_
+6	shver	ADJ	שװער	$Ver	_
+
+SENT	1666W-MESSIAH,64.308
+1	mir	PRO	מיר	myr	_
+2	leydn	VBF	לײדן	lYdN	_
+3	grush	ADJ	גרוש	grv$	_
+4	shmrtsin	N	שמרצין	$mrqyN	_
+
+SENT	1666W-MESSIAH,64.309
+1	gat	NPR	גאַט	gAat	_
+2	zal	MDF	ז"ל	z"l	_
+3	unz	PRO	אונז	Avnz	_
+4	bald	ADV	באַלד	bAald	_
+5	oyz	P	אױז	AWz	_
+6	der	D	דער	der	_
+7	glut	N	גלוט	glvt	_
+8	lazin	VB	לאַזין	lAazyN	_
+
+SENT	1666W-MESSIAH,64.310
+1	mir	PRO	מיר	myr	_
+2	zalin	MDF	זאַלין	zAalyN	_
+3	herin	VB	הערין	heryN	_
+4	elih	NPR	עליה	elyh	_
+5	sufr	H	סופֿר	svfr	shofar
+6	blazin	VB	בלאַזין	blAazyN	_
+
+SENT	1666W-MESSIAH,65.312
+1	kumt	VBI	קומט	kvmt	_
+2	her	RP-ADV	הער	her	_
+3	,	PUNC	,	,	_
+4	ir	PRO	איר	Ayr	_
+5	libn	ADJ	ליבן	lybN	_
+6	bridr	N	ברידר	brydr	_
+7	meyn	PRO$	מײן	mYN	_
+
+SENT	1666W-MESSIAH,65.313
+1	mir	PRO	מיר	myr	_
+2	veln	MDF	װעלן	VelN	_
+3	an	P	אַן	AaN	_
+4	keyn	Q	קײן	kYN	_
+5	tsrut	N	צרוט	qrvt	_
+6	gidenkn	VB	גידענקן	gydenkN	_
+
+SENT	1666W-MESSIAH,65.314
+1	di	D	די	dy	_
+2	tirkn	N	טירקן	tyrkN	_
+3	veln	MDF	װעלן	VelN	_
+4	zeyn	VB	זײן	zYN	_
+5	unzr	PRO$	אונזר	Avnzr	_
+6	knekht	N	קנעכט	knext	_
+
+SENT	1666W-MESSIAH,65.315
+1	zi	PRO	זי	zy	_
+2	veln	MDF	װעלן	VelN	_
+3	unz	PRO	אונז	Avnz	_
+4	di	D	די	dy	_
+5	glezr	N	גלעזר	glezr	_
+6	shvenkin	VB	שװענקין	$VenkyN	_
+
+SENT	1666W-MESSIAH,65.316
+1	mir	PRO	מיר	myr	_
+2	verin	RDF	װערין	VeryN	_
+3	eynr	PRO	אײנר	AYnr	_
+4	oyf	P	אױף	AWF	_
+5	den	D	דען	deN	_
+6	andrn	ADJ	אַנדרן	AandrN	_
+7	vinkn	VB	װינקן	VynkN	_
+8	in	P	אין	AyN	_
+9	gizundheyt	N	גיזונדהײט	gyzvndhYt	_
+10	mlkh	N	מלך	mlX	_
+11	sbti	NPR	סבטי	sbty	_
+12	tsvi	NPR	צבֿי	q~y	_
+13	eyns	PRO	אײנס	AYns	_
+14	trinkn	VB	טרינקן	trynkN	_
+
+SENT	1666W-MESSIAH,66.318
+1	keyn	Q	קײן	kYN	_
+2	mlakhh	N	מלאַכה	mlAaxh	_
+3	verin	RDF	װערין	VeryN	_
+4	mir	PRO	מיר	myr	_
+5	nit	NEG	ניט	nyt	_
+6	tan	VB	טאַן	tAaN	_
+7	neyart	FP	נײאַרט	nYAart	_
+8	lernin	VB	לערנין	lernyN	_
+9	turh	NPR	טורה	tvrh	_
+
+SENT	1666W-MESSIAH,66.319
+1	gat	NPR	גאַט	gAat	_
+2	vet	MDF	װעט	Vet	_
+3	unz	PRO	אונז	Avnz	_
+4	bhitn	VB	בהיטן	bhytN	_
+5	ali	Q	אַלי	Aaly	_
+6	gar	ADV	גאַר	gAar	_
+
+SENT	1666W-MESSIAH,66.320
+1	mir	PRO	מיר	myr	_
+2	verin	RDF	װערין	VeryN	_
+3	habn	VB	האַבן	hAabN	_
+4	keyn	Q	קײן	kYN	_
+5	murh	N	מורה	mvrh	_
+
+SENT	1666W-MESSIAH,66.321
+1	vil	Q	װיל	Vyl	_
+2	verin	RDF	װערין	VeryN	_
+3	bikenh	VB	ביקענה	bykenh	_
+4	,	PUNC	,	,	_
+5	daz	C	דאַז	dAaz	_
+6	unzr	PRO$	אונזר	Avnzr	_
+7	gat	NPR	גאַט	gAat	_
+8	himl	N	הימל	hyml	_
+9	un'	CONJ	אונ'	Avn'	_
+10	erd	N	ערד	erd	_
+11	bishafn	VBN	בישאַפֿן	by$AafN	_
+12	hat	HVF	האַט	hAat	_
+
+SENT	1666W-MESSIAH,67.323
+1	freyd	N	פֿרײד	frYd	_
+2	un'	CONJ	אונ'	Avn'	_
+3	eytl	ADJ	אײטל	AYtl	_
+4	hrtslkhkeyt	N	הרצלכקײט	hrqlxkYt	_
+5	mit	P	מיט	myt	_
+6	sln	N	סלן	slN	_
+7	oyz	P	אױז	AWz	_
+8	dr	D	דר	dr	_
+9	masin	N	מאַסין	mAasyN	_
+10	den	D	דען	deN	_
+11	zkhut	N	זכוט	zxvt	_
+12	fun	P	פֿון	fvN	_
+13	unzrh	PRO$	אונזרה	Avnzrh	_
+14	eltrin	N	עלטרין	eltryN	_
+15	habin	HVF	האַבין	hAabyN	_
+16	mir	PRO	מיר	myr	_
+17	ginusin	VBN	גינוסין	gynvsyN	_
+
+SENT	1666W-MESSIAH,67.324
+1	lubt	VBI	לובט	lvbt	_
+2	got	NPR	גאָט	gAot	_
+3	mit	P	מיט	myt	_
+4	farkhtsum_keyt	N	פֿאַרכצומ_קײט	fAarxqvm_kYt	_
+5	veyl	C	װײל	VYl	_
+6	er	PRO	ער	er	_
+7	hat	HVF	האַט	hAat	_
+8	uns	PRO	אונס	Avns	_
+9	gebin	VBN	געבין	gebyN	_
+10	zelkhh	ADJ	זעלכה	zelxh	_
+11	tseyt	N	צײט	qYt	_
+
+SENT	1666W-MESSIAH,68.326
+1	rirt	VBI	רירט	ryrt	_
+2	oykh	PRO	אױך	AWX	_
+3	,	PUNC	,	,	_
+4	armh	ADJ	אַרמה	Aarmh	_
+5	,	PUNC	,	,	_
+6	krnkh	ADJ	קרנך	krnX	_
+7	leyt	N	לײט	lYt	_
+
+SENT	1666W-MESSIAH,68.327
+1	ir	PRO	איר	Ayr	_
+2	vert	RDF	װערט	Vert	_
+3	dr_lizt	VB	דר_ליזט	dr_lyzt	_
+4	fun	P	פֿון	fvN	_
+5	eyarh	PRO$	אײאַרה	AYAarh	_
+6	shmrtsin	N	שמרצין	$mrqyN	_
+
+SENT	1666W-MESSIAH,68.328
+1	loybt	VBI	לױבט	lWbt	_
+2	gat	NPR	גאַט	gAat	_
+3	mit	P	מיט	myt	_
+4	grusr	ADJ	גרוסר	grvsr	_
+5	freyd	N	פֿרײד	frYd	_
+6	un'	CONJ	אונ'	Avn'	_
+7	mit	P	מיט	myt	_
+8	gntsin	ADJ	גנצין	gnqyN	_
+9	hrtsin	N	הרצין	hrqyN	_
+
+SENT	1666W-MESSIAH,68.329
+1	unzr	PRO$	אונזר	Avnzr	_
+2	got	NPR	גאָט	gAot	_
+3	iz	VBF	איז	Ayz	_
+4	fulir	ADJ	פֿוליר	fvlyr	_
+5	dr_brmikeyt	N	דר_ברמיקײט	dr_brmykYt	_
+
+SENT	1666W-MESSIAH,68.330
+1	zeynh	PRO$	זײנה	zYnh	_
+2	kindr	N	קינדר	kyndr	_
+3	isral	NPR	איסראַל	AysrAal	_
+4	hat	HVF	האַט	hAat	_
+5	er	PRO	ער	er	_
+6	dr_freyat	VBN	דר_פֿרײאַט	dr_frYAat	_
+
+SENT	1666W-MESSIAH,69.332
+1	in	P	אין	AyN	_
+2	irusilm	N	אירוסילם	AyrvsylM	_
+3	verin	RDF	װערין	VeryN	_
+4	mir	PRO	מיר	myr	_
+5	kumn	VB	קומן	kvmN	_
+6	bld	ADV	בלד	bld	_
+7	unzr	PRO$	אונזר	Avnzr	_
+8	tsu	TO	צו	qv	_
+9	antfngin	VB	אַנטפֿנגין	AantfngyN	_
+
+SENT	1666W-MESSIAH,69.333
+1	vi	WADV	װי	Vy	_
+2	fil	Q	פֿיל	fyl	_
+3	hundrt	NUM	הונדרט	hvndrt	_
+4	yar	N	יאַר	yAar	_
+5	habin	HVF	האַבין	hAabyN	_
+6	mir	PRO	מיר	myr	_
+7	gihaft	VBN	גיהאַפֿט	gyhAaft	_
+
+SENT	1666W-MESSIAH,69.334
+1	di	D	די	dy	_
+2	tseyt	N	צײט	qYt	_
+3	tut	DOF	טוט	tvt	_
+4	unz	PRO	אונז	Avnz	_
+5	far_langin	VB	פֿאַר_לאַנגין	fAar_lAangyN	_
+
+SENT	1666W-MESSIAH,69.335
+1	veyl	C	װײל	VYl	_
+2	unz	PRO	אונז	Avnz	_
+3	hshm	H	השם	h$M	the_name
+4	itbrkh	H	איטברך	AytbrX	may_be_blessed
+5	hat	HVF	האַט	hAat	_
+6	lazin	VBN-IPP	לאַזין	lAazyN	_
+7	dr_lebin	VB	דר_לעבין	dr_lebyN	_
+8	velin	MDF	װעלין	VelyN	_
+9	mir	PRO	מיר	myr	_
+10	im	PRO	אים	AyM	_
+11	eyn	D	אײן	AYN	_
+12	brukh	H	ברוך	brvX	blessed
+13	hba	H	הבאַ	hbAa	the_coming
+14	gebin	VB	געבין	gebyN	_
+
+SENT	1666W-MESSIAH,70.337
+1	gitreyar	ADJ	גיטרײאַר	gytrYAar	_
+2	got	NPR	גאָט	gAot	_
+3	,	PUNC	,	,	_
+4	mir	PRO	מיר	myr	_
+5	velin	MDF	װעלין	VelyN	_
+6	dikh	PRO	דיך	dyX	_
+7	loybn	VB	לױבן	lWbN	_
+8	zer	ADV	זער	zer	_
+9	veyl	C	װײל	VYl	_
+10	du	PRO	דו	dv	_
+11	uns	PRO	אונס	Avns	_
+12	hast	HVF	האַסט	hAast	_
+13	gigebn	VBN	גיגעבן	gygebN	_
+14	mir	PRO	מיר	myr	_
+15	habin	HVF	האַבין	hAabyN	_
+16	tsu	P	צו	qv	_
+17	dir	PRO	דיר	dyr	_
+18	gar	ADV	גאַר	gAar	_
+19	lng	ADV	לנג	lng	_
+20	gihuft	VBN	גיהופֿט	gyhvft	_
+21	zelkhh	ADJ	זעלכה	zelxh	_
+22	freyd	N	פֿרײד	frYd	_
+23	tsu	TO	צו	qv	_
+24	dr_lebin	VB	דר_לעבין	dr_lebyN	_
+
+SENT	1666W-MESSIAH,70.338
+1	mir	PRO	מיר	myr	_
+2	hbin	HVF	הבין	hbyN	_
+3	glitn	VBN	גליטן	glytN	_
+4	menkhh	Q	מענכה	menxh	_
+5	straf	N	סטראַף	strAaF	_
+
+SENT	1666W-MESSIAH,70.339
+1	fur_zaml	VBI	פֿור_זאַמל	fvr_zAaml	_
+2	unz	PRO	אונז	Avnz	_
+3	az	P	אַז	Aaz	_
+4	da	X	דאַ	dAa	_
+5	fur_spreyth	ADJ	פֿור_ספּרײטה	fvr_sprYth	_
+6	shaf	N	שאַף	$AaF	_
+
+SENT	1666W-MESSIAH,71.341
+1	habin	HVF	האַבין	hAabyN	_
+2	mir	PRO	מיר	myr	_
+3	nun	ADV	נ	n	_
+4	ginasin	VBN	גינאַסין	gynAasyN	_
+5	den	D	דען	deN	_
+6	grusin	ADJ	גרוסין	grvsyN	_
+7	zkhut	N	זכוט	zxvt	_
+8	fun	P	פֿון	fvN	_
+9	unzr	PRO$	אונזר	Avnzr	_
+10	eltrin	N	עלטרין	eltryN	_
+11	di	D	די	dy	_
+12	vrumh	ADJ	װרומה	Vrvmh	_
+13	dz	C	דז	dz	_
+14	mir	PRO	מיר	myr	_
+15	habn	HVF	האַבן	hAabN	_
+16	dr_lebt	VBN	דר_לעבט	dr_lebt	_
+17	in	P	אין	AyN	_
+18	unzr	PRO$	אונזר	Avnzr	_
+19	yar	N	יאַר	yAar	_
+20	dz	C	דז	dz	_
+21	mshikh	NPR	משיך	m$yX	_
+22	iz	BEF	איז	Ayz	_
+23	gikumin	VBN	גיקומין	gykvmyN	_
+
+SENT	1666W-MESSIAH,71.342
+1	zeyt	VBI	זײט	zYt	_
+2	frilikh	ADJ	פֿריליך	frylyX	_
+3	,	PUNC	,	,	_
+4	libh	ADJ	ליבה	lybh	_
+5	bridr	N	ברידר	brydr	_
+6	meyn	PRO$	מײן	mYN	_
+
+SENT	1666W-MESSIAH,71.343
+1	di	D	די	dy	_
+2	smkhh	N	סמכה	smxh	_
+3	kent	MDF	קענט	kent	_
+4	nit	NEG	ניט	nyt	_
+5	gresr	ADJ	גרעסר	gresr	_
+6	zeyn	VB	זײן	zYN	_
+
+SENT	1666W-MESSIAH,72.345
+1	rist	VBI	ריסט	ryst	_
+2	eykh	PRO	אײך	AYX	_
+3	tsu	RP	צו	qv	_
+4	al	Q	אַל	Aal	_
+5	ir	PRO	איר	Ayr	_
+6	libn	ADJ	ליבן	lybN	_
+7	leyt	N	לײט	lYt	_
+
+SENT	1666W-MESSIAH,72.346
+1	hsm	H	הסם	hsM	the_name
+2	itbrkh	H	איטברך	AytbrX	may_be_blessed
+3	vil	MDF	װיל	Vyl	_
+4	unz	PRO	אונז	Avnz	_
+5	arts	N	אַרץ	AarQ	_
+6	isral	NPR	איסראַל	AysrAal	_
+7	daz	D	דאַז	dAaz	_
+8	hoykh_gilubth	ADJ	הױכ_גילובטה	hWx_gylvbth	_
+9	land	N	לאַנד	lAand	_
+10	{gebin}	VB	{געבין}	{gebyN}	_
+
+SENT	1666W-MESSIAH,72.347
+1	mir	PRO	מיר	myr	_
+2	zaln	MDF	זאַלן	zAalN	_
+3	dart	ADV	דאַרט	dAart	_
+4	in	P	אין	AyN	_
+5	freydn	N	פֿרײדן	frYdN	_
+6	lebin	VB	לעבין	lebyN	_
+
+SENT	1666W-MESSIAH,72.348
+1	dart	ADV	דאַרט	dAart	_
+2	verin	RDF	װערין	VeryN	_
+3	mir	PRO	מיר	myr	_
+4	unzr	PRO$	אונזר	Avnzr	_
+5	lust	N	לוסט	lvst	_
+6	mit	P	מיט	myt	_
+7	freydn	N	פֿרײדן	frYdN	_
+8	bisn	VB	ביסן	bysN	_
+
+SENT	1666W-MESSIAH,72.349
+1	tsu	P	צו	qv	_
+2	unz	PRO	אונז	Avnz	_
+3	vert	RDF	װערט	Vert	_
+4	milkh	N	מילך	mylX	_
+5	un'	CONJ	אונ'	Avn'	_
+6	hunig	N	הוניג	hvnyg	_
+7	flisn	VB	פֿליסן	flysN	_
+
+SENT	1666W-MESSIAH,73.351
+1	ihudim	N	איהודים	AyhvdyM	_
+2	blindh	ADJ	בלינדה	blyndh	_
+3	,	PUNC	,	,	_
+4	lamh	ADJ	לאַמה	lAamh	_
+5	,	PUNC	,	,	_
+6	krnkh	ADJ	קרנך	krnX	_
+7	leyt	N	לײט	lYt	_
+8	vert	RDF	װערט	Vert	_
+9	got	NPR	גאָט	gAot	_
+10	makhn	VB	מאַכן	mAaxN	_
+11	ginezn	VB	גינעזן	gynezN	_
+
+SENT	1666W-MESSIAH,73.352
+1	gat	NPR	גאַט	gAat	_
+2	vert	RDF	װערט	Vert	_
+3	helfin	VB	העלפֿין	helfyN	_
+4	al	Q	אַל	Aal	_
+5	di	D	די	dy	_
+6	leyt	N	לײט	lYt	_
+7	di	WPRO	די	dy	_
+8	krnk	ADJ	קרנק	krnk	_
+9	zeynh	BEF	זײנה	zYnh	_
+10	givezin	VBN	גיװעזין	gyVezyN	_
+
+SENT	1666W-MESSIAH,73.353
+1	btripth	ADJ	בטריפּטה	btrypth	_
+2	hertsin	N	הערצין	herqyN	_
+3	vern	RDF	װערן	VerN	_
+4	frilikh	ADJ	פֿריליך	frylyX	_
+5	zeyn	VB	זײן	zYN	_
+
+SENT	1666W-MESSIAH,73.354
+1	daz	D	דאַז	dAaz	_
+2-3	bistu	VBF~PRO	ביסטו	bystv	_
+2	bis	VBF	ביס	bys	_
+3	tu	PRO	טו	tv	_
+4	makhtig	ADJ	מאַכטיג	mAaxtyg	_
+5	aleyn	ADV	אַלײן	AalYN	_
+
+SENT	1666W-MESSIAH,74.356
+1	rbuteym	N	רבוטײם	rbvtYM	_
+2	lebn	N	לעבן	lebN	_
+3	hert	VBI	הערט	hert	_
+4	mikh	PRO	מיך	myX	_
+5	tsu	RP	צו	qv	_
+
+SENT	1666W-MESSIAH,74.357
+1	ikh	PRO	איך	AyX	_
+2	vil	MDF	װיל	Vyl	_
+3	eykh	PRO	אײך	AYX	_
+4	den	D	דען	deN	_
+5	shreybr	N	שרײבר	$rYbr	_
+6	gebn	VB	געבן	gebN	_
+7	tsu	TO	צו	qv	_
+8	kenh	VB	קענה	kenh	_
+
+SENT	1666W-MESSIAH,74.358
+1	er	PRO	ער	er	_
+2	heyst	VBF	הײסט	hYst	_
+3	yekb	NPR	יעקב	yekb	_
+4	toysk	NPR	טױסק	tWsk	_
+5	fun	P	פֿון	fvN	_
+6	prag	N	פּראַג	prAag	_
+7	,	PUNC	,	,	_
+
+SENT	1666W-MESSIAH,74.359
+1	eyn_zu	ADV	אײנ_זו	AYn_zv	_
+2	tut	DOF	טוט	tvt	_
+3	er	PRO	ער	er	_
+4	zikh	PRO	זיך	zyX	_
+5	nenh	VB	נענה	nenh	_
+
+SENT	1666W-MESSIAH,74.360
+1	dz	D	דז	dz	_
+2	lid	N	ליד	lyd	_
+3	hat	HVF	האַט	hAat	_
+4	er	PRO	ער	er	_
+5	gar	ADV	גאַר	gAar	_
+6	shin	ADV	ש	$	_
+7	gimkht	VBN	גימכט	gymxt	_
+
+SENT	1666W-MESSIAH,74.361
+1	erst	ADV	ערסט	erst	_
+2	dz	D	דז	dz	_
+3	alf_bit	N	אַלפֿ_ביט	Aalf_byt	_
+4	,	PUNC	,	,	_
+5	un'	CONJ	אונ'	Avn'	_
+6	nakh	P	נ"ך	n"X	_
+7	zeyn	PRO$	זײן	zYN	_
+8	khtimh	N	כטימה	xtymh	_
+9	oyz	RP	אױז	AWz	_
+10	gitrakht	VBN	גיטראַכט	gytrAaxt	_
+
+SENT	1666W-MESSIAH,75.363
+1	hert	VBI	הערט	hert	_
+2	tsu	RP	צו	qv	_
+3	ir	PRO	איר	Ayr	_
+4	libn	ADJ	ליבן	lybN	_
+5	bridr	N	ברידר	brydr	_
+6	meyn	PRO$	מײן	mYN	_
+
+SENT	1666W-MESSIAH,75.364
+1	tut	DOI	טוט	tvt	_
+2	oykh	PRO	אױך	AWX	_
+3	vaul	ADV	װאַול	VAavl	_
+4	tsu	RP	צו	qv	_
+5	breytn	VB	ברײטן	brYtN	_
+6	dz	C	דז	dz	_
+7	mir	PRO	מיר	myr	_
+8	bld	ADV	בלד	bld	_
+9	nakh	P	נ"ך	n"X	_
+10	iruslim	NPR	אירוסלים	AyrvslyM	_
+11	kumn	VBF	קומן	kvmN	_
+12	,	PUNC	,	,	_
+13	itlikhr	Q	איטליכר	Aytlyxr	_
+14	bitseytn	N	ביצײטן	byqYtN	_
+
+SENT	1666W-MESSIAH,75.365
+1	daz	D	דאַז	dAaz	_
+2	vert	RDF	װערט	Vert	_
+3	gisehn	VB	גיסעהן	gysehN	_
+4	in	P	אין	AyN	_
+5	dizn	D	דיזן	dyzN	_
+6	yar	N	יאַר	yAar	_
+
+SENT	1666W-MESSIAH,75.366
+1	amn	INTJ	אַמן	AamN	_
+2	,	PUNC	,	,	_
+3	ez	PRO	עז	ez	_
+4	zal	MDF	ז"ל	z"l	_
+5	verin	VB	װערין	VeryN	_
+6	var	ADJ	װאַר	VAar	_
+
+SENT	1666W-MESSIAH,75.367
+1	dz	D	דז	dz	_
+2	lid	N	ליד	lyd	_
+3	hat	VBF	האַט	hAat	_
+4	eyn	D	אײן	AYN	_
+5	end	N	ענד	end	_
+
+SENT	1666W-MESSIAH,75.368
+1	hsm	H	הסם	hsM	the_name
+2	itbrkh	H	איטברך	AytbrX	may_be_blessed
+3	shik	VBF	שיק	$yk	_
+4	uns	PRO	אונס	Avns	_
+5	in	P	אין	AyN	_
+6	arts	N	אַרץ	AarQ	_
+7	isral	NPR	איסראַל	AysrAal	_
+8	aneyn	ADV	אַנײן	AanYN	_
+9	bihend	ADV	ביהענד	byhend	_
+

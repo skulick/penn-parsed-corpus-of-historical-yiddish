@@ -1,0 +1,6992 @@
+SENT	1697E-PURIM,P1.3
+1	eyn	D	אײן	AYN	_
+2	shin	ADJ	ש	$	_
+3	ney	ADJ	נײ	nY	_
+4	shpil	N	שפּיל	$pyl	_
+5	far	RP	פֿאַר	fAar	_
+6	gstelt	VAN	גסטעלט	gstelt	_
+7	vi	WADV	װי	Vy	_
+8	es	PRO	עס	es	_
+9	iz	BEF	איז	Ayz	_
+10	tsu	RP	צו	qv	_
+11	gangin	VBN	גאַנגין	gAangyN	_
+12	in	P	אין	AyN	_
+13	der	D	דער	der	_
+14	velt	N	װעלט	Velt	_
+15	hips	ADV	היפּס	hyps	_
+16	in	P	אין	AyN	_
+17	reymn	N	רײמן	rYmN	_
+18	gzetst	VAN	גזעצט	gzeqt	_
+19	tsu	P	צו	qv	_
+20	eyn	D	אײן	AYN	_
+21	damin	N	דאַמין	dAamyN	_
+22	vi	WADV	װי	Vy	_
+23	es	PRO	עס	es	_
+24	iz	BEF	איז	Ayz	_
+25	tsu	RP	צו	qv	_
+26	gangin	VBN	גאַנגין	gAangyN	_
+27	in	P	אין	AyN	_
+28	akhsvrus	NPR$	אַכסװרוס	AaxsVrvs	_
+29	tseytn	N	צײטן	qYtN	_
+
+SENT	1697E-PURIM,P3.5
+1	das	D	דת	dS	_
+2	men	PRO	מען	meN	_
+3	hat	HVF	האַט	hAat	_
+4	ghert	VBN	גהערט	ghert	_
+5	oyf	P	אױף	AWF	_
+6	ali	Q	אַלי	Aaly	_
+7	zeytn	N	זײטן	zYtN	_
+8	vi	WADV	װי	Vy	_
+9	es	PRO	עס	es	_
+10	iz	BEF	איז	Ayz	_
+11	den	D	דען	deN	_
+12	hmn	NPR	המן	hmN	_
+13	oys	RP	אױס	AWs	_
+14	gigangin	VBN	גיגאַנגין	gygAangyN	_
+15	az	C	אַז	Aaz	_
+16	er	PRO	ער	er	_
+17	izt	BEF	איזט	Ayzt	_
+18	vardn	RDN	װאַרדן	VAardN	_
+19	ghangin	VAN	גהאַנגין	ghAangyN	_
+
+SENT	1697E-PURIM,P3.6
+1	veyl	C	װײל	VYl	_
+2	er	PRO	ער	er	_
+3	hat	HVF	האַט	hAat	_
+4	vidr	P	װידר	Vydr	_
+5	di	D	די	dy	_
+6	yudn	N	יודן	yvdN	_
+7	vas	Q	װאַס	VAas	_
+8	bizs	ADJ	ביזס	byzs	_
+9	far	RP	פֿאַר	fAar	_
+10	gnumin	VBN	גנומין	gnvmyN	_
+11	drum	DR+P	דרום	drvM	_
+12	izt	BEF	איזט	Ayzt	_
+13	er	PRO	ער	er	_
+14	zelbr	ADV	זעלבר	zelbr	_
+15	an	P	אַן	AaN	_
+16	galgin	N	גאַלגין	gAalgyN	_
+17	gikumin	VBN	גיקומין	gykvmyN	_
+
+SENT	1697E-PURIM,P6.8
+1	veyl	C	װײל	VYl	_
+2	er	PRO	ער	er	_
+3	hat	HVF	האַט	hAat	_
+4	zikh	PRO	זיך	zyX	_
+5	gfirt	VBN	גפֿירט	gfyrt	_
+6	in	P	אין	AyN	_
+7	grusr	ADJ	גרוסר	grvsr	_
+8	prakht	N	פּראַכט	prAaxt	_
+9	drum	DR+P	דרום	drvM	_
+10	izt	BEF	איזט	Ayzt	_
+11	in	PRO	אין	AyN	_
+12	givarin	VBN	גיװאַרין	gyVAaryN	_
+13	der	D	דער	der	_
+14	glgin	N	גלגין	glgyN	_
+15	rekht	ADJ	רעכט	rext	_
+
+SENT	1697E-PURIM,P6.9
+1	dizs	D	דיזס	dyzs	_
+2	gleykhn	ADJ	גלײכן	glYxN	_
+3	eksempel	N	עקסעמפּעל	eksempel	_
+4	zal	MDF	ז"ל	z"l	_
+5	eyn	D	אײן	AYN	_
+6	yedr	Q	יעדר	yedr	_
+7	mn	N	מן	mN	_
+8	suan	VB	סואַן	svAaN	_
+
+SENT	1697E-PURIM,P7.11
+1	un	CONJ	און	AvN	_
+2	zal	MDF	ז"ל	z"l	_
+3	oyf	P	אױף	AWF	_
+4	keyn	Q	קײן	kYN	_
+5	menshin	N	מענשין	men$yN	_
+6	boyan	VB	בױאַן	bWAaN	_
+
+SENT	1697E-PURIM,P8.13
+1	zundrin	CONJ	זונדרין	zvndryN	_
+2	zal	MDF	ז"ל	z"l	_
+3	habin	VB	האַבין	hAabyN	_
+4	oyf	P	אױף	AWF	_
+5	gat	NPR	גאַט	gAat	_
+6	den	D	דען	deN	_
+7	hern	N	הערן	herN	_
+8	zeyn	PRO$	זײן	zYN	_
+9	fr_troyan	N	פֿר_טרױאַן	fr_trWAaN	_
+10	un	CONJ	און	AvN	_
+11	fun	P	פֿון	fvN	_
+12	got	NPR	גאָט	gAot	_
+13	nikht	NEG	ניכט	nyxt	_
+14	fr_tsagin	VB	פֿר_צאַגין	fr_qAagyN	_
+
+SENT	1697E-PURIM,P9.15
+1	droyf	DR+P	דרױף	drWF	_
+2	velin	MDF	װעלין	VelyN	_
+3	mir	PRO	מיר	myr	_
+4	amn	INTJ	אַמן	AamN	_
+5	zagn	VB	זאַגן	zAagN	_
+
+SENT	1697E-PURIM,1.17
+1	glik	N	גליק	glyk	_
+2	tsu	RP	צו	qv	_
+3	glik	N	גליק	glyk	_
+4	tsu	RP	צו	qv	_
+5	es	PRO	עס	es	_
+6	mag	MDF	מאַג	mAag	_
+7	zeyn	VB	זײן	zYN	_
+8	hir	ADV	היר	hyr	_
+9	abr	CONJ	אַבר	Aabr	_
+10	ergnt	ADV	ערגנט	ergnt	_
+11	andrstvar	ADV	אַנדרסטװאַר	AandrstVAar	_
+12	hir_bey	ADV	היר_בײ	hyr_bY	_
+13	hir_bey	ADV	היר_בײ	hyr_bY	_
+
+SENT	1697E-PURIM,4.19
+1	ir	PRO	איר	Ayr	_
+2	erlikhh	ADJ	ערליכה	erlyxh	_
+3	herin	N	הערין	heryN	_
+4	vert	RDF	װערט	Vert	_
+5	shoyan	VB	שױאַן	$WAaN	_
+6	vas	Q	װאַס	VAas	_
+7	ney	ADJ	נײ	nY	_
+8	unt	CONJ	אונט	Avnt	_
+9	mer	ADJ	מער	mer	_
+10	vi	C	װי	Vy	_
+11	eyn	D	אײן	AYN	_
+12	kunig	N	קוניג	kvnyg	_
+13	vert	RDF	װערט	Vert	_
+14	kumin	VB	קומין	kvmyN	_
+15	eyn_her	ADV	אײנ_הער	AYn_her	_
+
+SENT	1697E-PURIM,7.21
+1	kunig	N	קוניג	kvnyg	_
+2	akhsvrs	NPR	אַכסװרס	AaxsVrs	_
+3	izt	BEF	איזט	Ayzt	_
+4	er	PRO	ער	er	_
+5	gnnt	VAN	גננט	gnnt	_
+
+SENT	1697E-PURIM,8.23
+1	hundrt_un_zibn_un_tsvantsig	NUM	הונדרט_ונ_זיבנ_ונ_צװאַנציג	hvndrt_vn_zybn_vn_qVAanqyg	_
+2	lendr	N	לענדר	lendr	_
+3	hat	VBF	האַט	hAat	_
+4	er	PRO	ער	er	_
+5	in	P	אין	AyN	_
+6	zeynr	PRO$	זײנר	zYnr	_
+7	hnt	N	הנט	hnt	_
+
+SENT	1697E-PURIM,9.25
+1	di	D	די	dy	_
+2	lendr	N	לענדר	lendr	_
+3	un	CONJ	און	AvN	_
+4	di	D	די	dy	_
+5	shtrasin	N	שטראַסין	$trAasyN	_
+6	das	D	דת	dS	_
+7	izt	VBF	איזט	Ayzt	_
+8	eyn	D	אײן	AYN	_
+9	tsil	N	ציל	qyl	_
+10	an	P	אַן	AaN	_
+11	masin	N	מאַסין	mAasyN	_
+
+SENT	1697E-PURIM,11.27
+1	dz	C	דז	dz	_
+2	er	PRO	ער	er	_
+3	di	D	די	dy	_
+4	lendr	N	לענדר	lendr	_
+5	hat	HVF	האַט	hAat	_
+6	tun	DON-IPP	טון	tvN	_
+7	btsvingn	VB	בצװינגן	bqVyngN	_
+8	das	D	דת	dS	_
+9	veys	VBF	װײס	VYs	_
+10	eyn	D	אײן	AYN	_
+11	yedr	Q	יעדר	yedr	_
+12	man	N	מאַן	mAaN	_
+13	der_fun	DR+P	דער_פֿון	der_fvN	_
+14	tsu	TO	צו	qv	_
+15	zagin	VB	זאַגין	zAagyN	_
+16	un	CONJ	און	AvN	_
+17	tsu	TO	צו	qv	_
+18	zingn	VB	זינגן	zyngN	_
+
+SENT	1697E-PURIM,14.29
+1	oykh	ADV	אױך	AWX	_
+2	hmn	NPR	המן	hmN	_
+3	un'	CONJ	אונ'	Avn'	_
+4	mrdkhi	NPR	מרדכי	mrdxy	_
+5	di	D	די	dy	_
+6	tsvey	NUM	צװײ	qVY	_
+7	ver	RDF	װער	Ver	_
+8	habin	VB	האַבין	hAabyN	_
+9	mit	P	מיט	myt	_
+10	nndr	PRO	ננדר	nndr	_
+11	eyn	D	אײן	AYN	_
+12	rmur	N	רמור	rmvr	_
+13	un	CONJ	און	AvN	_
+14	grus	ADJ	גרוס	grvs	_
+15	gshrey	N	גשרײ	g$rY	_
+
+SENT	1697E-PURIM,16.31
+1	un	CONJ	און	AvN	_
+2	verft	VBF	װערפֿט	Verft	_
+3	di	D	די	dy	_
+4	shtib	N	שטיב	$tyb	_
+5-6	tsum	P~D	צום	qvM	_
+5	tsu	P	צו	qv	_
+6	m	D	מ	m	_
+7	fentstr	N	פֿענצטר	fenqtr	_
+8	hroys	ADV	הרױס	hrWs	_
+9	di	D	די	dy	_
+10	tish	N	טיש	ty$	_
+11	oyf	P	אױף	AWF	_
+12	di	D	די	dy	_
+13	benk	N	בענק	benk	_
+14	,	PUNC	,	,	_
+15	di	D	די	dy	_
+16	benk	N	בענק	benk	_
+17	oyf	P	אױף	AWF	_
+18	di	D	די	dy	_
+19	shenk	N	שענק	$enk	_
+20	,	PUNC	,	,	_
+21	di	D	די	dy	_
+22	hun	N	הון	hvN	_
+23	untir	P	אונטיר	Avntyr	_
+24	den	D	דען	deN	_
+25	han	N	האַן	hAaN	_
+26	,	PUNC	,	,	_
+27	das	D	דת	dS	_
+28	veyb	N	װײב	VYb	_
+29	untir	P	אונטיר	Avntyr	_
+30	irn	PRO$	אירן	AyrN	_
+31	man	N	מאַן	mAaN	_
+32	,	PUNC	,	,	_
+33	di	D	די	dy	_
+34	meyd	N	מײד	mYd	_
+35	untir	P	אונטיר	Avntyr	_
+36	den	D	דען	deN	_
+37	knekht	N	קנעכט	knext	_
+
+SENT	1697E-PURIM,22.33
+1	alz_den	ADV	אַלז_דען	Aalz_deN	_
+2	gisiht	VBF	גיסיהט	gysyht	_
+3	ir	PRO	איר	Ayr	_
+4	rekht	N	רעכט	rext	_
+
+SENT	1697E-PURIM,25.35
+1	oykh	ADV	אױך	AWX	_
+2	izt	VBF	איזט	Ayzt	_
+3	das	D	דת	dS	_
+4	keyn	Q	קײן	kYN	_
+5	er	N	ער	er	_
+6	un	CONJ	און	AvN	_
+7	keyn	Q	קײן	kYN	_
+8	repudatsian	N	רעפּודאַציִאַן	repvdAaqyiAaN	_
+9	dz	C	דז	dz	_
+10	man	PRO	מאַן	mAaN	_
+11	den	D	דען	deN	_
+12	king	N	קינג	kyng	_
+13	lezt	VBF	לעזט	lezt	_
+14	lng	ADV	לנג	lng	_
+15	droysn	ADV	דרױסן	drWsN	_
+16	shtan	VB	שטאַן	$tAaN	_
+
+SENT	1697E-PURIM,25.36
+1	un	CONJ	און	AvN	_
+2	nut_vendig	ADV	נוט_װענדיג	nvt_Vendyg	_
+3	shnal	ADV	שנאַל	$nAal	_
+4	lazin	VB	לאַזין	lAazyN	_
+5	hreyn	ADV	הרײן	hrYN	_
+6	gan	VB	גאַן	gAaN	_
+
+SENT	1697E-PURIM,26.38
+1	drum	DR+P	דרום	drvM	_
+2	oykh	ADV	אױך	AWX	_
+3	hreyn	ADV	הרײן	hrYN	_
+4	hreyn	ADV	הרײן	hrYN	_
+5	ali	Q	אַלי	Aaly	_
+6	di	WPRO	די	dy	_
+7	drusin	ADV	דרוסין	drvsyN	_
+8	zeyn	VBF	זײן	zYN	_
+9	austragi	X	אַוסטראַגי	AavstrAagy	_
+10	austragi	X	אַוסטראַגי	AavstrAagy	_
+11	,	PUNC	,	,	_
+12	ali	Q	אַלי	Aaly	_
+13	yudi	N	יודי	yvdy	_
+14	li	H	לי	ly	to_me
+15	bagi	H	באַגי	bAagy	UNKNOWN
+16	,	PUNC	,	,	_
+17	ali	Q	אַלי	Aaly	_
+18	yudi	N	יודי	yvdy	_
+19	gas	N	גאַס	gAas	_
+20	,	PUNC	,	,	_
+21	alestr	X	אַלעסטר	Aalestr	_
+22	hmn	NPR	המן	hmN	_
+23	ams	X	אַמס	Aams	_
+
+SENT	1697E-PURIM,32.40
+1	her	NPR	הער	her	_
+2	bstsr	NPR	בסצר	bsqr	_
+3	hmn	NPR	המן	hmN	_
+4	bin	BEF	בין	byN	_
+5	ikh	PRO	איך	AyX	_
+6	gnnt	VAN	גננט	gnnt	_
+
+SENT	1697E-PURIM,33.42
+1	in	P	אין	AyN	_
+2	ali	Q	אַלי	Aaly	_
+3	bibrey	N	ביברײ	bybrY	_
+4	bin	VBF	בין	byN	_
+5	ikh	PRO	איך	AyX	_
+6	gar	ADV	גאַר	gAar	_
+7	val	ADV	װאַל	VAal	_
+8	bkant	ADJ	בקאַנט	bkAant	_
+
+SENT	1697E-PURIM,34.44
+1	shreybr	N	שרײבר	$rYbr	_
+2	mir	PRO	מיר	myr	_
+3	velin	MDF	װעלין	VelyN	_
+4	zingn	VB	זינגן	zyngN	_
+5	tishkhn	H	טישכן	ty$xN	UNKNOWN
+6	tenr	N	טענר	tenr	_
+7	un	CONJ	און	AvN	_
+8	bas	N	בת-	bS-	_
+
+SENT	1697E-PURIM,35.46
+1	di	D	די	dy	_
+2	shtubin	N	שטובין	$tvbyN	_
+3	zal	MDF	ז"ל	z"l	_
+4	klingn	VB	קלינגן	klyngN	_
+5	gleykh	ADV	גלײך	glYX	_
+6	fam	P	פֿאַם	fAaM	_
+7	eyn	D	אײן	AYN	_
+8	hul	ADJ	הול	hvl	_
+9	fas	N	פֿאַס	fAas	_
+
+SENT	1697E-PURIM,36.48
+1	hmn	NPR	המן	hmN	_
+2	tishkhn	H	טישכן	ty$xN	UNKNOWN
+3	tenir	N	טעניר	tenyr	_
+4	bas	N	בת-	bS-	_
+5	velin	MDF	װעלין	VelyN	_
+6	mir	PRO	מיר	myr	_
+7	zingn	VB	זינגן	zyngN	_
+8	az	C	אַז	Aaz	_
+9	ali	Q	אַלי	Aaly	_
+10	bekin	N	בעקין	bekyN	_
+11	velin	MDF	װעלין	VelyN	_
+12	klingn	VB	קלינגן	klyngN	_
+
+SENT	1697E-PURIM,38.50
+1	eyn	D	אײן	AYN	_
+2	glik_zelign	ADJ	גליק_זעליגן	glyk_zelygN	_
+3	abnt	N	אַבנט	Aabnt	_
+4	zal	MDF	ז"ל	z"l	_
+5	eykh	PRO	אײך	AYX	_
+6	gat	NPR	גאַט	gAat	_
+7	gebin	VB	געבין	gebyN	_
+8	un	CONJ	און	AvN	_
+9	eyn	D	אײן	AYN	_
+10	glik_zelig	ADJ	גליק_זעליג	glyk_zelyg	_
+11	iar	N	איאַר	AyAar	_
+12	der_nebin	ADV	דער_נעבין	der_nebyN	_
+
+SENT	1697E-PURIM,40.52
+1	ikh	PRO	איך	AyX	_
+2	vil	MDF	װיל	Vyl	_
+3	eykh	PRO	אײך	AYX	_
+4	zagin	VB	זאַגין	zAagyN	_
+5	meyn	PRO$	מײן	mYN	_
+6	bger	N	בגער	bger	_
+7	vas	WPRO$	װאַס	VAas	_
+8	urzakh	N	אורזאַך	AvrzAaX	_
+9	hlbir	N	הלביר	hlbyr	_
+10	ikh	PRO	איך	AyX	_
+11	bin	BEF	בין	byN	_
+12	kumin	VBN	קומין	kvmyN	_
+13	eyn_her	ADV	אײנ_הער	AYn_her	_
+
+SENT	1697E-PURIM,42.54
+1	den	CONJ	דען	deN	_
+2	di	D	די	dy	_
+3	blits_bshnitnh	ADJ	בליצ_בשניטנה	blyq_b$nytnh	_
+4	hebreyer	N	העברײער	hebrYer	_
+5	ken	MDF	קען	keN	_
+6	ikh	PRO	איך	AyX	_
+7	gar	ADV	גאַר	gAar	_
+8	nikht	NEG	ניכט	nyxt	_
+9	leydn	VB	לײדן	lYdN	_
+
+SENT	1697E-PURIM,44.56
+1	irn	PRO$	אירן	AyrN	_
+2	hlbir	N	הלביר	hlbyr	_
+3	muz	MDF	מוז	mvz	_
+4	ikh	PRO	איך	AyX	_
+5	di	D	די	dy	_
+6	velt	N	װעלט	Velt	_
+7	meydn	VB	מײדן	mYdN	_
+
+SENT	1697E-PURIM,45.58
+1	der	D	דער	der	_
+2	best	ADJS	בעסט	best	_
+3	fun	P	פֿון	fvN	_
+4	in	PRO	אין	AyN	_
+5	izt	VBF	איזט	Ayzt	_
+6	vert	ADJ	װערט	Vert	_
+7	tsu	TO	צו	qv	_
+8	rikhtn	VB	ריכטן	ryxtN	_
+9	mit	P	מיט	myt	_
+10	dem	D	דעם	deM	_
+11	blusin	ADJ	בלוסין	blvsyN	_
+12	shvert	N	שװערט	$Vert	_
+
+SENT	1697E-PURIM,47.60
+1	der_bey	DR+P	דער_בײ	der_bY	_
+2	ver	RDF	װער	Ver	_
+3	ikh	PRO	איך	AyX	_
+4	gar	ADV	גאַר	gAar	_
+5	val	ADV	װאַל	VAal	_
+6	bfindt	VAN	בפֿינדט	bfyndt	_
+
+SENT	1697E-PURIM,48.62
+1	drum	DR+P	דרום	drvM	_
+2	laz	VBI	לאַז	lAaz	_
+3	der	D	דער	der	_
+4	king	N	קינג	kyng	_
+5	hreyn	ADV	הרײן	hrYN	_
+6	gin	VB	גין	gyN	_
+7	gshvint	ADV	גשװינט	g$Vynt	_
+
+SENT	1697E-PURIM,49.64
+1	hreyn	ADV	הרײן	hrYN	_
+2	hreyn	ADV	הרײן	hrYN	_
+3	ali	Q	אַלי	Aaly	_
+4	di	WPRO	די	dy	_
+5	droysn	ADV	דרױסן	drWsN	_
+6	zeyn	VBF	זײן	zYN	_
+7	banus	FW	באַנוס	bAanvs	_
+8	dies	FW	דיִעס	dyies	_
+9	ir	PRO	איר	Ayr	_
+10	herin	N	הערין	heryN	_
+11	ali	Q	אַלי	Aaly	_
+12	tsu_gleykh	ADV	צו_גלײך	qv_glYX	_
+
+SENT	1697E-PURIM,52.66
+1	er	PRO	ער	er	_
+2	mag	MDF	מאַג	mAag	_
+3	zeyn	VB	זײן	zYN	_
+4	arm	ADJ	אַרם	AarM	_
+5	adr	CONJ	אַדר	Aadr	_
+6	reykh	ADJ	רײך	rYX	_
+7	grus	ADJ	גרוס	grvs	_
+8	unt	CONJ	אונט	Avnt	_
+9	kleyn	ADJ	קלײן	klYN	_
+10	,	PUNC	,	,	_
+11	oykh	ADV	אױך	AWX	_
+12	ali	Q	אַלי	Aaly	_
+13	gmeyn	ADJ	גמײן	gmYN	_
+
+SENT	1697E-PURIM,55.68
+1	ikh	PRO	איך	AyX	_
+2	vil	MDF	װיל	Vyl	_
+3	meynh	PRO$	מײנה	mYnh	_
+4	herin	N	הערין	heryN	_
+5	zagin	VB	זאַגין	zAagyN	_
+6	meyn	PRO$	מײן	mYN	_
+7	bger	N	בגער	bger	_
+8	nokh	P	נאָך	nAoX	_
+9	vas	WPRO	װאַס	VAas	_
+10	ikh	PRO	איך	AyX	_
+11	bin	BEF	בין	byN	_
+12	kumin	VBN	קומין	kvmyN	_
+13	eyn_her	ADV	אײנ_הער	AYn_her	_
+
+SENT	1697E-PURIM,57.70
+1	htukh	N	הטוך	htvX	_
+2	bin	BEF	בין	byN	_
+3	ikh	PRO	איך	AyX	_
+4	gnnt	VAN	גננט	gnnt	_
+
+SENT	1697E-PURIM,58.72
+1	bey	P	בײ	bY	_
+2	den	D	דען	deN	_
+3	king	N	קינג	kyng	_
+4	akhsvrs	NPR	אַכסװרס	AaxsVrs	_
+5	bin	VBF	בין	byN	_
+6	ikh	PRO	איך	AyX	_
+7	gar	ADV	גאַר	gAar	_
+8	val	ADV	װאַל	VAal	_
+9	bkant	ADJ	בקאַנט	bkAant	_
+
+SENT	1697E-PURIM,58.73
+1	drum	DR+P	דרום	drvM	_
+2	oykh	ADV	אױך	AWX	_
+3	oyf	P	אױף	AWF	_
+4	zeyt	N	זײט	zYt	_
+5	,	PUNC	,	,	_
+6	oyf	P	אױף	AWF	_
+7	zeyt	N	זײט	zYt	_
+8	ir	PRO	איר	Ayr	_
+9	libn	ADJ	ליבן	lybN	_
+10	leyt	N	לײט	lYt	_
+11	,	PUNC	,	,	_
+12	hreyn	ADV	הרײן	hrYN	_
+13	hreyn	ADV	הרײן	hrYN	_
+
+SENT	1697E-PURIM,62.75
+1	ali	Q	אַלי	Aaly	_
+2	di	WPRO	די	dy	_
+3	droysn	ADV	דרױסן	drWsN	_
+4	zeyn	VBF	זײן	zYN	_
+
+SENT	1697E-PURIM,63.77
+1	mir	PRO	מיר	myr	_
+2	tretin	VBF	טרעטין	tretyN	_
+3	hreyn	ADV	הרײן	hrYN	_
+4	gar	ADV	גאַר	gAar	_
+5	hips	ADV	היפּס	hyps	_
+6	unt	CONJ	אונט	Avnt	_
+7	gar	ADV	גאַר	gAar	_
+8	feyn	ADV	פֿײן	fYN	_
+
+SENT	1697E-PURIM,65.79
+1	mir	PRO	מיר	myr	_
+2	velin	MDF	װעלין	VelyN	_
+3	bey	P	בײ	bY	_
+4	den	D	דען	deN	_
+5	idln	ADJ	אידלן	AydlN	_
+6	kinig	N	קיניג	kynyg	_
+7	un	CONJ	און	AvN	_
+8	kingn	N	קינגן	kyngN	_
+9	dinr	N	דינר	dynr	_
+10	zeyn	VB	זײן	zYN	_
+
+SENT	1697E-PURIM,66.81
+1	idlr	ADJ	אידלר	Aydlr	_
+2	hukh_gibarnir	ADJ	הוכ_גיבאַרניר	hvx_gybAarnyr	_
+3	king	N	קינג	kyng	_
+4	meyn	PRO$	מײן	mYN	_
+5	in	P	אין	AyN	_
+6	der	D	דער	der	_
+7	gntsin	ADJ	גנצין	gnqyN	_
+8	velt	N	װעלט	Velt	_
+9	kan	MDF	ק"ן	k"N	_
+10	zeyn	PRO$	זײן	zYN	_
+11	gleykhn	N	גלײכן	glYxN	_
+12	nikht	NEG	ניכט	nyxt	_
+13	zeyn	VB	זײן	zYN	_
+
+SENT	1697E-PURIM,68.83
+1	mir	PRO	מיר	myr	_
+2	habin	HVF	האַבין	hAabyN	_
+3	in	P	אין	AyN	_
+4	eyn	D	אײן	AYN	_
+5	shtul	N	שטול	$tvl	_
+6	gshtelt	VBN	גשטעלט	g$telt	_
+
+SENT	1697E-PURIM,69.85
+1	er	PRO	ער	er	_
+2	zetsi	VBF	זעצי	zeqy	_
+3	zikh	PRO	זיך	zyX	_
+4	vau	WADV	װאַו	VAav	_
+5	es	PRO	עס	es	_
+6	in	PRO	אין	AyN	_
+7	gifelt	VBF	גיפֿעלט	gyfelt	_
+
+SENT	1697E-PURIM,70.87
+1	er	PRO	ער	er	_
+2	tret	VBF	טרעט	tret	_
+3	nur	ADV	נור	nvr	_
+4	veytr	ADVR	װײטר	VYtr	_
+5	hreyn	ADV	הרײן	hrYN	_
+
+SENT	1697E-PURIM,71.89
+1	alhir	ADV	אַלהיר	Aalhyr	_
+2	shtit	VBF	שטיט	$tyt	_
+3	hinr	N	הינר	hynr	_
+4	unt	CONJ	אונט	Avnt	_
+5	fish	N	פֿיש	fy$	_
+6	oykh	ADV	אױך	AWX	_
+7	spanishh	ADJ	ספּאַנישה	spAany$h	_
+8	veyn	N	װײן	VYN	_
+
+SENT	1697E-PURIM,72.91
+1	veyn	N	װײן	VYN	_
+2	un	CONJ	און	AvN	_
+3	fish	N	פֿיש	fy$	_
+4	shtit	VBF	שטיט	$tyt	_
+5	niks	Q	ניקס	nyks	_
+6	oyf	P	אױף	AWF	_
+7	den	D	דען	deN	_
+8	tish	N	טיש	ty$	_
+
+SENT	1697E-PURIM,74.93
+1	er	PRO	ער	er	_
+2	zey	VBF	זײ	zY	_
+3	vil_kumin	ADJ	װיל_קומין	Vyl_kvmyN	_
+4	hukh_gibarnir	ADJ	הוכ_גיבאַרניר	hvx_gybAarnyr	_
+5	king	N	קינג	kyng	_
+6	meyn	PRO$	מײן	mYN	_
+
+SENT	1697E-PURIM,75.95
+1	in	P	אין	AyN	_
+2	der	D	דער	der	_
+3	gantsi	ADJ	גאַנצי	gAanqy	_
+4	velt	N	װעלט	Velt	_
+5	izt	VBF	איזט	Ayzt	_
+6	zeyn	PRO$	זײן	zYN	_
+7	gleykhn	N	גלײכן	glYxN	_
+8	nikht	NEG	ניכט	nyxt	_
+9	tsu	TO	צו	qv	_
+10	feyn	VB	פֿײן	fYN	_
+
+SENT	1697E-PURIM,76.97
+1	hi_her	ADV	הי_הער	hy_her	_
+2	zetst	VBI	זעצט	zeqt	_
+3	eykh	PRO	אײך	AYX	_
+4	oyf	P	אױף	AWF	_
+5	den	D	דען	deN	_
+6	shtul	N	שטול	$tvl	_
+7	das	D	דת	dS	_
+8	kingreykh	N	קינגרײך	kyngrYX	_
+
+SENT	1697E-PURIM,78.99
+1	in	P	אין	AyN	_
+2	der	D	דער	der	_
+3	gantsi	ADJ	גאַנצי	gAanqy	_
+4	velt	N	װעלט	Velt	_
+5	findt	VBF	פֿינדט	fyndt	_
+6	man	PRO	מאַן	mAaN	_
+7	nit	NEG	ניט	nyt	_
+8	gleykh	ADJ	גלײך	glYX	_
+
+SENT	1697E-PURIM,80.101
+1	gat	NPR	גאַט	gAat	_
+2	gris	VBF	גריס	grys	_
+3	eykh	PRO	אײך	AYX	_
+4	ir	PRO	איר	Ayr	_
+5	herin	N	הערין	heryN	_
+6	froyan	N	פֿרױאַן	frWAaN	_
+7	unt	CONJ	אונט	Avnt	_
+8	manin	N	מאַנין	mAanyN	_
+9	und	CONJ	אונד	Avnd	_
+10	al	Q	אַל	Aal	_
+11	di	WPRO	די	dy	_
+12	hir	ADV	היר	hyr	_
+13	zind	VBF	זינד	zynd	_
+14	bey_zamn	ADV	בײ_זאַמן	bY_zAamN	_
+15	grus	ADJ	גרוס	grvs	_
+16	unt	CONJ	אונט	Avnt	_
+17	kleyn	ADJ	קלײן	klYN	_
+18	,	PUNC	,	,	_
+19	und	CONJ	אונד	Avnd	_
+20	ali	Q	אַלי	Aaly	_
+21	gmeyn	ADJ	גמײן	gmYN	_
+22	,	PUNC	,	,	_
+23	arm	ADJ	אַרם	AarM	_
+24	unt	CONJ	אונט	Avnt	_
+25	reykh	ADJ	רײך	rYX	_
+26	,	PUNC	,	,	_
+27	ali	Q	אַלי	Aaly	_
+28	tsu	P	צו	qv	_
+29	gleykh	ADV	גלײך	glYX	_
+
+SENT	1697E-PURIM,85.103
+1	ikh	PRO	איך	AyX	_
+2	vil	MDF	װיל	Vyl	_
+3	eykh	PRO	אײך	AYX	_
+4	zagin	VB	זאַגין	zAagyN	_
+5	mayn	PRO$	מײַן	mYaN	_
+6	bger	N	בגער	bger	_
+7	vau	WPRO	װאַו	VAav	_
+8	tsu	P	צו	qv	_
+9	ikh	PRO	איך	AyX	_
+10	bin	BEF	בין	byN	_
+11	kumin	VBN	קומין	kvmyN	_
+12	alher	ADV	אַלהער	Aalher	_
+
+SENT	1697E-PURIM,87.105
+1	king	N	קינג	kyng	_
+2	ahsurs	NPR	אַהסורס	Aahsvrs	_
+3	bin	BEF	בין	byN	_
+4	ikh	PRO	איך	AyX	_
+5	ginnt	VAN	גיננט	gynnt	_
+
+SENT	1697E-PURIM,88.107
+1	hundrt_un_zibn_un_tsvantsig	NUM	הונדרט_ונ_זיבנ_ונ_צװאַנציג	hvndrt_vn_zybn_vn_qVAanqyg	_
+2	lendr	N	לענדר	lendr	_
+3	hab	VBF	האַב	hAab	_
+4	ikh	PRO	איך	AyX	_
+5	in	P	אין	AyN	_
+6	meynr	PRO$	מײנר	mYnr	_
+7	hnt	N	הנט	hnt	_
+
+SENT	1697E-PURIM,89.109
+1	das	C	דת	dS	_
+2	ikh	PRO	איך	AyX	_
+3	dizh	D	דיזש	dyz$	_
+4	lendr	N	לענדר	lendr	_
+5	hab	HVF	האַב	hAab	_
+6	tun	DON-IPP	טון	tvN	_
+7	btsvingn	VB	בצװינגן	bqVyngN	_
+8	dafun	DR+P	דאַפֿון	dAafvN	_
+9	veys	VBF	װײס	VYs	_
+10	dakh	ADV	דאַך	dAaX	_
+11	eyn	D	אײן	AYN	_
+12	yedr	Q	יעדר	yedr	_
+13	tsu	TO	צו	qv	_
+14	zagin	VB	זאַגין	zAagyN	_
+15	un	CONJ	און	AvN	_
+16	tsu	TO	צו	qv	_
+17	zingn	VB	זינגן	zyngN	_
+
+SENT	1697E-PURIM,91.111
+1	ikh	PRO	איך	AyX	_
+2	hab	HVF	האַב	hAab	_
+3	oykh	ADV	אױך	AWX	_
+4	eyn_mal	ADV	אײנ_מאַל	AYn_mAal	_
+5	tseyt	N	צײט	qYt	_
+6	gimakht	VBN	גימאַכט	gymAaxt	_
+7	oyf	P	אױף	AWF	_
+8	grus	N	גרוס	grvs	_
+9	unt	CONJ	אונט	Avnt	_
+10	kleyn	N	קלײן	klYN	_
+11	unt	CONJ	אונט	Avnt	_
+12	ali	Q	אַלי	Aaly	_
+13	gmeyn	ADJ	גמײן	gmYN	_
+
+SENT	1697E-PURIM,93.113
+1	hebreyer	N	העברײער	hebrYer	_
+2	zeyn	BEF	זײן	zYN	_
+3	oykh	ADV	אױך	AWX	_
+4	da_zelbst	ADV	דאַ_זעלבסט	dAa_zelbst	_
+5	gzesin	VBN	גזעסין	gzesyN	_
+
+SENT	1697E-PURIM,94.115
+1	fun	P	פֿון	fvN	_
+2	undzrin	PRO$	אונדזרין	AvndzryN	_
+3	shpeyz	N	שפּײז	$pYz	_
+4	habin	HVF	האַבין	hAabyN	_
+5	zi	PRO	זי	zy	_
+6	nikht	NEG	ניכט	nyxt	_
+7	valin	MDN-IPP	װאַלין	VAalyN	_
+8	esin	VB	עסין	esyN	_
+
+SENT	1697E-PURIM,95.117
+1	abr	CONJ	אַבר	Aabr	_
+2	dakh	ADV	דאַך	dAaX	_
+3	habin	HVF	האַבין	hAabyN	_
+4	zi	PRO	זי	zy	_
+5	gtrunkin	VBN	גטרונקין	gtrvnkyN	_
+6	den	D	דען	deN	_
+7	veyn	N	װײן	VYN	_
+
+SENT	1697E-PURIM,96.119
+1	da_durkh	DR+P	דאַ_דורך	dAa_dvrX	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zi	PRO	זי	zy	_
+4	zikh	PRO	זיך	zyX	_
+5	gishft	VBN	גישפֿט	gy$ft	_
+6	bitrh	ADJ	ביטרה	bytrh	_
+7	peyn	N	פּײן	pYN	_
+
+SENT	1697E-PURIM,97.121
+1	vi	WADV	װי	Vy	_
+2	ikh	PRO	איך	AyX	_
+3	mikh	PRO	מיך	myX	_
+4	abr	ADV	אַבר	Aabr	_
+5	lustirte	VBF	לוסטירטע	lvstyrte	_
+6	in	P	אין	AyN	_
+7	den	D	דען	deN	_
+8	veyn	N	װײן	VYN	_
+9	bfal	VBF	בפֿאַל	bfAal	_
+10	ikh	PRO	איך	AyX	_
+11	men	PRO	מען	meN	_
+12	zalt	MDF	זאַלט	zAalt	_
+13	brengin	VB	ברענגין	brengyN	_
+14	di	D	די	dy	_
+15	kingn	N	קינגן	kyngN	_
+16	nkt	ADJ	נקט	nkt	_
+17	hreyn	ADV	הרײן	hrYN	_
+
+SENT	1697E-PURIM,99.123
+1	du	C	דו	dv	_
+2	zi	PRO	זי	zy	_
+3	hat	HVF	האַט	hAat	_
+4	ant_batin	VBN	אַנט_באַטין	Aant_bAatyN	_
+5	shpetse	ADJ	שפּעצע	$peqe	_
+6	vart	N	װאַרט	VAart	_
+7	zu_bld	ADV	זו_בלד	zv_bld	_
+8	bfal	VBF	בפֿאַל	bfAal	_
+9	ikh	PRO	איך	AyX	_
+10	zi	PRO	זי	zy	_
+11	zalt	MDF	זאַלט	zAalt	_
+12	verin	RD	װערין	VeryN	_
+13	der_mart	VAN	דער_מאַרט	der_mAart	_
+14	drum	DR+P	דרום	drvM	_
+15	oykh	ADV	אױך	AWX	_
+16	du	PRO	דו	dv	_
+17	gtreyar	ADJ	גטרײאַר	gtrYAar	_
+18	dinr	N	דינר	dynr	_
+19	mmukhn	H	ממוכן	mmvxN	UNKNOWN
+
+SENT	1697E-PURIM,102.125
+1	ikh	PRO	איך	AyX	_
+2	shaf	VBF	שאַף	$AaF	_
+3	dir	PRO	דיר	dyr	_
+4	du	PRO	דו	dv	_
+5	zalst	MDF	זאַלסט	zAalst	_
+6	mir	PRO	מיר	myr	_
+7	eyn	D	אײן	AYN	_
+8	hipsh	ADJ	היפּש	hyp$	_
+9	iung_fr	N	איונג_פֿר	Ayvng_fr	_
+10	zukhin	VB	זוכין	zvxyN	_
+11	di	WPRO	די	dy	_
+12	fil	Q	פֿיל	fyl	_
+13	hiphsr	ADJR	היפּהסר	hyphsr	_
+14	un	CONJ	און	AvN	_
+15	besr	ADJR	בעסר	besr	_
+16	alz	P	אַלז	Aalz	_
+17	usti	NPR	אוסטי	Avsty	_
+18	var	VBF	װאַר	VAar	_
+19	fun	P	פֿון	fvN	_
+20	idln	ADJ	אידלן	AydlN	_
+21	gshlekht	N	גשלעכט	g$lext	_
+22	gants	ADV	גאַנץ	gAanQ	_
+23	un	CONJ	און	AvN	_
+24	gar	ADV	גאַר	gAar	_
+
+SENT	1697E-PURIM,105.127
+1	vert	RDF	װערט	Vert	_
+2	zi	PRO	זי	zy	_
+3	mir	PRO	מיר	myr	_
+4	zeyn	VB	זײן	zYN	_
+5	ebin	ADJ	עבין	ebyN	_
+6	di	D	די	dy	_
+7	krun	N	קרון	krvN	_
+8	fun	P	פֿון	fvN	_
+9	meyn	PRO$	מײן	mYN	_
+10	heybt	N	הײבט	hYbt	_
+11	vil	MDF	װיל	Vyl	_
+12	ikh	PRO	איך	AyX	_
+13	ir	PRO	איר	Ayr	_
+14	gebin	VB	געבין	gebyN	_
+
+SENT	1697E-PURIM,107.129
+1	vert	RDF	װערט	Vert	_
+2	zi	PRO	זי	zy	_
+3	mir	PRO	מיר	myr	_
+4	zeyn	BE	זײן	zYN	_
+5	gifalin	VAG	גיפֿאַלין	gyfAalyN	_
+6	fr	P	פֿר	fr	_
+7	var	ADV	װאַר	VAar	_
+8	ikh	PRO	איך	AyX	_
+9	vil	MDF	װיל	Vyl	_
+10	zi	PRO	זי	zy	_
+11	erin	VB	ערין	eryN	_
+12	untir	P	אונטיר	Avntyr	_
+13	denn	D	דענן	denN	_
+14	yung_froyan	N	יונג_פֿרױאַן	yvng_frWAaN	_
+15	alin	Q	אַלין	AalyN	_
+
+SENT	1697E-PURIM,109.131
+1	shreybr	N	שרײבר	$rYbr	_
+2	da	ADV	דאַ	dAa	_
+3-4	hastu	VBF~PRO	האַסטו	hAastv	_
+3	has	VBF	האַס	hAas	_
+4	tu	PRO	טו	tv	_
+5	das	D	דת	dS	_
+6	fatsir	N	פֿאַציר	fAaqyr	_
+7	fun	P	פֿון	fvN	_
+8	des	D	דעס	des	_
+9	kings	N$	קינגס	kyngs	_
+10	zeyn	PRO$	זײן	zYN	_
+11	hnt	N	הנט	hnt	_
+12	tsu	TO	צו	qv	_
+13	fatsirn	VB	פֿאַצירן	fAaqyrN	_
+14	in	P	אין	AyN	_
+15	ali	Q	אַלי	Aaly	_
+16	lant	N	לאַנט	lAant	_
+
+SENT	1697E-PURIM,111.133
+1	du	PRO	דו	dv	_
+2	zalst	MDF	זאַלסט	zAalst	_
+3	oykh	ADV	אױך	AWX	_
+4	vakir	ADV	װאַקיר	VAakyr	_
+5	oys	RP	אױס	AWs	_
+6	shreyan	VB	שרײאַן	$rYAaN	_
+7	unt	CONJ	אונט	Avnt	_
+8	oys	RP	אױס	AWs	_
+9	rufin	VB	רופֿין	rvfyN	_
+10	men	PRO	מען	meN	_
+11	zal	MDF	ז"ל	z"l	_
+12	den	D	דען	deN	_
+13	king	N	קינג	kyng	_
+14	eyn	D	אײן	AYN	_
+15	hipshh	ADJ	היפּשה	hyp$h	_
+16	yung_fer	N	יונג_פֿער	yvng_fer	_
+17	zukhin	VB	זוכין	zvxyN	_
+18	di	WPRO	די	dy	_
+19	vil	Q	װיל	Vyl	_
+20	hipshr	ADJR	היפּשר	hyp$r	_
+21	unt	CONJ	אונט	Avnt	_
+22	besir	ADJR	בעסיר	besyr	_
+23	alz	P	אַלז	Aalz	_
+24	vsti	NPR	װסטי	Vsty	_
+25	ver	VBF	װער	Ver	_
+26	fun	P	פֿון	fvN	_
+27	idln	ADJ	אידלן	AydlN	_
+28	gshlekht	N	גשלעכט	g$lext	_
+29	gants	ADV	גאַנץ	gAanQ	_
+30	unt	CONJ	אונט	Avnt	_
+31	gar	ADV	גאַר	gAar	_
+
+SENT	1697E-PURIM,115.135
+1	vert	RDF	װערט	Vert	_
+2	zi	PRO	זי	zy	_
+3	im	PRO	אים	AyM	_
+4	zeyn	VB	זײן	zYN	_
+5	ebin	ADJ	עבין	ebyN	_
+6	di	D	די	dy	_
+7	krun	N	קרון	krvN	_
+8	fun	P	פֿון	fvN	_
+9	zeyn	PRO$	זײן	zYN	_
+10	heybt	N	הײבט	hYbt	_
+11	vet	MDF	װעט	Vet	_
+12	er	PRO	ער	er	_
+13	ir	PRO	איר	Ayr	_
+14	gebin	VB	געבין	gebyN	_
+
+SENT	1697E-PURIM,117.137
+1	vert	RDF	װערט	Vert	_
+2	zi	PRO	זי	zy	_
+3	im	PRO	אים	AyM	_
+4	val	ADV	װאַל	VAal	_
+5	gifalin	VB	גיפֿאַלין	gyfAalyN	_
+6	fr_var	INTJ	פֿר_װאַר	fr_VAar	_
+7	er	PRO	ער	er	_
+8	virt	RDF	װירט	Vyrt	_
+9	zi	PRO	זי	zy	_
+10	erin	VB	ערין	eryN	_
+11	untir	P	אונטיר	Avntyr	_
+12	denn	D	דענן	denN	_
+13	yung_froyan	N	יונג_פֿרױאַן	yvng_frWAaN	_
+14	alin	Q	אַלין	AalyN	_
+
+SENT	1697E-PURIM,119.139
+1	frid	N	פֿריד	fryd	_
+2	tsu	P	צו	qv	_
+3	eykh	PRO	אײך	AYX	_
+4	ir	PRO	איר	Ayr	_
+5	herin	N	הערין	heryN	_
+6	ferstn	N	פֿערסטן	ferstN	_
+7	un	CONJ	און	AvN	_
+8	gravin	N	גראַװין	grAaVyN	_
+9	prs	H	פּרס	prs	Persia
+10	nmdi	H	נמדי	nmdy	and_Media
+11	es	PRO	עס	es	_
+12	zeyn	VBF	זײן	zYN	_
+13	krist	N	קריסט	kryst	_
+14	adr	CONJ	אַדר	Aadr	_
+15	ihudi	N	איהודי	Ayhvdy	_
+
+SENT	1697E-PURIM,119.140
+1	da	ADV	דאַ	dAa	_
+2	hob	VBF	האָב	hAob	_
+3	ikh	PRO	איך	AyX	_
+4	das	D	דת	dS	_
+5	fatshir	N	פֿאַטשיר	fAat$yr	_
+6	fun	P	פֿון	fvN	_
+7	das	D	דת	dS	_
+8	kings	N$	קינגס	kyngs	_
+9	zeyn	PRO$	זײן	zYN	_
+10	hnt	N	הנט	hnt	_
+11	tsu	TO	צו	qv	_
+12	fatshirn	VB	פֿאַטשירן	fAat$yrN	_
+13	in	P	אין	AyN	_
+14	ali	Q	אַלי	Aaly	_
+15	lnd	N	לנד	lnd	_
+16	unt	CONJ	אונט	Avnt	_
+17	oys	RP	אױס	AWs	_
+18	shreyan	VB	שרײאַן	$rYAaN	_
+19	un	CONJ	און	AvN	_
+20	oys	RP	אױס	AWs	_
+21	rufin	VB	רופֿין	rvfyN	_
+
+SENT	1697E-PURIM,124.142
+1	men	PRO	מען	meN	_
+2	zal	MDF	ז"ל	z"l	_
+3	den	D	דען	deN	_
+4	king	N	קינג	kyng	_
+5	eyn	D	אײן	AYN	_
+6	hipsh	ADJ	היפּש	hyp$	_
+7	yung_fr	N	יונג_פֿר	yvng_fr	_
+8	zukhin	VB	זוכין	zvxyN	_
+9	fil	Q	פֿיל	fyl	_
+10	hipshr	ADJR	היפּשר	hyp$r	_
+11	un	CONJ	און	AvN	_
+12	besr	ADJR	בעסר	besr	_
+13	alz	P	אַלז	Aalz	_
+14	usti	NPR	אוסטי	Avsty	_
+15	var	VBF	װאַר	VAar	_
+16	fun	P	פֿון	fvN	_
+17	idln	ADJ	אידלן	AydlN	_
+18	gshlekht	N	גשלעכט	g$lext	_
+19	gnts	ADV	גנץ	gnQ	_
+20	unt	CONJ	אונט	Avnt	_
+21	gar	ADV	גאַר	gAar	_
+
+SENT	1697E-PURIM,127.144
+1	vert	RDF	װערט	Vert	_
+2	zi	PRO	זי	zy	_
+3	im	PRO	אים	AyM	_
+4	zeyn	VB	זײן	zYN	_
+5	ebin	ADJ	עבין	ebyN	_
+6	di	D	די	dy	_
+7	krun	N	קרון	krvN	_
+8	fun	P	פֿון	fvN	_
+9	zeyn	PRO$	זײן	zYN	_
+10	heybt	N	הײבט	hYbt	_
+11	vert	RDF	װערט	Vert	_
+12	er	PRO	ער	er	_
+13	ir	PRO	איר	Ayr	_
+14	gebn	VB	געבן	gebN	_
+
+SENT	1697E-PURIM,129.146
+1	virt	RDF	װירט	Vyrt	_
+2	zi	PRO	זי	zy	_
+3	im	PRO	אים	AyM	_
+4	val	ADV	װאַל	VAal	_
+5	giflin	VB	גיפֿלין	gyflyN	_
+6	erin	VB	ערין	eryN	_
+7	vert	RDF	װערט	Vert	_
+8	er	PRO	ער	er	_
+9	zi	PRO	זי	zy	_
+10	untr	P	אונטר	Avntr	_
+11	den	D	דען	deN	_
+12	hern	N	הערן	herN	_
+13	alin	Q	אַלין	AalyN	_
+
+SENT	1697E-PURIM,131.148
+1	alir_hukh_gibarnir	ADJ	אַליר_הוכ_גיבאַרניר	Aalyr_hvx_gybAarnyr	_
+2	king	N	קינג	kyng	_
+3	lebin	VB	לעבין	lebyN	_
+4	zalt	MDF	זאַלט	zAalt	_
+5	ir	PRO	איר	Ayr	_
+6	imr	ADV	אימר	Aymr	_
+7	un	CONJ	און	AvN	_
+8	ebig	ADV	עביג	ebyg	_
+
+SENT	1697E-PURIM,133.150
+1	ikh	PRO	איך	AyX	_
+2	hab	HVF	האַב	hAab	_
+3	herin	VBN-IPP	הערין	heryN	_
+4	us	RP	אוס	Avs	_
+5	shreyan	VB	שרײאַן	$rYAaN	_
+6	und	CONJ	אונד	Avnd	_
+7	oys	RP	אױס	AWs	_
+8	rufin	VB	רופֿין	rvfyN	_
+9	men	PRO	מען	meN	_
+10	zal	MDF	ז"ל	z"l	_
+11	den	D	דען	deN	_
+12	king	N	קינג	kyng	_
+13	eyn	D	אײן	AYN	_
+14	hipshh	ADJ	היפּשה	hyp$h	_
+15	yung_far	N	יונג_פֿאַר	yvng_fAar	_
+16	zukhin	VB	זוכין	zvxyN	_
+
+SENT	1697E-PURIM,135.152
+1	veyl	C	װײל	VYl	_
+2	ikh	PRO	איך	AyX	_
+3	hab	HVF	האַב	hAab	_
+4	abr	ADV	אַבר	Aabr	_
+5	dizs	D	דיזס	dyzs	_
+6	fr_numin	VBN	פֿר_נומין	fr_nvmyN	_
+7	bin	BEF	בין	byN	_
+8	ikh	PRO	איך	AyX	_
+9	mit	P	מיט	myt	_
+10	er_loybns	N	ער_לױבנס	er_lWbns	_
+11-12	tsum	P~D	צום	qvM	_
+11	tsu	P	צו	qv	_
+12	m	D	מ	m	_
+13	king	N	קינג	kyng	_
+14	hreyn	ADV	הרײן	hrYN	_
+15	gikumin	VBN	גיקומין	gykvmyN	_
+
+SENT	1697E-PURIM,137.154
+1	un	CONJ	און	AvN	_
+2	vil	MDF	װיל	Vyl	_
+3	in	PRO	אין	AyN	_
+4	eyn	D	אײן	AYN	_
+5	yung_fr	N	יונג_פֿר	yvng_fr	_
+6	oys	RP	אױס	AWs	_
+7	zukhin	VB	זוכין	zvxyN	_
+8	di	WPRO	די	dy	_
+9	in	PRO	אין	AyN	_
+10	nit	NEG	ניט	nyt	_
+11	virt	RDF	װירט	Vyrt	_
+12	sheltn	VB	שעלטן	$eltN	_
+13	nakh	CONJ	נ"ך	n"X	_
+14	flukhin	VB	פֿלוכין	flvxyN	_
+
+SENT	1697E-PURIM,139.156
+1	zundrin	CONJ	זונדרין	zvndryN	_
+2	zi	PRO	זי	zy	_
+3	virt	RDF	װירט	Vyrt	_
+4	tan	VB	טאַן	tAaN	_
+5	zeyn	PRO$	זײן	zYN	_
+6	viln	N	װילן	VylN	_
+7	bey	P	בײ	bY	_
+8	tag	N	תּג	Tg	_
+9	un	CONJ	און	AvN	_
+10	bey	P	בײ	bY	_
+11	nkht	N	נכט	nxt	_
+12	gleykh	ADV	גלײך	glYX	_
+13	vi	WADV	װי	Vy	_
+14	es	PRO	עס	es	_
+15	der	D	דער	der	_
+16	king	N	קינג	kyng	_
+17	gerin	ADV	גערין	geryN	_
+18	makht	VBF	מאַכט	mAaxt	_
+
+SENT	1697E-PURIM,141.158
+1	hmn	NPR	המן	hmN	_
+2	du	PRO	דו	dv	_
+3	zalst	MDF	זאַלסט	zAalst	_
+4	in	P	אין	AyN	_
+5	meyn	PRO$	מײן	mYN	_
+6	dinst	N	דינסט	dynst	_
+7	fr_bleybn	VB	פֿר_בלײבן	fr_blYbN	_
+
+SENT	1697E-PURIM,142.160
+1	ven	CONJ	װען	VeN	_
+2	du	PRO	דו	dv	_
+3	virst	RDF	װירסט	Vyrst	_
+4	dizh	D	דיזש	dyz$	_
+5	zakh	N	זאַך	zAaX	_
+6	treybn	VB	טרײבן	trYbN	_
+
+SENT	1697E-PURIM,143.162
+1	virst	RDF	װירסט	Vyrst	_
+2	dikh	PRO	דיך	dyX	_
+3	abr	ADV	אַבר	Aabr	_
+4	val	ADV	װאַל	VAal	_
+5	bir_zehn	VB	ביר_זעהן	byr_zehN	_
+6	oyf	P	אױף	AWF	_
+7	das	D	דת	dS	_
+8	besti	ADJS	בעסטי	besty	_
+9	dz	C	דז	dz	_
+10	es	PRO	עס	es	_
+11	kan	MDF	ק"ן	k"N	_
+12	gisehn	VB	גיסעהן	gysehN	_
+
+SENT	1697E-PURIM,145.164
+1	alir_hukh_gibarnir	ADJ	אַליר_הוכ_גיבאַרניר	Aalyr_hvx_gybAarnyr	_
+2	king	N	קינג	kyng	_
+3	in	P	אין	AyN	_
+4	dizn	D	דיזן	dyzN	_
+5	zeyn	PRO$	זײן	zYN	_
+6	dinstn	N	דינסטן	dynstN	_
+7	bin	BEF	בין	byN	_
+8	ikh	PRO	איך	AyX	_
+9	givezin	VBN	גיװעזין	gyVezyN	_
+10	gar	ADV	גאַר	gAar	_
+11	fleysg	ADJ	פֿלײסג	flYsg	_
+12	un	CONJ	און	AvN	_
+13	bgirg	ADJ	בגירג	bgyrg	_
+
+SENT	1697E-PURIM,147.166
+1	ikh	PRO	איך	AyX	_
+2	bin	BEF	בין	byN	_
+3	glafin	VBN	גלאַפֿין	glAafyN	_
+4	tag	N	תּג	Tg	_
+5	un	CONJ	און	AvN	_
+6	nkht	N	נכט	nxt	_
+7	biz	C	ביז	byz	_
+8	ikh	PRO	איך	AyX	_
+9	hab	HVF	האַב	hAab	_
+10	eynh	PRO	אײנה	AYnh	_
+11	tsu	P	צו	qv	_
+12	vegn	N	װעגן	VegN	_
+13	gibrakht	VBN	גיבראַכט	gybrAaxt	_
+
+SENT	1697E-PURIM,149.168
+1	mit	P	מיט	myt	_
+2	irn	PRO$	אירן	AyrN	_
+3	namin	N	נאַמין	nAamyN	_
+4	heyst	VBF	הײסט	hYst	_
+5	zi	PRO	זי	zy	_
+6	val	ADV	װאַל	VAal	_
+7	astr	NPR	אַסטר	Aastr	_
+
+SENT	1697E-PURIM,150.170
+1	abr	CONJ	אַבר	Aabr	_
+2	zi	PRO	זי	zy	_
+3	vil	MDF	װיל	Vyl	_
+4	nikht	NEG	ניכט	nyxt	_
+5	zagin	VB	זאַגין	zAagyN	_
+6	ver	WPRO	װער	Ver	_
+7	da	ADV	דאַ	dAa	_
+8	izt	VBF	איזט	Ayzt	_
+9	ir	PRO$	איר	Ayr	_
+10	brudr	N	ברודר	brvdr	_
+11	adr	CONJ	אַדר	Aadr	_
+12	ir	PRO$	איר	Ayr	_
+13	shvestr	N	שװעסטר	$Vestr	_
+
+SENT	1697E-PURIM,151.172
+1	der	D	דער	der	_
+2	tsu_namn	N	צו_נאַמן	qv_nAamN	_
+3	izt	VBF	איזט	Ayzt	_
+4	hdsh	N	הדש	hd$	_
+
+SENT	1697E-PURIM,151.173
+1	das	D	דת	dS	_
+2	izt	VBF	איזט	Ayzt	_
+3	alz	P	אַלז	Aalz	_
+4	vi	P	װי	Vy	_
+5	eyn	D	אײן	AYN	_
+6	salbin_blat	N	סאַלבינ_בלאַט	sAalbyn_blAat	_
+7	tut	DOF	טוט	tvt	_
+8	zi	PRO	זי	zy	_
+9	shmekn	VB	שמעקן	$mekN	_
+
+SENT	1697E-PURIM,152.175
+1	fr	P	פֿר	fr	_
+2	keyn	Q	קײן	kYN	_
+3	andrin	ADJ	אַנדרין	AandryN	_
+4	menshin	N	מענשין	men$yN	_
+5	tut	DOF	טוט	tvt	_
+6	zi	PRO	זי	zy	_
+7	ir	PRO$	איר	Ayr	_
+8	gizikht	N	גיזיכט	gyzyxt	_
+9	oyf	RP	אױף	AWF	_
+10	dekin	VB	דעקין	dekyN	_
+
+SENT	1697E-PURIM,153.177
+1	hin_gign	ADV	הינ_גיגן	hyn_gygN	_
+2	fr	P	פֿר	fr	_
+3	den	D	דען	deN	_
+4	king	N	קינג	kyng	_
+5	virt	RDF	װירט	Vyrt	_
+6	zi	PRO	זי	zy	_
+7	zikh	PRO	זיך	zyX	_
+8	val	ADV	װאַל	VAal	_
+9	ant_flekin	VB	אַנט_פֿלעקין	Aant_flekyN	_
+10	hir	ADV	היר	hyr	_
+11	dart	ADV	דאַרט	dAart	_
+12	vau	WADV	װאַו	VAav	_
+13	es	PRO	עס	es	_
+14	in	PRO	אין	AyN	_
+15	vert	RDF	װערט	Vert	_
+16	val	ADV	װאַל	VAal	_
+17	shmekin	VB	שמעקין	$mekyN	_
+
+SENT	1697E-PURIM,155.179
+1	ia	INTJ	איאַ	AyAa	_
+2	ia	INTJ	איאַ	AyAa	_
+3	ikh	PRO	איך	AyX	_
+4	velt	MDF	װעלט	Velt	_
+5	oykh	ADV	אױך	AWX	_
+6	gerin	ADV	גערין	geryN	_
+7	dran	DR+P	דראַן	drAaN	_
+8	lekin	VB	לעקין	lekyN	_
+
+SENT	1697E-PURIM,155.180
+1	frieh	X	פֿריִעה	fryieh	_
+2	frieh	X	פֿריִעה	fryieh	_
+3	tsvelf	NUM	צװעלף	qVelF	_
+4	un	CONJ	און	AvN	_
+5	neytsig	X	נײציג	nYqyg	_
+6	frient	X	פֿריִענט	fryient	_
+7	.	PUNC	.	.	_
+8	ibr	P	איבר	Aybr	_
+9	den	D	דען	deN	_
+10	shneydr	N	שנײדר	$nYdr	_
+11	ibr	P	איבר	Aybr	_
+12	den	D	דען	deN	_
+13	kesil_flikr	N	קעסיל_פֿליקר	kesyl_flykr	_
+14	.	PUNC	.	.	_
+15	ibr	P	איבר	Aybr	_
+16	den	D	דען	deN	_
+17	shtrimpf_shtrikr	N	שטרימפּפֿ_שטריקר	$trympf_$trykr	_
+18	.	PUNC	.	.	_
+19	ibr	P	איבר	Aybr	_
+20	den	D	דען	deN	_
+21	hebnr	N	העבנר	hebnr	_
+22	.	PUNC	.	.	_
+23	ibr	P	איבר	Aybr	_
+24	den	D	דען	deN	_
+25	moyarr	N	מױאַרר	mWAarr	_
+26	.	PUNC	.	.	_
+
+SENT	1697E-PURIM,158.182
+1	habin	HVF	האַבין	hAabyN	_
+2	meyn	PRO$	מײן	mYN	_
+3	froya	N	פֿרױאַ	frWAa	_
+4	meyn	VBF	מײן	mYN	_
+5	ikh	PRO	איך	AyX	_
+6	di	D	די	dy	_
+7	tir	N	טיר	tyr	_
+8	das	D	דת	dS	_
+9	lakh	N	לאַך	lAaX	_
+10	tsu	ADV	צו	qv	_
+11	eng	ADJ	ענג	eng	_
+12	gimakht	VBN	גימאַכט	gymAaxt	_
+
+SENT	1697E-PURIM,159.184
+1	vi	WADV	װי	Vy	_
+2	kum	VBF	קום	kvM	_
+3	hreyn	ADV	הרײן	hrYN	_
+
+SENT	1697E-PURIM,159.185
+1	furt	ADV	פֿורט	fvrt	_
+2	msh	NPR	מש	m$	_
+3	in	P	אין	AyN	_
+4	der	D	דער	der	_
+5	meyd	N	מײד	mYd	_
+6	meyn	VBF	מײן	mYN	_
+7	ikh	PRO	איך	AyX	_
+8	in	P	אין	AyN	_
+9	di	D	די	dy	_
+10	tir	N	טיר	tyr	_
+11	.	PUNC	.	.	_
+
+SENT	1697E-PURIM,159.186
+1	gi	VBF	גי	gy	_
+2	ikh	PRO	איך	AyX	_
+3	zu	ADV	זו	zv	_
+4	reyn	ADV	רײן	rYN	_
+
+SENT	1697E-PURIM,159.187
+1	er	PRO	ער	er	_
+2	izt	BEF	איזט	Ayzt	_
+3	mir	PRO	מיר	myr	_
+4	tsu	ADV	צו	qv	_
+5	karts	ADV	קאַרץ	kAarQ	_
+6-7	abgshnitn	RP~VAN	אַבגשניטן	Aabg$nytN	_
+6	ab	RP	אַב	Aab	_
+7	gshnitn	VAN	גשניטן	g$nytN	_
+
+SENT	1697E-PURIM,159.188
+1	gi	VBF	גי	gy	_
+2	ikh	PRO	איך	AyX	_
+3	dan	ADV	דאַן	dAaN	_
+4	zu	ADV	זו	zv	_
+5	reyn	ADV	רײן	rYN	_
+
+SENT	1697E-PURIM,159.189
+1	er	PRO	ער	er	_
+2	izt	VBF	איזט	Ayzt	_
+3	mir	PRO	מיר	myr	_
+4	tsu	ADV	צו	qv	_
+5	shmak	ADJ	שמאַק	$mAak	_
+6	shmak	ADJ	שמאַק	$mAak	_
+7	zal	MDF	ז"ל	z"l	_
+8	ikh	PRO	איך	AyX	_
+9	zagn	VB	זאַגן	zAagN	_
+10	shmal	ADJ	שמאַל	$mAal	_
+
+SENT	1697E-PURIM,159.190
+1	pumpil	X	פּומפּיל	pvmpyl	_
+2	lgfn	X	לגפֿן	lgfN	_
+3	vi	WADV	װי	Vy	_
+4	kum	VBF	קום	kvM	_
+5	ikh	PRO	איך	AyX	_
+6	den	ADV	דען	deN	_
+7	hreyn	ADV	הרײן	hrYN	_
+8	.	PUNC	.	.	_
+
+SENT	1697E-PURIM,159.191
+1	mrdkhi	NPR	מרדכי	mrdxy	_
+2	altr	ADJ	אַלטר	Aaltr	_
+3	nr	N	נר	nr	_
+4	di	D	די	dy	_
+5	naz	N	נאַז	nAaz	_
+6	nakh	P	נ"ך	n"X	_
+
+SENT	1697E-PURIM,159.192
+1	vau	WADV	װאַו	VAav	_
+2	varst	VBF	װאַרסט	VAarst	_
+3	den	ADV	דען	deN	_
+4	di	D	די	dy	_
+5	naz	N	נאַז	nAaz	_
+
+SENT	1697E-PURIM,163.194
+1	gi	VBI	גי	gy	_
+2	her	RP-ADV	הער	her	_
+
+SENT	1697E-PURIM,163.195
+1	laz	VBI	לאַז	lAaz	_
+2	dikh	PRO	דיך	dyX	_
+3	eyn	D	אײן	AYN	_
+4	ving	N	װינג	Vyng	_
+5	an	RP	אַן	AaN	_
+6	zeykhn	VB	זײכן	zYxN	_
+
+SENT	1697E-PURIM,163.196
+1	vau	WADV	װאַו	VAav	_
+2-3	bistu	VBF~PRO	ביסטו	bystv	_
+2	bis	VBF	ביס	bys	_
+3	tu	PRO	טו	tv	_
+4	htkh	H	הטך	htX	UNKNOWN
+5	,	PUNC	,	,	_
+
+SENT	1697E-PURIM,163.197
+1	lmh	H	למה	lmh	UNKNOWN
+2	nkra	H	נקראַ	nkrAa	UNKNOWN
+3	smu	H	סמו	smv	name_his
+4	htkh	H	הטך	htX	UNKNOWN
+5	,	PUNC	,	,	_
+6	dr	D	דר	dr	_
+7	anr	X	אַנר	Aanr	_
+8	zakh	N	זאַך	zAaX	_
+9	eyn	D	אײן	AYN	_
+10	gantsi	ADJ	גאַנצי	gAanqy	_
+11	vakh	N	װאַך	VAaX	_
+
+SENT	1697E-PURIM,163.198
+1	un	CONJ	און	AvN	_
+2	lek	VBI	לעק	lek	_
+3	mikh	PRO	מיך	myX	_
+4	in	P	אין	AyN	_
+5	arsh_lakh	N	אַרש_לאַך	Aar$_lAaX	_
+
+SENT	1697E-PURIM,163.199
+1	gut	ADJ	גוט	gvt	_
+2	purim	NPR	פּורים	pvryM	_
+3	nit	NEG	ניט	nyt	_
+4	kleyn	ADJ	קלײן	klYN	_
+5	puri'	NPR	פּורי'	pvry'	_
+6	nur	CONJ	נור	nvr	_
+7	grus	ADJ	גרוס	grvs	_
+8	purim	NPR	פּורים	pvryM	_
+9	lshnh	H	לשנה	l$nh	to_year
+10	tubh	H	טובה	tvbh	good
+11	tkhtbu	H	טכטבו	txtbv	below_UNKNOWN
+12	eyn	D	אײן	AYN	_
+13	shtinkdinr	ADJ	שטינקדינר	$tynkdynr	_
+14	bratin	N	בראַטין	brAatyN	_
+15	gub	N	גוב	gvb	_
+
+SENT	1697E-PURIM,163.200
+1	vau	WADV	װאַו	VAav	_
+2	vant	VBF	װאַנט	VAant	_
+3	der	D	דער	der	_
+4	khlb	N	כלב	xlb	_
+5	zal	MDF	ז"ל	z"l	_
+6	ikh	PRO	איך	AyX	_
+7	zagin	VB	זאַגין	zAagyN	_
+8	der	D	דער	der	_
+9	mlkh	N	מלך	mlX	_
+10	oyf	P	אױף	AWF	_
+11	den	D	דען	deN	_
+12	tish	N	טיש	ty$	_
+
+SENT	1697E-PURIM,171.202
+1	du	PRO	דו	dv	_
+2	zalst	MDF	זאַלסט	zAalst	_
+3	nit	NEG	ניט	nyt	_
+4	zeyn	VB	זײן	zYN	_
+5	frish	ADJ	פֿריש	fry$	_
+6	oyf	P	אױף	AWF	_
+7	der	D	דער	der	_
+8	bnk	N	בנק	bnk	_
+
+SENT	1697E-PURIM,173.204
+1	du	PRO	דו	dv	_
+2	zalst	MDF	זאַלסט	zAalst	_
+3	verin	VB	װערין	VeryN	_
+4-5	tsum	P~D	צום	qvM	_
+4	tsu	P	צו	qv	_
+5	m	D	מ	m	_
+6	tut	N	טוט	tvt	_
+7	krnk	ADJ	קרנק	krnk	_
+
+SENT	1697E-PURIM,174.206
+1	altr	ADJ	אַלטר	Aaltr	_
+2	nar	N	נאַר	nAar	_
+3	er	PRO	ער	er	_
+4	hat	VBF	האַט	hAat	_
+5	ki	X	קי	ky	_
+6	fal	X	פֿאַל	fAal	_
+
+SENT	1697E-PURIM,175.208
+1	zag	VBI	זאַג	zAag	_
+2	mir	PRO	מיר	myr	_
+3	dakh	ADV	דאַך	dAaX	_
+4	velkhis	WPRO	װעלכיס	Velxys	_
+5	izt	VBF	איזט	Ayzt	_
+6	der	D	דער	der	_
+7	mlkh	N	מלך	mlX	_
+
+SENT	1697E-PURIM,176.210
+1	das	D	דת	dS	_
+2	izt	VBF	איזט	Ayzt	_
+3	der	D	דער	der	_
+4	mlkh	N	מלך	mlX	_
+
+SENT	1697E-PURIM,177.212
+1	nu	ADV	נו	nv	_
+2	izt	VBF	איזט	Ayzt	_
+3	das	D	דת	dS	_
+4	der	D	דער	der	_
+5	mlkh	N	מלך	mlX	_
+6	muz	MDF	מוז	mvz	_
+7	das	D	דת	dS	_
+8	der	D	דער	der	_
+9	knekht	N	קנעכט	knext	_
+10	zeyn	VB	זײן	zYN	_
+
+SENT	1697E-PURIM,177.213
+1	nu	ADV	נו	nv	_
+2	zey	VBI	זײ	zY	_
+3	muhl	RP-H	מוהל	mvhl	_
+4	ab	P	אַב	Aab	_
+
+SENT	1697E-PURIM,177.214
+1	tsi	VBI	צי	qy	_
+2	mir	PRO	מיר	myr	_
+3	meyn	PRO$	מײן	mYN	_
+4	shtibl	N	שטיבל	$tybl	_
+5	oys	RP	אױס	AWs	_
+
+SENT	1697E-PURIM,179.216
+1	nr	CONJ	נר	nr	_
+2	das	D	דת	dS	_
+3	izt	VBF	איזט	Ayzt	_
+4	der	D	דער	der	_
+5	mlkh	N	מלך	mlX	_
+6	.	PUNC	.	.	_
+
+SENT	1697E-PURIM,179.217
+1	mlkh	N	מלך	mlX	_
+2	dir	PRO	דיר	dyr	_
+3	den	D	דען	deN	_
+4	shilk	N	שילק	$ylk	_
+5	mir	PRO	מיר	myr	_
+6	den	D	דען	deN	_
+7	apfil	N	אַפּפֿיל	Aapfyl	_
+8	dir	PRO	דיר	dyr	_
+9	den	D	דען	deN	_
+10	tsipl	N	ציפּל	qypl	_
+11	tsapil	N	צאַפּיל	qAapyl	_
+
+SENT	1697E-PURIM,182.219
+1	du	PRO	דו	dv	_
+2	verst	RDF	װערסט	Verst	_
+3	habin	VB	האַבין	hAabyN	_
+4	in	P	אין	AyN	_
+5	bet	N	בעט	bet	_
+6	mit	P	מיט	myt	_
+7	der	D	דער	der	_
+8	mlkhh	N	מלכה	mlxh	_
+9	eyn	D	אײן	AYN	_
+10	grus	ADJ	גרוס	grvs	_
+11	grapl	N	גראַפּל	grAapl	_
+
+SENT	1697E-PURIM,184.221
+1	mlkh	N	מלך	mlX	_
+2	lebin	N	לעבין	lebyN	_
+3	ikh	PRO	איך	AyX	_
+4	hab	HVF	האַב	hAab	_
+5	gihert	VBN	גיהערט	gyhert	_
+6	oys	RP	אױס	AWs	_
+7	rufin	VB	רופֿין	rvfyN	_
+8	men	PRO	מען	meN	_
+9	zal	MDF	ז"ל	z"l	_
+10	dir	PRO	דיר	dyr	_
+11	eyn	D	אײן	AYN	_
+12	hipshh	ADJ	היפּשה	hyp$h	_
+13	yungh_fur	N	יונגה_פֿור	yvngh_fvr	_
+14	meyn	VBF	מײן	mYN	_
+15	ikh	PRO	איך	AyX	_
+16	eyn	D	אײן	AYN	_
+17	yungh	ADJ	יונגה	yvngh	_
+18	hur	N	הור	hvr	_
+19	adr	CONJ	אַדר	Aadr	_
+20	zal	MDF	ז"ל	z"l	_
+21	ikh	PRO	איך	AyX	_
+22	zagin	VB	זאַגין	zAagyN	_
+23	yunfr	N	יונפֿר	yvnfr	_
+24	zukhin	VB	זוכין	zvxyN	_
+
+SENT	1697E-PURIM,185.223
+1	ikh	PRO	איך	AyX	_
+2	abr	ADV	אַבר	Aabr	_
+3	hab	HVF	האַב	hAab	_
+4	nit	NEG	ניט	nyt	_
+5	gruat	VBN	גרואַט	grvAat	_
+6	tag	N	תּג	Tg	_
+7	un	CONJ	און	AvN	_
+8	nkht	N	נכט	nxt	_
+
+SENT	1697E-PURIM,186.225
+1	unt	CONJ	אונט	Avnt	_
+2	habi	HVF	האַבי	hAaby	_
+3	eyn	D	אײן	AYN	_
+4	zoybrs	ADJ	זױברס	zWbrs	_
+5	meydlh	N	מײדלה	mYdlh	_
+6	gimakht	VBN	גימאַכט	gymAaxt	_
+7	zal	MDF	ז"ל	z"l	_
+8	ikh	PRO	איך	AyX	_
+9	zagin	VB	זאַגין	zAagyN	_
+10	giakht	VBN	גיִאַכט	gyiAaxt	_
+
+SENT	1697E-PURIM,188.227
+1	kanst	MDF	קאַנסט	kAanst	_
+2	val	ADV	װאַל	VAal	_
+3	denkin	VB	דענקין	denkyN	_
+4	ven	C	װען	VeN	_
+5	es	PRO	עס	es	_
+6	vas	Q	װאַס	VAas	_
+7	hips	ADJ	היפּס	hyps	_
+8	ver	VBF	װער	Ver	_
+9	zu	ADV	זו	zv	_
+10	valti	MDF	װאַלטי	VAalty	_
+11	ikh	PRO	איך	AyX	_
+12	s	PRO	ס	s	_
+13	fr	P	פֿר	fr	_
+14	mir	PRO	מיר	myr	_
+15	bhltin	VB	בהלטין	bhltyN	_
+
+SENT	1697E-PURIM,189.229
+1	ikh	PRO	איך	AyX	_
+2	vil	MDF	װיל	Vyl	_
+3	zi	PRO	זי	zy	_
+4	abr	ADV	אַבר	Aabr	_
+5	nit	NEG	ניט	nyt	_
+6	fil	Q	פֿיל	fyl	_
+7	loybn	VB	לױבן	lWbN	_
+
+SENT	1697E-PURIM,190.231
+1	zi	PRO	זי	zy	_
+2	izt	VBF	איזט	Ayzt	_
+3	foyl	ADJ	פֿױל	fWl	_
+4	fun	P	פֿון	fvN	_
+5	untin	ADV	אונטין	AvntyN	_
+6	biz	P	ביז	byz	_
+7	ubin	ADV	אובין	AvbyN	_
+
+SENT	1697E-PURIM,191.233
+1	bras	H	בראַס	brAas	in_head
+2	hat	VBF	האַט	hAat	_
+3	zi	PRO	זי	zy	_
+4	eyn	D	אײן	AYN	_
+5	gshtlt	N	גשטלט	g$tlt	_
+6	gleykh	ADJ	גלײך	glYX	_
+7	eyn	D	אײן	AYN	_
+8	fras	N	פֿראַס	frAas	_
+9	eyn	D	אײן	AYN	_
+10	naz	N	נאַז	nAaz	_
+11	alz	P	אַלז	Aalz	_
+12	eyn	D	אײן	AYN	_
+13	haz	N	האַז	hAaz	_
+14	eyn	D	אײן	AYN	_
+15	moyl	N	מױל	mWl	_
+16	alz	P	אַלז	Aalz	_
+17	eyn	D	אײן	AYN	_
+18	goyl	N	גױל	gWl	_
+19	eyn	D	אײן	AYN	_
+20	shtern	N	שטערן	$terN	_
+21	alz	P	אַלז	Aalz	_
+22	das	D	דת	dS	_
+23	hintr_gshtel	N	הינטר_גשטעל	hyntr_g$tel	_
+24	fun	P	פֿון	fvN	_
+25	eyn	D	אײן	AYN	_
+26	bern	N	בערן	berN	_
+27	arin	N	אַרין	AaryN	_
+28	alz	P	אַלז	Aalz	_
+29	eynh	D	אײנה	AYnh	_
+30	izl	N	איזל	Ayzl	_
+31	hintn	ADV	הינטן	hyntN	_
+32	unt	CONJ	אונט	Avnt	_
+33	farin	ADV	פֿאַרין	fAaryN	_
+34	eyn	D	אײן	AYN	_
+35	par	N	פּאַר	pAar	_
+36	ditn	N	דיטן	dytN	_
+
+SENT	1697E-PURIM,202.235
+1	ver	WPRO	װער	Ver	_
+2	da	ADV	דאַ	dAa	_
+3	vil	MDF	װיל	Vyl	_
+4	ken	MDF	קען	keN	_
+5	zi	PRO	זי	zy	_
+6	nittsn	VB	ניטצן	nytqN	_
+
+SENT	1697E-PURIM,203.237
+1	mlkh	N	מלך	mlX	_
+2	alzu	ADV	אַלזו	Aalzv	_
+3-4	zalstu	MDF~PRO	זאַלסטו	zAalstv	_
+3	zals	MDF	זאַלס	zAals	_
+4	tu	PRO	טו	tv	_
+5	lebin	VB	לעבין	lebyN	_
+
+SENT	1697E-PURIM,204.239
+1	du	PRO	דו	dv	_
+2	must	MDF	מוסט	mvst	_
+3	mir	PRO	מיר	myr	_
+4	shdkhnuh	H	שדכנוה	$dxnvh	UNKNOWN
+5	gelt	N	געלט	gelt	_
+6	gebin	VB	געבין	gebyN	_
+
+SENT	1697E-PURIM,205.241
+1	du	PRO	דו	dv	_
+2	verst	RDF	װערסט	Verst	_
+3	dakh	ADV	דאַך	dAaX	_
+4	kleynh	ADJ	קלײנה	klYnh	_
+5	freyd	N	פֿרײד	frYd	_
+6	an	P	אַן	AaN	_
+7	mir	PRO	מיר	myr	_
+8	der_lebin	VB	דער_לעבין	der_lebyN	_
+
+SENT	1697E-PURIM,206.243
+1	hmn	NPR	המן	hmN	_
+2	unt	CONJ	אונט	Avnt	_
+3	mrdkhi	NPR	מרדכי	mrdxy	_
+4	git	VBI	גיט	gyt	_
+5	mit	P	מיט	myt	_
+6	nndr	PRO	ננדר	nndr	_
+7	shptsirn	RP-V	שפּצירן	$pqyrN	_
+
+SENT	1697E-PURIM,207.245
+1	un	CONJ	און	AvN	_
+2	brengt	VBI	ברענגט	brengt	_
+3	mir	PRO	מיר	myr	_
+4	di	D	די	dy	_
+5	hipsh	ADJ	היפּש	hyp$	_
+6	yungfr	N	יונגפֿר	yvngfr	_
+7	tsu	TO	צו	qv	_
+8	firn	VB	פֿירן	fyrN	_
+
+SENT	1697E-PURIM,208.247
+1	gshvint	ADV	גשװינט	g$Vynt	_
+2	i	C	אי	Ay	_
+3	im	PRO	אים	AyM	_
+4	der	D	דער	der	_
+5	khsk	N	כסק	xsk	_
+6	fr_git	VBF	פֿר_גיט	fr_gyt	_
+7	vert	RDF	װערט	Vert	_
+8	ikh	PRO	איך	AyX	_
+9	gnbim	VB	גנבים	gnbyM	_
+
+SENT	1697E-PURIM,208.248
+1	ikh	PRO	איך	AyX	_
+2	hab	VBF	האַב	hAab	_
+3	den	D	דען	deN	_
+4	king	N	קינג	kyng	_
+5	eyn	D	אײן	AYN	_
+6	grus	ADJ	גרוס	grvs	_
+7	gheymns	N	גהײמנס	ghYmns	_
+8	tsu	TO	צו	qv	_
+9	zagin	VB	זאַגין	zAagyN	_
+
+SENT	1697E-PURIM,210.250
+1	zi	PRO	זי	zy	_
+2	vert	RDF	װערט	Vert	_
+3	zikh	PRO	זיך	zyX	_
+4	hintr	P	הינטר	hyntr	_
+5	zikh	PRO	זיך	zyX	_
+6	bitan	VB	ביטאַן	bytAaN	_
+
+SENT	1697E-PURIM,211.252
+1	du	PRO	דו	dv	_
+2	virst	RDF	װירסט	Vyrst	_
+3	nit	NEG	ניט	nyt	_
+4	kenin	MD	קענין	kenyN	_
+5	greyfn	VB	גרײפֿן	grYfN	_
+6	dran	DR+P	דראַן	drAaN	_
+
+SENT	1697E-PURIM,212.254
+1	alir_idl_hukh_gibarnir	ADJ	אַליר_ידל_הוכ_גיבאַרניר	Aalyr_ydl_hvx_gybAarnyr	_
+2	king	N	קינג	kyng	_
+3	di	D	די	dy	_
+4	yung_fr	N	יונג_פֿר	yvng_fr	_
+5	tu	DOF	טו	tv	_
+6	ikh	PRO	איך	AyX	_
+7	fr	P	פֿר	fr	_
+8	in	PRO	אין	AyN	_
+9	shtelin	VB	שטעלין	$telyN	_
+10	ub	C	אוב	Avb	_
+11	zi	PRO	זי	zy	_
+12	virt	RDF	װירט	Vyrt	_
+13	in	PRO	אין	AyN	_
+14	val	ADV	װאַל	VAal	_
+15	gifalin	VB	גיפֿאַלין	gyfAalyN	_
+
+SENT	1697E-PURIM,214.256
+1	di	D	די	dy	_
+2	yung_fr	N	יונג_פֿר	yvng_fr	_
+3	izt	VBF	איזט	Ayzt	_
+4	mir	PRO	מיר	myr	_
+5	ebin	ADJ	עבין	ebyN	_
+
+SENT	1697E-PURIM,215.258
+1	di	D	די	dy	_
+2	krun	N	קרון	krvN	_
+3	fun	P	פֿון	fvN	_
+4	meyn	PRO$	מײן	mYN	_
+5	heybt	N	הײבט	hYbt	_
+6	vil	MDF	װיל	Vyl	_
+7	ikh	PRO	איך	AyX	_
+8	ir	PRO	איר	Ayr	_
+9	gebin	VB	געבין	gebyN	_
+
+SENT	1697E-PURIM,216.260
+1	zi	PRO	זי	zy	_
+2	tut	DOF	טוט	tvt	_
+3	mir	PRO	מיר	myr	_
+4	gar	ADV	גאַר	gAar	_
+5	val	ADV	װאַל	VAal	_
+6	gflin	VB	גפֿלין	gflyN	_
+
+SENT	1697E-PURIM,217.262
+1	fr_var	INTJ	פֿר_װאַר	fr_VAar	_
+2	ikh	PRO	איך	AyX	_
+3	vil	MDF	װיל	Vyl	_
+4	zi	PRO	זי	zy	_
+5	erin	VB	ערין	eryN	_
+6	untir	P	אונטיר	Avntyr	_
+7	den	D	דען	deN	_
+8	yungfrn	N	יונגפֿרן	yvngfrN	_
+9	aln	Q	אַלן	AalN	_
+
+SENT	1697E-PURIM,218.264
+1	alir_idl_hukh_gibarnir	ADJ	אַליר_ידל_הוכ_גיבאַרניר	Aalyr_ydl_hvx_gybAarnyr	_
+2	king	N	קינג	kyng	_
+3	ikh	PRO	איך	AyX	_
+4	bin	VBF	בין	byN	_
+5	nikht	NEG	ניכט	nyxt	_
+6	vert	ADJ	װערט	Vert	_
+7	der	D	דער	der	_
+8	ehrin	N	עהרין	ehryN	_
+9	dz	C	דז	dz	_
+10	mikh	PRO	מיך	myX	_
+11	der	D	דער	der	_
+12	king	N	קינג	kyng	_
+13	zalt	MDF	זאַלט	zAalt	_
+14	tsu	P	צו	qv	_
+15	eyn	D	אײן	AYN	_
+16	yung_fr	N	יונג_פֿר	yvng_fr	_
+17	bigerin	VB	ביגערין	bygeryN	_
+
+SENT	1697E-PURIM,220.266
+1	den	CONJ	דען	deN	_
+2	der	D	דער	der	_
+3	king	N	קינג	kyng	_
+4	izt	VBF	איזט	Ayzt	_
+5	fun	P	פֿון	fvN	_
+6	hukhin	ADJ	הוכין	hvxyN	_
+7	gshlekht	N	גשלעכט	g$lext	_
+
+SENT	1697E-PURIM,221.268
+1	eyn	D	אײן	AYN	_
+2	armh	ADJ	אַרמה	Aarmh	_
+3	veyzn	N	װײזן	VYzN	_
+4	tsu	TO	צו	qv	_
+5	nemin	VB	נעמין	nemyN	_
+6	iz	VBF	איז	Ayz	_
+7	nit	NEG	ניט	nyt	_
+8	rekht	ADJ	רעכט	rext	_
+
+SENT	1697E-PURIM,222.270
+1	drum	DR+P	דרום	drvM	_
+2	bleyb	VBI	בלײב	blYb	_
+3	der	D	דער	der	_
+4	hukh_gibarni	ADJ	הוכ_גיבאַרני	hvx_gybAarny	_
+5	king	N	קינג	kyng	_
+6	bey	P	בײ	bY	_
+7	zeynr	PRO$	זײנר	zYnr	_
+8	erin	N	ערין	eryN	_
+
+SENT	1697E-PURIM,223.272
+1	un	CONJ	און	AvN	_
+2	mikh	PRO	מיך	myX	_
+3	nikht	NEG	ניכט	nyxt	_
+4	tsu	P	צו	qv	_
+5	eynr	D	אײנר	AYnr	_
+6	kingn	N	קינגן	kyngN	_
+7	bigerin	VB	ביגערין	bygeryN	_
+
+SENT	1697E-PURIM,224.274
+1	fr_var	INTJ	פֿר_װאַר	fr_VAar	_
+2	di	D	די	dy	_
+3	yungfr	N	יונגפֿר	yvngfr	_
+4	izt	VBF	איזט	Ayzt	_
+5	mir	PRO	מיר	myr	_
+6	ebin	ADJ	עבין	ebyN	_
+
+SENT	1697E-PURIM,225.276
+1	di	D	די	dy	_
+2	krun	N	קרון	krvN	_
+3	fun	P	פֿון	fvN	_
+4	meyn	PRO$	מײן	mYN	_
+5	heybt	N	הײבט	hYbt	_
+6	vil	MDF	װיל	Vyl	_
+7	ikh	PRO	איך	AyX	_
+8	ir	PRO	איר	Ayr	_
+9	gebin	VB	געבין	gebyN	_
+
+SENT	1697E-PURIM,226.278
+1	ir	PRO	איר	Ayr	_
+2	zast	VBF	זאַסט	zAast	_
+3	eykh	PRO	אײך	AYX	_
+
+SENT	1697E-PURIM,226.279
+1	ir	PRO	איר	Ayr	_
+2	zast	VBF	זאַסט	zAast	_
+3	eykh	PRO	אײך	AYX	_
+
+SENT	1697E-PURIM,226.280
+1	ali_idlh_hukh_gibarni	ADJ	אַלי_ידלה_הוכ_גיבאַרני	Aaly_ydlh_hvx_gybAarny	_
+2	kingn	N	קינגן	kyngN	_
+3	reykh	ADJ	רײך	rYX	_
+4	in	P	אין	AyN	_
+5	der	D	דער	der	_
+6	gantsh	ADJ	גאַנטש	gAant$	_
+7	velt	N	װעלט	Velt	_
+8	in	P	אין	AyN	_
+9	der	D	דער	der	_
+10	gantsi	ADJ	גאַנצי	gAanqy	_
+11	velt	N	װעלט	Velt	_
+12	findet	VBF	פֿינדעט	fyndet	_
+13	men	PRO	מען	meN	_
+14	irr	PRO	אירר	Ayrr	_
+15	nit	NEG	ניט	nyt	_
+16	gleykh	ADJ	גלײך	glYX	_
+
+SENT	1697E-PURIM,229.282
+1	mir	PRO	מיר	myr	_
+2	velin	MDF	װעלין	VelyN	_
+3	di	D	די	dy	_
+4	kingn	N	קינגן	kyngN	_
+5	bkrinn	VB	בקרינן	bkrynN	_
+
+SENT	1697E-PURIM,230.284
+1	mir	PRO	מיר	myr	_
+2	velin	MDF	װעלין	VelyN	_
+3	di	D	די	dy	_
+4	arsl_fishrn	N	אַרסל_פֿישרן	Aarsl_fy$rN	_
+5	bkrinn	VB	בקרינן	bkrynN	_
+
+SENT	1697E-PURIM,231.286
+1	der	D	דער	der	_
+2	libh	ADJ	ליבה	lybh	_
+3	gat	NPR	גאַט	gAat	_
+4	zal	MDF	ז"ל	z"l	_
+5	zi	PRO	זי	zy	_
+6	bshinn	VB	בשינן	b$ynN	_
+
+SENT	1697E-PURIM,232.288
+1	men	PRO	מען	meN	_
+2	zal	MDF	ז"ל	z"l	_
+3	ibr	P	איבר	Aybr	_
+4	ir	PRO	איר	Ayr	_
+5	veynn	VB	װײנן	VYnN	_
+
+SENT	1697E-PURIM,233.290
+1	astr	NPR	אַסטר	Aastr	_
+2	di	D	די	dy	_
+3	kingn	N	קינגן	kyngN	_
+4	izt	BEF	איזט	Ayzt	_
+5	zi	PRO	זי	zy	_
+6	ginnt	VAN	גיננט	gynnt	_
+
+SENT	1697E-PURIM,234.292
+1	hundrt_un_zibn_un_tsvantsig	NUM	הונדרט_ונ_זיבנ_ונ_צװאַנציג	hvndrt_vn_zybn_vn_qVAanqyg	_
+2	lendr	N	לענדר	lendr	_
+3	hat	VBF	האַט	hAat	_
+4	zi	PRO	זי	zy	_
+5	in	P	אין	AyN	_
+6	irh	PRO$	אירה	Ayrh	_
+7	hnt	N	הנט	hnt	_
+
+SENT	1697E-PURIM,235.294
+1	arshil_fishrn	NPR	אַרשיל_פֿישרן	Aar$yl_fy$rN	_
+2	izt	BEF	איזט	Ayzt	_
+3	zi	PRO	זי	zy	_
+4	gnnt	VAN	גננט	gnnt	_
+
+SENT	1697E-PURIM,236.296
+1	hundrt_un_zibn_un_tsvantsig	NUM	הונדרט_ונ_זיבנ_ונ_צװאַנציג	hvndrt_vn_zybn_vn_qVAanqyg	_
+2	fledr_visn	N	פֿלעדר_װיסן	fledr_VysN	_
+3	hat	VBF	האַט	hAat	_
+4	zi	PRO	זי	zy	_
+5	in	P	אין	AyN	_
+6	ir	PRO$	איר	Ayr	_
+7	hnt	N	הנט	hnt	_
+
+SENT	1697E-PURIM,237.298
+1	un	CONJ	און	AvN	_
+2	kert	VBF	קערט	kert	_
+3	oys	RP	אױס	AWs	_
+4	das	D	דת	dS	_
+5	gntsh	ADJ	גנטש	gnt$	_
+6	lnd	N	לנד	lnd	_
+
+SENT	1697E-PURIM,238.300
+1	glubt	VAN	גלובט	glvbt	_
+2	zey	BEF	זײ	zY	_
+3	gat	NPR	גאַט	gAat	_
+4	fri	ADV	פֿרי	fry	_
+5	un	CONJ	און	AvN	_
+6	shpat	ADV	שפּאַט	$pAat	_
+7	der	WPRO	דער	der	_
+8	uns	PRO	אונס	Avns	_
+9	dizh	D	דיזש	dyz$	_
+10	kingn	N	קינגן	kyngN	_
+11	gebn	VBN	געבן	gebN	_
+12	hat	HVF	האַט	hAat	_
+
+SENT	1697E-PURIM,241.302
+1	er	PRO	ער	er	_
+2	vali	MDF	װאַלי	VAaly	_
+3	ir	PRO	איר	Ayr	_
+4	fr_langin	VB	פֿר_לאַנגין	fr_lAangyN	_
+5	das	D	דת	dS	_
+6	langi	ADJ	לאַנגי	lAangy	_
+7	lebin	N	לעבין	lebyN	_
+
+SENT	1697E-PURIM,242.304
+1	nakh	P	נ"ך	n"X	_
+2	dem	D	דעם	deM	_
+3	az	C	אַז	Aaz	_
+4	es	PRO	עס	es	_
+5	izt	VBF	איזט	Ayzt	_
+6	ebn	ADJ	עבן	ebN	_
+7	das	D	דת	dS	_
+8	vali	MDF	װאַלי	VAaly	_
+9	er	PRO	ער	er	_
+10	ir	PRO	איר	Ayr	_
+11	gebin	VB	געבין	gebyN	_
+12	in	P	אין	AyN	_
+13	unzrin	PRO$	אונזרין	AvnzryN	_
+14	tagin	N	טאַגין	tAagyN	_
+
+SENT	1697E-PURIM,245.306
+1	droyf	DR+P	דרױף	drWF	_
+2	velin	MDF	װעלין	VelyN	_
+3	mir	PRO	מיר	myr	_
+4	amn	INTJ	אַמן	AamN	_
+5	zagin	VB	זאַגין	zAagyN	_
+
+SENT	1697E-PURIM,246.308
+1	mrdkhi	NPR	מרדכי	mrdxy	_
+2	das	D	דת	dS	_
+3	shenk	VBF	שענק	$enk	_
+4	ikh	PRO	איך	AyX	_
+5	dir	PRO	דיר	dyr	_
+
+SENT	1697E-PURIM,247.310
+1	du	PRO	דו	dv	_
+2	zalst	MDF	זאַלסט	zAalst	_
+3	zitsn	VB	זיצן	zyqN	_
+4	hintr	P	הינטר	hyntr	_
+5	meyn	PRO$	מײן	mYN	_
+6	pfurtin	N	פּפֿורטין	pfvrtyN	_
+7	un	CONJ	און	AvN	_
+8	tir	N	טיר	tyr	_
+
+SENT	1697E-PURIM,248.312
+1	un	CONJ	און	AvN	_
+2	zalst	MDF	זאַלסט	zAalst	_
+3	zu	ADV	זו	zv	_
+4	val	ADV	װאַל	VAal	_
+5	rikhtn	VB	ריכטן	ryxtN	_
+6	arm	ADJ	אַרם	AarM	_
+7	az	P	אַז	Aaz	_
+8	reykh	ADJ	רײך	rYX	_
+9	ali	Q	אַלי	Aaly	_
+10	gleykh	ADV	גלײך	glYX	_
+
+SENT	1697E-PURIM,250.314
+1	oykh	ADV	אױך	AWX	_
+2-3	zalstu	MDF~PRO	זאַלסטו	zAalstv	_
+2	zals	MDF	זאַלס	zAals	_
+3	tu	PRO	טו	tv	_
+4	oys	RP	אױס	AWs	_
+5	shprekhin	VB	שפּרעכין	$prexyN	_
+6	isur	H	איסור	Aysvr	prohibition
+7	rhtr	H	רהטר	rhtr	UNKNOWN
+8	in	P	אין	AyN	_
+9	der	D	דער	der	_
+10	gmra	N	גמראַ	gmrAa	_
+11	mskhtt	H	מסכטט	msxtt	UNKNOWN
+12	krtin	N	קרטין	krtyN	_
+13	mit	P	מיט	myt	_
+14	zeks_un_dreysig	NUM	זעקס_ונ_דרײסיג	zeks_vn_drYsyg	_
+15	bletir	N	בלעטיר	bletyr	_
+
+SENT	1697E-PURIM,252.316
+1	eyn	D	אײן	AYN	_
+2	grusin	ADJ	גרוסין	grvsyN	_
+3	danpf	N	דאַנפּף	dAanpF	_
+4	un	CONJ	און	AvN	_
+5	eyn	D	אײן	AYN	_
+6	kurtsir	ADJ	קורציר	kvrqyr	_
+7	ruh	N	רוה	rvh	_
+8	un	CONJ	און	AvN	_
+9	eyn	D	אײן	AYN	_
+10	langir	ADJ	לאַנגיר	lAangyr	_
+11	flukh	N	פֿלוך	flvX	_
+12	un	CONJ	און	AvN	_
+13	eyn	D	אײן	AYN	_
+14	alt	ADJ	אַלט	Aalt	_
+15	par	N	פּאַר	pAar	_
+16	pestlents	N	פּעסטלענץ	pestlenQ	_
+
+SENT	1697E-PURIM,252.317
+1	eyn	RP	אײן	AYN	_
+2	gmakht	VAN	גמאַכט	gmAaxt	_
+3	iz	BEF	איז	Ayz	_
+4	eyn	D	אײן	AYN	_
+5	shnipf_tukh	N	שניפּפֿ_טוך	$nypf_tvX	_
+
+SENT	1697E-PURIM,252.318
+1	das	D	דת	dS	_
+2	shenk	VBF	שענק	$enk	_
+3	ikh	PRO	איך	AyX	_
+4	dir	PRO	דיר	dyr	_
+5	fr	P	פֿר	fr	_
+6	eyn	D	אײן	AYN	_
+7	imr_mrk	N	אימר_מרק	Aymr_mrk	_
+8	zal	MDF	ז"ל	z"l	_
+9	ikh	PRO	איך	AyX	_
+10	zagin	VB	זאַגין	zAagyN	_
+11	iar_mark	N	איאַר_מאַרק	AyAar_mAark	_
+
+SENT	1697E-PURIM,257.320
+1	hmn	NPR	המן	hmN	_
+2	das	D	דת	dS	_
+3	shenk	VBF	שענק	$enk	_
+4	ikh	PRO	איך	AyX	_
+5	dir	PRO	דיר	dyr	_
+6	dz	C	דז	dz	_
+7	zikh	PRO	זיך	zyX	_
+8	eyn	D	אײן	AYN	_
+9	yedr	Q	יעדר	yedr	_
+10	zal	MDF	ז"ל	z"l	_
+11	neygn	VB	נײגן	nYgN	_
+12	un	CONJ	און	AvN	_
+13	bukin	VB	בוקין	bvkyN	_
+14	vr	P	װר	Vr	_
+15	dir	PRO	דיר	dyr	_
+
+SENT	1697E-PURIM,259.322
+1	da	ADV	דאַ	dAa	_
+2-3	hastu	VBF~PRO	האַסטו	hAastv	_
+2	has	VBF	האַס	hAas	_
+3	tu	PRO	טו	tv	_
+4	das	D	דת	dS	_
+5	fatsir	N	פֿאַציר	fAaqyr	_
+6	fun	P	פֿון	fvN	_
+7	meynr	PRO$	מײנר	mYnr	_
+8	hnt	N	הנט	hnt	_
+9	tsu	TO	צו	qv	_
+10	fatsirn	VB	פֿאַצירן	fAaqyrN	_
+11	in	P	אין	AyN	_
+12	ali	Q	אַלי	Aaly	_
+13	lnd	N	לנד	lnd	_
+
+SENT	1697E-PURIM,261.324
+1	un	CONJ	און	AvN	_
+2	zal	MDF	ז"ל	z"l	_
+3	vakir	ADV	װאַקיר	VAakyr	_
+4	un	X	און	AvN	_
+5	oys	RP	אױס	AWs	_
+6	rufin	VB	רופֿין	rvfyN	_
+7	tan	DO	טאַן	tAaN	_
+8	das	C	דת	dS	_
+9	zikh	PRO	זיך	zyX	_
+10	fr	P	פֿר	fr	_
+11	hmn	NPR	המן	hmN	_
+12	zal	MDF	ז"ל	z"l	_
+13	bukn	VB	בוקן	bvkN	_
+14	eyn	D	אײן	AYN	_
+15	yedr	Q	יעדר	yedr	_
+16	man	N	מאַן	mAaN	_
+
+SENT	1697E-PURIM,263.326
+1	ver	WPRO	װער	Ver	_
+2	zikh	PRO	זיך	zyX	_
+3	abr	ADV	אַבר	Aabr	_
+4	nit	NEG	ניט	nyt	_
+5	vert	RDF	װערט	Vert	_
+6	neygn	VB	נײגן	nYgN	_
+7	un	CONJ	און	AvN	_
+8	bukin	VB	בוקין	bvkyN	_
+9	den	D	דען	deN	_
+10	zal	MDF	ז"ל	z"l	_
+11	men	PRO	מען	meN	_
+12	eyn	RP	אײן	AYN	_
+13	shlagin	VB	שלאַגין	$lAagyN	_
+14	zeyn	PRO$	זײן	zYN	_
+15	shelmshin	ADJ	שעלמשין	$elm$yN	_
+16	rukin	N	רוקין	rvkyN	_
+
+SENT	1697E-PURIM,265.328
+1	shreyber	N	שרײבער	$rYber	_
+2	da	ADV	דאַ	dAa	_
+3-4	hastu	VBF~PRO	האַסטו	hAastv	_
+3	has	VBF	האַס	hAas	_
+4	tu	PRO	טו	tv	_
+5	das	D	דת	dS	_
+6	fatshir	N	פֿאַטשיר	fAat$yr	_
+7	fun	P	פֿון	fvN	_
+8	kings	N$	קינגס	kyngs	_
+9	zeyn	PRO$	זײן	zYN	_
+10	hnt	N	הנט	hnt	_
+11	tsu	TO	צו	qv	_
+12	fatshirn	VB	פֿאַטשירן	fAat$yrN	_
+13	in	P	אין	AyN	_
+14	gntsin	ADJ	גנצין	gnqyN	_
+15	land	N	לאַנד	lAand	_
+16	oykh	ADV	אױך	AWX	_
+17	oys	RP	אױס	AWs	_
+18	shreyan	VB	שרײאַן	$rYAaN	_
+19	unt	CONJ	אונט	Avnt	_
+20	oys	RP	אױס	AWs	_
+21	rufin	VB	רופֿין	rvfyN	_
+22	dz	C	דז	dz	_
+23	zikh	PRO	זיך	zyX	_
+24	eyn	D	אײן	AYN	_
+25	yedr	Q	יעדר	yedr	_
+26	zal	MDF	ז"ל	z"l	_
+27	fr	P	פֿר	fr	_
+28	mir	PRO	מיר	myr	_
+29	neygn	VB	נײגן	nYgN	_
+30	un	CONJ	און	AvN	_
+31	bukin	VB	בוקין	bvkyN	_
+
+SENT	1697E-PURIM,265.329
+1	ver	WPRO	װער	Ver	_
+2	es	PRO	עס	es	_
+3	abr	ADV	אַבר	Aabr	_
+4	nit	NEG	ניט	nyt	_
+5	tuht	VBF	טוהט	tvht	_
+6	den	D	דען	deN	_
+7	zal	MDF	ז"ל	z"l	_
+8	men	PRO	מען	meN	_
+9	eyn	RP	אײן	AYN	_
+10	shlagin	VB	שלאַגין	$lAagyN	_
+11	zeyn	PRO$	זײן	zYN	_
+12	shelmishn	ADJ	שעלמישן	$elmy$N	_
+13	rukin	N	רוקין	rvkyN	_
+
+SENT	1697E-PURIM,269.331
+1	frid	N	פֿריד	fryd	_
+2	tsu	P	צו	qv	_
+3	eykh	PRO	אײך	AYX	_
+4	ir	PRO	איר	Ayr	_
+5	hern	N	הערן	herN	_
+6	unt	CONJ	אונט	Avnt	_
+7	firstn	N	פֿירסטן	fyrstN	_
+8	frs	H	פֿרס	frs	Persia
+9	umdi	H	אומדי	Avmdy	and_Media
+10	es	PRO	עס	es	_
+11	zey	VBF	זײ	zY	_
+12	krist	N	קריסט	kryst	_
+13	udr	CONJ	אודר	Avdr	_
+14	ihudi	N	איהודי	Ayhvdy	_
+15	unt	CONJ	אונט	Avnt	_
+16	oykh	ADV	אױך	AWX	_
+17	ali	Q	אַלי	Aaly	_
+18	king_reykh	N	קינג_רײך	kyng_rYX	_
+19	der_bey	DR+P	דער_בײ	der_bY	_
+
+SENT	1697E-PURIM,275.333
+1	hir	ADV	היר	hyr	_
+2	hab	VBF	האַב	hAab	_
+3	ikh	PRO	איך	AyX	_
+4	das	D	דת	dS	_
+5	fatshir	N	פֿאַטשיר	fAat$yr	_
+6	fun	P	פֿון	fvN	_
+7	des	D	דעס	des	_
+8	kings	N$	קינגס	kyngs	_
+9	zeyn	PRO$	זײן	zYN	_
+10	hnt	N	הנט	hnt	_
+11	tsu	TO	צו	qv	_
+12	fatshirn	VB	פֿאַטשירן	fAat$yrN	_
+13	in	P	אין	AyN	_
+14	ali	Q	אַלי	Aaly	_
+15	land	N	לאַנד	lAand	_
+
+SENT	1697E-PURIM,277.335
+1	un	CONJ	און	AvN	_
+2	zal	MDF	ז"ל	z"l	_
+3	vakir	ADV	װאַקיר	VAakyr	_
+4	oys	RP	אױס	AWs	_
+5	shreyan	VB	שרײאַן	$rYAaN	_
+6	unt	CONJ	אונט	Avnt	_
+7	oys	RP	אױס	AWs	_
+8	rufin	VB	רופֿין	rvfyN	_
+9	tan	DO	טאַן	tAaN	_
+10	das	C	דת	dS	_
+11	zikh	PRO	זיך	zyX	_
+12	fr	P	פֿר	fr	_
+13	hmn	NPR	המן	hmN	_
+14	zal	MDF	ז"ל	z"l	_
+15	bukin	VB	בוקין	bvkyN	_
+16	yedr	Q	יעדר	yedr	_
+17	man	N	מאַן	mAaN	_
+
+SENT	1697E-PURIM,279.337
+1	ver	WPRO	װער	Ver	_
+2	zikh	PRO	זיך	zyX	_
+3	abr	ADV	אַבר	Aabr	_
+4	nit	NEG	ניט	nyt	_
+5	vert	RDF	װערט	Vert	_
+6	neygn	VB	נײגן	nYgN	_
+7	un	CONJ	און	AvN	_
+8	bukin	VB	בוקין	bvkyN	_
+9	den	D	דען	deN	_
+10	vert	RDF	װערט	Vert	_
+11	man	PRO	מאַן	mAaN	_
+12	eyn	RP	אײן	AYN	_
+13	shlagin	VB	שלאַגין	$lAagyN	_
+14	zeyn	PRO$	זײן	zYN	_
+15	shelmin_rukin	N	שעלמינ_רוקין	$elmyn_rvkyN	_
+
+SENT	1697E-PURIM,281.339
+1	shlag	VBI	שלאַג	$lAag	_
+2	mir	PRO	מיר	myr	_
+3	den	D	דען	deN	_
+4	marsh	N	מאַרש	mAar$	_
+
+SENT	1697E-PURIM,282.341
+1	bukt	VBI	בוקט	bvkt	_
+2	eykh	PRO	אײך	AYX	_
+
+SENT	1697E-PURIM,282.342
+1	bukt	VBI	בוקט	bvkt	_
+2	eykh	PRO	אײך	AYX	_
+
+SENT	1697E-PURIM,283.344
+1	mrdkhi	NPR	מרדכי	mrdxy	_
+2	du	PRO	דו	dv	_
+3	altir	ADJ	אַלטיר	Aaltyr	_
+4	nr	N	נר	nr	_
+5	buk	VBI	בוק	bvk	_
+6	dikh	PRO	דיך	dyX	_
+
+SENT	1697E-PURIM,284.346
+1	ikh	PRO	איך	AyX	_
+2	shlaf	VBF	שלאַף	$lAaF	_
+
+SENT	1697E-PURIM,285.348
+1	bukt	VBI	בוקט	bvkt	_
+2	dikh	PRO	דיך	dyX	_
+3	du	PRO	דו	dv	_
+4	altir	ADJ	אַלטיר	Aaltyr	_
+5	nr	N	נר	nr	_
+
+SENT	1697E-PURIM,286.350
+1	ikh	PRO	איך	AyX	_
+2	bin	VBF	בין	byN	_
+3	nit	NEG	ניט	nyt	_
+4	tsu	P	צו	qv	_
+5	hoyz	N	הױז	hWz	_
+
+SENT	1697E-PURIM,287.352
+1	buk	VBI	בוק	bvk	_
+2	dikh	PRO	דיך	dyX	_
+3	altir	ADJ	אַלטיר	Aaltyr	_
+4	nr	N	נר	nr	_
+5	zag	VBF	זאַג	zAag	_
+6	ikh	PRO	איך	AyX	_
+7	dir	PRO	דיר	dyr	_
+
+SENT	1697E-PURIM,288.354
+1	du	PRO	דו	dv	_
+2	drfst	MDF	דרפֿסט	drfst	_
+3	azu	ADV	אַזו	Aazv	_
+4	reyn	ADV	רײן	rYN	_
+5	gin	VB	גין	gyN	_
+6	nit	NEG	ניט	nyt	_
+7	bukin	VB	בוקין	bvkyN	_
+
+SENT	1697E-PURIM,289.356
+1	di	D	די	dy	_
+2	hintr_tir	N	הינטר_טיר	hyntr_tyr	_
+3	shtit	VBF	שטיט	$tyt	_
+4	shper_veyt_ofin	ADJ	שפּער_װײט_אָפֿין	$per_VYt_AofyN	_
+
+SENT	1697E-PURIM,290.358
+1	mrdkhi	NPR	מרדכי	mrdxy	_
+2-3	verstu	RDF~PRO	װערסטו	Verstv	_
+2	vers	RDF	װערס	Vers	_
+3	tu	PRO	טו	tv	_
+4	dikh	PRO	דיך	dyX	_
+5	nit	NEG	ניט	nyt	_
+6	bukin	VB	בוקין	bvkyN	_
+7	fr_var	INTJ	פֿר_װאַר	fr_VAar	_
+8	ikh	PRO	איך	AyX	_
+9	shlag	VBF	שלאַג	$lAag	_
+10	dr	PRO	דר	dr	_
+11	eyn	RP	אײן	AYN	_
+12	deyn	PRO$	דײן	dYN	_
+13	shelmishn	ADJ	שעלמישן	$elmy$N	_
+14	rukin	N	רוקין	rvkyN	_
+
+SENT	1697E-PURIM,291.360
+1	avi	H	אַװי	AaVy	father_my
+2	avi	H	אַװי	AaVy	father_my
+3	vi	WADV	װי	Vy	_
+4	zal	MDF	ז"ל	z"l	_
+5	ikh	PRO	איך	AyX	_
+6	mir	PRO	מיר	myr	_
+7	fr	P	פֿר	fr	_
+8	dir	PRO	דיר	dyr	_
+9	neygn	VB	נײגן	nYgN	_
+10	unt	CONJ	אונט	Avnt	_
+11	bukin	VB	בוקין	bvkyN	_
+
+SENT	1697E-PURIM,293.362
+1	du	PRO	דו	dv	_
+2	hast	VBF	האַסט	hAast	_
+3	eyn	D	אײן	AYN	_
+4	kreyts	N	קרײץ	krYQ	_
+5	oyf	P	אױף	AWF	_
+6	deyn	PRO$	דײן	dYN	_
+7	rukin	N	רוקין	rvkyN	_
+
+SENT	1697E-PURIM,294.364
+1	hintn	ADV	הינטן	hyntN	_
+2	muz	MDF	מוז	mvz	_
+3	tu	PRO	טו	tv	_
+4	mir	PRO	מיר	myr	_
+5	geyn	VB	גײן	gYN	_
+6	kukin	VB	קוקין	kvkyN	_
+
+SENT	1697E-PURIM,295.366
+1	un	CONJ	און	AvN	_
+2	oykh	ADV	אױך	AWX	_
+3	izt	VBF	איזט	Ayzt	_
+4	nit	NEG	ניט	nyt	_
+5	rekht	ADJ	רעכט	rext	_
+6	dz	C	דז	dz	_
+7	zikh	PRO	זיך	zyX	_
+8	der	D	דער	der	_
+9	her	N	הער	her	_
+10	zal	MDF	ז"ל	z"l	_
+11	bukin	VB	בוקין	bvkyN	_
+12	fir	P	פֿיר	fyr	_
+13	zeyn	PRO$	זײן	zYN	_
+14	knekht	N	קנעכט	knext	_
+
+SENT	1697E-PURIM,297.368
+1	du	PRO	דו	dv	_
+2	dib	N	דיב	dyb	_
+3	der	D	דער	der	_
+4	her	N	הער	her	_
+5	zal	MDF	ז"ל	z"l	_
+6	bukin	VB	בוקין	bvkyN	_
+7	fir	P	פֿיר	fyr	_
+8	zeyn	PRO$	זײן	zYN	_
+9	knekht	N	קנעכט	knext	_
+10	du	C	דו	dv	_
+11	du	PRO	דו	dv	_
+12	hast	HVF	האַסט	hAast	_
+13	dikh	PRO	דיך	dyX	_
+14	tsu	P	צו	qv	_
+15	mir	PRO	מיר	myr	_
+16	fr_koyft	VBN	פֿר_קױפֿט	fr_kWft	_
+17	um	P	אום	AvM	_
+18	eyn	D	אײן	AYN	_
+19	shtik	N	שטיק	$tyk	_
+20	brut	N	ברוט	brvt	_
+
+SENT	1697E-PURIM,299.370
+1	ikh	PRO	איך	AyX	_
+2	velt	MDF	װעלט	Velt	_
+3	dir	PRO	דיר	dyr	_
+4	gerin	ADV	גערין	geryN	_
+5	den	D	דען	deN	_
+6	koyf_brif	N	קױפֿ_בריף	kWf_bryF	_
+7	veyzn	VB	װײזן	VYzN	_
+
+SENT	1697E-PURIM,300.372
+1	er	PRO	ער	er	_
+2	shtekt	VBF	שטעקט	$tekt	_
+3	mir	PRO	מיר	myr	_
+4	in	P	אין	AyN	_
+5	altin	ADJ	אַלטין	AaltyN	_
+6	tendil_mark	N	טענדיל_מאַרק	tendyl_mAark	_
+7	az	P	אַז	Aaz	_
+8	eyn	D	אײן	AYN	_
+9	eyzn	N	אײזן	AYzN	_
+
+SENT	1697E-PURIM,301.374
+1	vilt	MDF	װילט	Vylt	_
+2	du	PRO	דו	dv	_
+3	dikh	PRO	דיך	dyX	_
+4	abr	ADV	אַבר	Aabr	_
+5	bmian	VB	במיִאַן	bmyiAaN	_
+6-7	kenstu	MDF~PRO	קענסטו	kenstv	_
+6	kens	MDF	קענס	kens	_
+7	tu	PRO	טו	tv	_
+8	in	PRO	אין	AyN	_
+9	mit	P	מיט	myt	_
+10	di	D	די	dy	_
+11	tsehn	N	צעהן	qehN	_
+12	oys	P	אױס	AWs	_
+13	den	D	דען	deN	_
+14	hintr_leyb	N	הינטר_לײב	hyntr_lYb	_
+15	hroys	ADV	הרױס	hrWs	_
+16	tsihn	VB	ציהן	qyhN	_
+
+SENT	1697E-PURIM,303.376
+1	mrdkhi	NPR	מרדכי	mrdxy	_
+2	du	ADV	דו	dv	_
+3	shver	VBF	שװער	$Ver	_
+4	ikh	PRO	איך	AyX	_
+5	dir	PRO	דיר	dyr	_
+6	eyn	D	אײן	AYN	_
+7	eyd	N	עד	ed	_
+
+SENT	1697E-PURIM,304.378
+1	di	D	די	dy	_
+2	blits_garstigh	ADJ	בליצ_גאַרסטיגה	blyq_gAarstygh	_
+3	rid	N	ריד	ryd	_
+4	zalin	MDF	זאַלין	zAalyN	_
+5	dir	PRO	דיר	dyr	_
+6	verin	VB	װערין	VeryN	_
+7	leyd	ADJ	לײד	lYd	_
+
+SENT	1697E-PURIM,305.380
+1	tsu	P	צו	qv	_
+2	meyn	PRO$	מײן	mYN	_
+3	idln	ADJ	אידלן	AydlN	_
+4	king	N	קינג	kyng	_
+5	vil	MDF	װיל	Vyl	_
+6	ikh	PRO	איך	AyX	_
+7	zeyn	VB	זײן	zYN	_
+8	breyt	ADJ	ברײט	brYt	_
+
+SENT	1697E-PURIM,306.382
+1	tsehn_toyznt	NUM	צעהנ_טױזנט	qehn_tWznt	_
+2	tsentr	N	צענטר	qentr	_
+3	zilbr	N	זילבר	zylbr	_
+4	vil	MDF	װיל	Vyl	_
+5	ikh	PRO	איך	AyX	_
+6	gebin	VB	געבין	gebyN	_
+7	fr	P	פֿר	fr	_
+8	deyn	PRO$	דײן	dYN	_
+9	shelmn_lebin	N	שעלמנ_לעבין	$elmn_lebyN	_
+
+SENT	1697E-PURIM,308.384
+1	zikh	VBI	זיך	zyX	_
+2	vi	WADV	װי	Vy	_
+3	er	PRO	ער	er	_
+4	zikh	PRO	זיך	zyX	_
+5	zu	ADV	זו	zv	_
+6	grus	ADJ	גרוס	grvs	_
+7	makht	VBF	מאַכט	mAaxt	_
+
+SENT	1697E-PURIM,308.385
+1-2	hestu	VBF~PRO	העסטו	hestv	_
+1	hes	VBF	העס	hes	_
+2	tu	PRO	טו	tv	_
+3	das	D	דת	dS	_
+4	herts	N	הערץ	herQ	_
+5	gib	VBI	גיב	gyb	_
+6	mir	PRO	מיר	myr	_
+7	fr	P	פֿר	fr	_
+8	eyn	D	אײן	AYN	_
+9	pfenig	N	פּפֿעניג	pfenyg	_
+10	kleyn	ADJ	קלײן	klYN	_
+11	gelt	N	געלט	gelt	_
+12	nikht	NEG	ניכט	nyxt	_
+13	abr	ADV	אַבר	Aabr	_
+14	fr	P	פֿר	fr	_
+15	deyn	PRO$	דײן	dYN	_
+16	aleyn	ADV	אַלײן	AalYN	_
+17	zundrin	CONJ	זונדרין	zvndryN	_
+18	fr	P	פֿר	fr	_
+19	ali	Q	אַלי	Aaly	_
+20	shelmn	N	שעלמן	$elmN	_
+21	yudn	N	יודן	yvdN	_
+22	gmeyn	ADJ	גמײן	gmYN	_
+
+SENT	1697E-PURIM,312.387
+1	akhr	H	אַכר	Aaxr	after
+2	kn	H	קן	kN	yes
+3	kurts	H	קורץ	kvrQ	UNKNOWN
+4	uaum'	H	אואַומ'	AvAavm'	UNKNOWN
+5	msirh	H	מסירה	msyrh	UNKNOWN
+6	alir_idlir	ADJ	אַליר_ידליר	Aalyr_ydlyr	_
+7	hukh_gibarnir	ADJ	הוכ_גיבאַרניר	hvx_gybAarnyr	_
+8	her	N	הער	her	_
+9	unt	CONJ	אונט	Avnt	_
+10	king	N	קינג	kyng	_
+11	zeyn	PRO$	זײן	zYN	_
+12	king_reykh	N	קינג_רײך	kyng_rYX	_
+13	zal	MDF	ז"ל	z"l	_
+14	verin	VB	װערין	VeryN	_
+15	imr	ADV	אימר	Aymr	_
+16	unt	CONJ	אונט	Avnt	_
+17	ibg	ADV	איבג	Aybg	_
+
+SENT	1697E-PURIM,314.389
+1	er	PRO	ער	er	_
+2	veli	MDF	װעלי	Vely	_
+3	zikh	PRO	זיך	zyX	_
+4	blibn	VB	בליבן	blybN	_
+5	lasn	VB	לאַסן	lAasN	_
+6	tsu	TO	צו	qv	_
+7	oyf	RP	אױף	AWF	_
+8	merkin	VB	מערקין	merkyN	_
+9	meyn	PRO$	מײן	mYN	_
+10	zag	N	זאַג	zAag	_
+
+SENT	1697E-PURIM,315.391
+1	fr	X	פֿר	fr	_
+2	ir	PRO$	איר	Ayr	_
+3	durkh_leykht	N	דורכ_לײכט	dvrx_lYxt	_
+4	habin	HVF	האַבין	hAabyN	_
+5	es	PRO	עס	es	_
+6	nit	NEG	ניט	nyt	_
+7	ghert	VBN	גהערט	ghert	_
+8	zeyn	PRO$	זײן	zYN	_
+9	leb_tag	N	לעב_טאַג	leb_tAag	_
+
+SENT	1697E-PURIM,316.393
+1	eyn	D	אײן	AYN	_
+2	kleynh	ADJ	קלײנה	klYnh	_
+3	zakh	N	זאַך	zAaX	_
+4	vil	MDF	װיל	Vyl	_
+5	ikh	PRO	איך	AyX	_
+6	ir	PRO$	איר	Ayr	_
+7	meyastet	N	מײאַסטעט	mYAastet	_
+8	far	RP	פֿאַר	fAar	_
+9	tragin	VB	טראַגין	trAagyN	_
+
+SENT	1697E-PURIM,317.395
+1	ibr	P	איבר	Aybr	_
+2	eyn	D	אײן	AYN	_
+3	dib	N	דיב	dyb	_
+4	un'	CONJ	אונ'	Avn'	_
+5	shelmsh	ADJ	שעלמש	$elm$	_
+6	falk	N	פֿאַלק	fAalk	_
+7	vil	MDF	װיל	Vyl	_
+8	ikh	PRO	איך	AyX	_
+9	eyn	RP	אײן	AYN	_
+10	klagin	VB	קלאַגין	klAagyN	_
+
+SENT	1697E-PURIM,318.397
+1	das	D	דת	dS	_
+2	zelbgi	ADJ	זעלבגי	zelbgy	_
+3	falk	N	פֿאַלק	fAalk	_
+4	izt	BEF	איזט	Ayzt	_
+5	in	P	אין	AyN	_
+6	eyn	D	אײן	AYN	_
+7	lnd_spt	N	לנד_ספּט	lnd_spt	_
+8	ibral	ADV	איבראַל	AybrAal	_
+9	tsu_streyet	VAN	צו_סטרײעט	qv_strYet	_
+
+SENT	1697E-PURIM,319.399
+1	tsu	P	צו	qv	_
+2	ali	Q	אַלי	Aaly	_
+3	shelmrey	N	שעלמרײ	$elmrY	_
+4	zeyn	VBF	זײן	zYN	_
+5	zi	PRO	זי	zy	_
+6	val	ADV	װאַל	VAal	_
+7	breyt	ADJ	ברײט	brYt	_
+
+SENT	1697E-PURIM,320.401
+1	melkh	N	מעלך	melX	_
+2	ver	WPRO	װער	Ver	_
+3	zeyn	VBF	זײן	zYN	_
+4	zi	PRO	זי	zy	_
+
+SENT	1697E-PURIM,321.403
+1	hmn	NPR	המן	hmN	_
+2	yudn	N	יודן	yvdN	_
+3	musl	H	מוסל	mvsl	UNKNOWN
+4	bestih	H	בעסטיה	bestyh	UNKNOWN
+5	bsnitgh	H	בסניטגה	bsnytgh	UNKNOWN
+6	hebreyer	N	העברײער	hebrYer	_
+7	zeyn	BEF	זײן	zYN	_
+8	zi	PRO	זי	zy	_
+9	gnnt	VAN	גננט	gnnt	_
+
+SENT	1697E-PURIM,322.405
+1	in	P	אין	AyN	_
+2	ali	Q	אַלי	Aaly	_
+3	btrigrey	N	בטריגרײ	btrygrY	_
+4	zeyn	VBF	זײן	zYN	_
+5	zi	PRO	זי	zy	_
+6	gar	ADV	גאַר	gAar	_
+7	val	ADV	װאַל	VAal	_
+8	bkant	ADJ	בקאַנט	bkAant	_
+
+SENT	1697E-PURIM,323.407
+1	erstlikh	ADV	ערסטליך	erstlyX	_
+2	ali	Q	אַלי	Aaly	_
+3	zibn	NUM	זיבן	zybN	_
+4	tagin	N	טאַגין	tAagyN	_
+5	tuni	DOF	טוני	tvny	_
+6	zi	PRO	זי	zy	_
+7	sbt	N	סבט	sbt	_
+8	makhin	VB	מאַכין	mAaxyN	_
+
+SENT	1697E-PURIM,324.409
+1	un'	CONJ	אונ'	Avn'	_
+2	tunin	DOF	טונין	tvnyN	_
+3	uns	PRO	אונס	Avns	_
+4	oys	RP	אױס	AWs	_
+5	spetn	VB	ספּעטן	spetN	_
+6	un'	CONJ	אונ'	Avn'	_
+7	oys	RP	אױס	AWs	_
+8	lakhin	VB	לאַכין	lAaxyN	_
+
+SENT	1697E-PURIM,325.411
+1	eyn	D	אײן	AYN	_
+2	hlbin	ADJ	הלבין	hlbyN	_
+3	tag	N	תּג	Tg	_
+4	bleybn	VBF	בלײבן	blYbN	_
+5	zi	PRO	זי	zy	_
+6	in	P	אין	AyN	_
+7	der	D	דער	der	_
+8	singag	N	סינגאַג	syngAag	_
+
+SENT	1697E-PURIM,327.413
+1	unt	CONJ	אונט	Avnt	_
+2	betin	VBF	בעטין	betyN	_
+3	unt	CONJ	אונט	Avnt	_
+4	shreyan	VBF	שרײאַן	$rYAaN	_
+5	got	NPR	גאָט	gAot	_
+6	veli	MDF	װעלי	Vely	_
+7	den	D	דען	deN	_
+8	king	N	קינג	kyng	_
+9	als	Q	אַלס	Aals	_
+10	um_glik	N	אומ_גליק	Avm_glyk	_
+11	fr_leyan	VB	פֿר_לײאַן	fr_lYAaN	_
+
+SENT	1697E-PURIM,329.415
+1	un	CONJ	און	AvN	_
+2	ven	C	װען	VeN	_
+3	zi	PRO	זי	zy	_
+4	das	D	דת	dS	_
+5	habin	HVF	האַבין	hAabyN	_
+6	ful_brakht	VBN	פֿול_בראַכט	fvl_brAaxt	_
+7	loyfn	VBF	לױפֿן	lWfN	_
+8	zi	PRO	זי	zy	_
+9	hroys	ADV	הרױס	hrWs	_
+10	mit	P	מיט	myt	_
+11	grusr	ADJ	גרוסר	grvsr	_
+12	makht	N	מאַכט	mAaxt	_
+
+SENT	1697E-PURIM,331.417
+1	un'	CONJ	אונ'	Avn'	_
+2	tuain	VBF	טואַיִן	tvAayiN	_
+3	niks	Q	ניקס	nyks	_
+4	andrs	ADJ	אַנדרס	Aandrs	_
+5	als	P	אַלס	Aals	_
+6	fresin	VB	פֿרעסין	fresyN	_
+7	un'	CONJ	אונ'	Avn'	_
+8	zoyfn	VB	זױפֿן	zWfN	_
+
+SENT	1697E-PURIM,332.419
+1	abr	CONJ	אַבר	Aabr	_
+2	um	P	אום	AvM	_
+3	gelt	N	געלט	gelt	_
+4	tuain	DOF	טואַיִן	tvAayiN	_
+5	zi	PRO	זי	zy	_
+6	niks	Q	ניקס	nyks	_
+7	koyfn	VB	קױפֿן	kWfN	_
+
+SENT	1697E-PURIM,335.421
+1	un'	CONJ	אונ'	Avn'	_
+2	zagin	VBF	זאַגין	zAagyN	_
+3	murgin	ADV	מורגין	mvrgyN	_
+4	velin	MDF	װעלין	VelyN	_
+5	mir	PRO	מיר	myr	_
+6	shun	ADV	שון	$vN	_
+7	eyn	D	אײן	AYN	_
+8	poyarn	N	פּױאַרן	pWAarN	_
+9	dr_loyfn	VB	דר_לױפֿן	dr_lWfN	_
+10	un'	CONJ	אונ'	Avn'	_
+11	lazin	VB	לאַזין	lAazyN	_
+12	di	D	די	dy	_
+13	kristn	N	קריסטן	krystN	_
+14	ir	PRO$	איר	Ayr	_
+15	feyar	N	פֿײאַר	fYAar	_
+16	shirn	VB	שירן	$yrN	_
+17	un'	CONJ	אונ'	Avn'	_
+18	zagin	VB	זאַגין	zAagyN	_
+19	mir	PRO	מיר	myr	_
+20	drfin	MDF	דרפֿין	drfyN	_
+21	es	PRO	עס	es	_
+22	nit	NEG	ניט	nyt	_
+23	an	RP	אַן	AaN	_
+24	rirn	VB	רירן	ryrN	_
+
+SENT	1697E-PURIM,336.423
+1	oykh	ADV	אױך	AWX	_
+2	ven	C	װען	VeN	_
+3	inn	PRO	אינן	AynN	_
+4	gleykh	ADV	גלײך	glYX	_
+5	der	D	דער	der	_
+6	king	N	קינג	kyng	_
+7	tut	DOF	טוט	tvt	_
+8	eyn	D	אײן	AYN	_
+9	arbeyt	N	אַרבײט	AarbYt	_
+10	an	RP	אַן	AaN	_
+11	bitn	VB	ביטן	bytN	_
+12	zagin	VBF	זאַגין	zAagyN	_
+13	zi	PRO	זי	zy	_
+14	mir	PRO	מיר	myr	_
+15	muzin	MDF	מוזין	mvzyN	_
+16	unzrin	PRO$	אונזרין	AvnzryN	_
+17	sbt	N	סבט	sbt	_
+18	hitn	VB	היטן	hytN	_
+
+SENT	1697E-PURIM,341.425
+1	abr	CONJ	אַבר	Aabr	_
+2	an	P	אַן	AaN	_
+3	zuntag	N	זונטאַג	zvntAag	_
+4	fri	ADV	פֿרי	fry	_
+5	tuain	DOF	טואַיִן	tvAayiN	_
+6	zi	PRO	זי	zy	_
+7	oyf	RP	אױף	AWF	_
+8	stin	VB	סטין	styN	_
+9	und	CONJ	אונד	Avnd	_
+10	oyf	P	אױף	AWF	_
+11	der	D	דער	der	_
+12	mark	N	מאַרק	mAark	_
+13	gin	VB	גין	gyN	_
+14	un'	CONJ	אונ'	Avn'	_
+15	hin	RP-ADV	הין	hyN	_
+16	unt	CONJ	אונט	Avnt	_
+17	{hr}vidr	ADV	{הר}װידר	{hr}Vydr	_
+18	loyfn	VB	לױפֿן	lWfN	_
+19	un	CONJ	און	AvN	_
+20	tsu	TO	צו	qv	_
+21	fresin	VB	פֿרעסין	fresyN	_
+22	eyn	RP	אײן	AYN	_
+23	koyfn	VB	קױפֿן	kWfN	_
+
+SENT	1697E-PURIM,342.427
+1	bkumin	VBF	בקומין	bkvmyN	_
+2	zi	PRO	זי	zy	_
+3	abr	ADV	אַבר	Aabr	_
+4	eyn	D	אײן	AYN	_
+5	poyarn	N	פּױאַרן	pWAarN	_
+6	den	D	דען	deN	_
+7	tuain	DOF	טואַיִן	tvAayiN	_
+8	zi	PRO	זי	zy	_
+9	gar	ADV	גאַר	gAar	_
+10	val	ADV	װאַל	VAal	_
+11	oyf	RP	אױף	AWF	_
+12	loyarn	VB	לױאַרן	lWAarN	_
+
+SENT	1697E-PURIM,344.429
+1	un	CONJ	און	AvN	_
+2	zehn	VBF	זעהן	zehN	_
+3	das	C	דת	dS	_
+4	zi	PRO	זי	zy	_
+5	zeyn	PRO$	זײן	zYN	_
+6	gelt	N	געלט	gelt	_
+7	krign	VBF	קריגן	krygN	_
+
+SENT	1697E-PURIM,345.431
+1	un	CONJ	און	AvN	_
+2	tuain	DOF	טואַיִן	tvAayiN	_
+3	in	PRO	אין	AyN	_
+4	zer	ADV	זער	zer	_
+5	btrign	VB	בטריגן	btrygN	_
+
+SENT	1697E-PURIM,346.433
+1	un	CONJ	און	AvN	_
+2	ven	C	װען	VeN	_
+3	der	D	דער	der	_
+4	poyar	N	פּױאַר	pWAar	_
+5	zalt	MDF	זאַלט	zAalt	_
+6	etvas	Q	עטװאַס	etVAas	_
+7	merkin	VB	מערקין	merkyN	_
+8	tuain	DOF	טואַיִן	tvAayiN	_
+9	zi	PRO	זי	zy	_
+10	zikh	PRO	זיך	zyX	_
+11	sterkin	VB	סטערקין	sterkyN	_
+
+SENT	1697E-PURIM,348.435
+1	un'	CONJ	אונ'	Avn'	_
+2	shverin	VBF	שװערין	$VeryN	_
+3	eyn	D	אײן	AYN	_
+4	yudsh	ADJ	יודש	yvd$	_
+5	heydrneyas	INTJ	הײדרנײאַס	hYdrnYAas	_
+6	eyd	N	עד	ed	_
+7	das	C	דת	dS	_
+8	zi	PRO	זי	zy	_
+9	in	PRO	אין	AyN	_
+10	nit	NEG	ניט	nyt	_
+11	habin	HVF	האַבין	hAabyN	_
+12	btrigin	VBN	בטריגין	btrygyN	_
+13	mit	P	מיט	myt	_
+14	eyn	D	אײן	AYN	_
+15	rak	N	רק	rk	_
+16	adr	CONJ	אַדר	Aadr	_
+17	eyn	D	אײן	AYN	_
+18	kleyd	N	קלײד	klYd	_
+
+SENT	1697E-PURIM,350.437
+1	oykh	ADV	אױך	AWX	_
+2	tuain	DOF	טואַיִן	tvAayiN	_
+3	zi	PRO	זי	zy	_
+4	zikh	PRO	זיך	zyX	_
+5	fun	P	פֿון	fvN	_
+6	uns	PRO	אונס	Avns	_
+7	meydn	VB	מײדן	mYdN	_
+8	mit	P	מיט	myt	_
+9	esin	N	עסין	esyN	_
+10	un'	CONJ	אונ'	Avn'	_
+11	trinkn	N	טרינקן	trynkN	_
+12	udr	CONJ	אודר	Avdr	_
+13	kleydn	N	קלײדן	klYdN	_
+
+SENT	1697E-PURIM,352.439
+1	un'	CONJ	אונ'	Avn'	_
+2	zagin	VBF	זאַגין	zAagyN	_
+3	das	D	דת	dS	_
+4	izt	VBF	איזט	Ayzt	_
+5	shetng	N	שעטנג	$etng	_
+6	un'	CONJ	אונ'	Avn'	_
+7	klaim	N	קלאַיִם	klAayiM	_
+
+SENT	1697E-PURIM,353.441
+1	oyf	P	אױף	AWF	_
+2	den	D	דען	deN	_
+3	king	N	קינג	kyng	_
+4	zal	MDF	ז"ל	z"l	_
+5	kumin	VB	קומין	kvmyN	_
+6	khuli	H	כולי	xvly	UNKNOWN
+7	meim	H	מעיִם	meyiM	UNKNOWN
+
+SENT	1697E-PURIM,356.443
+1	unt	CONJ	אונט	Avnt	_
+2	oykh	ADV	אױך	AWX	_
+3	ali	Q	אַלי	Aaly	_
+4	fir	NUM	פֿיר	fyr	_
+5	vakhin	N	װאַכין	VAaxyN	_
+6	tuain	DOF	טואַיִן	tvAayiN	_
+7	zi	PRO	זי	zy	_
+8	neyant	ADJ	נײאַנט	nYAant	_
+9	manit	N	מאַניט	mAanyt	_
+10	makhin	VB	מאַכין	mAaxyN	_
+11	un'	CONJ	אונ'	Avn'	_
+12	uns	PRO	אונס	Avns	_
+13	kristn	N	קריסטן	krystN	_
+14	oys	RP	אױס	AWs	_
+15	spatin	VB	ספּאַטין	spAatyN	_
+16	un'	CONJ	אונ'	Avn'	_
+17	oys	RP	אױס	AWs	_
+18	lakhin	VB	לאַכין	lAaxyN	_
+
+SENT	1697E-PURIM,357.445
+1	un'	CONJ	אונ'	Avn'	_
+2	stelin	VBF	סטעלין	stelyN	_
+3	zikh	PRO	זיך	zyX	_
+4	in	P	אין	AyN	_
+5	alin	Q	אַלין	AalyN	_
+6	ekin	N	עקין	ekyN	_
+
+SENT	1697E-PURIM,358.447
+1	un'	CONJ	אונ'	Avn'	_
+2	springn	VBF	ספּרינגן	spryngN	_
+3	alz	P	אַלז	Aalz	_
+4	vi	P	װי	Vy	_
+5	di	D	די	dy	_
+6	bekin	N	בעקין	bekyN	_
+
+SENT	1697E-PURIM,359.449
+1	un'	CONJ	אונ'	Avn'	_
+2	zagin	VBF	זאַגין	zAagyN	_
+3	brukh	H	ברוך	brvX	blessed
+4	yutsrkh	H	יוצרך	yvqrX	creator_your
+5	heydrney	INTJ	הײדרנײ	hYdrnY	_
+6	brukh	H	ברוך	brvX	blessed
+7	kunkh	H	קונך	kvnX	God_your
+8	shelmney	N	שעלמנײ	$elmnY	_
+
+SENT	1697E-PURIM,361.451
+1	mrdkhi	NPR	מרדכי	mrdxy	_
+2	deyn	PRO$	דײן	dYN	_
+3	kopf	N	קאָפּף	kAopF	_
+4	oyf	P	אױף	AWF	_
+5	drey	N	דרײ	drY	_
+
+SENT	1697E-PURIM,362.453
+1	hmn	NPR	המן	hmN	_
+2-3	am	P~D	עם	eM	_
+2	a	P	אַ	Aa	_
+3	m	D	מ	m	_
+4	frey_tag	N	פֿרײ_טאַג	frY_tAag	_
+5	tuain	DOF	טואַיִן	tvAayiN	_
+6	di	D	די	dy	_
+7	shelmn	N	שעלמן	$elmN	_
+8	fri	ADV	פֿרי	fry	_
+9	oyf	RP	אױף	AWF	_
+10	shtin	VB	שטין	$tyN	_
+
+SENT	1697E-PURIM,363.455
+1	unt	CONJ	אונט	Avnt	_
+2	tuain	DOF	טואַיִן	tvAayiN	_
+3	oyf	P	אױף	AWF	_
+4	den	D	דען	deN	_
+5	mark	N	מאַרק	mAark	_
+6	gin	VB	גין	gyN	_
+
+SENT	1697E-PURIM,364.457
+1	erstlikh	ADV	ערסטליך	erstlyX	_
+2	abr	ADV	אַבר	Aabr	_
+3	tut	DOF	טוט	tvt	_
+4	er	PRO	ער	er	_
+5	zikh	PRO	זיך	zyX	_
+6	mit	P	מיט	myt	_
+7	den	D	דען	deN	_
+8	tsehn	NUM	צעהן	qehN	_
+9	gibat	N	גיבאַט	gybAat	_
+10	um	RP	אום	AvM	_
+11	veyndn	VB	װײנדן	VYndN	_
+
+SENT	1697E-PURIM,365.459
+1	dernakh	DR+P	דערנאַך	dernAaX	_
+2	zeht	VBF	זעהט	zeht	_
+3	er	PRO	ער	er	_
+4	dz	C	דז	dz	_
+5	er	PRO	ער	er	_
+6	mekht	MDF	מעכט	mext	_
+7	eyn	D	אײן	AYN	_
+8	kristn	N	קריסטן	krystN	_
+9	findn	VB	פֿינדן	fyndN	_
+
+SENT	1697E-PURIM,366.461
+1	gar	ADV	גאַר	gAar	_
+2	vakir	ADV	װאַקיר	VAakyr	_
+3	tut	DOF	טוט	tvt	_
+4	er	PRO	ער	er	_
+5	im	PRO	אים	AyM	_
+6	bsheysn	VB	בשײסן	b$YsN	_
+
+SENT	1697E-PURIM,367.463
+1	ven	C	װען	VeN	_
+2	es	PRO	עס	es	_
+3	der	D	דער	der	_
+4	krist	N	קריסט	kryst	_
+5	er_fart	VBF	ער_פֿאַרט	er_fAart	_
+6	mekht	MDF	מעכט	mext	_
+7	er	PRO	ער	er	_
+8	tsu_reysn	VB	צו_רײסן	qv_rYsN	_
+
+SENT	1697E-PURIM,368.465
+1	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+2	shvert	VBF	שװערט	$Vert	_
+3	er	PRO	ער	er	_
+4	bey	P	בײ	bY	_
+5	den	D	דען	deN	_
+6	tsehn	NUM	צעהן	qehN	_
+7	gibat	N	גיבאַט	gybAat	_
+8	ds	C	דס	ds	_
+9	er	PRO	ער	er	_
+10	in	PRO	אין	AyN	_
+11	nit	NEG	ניט	nyt	_
+12	btrugin	VBN	בטרוגין	btrvgyN	_
+13	hat	HVF	האַט	hAat	_
+
+SENT	1697E-PURIM,370.467
+1	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+2	tuain	DOF	טואַיִן	tvAayiN	_
+3	zi	PRO	זי	zy	_
+4	rum	ADV	רום	rvM	_
+5	her	RP-ADV	הער	her	_
+6	loyfn	VB	לױפֿן	lWfN	_
+
+SENT	1697E-PURIM,371.469
+1	un'	CONJ	אונ'	Avn'	_
+2	tuain	DOF	טואַיִן	tvAayiN	_
+3	fis	N	פֿיס	fys	_
+4	oyf	P	אױף	AWF	_
+5	den	D	דען	deN	_
+6	sbt	N	סבט	sbt	_
+7	eyn	RP	אײן	AYN	_
+8	koyfn	VB	קױפֿן	kWfN	_
+
+SENT	1697E-PURIM,372.471
+1	oykh	ADV	אױך	AWX	_
+2	keyn	Q	קײן	kYN	_
+3	hun	N	הון	hvN	_
+4	keyn	Q	קײן	kYN	_
+5	ganz	N	גאַנז	gAanz	_
+6	izt	VBF	איזט	Ayzt	_
+7	inn	PRO	אינן	AynN	_
+8	nikht	NEG	ניכט	nyxt	_
+9	tsu	ADV	צו	qv	_
+10	teyar	ADJ	טײאַר	tYAar	_
+
+SENT	1697E-PURIM,373.473
+1	oyf	P	אױף	AWF	_
+2	den	D	דען	deN	_
+3	abnt	N	אַבנט	Aabnt	_
+4	shreyan	VBF	שרײאַן	$rYAaN	_
+5	zi	PRO	זי	zy	_
+6	gleykh	ADV	גלײך	glYX	_
+7	vi	P	װי	Vy	_
+8	di	D	די	dy	_
+9	um_giheyar	N	אומ_גיהײאַר	Avm_gyhYAar	_
+10	oykhulu	H	אױכולו	AWxvlv	and_were_finished_they
+11	hshmim	H	השמים	h$myM	heavens
+
+SENT	1697E-PURIM,375.475
+1	der	D	דער	der	_
+2	king	N	קינג	kyng	_
+3	zal	MDF	ז"ל	z"l	_
+4	habin	VB	האַבין	hAabyN	_
+5	ssh	H	סש	s$	UNKNOWN
+6	khlaim	H	כלאַיִם	xlAayiM	UNKNOWN
+7	oyf	P	אױף	AWF	_
+8	idim	N	אידים	AydyM	_
+9	un	CONJ	און	AvN	_
+10	rgley	H	רגלײ	rglY	UNKNOWN
+11	harts	H	האַרץ	hAarQ	the_land
+12	ukl	H	אוקל	Avkl	and_all
+13	tsbam	H	צבאַם	qbAaM	UNKNOWN
+
+SENT	1697E-PURIM,378.477
+1	der	D	דער	der	_
+2	king	N	קינג	kyng	_
+3	zal	MDF	ז"ל	z"l	_
+4	verin	VB	װערין	VeryN	_
+5	krum	ADJ	קרום	krvM	_
+6	unt	CONJ	אונט	Avnt	_
+7	lam	ADJ	לאַם	lAaM	_
+
+SENT	1697E-PURIM,380.479
+1	an	P	אַן	AaN	_
+2	mantag	N	מאַנטאַג	mAantAag	_
+3	un	CONJ	און	AvN	_
+4	danrstag	N	דאַנרסטאַג	dAanrstAag	_
+5	tuain	DOF	טואַיִן	tvAayiN	_
+6	zi	PRO	זי	zy	_
+7	vedrum	ADV	װעדרום	VedrvM	_
+8	fri	ADV	פֿרי	fry	_
+9	oyf	RP	אױף	AWF	_
+10	stin	VB	סטין	styN	_
+11	un'	CONJ	אונ'	Avn'	_
+12	in	P	אין	AyN	_
+13	irh	PRO$	אירה	Ayrh	_
+14	singagn	N	סינגאַגן	syngAagN	_
+15	gin	VB	גין	gyN	_
+
+SENT	1697E-PURIM,381.481
+1	un'	CONJ	אונ'	Avn'	_
+2	nemin	VBF	נעמין	nemyN	_
+3	ir	PRO$	איר	Ayr	_
+4	tsehn	NUM	צעהן	qehN	_
+5	gibat	N	גיבאַט	gybAat	_
+
+SENT	1697E-PURIM,382.483
+1	un'	CONJ	אונ'	Avn'	_
+2	habin	VBF	האַבין	hAabyN	_
+3	oys	P	אױס	AWs	_
+4	den	D	דען	deN	_
+5	king	N	קינג	kyng	_
+6	eyn	D	אײן	AYN	_
+7	grus	ADJ	גרוס	grvs	_
+8	gspat	N	גספּאַט	gspAat	_
+
+SENT	1697E-PURIM,383.485
+1	oykh	ADV	אױך	AWX	_
+2	ven	C	װען	VeN	_
+3	eynr	PRO	אײנר	AYnr	_
+4	fun	P	פֿון	fvN	_
+5	uns	PRO	אונס	Avns	_
+6	tuht	DOF	טוהט	tvht	_
+7	irn	PRO$	אירן	AyrN	_
+8	veyn	N	װײן	VYN	_
+9	an	RP	אַן	AaN	_
+10	rirn	VB	רירן	ryrN	_
+11	alzu_bld	ADV	אַלזו_בלד	Aalzv_bld	_
+12	verden	RDF	װערדען	VerdeN	_
+13	zi	PRO	זי	zy	_
+14	es	PRO	עס	es	_
+15	spirn	VB	ספּירן	spyrN	_
+
+SENT	1697E-PURIM,386.487
+1	alzu	ADV	אַלזו	Aalzv	_
+2	tuain	DOF	טואַיִן	tvAayiN	_
+3	zi	PRO	זי	zy	_
+4	im	PRO	אים	AyM	_
+5	nit	NEG	ניט	nyt	_
+6	gnisn	VB	גניסן	gnysN	_
+7	un'	CONJ	אונ'	Avn'	_
+8	dem	D	דעם	deM	_
+9	zelbn	N	זעלבן	zelbN	_
+10	oyf	P	אױף	AWF	_
+11	der	D	דער	der	_
+12	erd	N	ערד	erd	_
+13	oys	RP	אױס	AWs	_
+14	gisn	VB	גיסן	gysN	_
+
+SENT	1697E-PURIM,387.489
+1	un'	CONJ	אונ'	Avn'	_
+2	zagin	VBF	זאַגין	zAagyN	_
+3	der	D	דער	der	_
+4	veyn	N	װײן	VYN	_
+5	izt	VBF	איזט	Ayzt	_
+6	gskh	N	גסך	gsX	_
+
+SENT	1697E-PURIM,388.491
+1	abr	CONJ	אַבר	Aabr	_
+2	ven	C	װען	VeN	_
+3	es	ES	עס	es	_
+4	mekht	MDF	מעכט	mext	_
+5	eyn	D	אײן	AYN	_
+6	muk	N	מוק	mvk	_
+7	dreyn	DR+P	דרײן	drYN	_
+8	flin	VB	פֿלין	flyN	_
+9	den	D	דען	deN	_
+10	trinkn	VBF	טרינקן	trynkN	_
+11	zi	PRO	זי	zy	_
+12	alin	Q	אַלין	AalyN	_
+
+SENT	1697E-PURIM,391.493
+1	un'	CONJ	אונ'	Avn'	_
+2	verfin	VBF	װערפֿין	VerfyN	_
+3	di	D	די	dy	_
+4	muk	N	מוק	mvk	_
+5	hroys	ADV	הרױס	hrWs	_
+
+SENT	1697E-PURIM,392.495
+1	den	D	דען	deN	_
+2	veyn	N	װײן	VYN	_
+3	abr	ADV	אַבר	Aabr	_
+4	trinkn	VBF	טרינקן	trynkN	_
+5	zi	PRO	זי	zy	_
+6	oys	RP	אױס	AWs	_
+
+SENT	1697E-PURIM,393.497
+1	un'	CONJ	אונ'	Avn'	_
+2	tsu	P	צו	qv	_
+3	akhtagin	N	אַכטאַגין	AaxtAagyN	_
+4	tuain	DOF	טואַיִן	tvAayiN	_
+5	zi	PRO	זי	zy	_
+6	di	D	די	dy	_
+7	meydlkh	N	מײדלך	mYdlX	_
+8	zal	MDF	ז"ל	z"l	_
+9	ikh	PRO	איך	AyX	_
+10	zagin	VB	זאַגין	zAagyN	_
+11	di	D	די	dy	_
+12	bubin	N	בובין	bvbyN	_
+13	di	D	די	dy	_
+14	shvents	N	שװענץ	$VenQ	_
+15	ab	RP	אַב	Aab	_
+16	shneydn	VB	שנײדן	$nYdN	_
+
+SENT	1697E-PURIM,395.499
+1	mrdkhi	NPR	מרדכי	mrdxy	_
+2	idlr	ADJ	אידלר	Aydlr	_
+3	king	N	קינג	kyng	_
+4	vi	WADV	װי	Vy	_
+5	eyn	D	אײן	AYN	_
+6	lignr	N	ליגנר	lygnr	_
+7	izt	VBF	איזט	Ayzt	_
+8	das	D	דת	dS	_
+
+SENT	1697E-PURIM,395.500
+1	habin	VBF	האַבין	hAabyN	_
+2	di	D	די	dy	_
+3	meydlkh	N	מײדלך	mYdlX	_
+4	shventlikh	N	שװענטליך	$VentlyX	_
+
+SENT	1697E-PURIM,396.502
+1	hmn	NPR	המן	hmN	_
+2	yu	INTJ	יו	yv	_
+
+SENT	1697E-PURIM,379.504
+1	mrdkhi	NPR	מרדכי	mrdxy	_
+2	ikh	PRO	איך	AyX	_
+3	vil	MDF	װיל	Vyl	_
+4	es	PRO	עס	es	_
+5	bld	ADV	בלד	bld	_
+6	givar	ADJ	גיװאַר	gyVAar	_
+7	verin	VB	װערין	VeryN	_
+
+SENT	1697E-PURIM,397.506
+1	ikh	PRO	איך	AyX	_
+2	vil	MDF	װיל	Vyl	_
+3	zukhin	VB	זוכין	zvxyN	_
+
+SENT	1697E-PURIM,398.508
+1	nr	FP	נר	nr	_
+2	di	D	די	dy	_
+3	bubin	N	בובין	bvbyN	_
+4	tuain	DOF	טואַיִן	tvAayiN	_
+5	zi	PRO	זי	zy	_
+6	bshneydn	VB	בשנײדן	b$nYdN	_
+7	az	C	אַז	Aaz	_
+8	zi	PRO	זי	zy	_
+9	tuain	DOF	טואַיִן	tvAayiN	_
+10	grusi	ADJ	גרוסי	grvsy	_
+11	shmertsn	N	שמערצן	$merqN	_
+12	leydn	VB	לײדן	lYdN	_
+
+SENT	1697E-PURIM,400.510
+1	un'	CONJ	אונ'	Avn'	_
+2	zagin	VBF	זאַגין	zAagyN	_
+3	das	D	דת	dS	_
+4	izt	VBF	איזט	Ayzt	_
+5	eyn	D	אײן	AYN	_
+6	tseykhn	N	צײכן	qYxN	_
+7	dz	C	דז	dz	_
+8	das	D	דת	dS	_
+9	kind	N	קינד	kynd	_
+10	nit	NEG	ניט	nyt	_
+11	zal	MDF	ז"ל	z"l	_
+12	fun	P	פֿון	fvN	_
+13	gat	NPR	גאַט	gAat	_
+14	ab	RP	אַב	Aab	_
+15	veykhn	VB	װײכן	VYxN	_
+
+SENT	1697E-PURIM,402.512
+1	nisht	NEG	נישט	ny$t	_
+2	das	D	דת	dS	_
+3	aleyn	ADV	אַלײן	AalYN	_
+4	abr	CONJ	אַבר	Aabr	_
+5	zunstn	ADV	זונסטן	zvnstN	_
+6	shelmn_shtik	N	שעלמנ_שטיק	$elmn_$tyk	_
+7	di	WPRO	די	dy	_
+8	an	P	אַן	AaN	_
+9	in	PRO	אין	AyN	_
+10	zeyn	VBF	זײן	zYN	_
+
+SENT	1697E-PURIM,404.514
+1	ali	Q	אַלי	Aaly	_
+2	betin	VBF	בעטין	betyN	_
+3	got	NPR	גאָט	gAot	_
+4	zal	MDF	ז"ל	z"l	_
+5	zeyn	PRO$	זײן	zYN	_
+6	kingreykh	N	קינגרײך	kyngrYX	_
+7	tsur_brekhin	VB	צור_ברעכין	qvr_brexyN	_
+
+SENT	1697E-PURIM,406.516
+1	vas	WPRO	װאַס	VAas	_
+2	zi	PRO	זי	zy	_
+3	di	D	די	dy	_
+4	gntsi	ADJ	גנצי	gnqy	_
+5	vakh	N	װאַך	VAaX	_
+6	tunin	DOF	טונין	tvnyN	_
+7	di	D	די	dy	_
+8	kristn	N	קריסטן	krystN	_
+9	ab	RP	אַב	Aab	_
+10	loygnn	VB	לױגנן	lWgnN	_
+11	un	CONJ	און	AvN	_
+12	ab	RP	אַב	Aab	_
+13	shverin	VB	שװערין	$VeryN	_
+14	das	D	דת	dS	_
+15	tuain	DOF	טואַיִן	tvAayiN	_
+16	zi	PRO	זי	zy	_
+17-18	am	P~D	עם	eM	_
+17	a	P	אַ	Aa	_
+18	m	D	מ	m	_
+19	sbt	N	סבט	sbt	_
+20	fr_tserin	VB	פֿר_צערין	fr_qeryN	_
+
+SENT	1697E-PURIM,408.518
+1	un	CONJ	און	AvN	_
+2	ven	C	װען	VeN	_
+3	der	D	דער	der	_
+4	king	N	קינג	kyng	_
+5	zelt	MDF	זעלט	zelt	_
+6	fernr	ADV	פֿערנר	fernr	_
+7	nakh	ADV	נ"ך	n"X	_
+8	zukhin	VB	זוכין	zvxyN	_
+9	vi	WADV	װי	Vy	_
+10	zi	PRO	זי	zy	_
+11	in	PRO	אין	AyN	_
+12	shelmn	VBF	שעלמן	$elmN	_
+13	un	CONJ	און	AvN	_
+14	flukhin	VBF	פֿלוכין	flvxyN	_
+
+SENT	1697E-PURIM,410.520
+1	oykh	ADV	אױך	AWX	_
+2	ven	C	װען	VeN	_
+3	di	D	די	dy	_
+4	hebreysh	ADJ	העברײש	hebrY$	_
+5	yudn_veybr	N	יודנ_װײבר	yvdn_VYbr	_
+6	lign	VBF	ליגן	lygN	_
+7	in	P	אין	AyN	_
+8	di	D	די	dy	_
+9	zeks	NUM	זעקס	zeks	_
+10	vakhin	N	װאַכין	VAaxyN	_
+11	da	ADV	דאַ	dAa	_
+12	esin	VBF	עסין	esyN	_
+13	zi	PRO	זי	zy	_
+14	niks	Q	ניקס	nyks	_
+15	vus	WPRO	װוּס	VUs	_
+16	ir	PRO$	איר	Ayr	_
+17	veybr	N	װײבר	VYbr	_
+18	kakhin	VBF	קאַכין	kAaxyN	_
+
+SENT	1697E-PURIM,413.522
+1	un'	CONJ	אונ'	Avn'	_
+2	zagin	VBF	זאַגין	zAagyN	_
+3	mir	PRO	מיר	myr	_
+4	drfin	MDF	דרפֿין	drfyN	_
+5	eyn_nndr	PRO	אײנ_ננדר	AYn_nndr	_
+6	nit	NEG	ניט	nyt	_
+7	an	RP	אַן	AaN	_
+8	greyfn	VB	גרײפֿן	grYfN	_
+9	oykh	ADV	אױך	AWX	_
+10	oys	P	אױס	AWs	_
+11	keyn	Q	קײן	kYN	_
+12	glaz	N	גלאַז	glAaz	_
+13	udr	CONJ	אודר	Avdr	_
+14	bekhr	N	בעכר	bexr	_
+15	mit	P	מיט	myt	_
+16	nndr	PRO	ננדר	nndr	_
+17	zoyfn	VB	זױפֿן	zWfN	_
+
+SENT	1697E-PURIM,414.524
+1	nakh	P	נ"ך	n"X	_
+2	akht	NUM	אַכט	Aaxt	_
+3	vakhin	N	װאַכין	VAaxyN	_
+4	loyfn	VBF	לױפֿן	lWfN	_
+5	zi	PRO	זי	zy	_
+6	in	P	אין	AyN	_
+7	das	D	דת	dS	_
+8	vasir	N	װאַסיר	VAasyr	_
+9	es	PRO	עס	es	_
+10	mag	MDF	מאַג	mAag	_
+11	zeyn	VB	זײן	zYN	_
+12	nakh	P	נ"ך	n"X	_
+13	{eyz}	N	{אײז}	{AYz}	_
+14	zu	ADV	זו	zv	_
+15	klt	ADJ	קלט	klt	_
+
+SENT	1697E-PURIM,415.526
+1	un'	CONJ	אונ'	Avn'	_
+2	zagin	VBF	זאַגין	zAagyN	_
+3	ikh	PRO	איך	AyX	_
+4	ver	RDF	װער	Ver	_
+5	muzin	MD	מוזין	mvzyN	_
+6	bey	P	בײ	bY	_
+7	meyn	PRO$	מײן	mYN	_
+8	man	N	מאַן	mAaN	_
+9	shlufin	VB	שלופֿין	$lvfyN	_
+10	bld	ADV	בלד	bld	_
+
+SENT	1697E-PURIM,416.528
+1	un'	CONJ	אונ'	Avn'	_
+2	zagin	VBF	זאַגין	zAagyN	_
+3	eyn	D	אײן	AYN	_
+4	hlbi	ADJ	הלבי	hlby	_
+5	stund	N	סטונד	stvnd	_
+6	kalt	ADJ	קאַלט	kAalt	_
+7	eyn	D	אײן	AYN	_
+8	gntsi	ADJ	גנצי	gnqy	_
+9	nkht	N	נכט	nxt	_
+10	varim	ADJ	װאַרים	VAaryM	_
+
+SENT	1697E-PURIM,417.530
+1	heynt	ADV	הײנט	hYnt	_
+2	ver	RDF	װער	Ver	_
+3	ikh	PRO	איך	AyX	_
+4	lign	VB	ליגן	lygN	_
+5	bey	P	בײ	bY	_
+6	meyn	PRO$	מײן	mYN	_
+7	man	N	מאַן	mAaN	_
+8	in	P	אין	AyN	_
+9	arm	N	אַרם	AarM	_
+
+SENT	1697E-PURIM,418.532
+1	eyn	D	אײן	AYN	_
+2	hur	N	הור	hvr	_
+3	stust	VBF	סטוסט	stvst	_
+4	di	D	די	dy	_
+5	andrh	N	אַנדרה	Aandrh	_
+6	in	P	אין	AyN	_
+7	s	D	ס	s	_
+8	vsr	N	װסר	Vsr	_
+
+SENT	1697E-PURIM,419.534
+1	un'	CONJ	אונ'	Avn'	_
+2	zagt	VBF	זאַגט	zAagt	_
+3	gi	VBI	גי	gy	_
+4	hin	RP-ADV	הין	hyN	_
+
+SENT	1697E-PURIM,419.535
+1	du	PRO	דו	dv	_
+2	bist	VBF	ביסט	byst	_
+3	ksr	ADJ	קסר	ksr	_
+4	el	H	על	el	on
+5	htbilh	H	הטבילה	htbylh	the_UNKNOWN
+
+SENT	1697E-PURIM,421.537
+1	ikh	PRO	איך	AyX	_
+2	vinsh	VBF	װינש	Vyn$	_
+3	deyn	PRO$	דײן	dYN	_
+4	man	N	מאַן	mAaN	_
+5	zal	MDF	ז"ל	z"l	_
+6	habin	VB	האַבין	hAabyN	_
+7	eyn	D	אײן	AYN	_
+8	grus	ADJ	גרוס	grvs	_
+9	milh	N	מילה	mylh	_
+
+SENT	1697E-PURIM,422.539
+1	un	CONJ	און	AvN	_
+2	ven	C	װען	VeN	_
+3	zi	PRO	זי	zy	_
+4	oys	P	אױס	AWs	_
+5	den	D	דען	deN	_
+6	vasir	N	װאַסיר	VAasyr	_
+7	kumt	VBF	קומט	kvmt	_
+8	zagt	VBF	זאַגט	zAagt	_
+9	zi	PRO	זי	zy	_
+10	yu	INTJ	יו	yv	_
+11	meyn	PRO$	מײן	mYN	_
+12	libr	ADJ	ליבר	lybr	_
+13	man	N	מאַן	mAaN	_
+14	greyf	VBI	גרײף	grYF	_
+15	mir	PRO	מיר	myr	_
+16	dran	DR+P	דראַן	drAaN	_
+
+SENT	1697E-PURIM,424.541
+1	vi	WADV	װי	Vy	_
+2	es	PRO	עס	es	_
+3	izt	VBF	איזט	Ayzt	_
+4	mir	PRO	מיר	myr	_
+5	zu	ADV	זו	zv	_
+6	klt	ADJ	קלט	klt	_
+
+SENT	1697E-PURIM,425.543
+1	drum	DR+P	דרום	drvM	_
+2	makh	VBI	מאַך	mAaX	_
+3	es	PRO	עס	es	_
+4	bld	ADV	בלד	bld	_
+
+SENT	1697E-PURIM,426.545
+1	du	PRO	דו	dv	_
+2	hast	HVF	האַסט	hAast	_
+3	gnug	Q	גנוג	gnvg	_
+4	lng	ADV	לנג	lng	_
+5	givrt	VBN	גיװרט	gyVrt	_
+
+SENT	1697E-PURIM,427.547
+1	ikh	PRO	איך	AyX	_
+2	veys	VBF	װײס	VYs	_
+3	deyn	PRO$	דײן	dYN	_
+4	milh	N	מילה	mylh	_
+5	iz	VBF	איז	Ayz	_
+6	shun	ADV	שון	$vN	_
+7	hrt	ADJ	הרט	hrt	_
+
+SENT	1697E-PURIM,428.549
+1	ven	C	װען	VeN	_
+2	zi	PRO	זי	zy	_
+3	nun	ADV	נ	n	_
+4	in	P	אין	AyN	_
+5	das	D	דת	dS	_
+6	bet	N	בעט	bet	_
+7	kumin	VBF	קומין	kvmyN	_
+8	tuain	DOF	טואַיִן	tvAayiN	_
+9	zi	PRO	זי	zy	_
+10	mit	P	מיט	myt	_
+11	nndr	PRO	ננדר	nndr	_
+12	brumin	VB	ברומין	brvmyN	_
+
+SENT	1697E-PURIM,430.551
+1	zagt	VBF	זאַגט	zAagt	_
+2	zi	PRO	זי	zy	_
+3	yu	INTJ	יו	yv	_
+4	meyn	PRO$	מײן	mYN	_
+5	libr	ADJ	ליבר	lybr	_
+6	gumpil	NPR	גומפּיל	gvmpyl	_
+7	du	PRO	דו	dv	_
+8	hast	VBF	האַסט	hAast	_
+9	eyn	D	אײן	AYN	_
+10	grusin	ADJ	גרוסין	grvsyN	_
+11	humpil	N	הומפּיל	hvmpyl	_
+
+SENT	1697E-PURIM,432.553
+1	du	PRO	דו	dv	_
+2	virst	RDF	װירסט	Vyrst	_
+3	mir	PRO	מיר	myr	_
+4	makhin	VB	מאַכין	mAaxyN	_
+5	in	P	אין	AyN	_
+6	boykh	N	בױך	bWX	_
+7	eyn	D	אײן	AYN	_
+8	groys	ADJ	גרױס	grWs	_
+9	grumpil	N	גרומפּיל	grvmpyl	_
+
+SENT	1697E-PURIM,434.555
+1	un'	CONJ	אונ'	Avn'	_
+2	redt	VBF	רעדט	redt	_
+3	im	PRO	אים	AyM	_
+4	alzu	ADV	אַלזו	Aalzv	_
+5	eyn	RP	אײן	AYN	_
+6	er	PRO	ער	er	_
+7	zal	MDF	ז"ל	z"l	_
+8	ir	PRO	איר	Ayr	_
+9	makhin	VB	מאַכין	mAaxyN	_
+10	eyn	D	אײן	AYN	_
+11	hips	ADJ	היפּס	hyps	_
+12	kindleyn	N	קינדלײן	kyndlYN	_
+
+SENT	1697E-PURIM,435.557
+1	und	CONJ	אונד	Avnd	_
+2	oykh	ADV	אױך	AWX	_
+3	der	D	דער	der	_
+4	mrdkhi	NPR	מרדכי	mrdxy	_
+5	der	WPRO	דער	der	_
+6	da	ADV	דאַ	dAa	_
+7	zitst	VBF	זיצט	zyqt	_
+8	in	P	אין	AyN	_
+9	tar	N	טאַר	tAar	_
+10	der	D	דער	der	_
+11	vil	MDF	װיל	Vyl	_
+12	mir	PRO	מיר	myr	_
+13	nikht	NEG	ניכט	nyxt	_
+14	herin	VB	הערין	heryN	_
+15	gants	ADV	גאַנץ	gAanQ	_
+16	un	CONJ	און	AvN	_
+17	gar	ADV	גאַר	gAar	_
+
+SENT	1697E-PURIM,438.559
+1	ir	PRO$	איר	Ayr	_
+2	meyastet	N	מײאַסטעט	mYAastet	_
+3	zeyn	PRO$	זײן	zYN	_
+4	gibat	N	גיבאַט	gybAat	_
+5	tuain	DOF	טואַיִן	tvAayiN	_
+6	zi	PRO	זי	zy	_
+7	gnts	ADV	גנץ	gnQ	_
+8	un	CONJ	און	AvN	_
+9	gar	ADV	גאַר	gAar	_
+10	brekhin	VB	ברעכין	brexyN	_
+11	oykh	ADV	אױך	AWX	_
+12	unzir	PRO$	אונזיר	Avnzyr	_
+13	feyar_tag	N	פֿײאַר_טאַג	fYAar_tAag	_
+14	fr_shvekhin	VB	פֿר_שװעכין	fr_$VexyN	_
+
+SENT	1697E-PURIM,439.561
+1	tut	DOF	טוט	tvt	_
+2	zi	PRO	זי	zy	_
+3	der	D	דער	der	_
+4	kinig	N	קיניג	kynyg	_
+5	eyn	D	אײן	AYN	_
+6	arbeyt	N	אַרבײט	AarbYt	_
+7	an	RP	אַן	AaN	_
+8	bitn	VB	ביטן	bytN	_
+9	zagin	VBF	זאַגין	zAagyN	_
+10	zi	PRO	זי	zy	_
+11	mir	PRO	מיר	myr	_
+12	muzin	MDF	מוזין	mvzyN	_
+13	unzir	PRO$	אונזיר	Avnzyr	_
+14	feyar_tag	N	פֿײאַר_טאַג	fYAar_tAag	_
+15	hitn	VB	היטן	hytN	_
+
+SENT	1697E-PURIM,441.563
+1	fil_min	ADV	פֿיל_מין	fyl_myN	_
+2	drfin	MDF	דרפֿין	drfyN	_
+3	mir	PRO	מיר	myr	_
+4	mit	P	מיט	myt	_
+5	keyn	Q	קײן	kYN	_
+6	gelt	N	געלט	gelt	_
+7	um	RP	אום	AvM	_
+8	gin	VB	גין	gyN	_
+
+SENT	1697E-PURIM,443.565
+1	ven	C	װען	VeN	_
+2	zi	PRO	זי	zy	_
+3	abr	ADV	אַבר	Aabr	_
+4	imnt	Q	אימנט	Aymnt	_
+5	brengt	VBF	ברענגט	brengt	_
+6	fardrin	VBF	פֿאַרדרין	fAardryN	_
+7	zi	PRO	זי	zy	_
+8	nakh	ADV	נ"ך	n"X	_
+9	min	QR	מין	myN	_
+
+SENT	1697E-PURIM,444.567
+1	den	D	דען	deN	_
+2	sbt	N	סבט	sbt	_
+3	stel	VBF	סטעל	stel	_
+4	ikh	PRO	איך	AyX	_
+5	val	ADV	װאַל	VAal	_
+6	tsu_far	ADV	צו_פֿאַר	qv_fAar	_
+
+SENT	1697E-PURIM,445.569
+1	abr	CONJ	אַבר	Aabr	_
+2	zi	PRO	זי	zy	_
+3	makhin	VBF	מאַכין	mAaxyN	_
+4	es	PRO	עס	es	_
+5	alzu	ADV	אַלזו	Aalzv	_
+6	das	D	דת	dS	_
+7	gntsi	ADJ	גנצי	gnqy	_
+8	yar	N	יאַר	yAar	_
+9	dz	C	דז	dz	_
+10	der	D	דער	der	_
+11	kinig	N	קיניג	kynyg	_
+12	hat	VBF	האַט	hAat	_
+13	keyn	Q	קײן	kYN	_
+14	nutsin	N	נוצין	nvqyN	_
+15	fun	P	פֿון	fvN	_
+16	inn	PRO	אינן	AynN	_
+17	um	P	אום	AvM	_
+18	eyn	D	אײן	AYN	_
+19	har	N	האַר	hAar	_
+
+SENT	1697E-PURIM,447.571
+1	den	D	דען	deN	_
+2	erstn	ADJ	ערסטן	erstN	_
+3	maneyt	N	מאַנײט	mAanYt	_
+4	heyst	VBF	הײסט	hYst	_
+5	bey	P	בײ	bY	_
+6	inn	PRO	אינן	AynN	_
+7	april	NPR	אַפּריל	Aapryl	_
+
+SENT	1697E-PURIM,448.573
+1	da	ADV	דאַ	dAa	_
+2	habin	VBF	האַבין	hAabyN	_
+3	zi	PRO	זי	zy	_
+4	eyn	D	אײן	AYN	_
+5	feyar_tag	N	פֿײאַר_טאַג	fYAar_tAag	_
+6	heyst	VBF	הײסט	hYst	_
+7	ustrn	N	אוסטרן	AvstrN	_
+
+SENT	1697E-PURIM,448.574
+1	da	ADV	דאַ	dAa	_
+2	bkin	VBF	בקין	bkyN	_
+3	zi	PRO	זי	zy	_
+4	kukhin	N	קוכין	kvxyN	_
+
+SENT	1697E-PURIM,449.576
+1	da	ADV	דאַ	dAa	_
+2	tuain	DOF	טואַיִן	tvAayiN	_
+3	zi	PRO	זי	zy	_
+4	den	D	דען	deN	_
+5	kinig	N	קיניג	kynyg	_
+6	shelmin	VB	שעלמין	$elmyN	_
+7	un	CONJ	און	AvN	_
+8	flukhin	VB	פֿלוכין	flvxyN	_
+
+SENT	1697E-PURIM,450.578
+1	un'	CONJ	אונ'	Avn'	_
+2	zagin	VBF	זאַגין	zAagyN	_
+3	akht	NUM	אַכט	Aaxt	_
+4	tag	N	תּג	Tg	_
+5	esin	VBF	עסין	esyN	_
+6	mir	PRO	מיר	myr	_
+7	keyn	Q	קײן	kYN	_
+8	brut	N	ברוט	brvt	_
+
+SENT	1697E-PURIM,451.580
+1	oyf	P	אױף	AWF	_
+2	den	D	דען	deN	_
+3	king	N	קינג	kyng	_
+4	zal	MDF	ז"ל	z"l	_
+5	kumin	VB	קומין	kvmyN	_
+6	der	D	דער	der	_
+7	tut	N	טוט	tvt	_
+
+SENT	1697E-PURIM,452.582
+1	den	D	דען	deN	_
+2	erstin	ADJ	ערסטין	erstyN	_
+3	abnt	N	אַבנט	Aabnt	_
+4	zoyfn	VBF	זױפֿן	zWfN	_
+5	zi	PRO	זי	zy	_
+6	fir	NUM	פֿיר	fyr	_
+7	bekhir	N	בעכיר	bexyr	_
+8	veyn	N	װײן	VYN	_
+
+SENT	1697E-PURIM,453.584
+1	un	CONJ	און	AvN	_
+2	zagin	VBF	זאַגין	zAagyN	_
+3	oyf	P	אױף	AWF	_
+4	den	D	דען	deN	_
+5	kinig	N	קיניג	kynyg	_
+6	zal	MDF	ז"ל	z"l	_
+7	kumin	VB	קומין	kvmyN	_
+8	di	D	די	dy	_
+9	helshh	ADJ	העלשה	hel$h	_
+10	peyn	N	פּײן	pYN	_
+
+SENT	1697E-PURIM,454.586
+1	oykh	ADV	אױך	AWX	_
+2	zagin	VBF	זאַגין	zAagyN	_
+3	zi	PRO	זי	zy	_
+4	dtskh	H	דצך	dqX	UNKNOWN
+
+SENT	1697E-PURIM,455.588
+1	der	D	דער	der	_
+2	king	N	קינג	kyng	_
+3	zal	MDF	ז"ל	z"l	_
+4	verin	VB	װערין	VeryN	_
+5	shvakh	ADJ	שװאַך	$VAaX	_
+6	eds	H	עדס	eds	UNKNOWN
+
+SENT	1697E-PURIM,457.590
+1	der	D	דער	der	_
+2	king	N	קינג	kyng	_
+3	zal	MDF	ז"ל	z"l	_
+4	krign	VB	קריגן	krygN	_
+5	den	D	דען	deN	_
+6	prs	N	פּרס	prs	_
+7	bakhb	H	באַכב	bAaxb	UNKNOWN
+
+SENT	1697E-PURIM,459.592
+1	er	PRO	ער	er	_
+2	zal	MDF	ז"ל	z"l	_
+3	lign	VB	ליגן	lygN	_
+4	in	P	אין	AyN	_
+5	der	D	דער	der	_
+6	tkhb	N	טכב	txb	_
+
+SENT	1697E-PURIM,460.594
+1	den	D	דען	deN	_
+2	andrin	ADJ	אַנדרין	AandryN	_
+3	manit	N	מאַניט	mAanyt	_
+4	maeyus	N	מאַײוס	mAaYvs	_
+5	oyf	P	אױף	AWF	_
+6	hebreys	N	העברײס	hebrYs	_
+7	eyr	NPR	אײר	AYr	_
+8	firn	VBF	פֿירן	fyrN	_
+9	zi	PRO	זי	zy	_
+10	ir	PRO$	איר	Ayr	_
+11	knekht	N	קנעכט	knext	_
+12	un	CONJ	און	AvN	_
+13	meydn	N	מײדן	mYdN	_
+14	tsu	P	צו	qv	_
+15	der	D	דער	der	_
+16	tir	N	טיר	tyr	_
+
+SENT	1697E-PURIM,462.596
+1	un'	CONJ	אונ'	Avn'	_
+2	zagin	VBF	זאַגין	zAagyN	_
+3	zi	PRO	זי	zy	_
+4	zalin	MDF	זאַלין	zAalyN	_
+5	zikh	PRO	זיך	zyX	_
+6	nakh	P	נ"ך	n"X	_
+7	eyn	D	אײן	AYN	_
+8	andrin	ADJ	אַנדרין	AandryN	_
+9	herin	N	הערין	heryN	_
+10	um	RP	אום	AvM	_
+11	zehn	VB	זעהן	zehN	_
+
+SENT	1697E-PURIM,463.598
+1	vi	WADV	װי	Vy	_
+2	zal	MDF	ז"ל	z"l	_
+3	den	D	דען	deN	_
+4	king	N	קינג	kyng	_
+5	gisehn	VB	גיסעהן	gysehN	_
+
+SENT	1697E-PURIM,464.600
+1	den	D	דען	deN	_
+2	dritn	ADJ	דריטן	drytN	_
+3	maneyt	N	מאַנײט	mAanYt	_
+4	habin	VBF	האַבין	hAabyN	_
+5	zi	PRO	זי	zy	_
+6	pfingstn	NPR	פּפֿינגסטן	pfyngstN	_
+
+SENT	1697E-PURIM,465.602
+1	un	CONJ	און	AvN	_
+2	flukhin	VBF	פֿלוכין	flvxyN	_
+3	uns	PRO	אונס	Avns	_
+4	den	D	דען	deN	_
+5	elstn	ADJS	עלסטן	elstN	_
+6	un	CONJ	און	AvN	_
+7	den	D	דען	deN	_
+8	yngstn	ADJS	ינגסטן	yngstN	_
+
+SENT	1697E-PURIM,466.604
+1	oyf	P	אױף	AWF	_
+2	hebreyas	N	העברײאַס	hebrYAas	_
+3	heyst	VBF	הײסט	hYst	_
+4	er	PRO	ער	er	_
+5	sbueut	NPR	סבועוט	sbvevt	_
+
+SENT	1697E-PURIM,467.606
+1	un	CONJ	און	AvN	_
+2	zagin	VBF	זאַגין	zAagyN	_
+3	oyf	P	אױף	AWF	_
+4	den	D	דען	deN	_
+5	king	N	קינג	kyng	_
+6	zalin	MDF	זאַלין	zAalyN	_
+7	kumin	VB	קומין	kvmyN	_
+8	di	D	די	dy	_
+9	beut	N	בעוט	bevt	_
+
+SENT	1697E-PURIM,468.608
+1	un	CONJ	און	AvN	_
+2	zagin	VBF	זאַגין	zAagyN	_
+3	in	P	אין	AyN	_
+4	dizn	D	דיזן	dyzN	_
+5	manit	N	מאַניט	mAanyt	_
+6	iz	BEF	איז	Ayz	_
+7	der	D	דער	der	_
+8	mozis	N	מאָזיס	mAozys	_
+9	gangin	VBN	גאַנגין	gAangyN	_
+10	oyf	P	אױף	AWF	_
+11	den	D	דען	deN	_
+12	berg	N	בערג	berg	_
+13	sni	NPR	סני	sny	_
+
+SENT	1697E-PURIM,469.610
+1	un	CONJ	און	AvN	_
+2	got	NPR	גאָט	gAot	_
+3	der	D	דער	der	_
+4	her	N	הער	her	_
+5	izt	BEF	איזט	Ayzt	_
+6	kumin	VBN	קומין	kvmyN	_
+7	mit	P	מיט	myt	_
+8	eyn	D	אײן	AYN	_
+9	grus	ADJ	גרוס	grvs	_
+10	gshrey	N	גשרײ	g$rY	_
+
+SENT	1697E-PURIM,470.612
+1	un'	CONJ	אונ'	Avn'	_
+2	hat	HVF	האַט	hAat	_
+3	di	D	די	dy	_
+4	tsehn	NUM	צעהן	qehN	_
+5	gibot	N	גיבאָט	gybAot	_
+6	gigeben	VBN	גיגעבען	gygebeN	_
+
+SENT	1697E-PURIM,471.614
+1	der	D	דער	der	_
+2	king	N	קינג	kyng	_
+3	zal	MDF	ז"ל	z"l	_
+4	nit	NEG	ניט	nyt	_
+5	lebin	VB	לעבין	lebyN	_
+
+SENT	1697E-PURIM,472.616
+1	den	D	דען	deN	_
+2	firtn	ADJ	פֿירטן	fyrtN	_
+3	manit	N	מאַניט	mAanyt	_
+4	yuali	NPR	יואַלי	yvAaly	_
+5	habin	VBF	האַבין	hAabyN	_
+6	zi	PRO	זי	zy	_
+7	eyn	D	אײן	AYN	_
+8	fast_tag	N	פֿאַסט_טאַג	fAast_tAag	_
+
+SENT	1697E-PURIM,473.618
+1	da	ADV	דאַ	dAa	_
+2	loyfn	VBF	לױפֿן	lWfN	_
+3	zi	PRO	זי	zy	_
+4	oyf	P	אױף	AWF	_
+5	ir	PRO$	איר	Ayr	_
+6	eltrin	N	עלטרין	eltryN	_
+7	grab	N	גראַב	grAab	_
+
+SENT	1697E-PURIM,474.620
+1	un'	CONJ	אונ'	Avn'	_
+2	veynn	VBF	װײנן	VYnN	_
+3	un'	CONJ	אונ'	Avn'	_
+4	shreyan	VBF	שרײאַן	$rYAaN	_
+5	un'	CONJ	אונ'	Avn'	_
+6	brumin	VBF	ברומין	brvmyN	_
+7	ir	PRO$	איר	Ayr	_
+8	mesis	N	מעסיס	mesys	_
+9	zal	MDF	ז"ל	z"l	_
+10	kumin	VB	קומין	kvmyN	_
+
+SENT	1697E-PURIM,476.622
+1	den	D	דען	deN	_
+2	finftn	ADJ	פֿינפֿטן	fynftN	_
+3	manit	N	מאַניט	mAanyt	_
+4	agustin	N	אַגוסטין	AagvstyN	_
+5	habin	VBF	האַבין	hAabyN	_
+6	zi	PRO	זי	zy	_
+7	gar	ADV	גאַר	gAar	_
+8	keyn	Q	קײן	kYN	_
+9	lustin	N	לוסטין	lvstyN	_
+
+SENT	1697E-PURIM,478.624
+1	neyn	NUM	נײן	nYN	_
+2	tag	N	תּג	Tg	_
+3	in	P	אין	AyN	_
+4	dizn	D	דיזן	dyzN	_
+5	maneyt	N	מאַנײט	mAanYt	_
+6	zitsn	VBF	זיצן	zyqN	_
+7	zi	PRO	זי	zy	_
+8	oyf	P	אױף	AWF	_
+9	der	D	דער	der	_
+10	erd	N	ערד	erd	_
+
+SENT	1697E-PURIM,479.626
+1	un'	CONJ	אונ'	Avn'	_
+2	zagin	VBF	זאַגין	zAagyN	_
+3	ir	PRO$	איר	Ayr	_
+4	tempil	N	טעמפּיל	tempyl	_
+5	izt	BEF	איזט	Ayzt	_
+6	vardin	RDN	װאַרדין	VAardyN	_
+7	fr_stert	VAN	פֿר_סטערט	fr_stert	_
+
+SENT	1697E-PURIM,480.628
+1	der	D	דער	der	_
+2	king	N	קינג	kyng	_
+3	zal	MDF	ז"ל	z"l	_
+4	um	RP	אום	AvM	_
+5	kumin	VB	קומין	kvmyN	_
+6	durkh	P	דורך	dvrX	_
+7	den	D	דען	deN	_
+8	shvert	N	שװערט	$Vert	_
+
+SENT	1697E-PURIM,481.630
+1	itlkhr	Q	איטלכר	Aytlxr	_
+2	kleynr	ADJ	קלײנר	klYnr	_
+3	yudn	N	יודן	yvdN	_
+4	mushl	N	מושל	mv$l	_
+5	hat	VBF	האַט	hAat	_
+6	eyn	D	אײן	AYN	_
+7	shvert	N	שװערט	$Vert	_
+8	un'	CONJ	אונ'	Avn'	_
+9	eyn	D	אײן	AYN	_
+10	biks	N	ביקס	byks	_
+
+SENT	1697E-PURIM,482.632
+1	tsu	TO	צו	qv	_
+2	sheltin	VB	שעלטין	$eltyN	_
+3	un'	CONJ	אונ'	Avn'	_
+4	flukhin	VB	פֿלוכין	flvxyN	_
+5	zeyn	VBF	זײן	zYN	_
+6	zi	PRO	זי	zy	_
+7	gar	ADV	גאַר	gAar	_
+8	fiks	ADJ	פֿיקס	fyks	_
+
+SENT	1697E-PURIM,483.634
+1	den	D	דען	deN	_
+2	zekstn	ADJ	זעקסטן	zekstN	_
+3	manheyt	N	מאַנהײט	mAanhYt	_
+4	septembr	NPR	סעפּטעמבר	septembr	_
+5	tunin	DOF	טונין	tvnyN	_
+6	zi	PRO	זי	zy	_
+7	oyf	P	אױף	AWF	_
+8	den	D	דען	deN	_
+9	harin	N	האַרין	hAaryN	_
+10	blazin	VB	בלאַזין	blAazyN	_
+11	gleykh	ADV	גלײך	glYX	_
+12	zi	PRO	זי	zy	_
+13	zeltin	MDF	זעלטין	zeltyN	_
+14	yagin	VB	יאַגין	yAagyN	_
+15	hirshn	N	הירשן	hyr$N	_
+16	un'	CONJ	אונ'	Avn'	_
+17	hazin	N	האַזין	hAazyN	_
+
+SENT	1697E-PURIM,485.636
+1	un	CONJ	און	AvN	_
+2	zagin	VBF	זאַגין	zAagyN	_
+3	vas	WPRO	װאַס	VAas	_
+4	zi	PRO	זי	zy	_
+5	habin	HVF	האַבין	hAabyN	_
+6	das	D	דת	dS	_
+7	gntsi	ADJ	גנצי	gnqy	_
+8	iar	N	איאַר	AyAar	_
+9	shalkeyt	N	שאַלקײט	$AalkYt	_
+10	gtribn	VBN	גטריבן	gtrybN	_
+
+SENT	1697E-PURIM,486.638
+1	virt	RDF	װירט	Vyrt	_
+2	zi	PRO	זי	zy	_
+3	das	D	דת	dS	_
+4	mal	N	מל	ml	_
+5	tsu	P	צו	qv	_
+6	gut	N	גוט	gvt	_
+7	an	RP	אַן	AaN	_
+8	gshribn	VB	גשריבן	g$rybN	_
+
+SENT	1697E-PURIM,487.640
+1	den	D	דען	deN	_
+2	zibntn	ADJ	זיבנטן	zybntN	_
+3	maneyt	N	מאַנײט	mAanYt	_
+4	habin	VBF	האַבין	hAabyN	_
+5	zi	PRO	זי	zy	_
+6	ir	PRO$	איר	Ayr	_
+7	ney	ADJ	נײ	nY	_
+8	yar	N	יאַר	yAar	_
+
+SENT	1697E-PURIM,488.642
+1	fr_flukhin	VBF	פֿר_פֿלוכין	fr_flvxyN	_
+2	zi	PRO	זי	zy	_
+3	di	D	די	dy	_
+4	kristn	N	קריסטן	krystN	_
+5	gants	ADV	גאַנץ	gAanQ	_
+6	un	CONJ	און	AvN	_
+7	gar	ADV	גאַר	gAar	_
+
+SENT	1697E-PURIM,489.644
+1	tsehn	NUM	צעהן	qehN	_
+2	tag	N	תּג	Tg	_
+3	in	P	אין	AyN	_
+4	dizin	D	דיזין	dyzyN	_
+5	maneyt	N	מאַנײט	mAanYt	_
+6	habin	VBF	האַבין	hAabyN	_
+7	zi	PRO	זי	zy	_
+8	eyn	D	אײן	AYN	_
+9	fast_tag	N	פֿאַסט_טאַג	fAast_tAag	_
+
+SENT	1697E-PURIM,490.646
+1	da	ADV	דאַ	dAa	_
+2	zeyn	VBF	זײן	zYN	_
+3	zi	PRO	זי	zy	_
+4	gar	ADV	גאַר	gAar	_
+5	treg	ADJ	טרעג	treg	_
+6	unt	CONJ	אונט	Avnt	_
+7	tsag	ADJ	צאַג	qAag	_
+
+SENT	1697E-PURIM,491.648
+1	den	D	דען	deN	_
+2	tag	N	תּג	Tg	_
+3	tsu_far	ADV	צו_פֿאַר	qv_fAar	_
+4	tunin	DOF	טונין	tvnyN	_
+5	zi	PRO	זי	zy	_
+6	abr	ADV	אַבר	Aabr	_
+7	fri	ADV	פֿרי	fry	_
+8	oyf	RP	אױף	AWF	_
+9	stin	VB	סטין	styN	_
+
+SENT	1697E-PURIM,492.650
+1	un	CONJ	און	AvN	_
+2	tuain	DOF	טואַיִן	tvAayiN	_
+3	oyf	P	אױף	AWF	_
+4	den	D	דען	deN	_
+5	mark	N	מאַרק	mAark	_
+6	gin	VB	גין	gyN	_
+
+SENT	1697E-PURIM,493.652
+1	di	D	די	dy	_
+2	hinr	N	הינר	hynr	_
+3	unt	CONJ	אונט	Avnt	_
+4	genz	N	גענז	genz	_
+5	tuain	DOF	טואַיִן	tvAayiN	_
+6	zi	PRO	זי	zy	_
+7	avek	ADV	אַװעק	AaVek	_
+8	fun	P	פֿון	fvN	_
+9	mark	N	מאַרק	mAark	_
+10	tragin	VB	טראַגין	trAagyN	_
+
+SENT	1697E-PURIM,494.654
+1	un'	CONJ	אונ'	Avn'	_
+2	tunin	DOF	טונין	tvnyN	_
+3	di	D	די	dy	_
+4	zelbgi	N	זעלבגי	zelbgy	_
+5	um	P	אום	AvM	_
+6	irh	PRO$	אירה	Ayrh	_
+7	kepf	N	קעפּף	kepF	_
+8	tsu	P	צו	qv	_
+9	eyn	D	אײן	AYN	_
+10	kprh	N	קפּרה	kprh	_
+11	hrum	ADV	הרום	hrvM	_
+12	shlagin	VB	שלאַגין	$lAagyN	_
+
+SENT	1697E-PURIM,495.656
+1	oykh	ADV	אױך	AWX	_
+2	ven	C	װען	VeN	_
+3	zi	PRO	זי	zy	_
+4	den	D	דען	deN	_
+5	zelbign	ADJ	זעלביגן	zelbygN	_
+6	tag	N	תּג	Tg	_
+7	eyn	D	אײן	AYN	_
+8	kristn	N	קריסטן	krystN	_
+9	findn	VBF	פֿינדן	fyndN	_
+10	fr_var	INTJ	פֿר_װאַר	fr_VAar	_
+11	zi	PRO	זי	zy	_
+12	tuain	DOF	טואַיִן	tvAayiN	_
+13	im	PRO	אים	AyM	_
+14	mit	P	מיט	myt	_
+15	shalkeyt	N	שאַלקײט	$AalkYt	_
+16	um	RP	אום	AvM	_
+17	vindn	VB	װינדן	VyndN	_
+
+SENT	1697E-PURIM,497.658
+1	un'	CONJ	אונ'	Avn'	_
+2	zagin	VBF	זאַגין	zAagyN	_
+3	du	PRO	דו	dv	_
+4	zalst	MDF	זאַלסט	zAalst	_
+5	meyn	PRO$	מײן	mYN	_
+6	kprh	N	קפּרה	kprh	_
+7	verin	VB	װערין	VeryN	_
+
+SENT	1697E-PURIM,498.660
+1	da_mit	DR+P	דאַ_מיט	dAa_myt	_
+2	vil	MDF	װיל	Vyl	_
+3	ikh	PRO	איך	AyX	_
+4	dikh	PRO	דיך	dyX	_
+5	fr_erin	VB	פֿר_ערין	fr_eryN	_
+
+SENT	1697E-PURIM,499.662
+1	eyn	D	אײן	AYN	_
+2	gantsin	ADJ	גאַנצין	gAanqyN	_
+3	tag	N	תּג	Tg	_
+4	tuain	DOF	טואַיִן	tvAayiN	_
+5	zi	PRO	זי	zy	_
+6	fresin	VB	פֿרעסין	fresyN	_
+7	un	CONJ	און	AvN	_
+8	zoyfn	VB	זױפֿן	zWfN	_
+
+SENT	1697E-PURIM,500.664
+1	tsu	P	צו	qv	_
+2	abnt	N	אַבנט	Aabnt	_
+3	tuain	DOF	טואַיִן	tvAayiN	_
+4	zi	PRO	זי	zy	_
+5	in	P	אין	AyN	_
+6	di	D	די	dy	_
+7	singagin	N	סינגאַגין	syngAagyN	_
+8	loyfn	VB	לױפֿן	lWfN	_
+
+SENT	1697E-PURIM,501.666
+1	eyn	D	אײן	AYN	_
+2	gantsi	ADJ	גאַנצי	gAanqy	_
+3	nakht	N	נאַכט	nAaxt	_
+4	un'	CONJ	אונ'	Avn'	_
+5	eyn	D	אײן	AYN	_
+6	gantsin	ADJ	גאַנצין	gAanqyN	_
+7	tag	N	תּג	Tg	_
+8	habin	VBF	האַבין	hAabyN	_
+9	zi	PRO	זי	zy	_
+10	da_zelbstn	ADV	דאַ_זעלבסטן	dAa_zelbstN	_
+11	eyn	D	אײן	AYN	_
+12	gshrey	N	גשרײ	g$rY	_
+
+SENT	1697E-PURIM,502.668
+1	un	CONJ	און	AvN	_
+2	iz	VBF	איז	Ayz	_
+3	dakh	ADV	דאַך	dAaX	_
+4	niks	Q	ניקס	nyks	_
+5	als	P	אַלס	Aals	_
+6	eytl	ADJ	אײטל	AYtl	_
+7	btrigrey	N	בטריגרײ	btrygrY	_
+
+SENT	1697E-PURIM,503.670
+1	in	P	אין	AyN	_
+2	fuftsehn	NUM	פֿופֿצעהן	fvfqehN	_
+3	tag	N	תּג	Tg	_
+4	in	P	אין	AyN	_
+5	dizn	D	דיזן	dyzN	_
+6	maneyt	N	מאַנײט	mAanYt	_
+7	tuain	DOF	טואַיִן	tvAayiN	_
+8	zi	PRO	זי	zy	_
+9	ir	PRO$	איר	Ayr	_
+10	loybr_hitn	N	לױבר_היטן	lWbr_hytN	_
+11	makhin	VB	מאַכין	mAaxyN	_
+12	dz	C	דז	dz	_
+13	men	PRO	מען	meN	_
+14	muz	MDF	מוז	mvz	_
+15	dribr	DR+P	דריבר	drybr	_
+16	lakhin	VB	לאַכין	lAaxyN	_
+
+SENT	1697E-PURIM,505.672
+1	un	CONJ	און	AvN	_
+2	tuain	DOF	טואַיִן	tvAayiN	_
+3	oyf	P	אױף	AWF	_
+4	irh	PRO$	אירה	Ayrh	_
+5	bidn	N	בידן	bydN	_
+6	di	D	די	dy	_
+7	dekhir	N	דעכיר	dexyr	_
+8	eyn	RP	אײן	AYN	_
+9	brekhin	VB	ברעכין	brexyN	_
+
+SENT	1697E-PURIM,506.674
+1	es	PRO	עס	es	_
+2	mag	MDF	מאַג	mAag	_
+3	regnin	VB	רעגנין	regnyN	_
+4	udr	CONJ	אודר	Avdr	_
+5	oykh	ADV	אױך	AWX	_
+6	shnian	VB	שניִאַן	$nyiAaN	_
+
+SENT	1697E-PURIM,506.675
+1	bleybn	VBF	בלײבן	blYbN	_
+2	zi	PRO	זי	zy	_
+3	dakh	ADV	דאַך	dAaX	_
+4	drinn	ADV	דרינן	drynN	_
+5	zitsn	RP-V	זיצן	zyqN	_
+6	dz	C	דז	dz	_
+7	zi	PRO	זי	zy	_
+8	mekhtin	MDF	מעכטין	mextyN	_
+9	fr	P	פֿר	fr	_
+10	kelt	N	קעלט	kelt	_
+11	shvitsn	VB	שװיצן	$VyqN	_
+
+SENT	1697E-PURIM,508.677
+1	oykh	ADV	אױך	AWX	_
+2	nemin	VBF	נעמין	nemyN	_
+3	zi	PRO	זי	zy	_
+4	den	D	דען	deN	_
+5	zelbig	ADJ	זעלביג	zelbyg	_
+6	tag	N	תּג	Tg	_
+7	den	D	דען	deN	_
+8	pardis_apfil	N	פּאַרדיס_אַפּפֿיל	pAardys_Aapfyl	_
+9	un'	CONJ	אונ'	Avn'	_
+10	teytl_bletir	N	טײטל_בלעטיר	tYtl_bletyr	_
+
+SENT	1697E-PURIM,509.679
+1	un	CONJ	און	AvN	_
+2	shitln	VBF	שיטלן	$ytlN	_
+3	ibr_al	ADV	איבר_אַל	Aybr_Aal	_
+4	in	P	אין	AyN	_
+5	alin	Q	אַלין	AalyN	_
+6	ertir	N	ערטיר	ertyr	_
+
+SENT	1697E-PURIM,510.681
+1	un	CONJ	און	AvN	_
+2	makhin	VBF	מאַכין	mAaxyN	_
+3	da_ribr	DR+P	דאַ_ריבר	dAa_rybr	_
+4	eyn	D	אײן	AYN	_
+5	zegin	N	זעגין	zegyN	_
+
+SENT	1697E-PURIM,511.683
+1	un	CONJ	און	AvN	_
+2	betin	VBF	בעטין	betyN	_
+3	di	D	די	dy	_
+4	kristn	N	קריסטן	krystN	_
+5	zalin	MDF	זאַלין	zAalyN	_
+6	nit	NEG	ניט	nyt	_
+7	lebin	VB	לעבין	lebyN	_
+
+SENT	1697E-PURIM,512.685
+1	den	D	דען	deN	_
+2	akhtin	ADJ	אַכטין	AaxtyN	_
+3	maneyt	N	מאַנײט	mAanYt	_
+4	fangin	VBF	פֿאַנגין	fAangyN	_
+5	zi	PRO	זי	zy	_
+6	vidrum	ADV	װידרום	VydrvM	_
+7	an	RP	אַן	AaN	_
+8	oyf	P	אױף	AWF	_
+9	das	D	דת	dS	_
+10	ney	N	נײ	nY	_
+11	in	P	אין	AyN	_
+12	di	D	די	dy	_
+13	finf	NUM	פֿינף	fynF	_
+14	bikhr	N	ביכר	byxr	_
+15	mazis	NPR	מאַזיס	mAazys	_
+16	tsu	TO	צו	qv	_
+17	lezin	VB	לעזין	lezyN	_
+
+SENT	1697E-PURIM,513.687
+1	un	CONJ	און	AvN	_
+2	habin	VBF	האַבין	hAabyN	_
+3	eyn	D	אײן	AYN	_
+4	grus	ADJ	גרוס	grvs	_
+5	vezin	N	װעזין	VezyN	_
+
+SENT	1697E-PURIM,514.689
+1	den	D	דען	deN	_
+2	neynt	ADJ	נײנט	nYnt	_
+3	maneyt	N	מאַנײט	mAanYt	_
+4	nvembr	NPR	נװעמבר	nVembr	_
+5	da	ADV	דאַ	dAa	_
+6	habin	VBF	האַבין	hAabyN	_
+7	zi	PRO	זי	zy	_
+8	gants	ADV	גאַנץ	gAanQ	_
+9	akht	NUM	אַכט	Aaxt	_
+10	tag	N	תּג	Tg	_
+11	feyar_tag	N	פֿײאַר_טאַג	fYAar_tAag	_
+12	dz	C	דז	dz	_
+13	di	D	די	dy	_
+14	menir	N	מעניר	menyr	_
+15	nakh	CONJ	נ"ך	n"X	_
+16	veyb	N	װײב	VYb	_
+17	niks	Q	ניקס	nyks	_
+18	arbeytn	VB	אַרבײטן	AarbYtN	_
+19	mag	MDF	מאַג	mAag	_
+
+SENT	1697E-PURIM,516.691
+1	tsu	P	צו	qv	_
+2	abnt	N	אַבנט	Aabnt	_
+3	tsindn	VBF	צינדן	qyndN	_
+4	zi	PRO	זי	zy	_
+5	an	RP	אַן	AaN	_
+6	fil	Q	פֿיל	fyl	_
+7	likhtr	N	ליכטר	lyxtr	_
+8	tsu	TO	צו	qv	_
+9	gdenkin	VB	גדענקין	gdenkyN	_
+10	an	P	אַן	AaN	_
+11	di	D	די	dy	_
+12	altin	ADJ	אַלטין	AaltyN	_
+13	gishikhtr	N	גישיכטר	gy$yxtr	_
+
+SENT	1697E-PURIM,518.693
+1	un	CONJ	און	AvN	_
+2	ven	C	װען	VeN	_
+3	imnt	Q	אימנט	Aymnt	_
+4	kem	VBF	קעם	keM	_
+5	fr	P	פֿר	fr	_
+6	irn	PRO$	אירן	AyrN	_
+7	hoyz	N	הױז	hWz	_
+8	un'	CONJ	אונ'	Avn'	_
+9	di	D	די	dy	_
+10	zkhin	N	זכין	zxyN	_
+11	verin	VBF	װערין	VeryN	_
+12	im	PRO	אים	AyM	_
+13	um_bkant	ADJ	אומ_בקאַנט	Avm_bkAant	_
+14	meynt	VBF	מײנט	mYnt	_
+15	er	PRO	ער	er	_
+16	das	D	דת	dS	_
+17	gants	ADJ	גאַנץ	gAanQ	_
+18	hoys	N	הױס	hWs	_
+19	stit	VBF	סטיט	styt	_
+20	in	P	אין	AyN	_
+21	brnd	N	ברנד	brnd	_
+
+SENT	1697E-PURIM,520.695
+1	in	P	אין	AyN	_
+2	der	D	דער	der	_
+3	tsehntn	ADJ	צעהנטן	qehntN	_
+4	manheyt	N	מאַנהײט	mAanhYt	_
+5	habin	VBF	האַבין	hAabyN	_
+6	zi	PRO	זי	zy	_
+7	vidr	ADV	װידר	Vydr	_
+8	eyn	D	אײן	AYN	_
+9	tag	N	תּג	Tg	_
+10	eyn	D	אײן	AYN	_
+11	troyar	N	טרױאַר	trWAar	_
+12	un	CONJ	און	AvN	_
+13	fastig	N	פֿאַסטיג	fAastyg	_
+
+SENT	1697E-PURIM,521.697
+1	un	CONJ	און	AvN	_
+2	betin	VBF	בעטין	betyN	_
+3	der	D	דער	der	_
+4	king	N	קינג	kyng	_
+5	zal	MDF	ז"ל	z"l	_
+6	nit	NEG	ניט	nyt	_
+7	ruain	VB	רואַיִן	rvAayiN	_
+8	nakh	CONJ	נ"ך	n"X	_
+9	rstin	VB	רסטין	rstyN	_
+
+SENT	1697E-PURIM,522.699
+1	un	CONJ	און	AvN	_
+2	zagin	VBF	זאַגין	zAagyN	_
+3	an	P	אַן	AaN	_
+4	dizn	D	דיזן	dyzN	_
+5	tag	N	תּג	Tg	_
+6	habin	HVF	האַבין	hAabyN	_
+7	ir	PRO$	איר	Ayr	_
+8	eltrin	N	עלטרין	eltryN	_
+9	di	D	די	dy	_
+10	post	N	פּאָסט	pAost	_
+11	in	P	אין	AyN	_
+12	andrin	ADJ	אַנדרין	AandryN	_
+13	lendrin	N	לענדרין	lendryN	_
+14	gihert	VBN	גיהערט	gyhert	_
+15	dz	C	דז	dz	_
+16	iruzlm	N	אירוזלם	AyrvzlM	_
+17	izt	BEF	איזט	Ayzt	_
+18	vardin	RDN	װאַרדין	VAardyN	_
+19	fr_shtert	VAN	פֿר_שטערט	fr_$tert	_
+
+SENT	1697E-PURIM,524.701
+1	den	D	דען	deN	_
+2	eylftn	ADJ	אײלפֿטן	AYlftN	_
+3	manheyt	N	מאַנהײט	mAanhYt	_
+4	velkhir	WPRO	װעלכיר	Velxyr	_
+5	ginent	VAN	גינענט	gynent	_
+6	virt	RDF	װירט	Vyrt	_
+7	sbt	N	סבט	sbt	_
+8	da	ADV	דאַ	dAa	_
+9	makhin	VBF	מאַכין	mAaxyN	_
+10	zi	PRO	זי	zy	_
+11	zikh	PRO	זיך	zyX	_
+12	lustig	ADJ	לוסטיג	lvstyg	_
+
+SENT	1697E-PURIM,525.703
+1	un'	CONJ	אונ'	Avn'	_
+2	esin	VBF	עסין	esyN	_
+3	zikh	PRO	זיך	zyX	_
+4	gar	ADV	גאַר	gAar	_
+5	zat	ADJ	זאַט	zAat	_
+
+SENT	1697E-PURIM,526.705
+1	un'	CONJ	אונ'	Avn'	_
+2	tantsin	VBF	טאַנצין	tAanqyN	_
+3	unt	CONJ	אונט	Avnt	_
+4	springn	VBF	ספּרינגן	spryngN	_
+
+SENT	1697E-PURIM,528.707
+1	un'	CONJ	אונ'	Avn'	_
+2	betin	VBF	בעטין	betyN	_
+3	es	PRO	עס	es	_
+4	zal	MDF	ז"ל	z"l	_
+5	den	D	דען	deN	_
+6	king	N	קינג	kyng	_
+7	ibl	ADV	איבל	Aybl	_
+8	glingn	VB	גלינגן	glyngN	_
+
+SENT	1697E-PURIM,529.709
+1	un	CONJ	און	AvN	_
+2	tuain	DOF	טואַיִן	tvAayiN	_
+3	uns	PRO	אונס	Avns	_
+4	kristn	N	קריסטן	krystN	_
+5	btrign	VB	בטריגן	btrygN	_
+
+SENT	1697E-PURIM,530.711
+1	ir	PRO$	איר	Ayr	_
+2	bizh	ADJ	ביזש	byz$	_
+3	verk	N	װערק	Verk	_
+4	ken	MDF	קען	keN	_
+5	ikh	PRO	איך	AyX	_
+6	nit	NEG	ניט	nyt	_
+7	gnug	Q	גנוג	gnvg	_
+8	far	RP	פֿאַר	fAar	_
+9	stelin	VB	סטעלין	stelyN	_
+10	un'	CONJ	אונ'	Avn'	_
+11	far	RP	פֿאַר	fAar	_
+12	tragin	VB	טראַגין	trAagyN	_
+
+SENT	1697E-PURIM,531.713
+1	zi	PRO	זי	zy	_
+2	zeyn	VBF	זײן	zYN	_
+3	nks	Q	נקס	nks	_
+4	besrs	ADJR	בעסרס	besrs	_
+5	vert	ADJ	װערט	Vert	_
+6	men	PRO	מען	meN	_
+7	zalti	MDF	זאַלטי	zAalty	_
+8	zi	PRO	זי	zy	_
+9	der_shlagin	VB	דער_שלאַגין	der_$lAagyN	_
+
+SENT	1697E-PURIM,532.715
+1	den	CONJ	דען	deN	_
+2	veyl	C	װײל	VYl	_
+3	ikh	PRO	איך	AyX	_
+4	hab	HVF	האַב	hAab	_
+5	den	D	דען	deN	_
+6	king	N	קינג	kyng	_
+7	far	RP	פֿאַר	fAar	_
+8	gstelt	VBN	גסטעלט	gstelt	_
+9	das	D	דת	dS	_
+10	gntsi	ADJ	גנצי	gnqy	_
+11	yar	N	יאַר	yAar	_
+12	zint	VBF	זינט	zynt	_
+13	zi	PRO	זי	zy	_
+14	im	PRO	אים	AyM	_
+15	nikht	NEG	ניכט	nyxt	_
+16	gutts	ADJ	גוטץ	gvtQ	_
+17	um	P	אום	AvM	_
+18	eyn	D	אײן	AYN	_
+19	har	N	האַר	hAar	_
+
+SENT	1697E-PURIM,534.717
+1	gleykh_val	ADV	גלײכ_װאַל	glYx_VAal	_
+2	hab	HVF	האַב	hAab	_
+3	ikh	PRO	איך	AyX	_
+4	keyn	Q	קײן	kYN	_
+5	manheyt	N	מאַנהײט	mAanhYt	_
+6	kenin	MDN-IPP	קענין	kenyN	_
+7	fendin	VB	פֿענדין	fendyN	_
+8	dz	C	דז	dz	_
+9	ikh	PRO	איך	AyX	_
+10	di	D	די	dy	_
+11	shelmn	N	שעלמן	$elmN	_
+12	kent	MDF	קענט	kent	_
+13	ibr_vindn	VB	איבר_װינדן	Aybr_VyndN	_
+
+SENT	1697E-PURIM,536.719
+1	abr	CONJ	אַבר	Aabr	_
+2	in	P	אין	AyN	_
+3	dizn	D	דיזן	dyzN	_
+4	manheyt	N	מאַנהײט	mAanhYt	_
+5	martsiuas	N	מאַרציִואַס	mAarqyivAas	_
+6	izt	BEF	איזט	Ayzt	_
+7	ir	PRO$	איר	Ayr	_
+8	rbinu	N	רבינו	rbynv	_
+9	masiz	N	מאַסיז	mAasyz	_
+10	gstarbn	VBN	גסטאַרבן	gstAarbN	_
+
+SENT	1697E-PURIM,537.721
+1	alz_den	ADV	אַלז_דען	Aalz_deN	_
+2	hof	VBF	האָף	hAoF	_
+3	ikh	PRO	איך	AyX	_
+4	zi	PRO	זי	zy	_
+5	verdin	RDF	װערדין	VerdyN	_
+6	kenin	MD	קענין	kenyN	_
+7	verdin	RD	װערדין	VerdyN	_
+8	fr_darbin	VAN	פֿר_דאַרבין	fr_dAarbyN	_
+
+SENT	1697E-PURIM,538.723
+1	drum	DR+P	דרום	drvM	_
+2	oykh	ADV	אױך	AWX	_
+3	tsehn_toyznt	NUM	צעהנ_טױזנט	qehn_tWznt	_
+4	tsentr	N	צענטר	qentr	_
+5	zilbr	N	זילבר	zylbr	_
+6	vil	MDF	װיל	Vyl	_
+7	ikh	PRO	איך	AyX	_
+8	gerin	ADV	גערין	geryN	_
+9	gebin	VB	געבין	gebyN	_
+10	um	P	אום	AvM	_
+11	den	D	דען	deN	_
+12	shelmn	N	שעלמן	$elmN	_
+13	ir	PRO$	איר	Ayr	_
+14	lebin	N	לעבין	lebyN	_
+15	nikht	NEG	ניכט	nyxt	_
+16	um	P	אום	AvM	_
+17	den	D	דען	deN	_
+18	shelmn	N	שעלמן	$elmN	_
+19	mrdkhi	NPR	מרדכי	mrdxy	_
+20	aleyn	ADV	אַלײן	AalYN	_
+21	zundrin	CONJ	זונדרין	zvndryN	_
+22	um	P	אום	AvM	_
+23	ali	Q	אַלי	Aaly	_
+24	yudn	N	יודן	yvdN	_
+25	gmeyn	ADJ	גמײן	gmYN	_
+
+SENT	1697E-PURIM,542.725
+1	{mlkh}	N	{מלך}	{mlX}	_
+2	hmn	NPR	המן	hmN	_
+3	ikh	PRO	איך	AyX	_
+4	habi	HVF	האַבי	hAaby	_
+5	fr_numin	VBN	פֿר_נומין	fr_nvmyN	_
+6	deyn	PRO$	דײן	dYN	_
+7	zagi	N	זאַגי	zAagy	_
+
+SENT	1697E-PURIM,543.727
+1	fr_var	ADV	פֿר_װאַר	fr_VAar	_
+2	ikh	PRO	איך	AyX	_
+3	hab	HVF	האַב	hAab	_
+4	es	PRO	עס	es	_
+5	nit	NEG	ניט	nyt	_
+6	gihert	VBN	גיהערט	gyhert	_
+7	meyn	PRO$	מײן	mYN	_
+8	lebtage	N	לעבטאַגע	lebtAage	_
+
+SENT	1697E-PURIM,544.729
+1	drum	DR+P	דרום	drvM	_
+2	di	D	די	dy	_
+3	tsehn_toyznt	NUM	צעהנ_טױזנט	qehn_tWznt	_
+4	tsentnr	N	צענטנר	qentnr	_
+5	zilbr	N	זילבר	zylbr	_
+6	zal	MDF	ז"ל	z"l	_
+7	dir	PRO	דיר	dyr	_
+8	gishenkt	VAN	גישענקט	gy$enkt	_
+9	zeyn	BE	זײן	zYN	_
+10	oykh	ADV	אױך	AWX	_
+11	ali	Q	אַלי	Aaly	_
+12	yudn	N	יודן	yvdN	_
+13	gmeyn	ADV	גמײן	gmYN	_
+
+SENT	1697E-PURIM,546.731
+1	da	ADV	דאַ	dAa	_
+2-3	hastu	VBF~PRO	האַסטו	hAastv	_
+2	has	VBF	האַס	hAas	_
+3	tu	PRO	טו	tv	_
+4	das	D	דת	dS	_
+5	fastir	N	פֿאַסטיר	fAastyr	_
+6	fun	P	פֿון	fvN	_
+7	meynr	PRO$	מײנר	mYnr	_
+8	hnt	N	הנט	hnt	_
+
+SENT	1697E-PURIM,547.733
+1	laz	VBI	לאַז	lAaz	_
+2	oys	RP	אױס	AWs	_
+3	shreybn	VB	שרײבן	$rYbN	_
+4	unt	CONJ	אונט	Avnt	_
+5	oys	RP	אױס	AWs	_
+6	rufin	VB	רופֿין	rvfyN	_
+7	in	P	אין	AyN	_
+8	gntsin	ADJ	גנצין	gnqyN	_
+9	lnd	N	לנד	lnd	_
+10	mit	P	מיט	myt	_
+11	shelmeyan	N	שעלמײאַן	$elmYAaN	_
+12	un	CONJ	און	AvN	_
+13	trmpitn	N	טרמפּיטן	trmpytN	_
+14	di	D	די	dy	_
+15	shelmn	N	שעלמן	$elmN	_
+16	yudn	N	יודן	yvdN	_
+17	tsu	TO	צו	qv	_
+18	titn	VB	טיטן	tytN	_
+19	tsu	TO	צו	qv	_
+20	er_shlagin	VB	ער_שלאַגין	er_$lAagyN	_
+21	mit	P	מיט	myt	_
+22	den	D	דען	deN	_
+23	shvert	N	שװערט	$Vert	_
+
+SENT	1697E-PURIM,551.735
+1	den	CONJ	דען	deN	_
+2	zi	PRO	זי	zy	_
+3	zeyn	VBF	זײן	zYN	_
+4	niks	Q	ניקס	nyks	_
+5	besrs	ADJR	בעסרס	besrs	_
+6	vert	ADJ	װערט	Vert	_
+
+SENT	1697E-PURIM,552.737
+1	dreytsehn	NUM	דרײצעהן	drYqehN	_
+2	tag	N	תּג	Tg	_
+3	in	P	אין	AyN	_
+4	dizn	D	דיזן	dyzN	_
+5	manheyt	N	מאַנהײט	mAanhYt	_
+6	zal	MDF	ז"ל	z"l	_
+7	es	ES	עס	es	_
+8	breyt	ADJ	ברײט	brYt	_
+9	verin	VB	װערין	VeryN	_
+10	dz	C	דז	dz	_
+11	men	PRO	מען	meN	_
+12	zal	MDF	ז"ל	z"l	_
+13	keyn	Q	קײן	kYN	_
+14	shelmn	N	שעלמן	$elmN	_
+15	nit	NEG	ניט	nyt	_
+16	zehn	VB	זעהן	zehN	_
+17	nakh	CONJ	נ"ך	n"X	_
+18	herin	VB	הערין	heryN	_
+
+SENT	1697E-PURIM,554.739
+1	frid	N	פֿריד	fryd	_
+2	tsu	P	צו	qv	_
+3	oykh	N	אױך	AWX	_
+4	ir	PRO	איר	Ayr	_
+5	herin	N	הערין	heryN	_
+6	un'	CONJ	אונ'	Avn'	_
+7	ferstin	N	פֿערסטין	ferstyN	_
+8	prs	H	פּרס	prs	Persia
+9	umdi	H	אומדי	Avmdy	and_Media
+10	es	PRO	עס	es	_
+11	zey	VBF	זײ	zY	_
+12	krist	N	קריסט	kryst	_
+13	udr	CONJ	אודר	Avdr	_
+14	ihudi	N	איהודי	Ayhvdy	_
+
+SENT	1697E-PURIM,556.741
+1	da	ADV	דאַ	dAa	_
+2	lazt	VBF	לאַזט	lAazt	_
+3	der	D	דער	der	_
+4	king	N	קינג	kyng	_
+5	oys	RP	אױס	AWs	_
+6	rufin	VB	רופֿין	rvfyN	_
+7	mit	P	מיט	myt	_
+8	shelmeyan	N	שעלמײאַן	$elmYAaN	_
+9	un'	CONJ	אונ'	Avn'	_
+10	trumpitn	N	טרומפּיטן	trvmpytN	_
+11	men	PRO	מען	meN	_
+12	zal	MDF	ז"ל	z"l	_
+13	ali	Q	אַלי	Aaly	_
+14	yudn	N	יודן	yvdN	_
+15	titn	VB	טיטן	tytN	_
+16	tsu	TO	צו	qv	_
+17	er_shlagin	VB	ער_שלאַגין	er_$lAagyN	_
+18	mit	P	מיט	myt	_
+19	den	D	דען	deN	_
+20	shvert	N	שװערט	$Vert	_
+21	veyl	C	װײל	VYl	_
+22	es	PRO	עס	es	_
+23	der	D	דער	der	_
+24	knng	N	קננג	knng	_
+25	bigert	VBF	ביגערט	bygert	_
+
+SENT	1697E-PURIM,560.743
+1	dreytsehn	NUM	דרײצעהן	drYqehN	_
+2	tag	N	תּג	Tg	_
+3	in	P	אין	AyN	_
+4	martsi	N	מאַרצי	mAarqy	_
+5	zal	MDF	ז"ל	z"l	_
+6	dizs	D	דיזס	dyzs	_
+7	an	RP	אַן	AaN	_
+8	fangin	VB	פֿאַנגין	fAangyN	_
+
+SENT	1697E-PURIM,561.745
+1	vau	WADV	װאַו	VAav	_
+2	men	PRO	מען	meN	_
+3	eyn	D	אײן	AYN	_
+4	yudn	N	יודן	yvdN	_
+5	findet	VBF	פֿינדעט	fyndet	_
+6	zal	MDF	ז"ל	z"l	_
+7	er	PRO	ער	er	_
+8	verin	RD	װערין	VeryN	_
+9	ghangin	VAN	גהאַנגין	ghAangyN	_
+
+SENT	1697E-PURIM,562.747
+1	altir	ADJ	אַלטיר	Aaltyr	_
+2	nr	N	נר	nr	_
+3	vi	WADV	װי	Vy	_
+4	shmekt	VBF	שמעקט	$mekt	_
+5	es	PRO	עס	es	_
+6	dir	PRO	דיר	dyr	_
+
+SENT	1697E-PURIM,563.749
+1	vi	INTJ	װי	Vy	_
+2	vi	INTJ	װי	Vy	_
+3	vi	WADV	װי	Vy	_
+4	bin	BEF	בין	byN	_
+5	ikh	PRO	איך	AyX	_
+6	glegin	VBN	גלעגין	glegyN	_
+
+SENT	1697E-PURIM,563.750
+1	un	CONJ	און	AvN	_
+2	hab	HVF	האַב	hAab	_
+3	zu	ADV	זו	zv	_
+4	gshmak	ADV	גשמאַק	g$mAak	_
+5	gushlufin	VBN	גושלופֿין	gv$lvfyN	_
+
+SENT	1697E-PURIM,564.752
+1	hat	HVF	האַט	hAat	_
+2	mikh	PRO	מיך	myX	_
+3	eyn	D	אײן	AYN	_
+4	bizr	ADJ	ביזר	byzr	_
+5	khulm	N	כולם	xvlM	_
+6	gikhulmt	VBN	גיכולמט	gyxvlmt	_
+7	meyn	VBF	מײן	mYN	_
+8	ikh	PRO	איך	AyX	_
+9	eyn	D	אײן	AYN	_
+10	bizr	ADJ	ביזר	byzr	_
+11	troym	N	טרױם	trWM	_
+12	gtroymt	VBN	גטרױמט	gtrWmt	_
+
+SENT	1697E-PURIM,564.753
+1	ikh	PRO	איך	AyX	_
+2	vere	BEF	װערע	Vere	_
+3	nit	NEG	ניט	nyt	_
+4	tsu	P	צו	qv	_
+5	hoyz	N	הױז	hWz	_
+6	givezin	VBN	גיװעזין	gyVezyN	_
+
+SENT	1697E-PURIM,565.755
+1	bin	BEF	בין	byN	_
+2	tsu	P	צו	qv	_
+3	hats_plats	NPR	האַצ_פּלאַץ	hAaq_plAaQ	_
+4	oyf	P	אױף	AWF	_
+5	den	D	דען	deN	_
+6	fedrn_mark	N	פֿעדרנ_מאַרק	fedrn_mAark	_
+7	givezin	VBN	גיװעזין	gyVezyN	_
+
+SENT	1697E-PURIM,565.756
+1	un'	CONJ	אונ'	Avn'	_
+2	habi	HVF	האַבי	hAaby	_
+3	eyn	D	אײן	AYN	_
+4	zak	N	זאַק	zAak	_
+5	alti	ADJ	אַלטי	Aalty	_
+6	fedrin	N	פֿעדרין	fedryN	_
+7	gihndlt	VBN	גיהנדלט	gyhndlt	_
+
+SENT	1697E-PURIM,566.758
+1	iz	BEF	איז	Ayz	_
+2	meyn	PRO$	מײן	mYN	_
+3	zak	N	זאַק	zAak	_
+4	tsu_risn	VBN	צו_ריסן	qv_rysN	_
+
+SENT	1697E-PURIM,566.759
+1	bin	BEF	בין	byN	_
+2	ikh	PRO	איך	AyX	_
+3	heym	ADV	הײם	hYM	_
+4	kumin	VBN	קומין	kvmyN	_
+5	tsu	P	צו	qv	_
+6	meyn	PRO$	מײן	mYN	_
+7	veyb	N	װײב	VYb	_
+
+SENT	1697E-PURIM,566.760
+1	zi	PRO	זי	zy	_
+2	zal	MDF	ז"ל	z"l	_
+3	mir	PRO	מיר	myr	_
+4	meyn	PRO$	מײן	mYN	_
+5	zak	N	זאַק	zAak	_
+6	tsu	RP	צו	qv	_
+7	flikn	VB	פֿליקן	flykN	_
+
+SENT	1697E-PURIM,567.762
+1	hat	HVF	האַט	hAat	_
+2	zi	PRO	זי	zy	_
+3	mir	PRO	מיר	myr	_
+4	eyn	D	אײן	AYN	_
+5	grusin	ADJ	גרוסין	grvsyN	_
+6	hiltsrn	ADJ	הילצרן	hylqrN	_
+7	shlum	H	שלום	$lvM	peace
+8	elikhm	H	עליכם	elyxM	to_you
+9	gebin	VBN	געבין	gebyN	_
+
+SENT	1697E-PURIM,568.764
+1	un'	CONJ	אונ'	Avn'	_
+2	hat	HVF	האַט	hAat	_
+3	mikh	PRO	מיך	myX	_
+4	tsu	P	צו	qv	_
+5	der	D	דער	der	_
+6	stub	N	סטוב	stvb	_
+7	hroys	ADV	הרױס	hrWs	_
+8	gstusin	VBN	גסטוסין	gstvsyN	_
+
+SENT	1697E-PURIM,569.766
+1	zagt	VBF	זאַגט	zAagt	_
+2	zi	PRO	זי	zy	_
+3	vau	WADV	װאַו	VAav	_
+4-5	hastu	VBF~PRO	האַסטו	hAastv	_
+4	has	VBF	האַס	hAas	_
+5	tu	PRO	טו	tv	_
+6	den	D	דען	deN	_
+7	zak	N	זאַק	zAak	_
+
+SENT	1697E-PURIM,569.767
+1	zag	VBF	זאַג	zAag	_
+2	ikh	PRO	איך	AyX	_
+3	er	PRO	ער	er	_
+4	izt	BEF	איזט	Ayzt	_
+5	mir	PRO	מיר	myr	_
+6	tsu_risn	VBN	צו_ריסן	qv_rysN	_
+
+SENT	1697E-PURIM,569.768
+1	zagt	VBF	זאַגט	zAagt	_
+2	zi	PRO	זי	zy	_
+3	hab	VBI	האַב	hAab	_
+4	dir	PRO	דיר	dyr	_
+5	eyn	D	אײן	AYN	_
+6	pestlents	N	פּעסטלענץ	pestlenQ	_
+7	tsu	P	צו	qv	_
+8	den	D	דען	deN	_
+9	vil_kum	N	װיל_קום	Vyl_kvM	_
+
+SENT	1697E-PURIM,570.770
+1	vas	WPRO	װאַס	VAas	_
+2-3	bistu	VBF~PRO	ביסטו	bystv	_
+2	bis	VBF	ביס	bys	_
+3	tu	PRO	טו	tv	_
+4	mir	PRO	מיר	myr	_
+5	nitts	ADJ	ניטץ	nytQ	_
+6	mit	P	מיט	myt	_
+7	eyn	D	אײן	AYN	_
+8	tsu_risin	ADJ	צו_ריסין	qv_rysyN	_
+9	zak	N	זאַק	zAak	_
+
+SENT	1697E-PURIM,571.772
+1	gi	VBI	גי	gy	_
+2	tsu	P	צו	qv	_
+3	den	D	דען	deN	_
+4	rakh_fang_karir	N	ראַכ_פֿאַנג_קאַריר	rAax_fAang_kAaryr	_
+5	udr	CONJ	אודר	Avdr	_
+6-7	tsum	P~D	צום	qvM	_
+6	tsu	P	צו	qv	_
+7	m	D	מ	m	_
+8	slt_fegr	N	סלט_פֿעגר	slt_fegr	_
+
+SENT	1697E-PURIM,571.773
+1	un'	CONJ	אונ'	Avn'	_
+2	laz	VBI	לאַז	lAaz	_
+3	dir	PRO	דיר	dyr	_
+4	das	D	דת	dS	_
+5	lakh	N	לאַך	lAaX	_
+6	tsu	RP	צו	qv	_
+7	flikn	VB	פֿליקן	flykN	_
+
+SENT	1697E-PURIM,572.775
+1	alzu	ADV	אַלזו	Aalzv	_
+2	bld	ADV	בלד	bld	_
+3	hab	HVF	האַב	hAab	_
+4	ikh	PRO	איך	AyX	_
+5	es	PRO	עס	es	_
+6	gimarkt	VBN	גימאַרקט	gymAarkt	_
+7	dz	C	דז	dz	_
+8	es	ES	עס	es	_
+9	izt	VBF	איזט	Ayzt	_
+10	eyn	D	אײן	AYN	_
+11	pumprlh	ADJ	פּומפּרלה	pvmprlh	_
+12	gzirh	N	גזירה	gzyrh	_
+13	fr_hndin	ADJ	פֿר_הנדין	fr_hndyN	_
+
+SENT	1697E-PURIM,573.777
+1	gi	VBF	גי	gy	_
+2	ikh	PRO	איך	AyX	_
+3	hroys	ADV	הרױס	hrWs	_
+4	in	P	אין	AyN	_
+5	meyn	PRO$	מײן	mYN	_
+6	stal	N	סטאַל	stAal	_
+
+SENT	1697E-PURIM,573.778
+1	stiht	VBF	סטיהט	styht	_
+2	meyn	PRO$	מײן	mYN	_
+3	ruth	ADJ	רוטה	rvth	_
+4	kueh	N	קועה	kveh	_
+
+SENT	1697E-PURIM,573.779
+1	un	CONJ	און	AvN	_
+2	antfangt	VBF	אַנטפֿאַנגט	AantfAangt	_
+3	mikh	PRO	מיך	myX	_
+
+SENT	1697E-PURIM,574.781
+1	mit	P	מיט	myt	_
+2	den	D	דען	deN	_
+3	shvants	N	שװאַנץ	$VAanQ	_
+4	makht	VBF	מאַכט	mAaxt	_
+5	zi	PRO	זי	zy	_
+6	eyn	D	אײן	AYN	_
+7	revrents	N	רעװרענץ	reVrenQ	_
+
+SENT	1697E-PURIM,574.782
+1	mit	P	מיט	myt	_
+2	den	D	דען	deN	_
+3	linkn	ADJ	לינקן	lynkN	_
+4	fus	N	פֿוס	fvs	_
+5	shitlt	VBF	שיטלט	$ytlt	_
+6	zi	PRO	זי	zy	_
+7	lulb	H	לולב	lvlb	to_UNKNOWN
+
+SENT	1697E-PURIM,575.784
+1	mit	P	מיט	myt	_
+2	den	D	דען	deN	_
+3	rekhtr	N	רעכטר	rextr	_
+4	klapt	VBF	קלאַפּט	klAapt	_
+5	zi	PRO	זי	zy	_
+6	asmnu	H	אַסמנו	Aasmnv	UNKNOWN
+
+SENT	1697E-PURIM,576.786
+1	mit	P	מיט	myt	_
+2	den	D	דען	deN	_
+3	hintr_leyb	N	הינטר_לײב	hyntr_lYb	_
+4	blazt	VBF	בלאַזט	blAazt	_
+5	zi	PRO	זי	zy	_
+6	shufr	N	שופֿר	$vfr	_
+
+SENT	1697E-PURIM,576.787
+1	alzu_bld	ADV	אַלזו_בלד	Aalzv_bld	_
+2	hab	HVF	האַב	hAab	_
+3	ikh	PRO	איך	AyX	_
+4	gizehn	VBN	גיזעהן	gyzehN	_
+5	dz	C	דז	dz	_
+6	es	ES	עס	es	_
+7	izt	VBF	איזט	Ayzt	_
+8	bevninu	H	בעװנינו	beVnynv	for_sins_our
+9	hrbi'	H	הרבי'	hrby'	the_many
+10	niks	Q	ניקס	nyks	_
+11	gutts	ADJ	גוטץ	gvtQ	_
+12	fr_hndin	ADJ	פֿר_הנדין	fr_hndyN	_
+
+SENT	1697E-PURIM,577.789
+1	drum	ADV	דרום	drvM	_
+2	bet	VBI	בעט	bet	_
+3	kindlkh	N	קינדלך	kyndlX	_
+4	tsubh	H	צובה	qvbh	repentance
+5	tfilh	H	טפֿילה	tfylh	prayer
+6	tsdkh	H	צדך	qdX	charity
+7	abrhm	NPR	אַברהם	AabrhM	_
+8	ytskh	NPR	יצך	yqX	_
+9	yekb	NPR	יעקב	yekb	_
+10	mit	P	מיט	myt	_
+11	den	D	דען	deN	_
+12	ledrin	ADJ	לעדרין	ledryN	_
+13	tfiln	N	תּפֿילין	TfylyN	_
+
+SENT	1697E-PURIM,577.790
+1	zak	VBI	זאַק	zAak	_
+2	ihushi	NPR	איהושי	Ayhv$y	_
+3	mit	P	מיט	myt	_
+4	den	D	דען	deN	_
+5	bir	N	ביר	byr	_
+6	vidl	N	װידל	Vydl	_
+7	du	PRO	דו	dv	_
+8	zalst	MDF	זאַלסט	zAalst	_
+9	di	D	די	dy	_
+10	kindr	N	קינדר	kyndr	_
+11	isral	NPR	איסראַל	AysrAal	_
+12	in	P	אין	AyN	_
+13	heylgn	ADJ	הײלגן	hYlgN	_
+14	lnd	N	לנד	lnd	_
+15	firn	VB	פֿירן	fyrN	_
+
+SENT	1697E-PURIM,578.792
+1	stiht	VBI	סטיהט	styht	_
+2	oyf	RP	אױף	AWF	_
+
+SENT	1697E-PURIM,578.793
+1	tuht	VBI	טוהט	tvht	_
+2	eyerh	PRO$	אײערה	AYerh	_
+3	hiltsnh	ADJ	הילצנה	hylqnh	_
+4	pantofil	N	פּאַנטאָפֿיל	pAantAofyl	_
+5	an	RP	אַן	AaN	_
+
+SENT	1697E-PURIM,578.794
+1	un'	CONJ	אונ'	Avn'	_
+2	loyft	VBI	לױפֿט	lWft	_
+3	in	P	אין	AyN	_
+4	al	Q	אַל	Aal	_
+5	di	D	די	dy	_
+6	hurin_hoyzr	N	הורינ_הױזר	hvryn_hWzr	_
+
+SENT	1697E-PURIM,579.796
+1	betet	VBI	בעטעט	betet	_
+
+SENT	1697E-PURIM,579.797
+1	den	CONJ	דען	deN	_
+2	es	ES	עס	es	_
+3	izt	VBF	איזט	Ayzt	_
+4	eyn	D	אײן	AYN	_
+5	pumprlh	ADJ	פּומפּרלה	pvmprlh	_
+6	gzirh	N	גזירה	gzyrh	_
+7	fr_hndin	ADJ	פֿר_הנדין	fr_hndyN	_
+
+SENT	1697E-PURIM,580.799
+1	msh	NPR	מש	m$	_
+2	ahrn	NPR	אַהרן	AahrN	_
+3	shluft	VBF	שלופֿט	$lvft	_
+4	ir	PRO	איר	Ayr	_
+5	zu	ADV	זו	zv	_
+6	stark	ADV	סטאַרק	stAark	_
+
+SENT	1697E-PURIM,581.801
+1	un'	CONJ	אונ'	Avn'	_
+2	hat	HVF	האַט	hAat	_
+3	nikht	NEG	ניכט	nyxt	_
+4	gihert	VBN	גיהערט	gyhert	_
+5	vi	C	װי	Vy	_
+6	men	PRO	מען	meN	_
+7	hat	HVF	האַט	hAat	_
+8	eyerh	PRO$	אײערה	AYerh	_
+9	kindr	N	קינדר	kyndr	_
+10	dr_koyft	VBN	דר_קױפֿט	dr_kWft	_
+
+SENT	1697E-PURIM,583.803
+1	husie	N	הוסיִע	hvsyie	_
+2	vau	WADV	װאַו	VAav	_
+3-4	bistu	VBF~PRO	ביסטו	bystv	_
+3	bis	VBF	ביס	bys	_
+4	tu	PRO	טו	tv	_
+
+SENT	1697E-PURIM,583.804
+1	du	PRO	דו	dv	_
+2	hust	HVF	הוסט	hvst	_
+3	uns	PRO	אונס	Avns	_
+4	gfirt	VBN	גפֿירט	gfyrt	_
+5	in	P	אין	AyN	_
+6	heylgn	ADJ	הײלגן	hYlgN	_
+7	lnd	N	לנד	lnd	_
+
+SENT	1697E-PURIM,584.806
+1	itsind	ADV	איצינד	Ayqynd	_
+2	zint	VBF	זינט	zynt	_
+3	vir	PRO	װיר	Vyr	_
+4	in	P	אין	AyN	_
+5	hmn	NPR	המן	hmN	_
+6	zeyn	PRO$	זײן	zYN	_
+7	hnt	N	הנט	hnt	_
+
+SENT	1697E-PURIM,585.808
+1	stiht	VBI	סטיהט	styht	_
+2	oyf	RP	אױף	AWF	_
+3	bmhirh	H	במהירה	bmhyrh	in_speed
+
+SENT	1697E-PURIM,586.810
+1	un	CONJ	און	AvN	_
+2	zeyt	VBI	זײט	zYt	_
+3	mbtl	RP-H	מבטל	mbtl	_
+4	di	D	די	dy	_
+5	gzirh	N	גזירה	gzyrh	_
+
+SENT	1697E-PURIM,587.812
+1	drey	NUM	דרײ	drY	_
+2	grashin	N	גראַשין	grAa$yN	_
+3	um	P	אום	AvM	_
+4	pits	X	פּיץ	pyQ	_
+5	pats	X	פּאַץ	pAaQ	_
+6	zal	MDF	ז"ל	z"l	_
+7	ikh	PRO	איך	AyX	_
+8	zagin	VB	זאַגין	zAagyN	_
+9	mtsut	N	מצוט	mqvt	_
+
+SENT	1697E-PURIM,591.814
+1	ali	Q	אַלי	Aaly	_
+2	meydlkh	N	מײדלך	mYdlX	_
+3	habin	VBF	האַבין	hAabyN	_
+4	ditn	N	דיטן	dytN	_
+
+SENT	1697E-PURIM,592.816
+1	di	D	די	dy	_
+2	zelbh	N	זעלבה	zelbh	_
+3	tu	DOF	טו	tv	_
+4	ikh	PRO	איך	AyX	_
+5	gerin	ADV	גערין	geryN	_
+6	nittsn	VB	ניטצן	nytqN	_
+
+SENT	1697E-PURIM,594.818
+1	hmn	NPR	המן	hmN	_
+2	zal	MDF	ז"ל	z"l	_
+3	gin	VB	גין	gyN	_
+4	lsm	H	לסם	lsM	to_name
+5	shdim	H	שדים	$dyM	demons
+
+SENT	1697E-PURIM,597.820
+1	hmn	NPR	המן	hmN	_
+2	zal	MDF	ז"ל	z"l	_
+3	nemin	VB	נעמין	nemyN	_
+4	eyn	D	אײן	AYN	_
+5	pgirh	N	פּגירה	pgyrh	_
+
+SENT	1697E-PURIM,599.822
+1	hmn	NPR	המן	hmN	_
+2	zal	MDF	ז"ל	z"l	_
+3	habin	VB	האַבין	hAabyN	_
+4	keyn	Q	קײן	kYN	_
+5	rast	N	ראַסט	rAast	_
+6	nakh	CONJ	נ"ך	n"X	_
+7	keyn	Q	קײן	kYN	_
+8	ru	N	רו	rv	_
+
+SENT	1697E-PURIM,600.824
+1	keyn	Q	קײן	kYN	_
+2	ru	N	רו	rv	_
+3	zal	MDF	ז"ל	z"l	_
+4	er	PRO	ער	er	_
+5	habin	VB	האַבין	hAabyN	_
+
+SENT	1697E-PURIM,601.826
+1	zeyn	PRO$	זײן	zYN	_
+2	kapf	N	קאַפּף	kAapF	_
+3	zal	MDF	ז"ל	z"l	_
+4	men	PRO	מען	meN	_
+5	ab	RP	אַב	Aab	_
+6	shlagin	VB	שלאַגין	$lAagyN	_
+
+SENT	1697E-PURIM,602.828
+1	es	ES	עס	es	_
+2	shlagi	VBF	שלאַגי	$lAagy	_
+3	im	PRO	אים	AyM	_
+4	got	NPR	גאָט	gAot	_
+5	fri	ADV	פֿרי	fry	_
+6	un	CONJ	און	AvN	_
+7	spat	ADV	ספּאַט	spAat	_
+8	spat	ADV	ספּאַט	spAat	_
+9	un	CONJ	און	AvN	_
+10	fri	ADV	פֿרי	fry	_
+11	dort	ADV	דאָרט	dAort	_
+12	un	CONJ	און	AvN	_
+13	hi	ADV	הי	hy	_
+
+SENT	1697E-PURIM,607.830
+1	hmn	NPR	המן	hmN	_
+2	zeyn	PRO$	זײן	zYN	_
+3	kapf	N	קאַפּף	kAapF	_
+4	zal	MDF	ז"ל	z"l	_
+5	lign	VB	ליגן	lygN	_
+6	in	P	אין	AyN	_
+7	musb	H	מוסב	mvsb	UNKNOWN
+8	oyebur	H	אױעבור	AWebvr	UNKNOWN
+9	.	PUNC	.	.	_
+
+SENT	1697E-PURIM,607.831
+1	oyf	RP	אױף	AWF	_
+2	hmn	NPR	המן	hmN	_
+3	eyn	D	אײן	AYN	_
+4	ebur	N	עבור	ebvr	_
+5	.	PUNC	.	.	_
+6	oykra	X	אױקראַ	AWkrAa	_
+7	.	PUNC	.	.	_
+
+SENT	1697E-PURIM,607.832
+1	oyf	RP	אױף	AWF	_
+2	hmn	NPR	המן	hmN	_
+3	eyn	D	אײן	AYN	_
+4	mkrh	N	מקרה	mkrh	_
+5	eyn	D	אײן	AYN	_
+6	mkrh	N	מקרה	mkrh	_
+7	ubn	ADV	אובן	AvbN	_
+8	eyn	D	אײן	AYN	_
+9	mkrh	N	מקרה	mkrh	_
+10	untin	ADV	אונטין	AvntyN	_
+11	eyn	D	אײן	AYN	_
+12	hips	ADJ	היפּס	hyps	_
+13	meydlh	N	מײדלה	mYdlh	_
+14	in	P	אין	AyN	_
+15	der	D	דער	der	_
+16	mitn	N	מיטן	mytN	_
+
+SENT	1697E-PURIM,614.834
+1	das	D	דת	dS	_
+2	velt	MDF	װעלט	Velt	_
+3	ikh	PRO	איך	AyX	_
+4	gerin	ADV	גערין	geryN	_
+5	drien	VB	דריִען	dryieN	_
+6	amn	H	אַמן	AamN	amen
+
+SENT	1697E-PURIM,617.836
+1	hmn	NPR	המן	hmN	_
+2	zal	MDF	ז"ל	z"l	_
+3	tsur_brekhin	VB	צור_ברעכין	qvr_brexyN	_
+4	eyn	D	אײן	AYN	_
+5	hnt	N	הנט	hnt	_
+6	un	CONJ	און	AvN	_
+7	eyn	D	אײן	AYN	_
+8	fus	N	פֿוס	fvs	_
+9	un	CONJ	און	AvN	_
+10	eyn	D	אײן	AYN	_
+11	kni	N	קני	kny	_
+
+SENT	1697E-PURIM,619.838
+1	hmn	NPR	המן	hmN	_
+2	zal	MDF	ז"ל	z"l	_
+3	habn	VB	האַבן	hAabN	_
+4	ssh	H	סש	s$	UNKNOWN
+5	hleym	H	הלײם	hlYM	UNKNOWN
+
+SENT	1697E-PURIM,620.840
+1	hmn	NPR	המן	hmN	_
+2	das	D	דת	dS	_
+3	shenk	VBF	שענק	$enk	_
+4	ikh	PRO	איך	AyX	_
+5	dir	PRO	דיר	dyr	_
+
+SENT	1697E-PURIM,622.842
+1	du	PRO	דו	dv	_
+2	zalst	MDF	זאַלסט	zAalst	_
+3	verin	VB	װערין	VeryN	_
+4	eyn	D	אײן	AYN	_
+5	kprh	N	קפּרה	kprh	_
+6	fr	P	פֿר	fr	_
+7	mir	PRO	מיר	myr	_
+
+SENT	1697E-PURIM,624.844
+1	hmn	NPR	המן	hmN	_
+2	zal	MDF	ז"ל	z"l	_
+3	shvitsn	VB	שװיצן	$VyqN	_
+4	den	D	דען	deN	_
+5	tudn	X	טודן	tvdN	_
+6	shvas	N	שװאַס	$VAas	_
+
+SENT	1697E-PURIM,625.846
+1	den	D	דען	deN	_
+2	tudin	X	טודין	tvdyN	_
+3	shvas	N	שװאַס	$VAas	_
+4	zal	MDF	ז"ל	z"l	_
+5	er	PRO	ער	er	_
+6	shvitsn	VB	שװיצן	$VyqN	_
+
+SENT	1697E-PURIM,626.848
+1	oyf	P	אױף	AWF	_
+2	im	PRO	אים	AyM	_
+3	zal	MDF	ז"ל	z"l	_
+4	kumin	VB	קומין	kvmyN	_
+5	di	D	די	dy	_
+6	hitsn	N	היצן	hyqN	_
+
+SENT	1697E-PURIM,627.850
+1	di	D	די	dy	_
+2	hitsn	N	היצן	hyqN	_
+3	zal	MDF	ז"ל	z"l	_
+4	oyf	P	אױף	AWF	_
+5	im	PRO	אים	AyM	_
+6	kumn	VB	קומן	kvmN	_
+
+SENT	1697E-PURIM,628.852
+1	er	PRO	ער	er	_
+2	zal	MDF	ז"ל	z"l	_
+3	fr_lamin	VB	פֿר_לאַמין	fr_lAamyN	_
+4	un	CONJ	און	AvN	_
+5	krumin	VB	קרומין	krvmyN	_
+
+SENT	1697E-PURIM,630.854
+1	ikh	PRO	איך	AyX	_
+2	tu	DOF	טו	tv	_
+3	eyn_mal	ADV	אײנ_מאַל	AYn_mAal	_
+4	in	P	אין	AyN	_
+5	kelir	N	קעליר	kelyr	_
+6	gin	VB	גין	gyN	_
+
+SENT	1697E-PURIM,631.856
+1	ikh	PRO	איך	AyX	_
+2	zikh	VBF	זיך	zyX	_
+3	eyn	D	אײן	AYN	_
+4	madli	N	מאַדלי	mAadly	_
+5	stin	VB	סטין	styN	_
+
+SENT	1697E-PURIM,632.858
+1	ikh	PRO	איך	AyX	_
+2	zag	VBF	זאַג	zAag	_
+3	tsu	P	צו	qv	_
+4	ir	PRO	איר	Ayr	_
+5	kum	VBI	קום	kvM	_
+6	her	RP-ADV	הער	her	_
+
+SENT	1697E-PURIM,632.859
+1	lig	VBI	ליג	lyg	_
+2	dikh	PRO	דיך	dyX	_
+3	tsu	P	צו	qv	_
+4	mir	PRO	מיר	myr	_
+
+SENT	1697E-PURIM,634.861
+1	vil	MDF	װיל	Vyl	_
+2	zi	PRO	זי	zy	_
+3	es	PRO	עס	es	_
+4	nit	NEG	ניט	nyt	_
+5	tan	VB	טאַן	tAaN	_
+
+SENT	1697E-PURIM,635.863
+1	greyf	VBF	גרײף	grYF	_
+2	ikh	PRO	איך	AyX	_
+3	ir	PRO	איר	Ayr	_
+4	dran	DR+P	דראַן	drAaN	_
+
+SENT	1697E-PURIM,636.865
+1	greyf	VBF	גרײף	grYF	_
+2	zi	PRO	זי	zy	_
+3	an	P	אַן	AaN	_
+4	boykh	N	בױך	bWX	_
+
+SENT	1697E-PURIM,637.867
+1	var	VBF	װאַר	VAar	_
+2	zi	PRO	זי	zy	_
+3	gar	ADV	גאַר	gAar	_
+4	roykh	ADJ	רױך	rWX	_
+
+SENT	1697E-PURIM,638.869
+1	lig	VBF	ליג	lyg	_
+2	ikh	PRO	איך	AyX	_
+3	zi	PRO	זי	zy	_
+4	oyf	P	אױף	AWF	_
+5	den	D	דען	deN	_
+6	rukin	N	רוקין	rvkyN	_
+
+SENT	1697E-PURIM,639.871
+1	un'	CONJ	אונ'	Avn'	_
+2	fang	VBF	פֿאַנג	fAang	_
+3	an	RP	אַן	AaN	_
+4	tsu	TO	צו	qv	_
+5	drukin	VB	דרוקין	drvkyN	_
+
+SENT	1697E-PURIM,644.873
+1	vi	WADV	װי	Vy	_
+2	izt	BEF	איזט	Ayzt	_
+3	mir	PRO	מיר	myr	_
+4	gangin	VBN	גאַנגין	gAangyN	_
+5	tsu	RP	צו	qv	_
+6	tsu	P	צו	qv	_
+7	parkhheym	NPR	פּאַרכהײם	pAarxhYM	_
+8	oyf	P	אױף	AWF	_
+9	den	D	דען	deN	_
+10	mark	N	מאַרק	mAark	_
+
+SENT	1697E-PURIM,646.875
+1	ansil	NPR	אַנסיל	Aansyl	_
+2	un	CONJ	און	AvN	_
+3	yakb	NPR	יאַקב	yAakb	_
+4	habin	VBF	האַבין	hAabyN	_
+5	kiph	N	קיפּה	kyph	_
+6	gar	ADV	גאַר	gAar	_
+7	stark	ADV	סטאַרק	stAark	_
+
+SENT	1697E-PURIM,647.877
+1	zi	PRO	זי	zy	_
+2	zehn	VBF	זעהן	zehN	_
+3	stian	VB	סטיִאַן	styiAaN	_
+4	eyn	D	אײן	AYN	_
+5	hipse	ADJ	היפּסע	hypse	_
+6	ku	N	קו	kv	_
+
+SENT	1697E-PURIM,648.879
+1	vi	WADV	װי	Vy	_
+2	gshvind	ADV	גשװינד	g$Vynd	_
+3	loyfin	VBF	לױפֿין	lWfyN	_
+4	zi	PRO	זי	zy	_
+5	dertsu	DR+P	דערצו	derqv	_
+
+SENT	1697E-PURIM,649.881
+1	zi	PRO	זי	zy	_
+2	tetin	DOF	טעטין	tetyN	_
+3	zi	PRO	זי	zy	_
+4	filn	VB	פֿילן	fylN	_
+5	unt	CONJ	אונט	Avnt	_
+6	oykh	ADV	אױך	AWX	_
+7	greyfn	VB	גרײפֿן	grYfN	_
+
+SENT	1697E-PURIM,650.883
+1	eynr	PRO	אײנר	AYnr	_
+2	sprekht	VBF	ספּרעכט	sprext	_
+3	libr	ADJ	ליבר	lybr	_
+4	khbr	N	כבר	xbr	_
+5	mir	PRO	מיר	myr	_
+6	velin	MDF	װעלין	VelyN	_
+7	zi	PRO	זי	zy	_
+8	koyfn	VB	קױפֿן	kWfN	_
+
+SENT	1697E-PURIM,652.885
+1	steyf	ADV	סטײף	stYF	_
+2	kumin	VBF	קומין	kvmyN	_
+3	zi	PRO	זי	zy	_
+4	in	P	אין	AyN	_
+5	hndil	N	הנדיל	hndyl	_
+6	aneyn	ADV	אַנײן	AanYN	_
+
+SENT	1697E-PURIM,653.887
+1	zi	PRO	זי	zy	_
+2	mekhtin	MDF	מעכטין	mextyN	_
+3	ibr	P	איבר	Aybr	_
+4	eyn	D	אײן	AYN	_
+5	par	N	פּאַר	pAar	_
+6	talir	N	טאַליר	tAalyr	_
+7	nit	NEG	ניט	nyt	_
+8	fun	P	פֿון	fvN	_
+9	eyn	D	אײן	AYN	_
+10	andr	N	אַנדר	Aandr	_
+11	zeyn	VB	זײן	zYN	_
+
+SENT	1697E-PURIM,655.889
+1	der	D	דער	der	_
+2	poyar	N	פּױאַר	pWAar	_
+3	gidakht	VBF	גידאַכט	gydAaxt	_
+4	ikh	PRO	איך	AyX	_
+5	vil	MDF	װיל	Vyl	_
+6	mikh	PRO	מיך	myX	_
+7	nit	NEG	ניט	nyt	_
+8	lang	ADV	לאַנג	lAang	_
+9	sparin	VB	ספּאַרין	spAaryN	_
+10	veyl	C	װײל	VYl	_
+11	ikh	PRO	איך	AyX	_
+12	hab	VBF	האַב	hAab	_
+13	fir	X	פֿיר	fyr	_
+14	tsvey	NUM	צװײ	qVY	_
+15	nrin	N	נרין	nryN	_
+
+SENT	1697E-PURIM,656.891
+1	nrin	N	נרין	nryN	_
+2	zind	VBF	זינד	zynd	_
+3	zi	PRO	זי	zy	_
+4	ali	Q	אַלי	Aaly	_
+5	tsveyn	NUM	צװײן	qVYN	_
+
+SENT	1697E-PURIM,657.893
+1	den	CONJ	דען	deN	_
+2	di	D	די	dy	_
+3	ku	N	קו	kv	_
+4	hat	VBF	האַט	hAat	_
+5	keyn	Q	קײן	kYN	_
+6	tsin	N	צין	qyN	_
+
+SENT	1697E-PURIM,658.895
+1	fr	P	פֿר	fr	_
+2	grush	ADJ	גרוש	grv$	_
+3	altr	N	אַלטר	Aaltr	_
+4	kent	MDF	קענט	kent	_
+5	zi	PRO	זי	zy	_
+6	nit	NEG	ניט	nyt	_
+7	mer	ADV	מער	mer	_
+8	gin	VB	גין	gyN	_
+
+SENT	1697E-PURIM,659.897
+1	ven	C	װען	VeN	_
+2	zi	PRO	זי	zy	_
+3	das	D	דת	dS	_
+4	hetin	HVF	העטין	hetyN	_
+5	gvaust	VBN	גװאַוסט	gVAavst	_
+6	hetin	HVF	העטין	hetyN	_
+7	zi	PRO	זי	zy	_
+8	nit	NEG	ניט	nyt	_
+9	gizehn	VBN	גיזעהן	gyzehN	_
+10	nakh	P	נ"ך	n"X	_
+11	der	D	דער	der	_
+12	brust	N	ברוסט	brvst	_
+
+SENT	1697E-PURIM,661.899
+1	zi	PRO	זי	zy	_
+2	habin	VBF	האַבין	hAabyN	_
+3	tsu	P	צו	qv	_
+4	ir	PRO	איר	Ayr	_
+5	eyn	D	אײן	AYN	_
+6	grusin	ADJ	גרוסין	grvsyN	_
+7	lust	N	לוסט	lvst	_
+8	veyl	C	װײל	VYl	_
+9	zi	PRO	זי	zy	_
+10	hati	VBF	האַטי	hAaty	_
+11	eyn	D	אײן	AYN	_
+12	hipshh	ADJ	היפּשה	hyp$h	_
+13	shpits	ADJ	שפּיץ	$pyQ	_
+14	brust	N	ברוסט	brvst	_
+
+SENT	1697E-PURIM,663.901
+1	zi	PRO	זי	zy	_
+2	izt	VBF	איזט	Ayzt	_
+3	azu	ADV	אַזו	Aazv	_
+4	breyt	ADJ	ברײט	brYt	_
+5	aliz	P	אַליז	Aalyz	_
+6	eyn	D	אײן	AYN	_
+7	telir	N	טעליר	telyr	_
+
+SENT	1697E-PURIM,664.903
+1	di	D	די	dy	_
+2	ku	N	קו	kv	_
+3	iz	VBF	איז	Ayz	_
+4	nit	NEG	ניט	nyt	_
+5	vert	ADJ	װערט	Vert	_
+6	eyn	D	אײן	AYN	_
+7	helir	N	העליר	helyr	_
+
+SENT	1697E-PURIM,665.905
+1	nur	FP	נור	nvr	_
+2	shindr	N	שינדר	$yndr	_
+3	in	P	אין	AyN	_
+4	zeyn	PRO$	זײן	zYN	_
+5	kukh	N	קוך	kvX	_
+6	un	CONJ	און	AvN	_
+7	kelir	N	קעליר	kelyr	_
+8	mit	P	מיט	myt	_
+9	den	D	דען	deN	_
+10	flangin	N	פֿלאַנגין	flAangyN	_
+11	un	CONJ	און	AvN	_
+12	flimn	N	פֿלימן	flymN	_
+13	tuain	DOF	טואַיִן	tvAayiN	_
+14	zi	PRO	זי	zy	_
+15	zikh	PRO	זיך	zyX	_
+16	zer	ADV	זער	zer	_
+17	rimn	VB	רימן	rymN	_
+
+SENT	1697E-PURIM,668.907
+1	zi	PRO	זי	zy	_
+2	shetsin	VBF	שעצין	$eqyN	_
+3	zi	PRO	זי	zy	_
+4	oyf	P	אױף	AWF	_
+5	funftsig	NUM	פֿונפֿציג	fvnfqyg	_
+6	pfunt	N	פּפֿונט	pfvnt	_
+7	hlb	X	הלב	hlb	_
+
+SENT	1697E-PURIM,669.909
+1	abr	CONJ	אַבר	Aabr	_
+2	men	PRO	מען	meN	_
+3	mag	MDF	מאַג	mAag	_
+4	zi	PRO	זי	zy	_
+5	verfin	VB	װערפֿין	VerfyN	_
+6	fr	P	פֿר	fr	_
+7	den	D	דען	deN	_
+8	klb	N	קלב	klb	_
+
+SENT	1697E-PURIM,670.911
+1	klb	N	קלב	klb	_
+2	iz	VBF	איז	Ayz	_
+3	teytts	N	טײטץ	tYtQ	_
+4	eyn	D	אײן	AYN	_
+5	hunt	N	הונט	hvnt	_
+
+SENT	1697E-PURIM,671.913
+1	vi	C	װי	Vy	_
+2	zi	PRO	זי	zy	_
+3	oyf	RP	אױף	AWF	_
+4	shneydn	VBF	שנײדן	$nYdN	_
+5	di	D	די	dy	_
+6	shlund	N	שלונד	$lvnd	_
+7	kamn	VBF	קאַמן	kAamN	_
+8	zi	PRO	זי	zy	_
+9	tsu	P	צו	qv	_
+10	den	D	דען	deN	_
+11	nabil	N	נאַביל	nAabyl	_
+
+SENT	1697E-PURIM,672.915
+1	hat	VBF	האַט	hAat	_
+2	das	D	דת	dS	_
+3	klb	N	קלב	klb	_
+4	vas	C	װאַס	VAas	_
+5	zi	PRO	זי	zy	_
+6	habin	HVF	האַבין	hAabyN	_
+7	gmeynt	VBN	גמײנט	gmYnt	_
+8	es	PRO	עס	es	_
+9	ver	VBF	װער	Ver	_
+10	intslit	H	אינצליט	Aynqlyt	UNKNOWN
+11	eyn	D	אײן	AYN	_
+12	grus	ADJ	גרוס	grvs	_
+13	gtsapil	N	גצאַפּיל	gqAapyl	_
+
+SENT	1697E-PURIM,674.917
+1	iz	VBF	איז	Ayz	_
+2	das	D	דת	dS	_
+3	nit	NEG	ניט	nyt	_
+4	eyn	D	אײן	AYN	_
+5	tmah	N	טמאַה	tmAah	_
+
+SENT	1697E-PURIM,676.919
+1	oykh	ADV	אױך	AWX	_
+2	izt	VBF	איזט	Ayzt	_
+3	das	D	דת	dS	_
+4	nit	NEG	ניט	nyt	_
+5	eyn	D	אײן	AYN	_
+6	mgph	N	מגפּה	mgph	_
+7	dz	C	דז	dz	_
+8	di	D	די	dy	_
+9	kueh	N	קועה	kveh	_
+10	izt	BEF	איזט	Ayzt	_
+11	vardn	VBN	װאַרדן	VAardN	_
+12	trifh	ADJ	טריפֿה	tryfh	_
+
+SENT	1697E-PURIM,678.921
+1	trifh	ADJ	טריפֿה	tryfh	_
+2	izt	BEF	איזט	Ayzt	_
+3	zi	PRO	זי	zy	_
+4	gevarin	VBN	געװאַרין	geVAaryN	_
+5	keyn	Q	קײן	kYN	_
+6	khlb	N	כלב	xlb	_
+7	hint	ADV	הינט	hynt	_
+8	nakh	CONJ	נ"ך	n"X	_
+9	farin	ADV	פֿאַרין	fAaryN	_
+
+SENT	1697E-PURIM,680.923
+1	zi	PRO	זי	zy	_
+2	izt	VBF	איזט	Ayzt	_
+3	niks	Q	ניקס	nyks	_
+4	gutts	ADJ	גוטץ	gvtQ	_
+5	fun	P	פֿון	fvN	_
+6	hoyt	N	הױט	hWt	_
+7	un	CONJ	און	AvN	_
+8	fun	P	פֿון	fvN	_
+9	harin	N	האַרין	hAaryN	_
+
+SENT	1697E-PURIM,681.925
+1	das	D	דת	dS	_
+2	fleysh	N	פֿלײש	flY$	_
+3	kenin	MDF	קענין	kenyN	_
+4	zi	PRO	זי	zy	_
+5	nit	NEG	ניט	nyt	_
+6	fr_koyfn	VB	פֿר_קױפֿן	fr_kWfN	_
+
+SENT	1697E-PURIM,682.927
+1	iakb	NPR	איאַקב	AyAakb	_
+2	un'	CONJ	אונ'	Avn'	_
+3	anshil	NPR	אַנשיל	Aan$yl	_
+4	muzin	MDF	מוזין	mvzyN	_
+5	avek	ADV	אַװעק	AaVek	_
+6	loyfn	VB	לױפֿן	lWfN	_
+
+SENT	1697E-PURIM,683.929
+1	izt	VBF	איזט	Ayzt	_
+2	das	D	דת	dS	_
+3	nit	NEG	ניט	nyt	_
+4	eyn	D	אײן	AYN	_
+5	skhurh	N	סכורה	sxvrh	_
+
+SENT	1697E-PURIM,687.931
+1	di	D	די	dy	_
+2	bizh	ADJ	ביזש	byz$	_
+3	krnkheyt	N	קרנכײט	krnxYt	_
+4	hat	HVF	האַט	hAat	_
+5	zi	PRO	זי	zy	_
+6	giht	VBN	גיהט	gyht	_
+7	der_bey	DR+P	דער_בײ	der_bY	_
+8	ali	Q	אַלי	Aaly	_
+9	tag	N	תּג	Tg	_
+10	eyn	D	אײן	AYN	_
+11	stund	N	סטונד	stvnd	_
+12	drey	N	דרײ	drY	_
+
+SENT	1697E-PURIM,689.933
+1	oykh	ADV	אױך	AWX	_
+2	izt	VBF	איזט	Ayzt	_
+3	zi	PRO	זי	zy	_
+4	ratsig	ADJ	ראַציג	rAaqyg	_
+5	oys	P	אױס	AWs	_
+6	der	D	דער	der	_
+7	nazin	N	נאַזין	nAazyN	_
+
+SENT	1697E-PURIM,690.935
+1	hintn	ADV	הינטן	hyntN	_
+2	unt	CONJ	אונט	Avnt	_
+3	farin	ADV	פֿאַרין	fAaryN	_
+4	tuht	DOF	טוהט	tvht	_
+5	zi	PRO	זי	zy	_
+6	blazin	VB	בלאַזין	blAazyN	_
+
+SENT	1697E-PURIM,691.937
+1	zi	PRO	זי	zy	_
+2	tunn	DOF	טונן	tvnN	_
+3	zi	PRO	זי	zy	_
+4	gshvind	ADV	גשװינד	g$Vynd	_
+5	tsu_hkin	VB	צו_הקין	qv_hkyN	_
+6	un	CONJ	און	AvN	_
+7	tsu_brakhin	VB	צו_בראַכין	qv_brAaxyN	_
+
+SENT	1697E-PURIM,692.939
+1	anshil	NPR	אַנשיל	Aan$yl	_
+2	un	CONJ	און	AvN	_
+3	yakb	NPR	יאַקב	yAakb	_
+4	reysn	VBF	רײסן	rYsN	_
+5	oys	RP	אױס	AWs	_
+6	fr	P	פֿר	fr	_
+7	leyd	N	לײד	lYd	_
+8	ir	PRO$	איר	Ayr	_
+9	lakin	N	לאַקין	lAakyN	_
+
+SENT	1697E-PURIM,693.941
+1	yakb	NPR	יאַקב	yAakb	_
+2	sprakh	VBF	ספּראַך	sprAaX	_
+3	es	PRO	עס	es	_
+4	zal	MDF	ז"ל	z"l	_
+5	mir	PRO	מיר	myr	_
+6	nimr	ADV	נימר	nymr	_
+7	gisehn	VB	גיסעהן	gysehN	_
+
+SENT	1697E-PURIM,694.943
+1	un'	CONJ	אונ'	Avn'	_
+2	anshil	NPR	אַנשיל	Aan$yl	_
+3	zagt	VBF	זאַגט	zAagt	_
+4	ikh	PRO	איך	AyX	_
+5	vil	MDF	װיל	Vyl	_
+6	mikh	PRO	מיך	myX	_
+7	eyn	D	אײן	AYN	_
+8	andr	ADJ	אַנדר	Aandr	_
+9	mal	N	מל	ml	_
+10	besr	ADV	בעסר	besr	_
+11	far	RP	פֿאַר	fAar	_
+12	zehn	VB	זעהן	zehN	_
+
+SENT	1697E-PURIM,695.945
+1	mir	PRO	מיר	myr	_
+2	varin	VBF	װאַרין	VAaryN	_
+3	tsu	ADV	צו	qv	_
+4	gshvind	ADJ	גשװינד	g$Vynd	_
+
+SENT	1697E-PURIM,696.947
+1	mir	PRO	מיר	myr	_
+2	habin	HVF	האַבין	hAabyN	_
+3	dreyn	DR+P	דרײן	drYN	_
+4	gkoyft	VBN	גקױפֿט	gkWft	_
+5	vi	P	װי	Vy	_
+6	blind	N	בלינד	blynd	_
+
+SENT	1697E-PURIM,697.949
+1	blind	ADJ	בלינד	blynd	_
+2	varin	VBF	װאַרין	VAaryN	_
+3	mir	PRO	מיר	myr	_
+4	mit	P	מיט	myt	_
+5	di	D	די	dy	_
+6	oygn	N	אױגן	AWgN	_
+
+SENT	1697E-PURIM,698.951
+1	di	D	די	dy	_
+2	ku	N	קו	kv	_
+3	vert	RDF	װערט	Vert	_
+4	niks	Q	ניקס	nyks	_
+5	toygn	VB	טױגן	tWgN	_
+
+SENT	1697E-PURIM,699.953
+1	das	D	דת	dS	_
+2	klb	N	קלב	klb	_
+3	plart	VBF	פּלאַרט	plAart	_
+4	un	CONJ	און	AvN	_
+5	mart	VBF	מאַרט	mAart	_
+
+SENT	1697E-PURIM,700.955
+1	un	CONJ	און	AvN	_
+2	kant	MDF	קאַנט	kAant	_
+3	nit	NEG	ניט	nyt	_
+4	gin	VB	גין	gyN	_
+5	fun	P	פֿון	fvN	_
+6	den	D	דען	deN	_
+7	zelbign	ADJ	זעלביגן	zelbygN	_
+8	art	N	אַרט	Aart	_
+
+SENT	1697E-PURIM,701.957
+1	yakub	N	יאַקוב	yAakvb	_
+2	tut	VBF	טוט	tvt	_
+3	das	D	דת	dS	_
+4	besti	ADJS	בעסטי	besty	_
+5	das	WPRO	דת	dS	_
+6	er	PRO	ער	er	_
+7	kunt	MDF	קונט	kvnt	_
+
+SENT	1697E-PURIM,702.959
+1	un	CONJ	און	AvN	_
+2	treybt	VBF	טרײבט	trYbt	_
+3	das	D	דת	dS	_
+4	kalb	N	קאַלב	kAalb	_
+5	gleykh	ADV	גלײך	glYX	_
+6	eyn	D	אײן	AYN	_
+7	hunt	N	הונט	hvnt	_
+
+SENT	1697E-PURIM,703.961
+1	er	PRO	ער	er	_
+2	tut	DOF	טוט	tvt	_
+3	es	PRO	עס	es	_
+4	hintn	ADV	הינטן	hyntN	_
+5	beysn	VB	בײסן	bYsN	_
+
+SENT	1697E-PURIM,704.963
+1	das	D	דת	dS	_
+2	klb	N	קלב	klb	_
+3	tut	DOF	טוט	tvt	_
+4	in	PRO	אין	AyN	_
+5	in	P	אין	AyN	_
+6	moyl	N	מױל	mWl	_
+7	sheysn	VB	שײסן	$YsN	_
+
+SENT	1697E-PURIM,705.965
+1	iz	VBF	איז	Ayz	_
+2	das	D	דת	dS	_
+3	nakh	ADV	נ"ך	n"X	_
+4	nit	NEG	ניט	nyt	_
+5	hlb	N	הלב	hlb	_
+6	vi	WADV	װי	Vy	_
+7	es	PRO	עס	es	_
+8	var	BEF	װאַר	VAar	_
+9	tsu	RP	צו	qv	_
+10	gangin	VBN	גאַנגין	gAangyN	_
+11	mit	P	מיט	myt	_
+12	dem	D	דעם	deM	_
+13	kalb	N	קאַלב	kAalb	_
+
+SENT	1697E-PURIM,707.967
+1	eyn	D	אײן	AYN	_
+2	poyarn	N	פּױאַרן	pWAarN	_
+3	muzin	MDF	מוזין	mvzyN	_
+4	zi	PRO	זי	zy	_
+5	bitn	VB	ביטן	bytN	_
+6	er	PRO	ער	er	_
+7	zal	MDF	ז"ל	z"l	_
+8	das	D	דת	dS	_
+9	klb	N	קלב	klb	_
+10	firn	VB	פֿירן	fyrN	_
+11	oyf	P	אױף	AWF	_
+12	eyn	D	אײן	AYN	_
+13	shlitn	N	שליטן	$lytN	_
+
+SENT	1697E-PURIM,709.969
+1	zi	PRO	זי	zy	_
+2	meyntn	VBF	מײנטן	mYntN	_
+3	vas	Q	װאַס	VAas	_
+4	tsu	TO	צו	qv	_
+5	fr_dinn	VB	פֿר_דינן	fr_dynN	_
+6	zikh	PRO	זיך	zyX	_
+7	der_lustig	ADJ	דער_לוסטיג	der_lvstyg	_
+8	tsu	TO	צו	qv	_
+9	makhin	VB	מאַכין	mAaxyN	_
+10	oyf	P	אױף	AWF	_
+11	purim	NPR	פּורים	pvryM	_
+
+SENT	1697E-PURIM,710.971
+1	abr	CONJ	אַבר	Aabr	_
+2	es	ES	עס	es	_
+3	varin	VBF	װאַרין	VAaryN	_
+4	grusi	ADJ	גרוסי	grvsy	_
+5	isurim	N	איסורים	AysvryM	_
+
+SENT	1697E-PURIM,711.973
+1	es	ES	עס	es	_
+2	glust	VBF	גלוסט	glvst	_
+3	zi	PRO	זי	zy	_
+4	nit	NEG	ניט	nyt	_
+5	tsu	TO	צו	qv	_
+6	gin	VB	גין	gyN	_
+7	tsu	P	צו	qv	_
+8	der	D	דער	der	_
+9	mgilh	N	מגילה	mgylh	_
+
+SENT	1697E-PURIM,712.975
+1	oykh	ADV	אױך	AWX	_
+2	tetin	VBF	טעטין	tetyN	_
+3	zi	PRO	זי	zy	_
+4	keyn	Q	קײן	kYN	_
+5	tfilh	N	טפֿילה	tfylh	_
+
+SENT	1697E-PURIM,714.977
+1	zkhur	H	זכור	zxvr	remember
+2	tsu	P	צו	qv	_
+3	margin	ADV	מאַרגין	mAargyN	_
+4	krigt	VBF	קריגט	krygt	_
+5	der	D	דער	der	_
+6	tliun	N	טליִון	tlyivN	_
+7	di	D	די	dy	_
+8	eur	N	עור	evr	_
+
+SENT	1697E-PURIM,715.979
+1	er	PRO	ער	er	_
+2	heyst	VBF	הײסט	hYst	_
+3	meynstr	N	מײנסטר	mYnstr	_
+4	vilem	NPR	װילעם	VyleM	_
+
+SENT	1697E-PURIM,716.981
+1	yakb	NPR	יאַקב	yAakb	_
+2	unt	CONJ	אונט	Avnt	_
+3	anshil	NPR	אַנשיל	Aan$yl	_
+4	varin	VBF	װאַרין	VAaryN	_
+5	blind	ADJ	בלינד	blynd	_
+6	az	P	אַז	Aaz	_
+7	blem	N	בלעם	bleM	_
+
+SENT	1697E-PURIM,717.983
+1	asmnu	N	אַסמנו	Aasmnv	_
+2	iz	VBF	איז	Ayz	_
+3	teyts	N	טײץ	tYQ	_
+4	eyn	D	אײן	AYN	_
+5	zind	N	זינד	zynd	_
+
+SENT	1697E-PURIM,718.985
+1	das	D	דת	dS	_
+2	het	HVF	העט	het	_
+3	yu	ADV	יו	yv	_
+4	gitan	VBN	גיטאַן	gytAaN	_
+5	keyn	Q	קײן	kYN	_
+6	kind	N	קינד	kynd	_
+7	tsu	TO	צו	qv	_
+8	koyfn	VB	קױפֿן	kWfN	_
+9	eyn	D	אײן	AYN	_
+10	kueh	N	קועה	kveh	_
+11	di	WPRO	די	dy	_
+12	da	ADV	דאַ	dAa	_
+13	iz	VBF	איז	Ayz	_
+14	blind	ADJ	בלינד	blynd	_
+
+SENT	1697E-PURIM,720.987
+1	dbrnu	H	דברנו	dbrnv	words_our
+2	mir	PRO	מיר	myr	_
+3	habin	HVF	האַבין	hAabyN	_
+4	giret	VBN	גירעט	gyret	_
+5	di	D	די	dy	_
+6	ku	N	קו	kv	_
+7	izt	VBF	איזט	Ayzt	_
+8	fet	ADJ	פֿעט	fet	_
+
+SENT	1697E-PURIM,722.989
+1	abr	CONJ	אַבר	Aabr	_
+2	hitsundr	ADV	היצונדר	hyqvndr	_
+3	izt	VBF	איזט	Ayzt	_
+4	als	Q	אַלס	Aals	_
+5	vek	ADV	װעק	Vek	_
+
+SENT	1697E-PURIM,723.991
+1	hmn	NPR	המן	hmN	_
+2	zal	MDF	ז"ל	z"l	_
+3	mikh	PRO	מיך	myX	_
+4	in	P	אין	AyN	_
+5	arsh	N	אַרש	Aar$	_
+6	lek	VB	לעק	lek	_
+7	el	H	על	el	UNKNOWN
+
+SENT	1697E-PURIM,725.993
+1	ikh	PRO	איך	AyX	_
+2	gi	VBF	גי	gy	_
+3	gerin	ADV	גערין	geryN	_
+4	mit	P	מיט	myt	_
+5	di	D	די	dy	_
+6	meydlkh	N	מײדלך	mYdlX	_
+7	in	P	אין	AyN	_
+8	stal	N	סטאַל	stAal	_
+9	khta	H	כטאַ	xtAa	sin
+10	fil	Q	פֿיל	fyl	_
+11	libr	ADVR	ליבר	lybr	_
+12	in	P	אין	AyN	_
+13	bet	N	בעט	bet	_
+
+SENT	1697E-PURIM,729.995
+1	ven	C	װען	VeN	_
+2	es	PRO	עס	es	_
+3	gleykh	ADV	גלײך	glYX	_
+4	ver	VBF	װער	Ver	_
+5	eyn	D	אײן	AYN	_
+6	almnh	N	אַלמנה	Aalmnh	_
+
+SENT	1697E-PURIM,818.997
+1	ven	C	װען	VeN	_
+2	ikh	PRO	איך	AyX	_
+3	zeh	VBF	זעה	zeh	_
+4	eyn	D	אײן	AYN	_
+5	hipsh	ADJ	היפּש	hyp$	_
+6	meydlh	N	מײדלה	mYdlh	_
+
+SENT	1697E-PURIM,841.999
+1	vas	WPRO	װאַס	VAas	_
+2	da	ADV	דאַ	dAa	_
+3	bteyt	VBF	בטײט	btYt	_
+4	das	D	דת	dS	_
+5	veynn	N	װײנן	VYnN	_
+6	un	CONJ	און	AvN	_
+7	shreyan	N	שרײאַן	$rYAaN	_
+8	un	CONJ	און	AvN	_
+9	klagin	N	קלאַגין	klAagyN	_
+
+SENT	1697E-PURIM,843.1001
+1	das	D	דת	dS	_
+2	klagin	N	קלאַגין	klAagyN	_
+3	un	CONJ	און	AvN	_
+4	brumin	N	ברומין	brvmyN	_
+5	,	PUNC	,	,	_
+6	das	WPRO	דת	dS	_
+7	iz	BEF	איז	Ayz	_
+8	fr	P	פֿר	fr	_
+9	meyn	PRO$	מײן	mYN	_
+10	arin	N	אַרין	AaryN	_
+11	gikumin	VBN	גיקומין	gykvmyN	_
+
+SENT	1697E-PURIM,844.1003
+1	mrdkhi	NPR	מרדכי	mrdxy	_
+2	da	ADV	דאַ	dAa	_
+3	lazt	VBF	לאַזט	lAazt	_
+4	dikh	PRO	דיך	dyX	_
+5	di	D	די	dy	_
+6	kingn	N	קינגן	kyngN	_
+7	bitn	VB	ביטן	bytN	_
+8	.	PUNC	.	.	_
+9	du	PRO	דו	dv	_
+10	valtest	MDF	װאַלטעסט	VAaltest	_
+11	zi	PRO	זי	zy	_
+12	brikhtn	VB	בריכטן	bryxtN	_
+13	.	PUNC	.	.	_
+14	vas	WPRO	װאַס	VAas	_
+15	bteyt	VBF	בטײט	btYt	_
+16	das	D	דת	dS	_
+17	shreian	N	שרעיִאַן	$reyiAaN	_
+18	unt	CONJ	אונט	Avnt	_
+19	brumn	N	ברומן	brvmN	_
+20	.	PUNC	.	.	_
+
+SENT	1697E-PURIM,847.1005
+1	das	WPRO	דת	dS	_
+2	zi	PRO	זי	zy	_
+3	hert	VBF	הערט	hert	_
+4	in	P	אין	AyN	_
+5	arn	N	אַהרן	AahrN	_
+6	zumin	VB	זומין	zvmyN	_
+
+SENT	1697E-PURIM,853.1007
+1	das	C	דת	dS	_
+2	ali	Q	אַלי	Aaly	_
+3	yudn	N	יודן	yvdN	_
+4	zalin	MDF	זאַלין	zAalyN	_
+5	verin	RD	װערין	VeryN	_
+6	gshlakht	VAN	גשלאַכט	g$lAaxt	_
+
+SENT	1697E-PURIM,855.1009
+1	das	C	דת	dS	_
+2	ikh	PRO	איך	AyX	_
+3	zal	MDF	ז"ל	z"l	_
+4	verin	RD	װערין	VeryN	_
+5	ghangn	VAN	גהאַנגן	ghAangN	_
+
+SENT	1697E-PURIM,858.1011
+1	dz	WPRO	דז	dz	_
+2	hmn	NPR	המן	hmN	_
+3	der	D	דער	der	_
+4	biz_vikht	N	ביז_װיכט	byz_Vyxt	_
+5	hat	HVF	האַט	hAat	_
+6	bey	P	בײ	bY	_
+7	den	D	דען	deN	_
+8	king	N	קינג	kyng	_
+9	oys	RP	אױס	AWs	_
+10	grikht	VBN	גריכט	gryxt	_
+
+SENT	1697E-PURIM,876.1013
+1	dz	C	דז	dz	_
+2	zi	PRO	זי	zy	_
+3	verdn	RDF	װערדן	VerdN	_
+4	bshirmt	VAN	בשירמט	b$yrmt	_
+5	fun	P	פֿון	fvN	_
+6	irh	PRO$	אירה	Ayrh	_
+7	bitrh	ADJ	ביטרה	bytrh	_
+8	peyn	N	פּײן	pYN	_
+
+SENT	1697E-PURIM,881.1015
+1	varum	CONJ	װאַרום	VAarvM	_
+2	er	PRO	ער	er	_
+3	hat	VBF	האַט	hAat	_
+4	gvis	ADV	גװיס	gVys	_
+5	vil	Q	װיל	Vyl	_
+6	hipshrh	ADJR	היפּשרה	hyp$rh	_
+7	hurin	N	הורין	hvryN	_
+8	az	C	אַז	Aaz	_
+9	zi	PRO	זי	zy	_
+10	izt	VBF	איזט	Ayzt	_
+
+SENT	1697E-PURIM,898.1017
+1	meyn	PRO$	מײן	mYN	_
+2	bger	N	בגער	bger	_
+3	dz	C	דז	dz	_
+4	ikh	PRO	איך	AyX	_
+5	bin	BEF	בין	byN	_
+6	kumn	VBN	קומן	kvmN	_
+7	alher	ADV	אַלהער	Aalher	_
+
+SENT	1697E-PURIM,900.1019
+1	di	D	די	dy	_
+2	mal_tseyt	N	מאַל_צײט	mAal_qYt	_
+3	di	WPRO	די	dy	_
+4	ikh	PRO	איך	AyX	_
+5	hab	HVF	האַב	hAab	_
+6	an	RP	אַן	AaN	_
+7	breyt	VBN	ברײט	brYt	_
+
+SENT	1697E-PURIM,902.1021
+1	tsum	TO	צום	qvM	_
+2	fresin	VB	פֿרעסין	fresyN	_
+3	dz	C	דז	dz	_
+4	zi	PRO	זי	zy	_
+5	zalin	MDF	זאַלין	zAalyN	_
+6	tsu_shpringn	VB	צו_שפּרינגן	qv_$pryngN	_
+
+SENT	1697E-PURIM,908.1023
+1	meyn	PRO$	מײן	mYN	_
+2	bger	N	בגער	bger	_
+3	nakh	P	נ"ך	n"X	_
+4	vas	WPRO	װאַס	VAas	_
+5	ikh	PRO	איך	AyX	_
+6	bin	BEF	בין	byN	_
+7	kumin	VBN	קומין	kvmyN	_
+8	alher	ADV	אַלהער	Aalher	_
+
+SENT	1697E-PURIM,919.1025
+1	ikh	PRO	איך	AyX	_
+2	vis	VBF	װיס	Vys	_
+3	nit	NEG	ניט	nyt	_
+4	vas	WPRO	װאַס	VAas	_
+5	das	D	דת	dS	_
+6	makht	VBF	מאַכט	mAaxt	_
+
+SENT	1697E-PURIM,920.1027
+1	dz	C	דז	dz	_
+2	ikh	PRO	איך	AyX	_
+3	heynt	ADV	הײנט	hYnt	_
+4	nit	NEG	ניט	nyt	_
+5	shlafin	VB	שלאַפֿין	$lAafyN	_
+6	kenin	MDN-IPP	קענין	kenyN	_
+7	eyn	D	אײן	AYN	_
+8	gntsi	ADJ	גנצי	gnqy	_
+9	nkht	N	נכט	nxt	_
+
+SENT	1697E-PURIM,925.1029
+1	di_veyl	C	די_װײל	dy_VYl	_
+2	er	PRO	ער	er	_
+3	hat	HVF	האַט	hAat	_
+4	mir	PRO	מיר	myr	_
+5	vas	Q	װאַס	VAas	_
+6	gutts	ADJ	גוטץ	gvtQ	_
+7	gtan	VBN	גטאַן	gtAaN	_
+
+SENT	1697E-PURIM,931.1031
+1	nr	CONJ	נר	nr	_
+2	vi	WADV	װי	Vy	_
+3	das	D	דת	dS	_
+4	izt	VBF	איזט	Ayzt	_
+5	eyn	D	אײן	AYN	_
+6	king	N	קינג	kyng	_
+
+SENT	1697E-PURIM,934.1033
+1	alz	C	אַלז	Aalz	_
+2	fun	P	פֿון	fvN	_
+3	den	D	דען	deN	_
+4	shelmn	N	שעלמן	$elmN	_
+5	mrdkhi	NPR	מרדכי	mrdxy	_
+6	izt	VBF	איזט	Ayzt	_
+7	vas	Q	װאַס	VAas	_
+8	drinn	ADV	דרינן	drynN	_
+
+SENT	1697E-PURIM,935.1035
+1	dz	C	דז	dz	_
+2	tsvey	NUM	צװײ	qVY	_
+3	herin	N	הערין	heryN	_
+4	habn	HVF	האַבן	hAabN	_
+5	zikh	PRO	זיך	zyX	_
+6	bgebin	VBN	בגעבין	bgebyN	_
+
+SENT	1697E-PURIM,944.1037
+1	shreybr	N	שרײבר	$rYbr	_
+2	ver	VBI	װער	Ver	_
+3	gvar	ADJ	גבֿר	g~r	_
+4	ver	WPRO	װער	Ver	_
+5	azu	ADV	אַזו	Aazv	_
+6	fri	ADV	פֿרי	fry	_
+7	klapt	VBF	קלאַפּט	klAapt	_
+8	an	P	אַן	AaN	_
+9	meyn	PRO$	מײן	mYN	_
+10	tar	N	טאַר	tAar	_
+
+SENT	1697E-PURIM,946.1039
+1	wer	WPRO	wער	wer	_
+2	iz	VBF	איז	Ayz	_
+3	dizr	D	דיזר	dyzr	_
+4	nar	N	נאַר	nAar	_
+5	der	WPRO	דער	der	_
+6	zu	ADV	זו	zv	_
+7	fri	ADV	פֿרי	fry	_
+8	klapt	VBF	קלאַפּט	klAapt	_
+9	an	RP	אַן	AaN	_
+
+SENT	1697E-PURIM,948.1041
+1	der	WPRO	דער	der	_
+2	zu	ADV	זו	zv	_
+3	fri	ADV	פֿרי	fry	_
+4	klapt	VBF	קלאַפּט	klAapt	_
+5	an	RP	אַן	AaN	_
+
+SENT	1697E-PURIM,960.1043
+1	den	CONJ	דען	deN	_
+2	der	D	דער	der	_
+3	king	N	קינג	kyng	_
+4	zeyn	PRO$	זײן	zYN	_
+5	ehr	N	עהר	ehr	_
+6	bgert	VBF	בגערט	bgert	_
+
+SENT	1697E-PURIM,966.1045
+1	den	CONJ	דען	deN	_
+2	der	D	דער	der	_
+3	king	N	קינג	kyng	_
+4	hat	HVF	האַט	hAat	_
+5	di	D	די	dy	_
+6	ehr	N	עהר	ehr	_
+7	gebin	VBN	געבין	gebyN	_
+8-9	tsum	P~D	צום	qvM	_
+8	tsu	P	צו	qv	_
+9	m	D	מ	m	_
+10	lun	N	לון	lvN	_
+
+SENT	1697E-PURIM,973.1047
+1	vi	WADV	װי	Vy	_
+2	zikh	PRO	זיך	zyX	_
+3	eyn	D	אײן	AYN	_
+4	king	N	קינג	kyng	_
+5	an	P	אַן	AaN	_
+6	tag	N	תּג	Tg	_
+7	zeynr	PRO$	זײנר	zYnr	_
+8	krinng	N	קריננג	krynng	_
+9	gihert	VBF	גיהערט	gyhert	_
+
+SENT	1697E-PURIM,976.1049
+1	veyl	C	װײל	VYl	_
+2	er	PRO	ער	er	_
+3	hat	HVF	האַט	hAat	_
+4	mikh	PRO	מיך	myX	_
+5	ghltin	VBN	גהלטין	ghltyN	_
+6	bey	P	בײ	bY	_
+7	meynm	PRO$	מײנם	mYnM	_
+8	lebin	N	לעבין	lebyN	_
+
+SENT	1697E-PURIM,979.1051
+1	der	D	דער	der	_
+2	mrdkhi	NPR	מרדכי	mrdxy	_
+3	der	WPRO	דער	der	_
+4	da	ADV	דאַ	dAa	_
+5	zitst	VBF	זיצט	zyqt	_
+6	untir	P	אונטיר	Avntyr	_
+7	meyn	PRO$	מײן	mYN	_
+8	tar	N	טאַר	tAar	_
+
+SENT	1697E-PURIM,989.1053
+1	dz	WPRO	דז	dz	_
+2	du	PRO	דו	dv	_
+3	hast	HVF	האַסט	hAast	_
+4	zelbr	ADV	זעלבר	zelbr	_
+5	der_lebt	VBN	דער_לעבט	der_lebt	_
+6	an	P	אַן	AaN	_
+7	mir	PRO	מיר	myr	_
+
+SENT	1697E-PURIM,994.1055
+1	veyl	C	װײל	VYl	_
+2	es	PRO	עס	es	_
+3	der	D	דער	der	_
+4	king	N	קינג	kyng	_
+5	hat	HVF	האַט	hAat	_
+6	bgehrt	VBN	בגעהרט	bgehrt	_
+
+SENT	1697E-PURIM,1004.1057
+1	daz	C	דאַז	dAaz	_
+2	ikh	PRO	איך	AyX	_
+3	reyn	ADJ	רײן	rYN	_
+4	verde	VBF	װערדע	Verde	_
+5	fun	P	פֿון	fvN	_
+6	der	D	דער	der	_
+7	ashin	N	אַשין	Aa$yN	_
+
+SENT	1697E-PURIM,1004.1058
+1	alz	P	אַלז	Aalz	_
+2	ven	C	װען	VeN	_
+3	ikh	PRO	איך	AyX	_
+4	in	PRO	אין	AyN	_
+5	nit	NEG	ניט	nyt	_
+6	kent	VBF	קענט	kent	_
+
+SENT	1697E-PURIM,1011.1060
+1	das	C	דת	dS	_
+2	er	PRO	ער	er	_
+3	izt	BEF	איזט	Ayzt	_
+4	shun	ADV	שון	$vN	_
+5	eyn	D	אײן	AYN	_
+6	bad_kratsir	N	באַד_קראַציר	bAad_krAaqyr	_
+7	givezin	VBN	גיװעזין	gyVezyN	_
+
+SENT	1697E-PURIM,1017.1062
+1	az	C	אַז	Aaz	_
+2	der	D	דער	der	_
+3	psuk	N	פּסוק	psvk	_
+4	giht	VBF	גיהט	gyht	_
+
+SENT	1697E-PURIM,1021.1064
+1	veyl	C	װײל	VYl	_
+2	ikh	PRO	איך	AyX	_
+3	vil	MDF	װיל	Vyl	_
+4	dir	PRO	דיר	dyr	_
+5	nakh	ADV	נ"ך	n"X	_
+6	eyn	D	אײן	AYN	_
+7	psuk	N	פּסוק	psvk	_
+8	zagin	VB	זאַגין	zAagyN	_
+
+SENT	1697E-PURIM,1023.1066
+1	dz	C	דז	dz	_
+2	du	PRO	דו	dv	_
+3	keyn	Q	קײן	kYN	_
+4	hebrer	N	העברער	hebrer	_
+5	bist	VBF	ביסט	byst	_
+
+SENT	1697E-PURIM,1025.1068
+1	az	C	אַז	Aaz	_
+2	der	D	דער	der	_
+3	psuk	N	פּסוק	psvk	_
+4	git	VBF	גיט	gyt	_
+5	vi	N	װי	Vy	_
+6	dir	PRO	דיר	dyr	_
+
+SENT	1697E-PURIM,1042.1070
+1	veyl	C	װײל	VYl	_
+2	in	PRO	אין	AyN	_
+3	der	D	דער	der	_
+4	king	N	קינג	kyng	_
+5	tsu	TO	צו	qv	_
+6	erin	VB	ערין	eryN	_
+7	bigehrt	VBF	ביגעהרט	bygehrt	_
+
+SENT	1697E-PURIM,1045.1072
+1	di	D	די	dy	_
+2	mal_tseyt	N	מאַל_צײט	mAal_qYt	_
+3	vas	C	װאַס	VAas	_
+4	di	D	די	dy	_
+5	kingn	N	קינגן	kyngN	_
+6	hat	HVF	האַט	hAat	_
+7	breyt	VBN	ברײט	brYt	_
+
+SENT	1697E-PURIM,1058.1074
+1	das	C	דת	dS	_
+2	inn	PRO	אינן	AynN	_
+3	mekhti	MDF	מעכטי	mexty	_
+4	vidr_farin	VB	װידר_פֿאַרין	Vydr_fAaryN	_
+5	das	D	דת	dS	_
+6	rekht	N	רעכט	rext	_
+
+SENT	1697E-PURIM,1059.1076
+1	das	C	דת	dS	_
+2	zi	PRO	זי	zy	_
+3	nit	NEG	ניט	nyt	_
+4	verin	RDF	װערין	VeryN	_
+5	gshlakht	VAN	גשלאַכט	g$lAaxt	_
+
+SENT	1697E-PURIM,1064.1078
+1	ven	C	װען	VeN	_
+2	meyn	PRO$	מײן	mYN	_
+3	valk	N	װאַלק	VAalk	_
+4	zalt	MDF	זאַלט	zAalt	_
+5	kumin	VB	קומין	kvmyN	_
+6	{in}	P	{אין}	{AyN}	_
+7	grush	ADJ	גרוש	grv$	_
+8	leydn	N	לײדן	lYdN	_
+
+SENT	1697E-PURIM,1067.1080
+1	der	WPRO	דער	der	_
+2	dizs	D	דיזס	dyzs	_
+3	fanget	VBF	פֿאַנגעט	fAanget	_
+4	an	RP	אַן	AaN	_
+
+SENT	1697E-PURIM,1070.1082
+1	der	WPRO	דער	der	_
+2	zelkhis	N	זעלכיס	zelxys	_
+3	hat	HVF	האַט	hAat	_
+4	gt{an}	VBN	גט{אַן}	gt{AaN}	_
+
+SENT	1697E-PURIM,1076.1084
+1	veyl	C	װײל	VYl	_
+2	er	PRO	ער	er	_
+3	hat	HVF	האַט	hAat	_
+4	den	D	דען	deN	_
+5	king	N	קינג	kyng	_
+6	bhltin	VBN	בהלטין	bhltyN	_
+7	bey	P	בײ	bY	_
+8	zeyn	PRO$	זײן	zYN	_
+9	lebin	N	לעבין	lebyN	_
+10	un	CONJ	און	AvN	_
+11	bey	P	בײ	bY	_
+12	zeynr	PRO$	זײנר	zYnr	_
+13	krun	N	קרון	krvN	_
+
+SENT	1697E-PURIM,1085.1086
+1	ven	C	װען	VeN	_
+2	ikh	PRO	איך	AyX	_
+3	hete	HVF	העטע	hete	_
+4	gvust	VBN	גװוּסט	gVUst	_
+5	das	C	דת	dS	_
+6	di	D	די	dy	_
+7	kingn	N	קינגן	kyngN	_
+8	fun	P	פֿון	fvN	_
+9	yudn_stam	N	יודנ_סטאַם	yvdn_stAaM	_
+10	izt	VBF	איזט	Ayzt	_
+
+SENT	1697E-PURIM,1095.1088
+1	veyl	C	װײל	VYl	_
+2	ikh	PRO	איך	AyX	_
+3	zehe	VBF	זעהע	zehe	_
+4	es	PRO	עס	es	_
+5	nit	NEG	ניט	nyt	_
+6	um	P	אום	AvM	_
+7	mir	PRO	מיר	myr	_
+
+SENT	1697E-PURIM,1103.1090
+1	ven	C	װען	VeN	_
+2	du	PRO	דו	dv	_
+3	nakh	ADV	נ"ך	n"X	_
+4	zu	ADV	זו	zv	_
+5	fil	Q	פֿיל	fyl	_
+6	vilst	MDF	װילסט	Vylst	_
+7	gebin	VB	געבין	gebyN	_
+
+SENT	1697E-PURIM,1120.1092
+1	vas	WPRO	װאַס	VAas	_
+2	ikh	PRO	איך	AyX	_
+3	hab	HVF	האַב	hAab	_
+4	dir	PRO	דיר	dyr	_
+5	gishaft	VBN	גישאַפֿט	gy$Aaft	_
+
+SENT	1697E-PURIM,1125.1094
+1	veyl	C	װײל	VYl	_
+2	ikh	PRO	איך	AyX	_
+3	hab	HVF	האַב	hAab	_
+4	velin	MDN-IPP	װעלין	VelyN	_
+5	den	D	דען	deN	_
+6	shelmn	N	שעלמן	$elmN	_
+7	mrdkhi	NPR	מרדכי	mrdxy	_
+8	um	P	אום	AvM	_
+9	das	D	דת	dS	_
+10	lebn	N	לעבן	lebN	_
+11	brengin	VB	ברענגין	brengyN	_
+
+SENT	1697E-PURIM,1146.1096
+1	das	C	דת	dS	_
+2	ikh	PRO	איך	AyX	_
+3	zal	MDF	ז"ל	z"l	_
+4	grikht	VAN	גריכט	gryxt	_
+5	verdn	RD	װערדן	VerdN	_
+6	mit	P	מיט	myt	_
+7	dem	D	דעם	deM	_
+8	shvert	N	שװערט	$Vert	_
+
+SENT	1697E-PURIM,1157.1098
+1	veyl	C	װײל	VYl	_
+2	in	P	אין	AyN	_
+3	di	D	די	dy	_
+4	tsehn	NUM	צעהן	qehN	_
+5	gbat	N	גבאַט	gbAat	_
+6	steht	VBF	סטעהט	steht	_
+7	ven	C	װען	VeN	_
+8	deyn	PRO$	דײן	dYN	_
+9	feynt	N	פֿײנט	fYnt	_
+10	flt	VBF	פֿלט	flt	_
+11-12	zalstu	MDF~PRO	זאַלסטו	zAalstv	_
+11	zals	MDF	זאַלס	zAals	_
+12	tu	PRO	טו	tv	_
+13	zikh	PRO	זיך	zyX	_
+14	nit	NEG	ניט	nyt	_
+15	freyan	VB	פֿרײאַן	frYAaN	_
+
+SENT	1697E-PURIM,1167.1100
+1	der_mit	DR+P	דער_מיט	der_myt	_
+2	az	C	אַז	Aaz	_
+3	er	PRO	ער	er	_
+4	nit	NEG	ניט	nyt	_
+5	hruntr	ADV	הרונטר	hrvntr	_
+6	felt	VBF	פֿעלט	felt	_
+
+SENT	1697E-PURIM,1171.1102
+1	ven	C	װען	VeN	_
+2	men	PRO	מען	meN	_
+3	virt	RDF	װירט	Vyrt	_
+4	hmn	NPR	המן	hmN	_
+5	den	D	דען	deN	_
+6	kapf	N	קאַפּף	kAapF	_
+7	ab	RP	אַב	Aab	_
+8	shlagin	VB	שלאַגין	$lAagyN	_
+
+SENT	1697E-PURIM,1173.1104
+1	ven	C	װען	VeN	_
+2	men	PRO	מען	meN	_
+3	virt	RDF	װירט	Vyrt	_
+4	meyn	PRO$	מײן	mYN	_
+5	kapf	N	קאַפּף	kAapF	_
+6	ab	RP	אַב	Aab	_
+7	brekhin	VB	ברעכין	brexyN	_
+
+SENT	1697E-PURIM,1186.1106
+1	i	C	אי	Ay	_
+2	men	PRO	מען	meN	_
+3	mikh	PRO	מיך	myX	_
+4	virt	RDF	װירט	Vyrt	_
+5	an	P	אַן	AaN	_
+6	galgin	N	גאַלגין	gAalgyN	_
+7	hengin	VB	הענגין	hengyN	_
+
+SENT	1697E-PURIM,1191.1108
+1	az	C	אַז	Aaz	_
+2	ikh	PRO	איך	AyX	_
+3	muz	MDF	מוז	mvz	_
+4	leydn	VB	לײדן	lYdN	_
+5	den	D	דען	deN	_
+6	bitrn	ADJ	ביטרן	bytrN	_
+7	tut	N	טוט	tvt	_
+
+SENT	1697E-PURIM,1194.1110
+1	dz	C	דז	dz	_
+2	es	PRO	עס	es	_
+3	oyf	P	אױף	AWF	_
+4	keyn	Q	קײן	kYN	_
+5	andrin	ADJ	אַנדרין	AandryN	_
+6	tut	N	טוט	tvt	_
+7	zal	MDF	ז"ל	z"l	_
+8	hafin	VB	האַפֿין	hAafyN	_
+
+SENT	1697E-PURIM,1195.1112
+1	veyl	C	װײל	VYl	_
+2	ikh	PRO	איך	AyX	_
+3	hab	HVF	האַב	hAab	_
+4	oyf	P	אױף	AWF	_
+5	mrdkhi	NPR	מרדכי	mrdxy	_
+6	zeyn	PRO$	זײן	zYN	_
+7	tut	N	טוט	tvt	_
+8	givart	VBN	גיװאַרט	gyVAart	_
+
+SENT	1697E-PURIM,1198.1114
+1	ikh	PRO	איך	AyX	_
+2	velt	VBF	װעלט	Velt	_
+3	dz	C	דז	dz	_
+4	in	PRO	אין	AyN	_
+5	der	D	דער	der	_
+6	teybl	N	טײבל	tYbl	_
+7	het	HVF	העט	het	_
+8	lengstn	ADVS	לענגסטן	lengstN	_
+9	gnumin	VBN	גנומין	gnvmyN	_
+
+SENT	1697E-PURIM,1203.1116
+1	der	WPRO	דער	der	_
+2	alis	Q	אַליס	Aalys	_
+3	ershafin	VBN	ערשאַפֿין	er$AafyN	_
+4	hat	HVF	האַט	hAat	_
+
+SENT	1697E-PURIM,1205.1118
+1	dz	C	דז	dz	_
+2	mrdkhi	NPR	מרדכי	mrdxy	_
+3	zeyn	PRO$	זײן	zYN	_
+4	fleysh	N	פֿלײש	flY$	_
+5	zalin	MDF	זאַלין	zAalyN	_
+6	esin	VB	עסין	esyN	_
+7	di	D	די	dy	_
+8	rabin	N	ראַבין	rAabyN	_
+
+SENT	1697E-PURIM,1206.1120
+1	veyl	C	װײל	VYl	_
+2	mrdkhi	NPR	מרדכי	mrdxy	_
+3	izt	VBF	איזט	Ayzt	_
+4	eyn	D	אײן	AYN	_
+5	frumr	ADJ	פֿרומר	frvmr	_
+6	man	N	מאַן	mAaN	_
+
+SENT	1697E-PURIM,1213.1122
+1	az	C	אַז	Aaz	_
+2	men	PRO	מען	meN	_
+3	zikh	PRO	זיך	zyX	_
+4	nikht	NEG	ניכט	nyxt	_
+5	oyf	P	אױף	AWF	_
+6	zeyn	PRO$	זײן	zYN	_
+7	hafrt	N	האַפֿרט	hAafrt	_
+8	vr_lasin	VB	װר_לאַסין	Vr_lAasyN	_
+9	kan	MDF	ק"ן	k"N	_
+
+SENT	1697E-PURIM,1218.1124
+1	dz	C	דז	dz	_
+2	ikh	PRO	איך	AyX	_
+3	muz	MDF	מוז	mvz	_
+4	verin	RD	װערין	VeryN	_
+5	ghangin	VAN	גהאַנגין	ghAangyN	_
+
+SENT	1697E-PURIM,1238.1126
+1	vas	WPRO	װאַס	VAas	_
+2	eynr	PRO	אײנר	AYnr	_
+3	den	D	דען	deN	_
+4	yudn	N	יודן	yvdN	_
+5	tut	VBF	טוט	tvt	_
+
+SENT	1697E-PURIM,1244.1128
+1	dz	C	דז	dz	_
+2	es	PRO	עס	es	_
+3	im	PRO	אים	AyM	_
+4	nit	NEG	ניט	nyt	_
+5	zal	MDF	ז"ל	z"l	_
+6	gisehn	VB	גיסעהן	gysehN	_
+
+SENT	1697E-PURIM,1247.1130
+1	az	C	אַז	Aaz	_
+2	ikh	PRO	איך	AyX	_
+3	bin	BEF	בין	byN	_
+4	bey	P	בײ	bY	_
+5	der	D	דער	der	_
+6	kingn	N	קינגן	kyngN	_
+7	verdin	RDN-IPP	װערדין	VerdyN	_
+8	eyn	RP	אײן	AYN	_
+9	gifundin	VAN	גיפֿונדין	gyfvndyN	_
+
+SENT	1697E-PURIM,1249.1132
+1	az	C	אַז	Aaz	_
+2	ikh	PRO	איך	AyX	_
+3	bin	VBF	בין	byN	_
+4-5	tsum	P~D	צום	qvM	_
+4	tsu	P	צו	qv	_
+5	m	D	מ	m	_
+6	glgin	N	גלגין	glgyN	_
+7	breyt	ADJ	ברײט	brYt	_
+
+SENT	1697E-PURIM,1251.1134
+1	dz	C	דז	dz	_
+2	ikh	PRO	איך	AyX	_
+3	bin	BEF	בין	byN	_
+4	gikumin	VBN	גיקומין	gykvmyN	_
+5	um	P	אום	AvM	_
+6	meyn	PRO$	מײן	mYN	_
+7	ehr	N	עהר	ehr	_
+
+SENT	1697E-PURIM,1253.1136
+1	veyl	C	װײל	VYl	_
+2	ikh	PRO	איך	AyX	_
+3	habi	HVF	האַבי	hAaby	_
+4	di	D	די	dy	_
+5	zakh	N	זאַך	zAaX	_
+6	nit	NEG	ניט	nyt	_
+7	besr	ADV	בעסר	besr	_
+8	bdakht	VBN	בדאַכט	bdAaxt	_
+
+SENT	1697E-PURIM,1257.1138
+1	dz	C	דז	dz	_
+2	er	PRO	ער	er	_
+3	hat	HVF	האַט	hAat	_
+4	mit	P	מיט	myt	_
+5	zeyn	PRO$	זײן	zYN	_
+6	hendn	N	הענדן	hendN	_
+7	eyn	D	אײן	AYN	_
+8	libn	N	ליבן	lybN	_
+9	tsu_risn	VBN	צו_ריסן	qv_rysN	_
+
+SENT	1697E-PURIM,1268.1140
+1	veyl	C	װײל	VYl	_
+2	er	PRO	ער	er	_
+3	hat	HVF	האַט	hAat	_
+4	gat	NPR	גאַט	gAat	_
+5	an	RP	אַן	AaN	_
+6	grufin	VBN	גרופֿין	grvfyN	_
+
+SENT	1697E-PURIM,1271.1142
+1	dz	C	דז	dz	_
+2	er	PRO	ער	er	_
+3	hat	HVF	האַט	hAat	_
+4	fil	Q	פֿיל	fyl	_
+5	toyznt	NUM	טױזנט	tWznt	_
+6	fun	P	פֿון	fvN	_
+7	di	D	די	dy	_
+8	feynde	N	פֿײנדע	fYnde	_
+9	{gbrakht}	VBN	{גבראַכט}	{gbrAaxt}	_
+10	um	P	אום	AvM	_
+11	irn	PRO$	אירן	AyrN	_
+12	lebin	N	לעבין	lebyN	_
+
+SENT	1697E-PURIM,1280.1144
+1	vi	WADV	װי	Vy	_
+2	er	PRO	ער	er	_
+3	lag	VBF	לאַג	lAag	_
+4	oyf	P	אױף	AWF	_
+5	den	D	דען	deN	_
+6	tut_bet	N	טוט_בעט	tvt_bet	_
+7	krnk	ADJ	קרנק	krnk	_
+
+SENT	1697E-PURIM,1284.1146
+1	vi	WADV	װי	Vy	_
+2	im	PRO	אים	AyM	_
+3	der	D	דער	der	_
+4	prafet	N	פּראַפֿעט	prAafet	_
+5	er_mant	VBF	ער_מאַנט	er_mAant	_
+
+SENT	1697E-PURIM,1287.1148
+1	der	WPRO	דער	der	_
+2	in	PRO	אין	AyN	_
+3	bld	ADV	בלד	bld	_
+4	ghalfin	VBN	גהאַלפֿין	ghAalfyN	_
+5	hat	HVF	האַט	hAat	_
+
+SENT	1697E-PURIM,1291.1150
+1	vi	WADV	װי	Vy	_
+2	freh	NPR	פֿרעה	freh	_
+3	hat	HVF	האַט	hAat	_
+4	di	D	די	dy	_
+5	kindr	N	קינדר	kyndr	_
+6	isral	NPR	איסראַל	AysrAal	_
+7	tuain	DON-IPP	טואַיִן	tvAayiN	_
+8	plagin	VB	פּלאַגין	plAagyN	_
+
+SENT	1697E-PURIM,1302.1152
+1	dz	C	דז	dz	_
+2	er	PRO	ער	er	_
+3	kenti	MDF	קענטי	kenty	_
+4	di	D	די	dy	_
+5	vaundr	N	װאַונדר	VAavndr	_
+6	bshreybn	VB	בשרײבן	b$rYbN	_
+
+SENT	1697E-PURIM,1304.1154
+1	veyl	C	װײל	VYl	_
+2	ikh	PRO	איך	AyX	_
+3	hab	HVF	האַב	hAab	_
+4	di	D	די	dy	_
+5	tsehn	NUM	צעהן	qehN	_
+6	gibat	N	גיבאַט	gybAat	_
+7	nit	NEG	ניט	nyt	_
+8	ghltin	VBN	גהלטין	ghltyN	_
+
+SENT	1697E-PURIM,1311.1156
+1	veyl	C	װײל	VYl	_
+2	ikh	PRO	איך	AyX	_
+3	hab	HVF	האַב	hAab	_
+4	den	D	דען	deN	_
+5	sbt	N	סבט	sbt	_
+6	nit	NEG	ניט	nyt	_
+7	frstern	VBN	פֿרסטערן	frsterN	_
+
+SENT	1697E-PURIM,1315.1158
+1	veyl	C	װײל	VYl	_
+2	ikh	PRO	איך	AyX	_
+3	hab	HVF	האַב	hAab	_
+4	der_shlagin	VBN	דער_שלאַגין	der_$lAagyN	_
+5	un	CONJ	און	AvN	_
+6	der_mart	VBN	דער_מאַרט	der_mAart	_
+
+SENT	1697E-PURIM,1317.1160
+1	veyl	C	װײל	VYl	_
+2	ikh	PRO	איך	AyX	_
+3	hab	HVF	האַב	hAab	_
+4	hurrey	N	הוררײ	hvrrY	_
+5	gtribn	VBN	גטריבן	gtrybN	_
+
+SENT	1697E-PURIM,1319.1162
+1	veyl	C	װײל	VYl	_
+2	ikh	PRO	איך	AyX	_
+3	hab	HVF	האַב	hAab	_
+4	tun	DON-IPP	טון	tvN	_
+5	roybn	VB	רױבן	rWbN	_
+6	un	CONJ	און	AvN	_
+7	shtelin	VB	שטעלין	$telyN	_
+
+SENT	1697E-PURIM,1330.1164
+1	az	C	אַז	Aaz	_
+2	men	PRO	מען	meN	_
+3	dikh	PRO	דיך	dyX	_
+4	virt	RDF	װירט	Vyrt	_
+5	hengn	VB	הענגן	hengN	_
+
+SENT	1697E-PURIM,1331.1166
+1	ven	C	װען	VeN	_
+2	men	PRO	מען	meN	_
+3	virt	RDF	װירט	Vyrt	_
+4	deyn	PRO$	דײן	dYN	_
+5	gnik	N	גניק	gnyk	_
+6	tsu_brekhin	VB	צו_ברעכין	qv_brexyN	_
+
+SENT	1697E-PURIM,1334.1168
+1	ven	C	װען	VeN	_
+2	das	D	דת	dS	_
+3	nakhbrn	N	נאַכברן	nAaxbrN	_
+4	hoyz	N	הױז	hWz	_
+5	brent	VBF	ברענט	brent	_
+
+SENT	1697E-PURIM,1343.1170
+1	habin	HVF	האַבין	hAabyN	_
+2	ir	PRO	איר	Ayr	_
+3	herin	N	הערין	heryN	_
+4	nit	NEG	ניט	nyt	_
+5	herin	VBN-IPP	הערין	heryN	_
+6	fun	P	פֿון	fvN	_
+7	den	D	דען	deN	_
+8	king	N	קינג	kyng	_
+9	nbukhdntsr	NPR	נבוכדנצר	nbvxdnqr	_
+10	lezin	VB	לעזין	lezyN	_
+11	vi	C	װי	Vy	_
+12	eyn	D	אײן	AYN	_
+13	shtarkir	ADJ	שטאַרקיר	$tAarkyr	_
+14	king	N	קינג	kyng	_
+15	er	PRO	ער	er	_
+16	iz	BEF	איז	Ayz	_
+17	givezin	VBN	גיװעזין	gyVezyN	_
+
+SENT	1697E-PURIM,1344.1172
+1	zu_bld	ADV	זו_בלד	zv_bld	_
+2	er	PRO	ער	er	_
+3	hat	HVF	האַט	hAat	_
+4	zikh	PRO	זיך	zyX	_
+5	zeyn	PRO$	זײן	zYN	_
+6	herlikhkeyt	N	הערליכקײט	herlyxkYt	_
+7	ibr_numin	VBN	איבר_נומין	Aybr_nvmyN	_
+
+SENT	1697E-PURIM,1351.1174
+1	vi	WADV	װי	Vy	_
+2	der	D	דער	der	_
+3	baltsettsr	N	באַלצעטצר	bAalqetqr	_
+4	hat	HVF	האַט	hAat	_
+5	das	D	דת	dS	_
+6	gfes	N	גפֿעס	gfes	_
+7	oys	P	אױס	AWs	_
+8	den	D	דען	deN	_
+9	tempil	N	טעמפּיל	tempyl	_
+10	tuain	DON-IPP	טואַיִן	tvAayiN	_
+11	her_far	ADV	הער_פֿאַר	her_fAar	_
+12	tragin	VB	טראַגין	trAagyN	_
+
+SENT	1697E-PURIM,1355.1176
+1	veyl	C	װײל	VYl	_
+2	ikh	PRO	איך	AyX	_
+3	hab	HVF	האַב	hAab	_
+4	di	D	די	dy	_
+5	yudn	N	יודן	yvdN	_
+6	velin	MDN-IPP	װעלין	VelyN	_
+7	fangin	VB	פֿאַנגין	fAangyN	_
+
+SENT	1697E-PURIM,1360.1178
+1	ihe	C	איהע	Ayhe	_
+2	mir	PRO	מיר	myr	_
+3	meyn	PRO$	מײן	mYN	_
+4	rekht	N	רעכט	rext	_
+5	vert	RDF	װערט	Vert	_
+6	gisehn	VB	גיסעהן	gysehN	_
+
+SENT	1697E-PURIM,1368.1180
+1	es	ES	עס	es	_
+2	izt	VBF	איזט	Ayzt	_
+3	mir	PRO	מיר	myr	_
+4	leyd	ADJ	לײד	lYd	_
+5	dz	C	דז	dz	_
+6	du	PRO	דו	dv	_
+7	zalst	MDF	זאַלסט	zAalst	_
+8	tsu	RP	צו	qv	_
+9	zehn	VB	זעהן	zehN	_
+
+SENT	1697E-PURIM,1369.1182
+1	ven	C	װען	VeN	_
+2	mir	PRO	מיר	myr	_
+3	vert	RDF	װערט	Vert	_
+4	meyn	PRO$	מײן	mYN	_
+5	rekht	N	רעכט	rext	_
+6	gisehn	VB	גיסעהן	gysehN	_
+
+SENT	1697E-PURIM,1374.1184
+1	dz	C	דז	dz	_
+2	es	PRO	עס	es	_
+3	nit	NEG	ניט	nyt	_
+4	esin	VBF	עסין	esyN	_
+5	di	D	די	dy	_
+6	rabin	N	ראַבין	rAabyN	_
+
+SENT	1697E-PURIM,1377.1186
+1	un	CONJ	און	AvN	_
+2	makhi	VBI	מאַכי	mAaxy	_
+3	vas	WPRO	װאַס	VAas	_
+4	du	PRO	דו	dv	_
+5	hast	VBF	האַסט	hAast	_
+6	tsu	TO	צו	qv	_
+7	makhin	VB	מאַכין	mAaxyN	_
+
+SENT	1697E-PURIM,1379.1188
+1	veyl	C	װײל	VYl	_
+2	es	PRO	עס	es	_
+3	nit	NEG	ניט	nyt	_
+4	andrs	ADV	אַנדרס	Aandrs	_
+5	kan	MDF	ק"ן	k"N	_
+6	gzeyn	VB	גזײן	gzYN	_
+
+SENT	1697E-PURIM,1397.1190
+1	veyl	C	װײל	VYl	_
+2	du	PRO	דו	dv	_
+3	hast	HVF	האַסט	hAast	_
+4	velin	MDN-IPP	װעלין	VelyN	_
+5	di	D	די	dy	_
+6	yudn	N	יודן	yvdN	_
+7	um	P	אום	AvM	_
+8	das	D	דת	dS	_
+9	lebin	N	לעבין	lebyN	_
+10	brengin	VB	ברענגין	brengyN	_
+
+SENT	1697E-PURIM,1410.1192
+1	ven	C	װען	VeN	_
+2	mir	PRO	מיר	myr	_
+3	nur	FP	נור	nvr	_
+4	das	D	דת	dS	_
+5	tuain	VBF	טואַיִן	tvAayiN	_
+

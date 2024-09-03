@@ -1,0 +1,2177 @@
+SENT	1588E-LETTERS-CRACOW,50.3
+1	r"r	H	ר"ר	r"r	sirs
+2	vist	VBI	װיסט	Vyst	_
+3	dz	C	דז	dz	_
+4	ikh	PRO	איך	AyX	_
+5	eyer	PRO$	אײער	AYer	_
+6	ktbim	N	קטבים	ktbyM	_
+7	mkbl	RP-H	מקבל	mkbl	_
+8	hab	HVF	האַב	hAab	_
+9	givezin	VBN	גיװעזין	gyVezyN	_
+
+SENT	1588E-LETTERS-CRACOW,50.4
+1	un	CONJ	און	AvN	_
+2	hab	HVF	האַב	hAab	_
+3	den	D	דען	deN	_
+4	slikh	N	סליך	slyX	_
+5	nit	NEG	ניט	nyt	_
+6	lng	ADV	לנג	lng	_
+7	velin	MDN-IPP	װעלין	VelyN	_
+8	mmsikh	RP-H	ממסיך	mmsyX	_
+9	zeyn	VB	זײן	zYN	_
+
+SENT	1588E-LETTERS-CRACOW,50.5
+1	un	CONJ	און	AvN	_
+2	hab	HVF	האַב	hAab	_
+3	in	PRO	אין	AyN	_
+4	nokh	ADV	נאָך	nAoX	_
+5	be-yom	H	בע-יום	be-yvM	on_day
+6	hanal	H	הנ"ל	hn"l	aforesaid
+7	ab	RP	אַב	Aab	_
+8	gifertigt	VBN	גיפֿערטיגט	gyfertygt	_
+
+SENT	1588E-LETTERS-CRACOW,50.6
+1	kan	MDF	ק"ן	k"N	_
+2	msig	RP-H	מסיג	msyg	_
+3	zeyn	VB	זײן	zYN	_
+4	ven	C	װען	VeN	_
+5	ir	PRO	איר	Ayr	_
+6	far	ADV	פֿאַר	fAar	_
+7	meyn	PRO$	מײן	mYN	_
+8	ktb	N	קטב	ktb	_
+9	mkbl	RP-H	מקבל	mkbl	_
+10	hab	HVF	האַב	hAab	_
+11	givezin	VBN	גיװעזין	gyVezyN	_
+12	dz	WPRO	דז	dz	_
+13	ikh	PRO	איך	AyX	_
+14	eykh	PRO	אײך	AYX	_
+15	gshikt	VBN	גשיקט	g$ykt	_
+16	hab	HVF	האַב	hAab	_
+
+SENT	1588E-LETTERS-CRACOW,50.7
+1	g"k	H	ג"ק	g"k	also_yes
+2	mslikh	H	מסליך	mslyX	from_messenger
+3	akhr	H	אַכר	Aaxr	after
+4	het	HVF	העט	het	_
+5	mir	PRO	מיר	myr	_
+6	nit	NEG	ניט	nyt	_
+7	mihr	QR	מיהר	myhr	_
+8	eyn	D	אײן	AYN	_
+9	slikh	N	סליך	slyX	_
+10	givezin	VBN	גיװעזין	gyVezyN	_
+11	.	PUNC	.	.	_
+
+SENT	1588E-LETTERS-CRACOW,51.9
+1	hab	HVF	האַב	hAab	_
+2	mikh	PRO	מיך	myX	_
+3	giferkht	VBN	גיפֿערכט	gyferxt	_
+4	ez	PRO	עז	ez	_
+5	vert	RDF	װערט	Vert	_
+6	gisehn	VB	גיסעהן	gysehN	_
+
+SENT	1588E-LETTERS-CRACOW,51.10
+1	hab	HVF	האַב	hAab	_
+2	eykh	PRO	אײך	AYX	_
+3	far	ADV	פֿאַר	fAar	_
+4	oykh	ADV	אױך	AWX	_
+5	gsribin	VBN	גסריבין	gsrybyN	_
+
+SENT	1588E-LETTERS-CRACOW,51.11
+1	laz	VBF	לאַז	lAaz	_
+2	eykh	PRO	אײך	AYX	_
+3	visin	VB	װיסין	VysyN	_
+4	vidr	ADV	װידר	Vydr	_
+
+SENT	1588E-LETTERS-CRACOW,51.12
+1	ver	WPRO	װער	Ver	_
+2	veys	VBF	װײס	VYs	_
+3	ub	C	אוב	Avb	_
+4	meyn	PRO$	מײן	mYN	_
+5	ktb	N	קטב	ktb	_
+6	eykh	PRO	אײך	AYX	_
+7	givardin	VBN	גיװאַרדין	gyVAardyN	_
+8	iz	BEF	איז	Ayz	_
+
+SENT	1588E-LETTERS-CRACOW,51.13
+1	nun	ADV	נ	n	_
+2	laz	VBF	לאַז	lAaz	_
+3	eykh	PRO	אײך	AYX	_
+4	visin	VB	װיסין	VysyN	_
+5	bras	H	בראַס	brAas	in_head
+
+SENT	1588E-LETTERS-CRACOW,51.14
+1	vaz	WPRO	װאַז	VAaz	_
+2	blngin	VAG	בלנגין	blngyN	_
+3	iz	BEF	איז	Ayz	_
+4	eyer	PRO$	אײער	AYer	_
+5	rind_ledr	N	רינד_לעדר	rynd_ledr	_
+6	laz	VBF	לאַז	lAaz	_
+7	eykh	PRO	אײך	AYX	_
+8	visin	VB	װיסין	VysyN	_
+9	hab	HVF	האַב	hAab	_
+10	di	D	די	dy	_
+11	t"u	NUM	ט"או	t"Av	15
+12	vail	N	װאַיִל	VAayil	_
+13	an	RP	אַן	AaN	_
+14	givardin	VBN	גיװאַרדין	gyVAardyN	_
+
+SENT	1588E-LETTERS-CRACOW,51.15
+1	hab	HVF	האַב	hAab	_
+2	zi	PRO	זי	zy	_
+3	gebn	VBN	געבן	gebN	_
+4	tsu	P	צו	qv	_
+5	zhub	N	זשוב	z$vb	_
+
+SENT	1588E-LETTERS-CRACOW,51.16
+1	ikh	PRO	איך	AyX	_
+2	ver	RDF	װער	Ver	_
+3	zi	PRO	זי	zy	_
+4	bkumn	VB	בקומן	bkvmN	_
+5	ai"h	H	אַיִ"ה	Aayi"h	if_will_want_God
+6	tukh	H	טוך	tvX	within
+7	g'	H	ג'	g'	3
+8	sbueu's	H	סבועו'ס	sbvev's	weeks
+9	meyom	H	מײאָם	mYAoM	from_day
+10	hanal	H	הנ"ל	hn"l	aforesaid
+
+SENT	1588E-LETTERS-CRACOW,51.17
+1	hab	HVF	האַב	hAab	_
+2	zi	PRO	זי	zy	_
+3	r	NPR	ר	r	_
+4	ahrn	NPR	אַהרן	AahrN	_
+5	pulk	NPR	פּולק	pvlk	_
+6	fr_koyft	VBN	פֿר_קױפֿט	fr_kWft	_
+
+SENT	1588E-LETTERS-CRACOW,51.18
+1	hab	HVF	האַב	hAab	_
+2	zi	PRO	זי	zy	_
+3	zunst	ADV	זונסט	zvnst	_
+4	nit	NEG	ניט	nyt	_
+5	an	RP	אַן	AaN	_
+6	verdin	VB	װערדין	VerdyN	_
+7	kenn	MDN-IPP	קענן	kenN	_
+
+SENT	1588E-LETTERS-CRACOW,51.19
+1	oykh	ADV	אױך	AWX	_
+2	di	D	די	dy	_
+3	elnt	ADJ	עלנט	elnt	_
+4	heyt	N	הײט	hYt	_
+5	hab	HVF	האַב	hAab	_
+6	ikh	PRO	איך	AyX	_
+7	fr_kuft	VBN	פֿר_קופֿט	fr_kvft	_
+8	bed	H	בעד	bed	for
+9	u'	H	או'	Av'	6
+10	sak	N	סאַק	sAak	_
+11	ukhtsi	H	אוכצי	Avxqy	and_half
+12	kh"a	H	כ"אַ	x"Aa	all_one
+13	...	PUNC	...	...	_
+
+SENT	1588E-LETTERS-CRACOW,51.20
+1	di	D	די	dy	_
+2	meut	N	מעוט	mevt	money
+3	hof	VBF	האָף	hAoF	_
+4	ikh	PRO	איך	AyX	_
+5	oykh	ADV	אױך	AWX	_
+6	tsu	TO	צו	qv	_
+7	bkumn	VB	בקומן	bkvmN	_
+8	i"h	H	אי"ה	Ay"h	if_he_will_want
+9	meyom	H	מײאָם	mYAoM	from_day
+10	hanal	H	הנ"ל	hn"l	aforesaid
+11	tukh	H	טוך	tvX	within
+12	b'	H	ב'	b'	2
+13	sbueu's	H	סבועו'ס	sbvev's	weeks
+14	.	PUNC	.	.	_
+
+SENT	1588E-LETTERS-CRACOW,51.21
+1	di	D	די	dy	_
+2	strut	N	סטרוט	strvt	_
+3	hab	HVF	האַב	hAab	_
+4	ikh	PRO	איך	AyX	_
+5	mir	PRO	מיר	myr	_
+6	lazin	VBN-IPP	לאַזין	lAazyN	_
+7-8	tsushreybn	RP~VB	צושרײבן	qv$rYbN	_
+7	tsu	RP	צו	qv	_
+8	shreybn	VB	שרײבן	$rYbN	_
+9	mtemi'{m}	H	מטעמי'{מ}	mtemy'{m}	hidden
+10	khmusi'{m}	H	כמוסי'{מ}	xmvsy'{m}	delicacies
+
+SENT	1588E-LETTERS-CRACOW,51.22
+1	mid	ADV	מיד	myd	_
+2	az	C	אַז	Aaz	_
+3	ikh	PRO	איך	AyX	_
+4	di	D	די	dy	_
+5	meut	N	מעוט	mevt	_
+6	bkumn	VB	בקומן	bkvmN	_
+7	ver	RDF	װער	Ver	_
+8	vil	MDF	װיל	Vyl	_
+9	ikh	PRO	איך	AyX	_
+10	tkf	ADV	טקף	tkF	_
+11	umid	H	אומיד	Avmyd	and_immediately
+12	ai"h	H	אַיִ"ה	Aayi"h	if_will_want_God
+13	ab	RP	אַב	Aab	_
+14	tsalin	VB	צאַלין	qAalyN	_
+15	min	QR	מין	myN	_
+
+SENT	1588E-LETTERS-CRACOW,51.23
+1	vaz	WPRO	װאַז	VAaz	_
+2	blngin	VAG	בלנגין	blngyN	_
+3	iz	BEF	איז	Ayz	_
+4	di	D	די	dy	_
+5	mskhnut	N	מסכנוט	msxnvt	_
+6	mprutsin_meynstir	H	מפּרוצינ_מײנסטיר	mprvqyn_mYnstyr	from_Prutsin_Meynstir
+7	hat	HVF	האַט	hAat	_
+8	man	PRO	מאַן	mAaN	_
+9	muzn	MDN-IPP	מוזן	mvzN	_
+10	aroys	ADV	אַרױס	AarWs	_
+11	gebn	VB	געבן	gebN	_
+
+SENT	1588E-LETTERS-CRACOW,51.24
+1	daz	D	דאַז	dAaz	_
+2	khdr	N	כדר	xdr	_
+3	ir"h	H	איר"ה	Ayr"h	it_will_be_exalted_his_majesty
+4	hat	HVF	האַט	hAat	_
+5	der_fir	DR+P	דער_פֿיר	der_fyr	_
+6	erb	RP-H	ערב	erb	_
+7	givezin	VBN	גיװעזין	gyVezyN	_
+
+SENT	1588E-LETTERS-CRACOW,51.25
+1	nun	ADV	נ	n	_
+2	laz	VBF	לאַז	lAaz	_
+3	ikh	PRO	איך	AyX	_
+4	eykh	PRO	אײך	AYX	_
+5	visin	VB	װיסין	VysyN	_
+6	dz	C	דז	dz	_
+7	ikh	PRO	איך	AyX	_
+8	nit	NEG	ניט	nyt	_
+9	hab	HVF	האַב	hAab	_
+10	velin	MDN-IPP	װעלין	VelyN	_
+11	ab	RP	אַב	Aab	_
+12	lasin	VB	לאַסין	lAasyN	_
+13	ed	H	עד	ed	until
+14	dz	C	דז	dz	_
+15	mir	PRO	מיר	myr	_
+16	s	PRO	ס	s	_
+17	h"u	H	ה"או	h"Av	have_mercy_and_peace
+18	vidr	ADV	װידר	Vydr	_
+19	bkumn	VBN	בקומן	bkvmN	_
+20	habin	HVF	האַבין	hAabyN	_
+
+SENT	1588E-LETTERS-CRACOW,51.26
+1	hab	HVF	האַב	hAab	_
+2	zunst	ADV	זונסט	zvnst	_
+3	giht	HVN	גיהט	gyht	_
+4	abrhm	NPR	אַברהם	AabrhM	_
+5	siklir	NPR	סיקליר	syklyr	_
+6	g"k	H	ג"ק	g"k	also_yes
+7	der_fir	DR+P	דער_פֿיר	der_fyr	_
+8	erb	RP-H	ערב	erb	_
+9	muzin	MDN-IPP	מוזין	mvzyN	_
+10	zeyn	VB	זײן	zYN	_
+
+SENT	1588E-LETTERS-CRACOW,51.27
+1	hat	HVF	האַט	hAat	_
+2	zunst	ADV	זונסט	zvnst	_
+3	fil	Q	פֿיל	fyl	_
+4	velin	MDN-IPP	װעלין	VelyN	_
+5	an	RP	אַן	AaN	_
+6	gibin	VB	גיבין	gybyN	_
+7	bkitsur	ADV	בקיצור	bkyqvr	_
+
+SENT	1588E-LETTERS-CRACOW,51.28
+1	mir	PRO	מיר	myr	_
+2	habn	HVF	האַבן	hAabN	_
+3	s	PRO	ס	s	_
+4	t"u	H	ט"או	t"Av	very_soon_and_immediately
+5	vidr	ADV	װידר	Vydr	_
+6	bkumn	VBN	בקומן	bkvmN	_
+
+SENT	1588E-LETTERS-CRACOW,51.29
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	hat	HVF	האַט	hAat	_
+4	der_tsu	DR+P	דער_צו	der_qv	_
+5	eyn	D	אײן	AYN	_
+6	gziph	N	גזיפּה	gzyph	_
+7	oyf	RP	אױף	AWF	_
+8	gnumn	VBN	גנומן	gnvmN	_
+9	mkhdr	H	מכדר	mxdr	from_room
+10	ir"h	H	איר"ה	Ayr"h	it_will_be_exalted_his_majesty
+
+SENT	1588E-LETTERS-CRACOW,51.30
+1	mn	PRO	מן	mN	_
+2	hat	HVF	האַט	hAat	_
+3	mit	P	מיט	myt	_
+4	gutin	N	גוטין	gvtyN	_
+5	niks	Q	ניקס	nyks	_
+6	bkumn	VB	בקומן	bkvmN	_
+7	kenin	MDN-IPP	קענין	kenyN	_
+8	fun	P	פֿון	fvN	_
+9	im	PRO	אים	AyM	_
+
+SENT	1588E-LETTERS-CRACOW,51.31
+1	abr	CONJ	אַבר	Aabr	_
+2	ez	ES	עז	ez	_
+3	iz	BEF	איז	Ayz	_
+4	durkh	P	דורך	dvrX	_
+5	keynm	Q	קײנם	kYnM	_
+6	r"h	N	ר"ה	r"h	head_community
+7	gisehn	VBN	גיסעהן	gysehN	_
+8	daz	D	דאַז	dAaz	_
+9	hstdlut	N	הסטדלוט	hstdlvt	_
+
+SENT	1588E-LETTERS-CRACOW,51.32
+1	un	CONJ	און	AvN	_
+2	ikh	PRO	איך	AyX	_
+3	bin	BEF	בין	byN	_
+4	zer	ADV	זער	zer	_
+5	gekh	ADJ	געך	geX	_
+6	droyf	DR+P	דרױף	drWF	_
+7	givezin	VBN	גיװעזין	gyVezyN	_
+
+SENT	1588E-LETTERS-CRACOW,51.33
+1	mtem	H	מטעם	mteM	UNKNOWN
+2	az	C	אַז	Aaz	_
+3	oykh	PRO	אױך	AWX	_
+4	g"k	H	ג"ק	g"k	also_yes
+5	idue	ADJ	אידוע	Aydve	_
+6	iz	VBF	איז	Ayz	_
+7	vaz	WPRO	װאַז	VAaz	_
+8	eyn	D	אײן	AYN	_
+9	veyli	N	װײלי	VYly	_
+10	an	RP	אַן	AaN	_
+11	stit	VBF	סטיט	styt	_
+12	zoy	ADV	זױ	zW	_
+13	bleybt	VBF	בלײבט	blYbt	_
+14	ez	PRO	עז	ez	_
+15	vayl	ADV	װײַל	VYal	_
+16	eyn_zoy	ADV	אײנ_זױ	AYn_zW	_
+
+SENT	1588E-LETTERS-CRACOW,51.34
+1	sgit	X	סגיט	sgyt	_
+2	laz	VBF	לאַז	lAaz	_
+3	eykh	PRO	אײך	AYX	_
+4	visin	VB	װיסין	VysyN	_
+5	dz	C	דז	dz	_
+6	r'	NPR	ר'	r'	_
+7	ftkh'{h}	NPR	פֿטכ'{ה}	ftx'{h}	_
+8	bsud	H	בסוד	bsvd	in_secret
+9	gizagt	VBN	גיזאַגט	gyzAagt	_
+10	hat	HVF	האַט	hAat	_
+11	dz	C	דז	dz	_
+12	eyer	PRO$	אײער	AYer	_
+13	duks	N	דוקס	dvks	_
+14	an	P	אַן	AaN	_
+15	rasi{s}	N	ראַסי{ס}	rAasy{s}	_
+16	eyn	D	אײן	AYN	_
+17	ab_zag_brib	N	אַב_זאַג_בריב	Aab_zAag_bryb	_
+18	gshribn	VBN	גשריבן	g$rybN	_
+19	hat	HVF	האַט	hAat	_
+
+SENT	1588E-LETTERS-CRACOW,52.36
+1	zoy	ADV	זױ	zW	_
+2	hab	HVF	האַב	hAab	_
+3	muzin	MDN-IPP	מוזין	mvzyN	_
+4	eyn	D	אײן	AYN	_
+5	busli	N	בוסלי	bvsly	_
+6	fleysgir	ADJR	פֿלײסגיר	flYsgyr	_
+7	droyf	DR+P	דרױף	drWF	_
+8	zeyn	VB	זײן	zYN	_
+9	dz	C	דז	dz	_
+10	daz	D	דאַז	dAaz	_
+11	mskhun	N	מסכון	msxvN	_
+12	vidr	ADV	װידר	Vydr	_
+13	kumn	VBN	קומן	kvmN	_
+14	iz	BEF	איז	Ayz	_
+15	bid	H	ביד	byd	in_hand
+16	sl	H	סל	sl	of
+17	abrhm	NPR	אַברהם	AabrhM	_
+18	hanal	H	הנ"ל	hn"l	aforesaid
+19	ud"l	H	אוד"ל	Avd"l	and_enough_for_wise_one
+
+SENT	1588E-LETTERS-CRACOW,52.37
+1	nun	ADV	נ	n	_
+2	vaz	WPRO	װאַז	VAaz	_
+3	blngin	VAG	בלנגין	blngyN	_
+4	iz	BEF	איז	Ayz	_
+5	fun	P	פֿון	fvN	_
+6	den	D	דען	deN	_
+7	andrn	ADJ	אַנדרן	AandrN	_
+8	mshkun	N	משקון	m$kvN	_
+9	laz	VBF	לאַז	lAaz	_
+10	eykh	PRO	אײך	AYX	_
+11	visin	VB	װיסין	VysyN	_
+12	dz	C	דז	dz	_
+13	er	PRO	ער	er	_
+14	nokh	ADV	נאָך	nAoX	_
+15	nit	NEG	ניט	nyt	_
+16	kumn	VBN	קומן	kvmN	_
+17	iz	BEF	איז	Ayz	_
+
+SENT	1588E-LETTERS-CRACOW,52.38
+1	hab	HVF	האַב	hAab	_
+2	in	PRO	אין	AyN	_
+3	nokh	ADV	נאָך	nAoX	_
+4	nit	NEG	ניט	nyt	_
+5	gizehn	VBN	גיזעהן	gyzehN	_
+
+SENT	1588E-LETTERS-CRACOW,52.39
+1	vert	RDF	װערט	Vert	_
+2	er	PRO	ער	er	_
+3	kumen	VB	קומען	kvmeN	_
+4	vil	MDF	װיל	Vyl	_
+5	im	PRO	אים	AyM	_
+6	vaul	ADV	װאַול	VAavl	_
+7	visin	VB	װיסין	VysyN	_
+8	tsubh	N	צובה	qvbh	_
+9	tsu	TO	צו	qv	_
+10	gebn	VB	געבן	gebN	_
+
+SENT	1588E-LETTERS-CRACOW,52.40
+1	ai"h	H	אַיִ"ה	Aayi"h	if_will_want_God
+2	drft	MDF	דרפֿט	drft	_
+3	da_er_fur	DR+P	דאַ_ער_פֿור	dAa_er_fvr	_
+4	gar	ADV	גאַר	gAar	_
+5	niks	Q	ניקס	nyks	_
+6	tsu	TO	צו	qv	_
+7	zargin	VB	זאַרגין	zAargyN	_
+
+SENT	1588E-LETTERS-CRACOW,52.41
+1	vgm	H	װגם	VgM	and_also
+2	fr	P	פֿר	fr	_
+3	den	D	דען	deN	_
+4	hub	N	הוב	hvb	_
+5	mr'	H	מר'	mr'	from_rabbi
+6	zelik	NPR	זעליק	zelyk	_
+7	vil	MDF	װיל	Vyl	_
+8	zi	PRO	זי	zy	_
+9	vaul	ADV	װאַול	VAavl	_
+10	ai"h	H	אַיִ"ה	Aayi"h	if_will_want_God
+11	mslk	RP-H	מסלק	mslk	_
+12	zeyn	VB	זײן	zYN	_
+
+SENT	1588E-LETTERS-CRACOW,52.42
+1	vaz	WPRO	װאַז	VAaz	_
+2	blngin	VAG	בלנגין	blngyN	_
+3	iz	BEF	איז	Ayz	_
+4	fun	P	פֿון	fvN	_
+5	daz	D	דאַז	dAaz	_
+6	esk	N	עסק	esk	_
+7	mr"	H	מר"	mr"	from_rabbi
+8	heym	NPR	הײם	hYM	_
+9	brndeys	NPR	ברנדײס	brndYs	_
+10	zoy	ADV	זױ	zW	_
+11	laz	VBF	לאַז	lAaz	_
+12	ikh	PRO	איך	AyX	_
+13	eykh	PRO	אײך	AYX	_
+14	visin	VB	װיסין	VysyN	_
+15	dz	C	דז	dz	_
+16	ikh	PRO	איך	AyX	_
+17	ez	PRO	עז	ez	_
+18	mid	ADV	מיד	myd	_
+19	gitan	VBN	גיטאַן	gytAaN	_
+20	hab	HVF	האַב	hAab	_
+21	un	CONJ	און	AvN	_
+22	mit	P	מיט	myt	_
+23	im	PRO	אים	AyM	_
+24	giret	VBN	גירעט	gyret	_
+25	hab	HVF	האַב	hAab	_
+
+SENT	1588E-LETTERS-CRACOW,52.43
+1	zoy	ADV	זױ	zW	_
+2	hat	HVF	האַט	hAat	_
+3	er	PRO	ער	er	_
+4	mir	PRO	מיר	myr	_
+5	keyn	Q	קײן	kYN	_
+6	tsubh	N	צובה	qvbh	_
+7	kenin	MDN-IPP	קענין	kenyN	_
+8	fun	P	פֿון	fvN	_
+9	im	PRO	אים	AyM	_
+10	brengin	VB	ברענגין	brengyN	_
+
+SENT	1588E-LETTERS-CRACOW,52.44
+1	hat	HVF	האַט	hAat	_
+2	vaul	ADV	װאַול	VAavl	_
+3	tsubh	N	צובה	qvbh	_
+4	gebin	VBN	געבין	gebyN	_
+5	aleyn	ADV	אַלײן	AalYN	_
+6	keyn	Q	קײן	kYN	_
+7	tsubh	N	צובה	qvbh	_
+8	mspik'	H	מספּיק'	mspyk'	from_Spik'
+
+SENT	1588E-LETTERS-CRACOW,52.45
+1	zoy	ADV	זױ	zW	_
+2	bin	BEF	בין	byN	_
+3	ikh	PRO	איך	AyX	_
+4	le"e	H	לע"ע	le"e	forever_until
+5	mit	P	מיט	myt	_
+6	r'	NPR	ר'	r'	_
+7	tezi	NPR	טעזי	tezy	_
+8	gngin	VBN	גנגין	gngyN	_
+
+SENT	1588E-LETTERS-CRACOW,52.46
+1	un	CONJ	און	AvN	_
+2	mit	P	מיט	myt	_
+3	im	PRO	אים	AyM	_
+4	giret	VBN	גירעט	gyret	_
+5	hab	HVF	האַב	hAab	_
+6	e"i	H	ע"אי	e"Ay	on_hands
+7	dbrim	H	דברים	dbryM	words
+
+SENT	1588E-LETTERS-CRACOW,52.47
+1	tsu	P	צו	qv	_
+2	im	PRO	אים	AyM	_
+3	kumn	VBN	קומן	kvmN	_
+4	bin	BEF	בין	byN	_
+5	dz	C	דז	dz	_
+6	er	PRO	ער	er	_
+7	niks	Q	ניקס	nyks	_
+8	bimerkt	VBN	בימערקט	bymerkt	_
+9	hat	HVF	האַט	hAat	_
+
+SENT	1588E-LETTERS-CRACOW,52.48
+1	nun	ADV	נ	n	_
+2	bkitsur	ADV	בקיצור	bkyqvr	_
+3	hat	HVF	האַט	hAat	_
+4	uns	PRO	אונס	Avns	_
+5	tsubh	N	צובה	qvbh	_
+6	gebin	VBN	געבין	gebyN	_
+
+SENT	1588E-LETTERS-CRACOW,52.49
+1	hat	HVF	האַט	hAat	_
+2	s	PRO	ס	s	_
+3	in	P	אין	AyN	_
+4	eyn	D	אײן	AYN	_
+5	lang	ADJ	לאַנג	lAang	_
+6	bank	N	באַנק	bAank	_
+7	givarfin	VBN	גיװאַרפֿין	gyVAarfyN	_
+
+SENT	1588E-LETTERS-CRACOW,52.50
+1	un	CONJ	און	AvN	_
+2	vil	MDF	װיל	Vyl	_
+3	mikh	PRO	מיך	myX	_
+4	mmsikh	RP-H	ממסיך	mmsyX	_
+5	zeyn	VB	זײן	zYN	_
+
+SENT	1588E-LETTERS-CRACOW,52.51
+1	drum	DR+P	דרום	drvM	_
+2	zeyt	BEI	זײט	zYt	_
+3	visin	VAG	װיסין	VysyN	_
+4	vau	WADV	װאַו	VAav	_
+5	ir	PRO	איר	Ayr	_
+6	hlt	VBF	הלט	hlt	_
+7	der_mit	DR+P	דער_מיט	der_myt	_
+8	dz	C	דז	dz	_
+9	ir	PRO	איר	Ayr	_
+10	eykh	PRO	אײך	AYX	_
+11	nit	NEG	ניט	nyt	_
+12	lasin	VB	לאַסין	lAasyN	_
+13	zalt	MDF	זאַלט	zAalt	_
+14	mmsikh	RP-H	ממסיך	mmsyX	_
+15	zeyn	VB	זײן	zYN	_
+16	in	P	אין	AyN	_
+17	keyn	Q	קײן	kYN	_
+18	ufn	N	אופֿן	AvfN	_
+
+SENT	1588E-LETTERS-CRACOW,52.52
+1	den	CONJ	דען	deN	_
+2	ez	ES	עז	ez	_
+3	iz	VBF	איז	Ayz	_
+4	keyn	Q	קײן	kYN	_
+5	mms	N	ממס	mms	_
+6	dran	DR+P	דראַן	drAaN	_
+
+SENT	1588E-LETTERS-CRACOW,52.53
+1	menin	H	מענין	menyN	from_matter
+2	sl	H	סל	sl	of
+3	r'	NPR	ר'	r'	_
+4	iekb	NPR	איעקב	Ayekb	_
+5	hab	HVF	האַב	hAab	_
+6	ikh	PRO	איך	AyX	_
+7	eykh	PRO	אײך	AYX	_
+8	far	ADV	פֿאַר	fAar	_
+9	oykh	ADV	אױך	AWX	_
+10	gshribin	VBN	גשריבין	g$rybyN	_
+
+SENT	1588E-LETTERS-CRACOW,52.54
+1	menin	H	מענין	menyN	from_matter
+2	sl	H	סל	sl	of
+3	ast	H	אַסט	Aast	wife_of
+4	yunh	NPR	יונה	yvnh	_
+5	trit	X	טריט	tryt	_
+6	{?}	X	{?}	{?}	_
+7	ikh	PRO	איך	AyX	_
+8	rat	VBF	ראַט	rAat	_
+9	eykh	PRO	אײך	AYX	_
+10	kll	ADV	קלל	kll	_
+11	nit	NEG	ניט	nyt	_
+12	tsu	P	צו	qv	_
+13	den	D	דען	deN	_
+14	shidukh	N	שידוך	$ydvX	_
+
+SENT	1588E-LETTERS-CRACOW,52.55
+1	geb	VBF	געב	geb	_
+2	vaul	ADV	װאַול	VAavl	_
+3	eyn	D	אײן	AYN	_
+4	groysin	ADJ	גרױסין	grWsyN	_
+5	skh	N	סך	sX	_
+
+SENT	1588E-LETTERS-CRACOW,52.56
+1	tumin	H	טומין	tvmyN	you_believe
+2	li	H	לי	ly	to_me
+3	hab	HVF	האַב	hAab	_
+4	bkl	H	בקל	bkl	in_all
+5	ikhulti	H	איכולטי	Ayxvlty	ability_my
+6	gitan	VBN	גיטאַן	gytAaN	_
+7	vaz	WPRO	װאַז	VAaz	_
+8	ikh	PRO	איך	AyX	_
+9	hab	HVF	האַב	hAab	_
+10	kenin	MDN-IPP	קענין	kenyN	_
+11	tan	VB	טאַן	tAaN	_
+
+SENT	1588E-LETTERS-CRACOW,52.57
+1	hab	HVF	האַב	hAab	_
+2	den	D	דען	deN	_
+3	slikh	N	סליך	slyX	_
+4	nit	NEG	ניט	nyt	_
+5	gidarft	MDN	גידאַרפֿט	gydAarft	_
+6	oyf	RP	אױף	AWF	_
+7	hltin	VB	הלטין	hltyN	_
+
+SENT	1588E-LETTERS-CRACOW,52.58
+1	ikh	PRO	איך	AyX	_
+2	hab	HVF	האַב	hAab	_
+3	lang	ADV	לאַנג	lAang	_
+4	vaul	ADV	װאַול	VAavl	_
+5	givist	VBN	גיװיסט	gyVyst	_
+6	vaz	WPRO	װאַז	VAaz	_
+7	ikh	PRO	איך	AyX	_
+8	hlt	VBF	הלט	hlt	_
+
+SENT	1588E-LETTERS-CRACOW,52.59
+1	ikh	PRO	איך	AyX	_
+2	hab	HVF	האַב	hAab	_
+3	s	PRO	ס	s	_
+4	far	P	פֿאַר	fAar	_
+5	lang	ADV	לאַנג	lAang	_
+6	gitan	VBN	גיטאַן	gytAaN	_
+7	daz	D	דאַז	dAaz	_
+8	meyn	N	מײן	mYN	_
+9	vaz	C	װאַז	VAaz	_
+10	ir	PRO	איר	Ayr	_
+11	gmeynt	VBN	גמײנט	gmYnt	_
+12	hat	HVF	האַט	hAat	_
+13	dz	C	דז	dz	_
+14	ikh	PRO	איך	AyX	_
+15	s	PRO	ס	s	_
+16	itsundr	ADV	איצונדר	Ayqvndr	_
+17	tan	VB	טאַן	tAaN	_
+18	zal	MDF	ז"ל	z"l	_
+
+SENT	1588E-LETTERS-CRACOW,52.60
+1	tamin	H	טאַמין	tAamyN	believe_you
+2	li	H	לי	ly	to_me
+3	ver	BEF	װער	Ver	_
+4	vaz	Q	װאַז	VAaz	_
+5	an	P	אַן	AaN	_
+6	den	D	דען	deN	_
+7	eneyni'{m}	N	ענײני'{מ}	enYny'{m}	_
+8	gvezin	VBN	גװעזין	gVezyN	_
+9	velt	MDF	װעלט	Velt	_
+10	ikh	PRO	איך	AyX	_
+11	lang	ADV	לאַנג	lAang	_
+12	eyn	D	אײן	AYN	_
+13	slikh	N	סליך	slyX	_
+14	miukhd	H	מיִוכד	myivxd	special
+15	gishikt	VBN	גישיקט	gy$ykt	_
+16	habin	HV	האַבין	hAabyN	_
+
+SENT	1588E-LETTERS-CRACOW,52.61
+1	gleykh	ADV	גלײך	glYX	_
+2	ven	C	װען	VeN	_
+3	eyn	D	אײן	AYN	_
+4	psk	N	פּסק	psk	_
+5	ver	VBF	װער	Ver	_
+6	bey	P	בײ	bY	_
+7	eykh	PRO	אײך	AYX	_
+8	het	HVF	העט	het	_
+9	mikh	PRO	מיך	myX	_
+10	s	PRO	ס	s	_
+11	dokh	ADV	דאָך	dAoX	_
+12	gimekhtig'{t}	VBN	גימעכטיג'{ט}	gymextyg'{t}	_
+13	oyf	P	אױף	AWF	_
+14	eyn	D	אײן	AYN	_
+15	psk	N	פּסק	psk	_
+
+SENT	1588E-LETTERS-CRACOW,52.62
+1	abr	CONJ	אַבר	Aabr	_
+2	ikh	PRO	איך	AyX	_
+3	hab	HVF	האַב	hAab	_
+4	shun	ADV	שון	$vN	_
+5	lang	ADV	לאַנג	lAang	_
+6	givist	VBN	גיװיסט	gyVyst	_
+7	vau	WADV	װאַו	VAav	_
+8	ikh	PRO	איך	AyX	_
+9	mit	P	מיט	myt	_
+10	in	PRO	אין	AyN	_
+11	hlt	VBF	הלט	hlt	_
+
+SENT	1588E-LETTERS-CRACOW,52.63
+1	drum	DR+P	דרום	drvM	_
+2	libr	ADJ	ליבר	lybr	_
+3	r'	NPR	ר'	r'	_
+4	msh	NPR	מש	m$	_
+5	zikht	VBI	זיכט	zyxt	_
+6	fr	RP	פֿר	fr	_
+7	eykh	PRO	אײך	AYX	_
+
+SENT	1588E-LETTERS-CRACOW,52.64
+1	un	CONJ	און	AvN	_
+2	lat	VBI	לאַט	lAat	_
+3	eykh	PRO	אײך	AYX	_
+4	di	D	די	dy	_
+5	enini'{m}	N	עניני'{מ}	enyny'{m}	_
+6	gar_nit	NEG	גאַר_ניט	gAar_nyt	_
+7	zoymn	VB	זױמן	zWmN	_
+
+SENT	1588E-LETTERS-CRACOW,52.65
+1	un	CONJ	און	AvN	_
+2	tut	VBI	טוט	tvt	_
+3	yu	ADV	יו	yv	_
+4	vd"l	H	װד"ל	Vd"l	and_enough_for_wise_one
+5	vaz	WPRO	װאַז	VAaz	_
+6	ir	PRO	איר	Ayr	_
+7	tan	VB	טאַן	tAaN	_
+8	zalt	MDF	זאַלט	zAalt	_
+
+SENT	1588E-LETTERS-CRACOW,52.66
+1	aleyn	ADV	אַלײן	AalYN	_
+2	ver	VBF	װער	Ver	_
+3	gut	ADJ	גוט	gvt	_
+4	ven	C	װען	VeN	_
+5	ir	PRO	איר	Ayr	_
+6	vaz	Q	װאַז	VAaz	_
+7	tan	VB	טאַן	tAaN	_
+8	vert	RDF	װערט	Vert	_
+9	az	C	אַז	Aaz	_
+10	mir	PRO	מיר	myr	_
+11	keyn	Q	קײן	kYN	_
+12	spk	N	ספּק	spk	_
+13	iz	VBF	איז	Ayz	_
+
+SENT	1588E-LETTERS-CRACOW,52.67
+1	zoy	ADV	זױ	zW	_
+2	lat	VBI	לאַט	lAat	_
+3	s	PRO	ס	s	_
+4	eyn	D	אײן	AYN	_
+5	veyli	N	װײלי	VYly	_
+6	bsud	H	בסוד	bsvd	in_secret
+7	bleybn	VB	בלײבן	blYbN	_
+8	mtemi'{m}	H	מטעמי'{מ}	mtemy'{m}	reasons
+9	unmuki{m}	H	אונמוקי{מ}	Avnmvky{m}	and_explanations
+
+SENT	1588E-LETTERS-CRACOW,52.68
+1	un	CONJ	און	AvN	_
+2	tut	VBI	טוט	tvt	_
+3	yu	ADV	יו	yv	_
+4	nit	NEG	ניט	nyt	_
+5	andrs	ADV	אַנדרס	Aandrs	_
+
+SENT	1588E-LETTERS-CRACOW,53.69
+1	ikh	PRO	איך	AyX	_
+2	hlt	VBF	הלט	hlt	_
+3	ir	PRO	איר	Ayr	_
+4	kent	VBF	קענט	kent	_
+5	mikh	PRO	מיך	myX	_
+6	vaul	ADV	װאַול	VAavl	_
+7	dz	C	דז	dz	_
+8	ikh	PRO	איך	AyX	_
+9	s	PRO	ס	s	_
+10	mit	P	מיט	myt	_
+11	eyn	D	אײן	AYN	_
+12	itlkhin	Q	איטלכין	AytlxyN	_
+13	gants	ADV	גאַנץ	gAanQ	_
+14	meyn	VBF	מײן	mYN	_
+15	vk"s	H	װק"ס	Vk"s	and_all_that_yes
+16	mit	P	מיט	myt	_
+17	eykh	PRO	אײך	AYX	_
+18	u	H	או	Av	and
+19	mi	H	מי	my	who
+20	itn	H	איטן	AytN	he_will_give
+
+SENT	1588E-LETTERS-CRACOW,53.70
+1	ikh	PRO	איך	AyX	_
+2	kent	MDF	קענט	kent	_
+3	eykh	PRO	אײך	AYX	_
+4	fil	Q	פֿיל	fyl	_
+5-6	oysrikhtin	RP~VB	אױסריכטין	AWsryxtyN	_
+5	oys	RP	אױס	AWs	_
+6	rikhtin	VB	ריכטין	ryxtyN	_
+
+SENT	1588E-LETTERS-CRACOW,53.71
+1	velt	MDF	װעלט	Velt	_
+2	mikh	PRO	מיך	myX	_
+3	varlikh	ADV	װאַרליך	VAarlyX	_
+4	nit	NEG	ניט	nyt	_
+5	sparin	VB	ספּאַרין	spAaryN	_
+6	az	C	אַז	Aaz	_
+7	ikh	PRO	איך	AyX	_
+8	ed	H	עד	ed	until
+9	hst'{a}	H	הסט'{אַ}	hst'{Aa}	now
+10	gitan	VBN	גיטאַן	gytAaN	_
+11	hab	HVF	האַב	hAab	_
+
+SENT	1588E-LETTERS-CRACOW,53.72
+1	alleyn	ADV	אַללײן	AallYN	_
+2	veys	VBF	װײס	VYs	_
+3	ikh	PRO	איך	AyX	_
+4	nit	NEG	ניט	nyt	_
+5	andrs	ADV	אַנדרס	Aandrs	_
+6	tsu	TO	צו	qv	_
+7	shreybn	VB	שרײבן	$rYbN	_
+
+SENT	1588E-LETTERS-CRACOW,53.73
+1	un	CONJ	און	AvN	_
+2	tut	VBI	טוט	tvt	_
+3	vaz	WPRO	װאַז	VAaz	_
+4	ir	PRO	איר	Ayr	_
+5	zalt	MDF	זאַלט	zAalt	_
+6	tan	VB	טאַן	tAaN	_
+
+SENT	1588E-LETTERS-CRACOW,53.74
+1	vaz	WPRO	װאַז	VAaz	_
+2	blngin	VAG	בלנגין	blngyN	_
+3	iz	BEF	איז	Ayz	_
+4	mkhmt	P	מכמט	mxmt	_
+5	r'	NPR	ר'	r'	_
+6	msh	NPR	מש	m$	_
+7	mkali_mia	H	מקאַלי_מיִאַ	mkAaly_myiAa	from_Kalimia
+8	het	HVF	העט	het	_
+9	ir	PRO	איר	Ayr	_
+10	mir	PRO	מיר	myr	_
+11	gifalgt	VBN	גיפֿאַלגט	gyfAalgt	_
+12	ver	BEF	װער	Ver	_
+13	eykh	PRO	אײך	AYX	_
+14	nit	NEG	ניט	nyt	_
+15	gist...	X	גיסט...	gyst...	_
+
+SENT	1588E-LETTERS-CRACOW,53.75
+1	ikh	PRO	איך	AyX	_
+2	hab	HVF	האַב	hAab	_
+3	velin	MDN-IPP	װעלין	VelyN	_
+4	habin	VB	האַבין	hAabyN	_
+5	dz	C	דז	dz	_
+6	r'	NPR	ר'	r'	_
+7	zelig	NPR	זעליג	zelyg	_
+8	mrla	H	מרלאַ	mrlAa	from_Rla
+9	eykh	PRO	אײך	AYX	_
+10	zal	MDF	ז"ל	z"l	_
+11	erb	RP-H	ערב	erb	_
+12	zeyn	VB	זײן	zYN	_
+13	der_fir	DR+P	דער_פֿיר	der_fyr	_
+
+SENT	1588E-LETTERS-CRACOW,53.76
+1	adr	CONJ	אַדר	Aadr	_
+2	er	PRO	ער	er	_
+3	zal	MDF	ז"ל	z"l	_
+4	di	D	די	dy	_
+5	meu'{t}	N	מעו'{ט}	mev'{t}	_
+6	oys	RP	אױס	AWs	_
+7	lign	VB	ליגן	lygN	_
+
+SENT	1588E-LETTERS-CRACOW,53.77
+1	zoy	ADV	זױ	zW	_
+2	zalt	MDF	זאַלט	zAalt	_
+3	ir	PRO	איר	Ayr	_
+4	im	PRO	אים	AyM	_
+5	erb	RP-H	ערב	erb	_
+6	zeyn	VB	זײן	zYN	_
+
+SENT	1588E-LETTERS-CRACOW,53.78
+1	zoy	ADV	זױ	zW	_
+2	ver	BEF	װער	Ver	_
+3	eyer	PRO$	אײער	AYer	_
+4	khsbun	N	כסבון	xsbvN	_
+5	vaul	ADV	װאַול	VAavl	_
+6	gut	ADV	גוט	gvt	_
+7	gblibn	VBN	גבליבן	gblybN	_
+8	vi	WADV	װי	Vy	_
+9	vaul	ADV	װאַול	VAavl	_
+10	dz	C	דז	dz	_
+11	ez	PRO	עז	ez	_
+12	bey	P	בײ	bY	_
+13	mir	PRO	מיר	myr	_
+14	nokh	ADV	נאָך	nAoX	_
+15	keyn	Q	קײן	kYN	_
+16	sfk	N	ספֿק	sfk	_
+17	iz	VBF	איז	Ayz	_
+
+SENT	1588E-LETTERS-CRACOW,53.79
+1	nokh	ADV	נאָך	nAoX	_
+2	du	ADV	דו	dv	_
+3	ver	BEF	װער	Ver	_
+4	ez	PRO	עז	ez	_
+5	eyn	D	אײן	AYN	_
+6	vdai	N	װדאַיִ	VdAayi	_
+7	givezin	VBN	גיװעזין	gyVezyN	_
+
+SENT	1588E-LETTERS-CRACOW,53.80
+1	lipmn	NPR	ליפּמן	lypmN	_
+2	gisikh	NPR	גיסיך	gysyX	_
+3	iz	BEF	איז	Ayz	_
+4	mit	P	מיט	myt	_
+5	r'	NPR	ר'	r'	_
+6	kheym	NPR	כײם	xYM	_
+7	brndeys	NPR	ברנדײס	brndYs	_
+8	ken	P	קען	keN	_
+9	k"k	H	ק"ק	k"k	community_holy
+10	oystilits	NPR	אױסטיליץ	AWstylyQ	_
+11	gitsoygn	VBN	גיצױגן	gyqWgN	_
+
+SENT	1588E-LETTERS-CRACOW,53.81
+1	vil	MDF	װיל	Vyl	_
+2	dokh	ADV	דאָך	dAoX	_
+3	mit	P	מיט	myt	_
+4	zeyn	PRO$	זײן	zYN	_
+5	krubim	N	קרובים	krvbyM	_
+6	ridn	VB	רידן	rydN	_
+7	der_fun	DR+P	דער_פֿון	der_fvN	_
+8	,	PUNC	,	,	_
+9	abr	CONJ	אַבר	Aabr	_
+10	ud"l	H	אוד"ל	Avd"l	and_enough_for_wise_one
+
+SENT	1588E-LETTERS-CRACOW,53.82
+1	denkt	VBI	דענקט	denkt	_
+2	varlikh	ADV	װאַרליך	VAarlyX	_
+3	dran	DR+P	דראַן	drAaN	_
+4	nit	NEG	ניט	nyt	_
+
+SENT	1588E-LETTERS-CRACOW,53.83
+1	drum	DR+P	דרום	drvM	_
+2	tut	VBI	טוט	tvt	_
+3	lpi	H	לפּי	lpy	according_to
+4	khkhmtikh	H	ככמטיך	xxmtyX	wisdom_your
+5	vi	WADV	װי	Vy	_
+6	eykh	PRO	אײך	AYX	_
+7	eyer	PRO$	אײער	AYer	_
+8	fatr	N	פֿאַטר	fAatr	_
+9	rat	VBF	ראַט	rAat	_
+
+SENT	1588E-LETTERS-CRACOW,53.84
+1	daz	D	דאַז	dAaz	_
+2	ktb	N	קטב	ktb	_
+3	az	C	אַז	Aaz	_
+4	ir	PRO	איר	Ayr	_
+5	mir	PRO	מיר	myr	_
+6	shik	VBF	שיק	$yk	_
+7	mlemburg	H	מלעמבורג	mlembvrg	from_Lemberg
+8	ikh	PRO	איך	AyX	_
+9	hab	HVF	האַב	hAab	_
+10	mit	P	מיט	myt	_
+11	r'	NPR	ר'	r'	_
+12	mikhl	NPR	מיכל	myxl	_
+13	nokh	ADV	נאָך	nAoX	_
+14	nisht	NEG	נישט	ny$t	_
+15	giret	VBN	גירעט	gyret	_
+
+SENT	1588E-LETTERS-CRACOW,53.85
+1	den	CONJ	דען	deN	_
+2	ikh	PRO	איך	AyX	_
+3	hab	HVF	האַב	hAab	_
+4	den	D	דען	deN	_
+5	slikh	N	סליך	slyX	_
+6	nit	NEG	ניט	nyt	_
+7	oyf	RP	אױף	AWF	_
+8	hltin	VB	הלטין	hltyN	_
+9	velin	MDN-IPP	װעלין	VelyN	_
+10	zeyn	PRO$	זײן	zYN	_
+11	hlbin	N	הלבין	hlbyN	_
+
+SENT	1588E-LETTERS-CRACOW,53.86
+1	daz	D	דאַז	dAaz	_
+2	enk	NEG	ענק	enk	_
+3	kan	MDF	ק"ן	k"N	_
+4	ikh	PRO	איך	AyX	_
+5	mit	P	מיט	myt	_
+6	peybsli	NPR	פּײבסלי	pYbsly	_
+7	vaul	ADV	װאַול	VAavl	_
+8	nokh	ADV	נאָך	nAoX	_
+9	sreybn	VB	סרײבן	srYbN	_
+
+SENT	1588E-LETTERS-CRACOW,53.87
+1	un	CONJ	און	AvN	_
+2	vaz	WPRO	װאַז	VAaz	_
+3	an	RP	אַן	AaN	_
+4	iz	BEF	איז	Ayz	_
+5	blngin	VAG	בלנגין	blngyN	_
+6	zeyn	PRO$	זײן	zYN	_
+7	vert	N	װערט	Vert	_
+8	muz	MDF	מוז	mvz	_
+9	er	PRO	ער	er	_
+10	ken	P	קען	keN	_
+11	k"k	H	ק"ק	k"k	community_holy
+12	puzna	NPR	פּוזנאַ	pvznAa	_
+13	shreybn	VB	שרײבן	$rYbN	_
+
+SENT	1588E-LETTERS-CRACOW,53.88
+1	drum	DR+P	דרום	drvM	_
+2	hab	HVF	האַב	hAab	_
+3	ikh	PRO	איך	AyX	_
+4	den	D	דען	deN	_
+5	shlikh	H	שליך	$lyX	UNKNOWN
+6	bkhinm	H	בכינם	bxynM	UNKNOWN
+7	nit	NEG	ניט	nyt	_
+8	velin	MDN-IPP	װעלין	VelyN	_
+9	lazn	VB	לאַזן	lAazN	_
+10	vrtin	VB	װרטין	VrtyN	_
+
+SENT	1588E-LETTERS-CRACOW,53.89
+1	min	ADV	מין	myN	_
+2	zekht	VBI	זעכט	zext	_
+
+SENT	1588E-LETTERS-CRACOW,53.90
+1	vert	RDF	װערט	Vert	_
+2	ir	PRO	איר	Ayr	_
+3	vaz	Q	װאַז	VAaz	_
+4	meu'{t}	N	מעו'{ט}	mev'{t}	_
+5	habin	VB	האַבין	hAabyN	_
+6	zoy	ADV	זױ	zW	_
+7	kuft	VBI	קופֿט	kvft	_
+8	eykh	PRO	אײך	AYX	_
+9	vaz	Q	װאַז	VAaz	_
+10	bak_fel	N	באַק_פֿעל	bAak_fel	_
+11	adr	CONJ	אַדר	Aadr	_
+12	elint	ADJ	עלינט	elynt	_
+13	heyt	N	הײט	hYt	_
+14	dz	C	דז	dz	_
+15	mir	PRO	מיר	myr	_
+16	eyer	PRO$	אײער	AYer	_
+17	hutsa'{ut}	N	הוצאַ'{אוט}	hvqAa'{Avt}	_
+18	vidr	ADV	װידר	Vydr	_
+19	givinn	VB	גיװינן	gyVynN	_
+20	kent	MDF	קענט	kent	_
+
+SENT	1588E-LETTERS-CRACOW,53.91
+1	nayart	FP	נײַאַרט	nYaAart	_
+2	kuft	VBI	קופֿט	kvft	_
+3	nit	NEG	ניט	nyt	_
+4	eyn_zoy	ADV	אײנ_זױ	AYn_zW	_
+5	az	P	אַז	Aaz	_
+6	far	P	פֿאַר	fAar	_
+7	azoy	ADV	אַזױ	AazW	_
+8	vi	P	װי	Vy	_
+9	frier	ADV	פֿריִער	fryier	_
+
+SENT	1588E-LETTERS-CRACOW,53.92
+1	tamin	H	טאַמין	tAamyN	believe_you
+2	li	H	לי	ly	to_me
+3	het	HVF	העט	het	_
+4	ikh	PRO	איך	AyX	_
+5	bmzl	H	במזל	bmzl	in_luck
+6	nit	NEG	ניט	nyt	_
+7	eyn_zoy	ADV	אײנ_זױ	AYn_zW	_
+8	an	RP	אַן	AaN	_
+9	gitrafin	VBN	גיטראַפֿין	gytrAafyN	_
+10	het	HVF	העט	het	_
+11	zer	ADV	זער	zer	_
+12	ibl	ADV	איבל	Aybl	_
+13	gihndlit	VBN	גיהנדליט	gyhndlyt	_
+
+SENT	1588E-LETTERS-CRACOW,53.93
+1	mn	PRO	מן	mN	_
+2	hat	HVF	האַט	hAat	_
+3	mir	PRO	מיר	myr	_
+4	daz	D	דאַז	dAaz	_
+5	krn	N	קרן	krN	_
+6	nit	NEG	ניט	nyt	_
+7	velin	MDN-IPP	װעלין	VelyN	_
+8	drum	DR+P	דרום	drvM	_
+9	gebin	VB	געבין	gebyN	_
+
+SENT	1588E-LETTERS-CRACOW,53.94
+1	drum	DR+P	דרום	drvM	_
+2	zekht	VBI	זעכט	zext	_
+3	eykh	PRO	אײך	AYX	_
+4	besir	ADV	בעסיר	besyr	_
+5	fur	RP	פֿור	fvr	_
+
+SENT	1588E-LETTERS-CRACOW,53.95
+1	vaz	WPRO	װאַז	VAaz	_
+2	blngin	VAG	בלנגין	blngyN	_
+3	iz	BEF	איז	Ayz	_
+4	brndeyli	NPR	ברנדײלי	brndYly	_
+5	lebn	NPR	לעבן	lebN	_
+6	drft	MDF	דרפֿט	drft	_
+7	ir	PRO	איר	Ayr	_
+8	gar	ADV	גאַר	gAar	_
+9	niks	Q	ניקס	nyks	_
+10	tsu	TO	צו	qv	_
+11	zargn	VB	זאַרגן	zAargN	_
+12	fr	P	פֿר	fr	_
+13	ir	PRO	איר	Ayr	_
+
+SENT	1588E-LETTERS-CRACOW,53.96
+1	kent	MDF	קענט	kent	_
+2	msig	RP-H	מסיג	msyg	_
+3	zeyn	VB	זײן	zYN	_
+
+SENT	1588E-LETTERS-CRACOW,53.97
+1	zi	PRO	זי	zy	_
+2	vil	MDF	װיל	Vyl	_
+3	eykh	PRO	אײך	AYX	_
+4	nit	NEG	ניט	nyt	_
+5	her	RP-ADV	הער	her	_
+6	habin	VB	האַבין	hAabyN	_
+
+SENT	1588E-LETTERS-CRACOW,53.98
+1	vert	RDF	װערט	Vert	_
+2	mti	H	מטי	mty	when
+3	vaz	Q	װאַז	VAaz	_
+4-5	abgin	RP~VB	אַבגין	AabgyN	_
+4	ab	RP	אַב	Aab	_
+5	gin	VB	גין	gyN	_
+6	vil	MDF	װיל	Vyl	_
+7	ir	PRO	איר	Ayr	_
+8	nakh	ADV	נ"ך	n"X	_
+9	vaz	Q	װאַז	VAaz	_
+10	leyan	VB	לײאַן	lYAaN	_
+
+SENT	1588E-LETTERS-CRACOW,53.99
+1	r'	NPR	ר'	r'	_
+2	zelig	NPR	זעליג	zelyg	_
+3	vil	MDF	װיל	Vyl	_
+4	nakh	P	נ"ך	n"X	_
+5	sukh'{ut}	NPR	סוכ'{אוט}	svx'{Avt}	_
+6	oykh	ADV	אױך	AWX	_
+7	ken	P	קען	keN	_
+8	krakh	NPR	כּרך	KrX	_
+
+SENT	1588E-LETTERS-CRACOW,53.100
+1	min	QR	מין	myN	_
+2	laz	VBF	לאַז	lAaz	_
+3	ikh	PRO	איך	AyX	_
+4	eykh	PRO	אײך	AYX	_
+5	visin	VB	װיסין	VysyN	_
+6	dz	C	דז	dz	_
+7	r'	NPR	ר'	r'	_
+8	kheym	NPR	כײם	xYM	_
+9	k"ts	NPR	ק"צ	k"q	_
+10	her	RP-ADV	הער	her	_
+11	kumn	VBN	קומן	kvmN	_
+12	iz	BEF	איז	Ayz	_
+13	nakh	P	נ"ך	n"X	_
+14	zeyn	PRO$	זײן	zYN	_
+15	irush	H	אירוש	Ayrv$	inheritance
+16	mkhmutu	H	מכמוטו	mxmvtv	from_mother_his
+
+SENT	1588E-LETTERS-CRACOW,53.101
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	mit	P	מיט	myt	_
+4	mir	PRO	מיר	myr	_
+5	giret	VBN	גירעט	gyret	_
+6	dz	C	דז	dz	_
+7	ikh	PRO	איך	AyX	_
+8	eykh	PRO	אײך	AYX	_
+9	shreyb	VBF	שרײב	$rYb	_
+10	mkhmt	P	מכמט	mxmt	_
+11	akhut	H	אַכוט	Aaxvt	sister
+12	astu	H	אַסטו	Aastv	wife_his
+13	di	WPRO	די	dy	_
+14	er	PRO	ער	er	_
+15	far	RP	פֿאַר	fAar	_
+16	giht	VBN	גיהט	gyht	_
+17	bitu	H	ביטו	bytv	house_his
+18	sl	H	סל	sl	of
+19	khnn	NPR	כנן	xnN	_
+20	royzsh	NPR	רױזש	rWz$	_
+21	mdrezints	H	מדרעזינץ	mdrezynQ	from_Drezints
+
+SENT	1588E-LETTERS-CRACOW,53.102
+1	er	PRO	ער	er	_
+2	meynt	VBF	מײנט	mYnt	_
+3	givis	ADV	גיװיס	gyVys	_
+4	vil	MDF	װיל	Vyl	_
+5	s	PRO	ס	s	_
+6	mutsa	RP-H	מוצאַ	mvqAa	_
+7	mkhukh	H	מכוך	mxvX	because_of
+8	al	H	אַל	Aal	on
+9	hpuel	H	הפּועל	hpvel	the_reality
+10	zeyn	VB	זײן	zYN	_
+
+SENT	1588E-LETTERS-CRACOW,53.103
+1	sh{a}t	VBF	ש{אַ}ט	${Aa}t	_
+2	niks	Q	ניקס	nyks	_
+3	dz	C	דז	dz	_
+4	ikh	PRO	איך	AyX	_
+5	eykh	PRO	אײך	AYX	_
+6	shreybn	VBF	שרײבן	$rYbN	_
+7	der_fun	DR+P	דער_פֿון	der_fvN	_
+8	dz	C	דז	dz	_
+9	ir	PRO	איר	Ayr	_
+10	fun	P	פֿון	fvN	_
+11	alin	Q	אַלין	AalyN	_
+12	visin	VB	װיסין	VysyN	_
+13	zalt	MDF	זאַלט	zAalt	_
+
+SENT	1588E-LETTERS-CRACOW,53.104
+1	vaz	WPRO	װאַז	VAaz	_
+2	blngin	VAG	בלנגין	blngyN	_
+3	iz	BEF	איז	Ayz	_
+4	di	D	די	dy	_
+5	khumsi'{m}	N	כומסי'{מ}	xvmsy'{m}	_
+6	mhrmb"n	H	מהרמב"נ	mhrmb"n	from_Rambam
+7	zi	PRO	זי	zy	_
+8	trfin	VBF	טרפֿין	trfyN	_
+9	hi	ADV	הי	hy	_
+10	nit	NEG	ניט	nyt	_
+11	eyn_zoy	ADV	אײנ_זױ	AYn_zW	_
+12	fil	Q	פֿיל	fyl	_
+13	gshtin	N	גשטין	g$tyN	_
+14	az	C	אַז	Aaz	_
+15	dartin	ADV	דאַרטין	dAartyN	_
+16	kent	MDF	קענט	kent	_
+17	ir	PRO	איר	Ayr	_
+18	ez	PRO	עז	ez	_
+19	nit	NEG	ניט	nyt	_
+20	bzul	H	בזול	bzvl	cheaply
+21	bkumn	VB	בקומן	bkvmN	_
+
+SENT	1588E-LETTERS-CRACOW,53.105
+1	zoy	ADV	זױ	zW	_
+2	lat	VBI	לאַט	lAat	_
+3	s	PRO	ס	s	_
+4	le"e	H	לע"ע	le"e	forever_until
+5	bleybn	VB	בלײבן	blYbN	_
+
+SENT	1588E-LETTERS-CRACOW,54.106
+1	zekht	VBI	זעכט	zext	_
+2	oyb	C	אױב	AWb	_
+3	ir	PRO	איר	Ayr	_
+4	mir	PRO	מיר	myr	_
+5	khlk	H	כלק	xlk	part
+6	msi"g	H	מסי"ג	msy"g	UNKNOWN
+7	sl	H	סל	sl	of
+8	ras	H	ראַס	rAas	head
+9	fun	P	פֿון	fvN	_
+10	a"kh	H	אַ"כ	Aa"x	way_of_life
+11	bkumn	VB	בקומן	bkvmN	_
+12	kent	MDF	קענט	kent	_
+
+SENT	1588E-LETTERS-CRACOW,54.107
+1	zoy	ADV	זױ	zW	_
+2	kuft	VBI	קופֿט	kvft	_
+3	in	PRO	אין	AyN	_
+
+SENT	1588E-LETTERS-CRACOW,54.108
+1	iz	BEF	איז	Ayz	_
+2	mir	PRO	מיר	myr	_
+3	fr_larin	VAN	פֿר_לאַרין	fr_lAaryN	_
+4	givardin	RDN	גיװאַרדין	gyVAardyN	_
+
+SENT	1588E-LETTERS-CRACOW,54.109
+1	min	QR	מין	myN	_
+2	zeyt	BEI	זײט	zYt	_
+3	gibetin	VAN	גיבעטין	gybetyN	_
+4	blngin	VAG	בלנגין	blngyN	_
+5	iz	BEF	איז	Ayz	_
+6	meyn	PRO$	מײן	mYN	_
+7	zakh	N	זאַך	zAaX	_
+8	?	X	?	?	_
+9	hlbin	N	הלבין	hlbyN	_
+10	fun	P	פֿון	fvN	_
+11	den	D	דען	deN	_
+12	shif	N	שיף	$yF	_
+13	?	X	?	?	_
+14	oyb	C	אױב	AWb	_
+15	ir	PRO	איר	Ayr	_
+16	s	PRO	ס	s	_
+17	der_forshin	VB	דער_פֿאָרשין	der_fAor$yN	_
+18	kent	MDF	קענט	kent	_
+
+SENT	1588E-LETTERS-CRACOW,54.110
+1	ugm	H	אוגם	AvgM	and_also
+2	bifelt	VBI	ביפֿעלט	byfelt	_
+3	s	PRO	ס	s	_
+4	eyerin	PRO$	אײערין	AYeryN	_
+5	fatr	N	פֿאַטר	fAatr	_
+
+SENT	1588E-LETTERS-CRACOW,54.111
+1	ven	C	װען	VeN	_
+2	er	PRO	ער	er	_
+3	ir	X	איר	Ayr	_
+4	nit	NEG	ניט	nyt	_
+5	zu	ADV	זו	zv	_
+6	vert	VBF	װערט	Vert	_
+7	dz	C	דז	dz	_
+8	er	PRO	ער	er	_
+9	mmrsh	H	ממרש	mmr$	permit
+10	eynm	X	אײנם	AYnM	_
+11	bmkumi	H	במקומי	bmkvmy	in_place_his
+12	zeyn	VB	זײן	zYN	_
+13	mekht	MDF	מעכט	mext	_
+14	velt	MDF	װעלט	Velt	_
+15	im	PRO	אים	AyM	_
+16	oyf	P	אױף	AWF	_
+17	k"d	H	ק"ד	k"d	UNKNOWN
+18	...	PUNC	...	...	_
+19	shikin	VB	שיקין	$ykyN	_
+20	dz	C	דז	dz	_
+21	ez	PRO	עז	ez	_
+22	mir	PRO	מיר	myr	_
+23	eyn_malt	ADV	אײנ_מאַלט	AYn_mAalt	_
+24	gitsalt	VAN	גיצאַלט	gyqAalt	_
+25	ver	BEF	װער	Ver	_
+
+SENT	1588E-LETTERS-CRACOW,54.112
+1	ir	PRO	איר	Ayr	_
+2	vist	VBF	װיסט	Vyst	_
+3	ez	ES	עז	ez	_
+4	hat	HVF	האַט	hAat	_
+5	mir	PRO	מיר	myr	_
+6	mkhlif	H	מכליף	mxlyF	UNKNOWN
+7	mskurt	H	מסקורט	mskvrt	UNKNOWN
+8	esrt	H	עסרט	esrt	ten
+9	mugi'{m}	RP-H	מוגי'{מ}	mvgy'{m}	_
+10	gevezin	VBN	געװעזין	geVezyN	_
+11	.	PUNC	.	.	_
+
+SENT	1588E-LETTERS-CRACOW,54.113
+1	zeyt	BEI	זײט	zYt	_
+2	gibetin	VAN	גיבעטין	gybetyN	_
+3	dz	C	דז	dz	_
+4	mir	PRO	מיר	myr	_
+5	eyer	PRO$	אײער	AYer	_
+6	fatr	N	פֿאַטר	fAatr	_
+7	moykhl	RP-H	מוחל	mvHl	_
+8	iz	VBF	איז	Ayz	_
+
+SENT	1588E-LETTERS-CRACOW,54.114
+1	kan	MDF	ק"ן	k"N	_
+2	ikh	PRO	איך	AyX	_
+3	hi	ADV	הי	hy	_
+4	fil	Q	פֿיל	fyl	_
+5	den	D	דען	deN	_
+6	eyerin	N	אײערין	AYeryN	_
+7	vidr	ADV	װידר	Vydr	_
+8	tan	VB	טאַן	tAaN	_
+9	vil	MDF	װיל	Vyl	_
+10	s	PRO	ס	s	_
+11	ton	VB	טאָן	tAoN	_
+
+SENT	1588E-LETTERS-CRACOW,54.115
+1	den	D	דען	deN	_
+2	brib	N	בריב	bryb	_
+3	gebt	VBI	געבט	gebt	_
+4	oykh	ADV	אױך	AWX	_
+5	an	RP	אַן	AaN	_
+
+SENT	1588E-LETTERS-CRACOW,54.116
+1	tut	VBI	טוט	tvt	_
+2	eyn	D	אײן	AYN	_
+3	mtsuh	N	מצוה	mqvh	_
+
+SENT	1588E-LETTERS-CRACOW,54.117
+1	ikh	PRO	איך	AyX	_
+2	hab	HVF	האַב	hAab	_
+3	s	PRO	ס	s	_
+4	mit	P	מיט	myt	_
+5	den	D	דען	deN	_
+6	shlikh	N	שליך	$lyX	_
+7	bsud	H	בסוד	bsvd	in_secret
+8	gihltin	VBN	גיהלטין	gyhltyN	_
+
+SENT	1588E-LETTERS-CRACOW,54.118
+1	un	CONJ	און	AvN	_
+2	hab	HVF	האַב	hAab	_
+3	im	PRO	אים	AyM	_
+4	s	PRO	ס	s	_
+5	fr_botin	VBN	פֿר_באָטין	fr_bAotyN	_
+6	nokh	P	נאָך	nAoX	_
+7	kudm	H	קודם	kvdM	first
+8	az	C	אַז	Aaz	_
+9	er	PRO	ער	er	_
+10	tsu	P	צו	qv	_
+11	mir	PRO	מיר	myr	_
+12	kumn	VBN	קומן	kvmN	_
+13	iz	BEF	איז	Ayz	_
+
+SENT	1588E-LETTERS-CRACOW,54.119
+1	zoy	ADV	זױ	zW	_
+2	iz	BEF	איז	Ayz	_
+3	di	D	די	dy	_
+4	gnts	ADJ	גנץ	gnQ	_
+5	khilh	N	כילה	xylh	_
+6	ful	ADJ	פֿול	fvl	_
+7	givezin	VBN	גיװעזין	gyVezyN	_
+8	dz	C	דז	dz	_
+9	ikh	PRO	איך	AyX	_
+10	eyn	D	אײן	AYN	_
+11	slikh	N	סליך	slyX	_
+12	miukhd	H	מיִוכד	myivxd	special
+13	hab	VBF	האַב	hAab	_
+14	fun	P	פֿון	fvN	_
+15	eykh	PRO	אײך	AYX	_
+16	vi	WADV	װי	Vy	_
+17	vaul	ADV	װאַול	VAavl	_
+18	dz	C	דז	dz	_
+19	ikh	PRO	איך	AyX	_
+20	s	PRO	ס	s	_
+21	gileykint	VBN	גילײקינט	gylYkynt	_
+22	hab	HVF	האַב	hAab	_
+
+SENT	1588E-LETTERS-CRACOW,54.120
+1	ir	PRO	איר	Ayr	_
+2	het	HVF	העט	het	_
+3	im	PRO	אים	AyM	_
+4	s	PRO	ס	s	_
+5	dortin	ADV	דאָרטין	dAortyN	_
+6	zolin	MDN-IPP	זאָלין	zAolyN	_
+7	fr_bitin	VB	פֿר_ביטין	fr_bytyN	_
+8	.	PUNC	.	.	_
+
+SENT	1588E-LETTERS-CRACOW,54.121
+1	halts	N	האַלץ	hAalQ	_
+2	vil	MDF	װיל	Vyl	_
+3	ikh	PRO	איך	AyX	_
+4	koyfn	VB	קױפֿן	kWfN	_
+5	ai"h	H	אַיִ"ה	Aayi"h	if_will_want_God
+
+SENT	1588E-LETTERS-CRACOW,54.122
+1	un	CONJ	און	AvN	_
+2	dz	D	דז	dz	_
+3	meyd	N	מײד	mYd	_
+4	vil	MDF	װיל	Vyl	_
+5	ikh	PRO	איך	AyX	_
+6	eykh	PRO	אײך	AYX	_
+7	dingin	VB	דינגין	dyngyN	_
+
+SENT	1588E-LETTERS-CRACOW,54.123
+1	vert	RDF	װערט	Vert	_
+2	s	PRO	ס	s	_
+3	di	D	די	dy	_
+4	nit	NEG	ניט	nyt	_
+5	zeyn	VB	זײן	zYN	_
+6	velin	MDF	װעלין	VelyN	_
+7	mir	PRO	מיר	myr	_
+8	zehn	VB	זעהן	zehN	_
+9	nakh	P	נ"ך	n"X	_
+10	eyn	D	אײן	AYN	_
+11	andri	ADJ	אַנדרי	Aandry	_
+
+SENT	1588E-LETTERS-CRACOW,54.124
+1	min	QR	מין	myN	_
+2	hab	HVF	האַב	hAab	_
+3	eykh	PRO	אײך	AYX	_
+4	fr_gesin	VBN	פֿר_געסין	fr_gesyN	_
+5	tsu	TO	צו	qv	_
+6	shreybn	VB	שרײבן	$rYbN	_
+7	vaz	WPRO	װאַז	VAaz	_
+8	ez	ES	עז	ez	_
+9	gishtndin	VBN	גישטנדין	gy$tndyN	_
+10	hat	HVF	האַט	hAat	_
+11	hstdles	NPR	הסטדלעס	hstdles	_
+12	mpritsin	H	מפּריצין	mpryqyN	from_Pritsin
+13	meynstr	N	מײנסטר	mYnstr	_
+14	dz	C	דז	dz	_
+15	ir	PRO	איר	Ayr	_
+16	nit	NEG	ניט	nyt	_
+17	zalt	MDF	זאַלט	zAalt	_
+18	meyni{n}	VB	מײני{נ}	mYny{n}	_
+19	ez	PRO	עז	ez	_
+20	het	HVF	העט	het	_
+21	zer	ADV	זער	zer	_
+22	fil	Q	פֿיל	fyl	_
+23	gistndin	VBN	גיסטנדין	gystndyN	_
+
+SENT	1588E-LETTERS-CRACOW,54.125
+1	er	PRO	ער	er	_
+2	hat	HVF	האַט	hAat	_
+3	an	P	אַן	AaN	_
+4	daz	D	דאַז	dAaz	_
+5	khdr	N	כדר	xdr	_
+6	zufltsirt	VBN	זופֿלצירט	zvflqyrt	_
+7	vi	C	װי	Vy	_
+8	er	PRO	ער	er	_
+9	eykh	PRO	אײך	AYX	_
+10	het	HVF	העט	het	_
+11	nun	ADV	נ	n	_
+12	min	QR	מין	myN	_
+13	az	P	אַז	Aaz	_
+14	m'	NUM	מ'	m'	_
+15	sak	N	סאַק	sAak	_
+16	ribt	N	ריבט	rybt	_
+17	gebn	VBN	געבן	gebN	_
+18	fun	P	פֿון	fvN	_
+19	eyn	D	אײן	AYN	_
+20	zoyan	X	זױאַן	zWAaN	_
+21	klign	X	קליגן	klygN	_
+22	skh	H	סך	sX	many
+23	makhr	X	מאַכר	mAaxr	_
+
+SENT	1588E-LETTERS-CRACOW,54.126
+1	der_veyl	ADV	דער_װײל	der_VYl	_
+2	in	PRO	אין	AyN	_
+3	der	D	דער	der	_
+4	ksr	H	קסר	ksr	emperor
+5	ir"h	H	איר"ה	Ayr"h	it_will_be_exalted_his_majesty
+6	het	HVF	העט	het	_
+7	oyf	RP	אױף	AWF	_
+8	gitsoygn	VBN	גיצױגן	gyqWgN	_
+9	zoy	ADV	זױ	zW	_
+10	velt	MDF	װעלט	Velt	_
+11	er	PRO	ער	er	_
+12	keyn	Q	קײן	kYN	_
+13	ribit	N	ריביט	rybyt	_
+14	gebn	VB	געבן	gebN	_
+
+SENT	1588E-LETTERS-CRACOW,54.127
+1	un	CONJ	און	AvN	_
+2	velt	MDF	װעלט	Velt	_
+3	eykh	PRO	אײך	AYX	_
+4	oyf	P	אױף	AWF	_
+5	den	D	דען	deN	_
+6	m'	NUM	מ'	m'	_
+7	sak	N	סאַק	sAak	_
+8	tsu	RP	צו	qv	_
+9	tsilin	VB	צילין	qylyN	_
+10	dz	C	דז	dz	_
+11	ir	PRO	איר	Ayr	_
+12	het	HVF	העט	het	_
+13	zalin	MDN-IPP	זאַלין	zAalyN	_
+14	lpi	H	לפּי	lpy	according_to
+15	khsbnu	H	כסבנו	xsbnv	thought_our
+16	bkumn	VB	בקומן	bkvmN	_
+17	berkh	ADV	בערך	berX	_
+18	t"u	NUM	ט"או	t"Av	15
+19	sak	N	סאַק	sAak	_
+
+SENT	1588E-LETTERS-CRACOW,54.128
+1	zoy	ADV	זױ	zW	_
+2	habn	HVF	האַבן	hAabN	_
+3	s	PRO	ס	s	_
+4	mir	PRO	מיר	myr	_
+5	t"u	H	ט"או	t"Av	very_soon_and_immediately
+6	mutsia	RP-H	מוציִאַ	mvqyiAa	_
+7	fun	P	פֿון	fvN	_
+8	im	PRO	אים	AyM	_
+9	givezin	VBN	גיװעזין	gyVezyN	_
+10	.	PUNC	.	.	_
+
+SENT	1588E-LETTERS-CRACOW,54.129
+1	hat	HVF	האַט	hAat	_
+2	gishtndin	VBN	גישטנדין	gy$tndyN	_
+3	a'	H	אַ'	Aa'	1
+4	litra	H	ליטראַ	lytrAa	pound
+5	pilpul	H	פּילפּול	pylpvl	long-winded_debate
+6	ua'	H	אואַ'	AvAa'	and_1
+7	litra	H	ליטראַ	lytrAa	pound
+8	inbr	H	אינבר	Aynbr	UNKNOWN
+
+SENT	1588E-LETTERS-CRACOW,54.130
+1	er	PRO	ער	er	_
+2	hat	HVF	האַט	hAat	_
+3	zer	ADV	זער	zer	_
+4	msrb	RP-H	מסרב	msrb	_
+5	givezin	VBN	גיװעזין	gyVezyN	_
+6	an	P	אַן	AaN	_
+7	den	D	דען	deN	_
+8	khdr	N	כדר	xdr	_
+9	ir"h	H	איר"ה	Ayr"h	it_will_be_exalted_his_majesty
+
+SENT	1588E-LETTERS-CRACOW,54.131
+1	kent	MDF	קענט	kent	_
+2	msig	RP-H	מסיג	msyg	_
+3	zeyn	VB	זײן	zYN	_
+
+SENT	1588E-LETTERS-CRACOW,54.132
+1	mn	PRO	מן	mN	_
+2	hat	HVF	האַט	hAat	_
+3	in	PRO	אין	AyN	_
+4	mit	P	מיט	myt	_
+5	den	D	דען	deN	_
+6	halumpin	N	האַלומפּין	hAalvmpyN	_
+7	fun	P	פֿון	fvN	_
+8	shlos	N	שלאָס	$lAos	_
+9	muzn	MDN-IPP	מוזן	mvzN	_
+10	hulin	VB	הולין	hvlyN	_
+11	un	CONJ	און	AvN	_
+12	bkhrm	H	בכרם	bxrM	UNKNOWN
+13	gdul	H	גדול	gdvl	great
+14	muzn	MDN-IPP	מוזן	mvzN	_
+15	gebn	VB	געבן	gebN	_
+16	uslu'm	H	אוסלו'מ	Avslv'm	and_peace
+17	sni't	H	סני'ט	sny't	again
+18	.	PUNC	.	.	_
+
+SENT	1588E-LETTERS-CRACOW,66.135
+1	liben	ADJ	ליבען	lybeN	_
+2	raboysay	N	רבותי	rbvSy	_
+3	,	PUNC	,	,	_
+4	vos	WPRO	װאָס	VAos	_
+5	zolen	MDF	זאָלען	zAoleN	_
+6	mir	PRO	מיר	myr	_
+7	aykh	PRO	אײַך	AYaX	_
+8	fil	Q	פֿיל	fyl	_
+9	shrayben	VB	שרײַבען	$rYabeN	_
+10	un	CONJ	און	AvN	_
+11	gor	ADV	גאָר	gAor	_
+12	hukh	ADV	הוך	hvX	_
+13	der_manen	VB	דער_מאַנען	der_mAaneN	_
+
+SENT	1588E-LETTERS-CRACOW,66.136
+1	mir	PRO	מיר	myr	_
+2	betin	VBF	בעטין	betyN	_
+3	eykh	PRO	אײך	AYX	_
+4	lmen	H	למען	lmeN	for
+5	rakhmi	H	ראַכמי	rAaxmy	mercy
+6	vekhasde	H	װעכאַסדע	VexAasde	and_loving-kindness_of
+7	hashem	H	ד'	d'	the_name
+8	zult	MDF	זולט	zvlt	_
+9	got	NPR	גאָט	gAot	_
+10	an	RP	אַן	AaN	_
+11	zehn	VB	זעהן	zehN	_
+12	un	CONJ	און	AvN	_
+13	zult	MDF	זולט	zvlt	_
+14	der_tsu	DR+P	דער_צו	der_qv	_
+15	tun	VB	טון	tvN	_
+
+SENT	1588E-LETTERS-CRACOW,66.137
+1	bifrat	ADV	בפֿרט	bfrt	_
+2	zult	MDF	זולט	zvlt	_
+3	zehn	VB	זעהן	zehN	_
+4	dz	C	דז	dz	_
+5	ub	C	אוב	Avb	_
+6	es	ES	עס	es	_
+7	moyglikh	ADJ	מױגליך	mWglyX	_
+8	iz	VBF	איז	Ayz	_
+9	dz	C	דז	dz	_
+10	ir	PRO	איר	Ayr	_
+11	zult	MDF	זולט	zvlt	_
+12	tsu	P	צו	qv	_
+13	dem	D	דעם	deM	_
+14	starosti	N	סטאַראָסטי	stAarAosty	_
+15	tsihn	VB	ציהן	qyhN	_
+16	ken	P	קען	keN	_
+17	der	D	דער	der	_
+18	lnts_krun	N	לנצ_קרון	lnq_krvN	_
+
+SENT	1588E-LETTERS-CRACOW,66.138
+1	un	CONJ	און	AvN	_
+2	zult	MDF	זולט	zvlt	_
+3	makhin	VB	מאַכין	mAaxyN	_
+4	dz	C	דז	dz	_
+5	er	PRO	ער	er	_
+6	shraybt	VBF	שרײַבט	$rYabt	_
+7	den	D	דען	deN	_
+8	eiruni'{m}	N	עיִרוני'{מ}	eyirvny'{m}	_
+9	me-krake	H	מע-קראַקע	me-krAake	from_Cracow
+10	hn	CONJ	הן	hN	_
+11	den	D	דען	deN	_
+12	eiruni'{m}	N	עיִרוני'{מ}	eyirvny'{m}	_
+13	me-kazmr	H	מע-קאַזמר	me-kAazmr	from_Kazimir
+14	hn	CONJ	הן	hN	_
+15	den	D	דען	deN	_
+16	pod	X	פּאָד	pAod	_
+17	starusti	N	סטאַרוסטי	stAarvsty	_
+18	heyni	ADV	הײני	hYny	_
+19	lagvnitski	NPR	לאַגװניצקי	lAagVnyqky	_
+20	dz	C	דז	dz	_
+21	er	PRO	ער	er	_
+22	reyt	VBF	רײט	rYt	_
+23	oyf	P	אױף	AWF	_
+24	ds	D	דס	ds	_
+25	rot_hoyz	N	ראָט_הױז	rAot_hWz	_
+
+SENT	1588E-LETTERS-CRACOW,66.139
+1	yenkil	NPR	יענקיל	yenkyl	_
+2	iz	VBF	איז	Ayz	_
+3	akh	ADV	אַך	AaX	_
+4	tsu	P	צו	qv	_
+5	der	D	דער	der	_
+6	lnts_krun	N	לנצ_קרון	lnq_krvN	_
+
+SENT	1588E-LETTERS-CRACOW,66.140
+1	men	PRO	מען	meN	_
+2	kan	MDF	ק"ן	k"N	_
+3	zikh	PRO	זיך	zyX	_
+4	abr	CONJ	אַבר	Aabr	_
+5	nisht	NEG	נישט	ny$t	_
+6	oyf	P	אױף	AWF	_
+7	in	PRO	אין	AyN	_
+8	ver_lusn	VB	װער_לוסן	Ver_lvsN	_
+
+SENT	1588E-LETTERS-CRACOW,66.141
+1	den	CONJ	דען	deN	_
+2	er	PRO	ער	er	_
+3	iz	VBF	איז	Ayz	_
+4	l"e	H	ל"ע	l"e	not_on_us
+5	nit	NEG	ניט	nyt	_
+6	bekav	H	בעקאַװ	bekAaV	in_line
+7	habries	H	האַבריִעס	hAabryies	the_health
+
+SENT	1588E-LETTERS-CRACOW,66.142
+1	drum	DR+P	דרום	drvM	_
+2	zikht	VBI	זיכט	zyxt	_
+3	h.sh.i.	H	ה.ש.אי.	h.$.Ay.	the_name_may_be_blessed
+4	an	RP	אַן	AaN	_
+5	dz	C	דז	dz	_
+6	ir	PRO	איר	Ayr	_
+7	tsu	P	צו	qv	_
+8	anndr	PRO	אַננדר	Aanndr	_
+9	kumt	VBF	קומט	kvmt	_
+10	irgnts	ADV	אירגנץ	AyrgnQ	_
+11	vau	ADV	װאַו	VAav	_
+12	dz	C	דז	dz	_
+13	ets	PRO	עץ	eQ	_
+14	droys	DR+P	דרױס	drWs	_
+15	etsh	N	עטש	et$	_
+16	hlt	VBF	הלט	hlt	_
+17	.	PUNC	.	.	_
+
+SENT	1588E-LETTERS-CRACOW,66.143
+1	akh	ADV	אַך	AaX	_
+2	muzt	MDF	מוזט	mvzt	_
+3	ir	PRO	איר	Ayr	_
+4	helfn	VB	העלפֿן	helfN	_
+5	mit	P	מיט	myt	_
+6	gelt	N	געלט	gelt	_
+
+SENT	1588E-LETTERS-CRACOW,66.144
+1	es	ES	עס	es	_
+2	kumt	VBF	קומט	kvmt	_
+3	leu"h	H	לעו"ה	lev"h	to_sins_our_the_many
+4	oyf	P	אױף	AWF	_
+5	di	D	די	dy	_
+6	tsdkh	N	צדך	qdX	_
+7	leyt	N	לײט	lYt	_
+8	di	WPRO	די	dy	_
+9	men	PRO	מען	meN	_
+10	nit	NEG	ניט	nyt	_
+11	gizukht	VBN	גיזוכט	gyzvxt	_
+12	het	HVF	העט	het	_
+13	,	PUNC	,	,	_
+14	dz	C	דז	dz	_
+15	es	PRO	עס	es	_
+16	got	NPR	גאָט	gAot	_
+17	der_barim	VBF	דער_באַרים	der_bAaryM	_
+18	,	PUNC	,	,	_
+19	bifrat	ADV	בפֿרט	bfrt	_
+20	veyl	C	װײל	VYl	_
+21	nimnts	Q	נימנץ	nymnQ	_
+22	tar	MDF	טאַר	tAar	_
+23	in	P	אין	AyN	_
+24	di	D	די	dy	_
+25	shtot	N	שטאָט	$tAot	_
+26	tar	MDF	טאַר	tAar	_
+27	gin	VB	גין	gyN	_
+
+SENT	1588E-LETTERS-CRACOW,66.145
+1	di	D	די	dy	_
+2	hutsaus	N	הוצאַוס	hvqAavs	_
+3	zeyn	VBF	זײן	zYN	_
+4	beu"h	H	בעו"ה	bev"h	for_sins_our_the_many
+5	tsu	ADV	צו	qv	_
+6	fil	Q	פֿיל	fyl	_
+7	mn	H	מן	mN	from
+8	hutsaus	H	הוצאַוס	hvqAavs	expenses
+9	kbrni'm	H	קברני'מ	kbrny'm	gravediggers
+10	br_minn	H	בר_מינן	br_mynN	God_forbid
+11	hutsaus	H	הוצאַוס	hvqAavs	expenses
+12	sumrim	H	סומרים	svmryM	guards
+13	goyim	H	גױים	gWyM	Gentiles
+14	,	PUNC	,	,	_
+15	hutsau's	H	הוצאַו'ס	hvqAav's	expenses
+16	sumri'm	H	סומרי'מ	svmry'm	guards
+17	ihudi'm	H	איהודי'מ	Ayhvdy'm	Jews
+18	lhbdil	H	להבדיל	lhbdyl	to_separate
+19	hutsaus	H	הוצאַוס	hvqAavs	expenses
+20	eneym	H	ענײם	enYM	eyes
+
+SENT	1588E-LETTERS-CRACOW,66.146
+1	di	D	די	dy	_
+2	zeyn	VBF	זײן	zYN	_
+3	beu"h	H	בעו"ה	bev"h	for_sins_our_the_many
+4	nit	NEG	ניט	nyt	_
+5	tsu	TO	צו	qv	_
+6	shreybn	VB	שרײבן	$rYbN	_
+
+SENT	1588E-LETTERS-CRACOW,66.147
+1	drum	DR+P	דרום	drvM	_
+2	zikht	VBI	זיכט	zyxt	_
+3	got	NPR	גאָט	gAot	_
+4	an	RP	אַן	AaN	_
+
+SENT	1588E-LETTERS-CRACOW,66.148
+1	un	CONJ	און	AvN	_
+2	hilft	VBI	הילפֿט	hylft	_
+3	mit	P	מיט	myt	_
+4	alin	Q	אַלין	AalyN	_
+5	zakhin	N	זאַכין	zAaxyN	_
+6	di	WPRO	די	dy	_
+7	da	ADV	דאַ	dAa	_
+8	tsu	TO	צו	qv	_
+9	helfin	VB	העלפֿין	helfyN	_
+10	zeyn	VBF	זײן	zYN	_
+
+SENT	1588E-LETTERS-CRACOW,66.149
+1	zikht	VBI	זיכט	zyxt	_
+2	shikt	VBI	שיקט	$ykt	_
+3	tsu	P	צו	qv	_
+4	leytn	N	לײטן	lYtN	_
+5	di	WPRO	די	dy	_
+6	ir	PRO	איר	Ayr	_
+7	vist	VBF	װיסט	Vyst	_
+8	dz	C	דז	dz	_
+9	zi	PRO	זי	zy	_
+10	fun	P	פֿון	fvN	_
+11	khl	H	כל	xl	public
+12	i"ts	H	אי"צ	Ay"q	he_will_protect_them
+13	zeyn	VBF	זײן	zYN	_
+14	dz	C	דז	dz	_
+15	zi	PRO	זי	zy	_
+16	akh	ADV	אַך	AaX	_
+17	helfin	VBF	העלפֿין	helfyN	_
+18	.	PUNC	.	.	_
+
+SENT	1588E-LETTERS-CRACOW,66.150
+1	ir	PRO	איר	Ayr	_
+2	vist	VBF	װיסט	Vyst	_
+3	vaul	ADV	װאַול	VAavl	_
+4	dz	C	דז	dz	_
+5	ir	PRO	איר	Ayr	_
+6	hut	HVF	הוט	hvt	_
+7	mit	P	מיט	myt	_
+8	uns	PRO	אונס	Avns	_
+9	keynim	Q	קײנים	kYnyM	_
+10	keyn	Q	קײן	kYN	_
+11	urt	N	אורט	Avrt	_
+12	gimakht	VBN	גימאַכט	gymAaxt	_
+
+SENT	1588E-LETTERS-CRACOW,66.151
+1	nor	CONJ	נאָר	nAor	_
+2	bleybn	VBF	בלײבן	blYbN	_
+3	mir	PRO	מיר	myr	_
+4	fun	P	פֿון	fvN	_
+5	hs"i	H	הס"אי	hs"Ay	his_name_may_be_blessed
+6	vegin	N	װעגין	VegyN	_
+
+SENT	1588E-LETTERS-CRACOW,66.152
+1	un	CONJ	און	AvN	_
+2	vegin	VBF	װעגין	VegyN	_
+3	zikh	PRO	זיך	zyX	_
+4	in	P	אין	AyN	_
+5	in	P	אין	AyN	_
+6	zilkhn	ADJ	זילכן	zylxN	_
+7	feyer	N	פֿײער	fYer	_
+8	un	CONJ	און	AvN	_
+9	flam	N	פֿלאַם	flAaM	_
+10	un	CONJ	און	AvN	_
+11	in	P	אין	AyN	_
+12	zilkhn	ADJ	זילכן	zylxN	_
+13	skhnes	N	סכנעס	sxnes	_
+
+SENT	1588E-LETTERS-CRACOW,66.153
+1	hs"i	H	הס"אי	hs"Ay	his_name_may_be_blessed
+2	zul	MDF	זול	zvl	_
+3	sumr	H	סומר	svmr	guard
+4	isral	NPR	איסראַל	AysrAal	_
+5	zeyn	VB	זײן	zYN	_
+
+SENT	1588E-LETTERS-CRACOW,66.154
+1	vau	C	װאַו	VAav	_
+2	nit	NEG	ניט	nyt	_
+3	kh"v	H	כ"װ	x"V	have_mercy_and_peace
+4	da	ADV	דאַ	dAa	_
+5	vist	VBI	װיסט	Vyst	_
+6	dz	C	דז	dz	_
+7	mir	PRO	מיר	myr	_
+8	akh	ADV	אַך	AaX	_
+9	velin	MDF	װעלין	VelyN	_
+10	vek	ADV	װעק	Vek	_
+11	loyfn	VB	לױפֿן	lWfN	_
+
+SENT	1588E-LETTERS-CRACOW,66.155
+1	un	CONJ	און	AvN	_
+2	velin	MDF	װעלין	VelyN	_
+3	veytr	ADV	װײטר	VYtr	_
+4	nit	NEG	ניט	nyt	_
+5	eyeri	PRO$	אײערי	AYery	_
+6	heyzr	N	הײזר	hYzr	_
+7	hitn	VB	היטן	hytN	_
+8	hn	CONJ	הן	hN	_
+9	in	P	אין	AyN	_
+10	der	D	דער	der	_
+11	gs	N	גס	gs	_
+12	hn	CONJ	הן	hN	_
+13	in	P	אין	AyN	_
+14	dem	D	דעם	deM	_
+15	mku'm	N	מקו'מ	mkv'm	_
+
+SENT	1588E-LETTERS-CRACOW,66.156
+1	den	CONJ	דען	deN	_
+2	es	ES	עס	es	_
+3	tar	MDF	טאַר	tAar	_
+4	keyn	Q	קײן	kYN	_
+5	ihudi	N	איהודי	Ayhvdy	_
+6	nit	NEG	ניט	nyt	_
+7	in	P	אין	AyN	_
+8	ds	D	דס	ds	_
+9	mkum	N	מקום	mkvM	_
+10	:	PUNC	:	:	_
+
+SENT	1588E-LETTERS-CRACOW,66.157
+1	drum	DR+P	דרום	drvM	_
+2	zikht	VBI	זיכט	zyxt	_
+3	gat	NPR	גאַט	gAat	_
+4	it"s	H	איט"ס	Ayt"s	may_be_blessed_name
+5	an	RP	אַן	AaN	_
+
+SENT	1588E-LETTERS-CRACOW,66.158
+1	un	CONJ	און	AvN	_
+2	hilft	VBI	הילפֿט	hylft	_
+3	ratin	VB	ראַטין	rAatyN	_
+
+SENT	1588E-LETTERS-CRACOW,66.159
+1	ir	PRO	איר	Ayr	_
+2	vist	VBF	װיסט	Vyst	_
+3	zeit	BEF	זעיִט	zeyit	_
+4	al	Q	אַל	Aal	_
+5	eyn_vek	ADV	אײנ_װעק	AYn_Vek	_
+6	gilufn	VBN	גילופֿן	gylvfN	_
+7	un	CONJ	און	AvN	_
+8	di	D	די	dy	_
+9	hkhrzes	N	הכרזעס	hxrzes	_
+10	ali	Q	אַלי	Aaly	_
+11	vaul	ADV	װאַול	VAavl	_
+12	givist	VBN	גיװיסט	gyVyst	_
+13	di	WPRO	די	dy	_
+14	men	PRO	מען	meN	_
+15	vert	RDF	װערט	Vert	_
+16	tun	VB	טון	tvN	_
+
+SENT	1588E-LETTERS-CRACOW,66.160
+1	un	CONJ	און	AvN	_
+2	hut	HVF	הוט	hvt	_
+3	ali	Q	אַלי	Aaly	_
+4	mit	P	מיט	myt	_
+5	anndr	PRO	אַננדר	Aanndr	_
+6	nisht	Q	נישט	ny$t	_
+7	gitun	VBN	גיטון	gytvN	_
+8	neyart	FP	נײאַרט	nYAart	_
+9	eyn_vek	ADV	אײנ_װעק	AYn_Vek	_
+10	tsu	TO	צו	qv	_
+11	loyfn	VB	לױפֿן	lWfN	_
+12	un	CONJ	און	AvN	_
+13	di	D	די	dy	_
+14	khilh	N	כילה	xylh	_
+15	its"u	H	איצ"או	Ayq"Av	he_will_sustain_them
+16	azu	ADV	אַזו	Aazv	_
+17	el	H	על	el	on
+18	krn	H	קרן	krN	foundation
+19	tsbi	H	צבי	qby	UNKNOWN
+20	gilusn	VB	גילוסן	gylvsN	_
+
+SENT	1588E-LETTERS-CRACOW,66.161
+1	psita	H	פּסיטאַ	psytAa	obviously
+2	es	ES	עס	es	_
+3	zeyn	VBF	זײן	zYN	_
+4	fil	Q	פֿיל	fyl	_
+5	untr	P	אונטר	Avntr	_
+6	khl	N	כל	xl	_
+7	its"u	H	איצ"או	Ayq"Av	he_will_sustain_them
+8	di	WPRO	די	dy	_
+9	zikh	PRO	זיך	zyX	_
+10	ver_entvrn	VAG	װער_ענטװרן	Ver_entVrN	_
+11	zeyn	BEF	זײן	zYN	_
+12	nisht	NEG	נישט	ny$t	_
+13	nits	Q	ניץ	nyQ	_
+
+SENT	1588E-LETTERS-CRACOW,66.162
+1	abr	CONJ	אַבר	Aabr	_
+2	dukh	ADV	דוך	dvX	_
+3	ir	PRO	איר	Ayr	_
+4	hut	HVF	הוט	hvt	_
+5	gizehn	VBN	גיזעהן	gyzehN	_
+6	vi	WADV	װי	Vy	_
+7	di	D	די	dy	_
+8	zakh	N	זאַך	zAaX	_
+9	hut	HVF	הוט	hvt	_
+10	giht	VBN	גיהט	gyht	_
+11	eyn	D	אײן	AYN	_
+12	gistalt	N	גיסטאַלט	gystAalt	_
+
+SENT	1588E-LETTERS-CRACOW,66.163
+1	drum	DR+P	דרום	drvM	_
+2	zikht	VBI	זיכט	zyxt	_
+3	el	H	על	el	on
+4	kl	H	קל	kl	all
+5	pni'{m}	H	פּני'{מ}	pny'{m}	faces
+6	dz	C	דז	dz	_
+7	ir	PRO	איר	Ayr	_
+8	zikht	VBF	זיכט	zyxt	_
+9	udr	CONJ	אודר	Avdr	_
+10	zelbirt	ADV	זעלבירט	zelbyrt	_
+11-12	tsum	P~D	צום	qvM	_
+11	tsu	P	צו	qv	_
+12	m	D	מ	m	_
+13	staroste	N	סטאַראָסטע	stAarAoste	_
+14	tsu	TO	צו	qv	_
+15	tsihn	VB	ציהן	qyhN	_
+16	udr	CONJ	אודר	Avdr	_
+17	makhin	VB	מאַכין	mAaxyN	_
+18	eyn	D	אײן	AYN	_
+19	yom	N	יום	yvM	_
+20	vau	WADV	װאַו	VAav	_
+21	mn	PRO	מן	mN	_
+22	tsu	P	צו	qv	_
+23	annr	PRO	אַננר	Aannr	_
+24	kem	VBF	קעם	keM	_
+25	un	CONJ	און	AvN	_
+26	dz	C	דז	dz	_
+27	er	PRO	ער	er	_
+28	shrib	VBF	שריב	$ryb	_
+29	brib	N	בריב	bryb	_
+30-31	tsum	P~D	צום	qvM	_
+30	tsu	P	צו	qv	_
+31	m	D	מ	m	_
+32	mku'{m}	N	מקו'{מ}	mkv'{m}	_
+33	heyni	ADV	הײני	hYny	_
+34	leiruni	H	לעיִרוני	leyirvny	UNKNOWN
+35	mkrake	H	מקראַקע	mkrAake	from_Cracow
+36	hn	CONJ	הן	hN	_
+37	leiruni	H	לעיִרוני	leyirvny	UNKNOWN
+38	mkazmir	H	מקאַזמיר	mkAazmyr	from_Kazmir
+39	hn	CONJ	הן	hN	_
+40	tsu	P	צו	qv	_
+41	lagvnitski	NPR	לאַגװניצקי	lAagVnyqky	_
+42	,	PUNC	,	,	_
+43	bifrat	ADV	בפֿרט	bfrt	_
+44	dz	C	דז	dz	_
+45	er	PRO	ער	er	_
+46	oyf	P	אױף	AWF	_
+47	ds	D	דס	ds	_
+48	rot_hoyz	N	ראָט_הױז	rAot_hWz	_
+49	reyt	VBF	רײט	rYt	_
+50	.	PUNC	.	.	_
+
+SENT	1588E-LETTERS-CRACOW,67.165
+1	un	CONJ	און	AvN	_
+2	trakhtt	VBI	טראַכטט	trAaxtt	_
+3	dz	C	דז	dz	_
+4	es	PRO	עס	es	_
+5	gut	ADJ	גוט	gvt	_
+6	zul	MDF	זול	zvl	_
+7	zeyn	VB	זײן	zYN	_
+
+SENT	1588E-LETTERS-CRACOW,67.166
+1	mir	PRO	מיר	myr	_
+2	kinn	MDF	קינן	kynN	_
+3	eykh	PRO	אײך	AYX	_
+4	nit	NEG	ניט	nyt	_
+5	min	QR	מין	myN	_
+6	shreybn	VB	שרײבן	$rYbN	_
+7	le"e	H	לע"ע	le"e	forever_until
+8	.	PUNC	.	.	_
+
+SENT	1588E-LETTERS-CRACOW,67.167
+1	zuln	MDF	זולן	zvlN	_
+2	mir	PRO	מיר	myr	_
+3	eykh	PRO	אײך	AYX	_
+4	shreybn	VB	שרײבן	$rYbN	_
+5	vi	WADV	װי	Vy	_
+6	es	PRO	עס	es	_
+7	hi	ADV	הי	hy	_
+8	shtit	VBF	שטיט	$tyt	_
+9	h.sh.i.	H	ה.ש.אי.	h.$.Ay.	the_name_may_be_blessed
+10	geb	VBF	געב	geb	_
+11	dz	C	דז	dz	_
+12	es	PRO	עס	es	_
+13	zul	MDF	זול	zvl	_
+14	besr	ADV	בעסר	besr	_
+15	gin	VB	גין	gyN	_
+16	.	PUNC	.	.	_
+
+SENT	1588E-LETTERS-CRACOW,67.168
+1	es	PRO	עס	es	_
+2	git	VBF	גיט	gyt	_
+3	vild	ADV	װילד	Vyld	_
+4	durkh	P	דורך	dvrX	_
+5	anndr	PRO	אַננדר	Aanndr	_
+6	.	PUNC	.	.	_
+
+SENT	1588E-LETTERS-CRACOW,67.169
+1	h.sh.i.	H	ה.ש.אי.	h.$.Ay.	the_name_may_be_blessed
+2	zul	MDF	זול	zvl	_
+3	zeyn	PRO$	זײן	zYN	_
+4	tsarin	N	צאַרין	qAaryN	_
+5	ap	RP	אַפּ	Aap	_
+6	tun	VB	טון	tvN	_
+
+SENT	1588E-LETTERS-CRACOW,67.170
+1	den	D	דען	deN	_
+2	ihudi	N	איהודי	Ayhvdy	_
+3	den	WPRO	דען	deN	_
+4	mir	PRO	מיר	myr	_
+5	shikn	VBF	שיקן	$ykN	_
+6	der	D	דער	der	_
+7	heyst	VBF	הײסט	hYst	_
+8	moyshe	NPR	משה	m$h	_
+
+SENT	1588E-LETTERS-CRACOW,67.171
+1	iz	VBF	איז	Ayz	_
+2	eyn	D	אײן	AYN	_
+3	gutr	ADJ	גוטר	gvtr	_
+4	ihudi	N	איהודי	Ayhvdy	_
+
+SENT	1588E-LETTERS-CRACOW,67.172
+1	zikht	VBI	זיכט	zyxt	_
+2	gat	NPR	גאַט	gAat	_
+3	an	RP	אַן	AaN	_
+
+SENT	1588E-LETTERS-CRACOW,67.173
+1	un	CONJ	און	AvN	_
+2	shikt	VBI	שיקט	$ykt	_
+3	vas	WPRO	װאַס	VAas	_
+4	da	ADV	דאַ	dAa	_
+5	moyglikh	ADJ	מױגליך	mWglyX	_
+6	iz	VBF	איז	Ayz	_
+
+SENT	1588E-LETTERS-CRACOW,67.174
+1	un	CONJ	און	AvN	_
+2	shreybt	VBI	שרײבט	$rYbt	_
+3	vi	ADV	װי	Vy	_
+4	fil	Q	פֿיל	fyl	_
+5	ir	PRO	איר	Ayr	_
+6	shikt	VBF	שיקט	$ykt	_
+7	.	PUNC	.	.	_
+
+SENT	1588E-LETTERS-CRACOW,67.175
+1	es	ES	עס	es	_
+2	zeyn	BEF	זײן	zYN	_
+3	beu"h	H	בעו"ה	bev"h	for_sins_our_the_many
+4	fil	Q	פֿיל	fyl	_
+5	heyzr	N	הײזר	hYzr	_
+6	ver_shlusn	VAN	װער_שלוסן	Ver_$lvsN	_
+7	givardn	RDN	גיװאַרדן	gyVAardN	_
+
+SENT	1588E-LETTERS-CRACOW,67.176
+1	dar_mit	DR+P	דאַר_מיט	dAar_myt	_
+2	kumn	VBF	קומן	kvmN	_
+3	di	D	די	dy	_
+4	leyt	N	לײט	lYt	_
+5	beu"h	H	בעו"ה	bev"h	for_sins_our_the_many
+6	oyf	P	אױף	AWF	_
+7	di	D	די	dy	_
+8	ktsbh	N	קצבה	kqbh	_
+
+SENT	1588E-LETTERS-CRACOW,67.177
+1	es	PRO	עס	es	_
+2	hut	VBF	הוט	hvt	_
+3	keyn	Q	קײן	kYN	_
+4	erkh	N	ערך	erX	_
+5	nokh	CONJ	נאָך	nAoX	_
+6	keyn	Q	קײן	kYN	_
+7	shieur	N	שיִעור	$yievr	_
+8	nit	NEG	ניט	nyt	_
+9	.	PUNC	.	.	_
+

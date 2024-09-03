@@ -1,0 +1,2184 @@
+SENT	1624E-MAGEN,1.3
+1	sfr	H	ספֿר	sfr	book
+2	mgn	H	מגן	mgN	shield_of
+3	abrhm	NPR	אַברהם	AabrhM	_
+
+SENT	1624E-MAGEN,1.4
+1	ds	D	דס	ds	_
+2	sfr	N	ספֿר	sfr	_
+3	iz	BEF	איז	Ayz	_
+4	vardn	RDN	װאַרדן	VAardN	_
+5	gimkht	VAN	גימכט	gymxt	_
+6	oyz	P	אױז	AWz	_
+7	lshun	H	לשון	l$vN	language
+8	hkudsh	H	הקודש	hkvd$	the_holy
+9	in	P	אין	AyN	_
+10	teytsh	N	טײטש	tYt$	_
+
+SENT	1624E-MAGEN,1.5
+1	den	CONJ	דען	deN	_
+2	in	P	אין	AyN	_
+3	dizm	D	דיזם	dyzM	_
+4	sfr	N	ספֿר	sfr	_
+5	vert	RDF	װערט	Vert	_
+6	dr_tsilt	VAN	דר_צילט	dr_qylt	_
+7	di	D	די	dy	_
+8	grusi	ADJ	גרוסי	grvsy	_
+9	nisim	H	נסים	nsyM	wonders
+10	vnplaut	H	װנפּלאַוט	VnplAavt	and_miracles
+11	di	WPRO	די	dy	_
+12	hk"bh	H	הק"בה	hk"bh	the_holy_blessed_he
+13	hut	HVF	הוט	hvt	_
+14	gitun	VBN	גיטון	gytvN	_
+15	abraham	NPR	אַבראַהאַם	AabrAahAaM	_
+16	a{b}inu	H	אַ{ב}אינו	Aa{b}Aynv	father_our
+17	e"h	H	ע"ה	e"h	on_him_the_peace
+18	da	C	דאַ	dAa	_
+19	in	PRO	אין	AyN	_
+20	nmrud	NPR	נמרוד	nmrvd	_
+21	hmlkh	H	המלך	hmlX	the_king
+22	hut	HVF	הוט	hvt	_
+23	givarfn	VBN	גיװאַרפֿן	gyVAarfN	_
+24	in	P	אין	AyN	_
+25	klikh_uvn	N	קליכ_וּװן	klyx_UVN	_
+26	vi	C	װי	Vy	_
+27	hk"bh	H	הק"בה	hk"bh	the_holy_blessed_he
+28	iz	BEF	איז	Ayz	_
+29	zelbrt	ADV	זעלברט	zelbrt	_
+30	fun	P	פֿון	fvN	_
+31	himl	N	הימל	hyml	_
+32	hirbr	ADV	הירבר	hyrbr	_
+33	ginidrt	VBN	גינידרט	gynydrt	_
+34	un'	CONJ	אונ'	Avn'	_
+35	hut	HVF	הוט	hvt	_
+36	abrhm	NPR	אַברהם	AabrhM	_
+37	abinu	H	אַבינו	Aabynv	father_our
+38	mtsil	RP-H	מציל	mqyl	_
+39	givest	VBN	גיװעסט	gyVest	_
+40	oys	P	אױס	AWs	_
+41	dem	D	דעם	deM	_
+42	klikh_ubn	N	קליכ_ובן	klyx_vbN	_
+43	un'	CONJ	אונ'	Avn'	_
+44	im	PRO	אים	AyM	_
+45	keyn	Q	קײן	kYN	_
+46	har	N	האַר	hAar	_
+47	iz	BEF	איז	Ayz	_
+48	varn	RDN	װאַרן	VAarN	_
+49	var_zenkt	VAN	װאַר_זענקט	VAar_zenkt	_
+50	nukh	CONJ	נוך	nvX	_
+51	bur_brend	VAN	בור_ברענד	bvr_brend	_
+52	an	P	אַן	AaN	_
+53	zeynm	PRO$	זײנם	zYnM	_
+54	leyb	N	לײב	lYb	_
+55	dr_veyl	C	דר_װײל	dr_VYl	_
+56	er	PRO	ער	er	_
+57	hut	HVF	הוט	hvt	_
+58	gat	NPR	גאַט	gAat	_
+59	i"t	H	אי"ט	Ay"t	may_be_blessed
+60	alzu	ADV	אַלזו	Aalzv	_
+61	vleysig	ADV	װלײסיג	VlYsyg	_
+62	gidint	VBN	גידינט	gydynt	_
+63	mit	P	מיט	myt	_
+64	gntsm	ADJ	גנצם	gnqM	_
+65	hertsn	N	הערצן	herqN	_
+66	un'	CONJ	אונ'	Avn'	_
+67	hut	HVF	הוט	hvt	_
+68	in	PRO	אין	AyN	_
+69	vleysig	ADV	װלײסיג	VlYsyg	_
+70	an	RP	אַן	AaN	_
+71	girufn	VBN	גירופֿן	gyrvfN	_
+72	tsu	TO	צו	qv	_
+73	helfn	VB	העלפֿן	helfN	_
+74	im	PRO	אים	AyM	_
+
+SENT	1624E-MAGEN,1.6
+1	darum	DR+P	דאַרום	dAarvM	_
+2	zul	MDF	זול	zvl	_
+3	iklikhr	Q	איקליכר	Ayklyxr	_
+4	gut	NPR	גוט	gvt	_
+5	i"h	H	אי"ה	Ay"h	may_be_blessed
+6	vleysig	ADV	װלײסיג	VlYsyg	_
+7	dinh	VB	דינה	dynh	_
+
+SENT	1624E-MAGEN,1.7
+1	un'	CONJ	אונ'	Avn'	_
+2	zul	MDF	זול	zvl	_
+3	in	PRO	אין	AyN	_
+4	vleysig	ADV	װלײסיג	VlYsyg	_
+5	an	RP	אַן	AaN	_
+6	rufn	VB	רופֿן	rvfN	_
+7	in	P	אין	AyN	_
+8	zeyn	PRO$	זײן	zYN	_
+9	noytn	N	נױטן	nWtN	_
+
+SENT	1624E-MAGEN,1.8
+1	za	ADV	זאַ	zAa	_
+2	tut	DOF	טוט	tvt	_
+3	in	PRO	אין	AyN	_
+4	gat	NPR	גאַט	gAat	_
+5	i"h	H	אי"ה	Ay"h	may_be_blessed
+6	bur	P	בור	bvr	_
+7	alm	Q	אַלם	AalM	_
+8	boyzn	N	בױזן	bWzN	_
+9	bhitn	VBN	בהיטן	bhytN	_
+
+SENT	1624E-MAGEN,1.9
+1	un'	CONJ	אונ'	Avn'	_
+2	tut	DOF	טוט	tvt	_
+3	zeyn	PRO$	זײן	zYN	_
+4	shtim	N	שטים	$tyM	_
+5	vr_nemn	VB	װר_נעמן	Vr_nemN	_
+6	amn	H	אַמן	AamN	amen
+7	slh	H	סלה	slh	Selah
+
+SENT	1624E-MAGEN,2.11
+1	amru	H	אַמרו	Aamrv	they_said
+2	khkhmim	H	ככמים	xxmyM	wise_men
+3	es	ES	עס	es	_
+4	hbn	HVF	הבן	hbN	_
+5	gizgit	VBN	גיזגיט	gyzgyt	_
+6	unzri	PRO$	אונזרי	Avnzry	_
+7	khkhmim	N	ככמים	xxmyM	_
+8	in	P	אין	AyN	_
+9	der	D	דער	der	_
+10	tseyt	N	צײט	qYt	_
+11	ds	C	דס	ds	_
+12	da	ADV	דאַ	dAa	_
+13	iz	BEF	איז	Ayz	_
+14	vardn	RDN	װאַרדן	VAardN	_
+15	gibarn	VAN	גיבאַרן	gybAarN	_
+16	abrhm	NPR	אַברהם	AabrhM	_
+17	abinu	H	אַבינו	Aabynv	father_our
+18	...	PUNC	...	...	_
+
+SENT	1624E-MAGEN,2.12
+1	da	ADV	דאַ	dAa	_
+2	var	BEF	װאַר	VAar	_
+3	oyf	RP	אױף	AWF	_
+4	gishtndn	VBN	גישטנדן	gy$tndN	_
+5	eyn	D	אײן	AYN	_
+6	kukb	N	קוקב	kvkb	_
+
+SENT	1624E-MAGEN,2.13
+1	un'	CONJ	אונ'	Avn'	_
+2	hut	HVF	הוט	hvt	_
+3	vr_shlundn	VBN	װר_שלונדן	Vr_$lvndN	_
+4	vir	NUM	װיר	Vyr	_
+5	khkbim	H	כקבים	xkbyM	stars
+6	marbe	H	מאַרבע	mAarbe	increase
+7	rukhut	H	רוכוט	rvxvt	winds
+8	hshmim	H	השמים	h$myM	the_heavens
+
+SENT	1624E-MAGEN,2.14
+1	da	C	דאַ	dAa	_
+2	zi	PRO	זי	zy	_
+3	hbin	HVF	הבין	hbyN	_
+4	gizehn	VBN	גיזעהן	gyzehN	_
+5	di	D	די	dy	_
+6	stern_zehr	N	סטערנ_זעהר	stern_zehr	_
+7	fun	P	פֿון	fvN	_
+8	nimrud	NPR	נימרוד	nymrvd	_
+9	hmlkh	H	המלך	hmlX	the_king
+10	alzu	ADV	אַלזו	Aalzv	_
+11	da	ADV	דאַ	dAa	_
+12	zeyn	BEF	זײן	zYN	_
+13	zi	PRO	זי	zy	_
+14	gangan	VBN	גאַנגאַן	gAangAaN	_
+15	tsu	P	צו	qv	_
+16	nmrud	NPR	נמרוד	nmrvd	_
+17	hmlkh	H	המלך	hmlX	the_king
+
+SENT	1624E-MAGEN,2.15
+1	un'	CONJ	אונ'	Avn'	_
+2	hbn	HVF	הבן	hbN	_
+3	gizgit	VBN	גיזגיט	gyzgyt	_
+4	tsu	P	צו	qv	_
+5	im	PRO	אים	AyM	_
+6	es	ES	עס	es	_
+7	iz	BEF	איז	Ayz	_
+8	heyt	ADV	הײט	hYt	_
+9	eynr	PRO	אײנר	AYnr	_
+10	gibarin	VAN	גיבאַרין	gybAaryN	_
+11	givardn	RDN	גיװאַרדן	gyVAardN	_
+12	der	WPRO	דער	der	_
+13	vert	RDF	װערט	Vert	_
+14	erbn	VB	ערבן	erbN	_
+15	tsveya	NUM	צװײאַ	qVYAa	_
+16	eulmut	N	עולמוט	evlmvt	_
+17	eulm_hzh	N	עולמ_הזש	evlm_hz$	_
+18	un'	CONJ	אונ'	Avn'	_
+19	eulm_hba	N	עולמ_הבאַ	evlm_hbAa	_
+
+SENT	1624E-MAGEN,2.16
+1	mn	PRO	מן	mN	_
+2	zul	MDF	זול	zvl	_
+3	in	PRO	אין	AyN	_
+4	titn	VB	טיטן	tytN	_
+
+SENT	1624E-MAGEN,2.17
+1	un'	CONJ	אונ'	Avn'	_
+2	zul	MDF	זול	zvl	_
+3	vtr	N	װטר	Vtr	_
+4	un'	CONJ	אונ'	Avn'	_
+5	mutr	N	מוטר	mvtr	_
+6	gebn	VB	געבן	gebN	_
+7	vs	WPRO	װס	Vs	_
+8	zi	PRO	זי	zy	_
+9	bigerin	VBF	ביגערין	bygeryN	_
+10	var	P	װאַר	VAar	_
+11	in	PRO	אין	AyN	_
+
+SENT	1624E-MAGEN,2.18
+1	da	ADV	דאַ	dAa	_
+2	zgit	VBF	זגיט	zgyt	_
+3	nmrud	NPR	נמרוד	nmrvd	_
+4	vidr	ADV	װידר	Vydr	_
+5	vs	WPRO	װס	Vs	_
+6	iz	VBF	איז	Ayz	_
+7	ds	D	דס	ds	_
+8	fun	P	פֿון	fvN	_
+9	dem	D	דעם	deM	_
+10	zun	N	זון	zvN	_
+11	der	WPRO	דער	der	_
+12	da	ADV	דאַ	dAa	_
+13	iz	BEF	איז	Ayz	_
+14	gibarin	VAN	גיבאַרין	gybAaryN	_
+15	ds	C	דס	ds	_
+16	ir	PRO	איר	Ayr	_
+17	in	PRO	אין	AyN	_
+18	bigert	VBF	ביגערט	bygert	_
+19	tsu	TO	צו	qv	_
+20	titn	VB	טיטן	tytN	_
+
+SENT	1624E-MAGEN,2.19
+1	da	ADV	דאַ	dAa	_
+2	shprakhn	VBF	שפּראַכן	$prAaxN	_
+3	zi	PRO	זי	zy	_
+4	vidr	ADV	װידר	Vydr	_
+5	tsu	P	צו	qv	_
+6	im	PRO	אים	AyM	_
+7	in	P	אין	AyN	_
+8	der	D	דער	der	_
+9	tseyt	N	צײט	qYt	_
+10	dz	C	דז	dz	_
+11	er	PRO	ער	er	_
+12	iz	BEF	איז	Ayz	_
+13	varn	RDN	װאַרן	VAarN	_
+14	gibarin	VAN	גיבאַרין	gybAaryN	_
+15	da	ADV	דאַ	dAa	_
+16	iz	BEF	איז	Ayz	_
+17	oyf	RP	אױף	AWF	_
+18	gishtndn	VBN	גישטנדן	gy$tndN	_
+19	eyn	D	אײן	AYN	_
+20	kukb	N	קוקב	kvkb	_
+
+SENT	1624E-MAGEN,2.20
+1	un'	CONJ	אונ'	Avn'	_
+2	hut	HVF	הוט	hvt	_
+3	vr_shlundn	VBN	װר_שלונדן	Vr_$lvndN	_
+4	vir	NUM	װיר	Vyr	_
+5	kukhbim	N	קוכבים	kvxbyM	_
+6	vun	P	װוּן	VUN	_
+7	vir	NUM	װיר	Vyr	_
+8	zeytn	N	זײטן	zYtN	_
+9	ds	D	דס	ds	_
+10	himls	N	הימלס	hymls	_
+
+SENT	1624E-MAGEN,2.21
+1	un'	CONJ	אונ'	Avn'	_
+2	hintn_nukh	ADV	הינטנ_נוך	hyntn_nvX	_
+3	vert	RDF	װערט	Vert	_
+4	er	PRO	ער	er	_
+5	erbn	VB	ערבן	erbN	_
+6	eulm_hzh	N	עולמ_הזש	evlm_hz$	_
+7	un'	CONJ	אונ'	Avn'	_
+8	eulm_hba	N	עולמ_הבאַ	evlm_hbAa	_
+
+SENT	1624E-MAGEN,2.22
+1	da	ADV	דאַ	dAa	_
+2	zgt	VBF	זגט	zgt	_
+3	nmrud	NPR	נמרוד	nmrvd	_
+4	tsu	P	צו	qv	_
+5	di	D	די	dy	_
+6	sternzehr	N	סטערנזעהר	sternzehr	_
+7	ves	WPRO	װעס	Ves	_
+8	ds	D	דס	ds	_
+9	kind	N	קינד	kynd	_
+10	iz	BEF	איז	Ayz	_
+11	vardn	RDN	װאַרדן	VAardN	_
+12	gibarn	VAN	גיבאַרן	gybAarN	_
+
+SENT	1624E-MAGEN,2.23
+1	da	ADV	דאַ	dAa	_
+2	sprakhn	VBF	ספּראַכן	sprAaxN	_
+3	zi	PRO	זי	zy	_
+4	vidr	ADV	װידר	Vydr	_
+5	trkh	NPR	טרך	trX	_
+6	iz	BEF	איז	Ayz	_
+7	eyn	D	אײן	AYN	_
+8	zun	N	זון	zvN	_
+9	gibarin	VAN	גיבאַרין	gybAaryN	_
+10	varn	RDN	װאַרן	VAarN	_
+
+SENT	1624E-MAGEN,2.24
+1	da	ADV	דאַ	dAa	_
+2	shigit	VBF	שיגיט	$ygyt	_
+3	nmrud	NPR	נמרוד	nmrvd	_
+4	nukh	P	נוך	nvX	_
+5	trkh	NPR	טרך	trX	_
+
+SENT	1624E-MAGEN,2.25
+1	un	CONJ	און	AvN	_
+2	vrugt	VBF	װרוגט	Vrvgt	_
+3	in	PRO	אין	AyN	_
+4	ub	C	אוב	Avb	_
+5	im	PRO	אים	AyM	_
+6	ver	BEF	װער	Ver	_
+7	eyn	D	אײן	AYN	_
+8	zun	N	זון	zvN	_
+9	gibirn	VAN	גיבירן	gybyrN	_
+10	givardn	RDN	גיװאַרדן	gyVAardN	_
+
+SENT	1624E-MAGEN,2.26
+1	sprakh	VBF	ספּראַך	sprAaX	_
+2	er	PRO	ער	er	_
+3	yu	INTJ	יו	yv	_
+
+SENT	1624E-MAGEN,2.27
+1	da	ADV	דאַ	dAa	_
+2	sprakh	VBF	ספּראַך	sprAaX	_
+3	nimrud	NPR	נימרוד	nymrvd	_
+4	vidr	ADV	װידר	Vydr	_
+5	tsu	P	צו	qv	_
+6	trkh	NPR	טרך	trX	_
+7	gib	VBI	גיב	gyb	_
+8	mir	PRO	מיר	myr	_
+9	in	PRO	אין	AyN	_
+
+SENT	1624E-MAGEN,2.28
+1	ikh	PRO	איך	AyX	_
+2	vil	MDF	װיל	Vyl	_
+3	in	PRO	אין	AyN	_
+4	titn	VB	טיטן	tytN	_
+
+SENT	1624E-MAGEN,2.29
+1	un'	CONJ	אונ'	Avn'	_
+2	vil	MDF	װיל	Vyl	_
+3	dir	PRO	דיר	dyr	_
+4	gebn	VB	געבן	gebN	_
+5	dr_var	DR+P	דר_װאַר	dr_VAar	_
+6	vs	WPRO	װס	Vs	_
+7	du	PRO	דו	dv	_
+8	bigerst	VBF	ביגערסט	bygerst	_
+9	fun	P	פֿון	fvN	_
+10	mir	PRO	מיר	myr	_
+
+SENT	1624E-MAGEN,2.30
+1	da	ADV	דאַ	dAa	_
+2	sprakh	VBF	ספּראַך	sprAaX	_
+3	trkh	NPR	טרך	trX	_
+4	der	D	דער	der	_
+5	vtr	N	װטר	Vtr	_
+6	fun	P	פֿון	fvN	_
+7	abrhm	NPR	אַברהם	AabrhM	_
+8	abinu	H	אַבינו	Aabynv	father_our
+9	tsu	P	צו	qv	_
+10	nmrud	NPR	נמרוד	nmrvd	_
+11	hmlkh	H	המלך	hmlX	the_king
+12	es	ES	עס	es	_
+13	iz	VBF	איז	Ayz	_
+14	eyn	D	אײן	AYN	_
+15	gleykhns	N	גלײכנס	glYxns	_
+16	tsu	P	צו	qv	_
+17	eynm	D	אײנם	AYnM	_
+18	moyl_oyzl	N	מױל_ױזל	mWl_Wzl	_
+19	ds	C	דס	ds	_
+20	eyn	D	אײן	AYN	_
+21	mensh	N	מענש	men$	_
+22	tsu	P	צו	qv	_
+23	im	PRO	אים	AyM	_
+24	shprkh	VBF	שפּרך	$prX	_
+25	ikh	PRO	איך	AyX	_
+26	vil	MDF	װיל	Vyl	_
+27	dir	PRO	דיר	dyr	_
+28	gebn	VB	געבן	gebN	_
+29	eyn	D	אײן	AYN	_
+30	mltr	N	מלטר	mltr	_
+31	gerstn	N	גערסטן	gerstN	_
+
+SENT	1624E-MAGEN,2.31
+1	lus	VBI	לוס	lvs	_
+2	dir	PRO	דיר	dyr	_
+3	deyn	PRO$	דײן	dYN	_
+4	kap	N	קאַפּ	kAap	_
+5	ab	RP	אַב	Aab	_
+6	shneydn	VB	שנײדן	$nYdN	_
+
+SENT	1624E-MAGEN,2.32
+1	za	ADV	זאַ	zAa	_
+2	entvurt	VBF	ענטװוּרט	entVUrt	_
+3	der	D	דער	der	_
+4	moyl_oyzl	N	מױל_ױזל	mWl_Wzl	_
+5	vidr	ADV	װידר	Vydr	_
+6	di	D	די	dy	_
+7	gerstn	N	גערסטן	gerstN	_
+8	di	WPRO	די	dy	_
+9	du	PRO	דו	dv	_
+10	mir	PRO	מיר	myr	_
+11	gibst	VBF	גיבסט	gybst	_
+12	ver	WPRO	װער	Ver	_
+13	zul	MDF	זול	zvl	_
+14	zi	PRO	זי	zy	_
+15	esn	VB	עסן	esN	_
+16	ven	C	װען	VeN	_
+17	du	PRO	דו	dv	_
+18	mir	PRO	מיר	myr	_
+19	meyn	PRO$	מײן	mYN	_
+20	kop	N	קאָפּ	kAop	_
+21	ab	RP	אַב	Aab	_
+22	shneydst	VBF	שנײדסט	$nYdst	_
+
+SENT	1624E-MAGEN,2.33
+1	azu	ADV	אַזו	Aazv	_
+2	oykh	ADV	אױך	AWX	_
+3	ven	C	װען	VeN	_
+4	ir	PRO	איר	Ayr	_
+5	mir	PRO	מיר	myr	_
+6	meyn	PRO$	מײן	mYN	_
+7	zun	N	זון	zvN	_
+8	um	RP	אום	AvM	_
+9	brengt	VBF	ברענגט	brengt	_
+
+SENT	1624E-MAGEN,2.34
+1	di	D	די	dy	_
+2	nkhsim	N	נכסים	nxsyM	_
+3	ds	C	דס	ds	_
+4	ir	PRO	איר	Ayr	_
+5	mir	PRO	מיר	myr	_
+6	gebt	VBF	געבט	gebt	_
+7	ver	WPRO	װער	Ver	_
+8	vert	RDF	װערט	Vert	_
+9	es	PRO	עס	es	_
+10	irsn	VB	אירסן	AyrsN	_
+
+SENT	1624E-MAGEN,2.35
+1	da	C	דאַ	dAa	_
+2	ds	D	דס	ds	_
+3	trkh	NPR	טרך	trX	_
+4	hert	VBF	הערט	hert	_
+5	fun	P	פֿון	fvN	_
+6	nmrud	NPR	נמרוד	nmrvd	_
+7	da	ADV	דאַ	dAa	_
+8	vr_burig	VBF	װר_בוריג	Vr_bvryg	_
+9	er	PRO	ער	er	_
+10	abrhm	NPR	אַברהם	AabrhM	_
+11	zeyn	PRO$	זײן	zYN	_
+12	zun	N	זון	zvN	_
+13	in	P	אין	AyN	_
+14	eyn	D	אײן	AYN	_
+15	hoyl	N	הױל	hWl	_
+16	drey	NUM	דרײ	drY	_
+17	yar	N	יאַר	yAar	_
+
+SENT	1624E-MAGEN,2.36
+1	un	CONJ	און	AvN	_
+2	nakh	P	נ"ך	n"X	_
+3	drey	NUM	דרײ	drY	_
+4	yar	N	יאַר	yAar	_
+5	tsukh	VBF	צוך	qvX	_
+6	er	PRO	ער	er	_
+7	in	PRO	אין	AyN	_
+8	oys	P	אױס	AWs	_
+9	der	D	דער	der	_
+10	hiln	N	הילן	hylN	_
+
+SENT	1624E-MAGEN,2.37
+1	un	CONJ	און	AvN	_
+2	da	ADV	דאַ	dAa	_
+3	zkh	VBF	זך	zX	_
+4	abrhm	NPR	אַברהם	AabrhM	_
+5	di	D	די	dy	_
+6	zun	N	זון	zvN	_
+7	di	D	די	dy	_
+8	sheynd	VBF	שײנד	$Ynd	_
+9	tsu	P	צו	qv	_
+10	mzkh	N	מזך	mzX	_
+
+SENT	1624E-MAGEN,3.39
+1	da	ADV	דאַ	dAa	_
+2	gidukht	VBF	גידוכט	gydvxt	_
+3	er	PRO	ער	er	_
+4	in	P	אין	AyN	_
+5	zeynm	PRO$	זײנם	zYnM	_
+6	zin	N	זין	zyN	_
+7	zul	MDF	זול	zvl	_
+8	ds	D	דס	ds	_
+9	der	D	דער	der	_
+10	her	N	הער	her	_
+11	fun	P	פֿון	fvN	_
+12	der	D	דער	der	_
+13	gnts	ADJ	גנץ	gnQ	_
+14	velt	N	װעלט	Velt	_
+15	zeyn	VB	זײן	zYN	_
+
+SENT	1624E-MAGEN,3.40
+1	un'	CONJ	אונ'	Avn'	_
+2	tsu	P	צו	qv	_
+3	im	PRO	אים	AyM	_
+4	zul	MDF	זול	zvl	_
+5	ikh	PRO	איך	AyX	_
+6	tfilh	RP-H	טפֿילה	tfylh	_
+7	tun	DO	טון	tvN	_
+8	ds	C	דס	ds	_
+9	er	PRO	ער	er	_
+10	mikh	PRO	מיך	myX	_
+11	hat	HVF	האַט	hAat	_
+12	gishafin	VBN	גישאַפֿין	gy$AafyN	_
+13	un'	CONJ	אונ'	Avn'	_
+14	di	D	די	dy	_
+15	gnts	ADJ	גנץ	gnQ	_
+16	velt	N	װעלט	Velt	_
+
+SENT	1624E-MAGEN,3.41
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	veyl	N	װײל	VYl	_
+4	ds	C	דס	ds	_
+5	er	PRO	ער	er	_
+6	hat	HVF	האַט	hAat	_
+7	gizehn	VBN	גיזעהן	gyzehN	_
+8	di	D	די	dy	_
+9	lvnh	N	לװנה	lVnh	_
+10	oyf	RP	אױף	AWF	_
+11	gin	VB	גין	gyN	_
+12	da	ADV	דאַ	dAa	_
+13	gidukht	VBF	גידוכט	gydvxt	_
+14	er	PRO	ער	er	_
+15	in	P	אין	AyN	_
+16	zeynm	PRO$	זײנם	zYnM	_
+17	zin	N	זין	zyN	_
+18	zul	MDF	זול	zvl	_
+19	ds	D	דס	ds	_
+20	der	D	דער	der	_
+21	her	N	הער	her	_
+22	fun	P	פֿון	fvN	_
+23	der	D	דער	der	_
+24	velt	N	װעלט	Velt	_
+25	zeyn	VB	זײן	zYN	_
+
+SENT	1624E-MAGEN,3.42
+1	un'	CONJ	אונ'	Avn'	_
+2	tsu	P	צו	qv	_
+3	im	PRO	אים	AyM	_
+4	zul	MDF	זול	zvl	_
+5	ikh	PRO	איך	AyX	_
+6	tun	VB	טון	tvN	_
+7	meyn	PRO$	מײן	mYN	_
+8	tfilh	N	טפֿילה	tfylh	_
+9	ds	C	דס	ds	_
+10	er	PRO	ער	er	_
+11	mikh	PRO	מיך	myX	_
+12	hat	HVF	האַט	hAat	_
+13	gishafin	VBN	גישאַפֿין	gy$AafyN	_
+14	un'	CONJ	אונ'	Avn'	_
+15	di	D	די	dy	_
+16	gnts	ADJ	גנץ	gnQ	_
+17	velt	N	װעלט	Velt	_
+
+SENT	1624E-MAGEN,3.43
+1	tsu	P	צו	qv	_
+2	murgis	N	מורגיס	mvrgys	_
+3	ht	HVF	הט	ht	_
+4	er	PRO	ער	er	_
+5	vidr	ADV	װידר	Vydr	_
+6	gizehn	VBN	גיזעהן	gyzehN	_
+7	di	D	די	dy	_
+8	zun	N	זון	zvN	_
+9	oyf	RP	אױף	AWF	_
+10	gin	VB	גין	gyN	_
+
+SENT	1624E-MAGEN,3.44
+1	da	ADV	דאַ	dAa	_
+2	sprakh	VBF	ספּראַך	sprAaX	_
+3	abrhm	NPR	אַברהם	AabrhM	_
+4	di	D	די	dy	_
+5	zeyn	VBF	זײן	zYN	_
+6	ali	Q	אַלי	Aaly	_
+7	bey	Q	בײ	bY	_
+8	nit	NEG	ניט	nyt	_
+9	her	N	הער	her	_
+
+SENT	1624E-MAGEN,3.45
+1	neyart	FP	נײאַרט	nYAart	_
+2	zi	PRO	זי	zy	_
+3	zeyn	VBF	זײן	zYN	_
+4	ali	Q	אַלי	Aaly	_
+5	beyd	Q	בײד	bYd	_
+6	ebdim	N	עבדים	ebdyM	_
+7	tsu	P	צו	qv	_
+8	eynm	D	אײנם	AYnM	_
+9	herin	N	הערין	heryN	_
+
+SENT	1624E-MAGEN,3.46
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	zelbig	ADJ	זעלביג	zelbyg	_
+4	her	N	הער	her	_
+5	der	D	דער	der	_
+6	hut	HVF	הוט	hvt	_
+7	bishafin	VBN	בישאַפֿין	by$AafyN	_
+8	himl	N	הימל	hyml	_
+9	un'	CONJ	אונ'	Avn'	_
+10	di	D	די	dy	_
+11	erd	N	ערד	erd	_
+12	un'	CONJ	אונ'	Avn'	_
+13	den	D	דען	deN	_
+14	gntsn	ADJ	גנצן	gnqN	_
+15	eulm	N	עולם	evlM	_
+
+SENT	1624E-MAGEN,3.47
+1	alzu_bld	ADV	אַלזו_בלד	Aalzv_bld	_
+2	frugt	VBF	פֿרוגט	frvgt	_
+3	abrhm	NPR	אַברהם	AabrhM	_
+4	tsu	P	צו	qv	_
+5	zeynm	PRO$	זײנם	zYnM	_
+6	vtr	N	װטר	Vtr	_
+7	trkh	NPR	טרך	trX	_
+8	ver	WPRO	װער	Ver	_
+9	hut	HVF	הוט	hvt	_
+10	bishafin	VBN	בישאַפֿין	by$AafyN	_
+11	himl	N	הימל	hyml	_
+12	un'	CONJ	אונ'	Avn'	_
+13	di	D	די	dy	_
+14	erd	N	ערד	erd	_
+
+SENT	1624E-MAGEN,3.48
+1	da	ADV	דאַ	dAa	_
+2	sprakh	VBF	ספּראַך	sprAaX	_
+3	trkh	NPR	טרך	trX	_
+4	vidr	ADV	װידר	Vydr	_
+5	ds	D	דס	ds	_
+6	gleykhnis	N	גלײכניס	glYxnys	_
+7	fun	P	פֿון	fvN	_
+8	dizm	D	דיזם	dyzM	_
+9	furm	N	פֿורם	fvrM	_
+10	ds	WPRO	דס	ds	_
+11	da	ADV	דאַ	dAa	_
+12	shtit	VBF	שטיט	$tyt	_
+13	ds	D	דס	ds	_
+14	hut	HVF	הוט	hvt	_
+15	es	PRO	עס	es	_
+16	bishafn	VBN	בישאַפֿן	by$AafN	_
+
+SENT	1624E-MAGEN,3.49
+1	un	CONJ	און	AvN	_
+2	hut	HVF	הוט	hvt	_
+3	al	Q	אַל	Aal	_
+4	ding	N	דינג	dyng	_
+5	bishafn	VBN	בישאַפֿן	by$AafN	_
+
+SENT	1624E-MAGEN,3.50
+1	den	CONJ	דען	deN	_
+2	in	P	אין	AyN	_
+3	der	D	דער	der	_
+4	zelbign	ADJ	זעלביגן	zelbygN	_
+5	tseyt	N	צײט	qYt	_
+6	hbn	HVF	הבן	hbN	_
+7	zi	PRO	זי	zy	_
+8	an	P	אַן	AaN	_
+9	di	D	די	dy	_
+10	zun	N	זון	zvN	_
+11	un'	CONJ	אונ'	Avn'	_
+12	an	P	אַן	AaN	_
+13	di	D	די	dy	_
+14	lbnh	N	לבנה	lbnh	_
+15	gikloybt	VBN	גיקלױבט	gyklWbt	_
+16	un'	CONJ	אונ'	Avn'	_
+17	an	P	אַן	AaN	_
+18	di	D	די	dy	_
+19	shterin	N	שטערין	$teryN	_
+
+SENT	1624E-MAGEN,3.51
+1	da	ADV	דאַ	dAa	_
+2	ht	HVF	הט	ht	_
+3	trkh	NPR	טרך	trX	_
+4	vil	Q	װיל	Vyl	_
+5	gleykhnis	N	גלײכניס	glYxnys	_
+6	giht	VBN	גיהט	gyht	_
+7	zeyn	PRO$	זײן	zYN	_
+8	tfilt	N	טפֿילט	tfylt	_
+9	tsu	P	צו	qv	_
+10	zi	PRO	זי	zy	_
+11	tsu	TO	צו	qv	_
+12	tun	VB	טון	tvN	_
+
+SENT	1624E-MAGEN,3.52
+1	da	ADV	דאַ	dAa	_
+2	sprakh	VBF	ספּראַך	sprAaX	_
+3	abrhm	NPR	אַברהם	AabrhM	_
+4	tsu	P	צו	qv	_
+5	trkh	NPR	טרך	trX	_
+6	mkh	VBI	מך	mX	_
+7	mir	PRO	מיר	myr	_
+8	eyn	D	אײן	AYN	_
+9	kleynn	ADJ	קלײנן	klYnN	_
+10	kukhn	N	קוכן	kvxN	_
+11	fun	P	פֿון	fvN	_
+12	zemil_mel	N	זעמיל_מעל	zemyl_mel	_
+
+SENT	1624E-MAGEN,3.53
+1	den	D	דען	deN	_
+2	vil	MDF	װיל	Vyl	_
+3	ikh	PRO	איך	AyX	_
+4	mkrb	RP-H	מקרב	mkrb	_
+5	zeyn	VB	זײן	zYN	_
+6	var	P	װאַר	VAar	_
+7	zi	PRO	זי	zy	_
+
+SENT	1624E-MAGEN,3.54
+1	als	ADV	אַלס	Aals	_
+2	bld	ADV	בלד	bld	_
+3	mkht	VBF	מכט	mxt	_
+4	im	PRO	אים	AyM	_
+5	trkh	NPR	טרך	trX	_
+6	eyn	D	אײן	AYN	_
+7	kukh	N	קוך	kvX	_
+8	fun	P	פֿון	fvN	_
+9	semil_mel	N	סעמיל_מעל	semyl_mel	_
+
+SENT	1624E-MAGEN,3.55
+1	vas	WPRO	װאַס	VAas	_
+2	tet	VBF	טעט	tet	_
+3	abrhm	NPR	אַברהם	AabrhM	_
+
+SENT	1624E-MAGEN,3.56
+1	er	PRO	ער	er	_
+2	nem	VBF	נעם	neM	_
+3	den	D	דען	deN	_
+4	kukhn	N	קוכן	kvxN	_
+
+SENT	1624E-MAGEN,3.57
+1	un	CONJ	און	AvN	_
+2	var	VBF	װאַר	VAar	_
+3	in	PRO	אין	AyN	_
+4	mkrib	RP-H	מקריב	mkryb	_
+5	var	P	װאַר	VAar	_
+6	zi	PRO	זי	zy	_
+
+SENT	1624E-MAGEN,3.58
+1	un	CONJ	און	AvN	_
+2	zgit	VBF	זגיט	zgyt	_
+3	tsu	P	צו	qv	_
+4	zi	PRO	זי	zy	_
+
+SENT	1624E-MAGEN,3.59
+1	zeyt	VBI	זײט	zYt	_
+2	mkbl	RP-H	מקבל	mkbl	_
+3	fun	P	פֿון	fvN	_
+4	mir	PRO	מיר	myr	_
+5	ds	D	דס	ds	_
+6	krbn	N	קרבן	krbN	_
+
+SENT	1624E-MAGEN,3.60
+1	da	ADV	דאַ	dAa	_
+2	valtn	MDF	װאַלטן	VAaltN	_
+3	zi	PRO	זי	zy	_
+4	es	PRO	עס	es	_
+5	nit	NEG	ניט	nyt	_
+6	an	RP	אַן	AaN	_
+7	nemn	VB	נעמן	nemN	_
+8	tsu	TO	צו	qv	_
+9	esn	VB	עסן	esN	_
+10	nakh	CONJ	נ"ך	n"X	_
+11	tsu	TO	צו	qv	_
+12	trinkn	VB	טרינקן	trynkN	_
+
+SENT	1624E-MAGEN,3.61
+1	vas	WPRO	װאַס	VAas	_
+2	tat	VBF	טאַט	tAat	_
+3	abrhm	NPR	אַברהם	AabrhM	_
+
+SENT	1624E-MAGEN,3.62
+1	er	PRO	ער	er	_
+2	mkht	VBF	מכט	mxt	_
+3	eyn	D	אײן	AYN	_
+4	veyar	N	װײאַר	VYAar	_
+5	an	RP	אַן	AaN	_
+
+SENT	1624E-MAGEN,3.63
+1	un	CONJ	און	AvN	_
+2	vr_brend	VBF	װר_ברענד	Vr_brend	_
+3	di	D	די	dy	_
+4	zelbn	ADJ	זעלבן	zelbN	_
+5	bildr	N	בילדר	byldr	_
+6	ali	Q	אַלי	Aaly	_
+7	mit	P	מיט	myt	_
+8	anndr	PRO	אַננדר	Aanndr	_
+
+SENT	1624E-MAGEN,3.64
+1	als	ADV	אַלס	Aals	_
+2	bld	ADV	בלד	bld	_
+3	gang	VBF	גאַנג	gAang	_
+4	oyf	P	אױף	AWF	_
+5	im	PRO	אים	AyM	_
+6	di	D	די	dy	_
+7	nbuat	N	נבואַט	nbvAat	_
+8	einim	H	עיִנים	eyinyM	eyes
+9	oygn	N	אױגן	AWgN	_
+10	hbn	VBF	הבן	hbN	_
+11	zi	PRO	זי	zy	_
+
+SENT	1624E-MAGEN,3.65
+1	un	CONJ	און	AvN	_
+2	da	C	דאַ	dAa	_
+3	nun	ADV	נ	n	_
+4	trkh	NPR	טרך	trX	_
+5	iz	BEF	איז	Ayz	_
+6	kumn	VBN	קומן	kvmN	_
+7	un	CONJ	און	AvN	_
+8	hut	HVF	הוט	hvt	_
+9	gifundn	VBN	גיפֿונדן	gyfvndN	_
+10	ds	C	דס	ds	_
+11	di	D	די	dy	_
+12	bildr	N	בילדר	byldr	_
+13	ds	D	דס	ds	_
+14	gleykhnis	N	גלײכניס	glYxnys	_
+15	fun	P	פֿון	fvN	_
+16	der	D	דער	der	_
+17	zunn	N	זונן	zvnN	_
+18	is	BEF	איס	Ays	_
+19	vardn	RDN	װאַרדן	VAardN	_
+20	vr_brent	VAN	װר_ברענט	Vr_brent	_
+21	da	ADV	דאַ	dAa	_
+22	zgt	VBF	זגט	zgt	_
+23	er	PRO	ער	er	_
+24	tsu	P	צו	qv	_
+25	abrhm	NPR	אַברהם	AabrhM	_
+26	ver	WPRO	װער	Ver	_
+27	hut	HVF	הוט	hvt	_
+28	mir	PRO	מיר	myr	_
+29	di	D	די	dy	_
+30	bildr	N	בילדר	byldr	_
+31	bur_brend	VBN	בור_ברענד	bvr_brend	_
+
+SENT	1624E-MAGEN,3.66
+1	da	ADV	דאַ	dAa	_
+2	zgit	VBF	זגיט	zgyt	_
+3	abrhm	NPR	אַברהם	AabrhM	_
+4	di	D	די	dy	_
+5	grusi	N	גרוסי	grvsy	_
+6	hbn	HVF	הבן	hbN	_
+7	di	D	די	dy	_
+8	kleynn	N	קלײנן	klYnN	_
+9	vr_brend	VBN	װר_ברענד	Vr_brend	_
+10	veyl	C	װײל	VYl	_
+11	zi	PRO	זי	zy	_
+12	brugz	ADJ	ברוגז	brvgz	_
+13	zeyn	BEF	זײן	zYN	_
+14	ibr	P	איבר	Aybr	_
+15	zi	PRO	זי	zy	_
+16	givest	VBN	גיװעסט	gyVest	_
+
+SENT	1624E-MAGEN,4.68
+1	da	ADV	דאַ	dAa	_
+2	hab	HVF	האַב	hAab	_
+3	ikh	PRO	איך	AyX	_
+4	di	D	די	dy	_
+5	grusi	N	גרוסי	grvsy	_
+6	oykh	ADV	אױך	AWX	_
+7	vr_brend	VBN	װר_ברענד	Vr_brend	_
+
+SENT	1624E-MAGEN,4.69
+1	da	ADV	דאַ	dAa	_
+2	zgt	VBF	זגט	zgt	_
+3	trkh	NPR	טרך	trX	_
+4	du	PRO	דו	dv	_
+5	shuth	N	שוטה	$vth	_
+6	der	WPRO	דער	der	_
+7	da	ADV	דאַ	dAa	_
+8	nit	NEG	ניט	nyt	_
+9	hert	VBF	הערט	hert	_
+10	un	CONJ	און	AvN	_
+11	nit	NEG	ניט	nyt	_
+12	zikht	VBF	זיכט	zyxt	_
+13	un	CONJ	און	AvN	_
+14	nit	NEG	ניט	nyt	_
+15	git	VBF	גיט	gyt	_
+16	vi	WADV	װי	Vy	_
+17-18	zgstu	VBF~PRO	זגסטו	zgstv	_
+17	zgs	VBF	זגס	zgs	_
+18	tu	PRO	טו	tv	_
+19	ds	C	דס	ds	_
+20	er	PRO	ער	er	_
+21	zi	PRO	זי	zy	_
+22	vr_brent	VBN	װר_ברענט	Vr_brent	_
+23	hat	HVF	האַט	hAat	_
+
+SENT	1624E-MAGEN,4.70
+1	alzu_bld	ADV	אַלזו_בלד	Aalzv_bld	_
+2	sprakh	VBF	ספּראַך	sprAaX	_
+3	abrhm	NPR	אַברהם	AabrhM	_
+4	vidr	ADV	װידר	Vydr	_
+5	meyn	PRO$	מײן	mYN	_
+6	vtr	N	װטר	Vtr	_
+7	her	VBI	הער	her	_
+8	tsu	RP	צו	qv	_
+9	deynn	PRO$	דײנן	dYnN	_
+10	urn	N	אורן	AvrN	_
+11	vs	WPRO	װס	Vs	_
+12	du	PRO	דו	dv	_
+13	oys	P	אױס	AWs	_
+14	deynm	PRO$	דײנם	dYnM	_
+15	moyl	N	מױל	mWl	_
+16	retst	VBF	רעצט	reqt	_
+
+SENT	1624E-MAGEN,4.71
+1	varum	WPRO+P	װאַרום	VAarvM	_
+2-3	vr_lustu	VBF~PRO	װר_לוסטו	Vr_lvstv	_
+2	vr_lus	VBF	װר_לוס	Vr_lvs	_
+3	tu	PRO	טו	tv	_
+4	gut	NPR	גוט	gvt	_
+5	der	WPRO	דער	der	_
+6	da	ADV	דאַ	dAa	_
+7	hat	HVF	האַט	hAat	_
+8	bishafin	VBN	בישאַפֿין	by$AafyN	_
+9	himl	N	הימל	hyml	_
+10	un'	CONJ	אונ'	Avn'	_
+11	di	D	די	dy	_
+12	erd	N	ערד	erd	_
+13	un'	CONJ	אונ'	Avn'	_
+14	dinst	VBF	דינסט	dynst	_
+15	andri	ADJ	אַנדרי	Aandry	_
+16	getir	N	געטיר	getyr	_
+17	di	WPRO	די	dy	_
+18	da	ADV	דאַ	dAa	_
+19	nit	NEG	ניט	nyt	_
+20	zehn	VBF	זעהן	zehN	_
+21	nukh	CONJ	נוך	nvX	_
+22	hern	VBF	הערן	herN	_
+
+SENT	1624E-MAGEN,4.72
+1	als	ADV	אַלס	Aals	_
+2	bld	ADV	בלד	bld	_
+3	gang	VBF	גאַנג	gAang	_
+4	trkh	NPR	טרך	trX	_
+5	tsu	P	צו	qv	_
+6	nmrud	NPR	נמרוד	nmrvd	_
+
+SENT	1624E-MAGEN,4.73
+1	ver	WPRO	װער	Ver	_
+2	da	ADV	דאַ	dAa	_
+3	vr_brent	VBF	װר_ברענט	Vr_brent	_
+4	di	D	די	dy	_
+5	bildr	N	בילדר	byldr	_
+6	vs	WPRO	װס	Vs	_
+7	zul	MDF	זול	zvl	_
+8	mn	PRO	מן	mN	_
+9	im	PRO	אים	AyM	_
+10	tun	VB	טון	tvN	_
+
+SENT	1624E-MAGEN,4.74
+1	da	ADV	דאַ	dAa	_
+2	sprakh	VBF	ספּראַך	sprAaX	_
+3	nmrud	NPR	נמרוד	nmrvd	_
+4	ver	WPRO	װער	Ver	_
+5	iz	VBF	איז	Ayz	_
+6	der	D	דער	der	_
+
+SENT	1624E-MAGEN,4.75
+1	da	ADV	דאַ	dAa	_
+2	sprakh	VBF	ספּראַך	sprAaX	_
+3	trkh	NPR	טרך	trX	_
+4	abrhm	NPR	אַברהם	AabrhM	_
+5	meyn	PRO$	מײן	mYN	_
+6	zun	N	זון	zvN	_
+7	,	PUNC	,	,	_
+8	der	D	דער	der	_
+9	hut	HVF	הוט	hvt	_
+10	zi	PRO	זי	zy	_
+11	vr_brend	VBN	װר_ברענד	Vr_brend	_
+
+SENT	1624E-MAGEN,4.76
+1	da	ADV	דאַ	dAa	_
+2	sprakh	VBF	ספּראַך	sprAaX	_
+3	abrhm	NPR	אַברהם	AabrhM	_
+4	vidr	ADV	װידר	Vydr	_
+5	ikh	PRO	איך	AyX	_
+6	hb	HVF	הב	hb	_
+7	zi	PRO	זי	zy	_
+8	nit	NEG	ניט	nyt	_
+9	vr_brend	VBN	װר_ברענד	Vr_brend	_
+
+SENT	1624E-MAGEN,4.77
+1	da	ADV	דאַ	dAa	_
+2	zgit	VBF	זגיט	zgyt	_
+3	er	PRO	ער	er	_
+4	vidr	ADV	װידר	Vydr	_
+5	ver	WPRO	װער	Ver	_
+6	hut	HVF	הוט	hvt	_
+7	zi	PRO	זי	zy	_
+8	den	ADV	דען	deN	_
+9	br_brend	VBN	בר_ברענד	br_brend	_
+
+SENT	1624E-MAGEN,4.78
+1	da	ADV	דאַ	dAa	_
+2	zgt	VBF	זגט	zgt	_
+3	abrhm	NPR	אַברהם	AabrhM	_
+4	der	D	דער	der	_
+5	grus	ADJ	גרוס	grvs	_
+6	fun	P	פֿון	fvN	_
+7	zi	PRO	זי	zy	_
+8	hut	HVF	הוט	hvt	_
+9	di	D	די	dy	_
+10	kleynn	N	קלײנן	klYnN	_
+11	vr_brend	VBN	װר_ברענד	Vr_brend	_
+12	veyl	C	װײל	VYl	_
+13	er	PRO	ער	er	_
+14	brugz	ADJ	ברוגז	brvgz	_
+15	iz	BEF	איז	Ayz	_
+16	ibr	P	איבר	Aybr	_
+17	zi	PRO	זי	zy	_
+18	givest	VBN	גיװעסט	gyVest	_
+
+SENT	1624E-MAGEN,4.79
+1	za	ADV	זאַ	zAa	_
+2	hb	HVF	הב	hb	_
+3	ikh	PRO	איך	AyX	_
+4	di	D	די	dy	_
+5	grusi	N	גרוסי	grvsy	_
+6	oykh	ADV	אױך	AWX	_
+7	vr_brend	VBN	װר_ברענד	Vr_brend	_
+
+SENT	1624E-MAGEN,4.80
+1	da	ADV	דאַ	dAa	_
+2	sprakh	VBF	ספּראַך	sprAaX	_
+3	nmrud	NPR	נמרוד	nmrvd	_
+4	du	PRO	דו	dv	_
+5	shutkh	N	שוטך	$vtX	_
+6	der	WPRO	דער	der	_
+7	da	ADV	דאַ	dAa	_
+8	nit	NEG	ניט	nyt	_
+9	zikht	VBF	זיכט	zyxt	_
+10	nukh	CONJ	נוך	nvX	_
+11	nit	NEG	ניט	nyt	_
+12	hert	VBF	הערט	hert	_
+13	vi	WADV	װי	Vy	_
+14-15	zgstu	VBF~PRO	זגסטו	zgstv	_
+14	zgs	VBF	זגס	zgs	_
+15	tu	PRO	טו	tv	_
+16	ds	C	דס	ds	_
+17	er	PRO	ער	er	_
+18	zi	PRO	זי	zy	_
+19	vr_brent	VBN	װר_ברענט	Vr_brent	_
+20	hut	HVF	הוט	hvt	_
+
+SENT	1624E-MAGEN,4.81
+1	da	ADV	דאַ	dAa	_
+2	entvrt	VBF	ענטװרט	entVrt	_
+3	abrhm	NPR	אַברהם	AabrhM	_
+4	vidr	ADV	װידר	Vydr	_
+5	tsu	P	צו	qv	_
+6	nmrud	NPR	נמרוד	nmrvd	_
+7	hmlkh	H	המלך	hmlX	the_king
+8	varum	WPRO+P	װאַרום	VAarvM	_
+9-10	vr_lustu	VBF~PRO	װר_לוסטו	Vr_lvstv	_
+9	vr_lus	VBF	װר_לוס	Vr_lvs	_
+10	tu	PRO	טו	tv	_
+11	den	D	דען	deN	_
+12	almekhtign	ADJ	אַלמעכטיגן	AalmextygN	_
+13	gut	NPR	גוט	gvt	_
+14	der	WPRO	דער	der	_
+15	da	ADV	דאַ	dAa	_
+16	hut	HVF	הוט	hvt	_
+17	bishafin	VBN	בישאַפֿין	by$AafyN	_
+18	himl	N	הימל	hyml	_
+19	un'	CONJ	אונ'	Avn'	_
+20	erd	N	ערד	erd	_
+21	un'	CONJ	אונ'	Avn'	_
+22	dinst	VBF	דינסט	dynst	_
+23	andri	ADJ	אַנדרי	Aandry	_
+24	getr	N	געטר	getr	_
+25	di	WPRO	די	dy	_
+26	da	ADV	דאַ	dAa	_
+27	nit	NEG	ניט	nyt	_
+28	hern	VBF	הערן	herN	_
+29	un'	CONJ	אונ'	Avn'	_
+30	nit	NEG	ניט	nyt	_
+31	ridn	VBF	רידן	rydN	_
+
+SENT	1624E-MAGEN,4.82
+1	da	ADV	דאַ	dAa	_
+2	zgit	VBF	זגיט	zgyt	_
+3	nmrut	N	נמרוט	nmrvt	_
+4	tsu	P	צו	qv	_
+5	abrhm	NPR	אַברהם	AabrhM	_
+6	ver	WPRO	װער	Ver	_
+7	hut	HVF	הוט	hvt	_
+8	bishafin	VBN	בישאַפֿין	by$AafyN	_
+9	himl	N	הימל	hyml	_
+10	un'	CONJ	אונ'	Avn'	_
+11	erd	N	ערד	erd	_
+
+SENT	1624E-MAGEN,4.83
+1	ikh	PRO	איך	AyX	_
+2	hab	HVF	האַב	hAab	_
+3	zi	PRO	זי	zy	_
+4	bishafin	VBN	בישאַפֿין	by$AafyN	_
+
+SENT	1624E-MAGEN,4.84
+1	da	ADV	דאַ	dAa	_
+2	zgt	VBF	זגט	zgt	_
+3	abrhm	NPR	אַברהם	AabrhM	_
+4	vidr	ADV	װידר	Vydr	_
+5	mit	P	מיט	myt	_
+6	dem	D	דעם	deM	_
+7	vil	MDF	װיל	Vyl	_
+8	ikh	PRO	איך	AyX	_
+9	visn	VB	װיסן	VysN	_
+10	ub	C	אוב	Avb	_
+11	du	PRO	דו	dv	_
+12	zi	PRO	זי	zy	_
+13	hust	HVF	הוסט	hvst	_
+14	bishafin	VBN	בישאַפֿין	by$AafyN	_
+
+SENT	1624E-MAGEN,4.85
+1	di	D	די	dy	_
+2	zun	N	זון	zvN	_
+3	git	VBF	גיט	gyt	_
+4	oyf	RP	אױף	AWF	_
+5	tsu	P	צו	qv	_
+6	mzrkh	H	מזרך	mzrX	east
+
+SENT	1624E-MAGEN,4.86
+1	un'	CONJ	אונ'	Avn'	_
+2	git	VBF	גיט	gyt	_
+3	unter	RP	אונטער	Avnter	_
+4	tsu	P	צו	qv	_
+5	merb	H	מערב	merb	west
+
+SENT	1624E-MAGEN,4.87
+1	ven	C	װען	VeN	_
+2	du	PRO	דו	dv	_
+3	mkhst	VBF	מכסט	mxst	_
+4	ds	C	דס	ds	_
+5	di	D	די	dy	_
+6	zun	N	זון	zvN	_
+7	oyf	RP	אױף	AWF	_
+8	sheynd	VBF	שײנד	$Ynd	_
+9	tsu	P	צו	qv	_
+10	merb	H	מערב	merb	west
+11	un'	CONJ	אונ'	Avn'	_
+12	git	VBF	גיט	gyt	_
+13	unter	RP	אונטער	Avnter	_
+14	tsu	P	צו	qv	_
+15	mzrkh	H	מזרך	mzrX	east
+16	an	P	אַן	AaN	_
+17	den	D	דען	deN	_
+18	dazign	N	דאַזיגן	dAazygN	_
+19	vil	MDF	װיל	Vyl	_
+20	ikh	PRO	איך	AyX	_
+21	visn	VB	װיסן	VysN	_
+22	ds	C	דס	ds	_
+23	du	PRO	דו	dv	_
+24	als	Q	אַלס	Aals	_
+25	hust	HVF	הוסט	hvst	_
+26	bishafin	VBN	בישאַפֿין	by$AafyN	_
+
+SENT	1624E-MAGEN,4.88
+1	als	ADV	אַלס	Aals	_
+2	bld	ADV	בלד	bld	_
+3	vr_vaundrt	VBF	װר_װאַונדרט	Vr_VAavndrt	_
+4	zikh	PRO	זיך	zyX	_
+5	nmrud	NPR	נמרוד	nmrvd	_
+6	an	P	אַן	AaN	_
+7	zeyni	PRO$	זײני	zYny	_
+8	rid	N	ריד	ryd	_
+
+SENT	1624E-MAGEN,4.89
+1	un	CONJ	און	AvN	_
+2	tat	VBF	טאַט	tAat	_
+3	zeyn	PRO$	זײן	zYN	_
+4	hnd	N	הנד	hnd	_
+5	an	P	אַן	AaN	_
+6	zeyn	PRO$	זײן	zYN	_
+7	brt	N	ברט	brt	_
+
+SENT	1624E-MAGEN,4.90
+1	un'	CONJ	אונ'	Avn'	_
+2	da	C	דאַ	dAa	_
+3	in	PRO	אין	AyN	_
+4	zkhin	VBF	זכין	zxyN	_
+5	di	D	די	dy	_
+6	shtern_zehr	N	שטערנ_זעהר	$tern_zehr	_
+7	fun	P	פֿון	fvN	_
+8	nmrud	NPR	נמרוד	nmrvd	_
+9	da	ADV	דאַ	dAa	_
+10	htn	HVF	הטן	htN	_
+11	zi	PRO	זי	zy	_
+12	in	PRO	אין	AyN	_
+13	gikent	VBN	גיקענט	gykent	_
+
+SENT	1624E-MAGEN,4.91
+1	un'	CONJ	אונ'	Avn'	_
+2	zgtn	VBF	זגטן	zgtN	_
+3	tsu	P	צו	qv	_
+4	nmrud	NPR	נמרוד	nmrvd	_
+5	az	C	אַז	Aaz	_
+6	du	PRO	דו	dv	_
+7	lebt	VBF	לעבט	lebt	_
+8	unzr	PRO$	אונזר	Avnzr	_
+9	her	N	הער	her	_
+10	der	D	דער	der	_
+11	kinigi	N	קיניגי	kynygy	_
+12	ds	D	דס	ds	_
+13	iz	VBF	איז	Ayz	_
+14	ds	D	דס	ds	_
+15	kind	N	קינד	kynd	_
+16	ds	WPRO	דס	ds	_
+17	mir	PRO	מיר	myr	_
+18	dir	PRO	דיר	dyr	_
+19	hbin	HVF	הבין	hbyN	_
+20	gizgit	VBN	גיזגיט	gyzgyt	_
+21	ds	C	דס	ds	_
+22	da	ADV	דאַ	dAa	_
+23	vert	RDF	װערט	Vert	_
+24	tsvey	NUM	צװײ	qVY	_
+25	eylmut	N	אײלמוט	AYlmvt	_
+26	irsn	VB	אירסן	AyrsN	_
+
+SENT	1624E-MAGEN,4.92
+1	lus	VBI	לוס	lvs	_
+2	brengan	VB	ברענגאַן	brengAaN	_
+3	halts	N	האַלץ	hAalQ	_
+
+SENT	1624E-MAGEN,4.93
+1	un'	CONJ	אונ'	Avn'	_
+2	lus	VBI	לוס	lvs	_
+3	in	PRO	אין	AyN	_
+4	vr_brenn	VB	װר_ברענן	Vr_brenN	_
+
+SENT	1624E-MAGEN,4.94
+1	un'	CONJ	אונ'	Avn'	_
+2	lus	VBI	לוס	lvs	_
+3	gebn	VB	געבן	gebN	_
+4	vtr	N	װטר	Vtr	_
+5	un'	CONJ	אונ'	Avn'	_
+6	mutr	N	מוטר	mvtr	_
+7	vs	WPRO	װס	Vs	_
+8	zi	PRO	זי	zy	_
+9	bigerin	VBF	ביגערין	bygeryN	_
+
+SENT	1624E-MAGEN,5.96
+1	un	CONJ	און	AvN	_
+2	itsund	ADV	איצונד	Ayqvnd	_
+3	unzr	PRO$	אונזר	Avnzr	_
+4	her	N	הער	her	_
+5	der_veyl	C	דער_װײל	der_VYl	_
+6	es	PRO	עס	es	_
+7	yu	ADV	יו	yv	_
+8	in	P	אין	AyN	_
+9	unzr	PRO$	אונזר	Avnzr	_
+10	hnd	N	הנד	hnd	_
+11	iz	BEF	איז	Ayz	_
+12	gikumn	VBN	גיקומן	gykvmN	_
+13	lus	VBI	לוס	lvs	_
+14	in	PRO	אין	AyN	_
+15	vr_brenn	VB	װר_ברענן	Vr_brenN	_
+16	in	P	אין	AyN	_
+17	veyar	N	װײאַר	VYAar	_
+
+SENT	1624E-MAGEN,5.97
+1	da	ADV	דאַ	dAa	_
+2	sprakh	VBF	ספּראַך	sprAaX	_
+3	nimrud	NPR	נימרוד	nymrvd	_
+4	vidr	ADV	װידר	Vydr	_
+5	tut	VBI	טוט	tvt	_
+6	mit	P	מיט	myt	_
+7	im	PRO	אים	AyM	_
+8	vs	WPRO	װס	Vs	_
+9	ir	PRO	איר	Ayr	_
+10	velt	MDF	װעלט	Velt	_
+
+SENT	1624E-MAGEN,5.98
+1	vs	WPRO	װס	Vs	_
+2	tatn	VBF	טאַטן	tAatN	_
+3	zi	PRO	זי	zy	_
+
+SENT	1624E-MAGEN,5.99
+1	zi	PRO	זי	zy	_
+2	heytstn	VBF	הײצטן	hYqtN	_
+3	den	D	דען	deN	_
+4	klikh_ubn	N	קליכ_ובן	klyx_vbN	_
+5	zibn	NUM	זיבן	zybN	_
+6	tg	N	טג	tg	_
+
+SENT	1624E-MAGEN,5.100
+1	un	CONJ	און	AvN	_
+2	varfn	VBF	װאַרפֿן	VAarfN	_
+3	in	PRO	אין	AyN	_
+4	dareyn	DR+P	דאַרײן	dAarYN	_
+
+SENT	1624E-MAGEN,5.101
+1	als	ADV	אַלס	Aals	_
+2	bld	ADV	בלד	bld	_
+3	sprakhn	VBF	ספּראַכן	sprAaxN	_
+4	di	D	די	dy	_
+5	mlakhi	N	מלאַכי	mlAaxy	_
+6	htrkh	H	הטרך	htrX	the_Trkh
+7	var	ADJ	װאַר	VAar	_
+8	hk"bh	H	הק"בה	hk"bh	the_holy_blessed_he
+9	her	N	הער	her	_
+10	al	Q	אַל	Aal	_
+11	der	D	דער	der	_
+12	velt	N	װעלט	Velt	_
+13	lusn	VBI	לוסן	lvsN	_
+14	mir	PRO	מיר	myr	_
+15	gin	VB	גין	gyN	_
+16	in	PRO	אין	AyN	_
+17	mtsil	RP-H	מציל	mqyl	_
+18	tsu	TO	צו	qv	_
+19	zeyn	VB	זײן	zYN	_
+20	fun	P	פֿון	fvN	_
+21	dem	D	דעם	deM	_
+22	klikh_ubn	N	קליכ_ובן	klyx_vbN	_
+
+SENT	1624E-MAGEN,5.102
+1	da	ADV	דאַ	dAa	_
+2	var	VBF	װאַר	VAar	_
+3	krig	N	קריג	kryg	_
+4	tsvishn	P	צװישן	qVy$N	_
+5	di	D	די	dy	_
+6	mlakhim	N	מלאַכים	mlAaxyM	_
+
+SENT	1624E-MAGEN,5.103
+1	der	D	דער	der	_
+2	sprakh	VBF	ספּראַך	sprAaX	_
+3	ikh	PRO	איך	AyX	_
+4	vil	MDF	װיל	Vyl	_
+5	in	PRO	אין	AyN	_
+6	mtsil	RP-H	מציל	mqyl	_
+7	zeyn	VB	זײן	zYN	_
+
+SENT	1624E-MAGEN,5.104
+1	der	D	דער	der	_
+2	sprakh	VBF	ספּראַך	sprAaX	_
+3	ikh	PRO	איך	AyX	_
+4	vil	MDF	װיל	Vyl	_
+5	in	PRO	אין	AyN	_
+6	mtsil	RP-H	מציל	mqyl	_
+7	zeyn	VB	זײן	zYN	_
+
+SENT	1624E-MAGEN,5.105
+1	da	ADV	דאַ	dAa	_
+2	zgit	VBF	זגיט	zgyt	_
+3	mikhal	NPR	מיכאַל	myxAal	_
+4	hmlakh	H	המלאַך	hmlAaX	the_angel
+5	ikh	PRO	איך	AyX	_
+6	vil	MDF	װיל	Vyl	_
+7	nidrn	VB	נידרן	nydrN	_
+
+SENT	1624E-MAGEN,5.106
+1	da	ADV	דאַ	dAa	_
+2	sprakh	VBF	ספּראַך	sprAaX	_
+3	gbrial	NPR	גבריִאַל	gbryiAal	_
+4	hmlakh	H	המלאַך	hmlAaX	the_angel
+5	ikh	PRO	איך	AyX	_
+6	vil	MDF	װיל	Vyl	_
+7	nidrn	VB	נידרן	nydrN	_
+
+SENT	1624E-MAGEN,5.107
+1	da	ADV	דאַ	dAa	_
+2	sprakh	VBF	ספּראַך	sprAaX	_
+3	hk"bh	H	הק"בה	hk"bh	the_holy_blessed_he
+4	tsu	P	צו	qv	_
+5	gbrial	NPR	גבריִאַל	gbryiAal	_
+6	ikh	PRO	איך	AyX	_
+7	vil	MDF	װיל	Vyl	_
+8	nidrn	VB	נידרן	nydrN	_
+
+SENT	1624E-MAGEN,5.108
+1	den	CONJ	דען	deN	_
+2	ikh	PRO	איך	AyX	_
+3	bin	VBF	בין	byN	_
+4	eyn	D	אײן	AYN	_
+5	ikhid	N	איכיד	Ayxyd	_
+6	in	P	אין	AyN	_
+7	eulm	N	עולם	evlM	_
+
+SENT	1624E-MAGEN,5.109
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	iz	VBF	איז	Ayz	_
+4	meykhd	RP-H	מײכד	mYxd	_
+5	meyn	PRO$	מײן	mYN	_
+6	nmn	N	נמן	nmN	_
+7	in	P	אין	AyN	_
+8	eulm	N	עולם	evlM	_
+
+SENT	1624E-MAGEN,5.110
+1	iz	VBF	איז	Ayz	_
+2	oykh	ADV	אױך	AWX	_
+3	val	ADV	װאַל	VAal	_
+4	bilikh	ADJ	ביליך	bylyX	_
+5	ds	C	דס	ds	_
+6	ikh	PRO	איך	AyX	_
+7	in	PRO	אין	AyN	_
+8	zul	MDF	זול	zvl	_
+9	mtsil	RP-H	מציל	mqyl	_
+10	zeyn	VB	זײן	zYN	_
+11	oys	P	אױס	AWs	_
+12	dem	D	דעם	deM	_
+13	klikh_uvn	N	קליכ_וּװן	klyx_UVN	_
+
+SENT	1624E-MAGEN,5.111
+1	un'	CONJ	אונ'	Avn'	_
+2	oykh	ADV	אױך	AWX	_
+3	gbrial	NPR	גבריִאַל	gbryiAal	_
+4	hut	HVF	הוט	hvt	_
+5	mtsil	RP-H	מציל	mqyl	_
+6	givest	VBN	גיװעסט	gyVest	_
+7	hnnia	H	הנניִאַ	hnnyiAa	the_prophet
+8	mishal	NPR	מישאַל	my$Aal	_
+9	vezrih	H	װעזריה	Vezryh	and_Ezra
+10	ds	WPRO	דס	ds	_
+11	da	ADV	דאַ	dAa	_
+12	hut	HVF	הוט	hvt	_
+13	nbukhdntsr	NPR	נבוכדנצר	nbvxdnqr	_
+14	givarfn	VBN	גיװאַרפֿן	gyVAarfN	_
+15	in	P	אין	AyN	_
+16	klikh_uvn	N	קליכ_וּװן	klyx_UVN	_
+
+SENT	1624E-MAGEN,5.112
+1	den	CONJ	דען	deN	_
+2	da	C	דאַ	dAa	_
+3	er	PRO	ער	er	_
+4	zi	PRO	זי	zy	_
+5	valt	MDF	װאַלט	VAalt	_
+6	in	P	אין	AyN	_
+7	klikh_ubn	N	קליכ_ובן	klyx_vbN	_
+8	verfin	VB	װערפֿין	VerfyN	_
+9	da	ADV	דאַ	dAa	_
+10	sprakh	VBF	ספּראַך	sprAaX	_
+11	mikhal	NPR	מיכאַל	myxAal	_
+12	ikh	PRO	איך	AyX	_
+13	vil	MDF	װיל	Vyl	_
+14	nidrn	VB	נידרן	nydrN	_
+
+SENT	1624E-MAGEN,5.113
+1	un'	CONJ	אונ'	Avn'	_
+2	vil	MDF	װיל	Vyl	_
+3	zi	PRO	זי	zy	_
+4	mtsil	RP-H	מציל	mqyl	_
+5	zeyn	VB	זײן	zYN	_
+
+SENT	1624E-MAGEN,5.114
+1	da	ADV	דאַ	dAa	_
+2	sprakh	VBF	ספּראַך	sprAaX	_
+3	gbrial	NPR	גבריִאַל	gbryiAal	_
+4	es	ES	עס	es	_
+5	iz	VBF	איז	Ayz	_
+6	nit	NEG	ניט	nyt	_
+7	di	D	די	dy	_
+8	sterk	N	סטערק	sterk	_
+9	fun	P	פֿון	fvN	_
+10	hk"bh	H	הק"בה	hk"bh	the_holy_blessed_he
+11	an	P	אַן	AaN	_
+12	dir	PRO	דיר	dyr	_
+
+SENT	1624E-MAGEN,5.115
+1	den	CONJ	דען	deN	_
+2	du	PRO	דו	dv	_
+3	bist	BEF	ביסט	byst	_
+4	gizetst	VAN	גיזעצט	gyzeqt	_
+5	ibr	P	איבר	Aybr	_
+6	vsir	N	װסיר	Vsyr	_
+
+SENT	1624E-MAGEN,5.116
+1	un'	CONJ	אונ'	Avn'	_
+2	der	D	דער	der	_
+3	mnhg	N	מנהג	mnhg	_
+4	iz	VBF	איז	Ayz	_
+5	fun	P	פֿון	fvN	_
+6	der	D	דער	der	_
+7	velt	N	װעלט	Velt	_
+8	ds	C	דס	ds	_
+9	ds	D	דס	ds	_
+10	vsir	N	װסיר	Vsyr	_
+11	lesht	VBF	לעשט	le$t	_
+12	veyar	N	װײאַר	VYAar	_
+
+SENT	1624E-MAGEN,5.117
+1	abr	CONJ	אַבר	Aabr	_
+2	ikh	PRO	איך	AyX	_
+3	bin	VBF	בין	byN	_
+4	fun	P	פֿון	fvN	_
+5	veyar	N	װײאַר	VYAar	_
+
+SENT	1624E-MAGEN,5.118
+1	un'	CONJ	אונ'	Avn'	_
+2	ikh	PRO	איך	AyX	_
+3	vil	MDF	װיל	Vyl	_
+4	dukh	ADV	דוך	dvX	_
+5	klt	ADJ	קלט	klt	_
+6	mkhin	VB	מכין	mxyN	_
+7	den	D	דען	deN	_
+8	klikh_ubn	N	קליכ_ובן	klyx_vbN	_
+9	fun	P	פֿון	fvN	_
+10	inn_vinig	ADV	איננ_װיניג	Aynn_Vynyg	_
+
+SENT	1624E-MAGEN,5.119
+1	da	ADV	דאַ	dAa	_
+2	vert	RDF	װערט	Vert	_
+3	ya	ADV	יאַ	yAa	_
+4	gisehn	VB	גיסעהן	gysehN	_
+5	nukh	ADV	נוך	nvX	_
+6	mer	Q	מער	mer	_
+7	vaundr	N	װאַונדר	VAavndr	_
+8	fun	P	פֿון	fvN	_
+9	hk"bh	H	הק"בה	hk"bh	the_holy_blessed_he
+
+SENT	1624E-MAGEN,5.120
+1	da	ADV	דאַ	dAa	_
+2	ht	HVF	הט	ht	_
+3	mn	PRO	מן	mN	_
+4	di	D	די	dy	_
+5	dreya	N	דרײאַ	drYAa	_
+6	aneyn	ADV	אַנײן	AanYN	_
+7	givarfn	VBN	גיװאַרפֿן	gyVAarfN	_
+
+SENT	1624E-MAGEN,5.121
+1	un'	CONJ	אונ'	Avn'	_
+2	es	ES	עס	es	_
+3	varn	BEF	װאַרן	VAarN	_
+4	gizehn	VAN	גיזעהן	gyzehN	_
+5	iri	PRO	אירי	Ayry	_
+6	vir	NUM	װיר	Vyr	_
+
+SENT	1624E-MAGEN,5.122
+1	der	D	דער	der	_
+2	vird	N	װירד	Vyrd	_
+3	var	VBF	װאַר	VAar	_
+4	gbrial	NPR	גבריִאַל	gbryiAal	_
+5	hmlakh	H	המלאַך	hmlAaX	the_angel
+
+SENT	1624E-MAGEN,5.123
+1	un'	CONJ	אונ'	Avn'	_
+2	zi	PRO	זי	zy	_
+3	kamn	VBF	קאַמן	kAamN	_
+4	vidr	ADV	װידר	Vydr	_
+5	oys	P	אױס	AWs	_
+6	dem	D	דעם	deM	_
+7	klikh_ubn	N	קליכ_ובן	klyx_vbN	_
+
+SENT	1624E-MAGEN,5.124
+1	un	CONJ	און	AvN	_
+2	da	C	דאַ	dAa	_
+3	zi	PRO	זי	zy	_
+4	aroys	ADV	אַרױס	AarWs	_
+5	kamn	VBF	קאַמן	kAamN	_
+6	da	ADV	דאַ	dAa	_
+7	vailtn	VBF	װאַיִלטן	VAayiltN	_
+8	zikh	PRO	זיך	zyX	_
+9	ali	Q	אַלי	Aaly	_
+10	mlkhi	H	מלכי	mlxy	kings
+11	haumut	H	האַומוט	hAavmvt	UNKNOWN
+12	heulm	H	העולם	hevlM	the_world
+13	un'	CONJ	אונ'	Avn'	_
+14	ali	Q	אַלי	Aaly	_
+15	grubn	N	גרובן	grvbN	_
+16	un'	CONJ	אונ'	Avn'	_
+17	ali	Q	אַלי	Aaly	_
+18	srim	N	סרים	sryM	_
+
+SENT	1624E-MAGEN,5.125
+1	un'	CONJ	אונ'	Avn'	_
+2	valtn	MDF	װאַלטן	VAaltN	_
+3	zehn	VB	זעהן	zehN	_
+4	ub	C	אוב	Avb	_
+5	oykh	ADV	אױך	AWX	_
+6	ds	D	דס	ds	_
+7	veyar	N	װײאַר	VYAar	_
+8	hut	HVF	הוט	hvt	_
+9	an	P	אַן	AaN	_
+10	zi	PRO	זי	zy	_
+11	giveltigt	VBN	גיװעלטיגט	gyVeltygt	_
+12	udr	CONJ	אודר	Avdr	_
+13	nit	NEG	ניט	nyt	_
+
+SENT	1624E-MAGEN,5.126
+1	da	ADV	דאַ	dAa	_
+2	zakhn	VBF	זאַכן	zAaxN	_
+3	zi	PRO	זי	zy	_
+4	ds	C	דס	ds	_
+5	in	PRO	אין	AyN	_
+6	keyn	Q	קײן	kYN	_
+7	har	N	האַר	hAar	_
+8	fun	P	פֿון	fvN	_
+9	leyb	N	לײב	lYb	_
+10	nukh	CONJ	נוך	nvX	_
+11	fun	P	פֿון	fvN	_
+12	kleydr	N	קלײדר	klYdr	_
+13	iz	BEF	איז	Ayz	_
+14	vardn	RDN	װאַרדן	VAardN	_
+15	var_zenkt	VAN	װאַר_זענקט	VAar_zenkt	_
+16	nukh	CONJ	נוך	nvX	_
+17	vr_endrt	VAN	װר_ענדרט	Vr_endrt	_
+
+SENT	1624E-MAGEN,5.127
+1	als	ADV	אַלס	Aals	_
+2	bld	ADV	בלד	bld	_
+3	lubtn	VBF	לובטן	lvbtN	_
+4	ali	Q	אַלי	Aaly	_
+5	umut_heulm	N	אומוט_העולם	Avmvt_hevlM	_
+6	vr	P	װר	Vr	_
+7	hkdus	H	הקדוס	hkdvs	the_holy
+8	brukh	H	ברוך	brvX	blessed
+9	hu	H	הו	hv	he
+
+SENT	1624E-MAGEN,5.128
+1	un	CONJ	און	AvN	_
+2	zi	PRO	זי	zy	_
+3	shlugn	VBF	שלוגן	$lvgN	_
+4	di	D	די	dy	_
+5	msumdim	N	מסומדים	msvmdyM	_
+6	fun	P	פֿון	fvN	_
+7	isral	NPR	איסראַל	AysrAal	_
+
+SENT	1624E-MAGEN,5.129
+1	un	CONJ	און	AvN	_
+2	zi	PRO	זי	zy	_
+3	zgtn	VBF	זגטן	zgtN	_
+4	tsu	P	צו	qv	_
+5	zi	PRO	זי	zy	_
+
+SENT	1624E-MAGEN,5.130
+1	ven	WPRO	װען	VeN	_
+2	gifind	VBF	גיפֿינד	gyfynd	_
+3	mn	PRO	מן	mN	_
+4	azu	ADV	אַזו	Aazv	_
+5	eyn	D	אײן	AYN	_
+6	gat	NPR	גאַט	gAat	_
+7	als	P	אַלס	Aals	_
+8	vi	P	װי	Vy	_
+9	isral	NPR	איסראַל	AysrAal	_
+10	hbn	VBF	הבן	hbN	_
+
+SENT	1624E-MAGEN,6.132
+1	un	CONJ	און	AvN	_
+2	ir	PRO	איר	Ayr	_
+3	neygt	VBF	נײגט	nYgt	_
+4	oykh	PRO	אױך	AWX	_
+5	tsu	P	צו	qv	_
+6	abgetr	N	אַבגעטר	Aabgetr	_
+
+SENT	1624E-MAGEN,6.133
+1	als	ADV	אַלס	Aals	_
+2	bld	ADV	בלד	bld	_
+3	hubn	VBF	הובן	hvbN	_
+4	di	D	די	dy	_
+5	msumrim	N	מסומרים	msvmryM	_
+6	fun	P	פֿון	fvN	_
+7	isral	NPR	איסראַל	AysrAal	_
+8	an	RP	אַן	AaN	_
+9	tsu	TO	צו	qv	_
+10	zgin	VB	זגין	zgyN	_
+
+SENT	1624E-MAGEN,6.134
+1	ds	D	דס	ds	_
+2	iz	VBF	איז	Ayz	_
+3	teytsh	N	טײטש	tYt$	_
+4	tsu	P	צו	qv	_
+5	hk"bh	H	הק"בה	hk"bh	the_holy_blessed_he
+6	iz	VBF	איז	Ayz	_
+7	di	D	די	dy	_
+8	tsdkh	N	צדך	qdX	_
+
+SENT	1624E-MAGEN,6.135
+1	un'	CONJ	אונ'	Avn'	_
+2	tsu	P	צו	qv	_
+3	uns	PRO	אונס	Avns	_
+4	iz	BEF	איז	Ayz	_
+5	vr_shemt	VAN	װר_שעמט	Vr_$emt	_
+6	unzr	PRO$	אונזר	Avnzr	_
+7	pnim	N	פּנים	pnyM	_
+8	dizn	D	דיזן	dyzN	_
+9	tg	N	טג	tg	_
+
+SENT	1624E-MAGEN,6.136
+1	un	CONJ	און	AvN	_
+2	iklikhr	Q	איקליכר	Ayklyxr	_
+3	der	WPRO	דער	der	_
+4	da	ADV	דאַ	dAa	_
+5	dind	VBF	דינד	dynd	_
+6	vremdi	ADJ	װרעמדי	Vremdy	_
+7	getr	N	געטר	getr	_
+8	hk"bh	H	הק"בה	hk"bh	the_holy_blessed_he
+9	reyst	VBF	רײסט	rYst	_
+10	in	PRO	אין	AyN	_
+11	oys	RP	אױס	AWs	_
+12	fun	P	פֿון	fvN	_
+13	hulm_hzh	N	הולמ_הזש	hvlm_hz$	_
+14	un	CONJ	און	AvN	_
+15	fun	P	פֿון	fvN	_
+16	eulm_hba	N	עולמ_הבאַ	evlm_hbAa	_
+
+SENT	1624E-MAGEN,6.137
+1	un	CONJ	און	AvN	_
+2	zikht	VBF	זיכט	zyxt	_
+3	nit	NEG	ניט	nyt	_
+4	di	D	די	dy	_
+5	tubut	N	טובוט	tvbvt	_
+6	di	WPRO	די	dy	_
+7	er	PRO	ער	er	_
+8	tut	VBF	טוט	tvt	_
+9	den	D	דען	deN	_
+10	tsdikim	N	צדיקים	qdykyM	_
+
+SENT	1624E-MAGEN,6.138
+1	un'	CONJ	אונ'	Avn'	_
+2	er	PRO	ער	er	_
+3	vert	RDF	װערט	Vert	_
+4	vr_shemt	VAN	װר_שעמט	Vr_$emt	_
+
+SENT	1624E-MAGEN,6.139
+1	un	CONJ	און	AvN	_
+2	zi	PRO	זי	zy	_
+3	zgin	VBF	זגין	zgyN	_
+4	oy	INTJ	אױ	AW	_
+5	vi	INTJ	װי	Vy	_
+6	tsu	P	צו	qv	_
+7	mir	PRO	מיר	myr	_
+8	ds	C	דס	ds	_
+9	ikh	PRO	איך	AyX	_
+10	nit	NEG	ניט	nyt	_
+11	hb	HVF	הב	hb	_
+12	gimert	VBN	גימערט	gymert	_
+13	an	P	אַן	AaN	_
+14	dizr	D	דיזר	dyzr	_
+15	khbur	N	כבור	xbvr	_
+16	dz	C	דז	dz	_
+17	mir	PRO	מיר	myr	_
+18	iz	BEF	איז	Ayz	_
+19	vardn	RDN	װאַרדן	VAardN	_
+20	antplegt	VAN	אַנטפּלעגט	Aantplegt	_
+
+SENT	1624E-MAGEN,6.140
+1	utmsti	H	אוטמסטי	Avtmsty	UNKNOWN
+2	un'	CONJ	אונ'	Avn'	_
+3	es	ES	עס	es	_
+4	gang	VBF	גאַנג	gAang	_
+5	oys	RP	אױס	AWs	_
+6	eyn	D	אײן	AYN	_
+7	veyar	N	װײאַר	VYAar	_
+
+SENT	1624E-MAGEN,6.141
+1	un'	CONJ	אונ'	Avn'	_
+2	bur_brend	VBF	בור_ברענד	bvr_brend	_
+3	ali	Q	אַלי	Aaly	_
+4	msumrim	N	מסומרים	msvmryM	_
+5	di	WPRO	די	dy	_
+6	da	ADV	דאַ	dAa	_
+7	hbn	HVF	הבן	hbN	_
+8	vr_lusn	VBN	װר_לוסן	Vr_lvsN	_
+9	hk"bh	H	הק"בה	hk"bh	the_holy_blessed_he
+10	un'	CONJ	אונ'	Avn'	_
+11	hbn	HVF	הבן	hbN	_
+12	nit	NEG	ניט	nyt	_
+13	tshubh	N	טשובה	t$vbh	_
+14	gitun	VBN	גיטון	gytvN	_
+
+SENT	1624E-MAGEN,6.142
+1	oykh	ADV	אױך	AWX	_
+2	aliu	H	אַליִו	Aalyiv	UNKNOWN
+3	gifindn	VBF	גיפֿינדן	gyfyndN	_
+4	mir	PRO	מיר	myr	_
+5	oykh	ADV	אױך	AWX	_
+6	mn	H	מן	mN	from
+7	ansi	H	אַנסי	Aansy	people
+8	dur	H	דור	dvr	generation
+9	hflgh	H	הפֿלגה	hflgh	the_departure
+10	ds	C	דס	ds	_
+11	zi	PRO	זי	zy	_
+12	hk"bh	H	הק"בה	hk"bh	the_holy_blessed_he
+13	hut	HVF	הוט	hvt	_
+14	oys	RP	אױס	AWs	_
+15	girisn	VBN	גיריסן	gyrysN	_
+16	fun	P	פֿון	fvN	_
+17	eulm_hzh	N	עולמ_הזש	evlm_hz$	_
+18	un'	CONJ	אונ'	Avn'	_
+19	fun	P	פֿון	fvN	_
+20	eulm_hba	N	עולמ_הבאַ	evlm_hbAa	_
+
+SENT	1624E-MAGEN,6.143
+1	den	CONJ	דען	deN	_
+2	da	X	דאַ	dAa	_
+3	zi	PRO	זי	zy	_
+4	shprakhn	VBF	שפּראַכן	$prAaxN	_
+5	hbh	H	הבה	hbh	come
+6	nibnh	H	ניבנה	nybnh	we_will_build
+7	mir	PRO	מיר	myr	_
+8	velin	MDF	װעלין	VelyN	_
+9	boyan	VB	בױאַן	bWAaN	_
+10	tsu	P	צו	qv	_
+11	uns	PRO	אונס	Avns	_
+12	eyn	D	אײן	AYN	_
+13	stat	N	סטאַט	stAat	_
+14	un'	CONJ	אונ'	Avn'	_
+15	eyn	D	אײן	AYN	_
+16	hukhn	ADJ	הוכן	hvxN	_
+17	turn	N	טורן	tvrN	_
+
+SENT	1624E-MAGEN,6.144
+1	un'	CONJ	אונ'	Avn'	_
+2	velin	MDF	װעלין	VelyN	_
+3	shpltin	VB	שפּלטין	$pltyN	_
+4	den	D	דען	deN	_
+5	himl	N	הימל	hyml	_
+
+SENT	1624E-MAGEN,6.145
+1	da	ADV	דאַ	dAa	_
+2	verin	RDF	װערין	VeryN	_
+3	rinin	VB	רינין	rynyN	_
+4	di	D	די	dy	_
+5	vsir	N	װסיר	Vsyr	_
+6	hiruntr	ADV	הירונטר	hyrvntr	_
+7	ds	C	דס	ds	_
+8	uns	PRO	אונס	Avns	_
+9	nit	NEG	ניט	nyt	_
+10	vert	RDF	װערט	Vert	_
+11	gisehn	VB	גיסעהן	gysehN	_
+12	vi	WADV	װי	Vy	_
+13	da	ADV	דאַ	dAa	_
+14	iz	BEF	איז	Ayz	_
+15	gisehn	VBN	גיסעהן	gysehN	_
+16	tsu	P	צו	qv	_
+17	dur	H	דור	dvr	generation
+18	hmbil	H	המביל	hmbyl	UNKNOWN
+
+SENT	1624E-MAGEN,6.146
+1	un'	CONJ	אונ'	Avn'	_
+2	mir	PRO	מיר	myr	_
+3	velin	MDF	װעלין	VelyN	_
+4	hltin	VB	הלטין	hltyN	_
+5	mlkhmh	N	מלכמה	mlxmh	_
+6	mit	P	מיט	myt	_
+7	dem	D	דעם	deM	_
+8	zelbn	ADJ	זעלבן	zelbN	_
+9	der	WPRO	דער	der	_
+10	da	ADV	דאַ	dAa	_
+11	iz	VBF	איז	Ayz	_
+12-13	im	P~D	אים	AyM	_
+12	i	P	אי	Ay	_
+13	m	D	מ	m	_
+14	himil	N	הימיל	hymyl	_
+
+SENT	1624E-MAGEN,6.147
+1	un'	CONJ	אונ'	Avn'	_
+2	mir	PRO	מיר	myr	_
+3	velin	MDF	װעלין	VelyN	_
+4	durtn	ADV	דורטן	dvrtN	_
+5	mkhin	VB	מכין	mxyN	_
+6	vremdi	ADJ	װרעמדי	Vremdy	_
+7	getr	N	געטר	getr	_
+
+SENT	1624E-MAGEN,6.148
+1	un	CONJ	און	AvN	_
+2	vi	WADV	װי	Vy	_
+3	kuntin	MDF	קונטין	kvntyN	_
+4	zi	PRO	זי	zy	_
+5	boyan	VB	בױאַן	bWAaN	_
+6	di	D	די	dy	_
+7	stt	N	סטט	stt	_
+
+SENT	1624E-MAGEN,6.149
+1	zi	PRO	זי	zy	_
+2	htn	VBF	הטן	htN	_
+3	dukh	ADV	דוך	dvX	_
+4	keyn	Q	קײן	kYN	_
+5	steyn	N	סטײן	stYN	_
+6	nit	NEG	ניט	nyt	_
+
+SENT	1624E-MAGEN,6.150
+1	neyart	FP	נײאַרט	nYAart	_
+2	zi	PRO	זי	zy	_
+3	mkhtn	VBF	מכטן	mxtN	_
+4	tsigil	N	ציגיל	qygyl	_
+5	fun	P	פֿון	fvN	_
+6	leym	N	לײם	lYM	_
+7	un	CONJ	און	AvN	_
+8	fun	P	פֿון	fvN	_
+9	stru	N	סטרו	strv	_
+
+SENT	1624E-MAGEN,6.151
+1	un	CONJ	און	AvN	_
+2	htin	HVF	הטין	htyN	_
+3	zi	PRO	זי	zy	_
+4	gibrend	VBN	גיברענד	gybrend	_
+5	als	P	אַלס	Aals	_
+6	vi	P	װי	Vy	_
+7	eyn	D	אײן	AYN	_
+8	tipnid	N	טיפּניד	typnyd	_
+9	der	WPRO	דער	der	_
+10	da	ADV	דאַ	dAa	_
+11	leymn	N	לײמן	lYmN	_
+12	brend	VBF	ברענד	brend	_
+
+SENT	1624E-MAGEN,6.152
+1	un'	CONJ	אונ'	Avn'	_
+2	htin	HVF	הטין	htyN	_
+3	zi	PRO	זי	zy	_
+4	gitruknd	VBN	גיטרוקנד	gytrvknd	_
+
+SENT	1624E-MAGEN,6.153
+1	un	CONJ	און	AvN	_
+2	zi	PRO	זי	zy	_
+3	htn	HVF	הטן	htN	_
+4	giboyt	VBN	גיבױט	gybWt	_
+5	eyn	D	אײן	AYN	_
+6	stat	N	סטאַט	stAat	_
+7	un	CONJ	און	AvN	_
+8	eyn	D	אײן	AYN	_
+9	turn	N	טורן	tvrN	_
+10	der	D	דער	der	_
+11	var	VBF	װאַר	VAar	_
+12	gr	ADV	גר	gr	_
+13	hukh	ADJ	הוך	hvX	_
+14	sbeim	H	סבעיִם	sbeyiM	seventy
+15	melut	H	מעלוט	melvt	heights
+16	bmzrkh	H	במזרך	bmzrX	in_east
+
+SENT	1624E-MAGEN,6.154
+1	un'	CONJ	אונ'	Avn'	_
+2	da	ADV	דאַ	dAa	_
+3	zeyn	BEF	זײן	zYN	_
+4	zi	PRO	זי	zy	_
+5	oyf	RP	אױף	AWF	_
+6	gangan	VBN	גאַנגאַן	gAangAaN	_
+7	tsu	P	צו	qv	_
+8	mzrkh	H	מזרך	mzrX	east
+
+SENT	1624E-MAGEN,6.155
+1	un'	CONJ	אונ'	Avn'	_
+2	zeyn	BEF	זײן	zYN	_
+3	ginidrt	VBN	גינידרט	gynydrt	_
+4	tsu	P	צו	qv	_
+5	merb	N	מערב	merb	west
+
+SENT	1624E-MAGEN,6.156
+1	un	CONJ	און	AvN	_
+2	ven	C	װען	VeN	_
+3	da	ADV	דאַ	dAa	_
+4	var	BEF	װאַר	VAar	_
+5	eyn	D	אײן	AYN	_
+6	tsigil	N	ציגיל	qygyl	_
+7	arbr	ADV	אַרבר	Aarbr	_
+8	gifalin	VBN	גיפֿאַלין	gyfAalyN	_
+9	da	ADV	דאַ	dAa	_
+10	hbn	HVF	הבן	hbN	_
+11	zi	PRO	זי	zy	_
+12	giveynd	VBN	גיװײנד	gyVYnd	_
+
+SENT	1624E-MAGEN,6.157
+1	un	CONJ	און	AvN	_
+2	hbn	HVF	הבן	hbN	_
+3	gizgit	VBN	גיזגיט	gyzgyt	_
+4	ven	WPRO	װען	VeN	_
+5	verin	RDF	װערין	VeryN	_
+6	mir	PRO	מיר	myr	_
+7	eyn	D	אײן	AYN	_
+8	andrn	ADJ	אַנדרן	AandrN	_
+9	bikumn	VB	ביקומן	bykvmN	_
+
+SENT	1624E-MAGEN,6.158
+1	un	CONJ	און	AvN	_
+2	da	ADV	דאַ	dAa	_
+3	hut	HVF	הוט	hvt	_
+4	abrhm	NPR	אַברהם	AabrhM	_
+5	abinu	H	אַבינו	Aabynv	father_our
+6	gizehn	VBN	גיזעהן	gyzehN	_
+7	ds	C	דס	ds	_
+8	iri	PRO$	אירי	Ayry	_
+9	verik	N	װעריק	Veryk	_
+10	varn	VBF	װאַרן	VAarN	_
+11	mkulkl	H	מקולקל	mkvlkl	broken
+
+SENT	1624E-MAGEN,6.159
+1	da	ADV	דאַ	dAa	_
+2	varn	VBF	װאַרן	VAarN	_
+3	zi	PRO	זי	zy	_
+4	abrhm	NPR	אַברהם	AabrhM	_
+5	mkll	RP-H	מקלל	mkll	_
+6	bsm	H	בסם	bsM	by_name
+7	v	H	װ	V	his
+
+SENT	1624E-MAGEN,6.160
+1	un'	CONJ	אונ'	Avn'	_
+2	zi	PRO	זי	zy	_
+3	htn	VBF	הטן	htN	_
+4	nit	NEG	ניט	nyt	_
+5	zarig	N	זאַריג	zAaryg	_
+6	tsu	P	צו	qv	_
+7	zeyni	PRO$	זײני	zYny	_
+8	rid	N	ריד	ryd	_
+
+SENT	1624E-MAGEN,6.161
+1	da	ADV	דאַ	dAa	_
+2	nidrt	VBF	נידרט	nydrt	_
+3	hk"bh	H	הק"בה	hk"bh	the_holy_blessed_he
+4	mit	P	מיט	myt	_
+5	sbeim	H	סבעיִם	sbeyiM	seventy
+6	alf	H	אַלף	AalF	thousand
+7	mlakhim	N	מלאַכים	mlAaxyM	_
+8	di	WPRO	די	dy	_
+9	da	ADV	דאַ	dAa	_
+10	um	RP	אום	AvM	_
+11	ringaltn	VBF	רינגאַלטן	ryngAaltN	_
+12	zeyn	PRO$	זײן	zYN	_
+13	shtul	N	שטול	$tvl	_
+14	un	CONJ	און	AvN	_
+15	vr	P	װר	Vr	_
+16	ir	PRO$	איר	Ayr	_
+17	sprukh	N	ספּרוך	sprvX	_
+18	tsu	P	צו	qv	_
+19	sbeim	H	סבעיִם	sbeyiM	seventy
+20	lsunut	H	לסונוט	lsvnvt	languages
+
+SENT	1624E-MAGEN,7.163
+1	un	CONJ	און	AvN	_
+2	hk"bh	H	הק"בה	hk"bh	the_holy_blessed_he
+3	sprikht	VBF	ספּריכט	spryxt	_
+4	darum	DR+P	דאַרום	dAarvM	_
+5	hb	HVF	הב	hb	_
+6	ikh	PRO	איך	AyX	_
+7	oykh	PRO	אױך	AWX	_
+8	vr_shpreyt	VBN	װר_שפּרײט	Vr_$prYt	_
+9	tsvishn	P	צװישן	qVy$N	_
+10	den	D	דען	deN	_
+11	umut_eulm	N	אומוט_עולם	Avmvt_evlM	_
+12	di	WPRO	די	dy	_
+13	mikh	PRO	מיך	myX	_
+14	nit	NEG	ניט	nyt	_
+15	kenn	VBF	קענן	kenN	_
+16	um	P	אום	AvM	_
+17	viln	N	װילן	VylN	_
+18	ds	C	דס	ds	_
+19	ir	PRO	איר	Ayr	_
+20	mir	PRO	מיר	myr	_
+21	zulst	MDF	זולסט	zvlst	_
+22	gidenkn	VB	גידענקן	gydenkN	_
+23	meyni	PRO$	מײני	mYny	_
+24	vaundr	N	װאַונדר	VAavndr	_
+
+SENT	1624E-MAGEN,7.164
+1	zikh	VBI	זיך	zyX	_
+2	nun	ADV	נ	n	_
+
+SENT	1624E-MAGEN,7.165
+1	nit	NEG	ניט	nyt	_
+2	vr_veksl	VBI	װר_װעקסל	Vr_Veksl	_
+3	mikh	PRO	מיך	myX	_
+4	an	P	אַן	AaN	_
+5	andri	ADJ	אַנדרי	Aandry	_
+6	getr	N	געטר	getr	_
+
+SENT	1624E-MAGEN,7.166
+1	den	CONJ	דען	deN	_
+2	gat	NPR	גאַט	gAat	_
+3	tut	VBF	טוט	tvt	_
+4	rukhung	N	רוכונג	rvxvng	_
+
+SENT	1624E-MAGEN,7.167
+1	den	CONJ	דען	deN	_
+2	ikh	PRO	איך	AyX	_
+3	leb	VBF	לעב	leb	_
+4	oybig	ADV	אױביג	AWbyg	_
+5	sprikht	VBF	ספּריכט	spryxt	_
+6	gat	NPR	גאַט	gAat	_
+
+SENT	1624E-MAGEN,7.168
+1	un	CONJ	און	AvN	_
+2	nit	NEG	ניט	nyt	_
+3	neyg	VBI	נײג	nYg	_
+4	dikh	PRO	דיך	dyX	_
+5	tsu	P	צו	qv	_
+6	den	D	דען	deN	_
+7	mhim	N	מהים	mhyM	_
+8	neyart	FP	נײאַרט	nYAart	_
+9	tsu	P	צו	qv	_
+10	dem	D	דעם	deM	_
+11	der	WPRO	דער	der	_
+12	da	ADV	דאַ	dAa	_
+13	mkht	VBF	מכט	mxt	_
+14	tut	ADJ	טוט	tvt	_
+15	un'	CONJ	אונ'	Avn'	_
+16	lebndig	ADJ	לעבנדיג	lebndyg	_
+
+SENT	1624E-MAGEN,7.169
+1	darum	DR+P	דאַרום	dAarvM	_
+2	zgt	VBF	זגט	zgt	_
+3	hk"bh	H	הק"בה	hk"bh	the_holy_blessed_he
+4	tsu	P	צו	qv	_
+5	isral	NPR	איסראַל	AysrAal	_
+6	da	ADV	דאַ	dAa	_
+7	hk"bh	H	הק"בה	hk"bh	the_holy_blessed_he
+8	zgit	VBF	זגיט	zgyt	_
+9	tsu	P	צו	qv	_
+10	isral	NPR	איסראַל	AysrAal	_
+
+SENT	1624E-MAGEN,7.170
+1	als	ADV	אַלס	Aals	_
+2	bld	ADV	בלד	bld	_
+3	sprkhn	VBF	ספּרכן	sprxN	_
+4	isral	NPR	איסראַל	AysrAal	_
+
+SENT	1624E-MAGEN,7.171
+1	da	ADV	דאַ	dAa	_
+2	sprakh	VBF	ספּראַך	sprAaX	_
+3	hk"bh	H	הק"בה	hk"bh	the_holy_blessed_he
+4	vidr	ADV	װידר	Vydr	_
+5	tsu	P	צו	qv	_
+6	isral	NPR	איסראַל	AysrAal	_
+7	veyl	C	װײל	VYl	_
+8	ir	PRO	איר	Ayr	_
+9	mikh	PRO	מיך	myX	_
+10	eynigt	VBF	אײניגט	AYnygt	_
+11	oyf	P	אױף	AWF	_
+12	dem	D	דעם	deM	_
+13	eylm	N	אײלם	AYlM	_
+14	za	ADV	זאַ	zAa	_
+15	vil	MDF	װיל	Vyl	_
+16	ikh	PRO	איך	AyX	_
+17	oykh	PRO	אױך	AWX	_
+18	eynign	VB	אײניגן	AYnygN	_
+19	beulm	H	בעולם	bevlM	in_world
+20	hba	H	הבאַ	hbAa	the_coming
+21	als	WADV	אַלס	Aals	_
+22	der	D	דער	der	_
+23	psuk	N	פּסוק	psvk	_
+24	git	VBF	גיט	gyt	_
+
+SENT	1624E-MAGEN,7.172
+1	ds	D	דס	ds	_
+2	iz	VBF	איז	Ayz	_
+3	teys	N	טײס	tYs	_
+4	ver	WPRO	װער	Ver	_
+5	iz	VBF	איז	Ayz	_
+6	als	P	אַלס	Aals	_
+7	isral	NPR	איסראַל	AysrAal	_
+8	eyn	D	אײן	AYN	_
+9	eynik	ADJ	אײניק	AYnyk	_
+10	valk	N	װאַלק	VAalk	_
+11	oyf	P	אױף	AWF	_
+12	erdn	N	ערדן	erdN	_
+
+SENT	1624E-MAGEN,7.173
+1	slik	H	סליק	slyk	conclusion
+2	sfr	H	ספֿר	sfr	book
+3	mgn	H	מגן	mgN	shield_of
+4	abrhm	NPR	אַברהם	AabrhM	_
+5	nslm	H	נסלם	nslM	was_completed
+6	bsnh	H	בסנה	bsnh	in_year
+7	sfd	H	ספֿד	sfd	384_1624
+8	lfk	H	לפֿק	lfk	to_detail_short
+9	amn	H	אַמן	AamN	amen
+

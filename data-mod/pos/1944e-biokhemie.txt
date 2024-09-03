@@ -1,0 +1,178 @@
+SENT	1944E-BIOKHEMIE,187.3
+1	biokhemie	N	ביִאָכעמיִע	byiAoxemyie	_
+2	der	D	דער	der	_
+3	tayl	N	טײַל	tYal	_
+4	fun	P	פֿון	fvN	_
+5	algemayner	ADJ	אַלגעמײַנער	AalgemYaner	_
+6	biologie	N	ביִאָלאָגיִע	byiAolAogyie	_
+7	un	CONJ	און	AvN	_
+8	organisher	ADJ	אָרגאַנישער	AorgAany$er	_
+9	khemie	N	כעמיִע	xemyie	_
+10	,	PUNC	,	,	_
+11	vos	C	װאָס	VAos	_
+12	farnemt	VBF	פֿאַרנעמט	fAarnemt	_
+13	zikh	PRO	זיך	zyX	_
+14	mit	P	מיט	myt	_
+15	oys	RP	אױס	AWs	_
+16	forshn	VB	פֿאָרשן	fAor$N	_
+17	di	D	די	dy	_
+18	khemishe	ADJ	כעמישע	xemy$e	_
+19	un	CONJ	און	AvN	_
+20	fizikalish-khemishe	ADJ	פֿיזיקאַליש-כעמישע	fyzykAaly$-xemy$e	_
+21	protsesn	N	פּראָצעסן	prAoqesN	_
+22	in	P	אין	AyN	_
+23	leybedike	ADJ	לײבעדיקע	lYbedyke	_
+24	organizmen	N	אָרגאַניזמען	AorgAanyzmeN	_
+25	.	PUNC	.	.	_
+
+SENT	1944E-BIOKHEMIE,187.4
+1	umetum	ADV	אומעטום	AvmetvM	_
+2	vu	WADV	װוּ	VU	_
+3	s	ES	ס	s	_
+4	iz	VBF	איז	Ayz	_
+5	faran	ADJ	פֿאַראַן	fAarAaN	_
+6	leybn	N	לײבן	lYbN	_
+7	,	PUNC	,	,	_
+8	kumen	VBF	קומען	kvmeN	_
+9	ksayder	ADV	קסײַדער	ksYader	_
+10	fur	RP	פֿור	fvr	_
+11	khemishe	ADJ	כעמישע	xemy$e	_
+12	protsesn	N	פּראָצעסן	prAoqesN	_
+13	:	PUNC	:	:	_
+
+SENT	1944E-BIOKHEMIE,187.5
+1	khemishe	ADJ	כעמישע	xemy$e	_
+2	farbindungen	N	פֿאַרבינדונגען	fAarbyndvngeN	_
+3	vern	RDF	װערן	VerN	_
+4	ksayder	ADV	קסײַדער	ksYader	_
+5	tseshtert	VAN	צעשטערט	qe$tert	_
+
+SENT	1944E-BIOKHEMIE,187.6
+1	un	CONJ	און	AvN	_
+2	naye	ADJ	נײַע	nYae	_
+3	vern	RDF	װערן	VerN	_
+4	geboyt	VAN	געבױט	gebWt	_
+5	.	PUNC	.	.	_
+
+SENT	1944E-BIOKHEMIE,187.7
+1	leybedike	ADJ	לײבעדיקע	lYbedyke	_
+2	organizmen	N	אָרגאַניזמען	AorgAanyzmeN	_
+3	zenen	VBF	זענען	zeneN	_
+4	laboratories	N	לאַבאָראַטאָריִעס	lAabAorAatAoryies	_
+5	,	PUNC	,	,	_
+6	vos	C	װאָס	VAos	_
+7	farendern	VBF	פֿאַרענדערן	fAarenderN	_
+8	khemishe	ADJ	כעמישע	xemy$e	_
+9	shtofn	N	שטאָפֿן	$tAofN	_
+10	of	P	עוף	evF	_
+11	aza	ADJ	אַזאַ	AazAa	_
+12	oyfn	N	אױפֿן	AWfN	_
+13	,	PUNC	,	,	_
+14	az	C	אַז	Aaz	_
+15	zey	PRO	זײ	zY	_
+16	zoln	MDF	זאָלן	zAolN	_
+17	zayn	BE	זײַן	zYaN	_
+18	tsu	RP	צו	qv	_
+19	gepast	VAN	געפּאַסט	gepAast	_
+20-21	farnn	P~D	פֿאַרנן	fAarnN	_
+20	farn	P	פֿאַרן	fAarN	_
+21	n	D	נ	n	_
+22	gebroykh	N	געברױך	gebrWX	_
+23-24	funem	P~D	פֿונעם	fvneM	_
+23	fun	P	פֿון	fvN	_
+24	em	D	עם	eM	_
+25	organizm	N	אָרגאַניזם	AorgAanyzM	_
+26	.	PUNC	.	.	_
+
+SENT	1944E-BIOKHEMIE,187.8
+1	yeder	Q	יעדער	yeder	_
+2	leybediker	ADJ	לײבעדיקער	lYbedyker	_
+3	un	CONJ	און	AvN	_
+4	normal	ADV	נאָרמאַל	nAormAal	_
+5	funktsionirndiker	VAG	פֿונקציִאָנירנדיקער	fvnkqyiAonyrndyker	_
+6	organizm	N	אָרגאַניזם	AorgAanyzM	_
+7	boyt	VBF	בױט	bWt	_
+8	yene	D	יענע	yene	_
+9	khemishe	ADJ	כעמישע	xemy$e	_
+10	farbindungen	N	פֿאַרבינדונגען	fAarbyndvngeN	_
+11	,	PUNC	,	,	_
+12	vos	C	װאָס	VAos	_
+13	zenen	VBF	זענען	zeneN	_
+14	im	PRO	אים	AyM	_
+15	naytik	ADJ	נײַטיק	nYatyk	_
+16	,	PUNC	,	,	_
+17	kedey	C	כּדי	Kdy	_
+18	of	RP	עוף	evF	_
+19	tsu	TO	צו	qv	_
+20	haltn	VB	האַלטן	hAaltN	_
+21	di	D	די	dy	_
+22	normale	ADJ	נאָרמאַלע	nAormAale	_
+23	funktsionirungen	N	פֿונקציִאָנירונגען	fvnkqyiAonyrvngeN	_
+24	fun	P	פֿון	fvN	_
+25	ale	Q	אַלע	Aale	_
+26	zayne	PRO$	זײַנע	zYane	_
+27	organen	N	אָרגאַנען	AorgAaneN	_
+
+SENT	1944E-BIOKHEMIE,187.9
+1	ven	C	װען	VeN	_
+2	der	D	דער	der	_
+3	organizm	N	אָרגאַניזם	AorgAanyzM	_
+4	iz	VBF	איז	Ayz	_
+5	nit	NEG	ניט	nyt	_
+6	bekoyekh	ADJ	בכּוח	bKvH	_
+7	tsu	TO	צו	qv	_
+8	regulirn	VB	רעגולירן	regvlyrN	_
+9	zeyne	PRO$	זײנע	zYne	_
+10	biokhemishe	ADJ	ביִאָכעמישע	byiAoxemy$e	_
+11	protsesn	N	פּראָצעסן	prAoqesN	_
+12	,	PUNC	,	,	_
+13	demolt	ADV	דעמאָלט	demAolt	_
+14	vert	RDF	װערט	Vert	_
+15	in	P	אין	AyN	_
+16	im	PRO	אים	AyM	_
+17	tseshtert	VAN	צעשטערט	qe$tert	_
+18	di	D	די	dy	_
+19	khemishe	ADJ	כעמישע	xemy$e	_
+20	glaykh-vog	N	גלײַך-װאָג	glYaX-VAog	_
+21	,	PUNC	,	,	_
+
+SENT	1944E-BIOKHEMIE,187.10
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	poyl-yoytse	N	פּױל-יוצא	pWl-yvqA	_
+4	iz	VBF	איז	Ayz	_
+5	a	D	אַ	Aa	_
+6	patologisher	ADJ	פּאַטאָלאָגישער	pAatAolAogy$er	_
+7	krankhafter	ADJ	קראַנכאַפֿטער	krAanxAafter	_
+8	tsushtand	N	צושטאַנד	qv$tAand	_
+9	.	PUNC	.	.	_
+
+SENT	1944E-BIOKHEMIE,187.11
+1	mir	PRO	מיר	myr	_
+2	kenen	MDF	קענען	keneN	_
+3	di_dozike	D	די_דאָזיקע	dy_dAozyke	_
+4	ershaynungen	N	ערשײַנונגען	er$YanvngeN	_
+5	baobakhtn	VB	באַאָבאַכטן	bAaAobAaxtN	_
+6	bay	P	בײַ	bYa	_
+7	mentshn	N	מענטשן	ment$N	_
+8	,	PUNC	,	,	_
+9	vos	C	װאָס	VAos	_
+10	farlirn	VBF	פֿאַרלירן	fAarlyrN	_
+11	taylvayz	ADV	טײַלװײַז	tYalVYaz	_
+12	makhmes	P	מחמת	mHmS	_
+13	a	D	אַ	Aa	_
+14	geviser	ADJ	געװיסער	geVyser	_
+15	sibe	N	סיבה	sybh	_
+16	ts.b.	X	צ.ב.	q.b.	_
+17	an	D	אַן	AaN	_
+18	onshtekung	N	אָנשטעקונג	Aon$tekvng	_
+19	mit	P	מיט	myt	_
+20	sheydlekhe	ADJ	שײדלעכע	$Ydlexe	_
+21	bakteries	N	באַקטעריִעס	bAakteryies	_
+22	dem	D	דעם	deM	_
+23	kontrol	N	קאָנטראָל	kAontrAol	_
+24	iber	P	איבער	Ayber	_
+25	dem	D	דעם	deM	_
+26	shtof-bayt	N	שטאָף-בײַט	$tAoF-bYat	_
+27	.	PUNC	.	.	_
+

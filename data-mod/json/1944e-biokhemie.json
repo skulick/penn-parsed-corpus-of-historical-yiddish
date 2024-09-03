@@ -1,0 +1,1352 @@
+[
+    {
+        "leaves": [],
+        "tree": "(CODE <BEGIN_1944e-biokhemie>)",
+        "tree_id": "notreeid"
+    },
+    {
+        "leaves": [],
+        "tree": "(CODE <P_187>)",
+        "tree_id": "notreeid"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "biokhemie",
+                "start": 1,
+                "ycode": "byiAoxemyie",
+                "yid": "ביִאָכעמיִע"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "der",
+                "start": 2,
+                "ycode": "der",
+                "yid": "דער"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "tayl",
+                "start": 3,
+                "ycode": "tYal",
+                "yid": "טײַל"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "fun",
+                "start": 4,
+                "ycode": "fvN",
+                "yid": "פֿון"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "algemayner",
+                "start": 5,
+                "ycode": "AalgemYaner",
+                "yid": "אַלגעמײַנער"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "biologie",
+                "start": 6,
+                "ycode": "byiAolAogyie",
+                "yid": "ביִאָלאָגיִע"
+            },
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "un",
+                "start": 7,
+                "ycode": "AvN",
+                "yid": "און"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "organisher",
+                "start": 8,
+                "ycode": "AorgAany$er",
+                "yid": "אָרגאַנישער"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "khemie",
+                "start": 9,
+                "ycode": "xemyie",
+                "yid": "כעמיִע"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": ",",
+                "start": 10,
+                "ycode": ",",
+                "yid": ","
+            },
+            {
+                "ltype": "st",
+                "pos": "C",
+                "rom": "vos",
+                "start": 11,
+                "ycode": "VAos",
+                "yid": "װאָס"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "farnemt",
+                "start": 12,
+                "ycode": "fAarnemt",
+                "yid": "פֿאַרנעמט"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "zikh",
+                "start": 13,
+                "ycode": "zyX",
+                "yid": "זיך"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "mit",
+                "start": 14,
+                "ycode": "myt",
+                "yid": "מיט"
+            },
+            {
+                "ltype": "st",
+                "pos": "RP",
+                "rom": "oys",
+                "start": 15,
+                "ycode": "AWs",
+                "yid": "אױס"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "forshn",
+                "start": 16,
+                "ycode": "fAor$N",
+                "yid": "פֿאָרשן"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "di",
+                "start": 17,
+                "ycode": "dy",
+                "yid": "די"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "khemishe",
+                "start": 18,
+                "ycode": "xemy$e",
+                "yid": "כעמישע"
+            },
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "un",
+                "start": 19,
+                "ycode": "AvN",
+                "yid": "און"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "fizikalish-khemishe",
+                "start": 20,
+                "ycode": "fyzykAaly$-xemy$e",
+                "yid": "פֿיזיקאַליש-כעמישע"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "protsesn",
+                "start": 21,
+                "ycode": "prAoqesN",
+                "yid": "פּראָצעסן"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "in",
+                "start": 22,
+                "ycode": "AyN",
+                "yid": "אין"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "leybedike",
+                "start": 23,
+                "ycode": "lYbedyke",
+                "yid": "לײבעדיקע"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "organizmen",
+                "start": 24,
+                "ycode": "AorgAanyzmeN",
+                "yid": "אָרגאַניזמען"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": ".",
+                "start": 25,
+                "ycode": ".",
+                "yid": "."
+            }
+        ],
+        "tree": "(FRAG (NP-SBJ (N biokhemie)) (NP-PRD (D der) (N tayl) (PP (P fun) (NP (NP (ADJ algemayner) (N biologie)) (CONJP (CONJ un) (NP (ADJ organisher) (N khemie))))) (PUNC ,) (CP-REL (WNP-1 (-NONE- 0)) (C vos) (IP-SUB (NP-SBJ (-NONE- *T*-1)) (VBF farnemt) (NP-RFL (PRO zikh)) (PP (P mit) (IP-INF (RP oys) (VB forshn) (NP-ACC (D di) (ADJP (ADJ khemishe) (CONJ un) (ADJ fizikalish-khemishe)) (N protsesn) (PP (P in) (NP (ADJ leybedike) (N organizmen))))))))) (PUNC .))",
+        "tree_id": "1944E-BIOKHEMIE,187.3"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "umetum",
+                "start": 1,
+                "ycode": "AvmetvM",
+                "yid": "אומעטום"
+            },
+            {
+                "ltype": "st",
+                "pos": "WADV",
+                "rom": "vu",
+                "start": 2,
+                "ycode": "VU",
+                "yid": "װוּ"
+            },
+            {
+                "ltype": "st",
+                "pos": "ES",
+                "rom": "s",
+                "start": 3,
+                "ycode": "s",
+                "yid": "ס"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "iz",
+                "start": 4,
+                "ycode": "Ayz",
+                "yid": "איז"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "faran",
+                "start": 5,
+                "ycode": "fAarAaN",
+                "yid": "פֿאַראַן"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "leybn",
+                "start": 6,
+                "ycode": "lYbN",
+                "yid": "לײבן"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": ",",
+                "start": 7,
+                "ycode": ",",
+                "yid": ","
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "kumen",
+                "start": 8,
+                "ycode": "kvmeN",
+                "yid": "קומען"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "ksayder",
+                "start": 9,
+                "ycode": "ksYader",
+                "yid": "קסײַדער"
+            },
+            {
+                "ltype": "st",
+                "pos": "RP",
+                "rom": "fur",
+                "start": 10,
+                "ycode": "fvr",
+                "yid": "פֿור"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "khemishe",
+                "start": 11,
+                "ycode": "xemy$e",
+                "yid": "כעמישע"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "protsesn",
+                "start": 12,
+                "ycode": "prAoqesN",
+                "yid": "פּראָצעסן"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": ":",
+                "start": 13,
+                "ycode": ":",
+                "yid": ":"
+            }
+        ],
+        "tree": "(IP-MAT (ADVP-LOC (ADV umetum) (CP-REL (WADVP-1 (WADV vu)) (IP-SUB (ADVP-LOC (-NONE- *T*-1)) (NP-SBJ (ES s)) (VBF iz) (ADJP-PRD (ADJ faran)) (NP-LGS (N leybn))))) (PUNC ,) (VBF kumen) (ADVP (ADV ksayder)) (RP fur) (NP-SBJ (ADJ khemishe) (N protsesn)) (PUNC :))",
+        "tree_id": "1944E-BIOKHEMIE,187.4"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "khemishe",
+                "start": 1,
+                "ycode": "xemy$e",
+                "yid": "כעמישע"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "farbindungen",
+                "start": 2,
+                "ycode": "fAarbyndvngeN",
+                "yid": "פֿאַרבינדונגען"
+            },
+            {
+                "ltype": "st",
+                "pos": "RDF",
+                "rom": "vern",
+                "start": 3,
+                "ycode": "VerN",
+                "yid": "װערן"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "ksayder",
+                "start": 4,
+                "ycode": "ksYader",
+                "yid": "קסײַדער"
+            },
+            {
+                "ltype": "st",
+                "pos": "VAN",
+                "rom": "tseshtert",
+                "start": 5,
+                "ycode": "qe$tert",
+                "yid": "צעשטערט"
+            }
+        ],
+        "tree": "(IP-MAT (NP-SBJ (ADJ khemishe) (N farbindungen)) (RDF vern) (ADVP (ADV ksayder)) (VAN tseshtert))",
+        "tree_id": "1944E-BIOKHEMIE,187.5"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "un",
+                "start": 1,
+                "ycode": "AvN",
+                "yid": "און"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "naye",
+                "start": 2,
+                "ycode": "nYae",
+                "yid": "נײַע"
+            },
+            {
+                "ltype": "st",
+                "pos": "RDF",
+                "rom": "vern",
+                "start": 3,
+                "ycode": "VerN",
+                "yid": "װערן"
+            },
+            {
+                "ltype": "st",
+                "pos": "VAN",
+                "rom": "geboyt",
+                "start": 4,
+                "ycode": "gebWt",
+                "yid": "געבױט"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": ".",
+                "start": 5,
+                "ycode": ".",
+                "yid": "."
+            }
+        ],
+        "tree": "(IP-MAT (CONJ un) (NP-SBJ (ADJ naye) (N (-NONE- 0))) (RDF vern) (VAN geboyt) (PUNC .))",
+        "tree_id": "1944E-BIOKHEMIE,187.6"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "leybedike",
+                "start": 1,
+                "ycode": "lYbedyke",
+                "yid": "לײבעדיקע"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "organizmen",
+                "start": 2,
+                "ycode": "AorgAanyzmeN",
+                "yid": "אָרגאַניזמען"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "zenen",
+                "start": 3,
+                "ycode": "zeneN",
+                "yid": "זענען"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "laboratories",
+                "start": 4,
+                "ycode": "lAabAorAatAoryies",
+                "yid": "לאַבאָראַטאָריִעס"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": ",",
+                "start": 5,
+                "ycode": ",",
+                "yid": ","
+            },
+            {
+                "ltype": "st",
+                "pos": "C",
+                "rom": "vos",
+                "start": 6,
+                "ycode": "VAos",
+                "yid": "װאָס"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "farendern",
+                "start": 7,
+                "ycode": "fAarenderN",
+                "yid": "פֿאַרענדערן"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "khemishe",
+                "start": 8,
+                "ycode": "xemy$e",
+                "yid": "כעמישע"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "shtofn",
+                "start": 9,
+                "ycode": "$tAofN",
+                "yid": "שטאָפֿן"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "of",
+                "start": 10,
+                "ycode": "evF",
+                "yid": "עוף"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "aza",
+                "start": 11,
+                "ycode": "AazAa",
+                "yid": "אַזאַ"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "oyfn",
+                "start": 12,
+                "ycode": "AWfN",
+                "yid": "אױפֿן"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": ",",
+                "start": 13,
+                "ycode": ",",
+                "yid": ","
+            },
+            {
+                "ltype": "st",
+                "pos": "C",
+                "rom": "az",
+                "start": 14,
+                "ycode": "Aaz",
+                "yid": "אַז"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "zey",
+                "start": 15,
+                "ycode": "zY",
+                "yid": "זײ"
+            },
+            {
+                "ltype": "st",
+                "pos": "MDF",
+                "rom": "zoln",
+                "start": 16,
+                "ycode": "zAolN",
+                "yid": "זאָלן"
+            },
+            {
+                "ltype": "st",
+                "pos": "BE",
+                "rom": "zayn",
+                "start": 17,
+                "ycode": "zYaN",
+                "yid": "זײַן"
+            },
+            {
+                "ltype": "st",
+                "pos": "RP",
+                "rom": "tsu",
+                "start": 18,
+                "ycode": "qv",
+                "yid": "צו"
+            },
+            {
+                "ltype": "st",
+                "pos": "VAN",
+                "rom": "gepast",
+                "start": 19,
+                "ycode": "gepAast",
+                "yid": "געפּאַסט"
+            },
+            {
+                "end": 21,
+                "ltype": "s",
+                "pos": "P~D",
+                "rom": "farnn",
+                "start": 20,
+                "ycode": "fAarnN",
+                "yid": "פֿאַרנן"
+            },
+            {
+                "ltype": "t",
+                "pos": "P",
+                "rom": "farn",
+                "split_after": true,
+                "start": 20,
+                "ycode": "fAarN",
+                "yid": "פֿאַרן"
+            },
+            {
+                "ltype": "t",
+                "pos": "D",
+                "rom": "n",
+                "split_before": true,
+                "start": 21,
+                "ycode": "n",
+                "yid": "נ"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "gebroykh",
+                "start": 22,
+                "ycode": "gebrWX",
+                "yid": "געברױך"
+            },
+            {
+                "end": 24,
+                "ltype": "s",
+                "pos": "P~D",
+                "rom": "funem",
+                "start": 23,
+                "ycode": "fvneM",
+                "yid": "פֿונעם"
+            },
+            {
+                "ltype": "t",
+                "pos": "P",
+                "rom": "fun",
+                "split_after": true,
+                "start": 23,
+                "ycode": "fvN",
+                "yid": "פֿון"
+            },
+            {
+                "ltype": "t",
+                "pos": "D",
+                "rom": "em",
+                "split_before": true,
+                "start": 24,
+                "ycode": "eM",
+                "yid": "עם"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "organizm",
+                "start": 25,
+                "ycode": "AorgAanyzM",
+                "yid": "אָרגאַניזם"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": ".",
+                "start": 26,
+                "ycode": ".",
+                "yid": "."
+            }
+        ],
+        "tree": "(IP-MAT (NP-SBJ (ADJ leybedike) (N organizmen)) (VBF zenen) (NP-PRD (N laboratories) (PUNC ,) (CP-REL (WNP-1 (-NONE- 0)) (C vos) (IP-SUB (NP-SBJ (-NONE- *T*-1)) (VBF farendern) (NP-ACC (ADJ khemishe) (N shtofn)) (PP (P of) (NP (ADJ aza) (N oyfn) (PUNC ,) (CP-DEG (C az) (IP-SUB (NP-SBJ (PRO zey)) (MDF zoln) (BE zayn) (RP tsu) (VAN gepast) (PP (P farn@) (NP (D @n) (N gebroykh) (PP (P fun@) (NP (D @em) (N organizm)))))))))))) (PUNC .))",
+        "tree_id": "1944E-BIOKHEMIE,187.7"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "Q",
+                "rom": "yeder",
+                "start": 1,
+                "ycode": "yeder",
+                "yid": "יעדער"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "leybediker",
+                "start": 2,
+                "ycode": "lYbedyker",
+                "yid": "לײבעדיקער"
+            },
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "un",
+                "start": 3,
+                "ycode": "AvN",
+                "yid": "און"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "normal",
+                "start": 4,
+                "ycode": "nAormAal",
+                "yid": "נאָרמאַל"
+            },
+            {
+                "ltype": "st",
+                "pos": "VAG",
+                "rom": "funktsionirndiker",
+                "start": 5,
+                "ycode": "fvnkqyiAonyrndyker",
+                "yid": "פֿונקציִאָנירנדיקער"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "organizm",
+                "start": 6,
+                "ycode": "AorgAanyzM",
+                "yid": "אָרגאַניזם"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "boyt",
+                "start": 7,
+                "ycode": "bWt",
+                "yid": "בױט"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "yene",
+                "start": 8,
+                "ycode": "yene",
+                "yid": "יענע"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "khemishe",
+                "start": 9,
+                "ycode": "xemy$e",
+                "yid": "כעמישע"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "farbindungen",
+                "start": 10,
+                "ycode": "fAarbyndvngeN",
+                "yid": "פֿאַרבינדונגען"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": ",",
+                "start": 11,
+                "ycode": ",",
+                "yid": ","
+            },
+            {
+                "ltype": "st",
+                "pos": "C",
+                "rom": "vos",
+                "start": 12,
+                "ycode": "VAos",
+                "yid": "װאָס"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "zenen",
+                "start": 13,
+                "ycode": "zeneN",
+                "yid": "זענען"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "im",
+                "start": 14,
+                "ycode": "AyM",
+                "yid": "אים"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "naytik",
+                "start": 15,
+                "ycode": "nYatyk",
+                "yid": "נײַטיק"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": ",",
+                "start": 16,
+                "ycode": ",",
+                "yid": ","
+            },
+            {
+                "ltype": "st",
+                "pos": "C",
+                "rom": "kedey",
+                "start": 17,
+                "ycode": "Kdy",
+                "yid": "כּדי"
+            },
+            {
+                "ltype": "st",
+                "pos": "RP",
+                "rom": "of",
+                "start": 18,
+                "ycode": "evF",
+                "yid": "עוף"
+            },
+            {
+                "ltype": "st",
+                "pos": "TO",
+                "rom": "tsu",
+                "start": 19,
+                "ycode": "qv",
+                "yid": "צו"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "haltn",
+                "start": 20,
+                "ycode": "hAaltN",
+                "yid": "האַלטן"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "di",
+                "start": 21,
+                "ycode": "dy",
+                "yid": "די"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "normale",
+                "start": 22,
+                "ycode": "nAormAale",
+                "yid": "נאָרמאַלע"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "funktsionirungen",
+                "start": 23,
+                "ycode": "fvnkqyiAonyrvngeN",
+                "yid": "פֿונקציִאָנירונגען"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "fun",
+                "start": 24,
+                "ycode": "fvN",
+                "yid": "פֿון"
+            },
+            {
+                "ltype": "st",
+                "pos": "Q",
+                "rom": "ale",
+                "start": 25,
+                "ycode": "Aale",
+                "yid": "אַלע"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO$",
+                "rom": "zayne",
+                "start": 26,
+                "ycode": "zYane",
+                "yid": "זײַנע"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "organen",
+                "start": 27,
+                "ycode": "AorgAaneN",
+                "yid": "אָרגאַנען"
+            }
+        ],
+        "tree": "(IP-MAT (NP-SBJ (Q yeder) (ADJP (ADJP (ADJ leybediker)) (CONJP (CONJ un) (ADJP (ADV normal) (VAG funktsionirndiker)))) (N organizm)) (VBF boyt) (NP-ACC (D yene) (ADJ khemishe) (N farbindungen) (PUNC ,) (CP-REL (WNP-1 (-NONE- 0)) (C vos) (IP-SUB (NP-SBJ (-NONE- *T*-1)) (VBF zenen) (NP-DTV (PRO im)) (ADJP-PRD (ADJ naytik)) (PUNC ,) (CP-ADV (C kedey) (IP-INF (RP of) (TO tsu) (VB haltn) (NP-ACC (D di) (ADJ normale) (N funktsionirungen) (PP (P fun) (NP (Q ale) (PRO$ zayne) (N organen))))))))))",
+        "tree_id": "1944E-BIOKHEMIE,187.8"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "C",
+                "rom": "ven",
+                "start": 1,
+                "ycode": "VeN",
+                "yid": "װען"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "der",
+                "start": 2,
+                "ycode": "der",
+                "yid": "דער"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "organizm",
+                "start": 3,
+                "ycode": "AorgAanyzM",
+                "yid": "אָרגאַניזם"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "iz",
+                "start": 4,
+                "ycode": "Ayz",
+                "yid": "איז"
+            },
+            {
+                "ltype": "st",
+                "pos": "NEG",
+                "rom": "nit",
+                "start": 5,
+                "ycode": "nyt",
+                "yid": "ניט"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "bekoyekh",
+                "start": 6,
+                "ycode": "bKvH",
+                "yid": "בכּוח"
+            },
+            {
+                "ltype": "st",
+                "pos": "TO",
+                "rom": "tsu",
+                "start": 7,
+                "ycode": "qv",
+                "yid": "צו"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "regulirn",
+                "start": 8,
+                "ycode": "regvlyrN",
+                "yid": "רעגולירן"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO$",
+                "rom": "zeyne",
+                "start": 9,
+                "ycode": "zYne",
+                "yid": "זײנע"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "biokhemishe",
+                "start": 10,
+                "ycode": "byiAoxemy$e",
+                "yid": "ביִאָכעמישע"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "protsesn",
+                "start": 11,
+                "ycode": "prAoqesN",
+                "yid": "פּראָצעסן"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": ",",
+                "start": 12,
+                "ycode": ",",
+                "yid": ","
+            },
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "demolt",
+                "start": 13,
+                "ycode": "demAolt",
+                "yid": "דעמאָלט"
+            },
+            {
+                "ltype": "st",
+                "pos": "RDF",
+                "rom": "vert",
+                "start": 14,
+                "ycode": "Vert",
+                "yid": "װערט"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "in",
+                "start": 15,
+                "ycode": "AyN",
+                "yid": "אין"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "im",
+                "start": 16,
+                "ycode": "AyM",
+                "yid": "אים"
+            },
+            {
+                "ltype": "st",
+                "pos": "VAN",
+                "rom": "tseshtert",
+                "start": 17,
+                "ycode": "qe$tert",
+                "yid": "צעשטערט"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "di",
+                "start": 18,
+                "ycode": "dy",
+                "yid": "די"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "khemishe",
+                "start": 19,
+                "ycode": "xemy$e",
+                "yid": "כעמישע"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "glaykh-vog",
+                "start": 20,
+                "ycode": "glYaX-VAog",
+                "yid": "גלײַך-װאָג"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": ",",
+                "start": 21,
+                "ycode": ",",
+                "yid": ","
+            }
+        ],
+        "tree": "(IP-MAT (CP-ADV-LFD (C ven) (IP-SUB (NP-SBJ (D der) (N organizm)) (VBF iz) (NEG nit) (ADJP-PRD (ADJ bekoyekh) (IP-INF (TO tsu) (VB regulirn) (NP-ACC (PRO$ zeyne) (ADJ biokhemishe) (N protsesn)))))) (PUNC ,) (ADVP-RSP (ADV demolt)) (RDF vert) (PP (P in) (NP (PRO im))) (VAN tseshtert) (NP-SBJ (D di) (ADJ khemishe) (N glaykh-vog)) (PUNC ,))",
+        "tree_id": "1944E-BIOKHEMIE,187.9"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "un",
+                "start": 1,
+                "ycode": "AvN",
+                "yid": "און"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "der",
+                "start": 2,
+                "ycode": "der",
+                "yid": "דער"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "poyl-yoytse",
+                "start": 3,
+                "ycode": "pWl-yvqA",
+                "yid": "פּױל-יוצא"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "iz",
+                "start": 4,
+                "ycode": "Ayz",
+                "yid": "איז"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "a",
+                "start": 5,
+                "ycode": "Aa",
+                "yid": "אַ"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "patologisher",
+                "start": 6,
+                "ycode": "pAatAolAogy$er",
+                "yid": "פּאַטאָלאָגישער"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "krankhafter",
+                "start": 7,
+                "ycode": "krAanxAafter",
+                "yid": "קראַנכאַפֿטער"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "tsushtand",
+                "start": 8,
+                "ycode": "qv$tAand",
+                "yid": "צושטאַנד"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": ".",
+                "start": 9,
+                "ycode": ".",
+                "yid": "."
+            }
+        ],
+        "tree": "(IP-MAT (CONJ un) (NP-SBJ (D der) (N poyl-yoytse)) (VBF iz) (NP-PRD (D a) (ADJ patologisher) (ADJ krankhafter) (N tsushtand)) (PUNC .))",
+        "tree_id": "1944E-BIOKHEMIE,187.10"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "mir",
+                "start": 1,
+                "ycode": "myr",
+                "yid": "מיר"
+            },
+            {
+                "ltype": "st",
+                "pos": "MDF",
+                "rom": "kenen",
+                "start": 2,
+                "ycode": "keneN",
+                "yid": "קענען"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "di_dozike",
+                "start": 3,
+                "ycode": "dy_dAozyke",
+                "yid": "די_דאָזיקע"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "ershaynungen",
+                "start": 4,
+                "ycode": "er$YanvngeN",
+                "yid": "ערשײַנונגען"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "baobakhtn",
+                "start": 5,
+                "ycode": "bAaAobAaxtN",
+                "yid": "באַאָבאַכטן"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "bay",
+                "start": 6,
+                "ycode": "bYa",
+                "yid": "בײַ"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "mentshn",
+                "start": 7,
+                "ycode": "ment$N",
+                "yid": "מענטשן"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": ",",
+                "start": 8,
+                "ycode": ",",
+                "yid": ","
+            },
+            {
+                "ltype": "st",
+                "pos": "C",
+                "rom": "vos",
+                "start": 9,
+                "ycode": "VAos",
+                "yid": "װאָס"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "farlirn",
+                "start": 10,
+                "ycode": "fAarlyrN",
+                "yid": "פֿאַרלירן"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "taylvayz",
+                "start": 11,
+                "ycode": "tYalVYaz",
+                "yid": "טײַלװײַז"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "makhmes",
+                "start": 12,
+                "ycode": "mHmS",
+                "yid": "מחמת"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "a",
+                "start": 13,
+                "ycode": "Aa",
+                "yid": "אַ"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "geviser",
+                "start": 14,
+                "ycode": "geVyser",
+                "yid": "געװיסער"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "sibe",
+                "start": 15,
+                "ycode": "sybh",
+                "yid": "סיבה"
+            },
+            {
+                "ltype": "st",
+                "pos": "X",
+                "rom": "ts.b.",
+                "start": 16,
+                "ycode": "q.b.",
+                "yid": "צ.ב."
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "an",
+                "start": 17,
+                "ycode": "AaN",
+                "yid": "אַן"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "onshtekung",
+                "start": 18,
+                "ycode": "Aon$tekvng",
+                "yid": "אָנשטעקונג"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "mit",
+                "start": 19,
+                "ycode": "myt",
+                "yid": "מיט"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "sheydlekhe",
+                "start": 20,
+                "ycode": "$Ydlexe",
+                "yid": "שײדלעכע"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "bakteries",
+                "start": 21,
+                "ycode": "bAakteryies",
+                "yid": "באַקטעריִעס"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "dem",
+                "start": 22,
+                "ycode": "deM",
+                "yid": "דעם"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "kontrol",
+                "start": 23,
+                "ycode": "kAontrAol",
+                "yid": "קאָנטראָל"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "iber",
+                "start": 24,
+                "ycode": "Ayber",
+                "yid": "איבער"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "dem",
+                "start": 25,
+                "ycode": "deM",
+                "yid": "דעם"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "shtof-bayt",
+                "start": 26,
+                "ycode": "$tAoF-bYat",
+                "yid": "שטאָף-בײַט"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": ".",
+                "start": 27,
+                "ycode": ".",
+                "yid": "."
+            }
+        ],
+        "tree": "(IP-MAT (NP-SBJ (PRO mir)) (MDF kenen) (NP-ACC (D di_dozike) (N ershaynungen)) (VB baobakhtn) (PP (P bay) (NP (N mentshn) (PUNC ,) (CP-REL (WNP-1 (-NONE- 0)) (C vos) (IP-SUB (NP-SBJ (-NONE- *T*-1)) (VBF farlirn) (ADVP (ADV taylvayz)) (PP (P makhmes) (NP (D a) (ADJ geviser) (N sibe) (NP-PRN (X ts.b.) (D an) (N onshtekung) (PP (P mit) (NP (ADJ sheydlekhe) (N bakteries)))))) (NP-ACC (D dem) (N kontrol) (PP (P iber) (NP (D dem) (N shtof-bayt)))))))) (PUNC .))",
+        "tree_id": "1944E-BIOKHEMIE,187.11"
+    }
+]

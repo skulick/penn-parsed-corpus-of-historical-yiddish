@@ -1,0 +1,2750 @@
+SENT	1750W-MOSES,697.3
+1	eyn	D	אײן	AYN	_
+2	gutn	ADJ	גוטן	gvtN	_
+3	abnt	N	אַבנט	Aabnt	_
+4	zal	MDF	ז"ל	z"l	_
+5	eykh	PRO	אײך	AYX	_
+6	gat	NPR	גאַט	gAat	_
+7	gebin	VB	געבין	gebyN	_
+8	heynt	ADV	הײנט	hYnt	_
+9	und	CONJ	אונד	Avnd	_
+10	alir_vegin	ADV	אַליר_װעגין	Aalyr_VegyN	_
+
+SENT	1750W-MOSES,697.4
+1	velt	MDF	װעלט	Velt	_
+2	ir	PRO	איר	Ayr	_
+3	mikh	PRO	מיך	myX	_
+4	tan	DO	טאַן	tAaN	_
+5	kenn	VB	קענן	kenN	_
+6	meyn	PRO$	מײן	mYN	_
+7	namin	N	נאַמין	nAamyN	_
+8	vil	MDF	װיל	Vyl	_
+9	ikh	PRO	איך	AyX	_
+10	eykh	PRO	אײך	AYX	_
+11	nenin	VB	נענין	nenyN	_
+
+SENT	1750W-MOSES,697.5
+1	msh	NPR	מש	m$	_
+2	bn	NPR	בן	bN	_
+3	emrm	NPR	עמרם	emrM	_
+4	bin	BEF	בין	byN	_
+5	ikh	PRO	איך	AyX	_
+6	ginant	VAN	גינאַנט	gynAant	_
+
+SENT	1750W-MOSES,697.6
+1	eyn	D	אײן	AYN	_
+2	ebd	X	עבד	ebd	_
+3	namn	N	נאַמן	nAamN	_
+4	bey	P	בײ	bY	_
+5	den	D	דען	deN	_
+6	almekhtign	ADJ	אַלמעכטיגן	AalmextygN	_
+7	gat	NPR	גאַט	gAat	_
+8	bin	VBF	בין	byN	_
+9	ikh	PRO	איך	AyX	_
+10	gar	ADV	גאַר	gAar	_
+11	vaul	ADV	װאַול	VAavl	_
+12	bekant	ADJ	בעקאַנט	bekAant	_
+
+SENT	1750W-MOSES,697.7
+1	den	CONJ	דען	deN	_
+2	dr	D	דר	dr	_
+3	almekhtigr	ADJ	אַלמעכטיגר	Aalmextygr	_
+4	gt	NPR	גט	gt	_
+5	hat	HVF	האַט	hAat	_
+6	tsu	P	צו	qv	_
+7	mir	PRO	מיר	myr	_
+8	tan	DON-IPP	טאַן	tAaN	_
+9	zagn	VB	זאַגן	zAagN	_
+10	alz	C	אַלז	Aalz	_
+11	ikh	PRO	איך	AyX	_
+12	in	P	אין	AyN	_
+13	eyn	D	אײן	AYN	_
+14	kurtsir	ADJ	קורציר	kvrqyr	_
+15	tseyt	N	צײט	qYt	_
+16	ver	RDF	װער	Ver	_
+17	muzn	MD	מוזן	mvzN	_
+18	shun	ADV	שון	$vN	_
+19	strbn	VB	סטרבן	strbN	_
+
+SENT	1750W-MOSES,697.8
+1	meyn	PRO$	מײן	mYN	_
+2	tlmid	N	טלמיד	tlmyd	_
+3	ihueshi	NPR	איהועשי	Ayhve$y	_
+4	bn	NPR	בן	bN	_
+5	nun	NPR	נ	n	_
+6	vert	RDF	װערט	Vert	_
+7	makhin	VB	מאַכין	mAaxyN	_
+8	ds	D	דס	ds	_
+9	land	N	לאַנד	lAand	_
+10	knen	NPR	קנען	kneN	_
+11	tsu	P	צו	qv	_
+12	isral	NPR	איסראַל	AysrAal	_
+13	tan	DO	טאַן	tAaN	_
+14	erbin	VB	ערבין	erbyN	_
+
+SENT	1750W-MOSES,697.9
+1	drum	DR+P	דרום	drvM	_
+2	akh	ADV	אַך	AaX	_
+3	vil	MDF	װיל	Vyl	_
+4	ikh	PRO	איך	AyX	_
+5	ihn	PRO	איהן	AyhN	_
+6	gihn	VB	גיהן	gyhN	_
+7	lazn	VB	לאַזן	lAazN	_
+8	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1750W-MOSES,697.10
+1	un	CONJ	און	AvN	_
+2	vil	MDF	װיל	Vyl	_
+3	ihm	PRO	איהם	AyhM	_
+4	zagin	VB	זאַגין	zAagyN	_
+5	vi	WADV	װי	Vy	_
+6	er	PRO	ער	er	_
+7	zikh	PRO	זיך	zyX	_
+8	mit	P	מיט	myt	_
+9	isral	NPR	איסראַל	AysrAal	_
+10	zal	MDF	ז"ל	z"l	_
+11	nuhg	RP-H	נוהג	nvhg	_
+12	zeyn	VB	זײן	zYN	_
+
+SENT	1750W-MOSES,697.11
+1	areyn	ADV	אַרײן	AarYN	_
+2	areyn	ADV	אַרײן	AarYN	_
+3	ihusie	NPR	איהוסיִע	Ayhvsyie	_
+4	meyn	PRO$	מײן	mYN	_
+
+SENT	1750W-MOSES,697.12
+1	eyn	D	אײן	AYN	_
+2	gutn	ADJ	גוטן	gvtN	_
+3	abnt	N	אַבנט	Aabnt	_
+4	zal	MDF	ז"ל	z"l	_
+5	eykh	PRO	אײך	AYX	_
+6	gat	NPR	גאַט	gAat	_
+7	gebn	VB	געבן	gebN	_
+8	heynt	ADV	הײנט	hYnt	_
+9	un	CONJ	און	AvN	_
+10	alin_vegin	ADV	אַלינ_װעגין	Aalyn_VegyN	_
+
+SENT	1750W-MOSES,697.13
+1	velt	MDF	װעלט	Velt	_
+2	ir	PRO	איר	Ayr	_
+3	mikh	PRO	מיך	myX	_
+4	tahn	MD	טאַהן	tAahN	_
+5	kenn	VB	קענן	kenN	_
+6	meyn	PRO$	מײן	mYN	_
+7	namn	N	נאַמן	nAamN	_
+8	vil	MDF	װיל	Vyl	_
+9	ikh	PRO	איך	AyX	_
+10	eykh	PRO	אײך	AYX	_
+11	nenin	VB	נענין	nenyN	_
+
+SENT	1750W-MOSES,697.14
+1	ihusie	NPR	איהוסיִע	Ayhvsyie	_
+2	bin	NPR	בין	byN	_
+3	nun	NPR	נ	n	_
+4	bin	BEF	בין	byN	_
+5	ikh	PRO	איך	AyX	_
+6	ginant	VAN	גינאַנט	gynAant	_
+
+SENT	1750W-MOSES,697.15
+1	eyn	D	אײן	AYN	_
+2	tlmid	N	טלמיד	tlmyd	_
+3	mubhk	H	מובהק	mvbhk	UNKNOWN
+4	bey	P	בײ	bY	_
+5	rbinu	H	רבינו	rbynv	rabbi_our
+6	msh	NPR	מש	m$	_
+7	bn	NPR	בן	bN	_
+8	emrm	NPR	עמרם	emrM	_
+9	bin	VBF	בין	byN	_
+10	ikh	PRO	איך	AyX	_
+11	vaul	ADV	װאַול	VAavl	_
+12	bkant	ADJ	בקאַנט	bkAant	_
+
+SENT	1750W-MOSES,697.16
+1	velt	MDF	װעלט	Velt	_
+2	ir	PRO	איר	Ayr	_
+3	visn	VB	װיסן	VysN	_
+4	meyn	PRO$	מײן	mYN	_
+5	biger	N	ביגער	byger	_
+6	vest	WPRO$	װעסט	Vest	_
+7	urzakh	N	אורזאַך	AvrzAaX	_
+8	als	C	אַלס	Aals	_
+9	ikh	PRO	איך	AyX	_
+10	bin	BEF	בין	byN	_
+11	kmin	VBN	קמין	kmyN	_
+12	da_her	ADV	דאַ_הער	dAa_her	_
+13	rbinu	H	רבינו	rbynv	rabbi_our
+14	msh	NPR	מש	m$	_
+15	bn	NPR	בן	bN	_
+16	emrm	NPR	עמרם	emrM	_
+17	hat	HVF	האַט	hAat	_
+18	nakh	P	נ"ך	n"X	_
+19	mir	PRO	מיר	myr	_
+20	gzand	VBN	גזאַנד	gzAand	_
+21	als	C	אַלס	Aals	_
+22	ikh	PRO	איך	AyX	_
+23	zal	MDF	ז"ל	z"l	_
+24	tsu	P	צו	qv	_
+25	im	PRO	אים	AyM	_
+26	kumin	VB	קומין	kvmyN	_
+27	bhend	ADV	בהענד	bhend	_
+
+SENT	1750W-MOSES,697.17
+1	ikh	PRO	איך	AyX	_
+2	veyz	VBF	װײז	VYz	_
+3	nit	NEG	ניט	nyt	_
+4	vas	WPRO	װאַס	VAas	_
+5	es	PRO	עס	es	_
+6	tut	DOF	טוט	tvt	_
+7	bteytun	VB	בטײטון	btYtvN	_
+8	heynt	ADV	הײנט	hYnt	_
+9	mer	QR	מער	mer	_
+10	alz	P	אַלז	Aalz	_
+11	ali	Q	אַלי	Aaly	_
+12	tseytn	N	צײטן	qYtN	_
+
+SENT	1750W-MOSES,698.19
+1	als_den	ADV	אַלס_דען	Aals_deN	_
+2	bin	BEF	בין	byN	_
+3	ikh	PRO	איך	AyX	_
+4	kumn	VBN	קומן	kvmN	_
+5	areyn	ADV	אַרײן	AarYN	_
+6	vr_nemin	VB	װר_נעמין	Vr_nemyN	_
+7	vas	WPRO	װאַס	VAas	_
+8	zeyn	PRO$	זײן	zYN	_
+9	vil	N	װיל	Vyl	_
+10	tut	DOF	טוט	tvt	_
+11	zeyn	VB	זײן	zYN	_
+
+SENT	1750W-MOSES,698.20
+1	ihuse	NPR	איהוסע	Ayhvse	_
+2	du	PRO	דו	dv	_
+3	gtreyar	ADJ	גטרײאַר	gtrYAar	_
+4	dinr	N	דינר	dynr	_
+5	meyn	PRO$	מײן	mYN	_
+6	vas	WPRO	װאַס	VAas	_
+7-8	brengstu	VBF~PRO	ברענגסטו	brengstv	_
+7	brengs	VBF	ברענגס	brengs	_
+8	tu	PRO	טו	tv	_
+9	fr	P	פֿר	fr	_
+10	eyn	D	אײן	AYN	_
+11	neyah	ADJ	נײאַה	nYAah	_
+12	tseytung	N	צײטונג	qYtvng	_
+13	areyn	ADV	אַרײן	AarYN	_
+14	?	PUNC	?	?	_
+
+SENT	1750W-MOSES,698.21
+1	zag	VBI	זאַג	zAag	_
+2	mir	PRO	מיר	myr	_
+3	um_fr_hulin	ADV	אומ_פֿר_הולין	Avm_fr_hvlyN	_
+
+SENT	1750W-MOSES,698.22
+1	den	CONJ	דען	deN	_
+2	du	PRO	דו	dv	_
+3	bist	BEF	ביסט	byst	_
+4	ali	Q	אַלי	Aaly	_
+5	tseyt	N	צײט	qYt	_
+6	meyn	PRO$	מײן	mYN	_
+7	gtreyar	ADJ	גטרײאַר	gtrYAar	_
+8	dinr	N	דינר	dynr	_
+9	givezn	VBN	גיװעזן	gyVezN	_
+10	ven	C	װען	VeN	_
+11	ikh	PRO	איך	AyX	_
+12	dir	PRO	דיר	dyr	_
+13	hab	HVF	האַב	hAab	_
+14	vas	Q	װאַס	VAas	_
+15	bfulin	VBN	בפֿולין	bfvlyN	_
+
+SENT	1750W-MOSES,698.23
+1	rbinu	H	רבינו	rbynv	rabbi_our
+2	msh	NPR	מש	m$	_
+3	bn	NPR	בן	bN	_
+4	emrm	NPR	עמרם	emrM	_
+5	ikh	PRO	איך	AyX	_
+6	vil	MDF	װיל	Vyl	_
+7	mikh	PRO	מיך	myX	_
+8	nikht	NEG	ניכט	nyxt	_
+9	lang	ADV	לאַנג	lAang	_
+10	sparin	VB	ספּאַרין	spAaryN	_
+
+SENT	1750W-MOSES,698.24
+1	heymlikhi	ADJ	הײמליכי	hYmlyxy	_
+2	zkhin	N	זכין	zxyN	_
+3	vil	MDF	װיל	Vyl	_
+4	ikh	PRO	איך	AyX	_
+5	eykh	PRO	אײך	AYX	_
+6	ufin_barin	VB	אופֿינ_באַרין	Avfyn_bAaryN	_
+
+SENT	1750W-MOSES,698.25
+1	aldd	H	אַלדד	Aaldd	UNKNOWN
+2	umidd	H	אומידד	Avmydd	and_UNKNOWN
+3	zeyn	BEF	זײן	zYN	_
+4	varn	VBN	װאַרן	VAarN	_
+5	prafitn	N	פּראַפֿיטן	prAafytN	_
+
+SENT	1750W-MOSES,698.26
+1	drum	DR+P	דרום	drvM	_
+2	fr_lend	VBI	פֿר_לענד	fr_lend	_
+3	zi	PRO	זי	zy	_
+
+SENT	1750W-MOSES,698.27
+1	un	CONJ	און	AvN	_
+2	tu	DOI	טו	tv	_
+3	zi	PRO	זי	zy	_
+4	titn	VB	טיטן	tytN	_
+
+SENT	1750W-MOSES,698.28
+1	zi	PRO	זי	zy	_
+2	fravitseyen	VBF	פֿראַװיצײען	frAaVyqYeN	_
+3	in	P	אין	AyN	_
+4	dr	D	דר	dr	_
+5	shar	N	שאַר	$Aar	_
+6	alz	C	אַלז	Aalz	_
+7	ir	PRO	איר	Ayr	_
+8	vet	MDF	װעט	Vet	_
+9	muzn	MD	מוזן	mvzN	_
+10	shterbin	VB	שטערבין	$terbyN	_
+11	in	P	אין	AyN	_
+12	dizn	D	דיזן	dyzN	_
+13	yahr	N	יאַהר	yAahr	_
+
+SENT	1750W-MOSES,698.29
+1	ihush	NPR	איהוש	Ayhv$	_
+2	du	DOI	דו	dv	_
+3	dikh	PRO	דיך	dyX	_
+4	heynt	ADV	הײנט	hYnt	_
+5	nit	NEG	ניט	nyt	_
+6	neydn	VB	נײדן	nYdN	_
+7	veyln	C	װײלן	VYlN	_
+8	zi	PRO	זי	zy	_
+9	var_zagin	VBF	װאַר_זאַגין	VAar_zAagyN	_
+10	ali	Q	אַלי	Aaly	_
+11	beydin	Q	בײדין	bYdyN	_
+
+SENT	1750W-MOSES,698.30
+1	den	CONJ	דען	deN	_
+2	dr	D	דר	dr	_
+3	almekhtigr	ADJ	אַלמעכטיגר	Aalmextygr	_
+4	gat	NPR	גאַט	gAat	_
+5	hat	HVF	האַט	hAat	_
+6	tsu	P	צו	qv	_
+7	mir	PRO	מיר	myr	_
+8	tan	DON-IPP	טאַן	tAaN	_
+9	zagn	VB	זאַגן	zAagN	_
+10	als	C	אַלס	Aals	_
+11	ikh	PRO	איך	AyX	_
+12	ver	RDF	װער	Ver	_
+13	shterbn	VB	שטערבן	$terbN	_
+14	in	P	אין	AyN	_
+15	kurtsi	ADJ	קורצי	kvrqy	_
+16	tagn	N	תּגין	TgyN	_
+17	un	CONJ	און	AvN	_
+18	ibr	P	איבר	Aybr	_
+19	dr	D	דר	dr	_
+20	ibr_fuhr	N	איבר_פֿוהר	Aybr_fvhr	_
+21	fun	P	פֿון	fvN	_
+22	irdn	N	אירדן	AyrdN	_
+23	ver	RDF	װער	Ver	_
+24	ikh	PRO	איך	AyX	_
+25	muzn	MD	מוזן	mvzN	_
+26	sterbin	VB	סטערבין	sterbyN	_
+27	un	CONJ	און	AvN	_
+28	du	PRO	דו	dv	_
+29	verst	RDF	װערסט	Verst	_
+30	makhin	VB	מאַכין	mAaxyN	_
+31	ds	D	דס	ds	_
+32	land	N	לאַנד	lAand	_
+33	tsu	P	צו	qv	_
+34	isral	NPR	איסראַל	AysrAal	_
+35	erbin	VB	ערבין	erbyN	_
+
+SENT	1750W-MOSES,698.31
+1	drum	DR+P	דרום	drvM	_
+2	akh	ADV	אַך	AaX	_
+3	zag	VBF	זאַג	zAag	_
+4	ikh	PRO	איך	AyX	_
+5	dir	PRO	דיר	dyr	_
+6	tsdkh	H	צדך	qdX	charity
+7	umsft	H	אומספֿט	Avmsft	and_UNKNOWN
+8-9	zalstu	MDF~PRO	זאַלסטו	zAalstv	_
+8	zals	MDF	זאַלס	zAals	_
+9	tu	PRO	טו	tv	_
+10	tan	VB	טאַן	tAaN	_
+11	er	PRO	ער	er	_
+12	mag	MDF	מאַג	mAag	_
+13	zeyn	VB	זײן	zYN	_
+14	arm	ADJ	אַרם	AarM	_
+15	uder	CONJ	אודער	Avder	_
+16	reykhr	ADJ	רײכר	rYxr	_
+17	man	N	מאַן	mAaN	_
+
+SENT	1750W-MOSES,698.32
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	turh	NPR	טורה	tvrh	_
+4	hkdush	H	הקדוש	hkdv$	the_holy
+5-6	zalstu	MDF~PRO	זאַלסטו	zAalstv	_
+5	zals	MDF	זאַלס	zAals	_
+6	tu	PRO	טו	tv	_
+7	mit	P	מיט	myt	_
+8	zi	PRO	זי	zy	_
+9	fleysig	ADV	פֿלײסיג	flYsyg	_
+10	lernin	VB	לערנין	lernyN	_
+
+SENT	1750W-MOSES,698.33
+1	bzkhut	H	בזכוט	bzxvt	in_merit
+2	zh	H	זש	z$	this
+3	vert	RDF	װערט	Vert	_
+4	dikh	PRO	דיך	dyX	_
+5	dr	D	דר	dr	_
+6	almekhtigr	ADJ	אַלמעכטיגר	Aalmextygr	_
+7	gat	NPR	גאַט	gAat	_
+8	fun	P	פֿון	fvN	_
+9	ali	Q	אַלי	Aaly	_
+10	shmertsin	N	שמערצין	$merqyN	_
+11	bshermin	VB	בשערמין	b$ermyN	_
+12	tag	N	תּג	Tg	_
+13	alz	P	אַלז	Aalz	_
+14	nakht	N	נאַכט	nAaxt	_
+
+SENT	1750W-MOSES,698.34
+1	zal	MDF	ז"ל	z"l	_
+2	dir	PRO	דיר	dyr	_
+3	zeyn	BE	זײן	zYN	_
+4	giakht	VAN	גיִאַכט	gyiAaxt	_
+5	az	C	אַז	Aaz	_
+6	tskhil	H	צכיל	qxyl	you_will_succeed
+7	uttslih	H	אוטצליה	Avtqlyh	and_you_will_be_successful
+8-9	verstu	RDF~PRO	װערסטו	Verstv	_
+8	vers	RDF	װערס	Vers	_
+9	tu	PRO	טו	tv	_
+10	bglikn	VB	בגליקן	bglykN	_
+11	tan	DO	טאַן	tAaN	_
+12	als	C	אַלס	Aals	_
+13	fun	P	פֿון	fvN	_
+14	di	D	די	dy	_
+15	l"a	NUM	ל"אַ	l"Aa	31
+16	mlkhim	N	מלכים	mlxyM	_
+17	vert	RDF	װערט	Vert	_
+18	nit	NEG	ניט	nyt	_
+19	kenin	MD	קענין	kenyN	_
+20	kign	P	קיגן	kygN	_
+21	dir	PRO	דיר	dyr	_
+22	bstin	VB	בסטין	bstyN	_
+23	eyn	D	אײן	AYN	_
+24	man	N	מאַן	mAaN	_
+
+SENT	1750W-MOSES,698.35
+1	un	CONJ	און	AvN	_
+2	veytr	ADV	װײטר	VYtr	_
+3	andri	ADJ	אַנדרי	Aandry	_
+4	zakhin	N	זאַכין	zAaxyN	_
+5	broykh	VBF	ברױך	brWX	_
+6	ikh	PRO	איך	AyX	_
+7	dir	PRO	דיר	dyr	_
+8	nit	NEG	ניט	nyt	_
+9	tsu	TO	צו	qv	_
+10	zagin	VB	זאַגין	zAagyN	_
+
+SENT	1750W-MOSES,698.36
+1	den	CONJ	דען	deN	_
+2	du	PRO	דו	dv	_
+3	veyst	VBF	װײסט	VYst	_
+4	dakh	ADV	דאַך	dAaX	_
+5	vahl	ADV	װאַהל	VAahl	_
+6	vi	C	װי	Vy	_
+7	ikh	PRO	איך	AyX	_
+8	mikh	PRO	מיך	myX	_
+9	hab	HVF	האַב	hAab	_
+10	nuhg	RP-H	נוהג	nvhg	_
+11	gvezn	VBN	גװעזן	gVezN	_
+12	in	P	אין	AyN	_
+13	meynh	PRO$	מײנה	mYnh	_
+14	tagin	N	טאַגין	tAagyN	_
+
+SENT	1750W-MOSES,699.37
+1	drum	DR+P	דרום	drvM	_
+2	hab	HVF	האַב	hAab	_
+3	ikh	PRO	איך	AyX	_
+4	mir	PRO	מיר	myr	_
+5	far	RP	פֿאַר	fAar	_
+6	gnumin	VBN	גנומין	gnvmyN	_
+7	als	C	אַלס	Aals	_
+8	ikh	PRO	איך	AyX	_
+9	vil	MDF	װיל	Vyl	_
+10	in	P	אין	AyN	_
+11	di	D	די	dy	_
+12	mkhnh	H	מכנה	mxnh	UNKNOWN
+13	isral	NPR	איסראַל	AysrAal	_
+14	arum	ADV	אַרום	AarvM	_
+15	kumin	VB	קומין	kvmyN	_
+16	un	CONJ	און	AvN	_
+17	vil	MDF	װיל	Vyl	_
+18	zi	PRO	זי	zy	_
+19	strafin	VB	סטראַפֿין	strAafyN	_
+20	un	CONJ	און	AvN	_
+21	vil	MDF	װיל	Vyl	_
+22	zi	PRO	זי	zy	_
+23	zagin	VB	זאַגין	zAagyN	_
+24	vi	WADV	װי	Vy	_
+25	zi	PRO	זי	zy	_
+26	zikh	PRO	זיך	zyX	_
+27	zalin	MDF	זאַלין	zAalyN	_
+28	nuhg	RP-H	נוהג	nvhg	_
+29	zeyn	VB	זײן	zYN	_
+30	in	P	אין	AyN	_
+31	ali	Q	אַלי	Aaly	_
+32	ihri	PRO$	איהרי	Ayhry	_
+33	tagin	N	טאַגין	tAagyN	_
+
+SENT	1750W-MOSES,699.38
+1	akh	INTJ	אַך	AaX	_
+2	vind	N	װינד	Vynd	_
+3	und	CONJ	אונד	Avnd	_
+4	ve	N	װע	Ve	_
+5	vi	C	װי	Vy	_
+6	eyn	D	אײן	AYN	_
+7	bsurh	H	בסורה	bsvrh	news
+8	reh	H	רעה	reh	bad
+9	hab	HVF	האַב	hAab	_
+10	ikh	PRO	איך	AyX	_
+11	far_herin	VBN-IPP	פֿאַר_הערין	fAar_heryN	_
+12	az	C	אַז	Aaz	_
+13	di	D	די	dy	_
+14	ve	N	װע	Ve	_
+15	seh	VBF	סעה	seh	_
+16	ds	C	דס	ds	_
+17	ikh	PRO	איך	AyX	_
+18	bin	BEF	בין	byN	_
+19	varn	RDN	װאַרן	VAarN	_
+20	gbarin	VAN	גבאַרין	gbAaryN	_
+
+SENT	1750W-MOSES,699.39
+1	akh	INTJ	אַך	AaX	_
+2	vidr	ADV	װידר	Vydr	_
+3	un	CONJ	און	AvN	_
+4	ve	N	װע	Ve	_
+5	vas	WPRO	װאַס	VAas	_
+6	ver	RDF	װער	Ver	_
+7	ikh	PRO	איך	AyX	_
+8	fangin	VB	פֿאַנגין	fAangyN	_
+9	an	RP	אַן	AaN	_
+10	ven	C	װען	VeN	_
+11	rbinu	H	רבינו	rbynv	rabbi_our
+12	msh	NPR	מש	m$	_
+13	bn	NPR	בן	bN	_
+14	emrm	NPR	עמרם	emrM	_
+15	vert	RDF	װערט	Vert	_
+16	nit	NEG	ניט	nyt	_
+17	fr	P	פֿר	fr	_
+18	mir	PRO	מיר	myr	_
+19	gihn	VB	גיהן	gyhN	_
+
+SENT	1750W-MOSES,699.40
+1	vi	WADV	װי	Vy	_
+2	ver	RDF	װער	Ver	_
+3	ikh	PRO	איך	AyX	_
+4	kenin	MD	קענין	kenyN	_
+5	kign	P	קיגן	kygN	_
+6	kl	Q	קל	kl	all
+7	isral	NPR	איסראַל	AysrAal	_
+8	bstan	VB	בסטאַן	bstAaN	_
+
+SENT	1750W-MOSES,699.41
+1	neyn	INTJ	נײן	nYN	_
+2	neyn	INTJ	נײן	nYN	_
+3	ihush	NPR	איהוש	Ayhv$	_
+4	di	D	די	dy	_
+5	zakhin	N	זאַכין	zAaxyN	_
+6	nem	VBI	נעם	neM	_
+7	dir	PRO	דיר	dyr	_
+8	nikht	NEG	ניכט	nyxt	_
+9	azu	ADV	אַזו	Aazv	_
+10	fir	RP	פֿיר	fyr	_
+
+SENT	1750W-MOSES,699.42
+1	den	CONJ	דען	deN	_
+2	dr	D	דר	dr	_
+3	almekhtigr	ADJ	אַלמעכטיגר	Aalmextygr	_
+4	gat	NPR	גאַט	gAat	_
+5	vert	RDF	װערט	Vert	_
+6	stetts	ADV	סטעטץ	stetQ	_
+7	zeyn	VB	זײן	zYN	_
+8	bey	P	בײ	bY	_
+9	dir	PRO	דיר	dyr	_
+10	ven	C	װען	VeN	_
+11	du	PRO	דו	dv	_
+12	verst	RDF	װערסט	Verst	_
+13	kumin	VB	קומין	kvmyN	_
+14	in	P	אין	AyN	_
+15	di	D	די	dy	_
+16	nut	N	נוט	nvt	_
+17	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1750W-MOSES,699.43
+1-2	zalstu	MDF~PRO	זאַלסטו	zAalstv	_
+1	zals	MDF	זאַלס	zAals	_
+2	tu	PRO	טו	tv	_
+3	nur	FP	נור	nvr	_
+4	far	P	פֿאַר	fAar	_
+5	dem	D	דעם	deM	_
+6	almekhtign	ADJ	אַלמעכטיגן	AalmextygN	_
+7	gat	NPR	גאַט	gAat	_
+8	mtfll	RP-H	מטפֿלל	mtfll	_
+9	zeyn	VB	זײן	zYN	_
+10	er	PRO	ער	er	_
+11	virt	RDF	װירט	Vyrt	_
+12	dir	PRO	דיר	dyr	_
+13	helfin	VB	העלפֿין	helfyN	_
+14	oyz	P	אױז	AWz	_
+15	shmertsin	N	שמערצין	$merqyN	_
+16	un	CONJ	און	AvN	_
+17	peyn	N	פּײן	pYN	_
+
+SENT	1750W-MOSES,699.44
+1	neyn	INTJ	נײן	nYN	_
+2	neyn	INTJ	נײן	nYN	_
+3	di	D	די	dy	_
+4	zakh	N	זאַך	zAaX	_
+5	tuhi	DOF	טוהי	tvhy	_
+6	ikh	PRO	איך	AyX	_
+7	mir	PRO	מיר	myr	_
+8	nit	NEG	ניט	nyt	_
+9	azu	ADV	אַזו	Aazv	_
+10	bildn	VB	בילדן	byldN	_
+11	eyn	RP	אײן	AYN	_
+12	ds	C	דס	ds	_
+13	deyn	PRO$	דײן	dYN	_
+14	vil	N	װיל	Vyl	_
+15	ken	MDF	קען	keN	_
+16	dr_bey	DR+P	דר_בײ	dr_bY	_
+17	zeyn	VB	זײן	zYN	_
+
+SENT	1750W-MOSES,699.45
+1	den	CONJ	דען	deN	_
+2	vau	WADV	װאַו	VAav	_
+3	iz	VBF	איז	Ayz	_
+4	fr_hndn	ADJ	פֿר_הנדן	fr_hndN	_
+5	azu	ADV	אַזו	Aazv	_
+6	eyn	D	אײן	AYN	_
+7	man	N	מאַן	mAaN	_
+8	vas	C	װאַס	VAas	_
+9	du	ADV	דו	dv	_
+10	kan	MDF	ק"ן	k"N	_
+11	fr	P	פֿר	fr	_
+12	den	D	דען	deN	_
+13	almekhtign	ADJ	אַלמעכטיגן	AalmextygN	_
+14	gat	NPR	גאַט	gAat	_
+15	tflh	N	טפֿלה	tflh	_
+16	tun	VB	טון	tvN	_
+
+SENT	1750W-MOSES,699.46
+1	vas	WPRO	װאַס	VAas	_
+2	ver	RDF	װער	Ver	_
+3	ikh	PRO	איך	AyX	_
+4	fangin	VB	פֿאַנגין	fAangyN	_
+5	an	RP	אַן	AaN	_
+6	ikh	PRO	איך	AyX	_
+7	armr	ADJ	אַרמר	Aarmr	_
+8	elentr	ADJ	עלענטר	elentr	_
+9	man	N	מאַן	mAaN	_
+
+SENT	1750W-MOSES,699.47
+1	neyn	INTJ	נײן	nYN	_
+2	neyn	INTJ	נײן	nYN	_
+3	ihushe	NPR	איהושע	Ayhv$e	_
+4	di	D	די	dy	_
+5	zakh	N	זאַך	zAaX	_
+6	du	DOI	דו	dv	_
+7	dir	PRO	דיר	dyr	_
+8	nit	NEG	ניט	nyt	_
+9	azu	ADV	אַזו	Aazv	_
+10	bildn	VB	בילדן	byldN	_
+11	eyn	RP	אײן	AYN	_
+12	das	C	דת	dS	_
+13	meyn	PRO$	מײן	mYN	_
+14	vil	N	װיל	Vyl	_
+15	nit	NEG	ניט	nyt	_
+16	dr_bey	DR+P	דר_בײ	dr_bY	_
+17	zal	MDF	ז"ל	z"l	_
+18	zeyn	VB	זײן	zYN	_
+
+SENT	1750W-MOSES,699.48
+1	den	CONJ	דען	deN	_
+2	veyl	C	װײל	VYl	_
+3	ikh	PRO	איך	AyX	_
+4	hab	HVF	האַב	hAab	_
+5	eyn_mahl	ADV	אײנ_מאַהל	AYn_mAahl	_
+6	khuse	RP-H	כוסע	xvse	_
+7	gvezn	VBN	גװעזן	gVezN	_
+8	hat	HVF	האַט	hAat	_
+9	dr	D	דר	dr	_
+10	almekhtigr	ADJ	אַלמעכטיגר	Aalmextygr	_
+11	gat	NPR	גאַט	gAat	_
+12	gshvarn	VBN	גשװאַרן	g$VAarN	_
+13	ikh	PRO	איך	AyX	_
+14	zal	MDF	ז"ל	z"l	_
+15	den	D	דען	deN	_
+16	tut	N	טוט	tvt	_
+17	nit	NEG	ניט	nyt	_
+18	vern	RD	װערן	VerN	_
+19	gnezin	VX	גנעזין	gnezyN	_
+
+SENT	1750W-MOSES,699.49
+1	abr	CONJ	אַבר	Aabr	_
+2	ven	C	װען	VeN	_
+3	du	PRO	דו	dv	_
+4	verst	RDF	װערסט	Verst	_
+5	den	D	דען	deN	_
+6	rekhtin	ADJ	רעכטין	rextyN	_
+7	veg	N	װעג	Veg	_
+8	gin	VB	גין	gyN	_
+9	vert	RDF	װערט	Vert	_
+10	dir	PRO	דיר	dyr	_
+11	dr	D	דר	dr	_
+12	almekhtigr	ADJ	אַלמעכטיגר	Aalmextygr	_
+13	gat	NPR	גאַט	gAat	_
+14	imr_tsu	ADV	אימר_צו	Aymr_qv	_
+15	bey	RP	בײ	bY	_
+16	stin	VB	סטין	styN	_
+
+SENT	1750W-MOSES,699.50
+1	msh	NPR	מש	m$	_
+2	bn	NPR	בן	bN	_
+3	emrm	NPR	עמרם	emrM	_
+4	deyn	PRO$	דײן	dYN	_
+5	tseyt	N	צײט	qYt	_
+6	iz	VBF	איז	Ayz	_
+7	oyz	RP	אױז	AWz	_
+
+SENT	1750W-MOSES,699.51
+1	deyn	PRO$	דײן	dYN	_
+2	nshmh	N	נשמה	n$mh	_
+3	zal	MDF	ז"ל	z"l	_
+4	dir	PRO	דיר	dyr	_
+5	gihn	VB	גיהן	gyhN	_
+6	oyz	P	אױז	AWz	_
+7	deyn	PRO$	דײן	dYN	_
+8	guf	N	גוף	gvF	_
+9	aroyz	ADV	אַרױז	AarWz	_
+
+SENT	1750W-MOSES,699.52
+1	den	CONJ	דען	deN	_
+2	dr	D	דר	dr	_
+3	almekhtigr	ADJ	אַלמעכטיגר	Aalmextygr	_
+4	gat	NPR	גאַט	gAat	_
+5	hat	HVF	האַט	hAat	_
+6	mikh	PRO	מיך	myX	_
+7	da	ADV	דאַ	dAa	_
+8	aher	ADV	אַהער	Aaher	_
+9	gzand	VBN	גזאַנד	gzAand	_
+
+SENT	1750W-MOSES,699.53
+1	deyn	PRO$	דײן	dYN	_
+2	nshmh	N	נשמה	n$mh	_
+3	muz	MDF	מוז	mvz	_
+4	ikh	PRO	איך	AyX	_
+5	habn	VB	האַבן	hAabN	_
+6	in	P	אין	AyN	_
+7	meyn	PRO$	מײן	mYN	_
+8	hnd	N	הנד	hnd	_
+
+SENT	1750W-MOSES,700.55
+1	sm	H	סם	sM	there
+2	mit	P	מיט	myt	_
+3	den	D	דען	deN	_
+4	namin	N	נאַמין	nAamyN	_
+5	almekhtign	ADJ	אַלמעכטיגן	AalmextygN	_
+6	gat	NPR	גאַט	gAat	_
+7	tu	DOF	טו	tv	_
+8	ikh	PRO	איך	AyX	_
+9	dikh	PRO	דיך	dyX	_
+10	bshvern	VB	בשװערן	b$VerN	_
+11	als	C	אַלס	Aals	_
+12	du	PRO	דו	dv	_
+13	mir	PRO	מיר	myr	_
+14	zalst	MDF	זאַלסט	zAalst	_
+15	zgn	VB	זגן	zgN	_
+16	vas	WPRO	װאַס	VAas	_
+17	tus	DOF	טוס	tvs	_
+18	tu	PRO	טו	tv	_
+19	alhir	ADV	אַלהיר	Aalhyr	_
+20	bgerin	VB	בגערין	bgeryN	_
+
+SENT	1750W-MOSES,700.56
+1	drum	DR+P	דרום	drvM	_
+2	akh	ADV	אַך	AaX	_
+3	zag	VBI	זאַג	zAag	_
+4	mir	PRO	מיר	myr	_
+5	bihend	ADV	ביהענד	byhend	_
+6	ver	WPRO	װער	Ver	_
+7	dikh	PRO	דיך	dyX	_
+8	hat	HVF	האַט	hAat	_
+9	aher	ADV	אַהער	Aaher	_
+10	gizend	VBN	גיזענד	gyzend	_
+
+SENT	1750W-MOSES,700.57
+1	msh	NPR	מש	m$	_
+2	veyl	C	װײל	VYl	_
+3	du	PRO	דו	dv	_
+4	mikh	PRO	מיך	myX	_
+5	mit	P	מיט	myt	_
+6	den	D	דען	deN	_
+7	namin	N	נאַמין	nAamyN	_
+8	almekhtign	ADJ	אַלמעכטיגן	AalmextygN	_
+9	gat	NPR	גאַט	gAat	_
+10	tust	DOF	טוסט	tvst	_
+11	bshverin	VB	בשװערין	b$VeryN	_
+12	als	C	אַלס	Aals	_
+13	ikh	PRO	איך	AyX	_
+14	dir	PRO	דיר	dyr	_
+15	zal	MDF	ז"ל	z"l	_
+16	zagin	VB	זאַגין	zAagyN	_
+17	vas	WPRO	װאַס	VAas	_
+18	ikh	PRO	איך	AyX	_
+19	du	DOF	דו	dv	_
+20	alhir	ADV	אַלהיר	Aalhyr	_
+21	bgerin	VB	בגערין	bgeryN	_
+22	als_den	ADV	אַלס_דען	Aals_deN	_
+23	vil	MDF	װיל	Vyl	_
+24	ikh	PRO	איך	AyX	_
+25	eykh	PRO	אײך	AYX	_
+26	meyn	PRO$	מײן	mYN	_
+27	namin	N	נאַמין	nAamyN	_
+28	tan	DO	טאַן	tAaN	_
+29	nenin	VB	נענין	nenyN	_
+
+SENT	1750W-MOSES,700.58
+1	un	CONJ	און	AvN	_
+2	vil	MDF	װיל	Vyl	_
+3	mikh	PRO	מיך	myX	_
+4	gebin	VB	געבין	gebyN	_
+5	tsu	TO	צו	qv	_
+6	dr_kenin	VB	דר_קענין	dr_kenyN	_
+
+SENT	1750W-MOSES,700.59
+1	sm	X	סם	sM	_
+2	dr	D	דר	dr	_
+3	mlakh_hmut	N	מלאַכ_המוט	mlAax_hmvt	_
+4	das	D	דת	dS	_
+5	bin	VBF	בין	byN	_
+6	ikh	PRO	איך	AyX	_
+7	ibr	P	איבר	Aybr	_
+8	ali	Q	אַלי	Aaly	_
+9	menshin	N	מענשין	men$yN	_
+10	un	CONJ	און	AvN	_
+11	ibr	P	איבר	Aybr	_
+12	ali	Q	אַלי	Aaly	_
+13	fikh	N	פֿיך	fyX	_
+
+SENT	1750W-MOSES,700.60
+1	velt	MDF	װעלט	Velt	_
+2	ir	PRO	איר	Ayr	_
+3	visn	VB	װיסן	VysN	_
+4	meyn	PRO$	מײן	mYN	_
+5	bger	N	בגער	bger	_
+6	vest	WPRO	װעסט	Vest	_
+7	ursakh	N	אורסאַך	AvrsAaX	_
+8	ds	C	דס	ds	_
+9	ikh	PRO	איך	AyX	_
+10	bin	BEF	בין	byN	_
+11	kumin	VBN	קומין	kvmyN	_
+12	aher	ADV	אַהער	Aaher	_
+13	den	X	דען	deN	_
+14	dr	D	דר	dr	_
+15	almekhtigr	ADJ	אַלמעכטיגר	Aalmextygr	_
+16	gat	NPR	גאַט	gAat	_
+17	hat	HVF	האַט	hAat	_
+18	mikh	PRO	מיך	myX	_
+19	du	ADV	דו	dv	_
+20	eyn_her	ADV	אײנ_הער	AYn_her	_
+21	gzand	VBN	גזאַנד	gzAand	_
+22	als	C	אַלס	Aals	_
+23	ikh	PRO	איך	AyX	_
+24	zal	MDF	ז"ל	z"l	_
+25	nemn	VB	נעמן	nemN	_
+26	deyn	PRO$	דײן	dYN	_
+27	nshmh	N	נשמה	n$mh	_
+28	gnts	ADV	גנץ	gnQ	_
+29	bhend	ADV	בהענד	bhend	_
+
+SENT	1750W-MOSES,700.61
+1	den	CONJ	דען	deN	_
+2	du	PRO	דו	dv	_
+3	veyst	VBF	װײסט	VYst	_
+4	dakh	ADV	דאַך	dAaX	_
+5	vahl	ADV	װאַהל	VAahl	_
+6	als	C	אַלס	Aals	_
+7	ikh	PRO	איך	AyX	_
+8	dikh	PRO	דיך	dyX	_
+9	hb	HVF	הב	hb	_
+10	khl	H	כל	xl	general
+11	imi	H	אימי	Aymy	days
+12	tan	DON-IPP	טאַן	tAaN	_
+13	hitn	VB	היטן	hytN	_
+14	un	CONJ	און	AvN	_
+15	hab	HVF	האַב	hAab	_
+16	hafin	VB	האַפֿין	hAafyN	_
+17	gtan	DON	גטאַן	gtAaN	_
+18	es	ES	עס	es	_
+19	vert	RDF	װערט	Vert	_
+20	kumn	VB	קומן	kvmN	_
+21	in	P	אין	AyN	_
+22	meyn	PRO$	מײן	mYN	_
+23	hnd	N	הנד	hnd	_
+24	msh	NPR	מש	m$	_
+25	bn	NPR	בן	bN	_
+26	emrm	NPR	עמרם	emrM	_
+27	dr	D	דר	dr	_
+28	frumr	ADJ	פֿרומר	frvmr	_
+29	man	N	מאַן	mAaN	_
+
+SENT	1750W-MOSES,700.62
+1	un	CONJ	און	AvN	_
+2	ali	Q	אַלי	Aaly	_
+3	mlakhi	N	מלאַכי	mlAaxy	_
+4	melh	H	מעלה	melh	UNKNOWN
+5	habn	HVF	האַבן	hAabN	_
+6	zikh	PRO	זיך	zyX	_
+7	mit	P	מיט	myt	_
+8	mir	PRO	מיר	myr	_
+9	mtgrh	RP-H	מטגרה	mtgrh	_
+10	gvezin	VBN	גװעזין	gVezyN	_
+11	als	C	אַלס	Aals	_
+12	mshh	NPR	משה	m$h	_
+13	bn	NPR	בן	bN	_
+14	emrm	NPR	עמרם	emrM	_
+15	vert	RDF	װערט	Vert	_
+16	fun	P	פֿון	fvN	_
+17	meynr	PRO$	מײנר	mYnr	_
+18	hnd	N	הנד	hnd	_
+19	verin	RD	װערין	VeryN	_
+20	gnezin	VX	גנעזין	gnezyN	_
+
+SENT	1750W-MOSES,700.63
+1	abr	CONJ	אַבר	Aabr	_
+2	ietsund	ADV	איעצונד	Ayeqvnd	_
+3	izt	BEF	איזט	Ayzt	_
+4	kumn	VBN	קומן	kvmN	_
+5	di	D	די	dy	_
+6	tseyt	N	צײט	qYt	_
+7	als	C	אַלס	Aals	_
+8	ikh	PRO	איך	AyX	_
+9	bin	BEF	בין	byN	_
+10	varin	RDN	װאַרין	VAaryN	_
+11	er_freyat	VAN	ער_פֿרײאַט	er_frYAat	_
+
+SENT	1750W-MOSES,700.64
+1	drum	DR+P	דרום	drvM	_
+2	akh	ADV	אַך	AaX	_
+3	makh	VBI	מאַך	mAaX	_
+4	es	PRO	עס	es	_
+5	gshvind	ADV	גשװינד	g$Vynd	_
+6	un	CONJ	און	AvN	_
+7	bhend	ADV	בהענד	bhend	_
+
+SENT	1750W-MOSES,700.65
+1	deyn	PRO$	דײן	dYN	_
+2	nshmh	N	נשמה	n$mh	_
+3	muz	MDF	מוז	mvz	_
+4	ikh	PRO	איך	AyX	_
+5	habin	VB	האַבין	hAabyN	_
+6	in	P	אין	AyN	_
+7	meynh	PRO$	מײנה	mYnh	_
+8	hend	N	הענד	hend	_
+
+SENT	1750W-MOSES,700.66
+1	rse	N	רסע	rse	_
+2	deynh	PRO$	דײנה	dYnh	_
+3	rid	N	ריד	ryd	_
+4	hab	HVF	האַב	hAab	_
+5	ikh	PRO	איך	AyX	_
+6	tan	DON-IPP	טאַן	tAaN	_
+7	herin	VB	הערין	heryN	_
+
+SENT	1750W-MOSES,700.67
+1	abr	CONJ	אַבר	Aabr	_
+2	ikh	PRO	איך	AyX	_
+3	haf	VBF	האַף	hAaF	_
+4	dr	D	דר	dr	_
+5	almekhtigr	ADJ	אַלמעכטיגר	Aalmextygr	_
+6	gat	NPR	גאַט	gAat	_
+7	vert	RDF	װערט	Vert	_
+8	zi	PRO	זי	zy	_
+9	bld	ADV	בלד	bld	_
+10	far_sterin	VB	פֿאַר_סטערין	fAar_steryN	_
+
+SENT	1750W-MOSES,700.68
+1	als_den	ADV	אַלס_דען	Aals_deN	_
+2	vas	WPRO	װאַס	VAas	_
+3-4	meynstu	VBF~PRO	מײנסטו	mYnstv	_
+3	meyns	VBF	מײנס	mYns	_
+4	tu	PRO	טו	tv	_
+5	dir	PRO	דיר	dyr	_
+6	als	C	אַלס	Aals	_
+7	du	PRO	דו	dv	_
+8	vilst	MDF	װילסט	Vylst	_
+9	nemn	VB	נעמן	nemN	_
+10	di	D	די	dy	_
+11	nshmh	N	נשמה	n$mh	_
+12	fun	P	פֿון	fvN	_
+13	mir	PRO	מיר	myr	_
+
+SENT	1750W-MOSES,700.69
+1-2	veystu	VBF~PRO	װײסטו	VYstv	_
+1	veys	VBF	װײס	VYs	_
+2	tu	PRO	טו	tv	_
+3	den	ADV	דען	deN	_
+4	nit	NEG	ניט	nyt	_
+5	vi	C	װי	Vy	_
+6	ikh	PRO	איך	AyX	_
+7	bey	P	בײ	bY	_
+8	meyn	PRO$	מײן	mYN	_
+9	shver	N	שװער	$Ver	_
+10	ihru	NPR	איהרו	Ayhrv	_
+11	di	D	די	dy	_
+12	shaf	N	שאַף	$AaF	_
+13	hab	HVF	האַב	hAab	_
+14	tun	DON-IPP	טון	tvN	_
+15	hitn	VB	היטן	hytN	_
+16	hat	HVF	האַט	hAat	_
+17	zikh	PRO	זיך	zyX	_
+18	dr	D	דר	dr	_
+19	almkhtig	ADJ	אַלמכטיג	Aalmxtyg	_
+20	gat	NPR	גאַט	gAat	_
+21	tsu	P	צו	qv	_
+22	mir	PRO	מיר	myr	_
+23	bvizn	VBN	בװיזן	bVyzN	_
+24	un	CONJ	און	AvN	_
+25	hut	HVF	הוט	hvt	_
+26	gsprakhin	VBN	גספּראַכין	gsprAaxyN	_
+27	ikh	PRO	איך	AyX	_
+28	zal	MDF	ז"ל	z"l	_
+29	zeyn	PRO$	זײן	zYN	_
+30	falk	N	פֿאַלק	fAalk	_
+31	isral	NPR	איסראַל	AysrAal	_
+32	tun	DO	טון	tvN	_
+33	oyz	RP	אױז	AWz	_
+34	lizn	VB	ליזן	lyzN	_
+
+SENT	1750W-MOSES,700.70
+1	un	CONJ	און	AvN	_
+2	ali	Q	אַלי	Aaly	_
+3	di	D	די	dy	_
+4	nisim	H	נסים	nsyM	wonders
+5	unflaut	H	אונפֿלאַוט	AvnflAavt	and_miracles
+6	zenin	BEF	זענין	zenyN	_
+7	durkh	P	דורך	dvrX	_
+8	meynr	PRO$	מײנר	mYnr	_
+9	hnd	N	הנד	hnd	_
+10	gsehn	VBN	גסעהן	gsehN	_
+
+SENT	1750W-MOSES,701.72
+1	msuf	H	מסוף	msvF	from^end
+2	eulm	H	עולם	evlM	world
+3	red	H	רעד	red	UNKNOWN
+4	sufh	H	סופֿה	svfh	UNKNOWN
+5	zeynin	BEF	זײנין	zYnyN	_
+6	nikht	NEG	ניכט	nyxt	_
+7	varn	RDN	װאַרן	VAarN	_
+8	gzehn	VAN	גזעהן	gzehN	_
+
+SENT	1750W-MOSES,701.73
+1	un	CONJ	און	AvN	_
+2	daz	D	דאַז	dAaz	_
+3	im	N	אים	AyM	_
+4	hab	HVF	האַב	hAab	_
+5	ikh	PRO	איך	AyX	_
+6	tan	DON-IPP	טאַן	tAaN	_
+7	spaltin	VB	ספּאַלטין	spAaltyN	_
+
+SENT	1750W-MOSES,701.74
+1	dr_fun	DR+P	דר_פֿון	dr_fvN	_
+2	usn	VBF	אוסן	AvsN	_
+3	di	D	די	dy	_
+4	yungin	N	יונגין	yvngyN	_
+5	un	CONJ	און	AvN	_
+6	di	D	די	dy	_
+7	altin	N	אַלטין	AaltyN	_
+
+SENT	1750W-MOSES,701.75
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	turh	NPR	טורה	tvrh	_
+4	hkdush	H	הקדוש	hkdv$	the_holy
+5	iz	BEF	איז	Ayz	_
+6	varn	RDN	װאַרן	VAarN	_
+7	durkh	P	דורך	dvrX	_
+8	meynr	PRO$	מײנר	mYnr	_
+9	hnd	N	הנד	hnd	_
+10	gigebn	VAN	גיגעבן	gygebN	_
+
+SENT	1750W-MOSES,701.76
+1	nun	INTJ	נ	n	_
+2	vi	WADV	װי	Vy	_
+3-4	fr_meynstu	VBF~PRO	פֿר_מײנסטו	fr_mYnstv	_
+3	fr_meyns	VBF	פֿר_מײנס	fr_mYns	_
+4	tu	PRO	טו	tv	_
+5	mir	PRO	מיר	myr	_
+6	tsu	TO	צו	qv	_
+7	nemin	VB	נעמין	nemyN	_
+8	meyn	PRO$	מײן	mYN	_
+9	lebn	N	לעבן	lebN	_
+
+SENT	1750W-MOSES,701.77
+1	drum	DR+P	דרום	drvM	_
+2	akh	ADV	אַך	AaX	_
+3	gi	VBI	גי	gy	_
+4	avek	ADV	אַװעק	AaVek	_
+5	fun	P	פֿון	fvN	_
+6	mir	PRO	מיר	myr	_
+
+SENT	1750W-MOSES,701.78
+1	un	CONJ	און	AvN	_
+2	sher	VBI	שער	$er	_
+3	dikh	PRO	דיך	dyX	_
+4	anoyz	ADV	אַנױז	AanWz	_
+5	tsu	P	צו	qv	_
+6	dr	D	דר	dr	_
+7	dir	N	דיר	dyr	_
+
+SENT	1750W-MOSES,701.79
+1	alhir	ADV	אַלהיר	Aalhyr	_
+2	kum	VBI	קום	kvM	_
+3	ikh	PRO	איך	AyX	_
+4	areyn	ADV	אַרײן	AarYN	_
+5	tsu	TO	צו	qv	_
+6	springin	VB	ספּרינגין	spryngyN	_
+7	ibr	P	איבר	Aybr	_
+8	dir	D	דיר	dyr	_
+9	msh	N	מש	m$	_
+10	mit	P	מיט	myt	_
+11	meyni	PRO$	מײני	mYny	_
+12	strki	ADJ	סטרקי	strky	_
+13	klingn	N	קלינגן	klyngN	_
+
+SENT	1750W-MOSES,701.80
+1	den	CONJ	דען	deN	_
+2	deyni	PRO$	דײני	dYny	_
+3	rid	N	ריד	ryd	_
+4	hab	HVF	האַב	hAab	_
+5	ikh	PRO	איך	AyX	_
+6	tan	DON-IPP	טאַן	tAaN	_
+7	den	D	דען	deN	_
+8	almekhtign	ADJ	אַלמעכטיגן	AalmextygN	_
+9	gat	NPR	גאַט	gAat	_
+10	vidr	ADV	װידר	Vydr	_
+11	brengn	VB	ברענגן	brengN	_
+
+SENT	1750W-MOSES,701.81
+1	da	ADV	דאַ	dAa	_
+2	hat	HVF	האַט	hAat	_
+3	er	PRO	ער	er	_
+4	mir	PRO	מיר	myr	_
+5	fr_shaft	VBN	פֿר_שאַפֿט	fr_$Aaft	_
+6	ikh	PRO	איך	AyX	_
+7	zal	MDF	ז"ל	z"l	_
+8	dir	PRO	דיר	dyr	_
+9	deyn	PRO$	דײן	dYN	_
+10	nshmh	N	נשמה	n$mh	_
+11	nemn	VB	נעמן	nemN	_
+
+SENT	1750W-MOSES,701.82
+1	als_den	ADV	אַלס_דען	Aals_deN	_
+2	vas	WPRO	װאַס	VAas	_
+3-4	meynstu	VBF~PRO	מײנסטו	mYnstv	_
+3	meyns	VBF	מײנס	mYns	_
+4	tu	PRO	טו	tv	_
+5	dr_mit	DR+P	דר_מיט	dr_myt	_
+6	als	C	אַלס	Aals	_
+7	du	PRO	דו	dv	_
+8	vilst	MDF	װילסט	Vylst	_
+9	fr	P	פֿר	fr	_
+10	meynr	PRO$	מײנר	mYnr	_
+11	hand	N	האַנד	hAand	_
+12	vern	RD	װערן	VerN	_
+13	bhit	VAN	בהיט	bhyt	_
+
+SENT	1750W-MOSES,701.83
+1	den	CONJ	דען	deN	_
+2	du	PRO	דו	dv	_
+3	hast	HVF	האַסט	hAast	_
+4	yu	ADV	יו	yv	_
+5	fil	Q	פֿיל	fyl	_
+6	khtaim	N	כטאַיִם	xtAayiM	_
+7	gtan	VBN	גטאַן	gtAaN	_
+
+SENT	1750W-MOSES,701.84
+1	dr_fun	DR+P	דר_פֿון	dr_fvN	_
+2	veys	VBF	װײס	VYs	_
+3	eyn	D	אײן	AYN	_
+4	yeder	Q	יעדער	yeder	_
+5	man	N	מאַן	mAaN	_
+
+SENT	1750W-MOSES,701.85
+1-2	tsum	P~D	צום	qvM	_
+1	tsu	P	צו	qv	_
+2	m	D	מ	m	_
+3	erstin	ADJ	ערסטין	erstyN	_
+4	vaz	C	װאַז	VAaz	_
+5	ikh	PRO	איך	AyX	_
+6	dir	PRO	דיר	dyr	_
+7	vil	MDF	װיל	Vyl	_
+8	zagin	VB	זאַגין	zAagyN	_
+9	vi	C	װי	Vy	_
+10	der	D	דער	der	_
+11	almekhtigr	ADJ	אַלמעכטיגר	Aalmextygr	_
+12	gat	NPR	גאַט	gAat	_
+13	hat	HVF	האַט	hAat	_
+14	gshprakhn	VBN	גשפּראַכן	g$prAaxN	_
+15	du	PRO	דו	dv	_
+16	zalst	MDF	זאַלסט	zAalst	_
+17	zeyn	PRO$	זײן	zYN	_
+18	falk	N	פֿאַלק	fAalk	_
+19	isral	NPR	איסראַל	AysrAal	_
+20	oyz	P	אױז	AWz	_
+21	mtsrim	NPR	מצרים	mqryM	_
+22	oyz	RP	אױז	AWz	_
+23	lizn	VB	ליזן	lyzN	_
+24	tan	DO	טאַן	tAaN	_
+25	hast	HVF	האַסט	hAast	_
+26	gsprakhin	VBN	גספּראַכין	gsprAaxyN	_
+27	varum	WPRO+P	װאַרום	VAarvM	_
+28-29	shikstu	VBF~PRO	שיקסטו	$ykstv	_
+28	shiks	VBF	שיקס	$yks	_
+29	tu	PRO	טו	tv	_
+30	nit	NEG	ניט	nyt	_
+31	eyn	D	אײן	AYN	_
+32	andrn	ADJ	אַנדרן	AandrN	_
+33	man	N	מאַן	mAaN	_
+
+SENT	1750W-MOSES,701.86
+1-2	tsum	P~D	צום	qvM	_
+1	tsu	P	צו	qv	_
+2	m	D	מ	m	_
+3	andrn	ADJ	אַנדרן	AandrN	_
+4	vaz	C	װאַז	VAaz	_
+5	ikh	PRO	איך	AyX	_
+6	dir	PRO	דיר	dyr	_
+7	vil	MDF	װיל	Vyl	_
+8	zagn	VB	זאַגן	zAagN	_
+9	als	C	אַלס	Aals	_
+10	du	PRO	דו	dv	_
+11	hast	HVF	האַסט	hAast	_
+12	den	D	דען	deN	_
+13	sle	N	סלע	sle	_
+14	tsu	P	צו	qv	_
+15	um_rekhtn	N	אומ_רעכטן	Avm_rextN	_
+16	gshlagin	VBN	גשלאַגין	g$lAagyN	_
+
+SENT	1750W-MOSES,701.87
+1	un	CONJ	און	AvN	_
+2	fun	P	פֿון	fvN	_
+3	di	D	די	dy	_
+4	andri	ADJ	אַנדרי	Aandry	_
+5	zakhin	N	זאַכין	zAaxyN	_
+6	iz	VBF	איז	Ayz	_
+7	fil	Q	פֿיל	fyl	_
+8	tsu	TO	צו	qv	_
+9	dr_tsiln	VB	דר_צילן	dr_qylN	_
+
+SENT	1750W-MOSES,701.88
+1	akh	ADV	אַך	AaX	_
+2	zeynn	VBF	זײנן	zYnN	_
+3	zi	PRO	זי	zy	_
+4	fun	P	פֿון	fvN	_
+5	mir	PRO	מיר	myr	_
+6	fr_hulin	ADJ	פֿר_הולין	fr_hvlyN	_
+
+SENT	1750W-MOSES,701.89
+1	drum	DR+P	דרום	drvM	_
+2	akh	ADV	אַך	AaX	_
+3	makh	VBI	מאַך	mAaX	_
+4	dikh	PRO	דיך	dyX	_
+5	nit	NEG	ניט	nyt	_
+6	azu	ADV	אַזו	Aazv	_
+7	grus	ADJ	גרוס	grvs	_
+
+SENT	1750W-MOSES,701.90
+1	abr	CONJ	אַבר	Aabr	_
+2	ikh	PRO	איך	AyX	_
+3	tsi	VBF	צי	qy	_
+4	ibr	P	איבר	Aybr	_
+5	dir	PRO	דיר	dyr	_
+6	oyz	RP	אױז	AWz	_
+7	meyn	PRO$	מײן	mYN	_
+8	tlif	N	טליף	tlyF	_
+9	blus	ADJ	בלוס	blvs	_
+
+SENT	1750W-MOSES,701.91
+1	alz_den	ADV	אַלז_דען	Aalz_deN	_
+2-3	verstu	RDF~PRO	װערסטו	Verstv	_
+2	vers	RDF	װערס	Vers	_
+3	tu	PRO	טו	tv	_
+4	tan	DO	טאַן	tAaN	_
+5	dr_shrekin	VB	דר_שרעקין	dr_$rekyN	_
+
+SENT	1750W-MOSES,701.92
+1	hend	N	הענד	hend	_
+2	un	CONJ	און	AvN	_
+3	fis	N	פֿיס	fys	_
+4-5	verstu	RDF~PRO	װערסטו	Verstv	_
+4	vers	RDF	װערס	Vers	_
+5	tu	PRO	טו	tv	_
+6	fun	P	פֿון	fvN	_
+7	dir	PRO	דיר	dyr	_
+8	strekn	VB	סטרעקן	strekN	_
+
+SENT	1750W-MOSES,701.93
+1	den	CONJ	דען	deN	_
+2	du	PRO	דו	dv	_
+3	veyst	VBF	װײסט	VYst	_
+4	vaul	ADV	װאַול	VAavl	_
+5	ikh	PRO	איך	AyX	_
+6	bin	VBF	בין	byN	_
+7	dr	D	דר	dr	_
+8	mlakh_hmut	N	מלאַכ_המוט	mlAax_hmvt	_
+9	ibr	P	איבר	Aybr	_
+10	dr	D	דר	dr	_
+11	gntsi	ADJ	גנצי	gnqy	_
+12	velt	N	װעלט	Velt	_
+13	der	WPRO	דער	der	_
+14	da	ADV	דאַ	dAa	_
+15	mkht	VBF	מכט	mxt	_
+16	di	D	די	dy	_
+17	leytn	N	לײטן	lYtN	_
+18	ihr	PRO$	איהר	Ayhr	_
+19	lebn	N	לעבן	lebN	_
+20	fr_gelt	ADJ	פֿר_געלט	fr_gelt	_
+
+SENT	1750W-MOSES,701.94
+1	un	CONJ	און	AvN	_
+2	ven	C	װען	VeN	_
+3	es	PRO	עס	es	_
+4	kumt	VBF	קומט	kvmt	_
+5	tsu	P	צו	qv	_
+6	tseytn	N	צײטן	qYtN	_
+7	als	C	אַלס	Aals	_
+8	ikh	PRO	איך	AyX	_
+9	zal	MDF	ז"ל	z"l	_
+10	den	D	דען	deN	_
+11	menshn	N	מענשן	men$N	_
+12	titn	VB	טיטן	tytN	_
+13	keyn	Q	קײן	kYN	_
+14	galt	N	גאַלט	gAalt	_
+15	un	CONJ	און	AvN	_
+16	keyn	Q	קײן	kYN	_
+17	zilbr	N	זילבר	zylbr	_
+18	helft	VBF	העלפֿט	helft	_
+19	im	PRO	אים	AyM	_
+20	nit	NEG	ניט	nyt	_
+21	oyz	P	אױז	AWz	_
+22	zeynr	PRO$	זײנר	zYnr	_
+23	nitn	N	ניטן	nytN	_
+
+SENT	1750W-MOSES,702.96
+1	un	CONJ	און	AvN	_
+2	akh	ADV	אַך	AaX	_
+3	bin	VBF	בין	byN	_
+4	ikh	PRO	איך	AyX	_
+5	dr	D	דר	dr	_
+6	itsr_hre	N	איצר_הרע	Ayqr_hre	_
+7	dr	WPRO	דר	dr	_
+8	tut	DOF	טוט	tvt	_
+9	tsu	P	צו	qv	_
+10	alin	Q	אַלין	AalyN	_
+11	bizn	N	ביזן	byzN	_
+12	an	RP	אַן	AaN	_
+13	reytsn	VB	רײצן	rYqN	_
+14	di	D	די	dy	_
+15	leytn	N	לײטן	lYtN	_
+
+SENT	1750W-MOSES,702.97
+1	abr	CONJ	אַבר	Aabr	_
+2	zi	PRO	זי	zy	_
+3	visn	VBF	װיסן	VysN	_
+4	nit	NEG	ניט	nyt	_
+5	vas	WPRO	װאַס	VAas	_
+6	es	PRO	עס	es	_
+7	tut	DOF	טוט	tvt	_
+8	bteytn	VB	בטײטן	btYtN	_
+
+SENT	1750W-MOSES,702.98
+1	den	CONJ	דען	deN	_
+2	zi	PRO	זי	zy	_
+3	meynin	VBF	מײנין	mYnyN	_
+4	meyn	PRO$	מײן	mYN	_
+5	kvnh	N	קװנה	kVnh	_
+6	iz	BEF	איז	Ayz	_
+7	zi	PRO	זי	zy	_
+8	brengin	VAG	ברענגין	brengyN	_
+9	in	P	אין	AyN	_
+10	ghint	N	גהינט	ghynt	_
+11	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1750W-MOSES,702.99
+1	abr	CONJ	אַבר	Aabr	_
+2	dran	DR+P	דראַן	drAaN	_
+3	tuhn	DOF	טוהן	tvhN	_
+4	zi	PRO	זי	zy	_
+5	di	D	די	dy	_
+6	nrin	N	נרין	nryN	_
+7	an	P	אַן	AaN	_
+8	mir	PRO	מיר	myr	_
+9	tueh	RP-H	טועה	tveh	_
+10	zeyn	VB	זײן	zYN	_
+
+SENT	1750W-MOSES,702.100
+1	den	CONJ	דען	deN	_
+2	meyn	PRO$	מײן	mYN	_
+3	kvnh	N	קװנה	kVnh	_
+4	iz	VBF	איז	Ayz	_
+5	zi	PRO	זי	zy	_
+6	zalin	MDF	זאַלין	zAalyN	_
+7	es	PRO	עס	es	_
+8	nar	FP	נאַר	nAar	_
+9	nikht	NEG	ניכט	nyxt	_
+10	tan	VB	טאַן	tAaN	_
+11	kdi	ADV	קדי	kdy	_
+12	ds	C	דס	ds	_
+13	zi	PRO	זי	zy	_
+14	zalin	MDF	זאַלין	zAalyN	_
+15	letid	H	לעטיד	letyd	to_future
+16	lba	H	לבאַ	lbAa	to_coming
+17	habn	VB	האַבן	hAabN	_
+18	eyn	D	אײן	AYN	_
+19	gutn	ADJ	גוטן	gvtN	_
+20	lan	N	לאַן	lAaN	_
+
+SENT	1750W-MOSES,702.101
+1	un	CONJ	און	AvN	_
+2	veytr	ADV	װײטר	VYtr	_
+3	hab	VBF	האַב	hAab	_
+4	ikh	PRO	איך	AyX	_
+5	tsu	P	צו	qv	_
+6	dir	PRO	דיר	dyr	_
+7	nikht	NEG	ניכט	nyxt	_
+8	lang	ADV	לאַנג	lAang	_
+9	tseyt	N	צײט	qYt	_
+
+SENT	1750W-MOSES,702.102
+1	andri	ADJ	אַנדרי	Aandry	_
+2	menshin	N	מענשין	men$yN	_
+3	tsu	TO	צו	qv	_
+4	titn	VB	טיטן	tytN	_
+5	bin	BEF	בין	byN	_
+6	ikh	PRO	איך	AyX	_
+7	an	RP	אַן	AaN	_
+8	bireyt	VAN	בירײט	byrYt	_
+
+SENT	1750W-MOSES,702.103
+1	drum	DR+P	דרום	drvM	_
+2	akh	ADV	אַך	AaX	_
+3	makh	VBI	מאַך	mAaX	_
+4	es	PRO	עס	es	_
+5	gshvind	ADV	גשװינד	g$Vynd	_
+6	un	CONJ	און	AvN	_
+7	bihend	ADV	ביהענד	byhend	_
+
+SENT	1750W-MOSES,702.104
+1	di	D	די	dy	_
+2	nshmh	N	נשמה	n$mh	_
+3	muz	MDF	מוז	mvz	_
+4	ikh	PRO	איך	AyX	_
+5	habn	VB	האַבן	hAabN	_
+6	in	P	אין	AyN	_
+7	meynh	PRO$	מײנה	mYnh	_
+8	hend	N	הענד	hend	_
+
+SENT	1750W-MOSES,702.105
+1	rse	N	רסע	rse	_
+2	deynh	PRO$	דײנה	dYnh	_
+3	rid	N	ריד	ryd	_
+4	hab	HVF	האַב	hAab	_
+5	ikh	PRO	איך	AyX	_
+6	fr_numn	VBN	פֿר_נומן	fr_nvmN	_
+
+SENT	1750W-MOSES,702.106
+1	abr	CONJ	אַבר	Aabr	_
+2	es	ES	עס	es	_
+3	iz	VBF	איז	Ayz	_
+4	visiglikh	ADJ	װיסיגליך	VysyglyX	_
+5	ikh	PRO	איך	AyX	_
+6	ver	RDF	װער	Ver	_
+7	zi	PRO	זי	zy	_
+8	nit	NEG	ניט	nyt	_
+9	nakh	RP	נ"ך	n"X	_
+10	kumn	VB	קומן	kvmN	_
+
+SENT	1750W-MOSES,702.107
+1	den	CONJ	דען	deN	_
+2	ven	C	װען	VeN	_
+3	du	PRO	דו	dv	_
+4	shun	ADV	שון	$vN	_
+5	zagst	VBF	זאַגסט	zAagst	_
+6	ikh	PRO	איך	AyX	_
+7	bin	VBF	בין	byN	_
+8	nit	NEG	ניט	nyt	_
+9	besr	ADJ	בעסר	besr	_
+10	als	P	אַלס	Aals	_
+11	eyn	D	אײן	AYN	_
+12	andr	ADJ	אַנדר	Aandr	_
+13	man	N	מאַן	mAaN	_
+14	iz	BEF	איז	Ayz	_
+15	mir	PRO	מיר	myr	_
+16	dakh	ADV	דאַך	dAaX	_
+17	niks	Q	ניקס	nyks	_
+18	glegin	VBN	גלעגין	glegyN	_
+19	dran	DR+P	דראַן	drAaN	_
+
+SENT	1750W-MOSES,702.108
+1	vau	WADV	װאַו	VAav	_
+2	iz	VBF	איז	Ayz	_
+3	far_handin	ADJ	פֿאַר_האַנדין	fAar_hAandyN	_
+4	azu	ADV	אַזו	Aazv	_
+5	eyn	D	אײן	AYN	_
+6	man	N	מאַן	mAaN	_
+7	dr	WPRO	דר	dr	_
+8	da	ADV	דאַ	dAa	_
+9	kan	MDF	ק"ן	k"N	_
+10	fr	P	פֿר	fr	_
+11	den	D	דען	deN	_
+12	almkhtign	ADJ	אַלמכטיגן	AalmxtygN	_
+13	gat	NPR	גאַט	gAat	_
+14	tflh	N	טפֿלה	tflh	_
+15	tan	VB	טאַן	tAaN	_
+
+SENT	1750W-MOSES,702.109
+1	ven	C	װען	VeN	_
+2	dr	D	דר	dr	_
+3	almekhtigr	ADJ	אַלמעכטיגר	Aalmextygr	_
+4	gat	NPR	גאַט	gAat	_
+5	tut	DOF	טוט	tvt	_
+6	es	PRO	עס	es	_
+7	fun	P	פֿון	fvN	_
+8	mir	PRO	מיר	myr	_
+9	bgerin	VB	בגערין	bgeryN	_
+10	da	ADV	דאַ	dAa	_
+11	vil	MDF	װיל	Vyl	_
+12	ikh	PRO	איך	AyX	_
+13	mikh	PRO	מיך	myX	_
+14	mit	P	מיט	myt	_
+15	meynr	PRO$	מײנר	mYnr	_
+16	tflh	N	טפֿלה	tflh	_
+17	tsu	P	צו	qv	_
+18	ihm	PRO	איהם	AyhM	_
+19	kerin	VB	קערין	keryN	_
+
+SENT	1750W-MOSES,702.110
+1	ven	C	װען	VeN	_
+2	ikh	PRO	איך	AyX	_
+3	mir	PRO	מיר	myr	_
+4	ver	RDF	װער	Ver	_
+5	shun	ADV	שון	$vN	_
+6	nit	NEG	ניט	nyt	_
+7	kenin	MD	קענין	kenyN	_
+8	oyz	RP	אױז	AWz	_
+9	nemn	VB	נעמן	nemN	_
+10	ds	D	דס	ds	_
+11	heyligi	ADJ	הײליגי	hYlygy	_
+12	land	N	לאַנד	lAand	_
+13	tsu	TO	צו	qv	_
+14	erbin	VB	ערבין	erbyN	_
+15	dan	ADV	דאַן	dAaN	_
+16	vil	MDF	װיל	Vyl	_
+17	ikh	PRO	איך	AyX	_
+18	mir	PRO	מיר	myr	_
+19	oyz	RP	אױז	AWz	_
+20	nemn	VB	נעמן	nemN	_
+21	darkh	P	דאַרך	dAarX	_
+22	deynr	PRO$	דײנר	dYnr	_
+23	hand	N	האַנד	hAand	_
+24	nit	NEG	ניט	nyt	_
+25	tsu	TO	צו	qv	_
+26	sterbin	VB	סטערבין	sterbyN	_
+
+SENT	1750W-MOSES,702.111
+1	a	LS	אַ	Aa	1
+2	almekhtigr	ADJ	אַלמעכטיגר	Aalmextygr	_
+3	gat	NPR	גאַט	gAat	_
+4	in	P	אין	AyN	_
+5	deynn	PRO$	דײנן	dYnN	_
+6	hakhstin	ADJS	האַכסטין	hAaxstyN	_
+7	zahl	N	זאַהל	zAahl	_
+8	helf	VBI	העלף	helF	_
+9	mir	PRO	מיר	myr	_
+10	heynt	ADV	הײנט	hYnt	_
+11	un	CONJ	און	AvN	_
+12	ali	Q	אַלי	Aaly	_
+13	tag	N	תּג	Tg	_
+
+SENT	1750W-MOSES,702.112
+1	helf	VBI	העלף	helF	_
+2	mir	PRO	מיר	myr	_
+3	oyz	P	אױז	AWz	_
+4	den	D	דען	deN	_
+5	mlakh_hmut	N	מלאַכ_המוט	mlAax_hmvt	_
+6	zeyni	PRO$	זײני	zYny	_
+7	hnd	N	הנד	hnd	_
+
+SENT	1750W-MOSES,702.113
+1	laz	VBI	לאַז	lAaz	_
+2	mikh	PRO	מיך	myX	_
+3	erbin	VB	ערבין	erbyN	_
+4	arts	N	אַרץ	AarQ	_
+5	isral	NPR	איסראַל	AysrAal	_
+6	das	D	דת	dS	_
+7	heyligi	ADJ	הײליגי	hYlygy	_
+8	land	N	לאַנד	lAand	_
+
+SENT	1750W-MOSES,702.114
+1	b	LS	ב	b	2
+2	deyni	PRO$	דײני	dYny	_
+3	vaundr	N	װאַונדר	VAavndr	_
+4	un	CONJ	און	AvN	_
+5	tseykhin	N	צײכין	qYxyN	_
+6	vil	MDF	װיל	Vyl	_
+7	ikh	PRO	איך	AyX	_
+8	tan	DO	טאַן	tAaN	_
+9	er_tsiln	VB	ער_צילן	er_qylN	_
+
+SENT	1750W-MOSES,702.115
+1	un	CONJ	און	AvN	_
+2	niks	Q	ניקס	nyks	_
+3	dr_fun	DR+P	דר_פֿון	dr_fvN	_
+4	vil	MDF	װיל	Vyl	_
+5	ikh	PRO	איך	AyX	_
+6	fr_helin	VB	פֿר_העלין	fr_helyN	_
+
+SENT	1750W-MOSES,702.116
+1	du	PRO	דו	dv	_
+2	zalst	MDF	זאַלסט	zAalst	_
+3	mir	PRO	מיר	myr	_
+4	akh	ADV	אַך	AaX	_
+5	meynh	PRO$	מײנה	mYnh	_
+6	zind	N	זינד	zynd	_
+7	nikht	NEG	ניכט	nyxt	_
+8	gdenkin	VB	גדענקין	gdenkyN	_
+
+SENT	1750W-MOSES,702.117
+1	un	CONJ	און	AvN	_
+2	zalst	MDF	זאַלסט	zAalst	_
+3	mir	PRO	מיר	myr	_
+4	meyn	PRO$	מײן	mYN	_
+5	lebn	N	לעבן	lebN	_
+6	shenkin	VB	שענקין	$enkyN	_
+
+SENT	1750W-MOSES,703.119
+1	g	LS	ג	g	3
+2	almekhtigr	ADJ	אַלמעכטיגר	Aalmextygr	_
+3	gat	NPR	גאַט	gAat	_
+4	kin	NPR	קין	kyN	_
+5	hat	HVF	האַט	hAat	_
+6	zeyn	PRO$	זײן	zYN	_
+7	brudr	N	ברודר	brvdr	_
+8	hbr	NPR	הבר	hbr	_
+9	dr_shlagn	VBN	דר_שלאַגן	dr_$lAagN	_
+
+SENT	1750W-MOSES,703.120
+1	nakh	ADV	נ"ך	n"X	_
+2	gleykh_vahl	ADV	גלײכ_װאַהל	glYx_VAahl	_
+3	hast	HVF	האַסט	hAast	_
+4	im	PRO	אים	AyM	_
+5	zeyni	PRO$	זײני	zYny	_
+6	zind	N	זינד	zynd	_
+7	far_tragin	VBN	פֿאַר_טראַגין	fAar_trAagyN	_
+
+SENT	1750W-MOSES,703.121
+1	tflh	N	טפֿלה	tflh	_
+2	tsu	TO	צו	qv	_
+3	tahn	VB	טאַהן	tAahN	_
+4	vil	MDF	װיל	Vyl	_
+5	ikh	PRO	איך	AyX	_
+6	mikh	PRO	מיך	myX	_
+7	nit	NEG	ניט	nyt	_
+8	sparin	VB	ספּאַרין	spAaryN	_
+
+SENT	1750W-MOSES,703.122
+1	du	PRO	דו	dv	_
+2	zalst	MDF	זאַלסט	zAalst	_
+3	mikh	PRO	מיך	myX	_
+4	makhin	VB	מאַכין	mAaxyN	_
+5	den	D	דען	deN	_
+6	irdn	N	אירדן	AyrdN	_
+7	ibr_farin	VB	איבר_פֿאַרין	Aybr_fAaryN	_
+
+SENT	1750W-MOSES,703.123
+1	d	LS	ד	d	4
+2	almekhtigr	ADJ	אַלמעכטיגר	Aalmextygr	_
+3	gat	NPR	גאַט	gAat	_
+4	adm	NPR	אַדם	AadM	_
+5	hrasun	H	הראַסון	hrAasvN	the_first
+6	hat	HVF	האַט	hAat	_
+7	khuta	RP-H	כוטאַ	xvtAa	_
+8	gvezn	VBN	גװעזן	gVezN	_
+9	kign	P	קיגן	kygN	_
+10	deyn	PRO$	דײן	dYN	_
+11	heylign	ADJ	הײליגן	hYlygN	_
+12	namin	N	נאַמין	nAamyN	_
+
+SENT	1750W-MOSES,703.124
+1	nakh	ADV	נ"ך	n"X	_
+2	gleykh_val	ADV	גלײכ_װאַל	glYx_VAal	_
+3-4	hastu	HVF~PRO	האַסטו	hAastv	_
+3	has	HVF	האַס	hAas	_
+4	tu	PRO	טו	tv	_
+5	zeyn	PRO$	זײן	zYN	_
+6	tfilh	N	טפֿילה	tfylh	_
+7	lazn	VBN-IPP	לאַזן	lAazN	_
+8	far	P	פֿאַר	fAar	_
+9	dir	PRO	דיר	dyr	_
+10	kamin	VB	קאַמין	kAamyN	_
+
+SENT	1750W-MOSES,703.125
+1	azu	ADV	אַזו	Aazv	_
+2-3	zalstu	MDF~PRO	זאַלסטו	zAalstv	_
+2	zals	MDF	זאַלס	zAals	_
+3	tu	PRO	טו	tv	_
+4	akh	ADV	אַך	AaX	_
+5	meyn	PRO$	מײן	mYN	_
+6	tflh	N	טפֿלה	tflh	_
+7	dr_herin	VB	דר_הערין	dr_heryN	_
+8	ds	C	דס	ds	_
+9	ikh	PRO	איך	AyX	_
+10	mikh	PRO	מיך	myX	_
+11	zal	MDF	ז"ל	z"l	_
+12	kenin	MD	קענין	kenyN	_
+13	den	D	דען	deN	_
+14	mlakh_hmut	N	מלאַכ_המוט	mlAax_hmvt	_
+15	oyz	RP	אױז	AWz	_
+16	verin	VB	װערין	VeryN	_
+
+SENT	1750W-MOSES,703.126
+1	h	LS	ה	h	5
+2	almekhtigr	ADJ	אַלמעכטיגר	Aalmextygr	_
+3	gat	NPR	גאַט	gAat	_
+4	du	PRO	דו	dv	_
+5	hast	HVF	האַסט	hAast	_
+6	bsermt	VBN	בסערמט	bsermt	_
+7	abrhm	NPR	אַברהם	AabrhM	_
+8	fun	P	פֿון	fvN	_
+9	kalikh_ubn	N	קאַליכ_ובן	kAalyx_vbN	_
+10	den	D	דען	deN	_
+11	heysn	ADJ	הײסן	hYsN	_
+12	brand	N	בראַנד	brAand	_
+
+SENT	1750W-MOSES,703.127
+1	bsherm	VBI	בשערם	b$erM	_
+2	mikh	PRO	מיך	myX	_
+3	akh	ADV	אַך	AaX	_
+4	fun	P	פֿון	fvN	_
+5	dem	D	דעם	deM	_
+6	mlakh_hmut	N	מלאַכ_המוט	mlAax_hmvt	_
+7	zeyn	PRO$	זײן	zYN	_
+8	hand	N	האַנד	hAand	_
+
+SENT	1750W-MOSES,703.128
+1	un	CONJ	און	AvN	_
+2	vi	WADV	װי	Vy	_
+3	du	PRO	דו	dv	_
+4	lut	NPR	לוט	lvt	_
+5	hast	HVF	האַסט	hAast	_
+6	den	D	דען	deN	_
+7	mlakh	N	מלאַך	mlAaX	_
+8	tan	DON-IPP	טאַן	tAaN	_
+9	zendin	VB	זענדין	zendyN	_
+10-11	zalstu	MDF~PRO	זאַלסטו	zAalstv	_
+10	zals	MDF	זאַלס	zAals	_
+11	tu	PRO	טו	tv	_
+12	mikh	PRO	מיך	myX	_
+13	akh	ADV	אַך	AaX	_
+14	mtsil	RP-H	מציל	mqyl	_
+15	zeyn	VB	זײן	zYN	_
+16	fun	P	פֿון	fvN	_
+17	zeyni	PRO$	זײני	zYny	_
+18	hendin	N	הענדין	hendyN	_
+
+SENT	1750W-MOSES,703.129
+1	u	LS	או	Av	6
+2	almekhtigr	ADJ	אַלמעכטיגר	Aalmextygr	_
+3	gat	NPR	גאַט	gAat	_
+4	az	ADV	אַז	Aaz	_
+5	vi	WADV	װי	Vy	_
+6	du	PRO	דו	dv	_
+7	hast	HVF	האַסט	hAast	_
+8	itskhk	NPR	איצכק	Ayqxk	_
+9	bey	P	בײ	bY	_
+10	dr	D	דר	dr	_
+11	ekidh	N	עקידה	ekydh	_
+12	mtsil	RP-H	מציל	mqyl	_
+13	gvezin	VBN	גװעזין	gVezyN	_
+14-15	zalstu	MDF~PRO	זאַלסטו	zAalstv	_
+14	zals	MDF	זאַלס	zAals	_
+15	tu	PRO	טו	tv	_
+16	mikh	PRO	מיך	myX	_
+17	akh	ADV	אַך	AaX	_
+18	fun	P	פֿון	fvN	_
+19	tut	N	טוט	tvt	_
+20	makhin	VB	מאַכין	mAaxyN	_
+21	gnezn	VB	גנעזן	gnezN	_
+
+SENT	1750W-MOSES,703.130
+1	un	CONJ	און	AvN	_
+2	vi	WADV	װי	Vy	_
+3	du	PRO	דו	dv	_
+4	yekb	NPR	יעקב	yekb	_
+5	hast	HVF	האַסט	hAast	_
+6	bshermt	VBN	בשערמט	b$ermt	_
+7	bey	P	בײ	bY	_
+8	zeyn	PRO$	זײן	zYN	_
+9	shver	ADJ	שװער	$Ver	_
+10	lbn	N	לבן	lbN	_
+11	in	P	אין	AyN	_
+12	khrn	N	כרן	xrN	_
+13	azu	ADV	אַזו	Aazv	_
+14-15	zalstu	MDF~PRO	זאַלסטו	zAalstv	_
+14	zals	MDF	זאַלס	zAals	_
+15	tu	PRO	טו	tv	_
+16	mikh	PRO	מיך	myX	_
+17	akh	ADV	אַך	AaX	_
+18	makhin	VB	מאַכין	mAaxyN	_
+19	den	D	דען	deN	_
+20	irdn	N	אירדן	AyrdN	_
+21	ibr_farin	VB	איבר_פֿאַרין	Aybr_fAaryN	_
+
+SENT	1750W-MOSES,703.131
+1	z	LS	ז	z	7
+2	libr	ADJ	ליבר	lybr	_
+3	gat	NPR	גאַט	gAat	_
+4	denk	VBI	דענק	denk	_
+5	mir	PRO	מיר	myr	_
+6	tsu	P	צו	qv	_
+7	akhtsig	NUM	אַכציג	Aaxqyg	_
+8	yar	N	יאַר	yAar	_
+9	hab	HVF	האַב	hAab	_
+10	ikh	PRO	איך	AyX	_
+11	far	P	פֿאַר	fAar	_
+12	freh	NPR	פֿרעה	freh	_
+13	tan	DON-IPP	טאַן	tAaN	_
+14	stan	VB	סטאַן	stAaN	_
+15	vi	C	װי	Vy	_
+16	er	PRO	ער	er	_
+17	deyn	PRO$	דײן	dYN	_
+18	falk	N	פֿאַלק	fAalk	_
+19	isral	NPR	איסראַל	AysrAal	_
+20	hat	HVF	האַט	hAat	_
+21	nit	NEG	ניט	nyt	_
+22	veln	MDN-IPP	װעלן	VelN	_
+23	lazn	VB	לאַזן	lAazN	_
+24	oys	P	אױס	AWs	_
+25	zeyn	PRO$	זײן	zYN	_
+26	lnd	N	לנד	lnd	_
+27	gen	VB	גען	geN	_
+
+SENT	1750W-MOSES,703.132
+1	zu	ADV	זו	zv	_
+2	bld	ADV	בלד	bld	_
+3	daz	C	דאַז	dAaz	_
+4	ikh	PRO	איך	AyX	_
+5	im	PRO	אים	AyM	_
+6	mit	P	מיט	myt	_
+7	tsehn	NUM	צעהן	qehN	_
+8	shlek	N	שלעק	$lek	_
+9	hab	HVF	האַב	hAab	_
+10	gshlagn	VBN	גשלאַגן	g$lAagN	_
+11	da	ADV	דאַ	dAa	_
+12	hat	HVF	האַט	hAat	_
+13	er	PRO	ער	er	_
+14	zi	PRO	זי	zy	_
+15	oyz	P	אױז	AWz	_
+16	zeyn	PRO$	זײן	zYN	_
+17	lnd	N	לנד	lnd	_
+18	tan	DON-IPP	טאַן	tAaN	_
+19	aroyz	ADV	אַרױז	AarWz	_
+20	yagin	VB	יאַגין	yAagyN	_
+
+SENT	1750W-MOSES,703.133
+1	kh	LS	כ	x	8
+2	abr	CONJ	אַבר	Aabr	_
+3	zu	ADV	זו	zv	_
+4	bld	ADV	בלד	bld	_
+5	az	C	אַז	Aaz	_
+6	ikh	PRO	איך	AyX	_
+7	hab	HVF	האַב	hAab	_
+8	zi	PRO	זי	zy	_
+9-10	tsum	P~D	צום	qvM	_
+9	tsu	P	צו	qv	_
+10	m	D	מ	m	_
+11	ym	N	ים	yM	_
+12	mkhin	VBN	מכין	mxyN	_
+13	gehn	VB	געהן	gehN	_
+14	habn	HVF	האַבן	hAabN	_
+15	zi	PRO	זי	zy	_
+16	an	RP	אַן	AaN	_
+17	ghubn	VBN	גהובן	ghvbN	_
+18	tsu	TO	צו	qv	_
+19	shreyan	VB	שרײאַן	$rYAaN	_
+
+SENT	1750W-MOSES,703.134
+1	ve	INTJ	װע	Ve	_
+2	ve	N	װע	Ve	_
+3	iz	BEF	איז	Ayz	_
+4	uns	PRO	אונס	Avns	_
+5	gsehn	VBN	גסעהן	gsehN	_
+
+SENT	1750W-MOSES,703.135
+1	mir	PRO	מיר	myr	_
+2	visn	VBF	װיסן	VysN	_
+3	zikh	PRO	זיך	zyX	_
+4	nit	NEG	ניט	nyt	_
+5	tsu	TO	צו	qv	_
+6	kern	VB	קרן	krN	_
+7	nakh	CONJ	נ"ך	n"X	_
+8	tsu	TO	צו	qv	_
+9	vendn	VB	װענדן	VendN	_
+
+SENT	1750W-MOSES,703.136
+1	far	P	פֿאַר	fAar	_
+2	unz	PRO	אונז	Avnz	_
+3	daz	D	דאַז	dAaz	_
+4	mir	N	מיר	myr	_
+5	hintr	P	הינטר	hyntr	_
+6	unz	PRO	אונז	Avnz	_
+7	zeynn	VBF	זײנן	zYnN	_
+8	di	D	די	dy	_
+9	mtsrim	NPR	מצרים	mqryM	_
+10	oyf	P	אױף	AWF	_
+11	ali	Q	אַלי	Aaly	_
+12	endin	N	ענדין	endyN	_
+
+SENT	1750W-MOSES,703.137
+1	t	LS	ט	t	9
+2	abr	CONJ	אַבר	Aabr	_
+3	zu	ADV	זו	zv	_
+4	bld	ADV	בלד	bld	_
+5	az	C	אַז	Aaz	_
+6	ikh	PRO	איך	AyX	_
+7	hab	HVF	האַב	hAab	_
+8	daz	D	דאַז	dAaz	_
+9	ym	N	ים	yM	_
+10	tan	DON-IPP	טאַן	tAaN	_
+11	shpaltin	VB	שפּאַלטין	$pAaltyN	_
+12	darkh	RP	דאַרך	dAarX	_
+13	zeynn	BEF	זײנן	zYnN	_
+14	gngin	VBN	גנגין	gngyN	_
+15	di	D	די	dy	_
+16	yungn	N	יונגן	yvngN	_
+17	un	CONJ	און	AvN	_
+18	di	D	די	dy	_
+19	altin	N	אַלטין	AaltyN	_
+
+SENT	1750W-MOSES,703.138
+1	zu	ADV	זו	zv	_
+2	bld	ADV	בלד	bld	_
+3	hibn	VBF	היבן	hybN	_
+4	zi	PRO	זי	zy	_
+5	an	RP	אַן	AaN	_
+6	tsu	TO	צו	qv	_
+7	lubin	VB	לובין	lvbyN	_
+8	un	CONJ	און	AvN	_
+9	tsu	TO	צו	qv	_
+10	zingn	VB	זינגן	zyngN	_
+11	glubt	VAN	גלובט	glvbt	_
+12-13	bistu	BEF~PRO	ביסטו	bystv	_
+12	bis	BEF	ביס	bys	_
+13	tu	PRO	טו	tv	_
+14	gat	NPR	גאַט	gAat	_
+15	das	C	דת	dS	_
+16	du	PRO	דו	dv	_
+17	hast	HVF	האַסט	hAast	_
+18	mkhin	VBN	מכין	mxyN	_
+19	di	D	די	dy	_
+20	mtsrim	NPR	מצרים	mqryM	_
+21	in	P	אין	AyN	_
+22	ym	N	ים	yM	_
+23	far_zinkn	VB	פֿאַר_זינקן	fAar_zynkN	_
+
+SENT	1750W-MOSES,703.139
+1	iud	LS	איוד	Ayvd	10
+2	etlikhi	Q	עטליכי	etlyxy	_
+3	khdsim	N	כדסים	xdsyM	_
+4	dr_nakh	DR+P	דר_נאַך	dr_nAaX	_
+5	bin	BEF	בין	byN	_
+6	ikh	PRO	איך	AyX	_
+7	oyf	P	אױף	AWF	_
+8	den	D	דען	deN	_
+9	brg	N	ברג	brg	_
+10	sini	NPR	סיני	syny	_
+11	anoyf	ADV	אַנױף	AanWF	_
+12	gigangin	VBN	גיגאַנגין	gygAangyN	_
+13	deyn	PRO$	דײן	dYN	_
+14	turh	NPR	טורה	tvrh	_
+15	hkdush	H	הקדוש	hkdv$	the_holy
+16	tsu	TO	צו	qv	_
+17	antfngin	VB	אַנטפֿנגין	AantfngyN	_
+
+SENT	1750W-MOSES,704.141
+1	fertsig	NUM	פֿערציג	ferqyg	_
+2	teg	N	טעג	teg	_
+3	bin	BEF	בין	byN	_
+4	ikh	PRO	איך	AyX	_
+5	oyf	P	אױף	AWF	_
+6	den	D	דען	deN	_
+7	berg	N	בערג	berg	_
+8	gzesin	VBN	גזעסין	gzesyN	_
+
+SENT	1750W-MOSES,704.142
+1	dr	D	דר	dr	_
+2	veyl	N	װײל	VYl	_
+3	habn	HVF	האַבן	hAabN	_
+4	zi	PRO	זי	zy	_
+5	an	P	אַן	AaN	_
+6	deyn	PRO$	דײן	dYN	_
+7	heylign	ADJ	הײליגן	hYlygN	_
+8	namin	N	נאַמין	nAamyN	_
+9	fr_gesin	VBN	פֿר_געסין	fr_gesyN	_
+
+SENT	1750W-MOSES,704.143
+1	ia	LS	איאַ	AyAa	11
+2	ds	D	דס	ds	_
+3	egl	N	עגל	egl	_
+4	habn	HVF	האַבן	hAabN	_
+5	zi	PRO	זי	zy	_
+6	tan	DON-IPP	טאַן	tAaN	_
+7	makhin	VB	מאַכין	mAaxyN	_
+
+SENT	1750W-MOSES,704.144
+1	dr_far	DR+P	דר_פֿאַר	dr_fAar	_
+2	habn	HVF	האַבן	hAabN	_
+3	zi	PRO	זי	zy	_
+4	tan	DON-IPP	טאַן	tAaN	_
+5	springen	VB	ספּרינגען	spryngeN	_
+6	un	CONJ	און	AvN	_
+7	lakhin	VB	לאַכין	lAaxyN	_
+
+SENT	1750W-MOSES,704.145
+1	zu	ADV	זו	zv	_
+2	bld	ADV	בלד	bld	_
+3	iz	BEF	איז	Ayz	_
+4	dr	D	דר	dr	_
+5	stnf	N	סטנף	stnF	_
+6	far	P	פֿאַר	fAar	_
+7	dir	PRO	דיר	dyr	_
+8	gkumn	VBN	גקומן	gkvmN	_
+9	kl	Q	קל	kl	all
+10	isral	NPR	איסראַל	AysrAal	_
+11	tsu	TO	צו	qv	_
+12	far_derbin	VB	פֿאַר_דערבין	fAar_derbyN	_
+
+SENT	1750W-MOSES,704.146
+1	kl	Q	קל	kl	all
+2	isral	NPR	איסראַל	AysrAal	_
+3	tsu	TO	צו	qv	_
+4	far_derbin	VB	פֿאַר_דערבין	fAar_derbyN	_
+5	hat	HVF	האַט	hAat	_
+6	er	PRO	ער	er	_
+7	zikh	PRO	זיך	zyX	_
+8	far	RP	פֿאַר	fAar	_
+9	gnumin	VBN	גנומין	gnvmyN	_
+
+SENT	1750W-MOSES,704.147
+1	ib	LS	איב	Ayb	12
+2	abr	CONJ	אַבר	Aabr	_
+3	zu_bld_az	C	זו_בלד_אַז	zv_bld_Aaz	_
+4	ikh	PRO	איך	AyX	_
+5	hab	HVF	האַב	hAab	_
+6	far	P	פֿאַר	fAar	_
+7	dir	PRO	דיר	dyr	_
+8	tflh	N	טפֿלה	tflh	_
+9	gtan	VBN	גטאַן	gtAaN	_
+10	almekhtigr	ADJ	אַלמעכטיגר	Aalmextygr	_
+11	gat	NPR	גאַט	gAat	_
+12	straf	VBI	סטראַף	strAaF	_
+13	zi	PRO	זי	zy	_
+14	nikht	NEG	ניכט	nyxt	_
+15	nakh	P	נ"ך	n"X	_
+16	ihrn	PRO$	איהרן	AyhrN	_
+17	lan	N	לאַן	lAaN	_
+18	slkhti	ADJ	סלכטי	slxty	_
+19	kdbrikh	N	קדבריך	kdbryX	_
+20-21	hastu	HVF~PRO	האַסטו	hAastv	_
+20	has	HVF	האַס	hAas	_
+21	tu	PRO	טו	tv	_
+22	tan	DON-IPP	טאַן	tAaN	_
+23	zagn	VB	זאַגן	zAagN	_
+
+SENT	1750W-MOSES,704.148
+1	ir	PRO$	איר	Ayr	_
+2	zind	N	זינד	zynd	_
+3	vil	MDF	װיל	Vyl	_
+4	ikh	PRO	איך	AyX	_
+5	far_tragin	VB	פֿאַר_טראַגין	fAar_trAagyN	_
+
+SENT	1750W-MOSES,704.149
+1	ig	LS	איג	Ayg	13
+2	azu	ADV	אַזו	Aazv	_
+3-4	zalstu	MDF~PRO	זאַלסטו	zAalstv	_
+3	zals	MDF	זאַלס	zAals	_
+4	tu	PRO	טו	tv	_
+5	mir	PRO	מיר	myr	_
+6	akh	ADV	אַך	AaX	_
+7	meyni	PRO$	מײני	mYny	_
+8	zind	N	זינד	zynd	_
+9	nit	NEG	ניט	nyt	_
+10	gdenkn	VB	גדענקן	gdenkN	_
+11	un	CONJ	און	AvN	_
+12	meyn	PRO$	מײן	mYN	_
+13	lebin	N	לעבין	lebyN	_
+14	shenkin	VB	שענקין	$enkyN	_
+
+SENT	1750W-MOSES,704.150
+1	almekhtigr	ADJ	אַלמעכטיגר	Aalmextygr	_
+2	gat	NPR	גאַט	gAat	_
+3	gdenk	VBI	גדענק	gdenk	_
+4	das	C	דת	dS	_
+5	ikh	PRO	איך	AyX	_
+6	bin	BEF	בין	byN	_
+7	gvezn	VBN	גװעזן	gVezN	_
+8	ibr	P	איבר	Aybr	_
+9	deyn	PRO$	דײן	dYN	_
+10	falk	N	פֿאַלק	fAalk	_
+11	isral	NPR	איסראַל	AysrAal	_
+12	vi	P	װי	Vy	_
+13	eyn	D	אײן	AYN	_
+14	hirt	N	הירט	hyrt	_
+15	ibr	P	איבר	Aybr	_
+16	di	D	די	dy	_
+17	shafin	N	שאַפֿין	$AafyN	_
+
+SENT	1750W-MOSES,704.151
+1	yetsund	ADV	יעצונד	yeqvnd	_
+2	zaul	MDF	זאַול	zAavl	_
+3	leydr	ADV	לײדר	lYdr	_
+4	dr	D	דר	dr	_
+5	mlakh_hmut	N	מלאַכ_המוט	mlAax_hmvt	_
+6	oyf	P	אױף	AWF	_
+7	meyn	PRO$	מײן	mYN	_
+8	nshmh	N	נשמה	n$mh	_
+9	hafin	VB	האַפֿין	hAafyN	_
+
+SENT	1750W-MOSES,704.152
+1	id	LS	איד	Ayd	14
+2	himl	N	הימל	hyml	_
+3	un	CONJ	און	AvN	_
+4	erd	N	ערד	erd	_
+5	brg	N	ברג	brg	_
+6	un	CONJ	און	AvN	_
+7	tal	N	טל	tl	_
+8	bet	VBI	בעט	bet	_
+9	da	ADV	דאַ	dAa	_
+10	far	P	פֿאַר	fAar	_
+11	mir	PRO	מיר	myr	_
+12	das	D	דת	dS	_
+13	eyntsg	ADJ	אײנצג	AYnqg	_
+14	mahl	N	מאַהל	mAahl	_
+
+SENT	1750W-MOSES,704.153
+1	ven	C	װען	VeN	_
+2	ir	PRO	איר	Ayr	_
+3	shun	ADV	שון	$vN	_
+4	far	P	פֿאַר	fAar	_
+5	eykh	PRO	אײך	AYX	_
+6	zelbst	ADV	זעלבסט	zelbst	_
+7	hat	VBF	האַט	hAat	_
+8	tsu	TO	צו	qv	_
+9	bitn	VB	ביטן	bytN	_
+10	dakh	ADV	דאַך	dAaX	_
+11	kent	MDF	קענט	kent	_
+12	ir	PRO	איר	Ayr	_
+13	mikh	PRO	מיך	myX	_
+14	mit	P	מיט	myt	_
+15	eynr	D	אײנר	AYnr	_
+16	tflh	N	טפֿלה	tflh	_
+17	fr_tretin	VB	פֿר_טרעטין	fr_tretyN	_
+
+SENT	1750W-MOSES,704.154
+1	mu	LS	מו	mv	15
+2	khukhbim	N	כוכבים	xvxbyM	_
+3	un	CONJ	און	AvN	_
+4	mzlut	N	מזלוט	mzlvt	_
+5	zun	N	זון	zvN	_
+6	un	CONJ	און	AvN	_
+7	lbnh	N	לבנה	lbnh	_
+8	vi	WADV	װי	Vy	_
+9	zalt	MDF	זאַלט	zAalt	_
+10	ir	PRO	איר	Ayr	_
+11	eykh	PRO	אײך	AYX	_
+12	meynr	PRO	מײנר	mYnr	_
+13	nit	NEG	ניט	nyt	_
+14	bvegin	VB	בװעגין	bVegyN	_
+
+SENT	1750W-MOSES,704.155
+1	un	CONJ	און	AvN	_
+2	zalt	MDF	זאַלט	zAalt	_
+3	fr	P	פֿר	fr	_
+4	den	D	דען	deN	_
+5	almekhtign	ADJ	אַלמעכטיגן	AalmextygN	_
+6	gat	NPR	גאַט	gAat	_
+7	shvebin	VB	שװעבין	$VebyN	_
+8	un	CONJ	און	AvN	_
+9	fr	P	פֿר	fr	_
+10	mir	PRO	מיר	myr	_
+11	mtfll	RP-H	מטפֿלל	mtfll	_
+12	tsu	TO	צו	qv	_
+13	zeyn	VB	זײן	zYN	_
+14	az	C	אַז	Aaz	_
+15	ikh	PRO	איך	AyX	_
+16	zal	MDF	ז"ל	z"l	_
+17	nit	NEG	ניט	nyt	_
+18	kumn	VB	קומן	kvmN	_
+19	in	P	אין	AyN	_
+20	azu	ADJ	אַזו	Aazv	_
+21	eynh	D	אײנה	AYnh	_
+22	nut	N	נוט	nvt	_
+23	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1750W-MOSES,704.156
+1	mz	LS	מז	mz	16
+2	almekhtigr	ADJ	אַלמעכטיגר	Aalmextygr	_
+3	gat	NPR	גאַט	gAat	_
+4	das	C	דת	dS	_
+5	du	PRO	דו	dv	_
+6	hast	HVF	האַסט	hAast	_
+7	mir	PRO	מיר	myr	_
+8	dakh	ADV	דאַך	dAaX	_
+9	ghalfn	VBN	גהאַלפֿן	ghAalfN	_
+10	oys	P	אױס	AWs	_
+11	meyni	PRO$	מײני	mYny	_
+12	nitn	N	ניטן	nytN	_
+13	vi	C	װי	Vy	_
+14	mikh	PRO	מיך	myX	_
+15	freh	NPR	פֿרעה	freh	_
+16	hat	HVF	האַט	hAat	_
+17	velin	MDN-IPP	װעלין	VelyN	_
+18	lazn	VB	לאַזן	lAazN	_
+19	titn	VB	טיטן	tytN	_
+
+SENT	1750W-MOSES,704.157
+1	almekhtigr	ADJ	אַלמעכטיגר	Aalmextygr	_
+2	gat	NPR	גאַט	gAat	_
+3	vi	WADV	װי	Vy	_
+4	hab	HVF	האַב	hAab	_
+5	ikh	PRO	איך	AyX	_
+6	gbetin	VBN	גבעטין	gbetyN	_
+7	za	ADV	זאַ	zAa	_
+8	hipsh	ADV	היפּש	hyp$	_
+9	un	CONJ	און	AvN	_
+10	feyn	ADV	פֿײן	fYN	_
+
+SENT	1750W-MOSES,704.158
+1	zu	ADV	זו	zv	_
+2-3	hastu	HVF~PRO	האַסטו	hAastv	_
+2	has	HVF	האַס	hAas	_
+3	tu	PRO	טו	tv	_
+4	glazt	VBN	גלאַזט	glAazt	_
+5	vern	VB	װערן	VerN	_
+6	meyn	PRO$	מײן	mYN	_
+7	hlz	N	הלז	hlz	_
+8	tsu	P	צו	qv	_
+9	mermil_steyn	NPR	מערמיל_סטײן	mermyl_stYN	_
+
+SENT	1750W-MOSES,705.159
+1	iz	LS	איז	Ayz	17
+2	drum	DR+P	דרום	drvM	_
+3	akh	ADV	אַך	AaX	_
+4	tu	DOF	טו	tv	_
+5	ikh	PRO	איך	AyX	_
+6	dikh	PRO	דיך	dyX	_
+7	ds	D	דס	ds	_
+8	eyntsigi	ADJ	אײנציגי	AYnqygy	_
+9	mahl	N	מאַהל	mAahl	_
+10	bitn	VB	ביטן	bytN	_
+11	du	PRO	דו	dv	_
+12	zalst	MDF	זאַלסט	zAalst	_
+13	mikh	PRO	מיך	myX	_
+14	nit	NEG	ניט	nyt	_
+15	lazn	VB	לאַזן	lAazN	_
+16	durkh	P	דורך	dvrX	_
+17	den	D	דען	deN	_
+18	mlakh_hmut	N	מלאַכ_המוט	mlAax_hmvt	_
+19	titn	VB	טיטן	tytN	_
+20	un	CONJ	און	AvN	_
+21	zalst	MDF	זאַלסט	zAalst	_
+22	dikh	PRO	דיך	dyX	_
+23	ibr	P	איבר	Aybr	_
+24	mir	PRO	מיר	myr	_
+25	mrkhm	RP-H	מרכם	mrxM	_
+26	zeyn	VB	זײן	zYN	_
+27	un	CONJ	און	AvN	_
+28	zalst	MDF	זאַלסט	zAalst	_
+29	mikh	PRO	מיך	myX	_
+30	lazn	VB	לאַזן	lAazN	_
+31	lebn	VB	לעבן	lebN	_
+32	az	P	אַז	Aaz	_
+33	vi	P	װי	Vy	_
+34	eyn	D	אײן	AYN	_
+35	fugl	N	פֿוגל	fvgl	_
+36	dr	WPRO	דר	dr	_
+37	da	ADV	דאַ	dAa	_
+38	fliht	VBF	פֿליהט	flyht	_
+39	in	P	אין	AyN	_
+40	vald	N	װאַלד	VAald	_
+41	oyz	RP	אױז	AWz	_
+42	un	CONJ	און	AvN	_
+43	eyn	RP	אײן	AYN	_
+
+SENT	1750W-MOSES,705.160
+1	ikh	LS	איך	AyX	18
+2	ven	C	װען	VeN	_
+3	du	PRO	דו	dv	_
+4	vilst	MDF	װילסט	Vylst	_
+5	mikh	PRO	מיך	myX	_
+6	nit	NEG	ניט	nyt	_
+7	lazn	VB	לאַזן	lAazN	_
+8	lebn	VB	לעבן	lebN	_
+9	alz	P	אַלז	Aalz	_
+10	eyn	D	אײן	AYN	_
+11	figleyn	N	פֿיגלײן	fyglYN	_
+12	vas	C	װאַס	VAas	_
+13	da	ADV	דאַ	dAa	_
+14	tut	DOF	טוט	tvt	_
+15	flihn	VB	פֿליהן	flyhN	_
+16	vald	N	װאַלד	VAald	_
+17	oyz	RP	אױז	AWz	_
+18	vald	N	װאַלד	VAald	_
+19	eyn	RP	אײן	AYN	_
+20	azu	ADV	אַזו	Aazv	_
+21	laz	VBI	לאַז	lAaz	_
+22	mikh	PRO	מיך	myX	_
+23	nur	FP	נור	nvr	_
+24	als	P	אַלס	Aals	_
+25	eyn	D	אײן	AYN	_
+26	shatin	N	שאַטין	$AatyN	_
+27	lebin	VB	לעבין	lebyN	_
+28	vas	C	װאַס	VAas	_
+29	da	ADV	דאַ	dAa	_
+30	tut	DOF	טוט	tvt	_
+31	an	P	אַן	AaN	_
+32	dr	D	דר	dr	_
+33	vant	N	װאַנט	VAant	_
+34	shvebin	VB	שװעבין	$VebyN	_
+
+SENT	1750W-MOSES,705.161
+1	it	LS	איט	Ayt	19
+2	laz	VBI	לאַז	lAaz	_
+3	mikh	PRO	מיך	myX	_
+4	lebin	VB	לעבין	lebyN	_
+5	als	P	אַלס	Aals	_
+6	vi	P	װי	Vy	_
+7	eyn	D	אײן	AYN	_
+8	fish	N	פֿיש	fy$	_
+9	vas	C	װאַס	VAas	_
+10	da	ADV	דאַ	dAa	_
+11	tut	DOF	טוט	tvt	_
+12	in	P	אין	AyN	_
+13	vasr	N	װאַסר	VAasr	_
+14	tretin	VB	טרעטין	tretyN	_
+
+SENT	1750W-MOSES,705.162
+1	ven	C	װען	VeN	_
+2	du	PRO	דו	dv	_
+3	vilst	MDF	װילסט	Vylst	_
+4	mikh	PRO	מיך	myX	_
+5	nit	NEG	ניט	nyt	_
+6	lazn	VB	לאַזן	lAazN	_
+7	lebn	VB	לעבן	lebN	_
+8	alz	P	אַלז	Aalz	_
+9	eyn	D	אײן	AYN	_
+10	fish	N	פֿיש	fy$	_
+11	vas	C	װאַס	VAas	_
+12	da	ADV	דאַ	dAa	_
+13	tut	DOF	טוט	tvt	_
+14	in	P	אין	AyN	_
+15	vasr	N	װאַסר	VAasr	_
+16	shvimn	VB	שװימן	$VymN	_
+17	azu	ADV	אַזו	Aazv	_
+18	laz	VBI	לאַז	lAaz	_
+19	mikh	PRO	מיך	myX	_
+20	lebn	VB	לעבן	lebN	_
+21	als	P	אַלס	Aals	_
+22	vi	P	װי	Vy	_
+23	vatsin	N	װאַצין	VAaqyN	_
+24	vas	C	װאַס	VAas	_
+25	da	ADV	דאַ	dAa	_
+26	tut	DOF	טוט	tvt	_
+27	undr	P	אונדר	Avndr	_
+28	dr	D	דר	dr	_
+29	erd	N	ערד	erd	_
+30	zumin	VB	זומין	zvmyN	_
+
+SENT	1750W-MOSES,705.163
+1	msh	NPR	מש	m$	_
+2	bn	NPR	בן	bN	_
+3	emrm	NPR	עמרם	emrM	_
+4	deyn	PRO$	דײן	dYN	_
+5	tseyt	N	צײט	qYt	_
+6	iz	VBF	איז	Ayz	_
+7	oyz	RP	אױז	AWz	_
+
+SENT	1750W-MOSES,705.164
+1	deyn	PRO$	דײן	dYN	_
+2	nshmh	N	נשמה	n$mh	_
+3	zal	MDF	ז"ל	z"l	_
+4	dir	PRO	דיר	dyr	_
+5	gihn	VB	גיהן	gyhN	_
+6	oyz	P	אױז	AWz	_
+7	deyn	PRO$	דײן	dYN	_
+8	guf	N	גוף	gvF	_
+9	aroyz	ADV	אַרױז	AarWz	_
+
+SENT	1750W-MOSES,705.165
+1	den	CONJ	דען	deN	_
+2	veyl	C	װײל	VYl	_
+3	du	PRO	דו	dv	_
+4	hast	HVF	האַסט	hAast	_
+5	eyn_mahl	ADV	אײנ_מאַהל	AYn_mAahl	_
+6	msrb_bshlikhut	RP-H	מסרב_בשליכוט	msrb_b$lyxvt	_
+7	gvezin	VBN	גװעזין	gVezyN	_
+8	hat	HVF	האַט	hAat	_
+9	dr	D	דר	dr	_
+10	almekhtigr	ADJ	אַלמעכטיגר	Aalmextygr	_
+11	gat	NPR	גאַט	gAat	_
+12	bshvarn	VBN	בשװאַרן	b$VAarN	_
+13	du	PRO	דו	dv	_
+14	zalst	MDF	זאַלסט	zAalst	_
+15	den	D	דען	deN	_
+16	tut	N	טוט	tvt	_
+17	nit	NEG	ניט	nyt	_
+18	verin	RD	װערין	VeryN	_
+19	gnezin	VX	גנעזין	gnezyN	_
+
+SENT	1750W-MOSES,705.166
+1	nun	INTJ	נ	n	_
+2	ven	C	װען	VeN	_
+3	es	PRO	עס	es	_
+4	nit	NEG	ניט	nyt	_
+5	andrst	ADV	אַנדרסט	Aandrst	_
+6	kan	MDF	ק"ן	k"N	_
+7	zeyn	VB	זײן	zYN	_
+8	da	ADV	דאַ	dAa	_
+9	vil	MDF	װיל	Vyl	_
+10	ikh	PRO	איך	AyX	_
+11	mikh	PRO	מיך	myX	_
+12	bgebin	VB	בגעבין	bgebyN	_
+13	dreyn	DR+P	דרײן	drYN	_
+
+SENT	1750W-MOSES,705.167
+1	nur	FP	נור	nvr	_
+2	mit	P	מיט	myt	_
+3	eynh	NUM	אײנה	AYnh	_
+4	bksh	N	בקש	bk$	_
+5	vil	MDF	װיל	Vyl	_
+6	ikh	PRO	איך	AyX	_
+7	fr	P	פֿר	fr	_
+8	dir	PRO	דיר	dyr	_
+9	bitn	VB	ביטן	bytN	_
+
+SENT	1750W-MOSES,705.168
+1	du	PRO	דו	dv	_
+2	zalst	MDF	זאַלסט	zAalst	_
+3	mikh	PRO	מיך	myX	_
+4	nit	NEG	ניט	nyt	_
+5	lazin	VB	לאַזין	lAazyN	_
+6	darkh	P	דאַרך	dAarX	_
+7	den	D	דען	deN	_
+8	mlakh_hmut	N	מלאַכ_המוט	mlAax_hmvt	_
+9	titn	VB	טיטן	tytN	_
+
+SENT	1750W-MOSES,705.169
+1	almekhtigr	ADJ	אַלמעכטיגר	Aalmextygr	_
+2	gat	NPR	גאַט	gAat	_
+3	gdenk	VBI	גדענק	gdenk	_
+4	mir	PRO	מיר	myr	_
+5	firtsig	NUM	פֿירציג	fyrqyg	_
+6	tag	N	תּג	Tg	_
+7	un	CONJ	און	AvN	_
+8	firtsig	NUM	פֿירציג	fyrqyg	_
+9	nakhtt	N	נאַכטט	nAaxtt	_
+10	bin	BEF	בין	byN	_
+11	ikh	PRO	איך	AyX	_
+12	oyf	P	אױף	AWF	_
+13	den	D	דען	deN	_
+14	berg	N	בערג	berg	_
+15	gsesin	VBN	גסעסין	gsesyN	_
+
+SENT	1750W-MOSES,705.170
+1	un	CONJ	און	AvN	_
+2	hab	HVF	האַב	hAab	_
+3	vedr	CONJ	װעדר	Vedr	_
+4	tan	DON-IPP	טאַן	tAaN	_
+5	trinkin	VB	טרינקין	trynkyN	_
+6	nakh	CONJ	נ"ך	n"X	_
+7	esin	VB	עסין	esyN	_
+
+SENT	1750W-MOSES,705.171
+1	mit	P	מיט	myt	_
+2	meynr	PRO$	מײנר	mYnr	_
+3	tshubh	N	טשובה	t$vbh	_
+4	hab	HVF	האַב	hAab	_
+5	ikh	PRO	איך	AyX	_
+6	ali	Q	אַלי	Aaly	_
+7	mlakhi	N	מלאַכי	mlAaxy	_
+8	melh	H	מעלה	melh	UNKNOWN
+9	tan	DON-IPP	טאַן	tAaN	_
+10	ibr_zign	VB	איבר_זיגן	Aybr_zygN	_
+
+SENT	1750W-MOSES,705.172
+1	yetsund	ADV	יעצונד	yeqvnd	_
+2	zal	MDF	ז"ל	z"l	_
+3	leydr	ADV	לײדר	lYdr	_
+4	dr	D	דר	dr	_
+5	mlakh_hmut	N	מלאַכ_המוט	mlAax_hmvt	_
+6	meyn	PRO$	מײן	mYN	_
+7	nshmh	N	נשמה	n$mh	_
+8	krign	VB	קריגן	krygN	_
+
+SENT	1750W-MOSES,705.173
+1	akh	INTJ	אַך	AaX	_
+2	msh	NPR	מש	m$	_
+3	meyn	PRO$	מײן	mYN	_
+4	smkhh	N	סמכה	smxh	_
+5	iz	BEF	איז	Ayz	_
+6	mir	PRO	מיר	myr	_
+7	varn	RDN	װאַרן	VAarN	_
+8	fr_stert	VAN	פֿר_סטערט	fr_stert	_
+
+SENT	1750W-MOSES,705.174
+1	deyn	PRO$	דײן	dYN	_
+2	tflh	N	טפֿלה	tflh	_
+3	iz	BEF	איז	Ayz	_
+4	dir	PRO	דיר	dyr	_
+5	varn	RDN	װאַרן	VAarN	_
+6	dr_hert	VAN	דר_הערט	dr_hert	_
+
+SENT	1750W-MOSES,705.175
+1	in	P	אין	AyN	_
+2	meynr	PRO$	מײנר	mYnr	_
+3	hand	N	האַנד	hAand	_
+4-5	verstu	RDF~PRO	װערסטו	Verstv	_
+4	vers	RDF	װערס	Vers	_
+5	tu	PRO	טו	tv	_
+6	nit	NEG	ניט	nyt	_
+7	kumin	VB	קומין	kvmyN	_
+8	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1750W-MOSES,705.176
+1	dr	D	דר	dr	_
+2	almekhtig	ADJ	אַלמעכטיג	Aalmextyg	_
+3	gat	NPR	גאַט	gAat	_
+4	zelbst	ADV	זעלבסט	zelbst	_
+5	vert	RDF	װערט	Vert	_
+6	zikh	PRO	זיך	zyX	_
+7	mit	P	מיט	myt	_
+8	dir	PRO	דיר	dyr	_
+9	mtesk	RP-H	מטעסק	mtesk	_
+10	zeyn	VB	זײן	zYN	_
+
+SENT	1750W-MOSES,706.178
+1	nun	ADV	נ	n	_
+2	vil	MDF	װיל	Vyl	_
+3	ikh	PRO	איך	AyX	_
+4	lubn	VB	לובן	lvbN	_
+5	den	D	דען	deN	_
+6	almekhtig	ADJ	אַלמעכטיג	Aalmextyg	_
+7	gat	NPR	גאַט	gAat	_
+8	dr	WPRO	דר	dr	_
+9	mikh	PRO	מיך	myX	_
+10	fun	P	פֿון	fvN	_
+11	dem	D	דעם	deM	_
+12	mlakh_hmut	N	מלאַכ_המוט	mlAax_hmvt	_
+13	hand	N	האַנד	hAand	_
+14	bshermt	VBN	בשערמט	b$ermt	_
+15	hat	HVF	האַט	hAat	_
+16	der	WPRO	דער	der	_
+17	da	ADV	דאַ	dAa	_
+18	hat	HVF	האַט	hAat	_
+19	meyn	PRO$	מײן	mYN	_
+20	tflh	N	טפֿלה	tflh	_
+21	tun	DON-IPP	טון	tvN	_
+22	dr_herin	VB	דר_הערין	dr_heryN	_
+23	un	CONJ	און	AvN	_
+24	hat	HVF	האַט	hAat	_
+25	den	D	דען	deN	_
+26	mlakh_hmut	N	מלאַכ_המוט	mlAax_hmvt	_
+27	zeyn	PRO$	זײן	zYN	_
+28	smkhh	N	סמכה	smxh	_
+29	tan	DON-IPP	טאַן	tAaN	_
+30	fr_sterin	VB	פֿר_סטערין	fr_steryN	_
+
+SENT	1750W-MOSES,706.179
+1	ihushe	NPR	איהושע	Ayhv$e	_
+2	meynh	PRO$	מײנה	mYnh	_
+3	rid	N	ריד	ryd	_
+4-5	zalstu	MDF~PRO	זאַלסטו	zAalstv	_
+4	zals	MDF	זאַלס	zAals	_
+5	tu	PRO	טו	tv	_
+6	rekht	ADV	רעכט	rext	_
+7	tsu	RP	צו	qv	_
+8	herin	VB	הערין	heryN	_
+
+SENT	1750W-MOSES,706.180
+1	un	CONJ	און	AvN	_
+2	zalst	MDF	זאַלסט	zAalst	_
+3	in	P	אין	AyN	_
+4	di	D	די	dy	_
+5	veg	N	װעג	Veg	_
+6	fun	P	פֿון	fvN	_
+7	den	D	דען	deN	_
+8	almekhtign	ADJ	אַלמעכטיגן	AalmextygN	_
+9	gat	NPR	גאַט	gAat	_
+10	tan	DO	טאַן	tAaN	_
+11	kerin	VB	קערין	keryN	_
+
+SENT	1750W-MOSES,706.181
+1	bzkhut	H	בזכוט	bzxvt	in_merit
+2	zh	H	זש	z$	this
+3-4	verstu	RDF~PRO	װערסטו	Verstv	_
+3	vers	RDF	װערס	Vers	_
+4	tu	PRO	טו	tv	_
+5	zukh	RP-H	זוך	zvX	_
+6	zeyn	VB	זײן	zYN	_
+7	az	C	אַז	Aaz	_
+8	du	PRO	דו	dv	_
+9	verst	RDF	װערסט	Verst	_
+10	kumn	VB	קומן	kvmN	_
+11	in	P	אין	AyN	_
+12	arts	N	אַרץ	AarQ	_
+13	isral	NPR	איסראַל	AysrAal	_
+14	daz	D	דאַז	dAaz	_
+15	heyligi	ADJ	הײליגי	hYlygy	_
+16	land	N	לאַנד	lAand	_
+17	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1750W-MOSES,706.182
+1	nun	ADV	נ	n	_
+2	ir	PRO	איר	Ayr	_
+3	libh	ADJ	ליבה	lybh	_
+4	leyt	N	לײט	lYt	_
+5	yetsund	ADV	יעצונד	yeqvnd	_
+6	du	DOF	דו	dv	_
+7	ikh	PRO	איך	AyX	_
+8	eykh	PRO	אײך	AYX	_
+9	bfelin	VB	בפֿעלין	bfelyN	_
+10	ven	C	װען	VeN	_
+11	mir	PRO	מיר	myr	_
+12	vert	RDF	װערט	Vert	_
+13	oyz	RP	אױז	AWz	_
+14	gin	VB	גין	gyN	_
+15	meyne	PRO$	מײנע	mYne	_
+16	zelin	N	זעלין	zelyN	_
+17	ven	C	װען	VeN	_
+18	ir	PRO	איר	Ayr	_
+19	vert	RDF	װערט	Vert	_
+20	kumn	VB	קומן	kvmN	_
+21	in	P	אין	AyN	_
+22	arts	N	אַרץ	AarQ	_
+23	isral	NPR	איסראַל	AysrAal	_
+24	areyn	ADV	אַרײן	AarYN	_
+25	zalt	MDF	זאַלט	zAalt	_
+26	ir	PRO	איר	Ayr	_
+27	akh	ADV	אַך	AaX	_
+28	meynr	PRO	מײנר	mYnr	_
+29	mzkhir	RP-H	מזכיר	mzxyr	_
+30	zeyn	VB	זײן	zYN	_
+
+SENT	1750W-MOSES,706.183
+1	almekhtir	ADJ	אַלמעכטיר	Aalmextyr	_
+2	gat	NPR	גאַט	gAat	_
+3	ikh	PRO	איך	AyX	_
+4	bit	VBF	ביט	byt	_
+5	dikh	PRO	דיך	dyX	_
+6	alz	P	אַלז	Aalz	_
+7	eyn	D	אײן	AYN	_
+8	gtreyar	ADJ	גטרײאַר	gtrYAar	_
+9	dinr	N	דינר	dynr	_
+10	veyl	C	װײל	VYl	_
+11	du	PRO	דו	dv	_
+12	hast	HVF	האַסט	hAast	_
+13	fun	P	פֿון	fvN	_
+14	di	D	די	dy	_
+15	velt	N	װעלט	Velt	_
+16	gnumin	VBN	גנומין	gnvmyN	_
+17	eyn	D	אײן	AYN	_
+18	grestin	ADJS	גרעסטין	grestyN	_
+19	ravinr	N	ראַװינר	rAaVynr	_
+20	un	CONJ	און	AvN	_
+21	ikh	PRO	איך	AyX	_
+22	zal	MDF	ז"ל	z"l	_
+23	zeyn	VB	זײן	zYN	_
+24	an	P	אַן	AaN	_
+25	zeynr	PRO$	זײנר	zYnr	_
+26	stel	N	סטעל	stel	_
+27	tsu	TO	צו	qv	_
+28	firn	VB	פֿירן	fyrN	_
+29	ds	D	דס	ds	_
+30	gantsi	ADJ	גאַנצי	gAanqy	_
+31	gshlekht	N	גשלעכט	g$lext	_
+32	izrel	NPR	איזרעל	Ayzrel	_
+
+SENT	1750W-MOSES,706.184
+1	den	ADV	דען	deN	_
+2	vi	WADV	װי	Vy	_
+3	ver	RDF	װער	Ver	_
+4	ikh	PRO	איך	AyX	_
+5	kenin	MD	קענין	kenyN	_
+6	kign	P	קיגן	kygN	_
+7	kl	Q	קל	kl	all
+8	isral	NPR	איסראַל	AysrAal	_
+9	bstan	VB	בסטאַן	bstAaN	_
+10	veylin	C	װײלין	VYlyN	_
+11	zi	PRO	זי	zy	_
+12	habin	HVF	האַבין	hAabyN	_
+13	imr	ADV	אימר	Aymr	_
+14	vidr	P	װידר	Vydr	_
+15	msh	NPR	מש	m$	_
+16	rbinu	H	רבינו	rbynv	rabbi_our
+17	gtan	VBN	גטאַן	gtAaN	_
+
+SENT	1750W-MOSES,706.185
+1	alz_den	ADV	אַלז_דען	Aalz_deN	_
+2	iz	VBF	איז	Ayz	_
+3	meyn	PRO$	מײן	mYN	_
+4	fleysigr	ADJ	פֿלײסיגר	flYsygr	_
+5	bit	N	ביט	byt	_
+6	an	P	אַן	AaN	_
+7	dir	PRO	דיר	dyr	_
+8	als	C	אַלס	Aals	_
+9	du	PRO	דו	dv	_
+10	zalst	MDF	זאַלסט	zAalst	_
+11	zeyn	VB	זײן	zYN	_
+12	ali	Q	אַלי	Aaly	_
+13	tseyt	N	צײט	qYt	_
+14	bey	P	בײ	bY	_
+15	mir	PRO	מיר	myr	_
+16	als	C	אַלס	Aals	_
+17	ikh	PRO	איך	AyX	_
+18	zal	MDF	ז"ל	z"l	_
+19	kenin	MD	קענין	kenyN	_
+20	di	D	די	dy	_
+21	eyn_un_dreysig	NUM	אײנ_ונ_דרײסיג	AYn_vn_drYsyg	_
+22	mlkhim	N	מלכים	mlxyM	_
+23	ibrtsvingn	VB	איברצװינגן	AybrqVyngN	_
+
+SENT	1750W-MOSES,706.186
+1	droyf	DR+P	דרױף	drWF	_
+2	velin	MDF	װעלין	VelyN	_
+3	mir	PRO	מיר	myr	_
+4	shalin	VB	שאַלין	$AalyN	_
+5	und	CONJ	אונד	Avnd	_
+6	trumpit	VB	טרומפּיט	trvmpyt	_
+7	un	CONJ	און	AvN	_
+8	akh	ADV	אַך	AaX	_
+9	klingin	VB	קלינגין	klyngyN	_
+
+SENT	1750W-MOSES,706.187
+1	ietst	ADV	איעצט	Ayeqt	_
+2	hat	VBF	האַט	hAat	_
+3	di	D	די	dy	_
+4	bshreybng	N	בשרײבנג	b$rYbng	_
+5	eyn	D	אײן	AYN	_
+6	end	N	ענד	end	_
+

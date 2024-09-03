@@ -1,0 +1,3638 @@
+SENT	1675E-ASHKENAZ-UN-POLAK,540.3
+1	di_veyl_ds	C	די_װײל_דס	dy_VYl_ds	_
+2	ikh	PRO	איך	AyX	_
+3	hab	HVF	האַב	hAab	_
+4	gizehn	VBN	גיזעהן	gyzehN	_
+5	vas	WPRO	װאַס	VAas	_
+6	far	P	פֿאַר	fAar	_
+7	biz	N	ביז	byz	_
+8	in	P	אין	AyN	_
+9	idrn	Q	אידרן	AydrN	_
+10	land	N	לאַנד	lAand	_
+11	tut	DOF	טוט	tvt	_
+12	gsehn	VB	גסעהן	gsehN	_
+13	drum	DR+P	דרום	drvM	_
+14	hab	HVF	האַב	hAab	_
+15	ikh	PRO	איך	AyX	_
+16	bshribn	VBN	בשריבן	b$rybN	_
+17	zulkhi	ADJ	זולכי	zvlxy	_
+18	bizi	ADJ	ביזי	byzy	_
+19	stuk	N	סטוק	stvk	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,540.4
+1	un'	CONJ	אונ'	Avn'	_
+2	hab	HVF	האַב	hAab	_
+3	zi	PRO	זי	zy	_
+4	gbrakht	VBN	גבראַכט	gbrAaxt	_
+5	in	P	אין	AyN	_
+6	den	D	דען	deN	_
+7	druk	N	דרוק	drvk	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,540.5
+1	fileykht	ADV	פֿילײכט	fylYxt	_
+2	kan	MDF	ק"ן	k"N	_
+3	eyn	D	אײן	AYN	_
+4	itlikhr	Q	איטליכר	Aytlyxr	_
+5	di	D	די	dy	_
+6	hrph	N	הרפּה	hrph	_
+7	nit	NEG	ניט	nyt	_
+8	leydn	VB	לײדן	lYdN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,540.6
+1	un'	CONJ	אונ'	Avn'	_
+2	vert	RDF	װערט	Vert	_
+3	zikh	PRO	זיך	zyX	_
+4	besrn	VB	בעסרן	besrN	_
+5	un	CONJ	און	AvN	_
+6	dz	D	דז	dz	_
+7	bizi	N	ביזי	byzy	_
+8	fr_meydn	VB	פֿר_מײדן	fr_mYdN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,540.7
+1	un'	CONJ	אונ'	Avn'	_
+2	ikh	PRO	איך	AyX	_
+3	hab	HVF	האַב	hAab	_
+4	es	PRO	עס	es	_
+5	darum	DR+P	דאַרום	dAarvM	_
+6	dem	D	דעם	deM	_
+7	reym	N	רײם	rYM	_
+8	nakh	P	נ"ך	n"X	_
+9	gstelt	VBN	גסטעלט	gstelt	_
+10	tsu	TO	צו	qv	_
+11	lazn	VB	לאַזן	lAazN	_
+12	visn	VB	װיסן	VysN	_
+13	vi	WADV	װי	Vy	_
+14	es	PRO	עס	es	_
+15	tsu	RP	צו	qv	_
+16	git	VBF	גיט	gyt	_
+17	in	P	אין	AyN	_
+18	der	D	דער	der	_
+19	velt	N	װעלט	Velt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,540.8
+1	un	CONJ	און	AvN	_
+2	az	C	אַז	Aaz	_
+3	mir	PRO	מיר	myr	_
+4	zikh	PRO	זיך	zyX	_
+5	fun	P	פֿון	fvN	_
+6	dem	D	דעם	deM	_
+7	bizn	ADJ	ביזן	byzN	_
+8	veg	N	װעג	Veg	_
+9	vern	RDF	װערן	VerN	_
+10	vendn	VB	װענדן	VendN	_
+11	da	ADV	דאַ	dAa	_
+12	vert	RDF	װערט	Vert	_
+13	unz	PRO	אונז	Avnz	_
+14	gat	NPR	גאַט	gAat	_
+15	msikh	NPR	מסיך	msyX	_
+16	bald	ADV	באַלד	bAald	_
+17	zendn	VB	זענדן	zendN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,540.9
+1	dr	D	דר	dr	_
+2	vert	RDF	װערט	Vert	_
+3	di	D	די	dy	_
+4	ashknzim	NPR	אַשקנזים	Aa$knzyM	_
+5	mit	P	מיט	myt	_
+6	di	D	די	dy	_
+7	palkn	N	פּאַלקן	pAalkN	_
+8	far_tragn	VB	פֿאַר_טראַגן	fAar_trAagN	_
+9	bmhrh	H	במהרה	bmhrh	in_speed
+10	in	P	אין	AyN	_
+11	unzrn	PRO$	אונזרן	AvnzrN	_
+12	tagn	N	תּגין	TgyN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,540.10
+1	ikh	PRO	איך	AyX	_
+2	bigreyf	VBF	ביגרײף	bygrYF	_
+3	di	D	די	dy	_
+4	fedir	N	פֿעדיר	fedyr	_
+5	in	P	אין	AyN	_
+6	meynr	PRO$	מײנר	mYnr	_
+7	hnt	N	הנט	hnt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,540.11
+1	un'	CONJ	אונ'	Avn'	_
+2	fang	VBF	פֿאַנג	fAang	_
+3	an	RP	אַן	AaN	_
+4	tsu	TO	צו	qv	_
+5	shreybn	VB	שרײבן	$rYbN	_
+6	fun	P	פֿון	fvN	_
+7	ashknz	NPR	אַשקנז	Aa$knz	_
+8	dz	D	דז	dz	_
+9	teytsi	ADJ	טײצי	tYqy	_
+10	land	N	לאַנד	lAand	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,540.12
+1	ikh	PRO	איך	AyX	_
+2	kan	MDF	ק"ן	k"N	_
+3	eynm	PRO	אײנם	AYnM	_
+4	zagn	VB	זאַגן	zAagN	_
+5	un	CONJ	און	AvN	_
+6	fr_tsiln	VB	פֿר_צילן	fr_qylN	_
+7	vi	WADV	װי	Vy	_
+8	zikh	PRO	זיך	zyX	_
+9	dr	D	דר	dr	_
+10	palk	N	פּאַלק	pAalk	_
+11	in	P	אין	AyN	_
+12	ashknz	NPR	אַשקנז	Aa$knz	_
+13	tut	DOF	טוט	tvt	_
+14	kviln	VB	קװילן	kVylN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,540.13
+1	khilut	H	כילוט	xylvt	communities
+2	kdusut	H	קדוסוט	kdvsvt	holy
+3	lazt	VBI	לאַזט	lAazt	_
+4	eykh	PRO	אײך	AYX	_
+5	dz	D	דז	dz	_
+6	nit	NEG	ניט	nyt	_
+7	fr_drisn	VB	פֿר_דריסן	fr_drysN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,540.14
+1	eyer	PRO$	אײער	AYer	_
+2	zkhut	N	זכוט	zxvt	_
+3	zaln	MDF	זאַלן	zAalN	_
+4	mir	PRO	מיר	myr	_
+5	oykh	ADV	אױך	AWX	_
+6	ginisn	VB	גיניסן	gynysN	_
+7	un'	CONJ	אונ'	Avn'	_
+8	oykh	ADV	אױך	AWX	_
+9	nun_mer	ADV	נונ_מער	nvn_mer	_
+10	andri	ADJ	אַנדרי	Aandry	_
+11	khilut	H	כילוט	xylvt	communities
+12	kdusut	H	קדוסוט	kdvsvt	holy
+13	di	WPRO	די	dy	_
+14	da	ADV	דאַ	dAa	_
+15	nit	NEG	ניט	nyt	_
+16	gdakht	VAN	גדאַכט	gdAaxt	_
+17	vern	RDF	װערן	VerN	_
+18	tsvishn	P	צװישן	qVy$N	_
+19	den	D	דען	deN	_
+20	gmeyn	N	גמײן	gmYN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,540.15
+1	mn	PRO	מן	mN	_
+2	veys	VBF	װײס	VYs	_
+3	dakh	ADV	דאַך	dAaX	_
+4	vaul	ADV	װאַול	VAavl	_
+5	ver	WPRO	װער	Ver	_
+6	di	D	די	dy	_
+7	kmtsnim	N	קמצנים	kmqnyM	_
+8	zeyn	VBF	זײן	zYN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,540.16
+1	mikh	PRO	מיך	myX	_
+2	dukht	VBF	דוכט	dvxt	_
+3	in	P	אין	AyN	_
+4	meynm	PRO$	מײנם	mYnM	_
+5	zin	N	זין	zyN	_
+6	gnts	ADV	גנץ	gnQ	_
+7	un'	CONJ	אונ'	Avn'	_
+8	gar	ADV	גאַר	gAar	_
+9	gnts	ADJ	גנץ	gnQ	_
+10	ashknz	NPR	אַשקנז	Aa$knz	_
+11	iz	VBF	איז	Ayz	_
+12	eyn	D	אײן	AYN	_
+13	stat	N	סטאַט	stAat	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,540.17
+1	eynr	PRO	אײנר	AYnr	_
+2	iz	VBF	איז	Ayz	_
+3	nit	NEG	ניט	nyt	_
+4	besr	ADJ	בעסר	besr	_
+5	az	P	אַז	Aaz	_
+6	dr	D	דר	dr	_
+7	andr	ADJ	אַנדר	Aandr	_
+8	um	P	אום	AvM	_
+9	eyn	D	אײן	AYN	_
+10	har	N	האַר	hAar	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.19
+1	kumt	VBF	קומט	kvmt	_
+2	dr	D	דר	dr	_
+3	palk	N	פּאַלק	pAalk	_
+4	in	P	אין	AyN	_
+5	ashknz	NPR	אַשקנז	Aa$knz	_
+6	zeyn	PRO$	זײן	zYN	_
+7	hoyz	N	הױז	hWz	_
+8	azu	ADV	אַזו	Aazv	_
+9	spilt	VBF	ספּילט	spylt	_
+10	er	PRO	ער	er	_
+11	mit	P	מיט	myt	_
+12	im	PRO	אים	AyM	_
+13	az	P	אַז	Aaz	_
+14	eyn	D	אײן	AYN	_
+15	kats	N	קאַץ	kAaQ	_
+16	mit	P	מיט	myt	_
+17	dr	D	דר	dr	_
+18	moyz	N	מױז	mWz	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.20
+1	er	PRO	ער	er	_
+2	tut	DOF	טוט	tvt	_
+3	im	PRO	אים	AyM	_
+4	hlb	H	הלב	hlb	UNKNOWN
+5	slikhm	H	סליכם	slyxM	UNKNOWN
+6	gebn	VB	געבן	gebN	_
+7	fun	P	פֿון	fvN	_
+8	veytn	ADV	װײטן	VYtN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.21
+1	abr	CONJ	אַבר	Aabr	_
+2	ruakh	H	רואַך	rvAaX	spirit
+3	gnibh	H	גניבה	gnybh	UNKNOWN
+4	sumrim	H	סומרים	svmryM	guards
+5	fun	P	פֿון	fvN	_
+6	ali	Q	אַלי	Aaly	_
+7	zeytn	N	זײטן	zYtN	_
+8	az	P	אַז	Aaz	_
+9	ven	C	װען	VeN	_
+10	er	PRO	ער	er	_
+11	im	PRO	אים	AyM	_
+12	zeyn	PRO$	זײן	zYN	_
+13	hoyz	N	הױז	hWz	_
+14	velt	MDF	װעלט	Velt	_
+15	avek	ADV	אַװעק	AaVek	_
+16	tragn	VB	טראַגן	trAagN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.22
+1	er	PRO	ער	er	_
+2	fragt	VBF	פֿראַגט	frAagt	_
+3	im	PRO	אים	AyM	_
+4	zeyt	VBF	זײט	zYt	_
+5	ir	PRO	איר	Ayr	_
+6	eyn	D	אײן	AYN	_
+7	mlmd	N	מלמד	mlmd	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.23
+1	udr	CONJ	אודר	Avdr	_
+2	kent	MDF	קענט	kent	_
+3	ir	PRO	איר	Ayr	_
+4	eyn	D	אײן	AYN	_
+5	pak	N	פּאַק	pAak	_
+6	tragn	VB	טראַגן	trAagN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.24
+1	er	PRO	ער	er	_
+2	mkht	VBF	מכט	mxt	_
+3	mit	P	מיט	myt	_
+4	im	PRO	אים	AyM	_
+5	grus	ADJ	גרוס	grvs	_
+6	vezn	N	װעזן	VezN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.25
+1	un'	CONJ	אונ'	Avn'	_
+2	zagt	VBF	זאַגט	zAagt	_
+3	nit	NEG	ניט	nyt	_
+4	lng	ADV	לנג	lng	_
+5	zeyt	BEF	זײט	zYt	_
+6	ir	PRO	איר	Ayr	_
+7	oykh	ADV	אױך	AWX	_
+8	hir	ADV	היר	hyr	_
+9	gvezn	VBN	גװעזן	gVezN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.26
+1	der	D	דער	der	_
+2	gast	N	גאַסט	gAast	_
+3	kan	MDF	ק"ן	k"N	_
+4	in	P	אין	AyN	_
+5	der	D	דער	der	_
+6	eyl	N	אל	Al	_
+7	niks	Q	ניקס	nyks	_
+8	zagn	VB	זאַגן	zAagN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.27
+1	far	P	פֿאַר	fAar	_
+2	hungr	N	הונגר	hvngr	_
+3	gisvelt	VBF	גיסװעלט	gysVelt	_
+4	im	PRO	אים	AyM	_
+5	dr	D	דר	dr	_
+6	magn	N	מאַגן	mAagN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.28
+1	di	D	די	dy	_
+2	etsh	N	עטש	et$	_
+3	var	VBF	װאַר	VAar	_
+4	abr	ADV	אַבר	Aabr	_
+5	bld	ADV	בלד	bld	_
+6	da	ADV	דאַ	dAa	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.29
+1	gast	N	גאַסט	gAast	_
+2	ir	PRO	איר	Ayr	_
+3	must	MDF	מוסט	mvst	_
+4	veytr	ADV	װײטר	VYtr	_
+5	gin	VB	גין	gyN	_
+6	eyn	D	אײן	AYN	_
+7	tkhum	H	תּחום	THvM	UNKNOWN
+8	sbt	H	סבט	sbt	Sabbath
+9	eyn	D	אײן	AYN	_
+10	kleyni	ADJ	קלײני	klYny	_
+11	seh	H	סעה	seh	time
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.30
+1	dr	D	דר	dr	_
+2	palk	N	פּאַלק	pAalk	_
+3	muz	MDF	מוז	mvz	_
+4	zikh	PRO	זיך	zyX	_
+5	vidr	ADV	װידר	Vydr	_
+6	shikn	VB	שיקן	$ykN	_
+7	un'	CONJ	אונ'	Avn'	_
+8	zeyn	PRO$	זײן	zYN	_
+9	pintl	N	פּינטל	pyntl	_
+10	vidr	ADV	װידר	Vydr	_
+11	nemn	VB	נעמן	nemN	_
+12	oyf	P	אױף	AWF	_
+13	zeyn	PRO$	זײן	zYN	_
+14	rukn	N	רוקן	rvkN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.31
+1	muz	MDF	מוז	mvz	_
+2	eyldig	ADV	אײלדיג	AYldyg	_
+3	zifn	VB	זיפֿן	zyfN	_
+4	mit	P	מיט	myt	_
+5	makht	N	מאַכט	mAaxt	_
+6	ds	C	דס	ds	_
+7	er	PRO	ער	er	_
+8	in	P	אין	AyN	_
+9	das	D	דת	dS	_
+10	eysub	N	אײסוב	AYsvb	_
+11	kumt	VBF	קומט	kvmt	_
+12	far	P	פֿאַר	fAar	_
+13	nakht	N	נאַכט	nAaxt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.32
+1	ven	C	װען	VeN	_
+2	er	PRO	ער	er	_
+3	nun	ADV	נ	n	_
+4	in	P	אין	AyN	_
+5	das	D	דת	dS	_
+6	eysub	N	אײסוב	AYsvb	_
+7	tut	DOF	טוט	tvt	_
+8	kumn	VB	קומן	kvmN	_
+9	azu	ADV	אַזו	Aazv	_
+10	hibt	VBF	היבט	hybt	_
+11	ashknz	NPR	אַשקנז	Aa$knz	_
+12	vi	P	װי	Vy	_
+13	eyn	D	אײן	AYN	_
+14	ber	N	בער	ber	_
+15	an	RP	אַן	AaN	_
+16	tsu	TO	צו	qv	_
+17	brumn	VB	ברומן	brvmN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.33
+1	un'	CONJ	אונ'	Avn'	_
+2	lazt	VBF	לאַזט	lAazt	_
+3	im	PRO	אים	AyM	_
+4	erst	ADV	ערסט	erst	_
+5	stin	VB	סטין	styN	_
+6	vi	P	װי	Vy	_
+7	eyn	D	אײן	AYN	_
+8	hunt	N	הונט	hvnt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.34
+1	un	CONJ	און	AvN	_
+2	fr_svigt	VBF	פֿר_סװיגט	fr_sVygt	_
+3	dem	D	דעם	deM	_
+4	palk	N	פּאַלק	pAalk	_
+5	zeyn	PRO$	זײן	zYN	_
+6	ds	N	דס	ds	_
+7	un'	CONJ	אונ'	Avn'	_
+8	gizunt	N	גיזונט	gyzvnt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.35
+1	dr	D	דר	dr	_
+2	palk	N	פּאַלק	pAalk	_
+3	iz	VBF	איז	Ayz	_
+4	mid	ADJ	מיד	myd	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.36
+1	velt	MDF	װעלט	Velt	_
+2	gern	ADV	גערן	gerN	_
+3	esn	VB	עסן	esN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.37
+1	fr_git	VBF	פֿר_גיט	fr_gyt	_
+2	im	PRO	אים	AyM	_
+3	das	D	דת	dS	_
+4	lakhin	N	לאַכין	lAaxyN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.38
+1	ashknz	NPR	אַשקנז	Aa$knz	_
+2	zagt	VBF	זאַגט	zAagt	_
+3	git	VBI	גיט	gyt	_
+4	hin	RP-ADV	הין	hyN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.39
+1	laz	VBI	לאַז	lAaz	_
+2	meyn	PRO$	מײן	mYN	_
+3	khbr	N	כבר	xbr	_
+4	fletn	N	פֿלעטן	fletN	_
+5	makhn	VB	מאַכן	mAaxN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.40
+1	er	PRO	ער	er	_
+2	denkt	VBF	דענקט	denkt	_
+3	vi	INTJ	װי	Vy	_
+4	mir	PRO	מיר	myr	_
+5	ds	C	דס	ds	_
+6	ikh	PRO	איך	AyX	_
+7	hab	HVF	האַב	hAab	_
+8	ashknz	NPR	אַשקנז	Aa$knz	_
+9	dr_kent	VBN	דר_קענט	dr_kent	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.41
+1	ver	VBF	װער	Ver	_
+2	ikh	PRO	איך	AyX	_
+3	vidr	ADV	װידר	Vydr	_
+4	in	P	אין	AyN	_
+5	pulin	NPR	פּולין	pvlyN	_
+6	valt	MDF	װאַלט	VAalt	_
+7	arbtn	VB	אַרבטן	AarbtN	_
+8	az	C	אַז	Aaz	_
+9	di	D	די	dy	_
+10	negl	N	נעגל	negl	_
+11	gingn	VBF	גינגן	gyngN	_
+12	fun	P	פֿון	fvN	_
+13	di	D	די	dy	_
+14	hent	N	הענט	hent	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.42
+1	tut	DOF	טוט	tvt	_
+2	mn	PRO	מן	mN	_
+3	im	PRO	אים	AyM	_
+4	oyf	RP	אױף	AWF	_
+5	steln	VB	סטעלן	stelN	_
+6	eyn	D	אײן	AYN	_
+7	khadn	X	כאַדן	xAadN	_
+8	brey	N	ברײ	brY	_
+9	es	ES	עס	es	_
+10	magn	MDF	מאַגן	mAagN	_
+11	zeyn	VB	זײן	zYN	_
+12	tsehn	NUM	צעהן	qehN	_
+13	gest	N	געסט	gest	_
+14	adr	CONJ	אַדר	Aadr	_
+15	tsvey	NUM	צװײ	qVY	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.43
+1	du_mit	DR+P	דו_מיט	dv_myt	_
+2	fr_klebt	VBF	פֿר_קלעבט	fr_klebt	_
+3	mn	PRO	מן	mN	_
+4	dem	D	דעם	deM	_
+5	gast	N	גאַסט	gAast	_
+6	zeyn	PRO$	זײן	zYN	_
+7	nsmh	N	נסמה	nsmh	_
+8	un'	CONJ	אונ'	Avn'	_
+9	gderm	N	גדערם	gderM	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.44
+1	un'	CONJ	אונ'	Avn'	_
+2	stelt	VBF	סטעלט	stelt	_
+3	im	PRO	אים	AyM	_
+4	oykh	ADV	אױך	AWX	_
+5	oyf	RP	אױף	AWF	_
+6	eyn	D	אײן	AYN	_
+7	stikl	N	סטיקל	stykl	_
+8	kes	N	קעס	kes	_
+9	mit	P	מיט	myt	_
+10	verm	N	װערם	VerM	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.45
+1	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+2	firt	VBF	פֿירט	fyrt	_
+3	mn	PRO	מן	mN	_
+4	in	PRO	אין	AyN	_
+5	lign	VB	ליגן	lygN	_
+6	biz	P	ביז	byz	_
+7	untr	P	אונטר	Avntr	_
+8	dz	D	דז	dz	_
+9	dakh	N	דאַך	dAaX	_
+10	ds	C	דס	ds	_
+11	im	PRO	אים	AyM	_
+12	zeyn	PRO$	זײן	zYN	_
+13	rukn	N	רוקן	rvkN	_
+14	un'	CONJ	אונ'	Avn'	_
+15	fis	N	פֿיס	fys	_
+16	krakh	VBF	כּרך	KrX	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.46
+1	es	PRO	עס	es	_
+2	tut	DOF	טוט	tvt	_
+3	dem	D	דעם	deM	_
+4	palk	N	פּאַלק	pAalk	_
+5	zer	ADV	זער	zer	_
+6	fr_drisn	VB	פֿר_דריסן	fr_drysN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.47
+1	abi	CONJ	אַבי	Aaby	_
+2	mn	PRO	מן	mN	_
+3	tut	DOF	טוט	tvt	_
+4	im	PRO	אים	AyM	_
+5	fun	P	פֿון	fvN	_
+6	oysn_ving	ADV	אױסנ_װינג	AWsn_Vyng	_
+7	vaul	ADV	װאַול	VAavl	_
+8	fr_shlisn	VB	פֿר_שליסן	fr_$lysN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.48
+1	tsu	P	צו	qv	_
+2	margn	N	מאַרגן	mAargN	_
+3	muz	MDF	מוז	mvz	_
+4	er	PRO	ער	er	_
+5	klapfn	VB	קלאַפּפֿן	klAapfN	_
+6	ven	C	װען	VeN	_
+7	er	PRO	ער	er	_
+8	vil	MDF	װיל	Vyl	_
+9	oyf	RP	אױף	AWF	_
+10	stin	VB	סטין	styN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,541.49
+1	da	ADV	דאַ	dAa	_
+2	kumt	VBF	קומט	kvmt	_
+3	di	D	די	dy	_
+4	leydigi	ADJ	לײדיגי	lYdygy	_
+5	piltsl	N	פּילצל	pylql	_
+6	tsu	TO	צו	qv	_
+7	gin	VB	גין	gyN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,542.50
+1	nun	ADV	נ	n	_
+2	,	PUNC	,	,	_
+3	i	C	אי	Ay	_
+4	er	PRO	ער	er	_
+5	hat	HVF	האַט	hAat	_
+6	rekht	ADV	רעכט	rext	_
+7	oyz	RP	אױז	AWz	_
+8	giart	VBN	גיִאַרט	gyiAart	_
+9	zu	ADV	זו	zv	_
+10	muz	MDF	מוז	mvz	_
+11	dr	D	דר	dr	_
+12	palk	N	פּאַלק	pAalk	_
+13	vidr	ADV	װידר	Vydr	_
+14	fart	ADV	פֿאַרט	fAart	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,542.51
+1	mn	PRO	מן	mN	_
+2	lazt	VBF	לאַזט	lAazt	_
+3	in	PRO	אין	AyN	_
+4	nit	NEG	ניט	nyt	_
+5	vidr	ADV	װידר	Vydr	_
+6	in	P	אין	AyN	_
+7	dr	D	דר	dr	_
+8	stub	N	סטוב	stvb	_
+9	fr_shveygn	VAG	פֿר_שװײגן	fr_$VYgN	_
+10	fun	P	פֿון	fvN	_
+11	eynr	D	אײנר	AYnr	_
+12	zupp	N	זופּפּ	zvpp	_
+13	udr	CONJ	אודר	Avdr	_
+14	fleysh	N	פֿלײש	flY$	_
+15	udr	CONJ	אודר	Avdr	_
+16	hering	N	הערינג	heryng	_
+17	udr	CONJ	אודר	Avdr	_
+18	eyn	D	אײן	AYN	_
+19	pfenig	N	פּפֿעניג	pfenyg	_
+20	oyf	P	אױף	AWF	_
+21	tserung	N	צערונג	qervng	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,542.52
+1	ashknz	NPR	אַשקנז	Aa$knz	_
+2	gdenkt	VBF	גדענקט	gdenkt	_
+3	vau	WADV	װאַו	VAav	_
+4	hab	VBF	האַב	hAab	_
+5	ikh	PRO	איך	AyX	_
+6	mit	P	מיט	myt	_
+7	dem	D	דעם	deM	_
+8	palk	N	פּאַלק	pAalk	_
+9	tsu	TO	צו	qv	_
+10	shikn	VB	שיקן	$ykN	_
+11	udr	CONJ	אודר	Avdr	_
+12	tsu	TO	צו	qv	_
+13	shafn	VB	שאַפֿן	$AafN	_
+14	dz	C	דז	dz	_
+15	er	PRO	ער	er	_
+16	kumt	VBF	קומט	kvmt	_
+17	mir	PRO	מיר	myr	_
+18	in	P	אין	AyN	_
+19	meyn	PRO$	מײן	mYN	_
+20	hoyz	N	הױז	hWz	_
+21	areyn	ADV	אַרײן	AarYN	_
+22	tsu	TO	צו	qv	_
+23	lafn	VB	לאַפֿן	lAafN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,542.53
+1	vi	WADV	װי	Vy	_
+2	iz	VBF	איז	Ayz	_
+3	ashknz	NPR	אַשקנז	Aa$knz	_
+4	zu	ADV	זו	zv	_
+5	fru	ADJ	פֿרו	frv	_
+6	ven	C	װען	VeN	_
+7	der	D	דער	der	_
+8	palk	N	פּאַלק	pAalk	_
+9	iz	VBF	איז	Ayz	_
+10	nimr	ADV	נימר	nymr	_
+11	da	ADV	דאַ	dAa	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,542.54
+1	un'	CONJ	אונ'	Avn'	_
+2	ds	C	דס	ds	_
+3	es	PRO	עס	es	_
+4	eyn	D	אײן	AYN	_
+5	idr	Q	אידר	Aydr	_
+6	zal	MDF	ז"ל	z"l	_
+7	kenn	MD	קענן	kenN	_
+8	leynn	VB	לײנן	lYnN	_
+9	in	P	אין	AyN	_
+10	dr	D	דר	dr	_
+11	eyl	N	אל	Al	_
+12	azu	ADV	אַזו	Aazv	_
+13	shreyb	VBF	שרײב	$rYb	_
+14	ikh	PRO	איך	AyX	_
+15	neyart	FP	נײאַרט	nYAart	_
+16	eyn	D	אײן	AYN	_
+17	teyl	N	טײל	tYl	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,542.55
+1	vil	MDF	װיל	Vyl	_
+2	fun	P	פֿון	fvN	_
+3	aln	Q	אַלן	AalN	_
+4	zakhn	N	זאַכן	zAaxN	_
+5	oyf	RP	אױף	AWF	_
+6	hern	VB	הערן	herN	_
+7	un'	CONJ	אונ'	Avn'	_
+8	stil	ADJ	סטיל	styl	_
+9	shveygn	VB	שװײגן	$VYgN	_
+10	nur	FP	נור	nvr	_
+11	fun	P	פֿון	fvN	_
+12	den	D	דען	deN	_
+13	salit	N	סאַליט	sAalyt	_
+14	an	RP	אַן	AaN	_
+15	hibn	VB	היבן	hybN	_
+16	tsu	TO	צו	qv	_
+17	shreybn	VB	שרײבן	$rYbN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,542.56
+1	ds	D	דס	ds	_
+2	iz	VBF	איז	Ayz	_
+3	ashknz	NPR	אַשקנז	Aa$knz	_
+4	grestr	ADJS	גרעסטר	grestr	_
+5	khsk	N	כסק	xsk	_
+6	fun	P	פֿון	fvN	_
+7	dr	D	דר	dr	_
+8	velt	N	װעלט	Velt	_
+9	ven	C	װען	VeN	_
+10	di	D	די	dy	_
+11	froy	N	פֿרױ	frW	_
+12	ds	D	דס	ds	_
+13	salit	N	סאַליט	sAalyt	_
+14	oyf	P	אױף	AWF	_
+15	den	D	דען	deN	_
+16	tish	N	טיש	ty$	_
+17	shtelt	VBF	שטעלט	$telt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,542.57
+1	er	PRO	ער	er	_
+2	tut	DOF	טוט	tvt	_
+3	im	PRO	אים	AyM	_
+4	kern	VB	קרן	krN	_
+5	un	CONJ	און	AvN	_
+6	vendn	VB	װענדן	VendN	_
+7	fun	P	פֿון	fvN	_
+8	eyn	D	אײן	AYN	_
+9	zeyt	N	זײט	zYt	_
+10	tsu	P	צו	qv	_
+11	dr	D	דר	dr	_
+12	andr	N	אַנדר	Aandr	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,542.58
+1	nun	ADV	נ	n	_
+2	gibt	VBI	גיבט	gybt	_
+3	her	RP-ADV	הער	her	_
+4	den	D	דען	deN	_
+5	telir	N	טעליר	telyr	_
+6	ir	PRO	איר	Ayr	_
+7	kindr	N	קינדר	kyndr	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,542.59
+1	ashknz	NPR	אַשקנז	Aa$knz	_
+2	lekt	VBF	לעקט	lekt	_
+3	di	D	די	dy	_
+4	fingr	N	פֿינגר	fyngr	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,542.60
+1	froy	N	פֿרױ	frW	_
+2	dr	D	דר	dr	_
+3	salit	N	סאַליט	sAalyt	_
+4	iz	BEF	איז	Ayz	_
+5	gut	ADV	גוט	gvt	_
+6	gbakn	VAN	גבאַקן	gbAakN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,542.61
+1	muz	MDF	מוז	mvz	_
+2	zikh	PRO	זיך	zyX	_
+3	eynr	PRO	אײנר	AYnr	_
+4	in	P	אין	AyN	_
+5	di	D	די	dy	_
+6	tsung	N	צונג	qvng	_
+7	beysn	VB	בײסן	bYsN	_
+8	vegn	P	װעגן	VegN	_
+9	dz	D	דז	dz	_
+10	lakhin	N	לאַכין	lAaxyN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,542.62
+1	froy	N	פֿרױ	frW	_
+2	gib	VBI	גיב	gyb	_
+3	her	RP-ADV	הער	her	_
+4	den	D	דען	deN	_
+5	telir	N	טעליר	telyr	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,542.63
+1	akh	INTJ	אַך	AaX	_
+2	froy	N	פֿרױ	frW	_
+3	du	PRO	דו	dv	_
+4	hast	HVF	האַסט	hAast	_
+5	vaul	ADV	װאַול	VAavl	_
+6	giart	VBN	גיִאַרט	gyiAart	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,542.64
+1	der	D	דער	der	_
+2	gast	N	גאַסט	gAast	_
+3	muz	MDF	מוז	mvz	_
+4	zitsn	VB	זיצן	zyqN	_
+5	biz	P	ביז	byz	_
+6	tsu_letst	ADV	צו_לעצט	qv_leqt	_
+7	ven	C	װען	VeN	_
+8	er	PRO	ער	er	_
+9	shun	ADV	שון	$vN	_
+10	iz	VBF	איז	Ayz	_
+11	eyn	D	אײן	AYN	_
+12	rb	N	רב	rb	_
+13	un	CONJ	און	AvN	_
+14	biz	P	ביז	byz	_
+15	an	P	אַן	AaN	_
+16	di	D	די	dy	_
+17	gertl	N	גערטל	gertl	_
+18	eyn	D	אײן	AYN	_
+19	bart	N	באַרט	bAart	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,542.65
+1	du	C	דו	dv	_
+2	er	PRO	ער	er	_
+3	nun	ADV	נ	n	_
+4	hat	HVF	האַט	hAat	_
+5	arum	ADV	אַרום	AarvM	_
+6	gmeylt	VBN	גמײלט	gmYlt	_
+7	un'	CONJ	אונ'	Avn'	_
+8	er	PRO	ער	er	_
+9	est	VBF	עסט	est	_
+10	vidr	ADV	װידר	Vydr	_
+11	gst	N	גסט	gst	_
+12	,	PUNC	,	,	_
+13	git	VBI	גיט	gyt	_
+14	her	RP-ADV	הער	her	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,542.66
+1	ashknz	NPR	אַשקנז	Aa$knz	_
+2	tsitrt	VBF	ציטרט	qytrt	_
+3	mit	P	מיט	myt	_
+4	ali	Q	אַלי	Aaly	_
+5	zeyn	PRO$	זײן	zYN	_
+6	glidr	N	גלידר	glydr	_
+7	ikh	PRO	איך	AyX	_
+8	hlt	VBF	הלט	hlt	_
+9	fr	P	פֿר	fr	_
+10	grusi	ADJ	גרוסי	grvsy	_
+11	leydn	N	לײדן	lYdN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,542.67
+1	er	PRO	ער	er	_
+2	mekht	MDF	מעכט	mext	_
+3	zikh	PRO	זיך	zyX	_
+4	libr	ADV	ליבר	lybr	_
+5	in	P	אין	AyN	_
+6	di	D	די	dy	_
+7	fingr	N	פֿינגר	fyngr	_
+8	shneydn	VB	שנײדן	$nYdN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,542.68
+1	ibig	ADV	איביג	Aybyg	_
+2	gfint	VBF	גפֿינט	gfynt	_
+3	ashknz	NPR	אַשקנז	Aa$knz	_
+4	in	P	אין	AyN	_
+5	salit	N	סאַליט	sAalyt	_
+6	eyn	D	אײן	AYN	_
+7	urt	N	אורט	Avrt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,542.69
+1	den	D	דען	deN	_
+2	gst	N	גסט	gst	_
+3	zeyn	PRO$	זײן	zYN	_
+4	khlk	N	כלק	xlk	_
+5	fr_dirt	VBF	פֿר_דירט	fr_dyrt	_
+6	un'	CONJ	אונ'	Avn'	_
+7	fr_hart	VBF	פֿר_האַרט	fr_hAart	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,542.70
+1	dz	D	דז	dz	_
+2	halbi	ADJ	האַלבי	hAalby	_
+3	salit	N	סאַליט	sAalyt	_
+4	tut	DOF	טוט	tvt	_
+5	mn	PRO	מן	mN	_
+6	fr	P	פֿר	fr	_
+7	di	D	די	dy	_
+8	kindr	N	קינדר	kyndr	_
+9	bhltn	VB	בהלטן	bhltN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,542.71
+1	ven	C	װען	VeN	_
+2	mn	PRO	מן	mN	_
+3	ez	PRO	עז	ez	_
+4	bey	P	בײ	bY	_
+5	dem	D	דעם	deM	_
+6	likht	N	ליכט	lyxt	_
+7	bzikht	VBF	בזיכט	bzyxt	_
+8	zu	ADV	זו	zv	_
+9	esn	VBF	עסן	esN	_
+10	ez	PRO	עז	ez	_
+11	di	D	די	dy	_
+12	altn	N	אַלטן	AaltN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,542.72
+1	kll	H	קלל	kll	all
+2	gmur	H	גמור	gmvr	complete
+3	dr	D	דר	dr	_
+4	salit	N	סאַליט	sAalyt	_
+5	mag	MDF	מאַג	mAag	_
+6	zeyn	VB	זײן	zYN	_
+7	grus	ADJ	גרוס	grvs	_
+8	adr	CONJ	אַדר	Aadr	_
+9	kleyn	ADJ	קלײן	klYN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,542.73
+1	di	D	די	dy	_
+2	helft	N	העלפֿט	helft	_
+3	muz	MDF	מוז	mvz	_
+4	fun	P	פֿון	fvN	_
+5	tis	N	טיס	tys	_
+6	oyf	RP	אױף	AWF	_
+7	ghubn	VAN	גהובן	ghvbN	_
+8	zeyn	BE	זײן	zYN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,542.74
+1	der	D	דער	der	_
+2	salit	N	סאַליט	sAalyt	_
+3	vert	VBF	װערט	Vert	_
+4	dem	D	דעם	deM	_
+5	gst	N	גסט	gst	_
+6	nebikh	INTJ	נעביך	nebyX	_
+7	zer	ADV	זער	zer	_
+8	zoyar	ADJ	זױאַר	zWAar	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,543.76
+1	er	PRO	ער	er	_
+2	muz	MDF	מוז	mvz	_
+3	oykh	ADV	אױך	AWX	_
+4	eyn	D	אײן	AYN	_
+5	stik	N	סטיק	styk	_
+6	brut	N	ברוט	brvt	_
+7	tsu	RP	צו	qv	_
+8	esn	VB	עסן	esN	_
+9	vi	P	װי	Vy	_
+10	eyn	D	אײן	AYN	_
+11	poyar	N	פּױאַר	pWAar	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,543.77
+1	er	PRO	ער	er	_
+2	muz	MDF	מוז	mvz	_
+3	den	D	דען	deN	_
+4	bestn	ADJS	בעסטן	bestN	_
+5	grunt	N	גרונט	grvnt	_
+6	lign	VB	ליגן	lygN	_
+7	mit	P	מיט	myt	_
+8	den	D	דען	deN	_
+9	brut	N	ברוט	brvt	_
+10	abr	CONJ	אַבר	Aabr	_
+11	fleysh	N	פֿלײש	flY$	_
+12	gnts	ADJ	גנץ	gnQ	_
+13	sbt	N	סבט	sbt	_
+14	bdukhk	H	בדוכק	bdvxk	UNKNOWN
+15	eyn	D	אײן	AYN	_
+16	lut	N	לוט	lvt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,543.78
+1	ashknz	NPR	אַשקנז	Aa$knz	_
+2	tut	DOF	טוט	tvt	_
+3	vaul	ADV	װאַול	VAavl	_
+4	fil	Q	פֿיל	fyl	_
+5	fleysh	N	פֿלײש	flY$	_
+6	tsu	P	צו	qv	_
+7	sbt	N	סבט	sbt	_
+8	kakhn	VB	קאַכן	kAaxN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,543.79
+1	daz	D	דאַז	dAaz	_
+2	helft	N	העלפֿט	helft	_
+3	ez	PRO	עז	ez	_
+4	vert	RDF	װערט	Vert	_
+5	alz	Q	אַלז	Aalz	_
+6	oyf	RP	אױף	AWF	_
+7	ghubn	VAN	גהובן	ghvbN	_
+8	oyf	P	אױף	AWF	_
+9	der	D	דער	der	_
+10	vakhn	N	װאַכן	VAaxN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,543.80
+1	un'	CONJ	אונ'	Avn'	_
+2	das	D	דת	dS	_
+3	iz	VBF	איז	Ayz	_
+4	gmeynlikh	ADV	גמײנליך	gmYnlyX	_
+5	ir	PRO$	איר	Ayr	_
+6	sdr	N	סדר	sdr	_
+7	sbt	N	סבט	sbt	_
+8	tsu	P	צו	qv	_
+9	nkht	N	נכט	nxt	_
+10	nar	FP	נאַר	nAar	_
+11	tsvey	NUM	צװײ	qVY	_
+12	likht	N	ליכט	lyxt	_
+13	in	P	אין	AyN	_
+14	khdr	N	כדר	xdr	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,543.81
+1	er	PRO	ער	er	_
+2	meynt	VBF	מײנט	mYnt	_
+3	er	PRO	ער	er	_
+4	tar	MDF	טאַר	tAar	_
+5	nit	NEG	ניט	nyt	_
+6	mer	QR	מער	mer	_
+7	an	RP	אַן	AaN	_
+8	tsindn	VB	צינדן	qyndN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,543.82
+1	er	PRO	ער	er	_
+2	mekht	MDF	מעכט	mext	_
+3	zikh	PRO	זיך	zyX	_
+4	khs	H	כס	xs	have_mercy
+5	uslum	H	אוסלום	AvslvM	and_peace
+6	an	P	אַן	AaN	_
+7	gelt	N	געלט	gelt	_
+8	fr_zindn	VB	פֿר_זינדן	fr_zyndN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,543.83
+1	mikh	PRO	מיך	myX	_
+2	dukht	VBF	דוכט	dvxt	_
+3	zelt	MDF	זעלט	zelt	_
+4	ashknz	NPR	אַשקנז	Aa$knz	_
+5	dz	D	דז	dz	_
+6	fleysh	N	פֿלײש	flY$	_
+7	koyfn	VB	קױפֿן	kWfN	_
+8	fr	P	פֿר	fr	_
+9	gelt	N	געלט	gelt	_
+10	er	PRO	ער	er	_
+11	est	VBF	עסט	est	_
+12	keyns	Q	קײנס	kYns	_
+13	veyl	C	װײל	VYl	_
+14	er	PRO	ער	er	_
+15	iz	VBF	איז	Ayz	_
+16	oyf	P	אױף	AWF	_
+17	der	D	דער	der	_
+18	velt	N	װעלט	Velt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,543.84
+1	zeyn	PRO$	זײן	zYN	_
+2	esk	N	עסק	esk	_
+3	iz	VBF	איז	Ayz	_
+4	neyart	FP	נײאַרט	nYAart	_
+5	tsu	TO	צו	qv	_
+6	zmln	VB	זמלן	zmlN	_
+7	gelt	N	געלט	gelt	_
+8	un'	CONJ	אונ'	Avn'	_
+9	gut	N	גוט	gvt	_
+10	sbt	N	סבט	sbt	_
+11	un'	CONJ	אונ'	Avn'	_
+12	vakh	N	װאַך	VAaX	_
+13	alz	Q	אַלז	Aalz	_
+14	gleykh	ADJ	גלײך	glYX	_
+15	eyn	D	אײן	AYN	_
+16	rak	N	רק	rk	_
+17	eyn	D	אײן	AYN	_
+18	hut	N	הוט	hvt	_
+19	di	D	די	dy	_
+20	sukh	N	סוך	svX	_
+21	mit	P	מיט	myt	_
+22	negl	N	נעגל	negl	_
+23	bshlagn	VAN	בשלאַגן	b$lAagN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,543.85
+1	vaul	ADV	װאַול	VAavl	_
+2	oyz	RP	אױז	AWz	_
+3	gshmirt	VAN	גשמירט	g$myrt	_
+4	iz	BEF	איז	Ayz	_
+5	eyn	D	אײן	AYN	_
+6	eng	ADJ	ענג	eng	_
+7	sbt	N	סבט	sbt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,543.86
+1	in	P	אין	AyN	_
+2	salit	N	סאַליט	sAalyt	_
+3	eyn	D	אײן	AYN	_
+4	derir	ADJ	דעריר	deryr	_
+5	fus	N	פֿוס	fvs	_
+6	mit	P	מיט	myt	_
+7	arbiz	N	אַרביז	Aarbyz	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,543.87
+1	er	PRO	ער	er	_
+2	lakht	VBF	לאַכט	lAaxt	_
+3	den	D	דען	deN	_
+4	palk	N	פּאַלק	pAalk	_
+5	oyz	RP	אױז	AWz	_
+6	mit	P	מיט	myt	_
+7	zeyni	PRO$	זײני	zYny	_
+8	shupits	N	שופּיץ	$vpyQ	_
+9	un	CONJ	און	AvN	_
+10	soybn	N	סױבן	sWbN	_
+11	ven	C	װען	VeN	_
+12	ashknz	NPR	אַשקנז	Aa$knz	_
+13	tut	DOF	טוט	tvt	_
+14	dr_heym	ADV	דר_הײם	dr_hYM	_
+15	arbis	N	אַרביס	Aarbys	_
+16	kloybn	VB	קלױבן	klWbN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,543.88
+1	mit	P	מיט	myt	_
+2	den	D	דען	deN	_
+3	iz	VBF	איז	Ayz	_
+4	ashknz	NPR	אַשקנז	Aa$knz	_
+5	eyn	D	אײן	AYN	_
+6	is	H	איס	Ays	person
+7	khmudut	H	כמודוט	xmvdvt	UNKNOWN
+8	az	C	אַז	Aaz	_
+9	er	PRO	ער	er	_
+10	iz	VBF	איז	Ayz	_
+11	mkeym	RP-H	מקײם	mkYM	_
+12	shlsh	H	שלש	$l$	three
+13	seudut	H	סעודוט	sevdvt	weeks
+
+SENT	1675E-ASHKENAZ-UN-POLAK,543.89
+1	er	PRO	ער	er	_
+2	mkht	VBF	מכט	mxt	_
+3	den	D	דען	deN	_
+4	gst	N	גסט	gst	_
+5	erst	ADV	ערסט	erst	_
+6	lng	ADJ	לנג	lng	_
+7	di	D	די	dy	_
+8	veyl	N	װײל	VYl	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,543.90
+1	abr	CONJ	אַבר	Aabr	_
+2	dr_nakh	DR+P	דר_נאַך	dr_nAaX	_
+3	est	VBF	עסט	est	_
+4	man	PRO	מאַן	mAaN	_
+5	oyf	P	אױף	AWF	_
+6	dr	D	דר	dr	_
+7	eyl	N	אל	Al	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,543.91
+1	ashknz	NPR	אַשקנז	Aa$knz	_
+2	ligt	VBF	ליגט	lygt	_
+3	ds	D	דס	ds	_
+4	mesir	N	מעסיר	mesyr	_
+5	nidr	ADV	נידר	nydr	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,543.92
+1	da_mit	DR+P	דאַ_מיט	dAa_myt	_
+2	tut	DOF	טוט	tvt	_
+3	dr	D	דר	dr	_
+4	palk	N	פּאַלק	pAalk	_
+5	der_shrekn	VB	דער_שרעקן	der_$rekN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,543.93
+1	bel	H	בעל	bel	master
+2	khrhu	H	כרהו	xrhv	UNKNOWN
+3	muz	MDF	מוז	mvz	_
+4	der	D	דער	der	_
+5	palk	N	פּאַלק	pAalk	_
+6	zeyn	PRO$	זײן	zYN	_
+7	giver	N	גיװער	gyVer	_
+8	eyn	RP	אײן	AYN	_
+9	stekn	VB	סטעקן	stekN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,543.94
+1	ashknz	NPR	אַשקנז	Aa$knz	_
+2	fragt	VBF	פֿראַגט	frAagt	_
+3	gst	N	גסט	gst	_
+4	zeyt	VBF	זײט	zYt	_
+5	ir	PRO	איר	Ayr	_
+6	zat	ADJ	זאַט	zAat	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,543.95
+1	yu	INTJ	יו	yv	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,543.96
+1	ashknz	NPR	אַשקנז	Aa$knz	_
+2	denkt	VBF	דענקט	denkt	_
+3	nun	INTJ	נ	n	_
+4	palk	N	פּאַלק	pAalk	_
+5	hab	HVF	האַב	hAab	_
+6	ikh	PRO	איך	AyX	_
+7	dikh	PRO	דיך	dyX	_
+8	giht	VBN	גיהט	gyht	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,543.97
+1	zu	ADV	זו	zv	_
+2	bld	ADV	בלד	bld	_
+3	nakh	P	נ"ך	n"X	_
+4	khbdlh	N	כבדלה	xbdlh	_
+5	iz	VBF	איז	Ayz	_
+6	ashknz	NPR	אַשקנז	Aa$knz	_
+7	nit	NEG	ניט	nyt	_
+8	foyl	ADJ	פֿױל	fWl	_
+9	di	D	די	dy	_
+10	tubk_pfeyf	N	טובק_פּפֿײף	tvbk_pfYF	_
+11	in	P	אין	AyN	_
+12	moyl	N	מױל	mWl	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,543.98
+1	er	PRO	ער	er	_
+2	sprikht	VBF	ספּריכט	spryxt	_
+3	dz	D	דז	dz	_
+4	iz	VBF	איז	Ayz	_
+5	gut	ADJ	גוט	gvt	_
+6	das	D	דת	dS	_
+7	esn	N	עסן	esN	_
+8	tsu	TO	צו	qv	_
+9	fr_doyan	VB	פֿר_דױאַן	fr_dWAaN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,543.99
+1	gdenkt	VBF	גדענקט	gdenkt	_
+2	nit	NEG	ניט	nyt	_
+3	eyn_mal	ADV	אײנ_מאַל	AYn_mAal	_
+4	an	D	אַן	AaN	_
+5	oyslt	N	אױסלט	AWslt	_
+6	tsu	TO	צו	qv	_
+7	leyan	VB	לײאַן	lYAaN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,543.100
+1	vil	MDF	װיל	Vyl	_
+2	im	PRO	אים	AyM	_
+3	veytr	ADV	װײטר	VYtr	_
+4	als	Q	אַלס	Aals	_
+5	shenkn	VB	שענקן	$enkN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,543.101
+1	fun	P	פֿון	fvN	_
+2	den	D	דען	deN	_
+3	bart	N	באַרט	bAart	_
+4	tsu	TO	צו	qv	_
+5	futsn	VB	פֿוצן	fvqN	_
+6	vil	MDF	װיל	Vyl	_
+7	ikh	PRO	איך	AyX	_
+8	gdenkn	VB	גדענקן	gdenkN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,543.102
+1	er	PRO	ער	er	_
+2	putst	VBF	פּוצט	pvqt	_
+3	in	PRO	אין	AyN	_
+4	avek	ADV	אַװעק	AaVek	_
+5	als	P	אַלס	Aals	_
+6	eyn	D	אײן	AYN	_
+7	khmts	N	כמץ	xmQ	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,543.103
+1	er	PRO	ער	er	_
+2	lazt	VBF	לאַזט	lAazt	_
+3	ibr_stin	VB	איבר_סטין	Aybr_styN	_
+4	eyn	D	אײן	AYN	_
+5	kmts	N	קמץ	kmQ	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,544.105
+1	ez	ES	עז	ez	_
+2	iz	VBF	איז	Ayz	_
+3	nimnt	Q	נימנט	nymnt	_
+4	dr	WPRO	דר	dr	_
+5	zikh	PRO	זיך	zyX	_
+6	dran	DR+P	דראַן	drAaN	_
+7	kert	VBF	קערט	kert	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,544.106
+1	ez	ES	עז	ez	_
+2	zeynn	VBF	זײנן	zYnN	_
+3	oykh	ADV	אױך	AWX	_
+4	fil	Q	פֿיל	fyl	_
+5	ashknzim	NPR	אַשקנזים	Aa$knzyM	_
+6	di	WPRO	די	dy	_
+7	da	ADV	דאַ	dAa	_
+8	hobn	VBF	האָבן	hAobN	_
+9	grusi	ADJ	גרוסי	grvsy	_
+10	bert	N	בערט	bert	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,544.107
+1	nakh	ADV	נ"ך	n"X	_
+2	eyns	ADJ	אײנס	AYns	_
+3	ligt	VBF	ליגט	lygt	_
+4	mir	PRO	מיר	myr	_
+5	in	P	אין	AyN	_
+6	meyn	PRO$	מײן	mYN	_
+7	magn	N	מאַגן	mAagN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,544.108
+1	ds	D	דס	ds	_
+2	muz	MDF	מוז	mvz	_
+3	ikh	PRO	איך	AyX	_
+4	der_tsiln	VB	דער_צילן	der_qylN	_
+5	un'	CONJ	אונ'	Avn'	_
+6	zagn	VB	זאַגן	zAagN	_
+7	vi	WADV	װי	Vy	_
+8	di	D	די	dy	_
+9	eysubim	N	אײסובים	AYsvbyM	_
+10	leyt	N	לײט	lYt	_
+11	zikh	PRO	זיך	zyX	_
+12	mit	P	מיט	myt	_
+13	dem	D	דעם	deM	_
+14	shul_gin	N	שול_גין	$vl_gyN	_
+15	hltn	VBF	הלטן	hltN	_
+16	di	D	די	dy	_
+17	yungn	ADJ	יונגן	yvngN	_
+18	un'	CONJ	אונ'	Avn'	_
+19	altn	ADJ	אַלטן	AaltN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,544.109
+1	in	P	אין	AyN	_
+2	dr	D	דר	dr	_
+3	vakhn	N	װאַכן	VAaxN	_
+4	adr	CONJ	אַדר	Aadr	_
+5	kriat	H	קריִאַט	kryiAat	reading
+6	hturh	N	הטורה	htvrh	the_Torah
+7	hat	VBF	האַט	hAat	_
+8	er	PRO	ער	er	_
+9	eyn	D	אײן	AYN	_
+10	mura	N	מוראַ	mvrAa	_
+11	ds	C	דס	ds	_
+12	er	PRO	ער	er	_
+13	in	P	אין	AyN	_
+14	dr	D	דר	dr	_
+15	shul	N	שול	$vl	_
+16	kumt	VBF	קומט	kvmt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,544.110
+1	er	PRO	ער	er	_
+2	meynt	VBF	מײנט	mYnt	_
+3	er	PRO	ער	er	_
+4	far_lamt	VBF	פֿאַר_לאַמט	fAar_lAamt	_
+5	un'	CONJ	אונ'	Avn'	_
+6	fr_krumt	VBF	פֿר_קרומט	fr_krvmt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,544.111
+1	kumn	VBF	קומן	kvmN	_
+2	zi	PRO	זי	zy	_
+3-4	am	P~D	עם	eM	_
+3	a	P	אַ	Aa	_
+4	m	D	מ	m	_
+5	sbt	N	סבט	sbt	_
+6	tsu_zamn	ADV	צו_זאַמן	qv_zAamN	_
+7	mnin	N	מנין	mnyN	_
+8	tsu	TO	צו	qv	_
+9	makhn	VB	מאַכן	mAaxN	_
+10	azu	ADV	אַזו	Aazv	_
+11	hibn	VBF	היבן	hybN	_
+12	zi	PRO	זי	zy	_
+13	an	RP	אַן	AaN	_
+14	tsu	TO	צו	qv	_
+15	lakhin	VB	לאַכין	lAaxyN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,544.112
+1	ez	ES	עז	ez	_
+2	stit	VBF	סטיט	styt	_
+3	nit	NEG	ניט	nyt	_
+4	stil	ADJ	סטיל	styl	_
+5	ir	PRO$	איר	Ayr	_
+6	moyl	N	מױל	mWl	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,544.113
+1	dr	D	דר	dr	_
+2	ret	VBF	רעט	ret	_
+3	fun	P	פֿון	fvN	_
+4	zeyn	PRO$	זײן	zYN	_
+5	pilkhi	N	פּילכי	pylxy	_
+6	dr	D	דר	dr	_
+7	fun	P	פֿון	fvN	_
+8	zeyn	PRO$	זײן	zYN	_
+9	goyl	N	גױל	gWl	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,544.114
+1	vas	WPRO	װאַס	VAas	_
+2	zal	MDF	ז"ל	z"l	_
+3	ikh	PRO	איך	AyX	_
+4	fil	Q	פֿיל	fyl	_
+5	zagn	VB	זאַגן	zAagN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,544.115
+1	uft	ADV	אופֿט	Avft	_
+2	tunn	DOF	טונן	tvnN	_
+3	zi	PRO	זי	zy	_
+4	zikh	PRO	זיך	zyX	_
+5	gar	ADV	גאַר	gAar	_
+6	in	P	אין	AyN	_
+7	dr	D	דר	dr	_
+8	shul	N	שול	$vl	_
+9	shlagn	VB	שלאַגן	$lAagN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,544.116
+1	ven	C	װען	VeN	_
+2	mn	PRO	מן	mN	_
+3	hibt	VBF	היבט	hybt	_
+4	shme	NPR	שמע	$me	_
+5	isral	NPR	איסראַל	AysrAal	_
+6	an	RP	אַן	AaN	_
+7	shreyat	VBF	שרײאַט	$rYAat	_
+8	er	PRO	ער	er	_
+9	zeyn	PRO$	זײן	zYN	_
+10	eynikl	N	אײניקל	AYnykl	_
+11	an	RP	אַן	AaN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,544.117
+1	ven	C	װען	VeN	_
+2	ikh	PRO	איך	AyX	_
+3	dir	N	דיר	dyr	_
+4	s	PRO	ס	s	_
+5	shenk	VBF	שענק	$enk	_
+6	varum	WPRO+P	װאַרום	VAarvM	_
+7-8	hastu	HVF~PRO	האַסטו	hAastv	_
+7	has	HVF	האַס	hAas	_
+8	tu	PRO	טו	tv	_
+9	den	D	דען	deN	_
+10	goyl	N	גױל	gWl	_
+11	nit	NEG	ניט	nyt	_
+12	gtrenkt	VBN	גטרענקט	gtrenkt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,544.118
+1	dz	D	דז	dz	_
+2-3	mustu	MDF~PRO	מוסטו	mvstv	_
+2	mus	MDF	מוס	mvs	_
+3	tu	PRO	טו	tv	_
+4	heyt	ADV	הײט	hYt	_
+5	leydn	VB	לײדן	lYdN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,544.119
+1	ikh	PRO	איך	AyX	_
+2	vil	MDF	װיל	Vyl	_
+3	dikh	PRO	דיך	dyX	_
+4	daz	D	דאַז	dAaz	_
+5	kepki	N	קעפּקי	kepky	_
+6	fun	P	פֿון	fvN	_
+7	salit	N	סאַליט	sAalyt	_
+8	ab	RP	אַב	Aab	_
+9	shneydn	VB	שנײדן	$nYdN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,544.120
+1	za	C	זאַ	zAa	_
+2	eynr	PRO	אײנר	AYnr	_
+3	eyn	D	אײן	AYN	_
+4	helir	N	העליר	helyr	_
+5	mer	QR	מער	mer	_
+6	az	P	אַז	Aaz	_
+7	dr	D	דר	dr	_
+8	andr	ADJ	אַנדר	Aandr	_
+9	oyz	RP	אױז	AWz	_
+10	gebn	VBN	געבן	gebN	_
+11	habn	VBF	האַבן	hAabN	_
+12	zi	PRO	זי	zy	_
+13	in	P	אין	AyN	_
+14	shul	N	שול	$vl	_
+15	eyn	D	אײן	AYN	_
+16	grus	ADJ	גרוס	grvs	_
+17	ebn	N	עבן	ebN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,544.121
+1	dr	D	דר	dr	_
+2	eynr	N	אײנר	AYnr	_
+3	sprikht	VBF	ספּריכט	spryxt	_
+4	gar	ADV	גאַר	gAar	_
+5	bey	P	בײ	bY	_
+6	meyn	PRO$	מײן	mYN	_
+7	lebn	N	לעבן	lebN	_
+8	ikh	PRO	איך	AyX	_
+9	vil	MDF	װיל	Vyl	_
+10	meyn	PRO$	מײן	mYN	_
+11	msirh	N	מסירה	msyrh	_
+12	oyf	P	אױף	AWF	_
+13	dir	PRO	דיר	dyr	_
+14	an	RP	אַן	AaN	_
+15	gebn	VB	געבן	gebN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,544.122
+1	un	CONJ	און	AvN	_
+2	vas	WPRO	װאַס	VAas	_
+3	zi	PRO	זי	zy	_
+4	zunstn	ADV	זונסטן	zvnstN	_
+5	habn	VBF	האַבן	hAabN	_
+6	far	P	פֿאַר	fAar	_
+7	zind	N	זינד	zynd	_
+8	un	CONJ	און	AvN	_
+9	tand	N	טאַנד	tAand	_
+10	das	D	דת	dS	_
+11	iz	VBF	איז	Ayz	_
+12	yu	ADV	יו	yv	_
+13	ginugn	ADV	גינוגן	gynvgN	_
+14	bikant	ADJ	ביקאַנט	bykAant	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,544.123
+1	nakh	ADV	נ"ך	n"X	_
+2	eyns	PRO	אײנס	AYns	_
+3	muz	MDF	מוז	mvz	_
+4	ikh	PRO	איך	AyX	_
+5	eykh	PRO	אײך	AYX	_
+6	zagn	VB	זאַגן	zAagN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,544.124
+1	den	CONJ	דען	deN	_
+2	ikh	PRO	איך	AyX	_
+3	kan	MDF	ק"ן	k"N	_
+4	ez	PRO	עז	ez	_
+5	nit	NEG	ניט	nyt	_
+6	fr_tragn	VB	פֿר_טראַגן	fr_trAagN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,544.125
+1	dr	D	דר	dr	_
+2	palk	N	פּאַלק	pAalk	_
+3	mag	MDF	מאַג	mAag	_
+4	zeyn	VB	זײן	zYN	_
+5	eyn	D	אײן	AYN	_
+6	lmdn	N	למדן	lmdN	_
+7	fun	P	פֿון	fvN	_
+8	gutr	ADJ	גוטר	gvtr	_
+9	mspkhh	N	מספּכה	mspxh	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,544.126
+1	ashknz	NPR	אַשקנז	Aa$knz	_
+2	iz	VBF	איז	Ayz	_
+3	zikh	PRO	זיך	zyX	_
+4	mit	P	מיט	myt	_
+5	im	PRO	אים	AyM	_
+6	nit	NEG	ניט	nyt	_
+7	mtkhtn	H	מטכטן	mtxtN	UNKNOWN
+
+SENT	1675E-ASHKENAZ-UN-POLAK,544.127
+1	adr	CONJ	אַדר	Aadr	_
+2	an	P	אַן	AaN	_
+3	di	D	די	dy	_
+4	meyd	N	מײד	mYd	_
+5	muz	MDF	מוז	mvz	_
+6	zeyn	VB	זײן	zYN	_
+7	keyn	Q	קײן	kYN	_
+8	brkhh	N	ברכה	brxh	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,544.128
+1	un'	CONJ	אונ'	Avn'	_
+2	ven	C	װען	VeN	_
+3	ashknz	NPR	אַשקנז	Aa$knz	_
+4	eyn	D	אײן	AYN	_
+5	rb	N	רב	rb	_
+6	odr	CONJ	אָדר	Aodr	_
+7	khzn	N	כזן	xzN	_
+8	vil	MDF	װיל	Vyl	_
+9	lazn	VB	לאַזן	lAazN	_
+10	halin	VB	האַלין	hAalyN	_
+11	muz	MDF	מוז	mvz	_
+12	er	PRO	ער	er	_
+13	dakh	ADV	דאַך	dAaX	_
+14	shikn	VB	שיקן	$ykN	_
+15	in	P	אין	AyN	_
+16	pulin	NPR	פּולין	pvlyN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,544.129
+1	ir	PRO	איר	Ayr	_
+2	vert	VBF	װערט	Vert	_
+3	in	P	אין	AyN	_
+4	der	D	דער	der	_
+5	turn	N	טורן	tvrN	_
+6	als	P	אַלס	Aals	_
+7	vi	P	װי	Vy	_
+8	di	D	די	dy	_
+9	stumn	N	סטומן	stvmN	_
+10	ven	C	װען	VeN	_
+11	oyz	P	אױז	AWz	_
+12	pulin	NPR	פּולין	pvlyN	_
+13	di	D	די	dy	_
+14	mlmdim	N	מלמדים	mlmdyM	_
+15	nit	NEG	ניט	nyt	_
+16	zeltn	MDF	זעלטן	zeltN	_
+17	tsu	P	צו	qv	_
+18	eykh	PRO	אײך	AYX	_
+19	in	P	אין	AyN	_
+20	ashknz	NPR	אַשקנז	Aa$knz	_
+21	kumn	VB	קומן	kvmN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,544.130
+1	mir	PRO	מיר	myr	_
+2	kumn	VBF	קומן	kvmN	_
+3	nit	NEG	ניט	nyt	_
+4	gern	ADV	גערן	gerN	_
+5	in	P	אין	AyN	_
+6	ashknz	NPR	אַשקנז	Aa$knz	_
+7	tsu	TO	צו	qv	_
+8	eyn	RP	אײן	AYN	_
+9	nemn	VB	נעמן	nemN	_
+10	shand	N	שאַנד	$Aand	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,545.131
+1	ven	C	װען	VeN	_
+2	di	D	די	dy	_
+3	mlkhmh	N	מלכמה	mlxmh	_
+4	nit	NEG	ניט	nyt	_
+5	ver	BEF	װער	Ver	_
+6	kumn	VBN	קומן	kvmN	_
+7	in	P	אין	AyN	_
+8	unzrn	PRO$	אונזרן	AvnzrN	_
+9	lnd	N	לנד	lnd	_
+10	dz	C	דז	dz	_
+11	mir	PRO	מיר	myr	_
+12	leydr	ADV	לײדר	lYdr	_
+13	zeyn	BEF	זײן	zYN	_
+14	varn	RDN	װאַרן	VAarN	_
+15	fr_tribn	VAN	פֿר_טריבן	fr_trybN	_
+16	un'	CONJ	אונ'	Avn'	_
+17	fr_trent	VAN	פֿר_טרענט	fr_trent	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,545.132
+1	zau	ADV	זאַו	zAav	_
+2	iz	BEF	איז	Ayz	_
+3	itlikhr	Q	איטליכר	Aytlyxr	_
+4	gilafn	VBN	גילאַפֿן	gylAafN	_
+5	vau	WADV	װאַו	VAav	_
+6	er	PRO	ער	er	_
+7	hat	HVF	האַט	hAat	_
+8	ahin	ADV	אַהין	AahyN	_
+9	gikent	MDN	גיקענט	gykent	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,545.133
+1	ir	PRO	איר	Ayr	_
+2	ashknzim	NPR	אַשקנזים	Aa$knzyM	_
+3	zeyt	BEF	זײט	zYt	_
+4	dakh	ADV	דאַך	dAaX	_
+5	fr	P	פֿר	fr	_
+6	tseytn	N	צײטן	qYtN	_
+7	oykh	ADV	אױך	AWX	_
+8	in	P	אין	AyN	_
+9	pulin	NPR	פּולין	pvlyN	_
+10	gilafn	VBN	גילאַפֿן	gylAafN	_
+11	da	C	דאַ	dAa	_
+12	eykh	PRO	אײך	AYX	_
+13	di	D	די	dy	_
+14	mlkhmh	N	מלכמה	mlxmh	_
+15	hat	HVF	האַט	hAat	_
+16	in	P	אין	AyN	_
+17	ashknz	NPR	אַשקנז	Aa$knz	_
+18	bitrafn	VBN	ביטראַפֿן	bytrAafN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,545.134
+1	mn	PRO	מן	mN	_
+2	hat	HVF	האַט	hAat	_
+3	dakh	ADV	דאַך	dAaX	_
+4	mit	P	מיט	myt	_
+5	eykh	PRO	אײך	AYX	_
+6	mitib	RP-H	מיטיב	mytyb	_
+7	givezn	VBN	גיװעזן	gyVezN	_
+8	mit	P	מיט	myt	_
+9	gelt	N	געלט	gelt	_
+10	un	CONJ	און	AvN	_
+11	an	P	אַן	AaN	_
+12	eyeri	PRO$	אײערי	AYery	_
+13	leybr	N	לײבר	lYbr	_
+14	eykh	PRO	אײך	AYX	_
+15	gebn	VBN	געבן	gebN	_
+16	gelt	N	געלט	gelt	_
+17	un	CONJ	און	AvN	_
+18	di	D	די	dy	_
+19	besti	ADJS	בעסטי	besty	_
+20	veybr	N	װײבר	VYbr	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,545.135
+1	drum	DR+P	דרום	drvM	_
+2	habt	VBI	האַבט	hAabt	_
+3	niks	Q	ניקס	nyks	_
+4	fr	P	פֿר	fr	_
+5	ibl	N	איבל	Aybl	_
+6	ds	C	דס	ds	_
+7	mir	PRO	מיר	myr	_
+8	kumn	VBF	קומן	kvmN	_
+9	tsu	P	צו	qv	_
+10	eykh	PRO	אײך	AYX	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,545.136
+1	das	D	דת	dS	_
+2	slim	ADJ	סלים	slyM	_
+3	mzl	N	מזל	mzl	_
+4	brengt	VBF	ברענגט	brengt	_
+5	arim	ADJ	אַרים	AaryM	_
+6	udr	CONJ	אודר	Avdr	_
+7	reykh	ADJ	רײך	rYX	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,545.137
+1	den	CONJ	דען	deN	_
+2	es	PRO	עס	es	_
+3	git	VBF	גיט	gyt	_
+4	arum	P	אַרום	AarvM	_
+5	di	D	די	dy	_
+6	velt	N	װעלט	Velt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,545.138
+1	mir	PRO	מיר	myr	_
+2	habn	HVF	האַבן	hAabN	_
+3	giht	VBN	גיהט	gyht	_
+4	fil	Q	פֿיל	fyl	_
+5	gelt	N	געלט	gelt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,545.139
+1	mir	PRO	מיר	myr	_
+2	habin	VBF	האַבין	hAabyN	_
+3	in	P	אין	AyN	_
+4	unzrn	PRO$	אונזרן	AvnzrN	_
+5	land	N	לאַנד	lAand	_
+6	fil	Q	פֿיל	fyl	_
+7	turh	NPR	טורה	tvrh	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,545.140
+1	mir	PRO	מיר	myr	_
+2	hafn	VBF	האַפֿן	hAafN	_
+3	lal	H	לאַל	lAal	to_God
+4	hgdul	H	הגדול	hgdvl	the_great
+5	hgbur	H	הגבור	hgbvr	the_strong
+6	uhnura	H	אוהנוראַ	AvhnvrAa	and_the_awe-inspiring
+
+SENT	1675E-ASHKENAZ-UN-POLAK,545.141
+1	mir	PRO	מיר	myr	_
+2	habn	VBF	האַבן	hAabN	_
+3	in	P	אין	AyN	_
+4	pulin	NPR	פּולין	pvlyN	_
+5	mer	QR	מער	mer	_
+6	yusubim	N	יוסובים	yvsvbyM	_
+7	un'	CONJ	אונ'	Avn'	_
+8	khlut	N	כלוט	xlvt	_
+9	alz	C	אַלז	Aalz	_
+10	ir	PRO	איר	Ayr	_
+11	ashknzim	NPR	אַשקנזים	Aa$knzyM	_
+12	hat	VBF	האַט	hAat	_
+13	mkhzurim	N	מכזורים	mxzvryM	_
+14	un'	CONJ	אונ'	Avn'	_
+15	tfilut	N	טפֿילוט	tfylvt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,545.142
+1	keyn	Q	קײן	kYN	_
+2	rekhtr	ADJ	רעכטר	rextr	_
+3	gutr	ADJ	גוטר	gvtr	_
+4	man	N	מאַן	mAaN	_
+5	der	D	דער	der	_
+6	zikht	VBF	זיכט	zyxt	_
+7	fun	P	פֿון	fvN	_
+8	uns	PRO	אונס	Avns	_
+9	palkin	N	פּאַלקין	pAalkyN	_
+10	ashknz	NPR	אַשקנז	Aa$knz	_
+11	an	RP	אַן	AaN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,545.143
+1	muz	MDF	מוז	mvz	_
+2	er	PRO	ער	er	_
+3	tsu	P	צו	qv	_
+4	tseytn	N	צײטן	qYtN	_
+5	fr	P	פֿר	fr	_
+6	nut	N	נוט	nvt	_
+7	aroyz	ADV	אַרױז	AarWz	_
+8	vi	WADV	װי	Vy	_
+9	bld	ADV	בלד	bld	_
+10	loyft	VBF	לױפֿט	lWft	_
+11	er	PRO	ער	er	_
+12	vidr	ADV	װידר	Vydr	_
+13	nakh	P	נ"ך	n"X	_
+14	hoyz	N	הױז	hWz	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,545.144
+1	di	WPRO	די	dy	_
+2	da	ADV	דאַ	dAa	_
+3	mura	RP-H	מוראַ	mvrAa	_
+4	habn	VBF	האַבן	hAabN	_
+5	in	P	אין	AyN	_
+6	pulin	NPR	פּולין	pvlyN	_
+7	mn	PRO	מן	mN	_
+8	vert	RDF	װערט	Vert	_
+9	zi	PRO	זי	zy	_
+10	vergn	VB	װערגן	VergN	_
+11	zi	PRO	זי	zy	_
+12	loyfn	VBF	לױפֿן	lWfN	_
+13	in	P	אין	AyN	_
+14	ashknz	NPR	אַשקנז	Aa$knz	_
+15	zikh	PRO	זיך	zyX	_
+16	tsu	TO	צו	qv	_
+17	fr_bergn	VB	פֿר_בערגן	fr_bergN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,545.145
+1	ven_shun	C	װענ_שון	Ven_$vN	_
+2	in	P	אין	AyN	_
+3	ashknz	NPR	אַשקנז	Aa$knz	_
+4	kumt	VBF	קומט	kvmt	_
+5	eyn	D	אײן	AYN	_
+6	gutr	ADJ	גוטר	gvtr	_
+7	mlmd	N	מלמד	mlmd	_
+8	fun	P	פֿון	fvN	_
+9	gutr	ADJ	גוטר	gvtr	_
+10	art	N	אַרט	Aart	_
+11	azu	ADV	אַזו	Aazv	_
+12	sprikht	VBF	ספּריכט	spryxt	_
+13	der	D	דער	der	_
+14	ashknz	NPR	אַשקנז	Aa$knz	_
+15	kumt	VBI	קומט	kvmt	_
+16	rbi	N	רבי	rby	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,545.146
+1	mir	PRO	מיר	myr	_
+2	veln	MDF	װעלן	VelN	_
+3	spiln	VB	ספּילן	spylN	_
+4	mit	P	מיט	myt	_
+5	der	D	דער	der	_
+6	kart	N	קאַרט	kAart	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,545.147
+1	un	CONJ	און	AvN	_
+2	kumn	VBF	קומן	kvmN	_
+3	zi	PRO	זי	zy	_
+4	in	P	אין	AyN	_
+5	das	D	דת	dS	_
+6	spiln	N	ספּילן	spylN	_
+7	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,545.148
+1	un'	CONJ	אונ'	Avn'	_
+2	fresn	VBF	פֿרעסן	fresN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,545.149
+1	un	CONJ	און	AvN	_
+2	zoyfn	VBF	זױפֿן	zWfN	_
+3	vi	P	װי	Vy	_
+4	eyn	D	אײן	AYN	_
+5	shveyn	N	שװײן	$VYN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,545.150
+1	hert	VBI	הערט	hert	_
+2	neyart	FP	נײאַרט	nYAart	_
+3	tsu	RP	צו	qv	_
+4	fun	P	פֿון	fvN	_
+5	den	D	דען	deN	_
+6	spil	N	ספּיל	spyl	_
+7	vi	WADV	װי	Vy	_
+8	ashknz	NPR	אַשקנז	Aa$knz	_
+9	den	D	דען	deN	_
+10	mlmd	N	מלמד	mlmd	_
+11	imr	ADV	אימר	Aymr	_
+12	fr	P	פֿר	fr	_
+13	eyn	D	אײן	AYN	_
+14	shuth	N	שוטה	$vth	_
+15	habn	VB	האַבן	hAabN	_
+16	vil	MDF	װיל	Vyl	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,545.151
+1	iz	VBF	איז	Ayz	_
+2	er	PRO	ער	er	_
+3	shun	ADV	שון	$vN	_
+4	eyn	D	אײן	AYN	_
+5	lmdn	N	למדן	lmdN	_
+6	un'	CONJ	אונ'	Avn'	_
+7	fr_stit	VBF	פֿר_סטיט	fr_styt	_
+8	zikh	PRO	זיך	zyX	_
+9	oyf	P	אױף	AWF	_
+10	ali	Q	אַלי	Aaly	_
+11	zakhn	N	זאַכן	zAaxN	_
+12	hut	VBF	הוט	hvt	_
+13	ashknz	NPR	אַשקנז	Aa$knz	_
+14	imr	ADV	אימר	Aymr	_
+15	zeynr	PRO	זײנר	zYnr	_
+16	tsu	TO	צו	qv	_
+17	spatn	VB	ספּאַטן	spAatN	_
+18	un'	CONJ	אונ'	Avn'	_
+19	tsu	TO	צו	qv	_
+20	lakhn	VB	לאַכן	lAaxN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,545.152
+1	den	CONJ	דען	deN	_
+2	der	D	דער	der	_
+3	skhl	N	סכל	sxl	_
+4	fun	P	פֿון	fvN	_
+5	der	D	דער	der	_
+6	palk	N	פּאַלק	pAalk	_
+7	treft	VBF	טרעפֿט	treft	_
+8	nit	NEG	ניט	nyt	_
+9	mit	P	מיט	myt	_
+10	den	D	דען	deN	_
+11	skhl	N	סכל	sxl	_
+12	fun	P	פֿון	fvN	_
+13	ashknz	NPR	אַשקנז	Aa$knz	_
+14	tsu_gleykh	ADV	צו_גלײך	qv_glYX	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,545.153
+1	palkin	N	פּאַלקין	pAalkyN	_
+2	mit	P	מיט	myt	_
+3	idrn	Q	אידרן	AydrN	_
+4	vart	N	װאַרט	VAart	_
+5	hit	VBI	היט	hyt	_
+6	oykh	PRO	אױך	AWX	_
+7	far	P	פֿאַר	fAar	_
+8	ashknz	NPR	אַשקנז	Aa$knz	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,545.154
+1	das	D	דת	dS	_
+2	zag	VBF	זאַג	zAag	_
+3	ikh	PRO	איך	AyX	_
+4	oykh	PRO	אױך	AWX	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,545.155
+1	etfrt	VBF	עטפֿרט	etfrt	_
+2	der	D	דער	der	_
+3	ashknz	NPR	אַשקנז	Aa$knz	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,545.156
+1	ikh	PRO	איך	AyX	_
+2	hab	HVF	האַב	hAab	_
+3	eykh	PRO	אײך	AYX	_
+4	shun	ADV	שון	$vN	_
+5	lng	ADV	לנג	lng	_
+6	tsu	RP	צו	qv	_
+7	ghert	VBN	גהערט	ghert	_
+8	ir	PRO	איר	Ayr	_
+9	palkin	N	פּאַלקין	pAalkyN	_
+10	mit	P	מיט	myt	_
+11	eyeri	PRO$	אײערי	AYery	_
+12	breyti	ADJ	ברײטי	brYty	_
+13	bert	N	בערט	bert	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,545.157
+1-2	tsum	P~D	צום	qvM	_
+1	tsu	P	צו	qv	_
+2	m	D	מ	m	_
+3	reyn	NPR	רײן	rYN	_
+4	drf	MDF	דרף	drF	_
+5	eynr	PRO	אײנר	AYnr	_
+6	nit	NEG	ניט	nyt	_
+7	kumn	VB	קומן	kvmN	_
+8	aleyn	ADV	אַלײן	AalYN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,545.158
+1	dr	D	דר	dr	_
+2	khbr	N	כבר	xbr	_
+3	muz	MDF	מוז	mvz	_
+4	oykh	ADV	אױך	AWX	_
+5	dr_bey	DR+P	דר_בײ	dr_bY	_
+6	zeyn	VB	זײן	zYN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.160
+1	vaz	WPRO	װאַז	VAaz	_
+2	velt	MDF	װעלט	Velt	_
+3	ir	PRO	איר	Ayr	_
+4	fil	Q	פֿיל	fyl	_
+5	zagn	VB	זאַגן	zAagN	_
+6	mit	P	מיט	myt	_
+7	eyer	PRO$	אײער	AYer	_
+8	breyti	ADJ	ברײטי	brYty	_
+9	armil	N	אַרמיל	Aarmyl	_
+10	un	CONJ	און	AvN	_
+11	kragn	N	קראַגן	krAagN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.161
+1	daz	D	דאַז	dAaz	_
+2	iz	VBF	איז	Ayz	_
+3	var	ADJ	װאַר	VAar	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.162
+1	in	P	אין	AyN	_
+2	pulin	NPR	פּולין	pvlyN	_
+3	zeyn	VBF	זײן	zYN	_
+4	grusi	ADJ	גרוסי	grvsy	_
+5	beli_turh	N	בעלי_טורה	bely_tvrh	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.163
+1	abr	CONJ	אַבר	Aabr	_
+2	keynm	Q	קײנם	kYnM	_
+3	iz	VBF	איז	Ayz	_
+4	nit	NEG	ניט	nyt	_
+5	tsu	TO	צו	qv	_
+6	troyan	VB	טרױאַן	trWAaN	_
+7	oyf	P	אױף	AWF	_
+8	gelt	N	געלט	gelt	_
+9	nakh	CONJ	נ"ך	n"X	_
+10	oyf	P	אױף	AWF	_
+11	skhurh	N	סכורה	sxvrh	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.164
+1	eyn	D	אײן	AYN	_
+2	idr	Q	אידר	Aydr	_
+3	vil	MDF	װיל	Vyl	_
+4	habn	VB	האַבן	hAabN	_
+5	eyn	D	אײן	AYN	_
+6	tsabli	ADJ	צאַבלי	qAably	_
+7	hitl	N	היטל	hytl	_
+8	un'	CONJ	אונ'	Avn'	_
+9	in	P	אין	AyN	_
+10	dr	D	דר	dr	_
+11	hnt	N	הנט	hnt	_
+12	eyn	D	אײן	AYN	_
+13	stekn	N	סטעקן	stekN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.165
+1	oyz	RP	אױז	AWz	_
+2	bargn	VB	באַרגן	bAargN	_
+3	un'	CONJ	אונ'	Avn'	_
+4	an	RP	אַן	AaN	_
+5	zetsin	VB	זעצין	zeqyN	_
+6	vil	MDF	װיל	Vyl	_
+7	alz	Q	אַלז	Aalz	_
+8	nist	NEG	ניסט	nyst	_
+9	klekn	VB	קלעקן	klekN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.166
+1	bkumt	VBF	בקומט	bkvmt	_
+2	eynr	PRO	אײנר	AYnr	_
+3	vaz	Q	װאַז	VAaz	_
+4	gbargt	ADJ	גבאַרגט	gbAargt	_
+5	veyb	N	װײב	VYb	_
+6	ikh	PRO	איך	AyX	_
+7	hab	VBF	האַב	hAab	_
+8	eyn	D	אײן	AYN	_
+9	mtsiah	N	מציִאַה	mqyiAah	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.167
+1	dr	D	דר	dr	_
+2	sukhr	N	סוכר	svxr	_
+3	reyst	VBF	רײסט	rYst	_
+4	dr_nakh	DR+P	דר_נאַך	dr_nAaX	_
+5	eyn	D	אײן	AYN	_
+6	krieh	N	קריִעה	kryieh	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.168
+1	tsu	P	צו	qv	_
+2	tsvelf	NUM	צװעלף	qVelF	_
+3	yar	N	יאַר	yAar	_
+4	gibt	VBF	גיבט	gybt	_
+5	ir	PRO	איר	Ayr	_
+6	di	D	די	dy	_
+7	kindr	N	קינדר	kyndr	_
+8	oyz	RP	אױז	AWz	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.169
+1	dr_nakh	DR+P	דר_נאַך	dr_nAaX	_
+2	lebn	VBF	לעבן	lebN	_
+3	zi	PRO	זי	zy	_
+4	mit	P	מיט	myt	_
+5	anndr	PRO	אַננדר	Aanndr	_
+6	az	C	אַז	Aaz	_
+7	kats	N	קאַץ	kAaQ	_
+8	mit	P	מיט	myt	_
+9	di	D	די	dy	_
+10	moyz	N	מױז	mWz	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.170
+1	kpsumh	N	קפּסומה	kpsvmh	_
+2	un	CONJ	און	AvN	_
+3	man	N	מאַן	mAaN	_
+4	un'	CONJ	אונ'	Avn'	_
+5	veyb	N	װײב	VYb	_
+6	zuln	MDF	זולן	zvlN	_
+7	gin	VB	גין	gyN	_
+8-9	tsum	P~D	צום	qvM	_
+8	tsu	P	צו	qv	_
+9	m	D	מ	m	_
+10	bet	N	בעט	bet	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.171
+1	mutn	VBF	מוטן	mvtN	_
+2	zi	PRO	זי	zy	_
+3	zikh	PRO	זיך	zyX	_
+4	an	RP	אַן	AaN	_
+5	den	D	דען	deN	_
+6	gt	N	גט	gt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.172
+1	dz	D	דז	dz	_
+2	gelt	N	געלט	gelt	_
+3	iz	BEF	איז	Ayz	_
+4	fr_tsert	VAN	פֿר_צערט	fr_qert	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.173
+1	dz	D	דז	dz	_
+2	veyb	N	װײב	VYb	_
+3	vil	MDF	װיל	Vyl	_
+4	im	PRO	אים	AyM	_
+5	nit	NEG	ניט	nyt	_
+6	mer	ADV	מער	mer	_
+7	gfeln	VB	גפֿעלן	gfelN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.174
+1	un	CONJ	און	AvN	_
+2	loyft	VBF	לױפֿט	lWft	_
+3	er	PRO	ער	er	_
+4	in	P	אין	AyN	_
+5	ashknz	NPR	אַשקנז	Aa$knz	_
+6	areyn	ADV	אַרײן	AarYN	_
+7	kneln	H	קנעלן	knelN	UNKNOWN
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.175
+1	mir	PRO	מיר	myr	_
+2	gebn	VBF	געבן	gebN	_
+3	oykh	PRO	אױך	AWX	_
+4	esn	N	עסן	esN	_
+5	un'	CONJ	אונ'	Avn'	_
+6	trinkn	N	טרינקן	trynkN	_
+7	un'	CONJ	אונ'	Avn'	_
+8	mmun	N	ממון	mmvN	_
+9	dr_tsu	DR+P	דר_צו	dr_qv	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.176
+1	dakh	ADV	דאַך	dAaX	_
+2	habn	VBF	האַבן	hAabN	_
+3	mir	PRO	מיר	myr	_
+4	asknzim	N	אַסקנזים	AasknzyM	_
+5	fr	P	פֿר	fr	_
+6	eykh	PRO	אײך	AYX	_
+7	palkn	N	פּאַלקן	pAalkN	_
+8	keyn	Q	קײן	kYN	_
+9	ruh	N	רוה	rvh	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.177
+1	eyari	PRO$	אײאַרי	AYAary	_
+2	veybr	N	װײבר	VYbr	_
+3	lazt	VBF	לאַזט	lAazt	_
+4	ir	PRO	איר	Ayr	_
+5	dr_heym	ADV	דר_הײם	dr_hYM	_
+6	zitsn	VB	זיצן	zyqN	_
+7	in	P	אין	AyN	_
+8	leydn	N	לײדן	lYdN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.178
+1	menkhi	Q	מענכי	menxy	_
+2	bleybt	VBF	בלײבט	blYbt	_
+3	gar	ADV	גאַר	gAar	_
+4	eyn	D	אײן	AYN	_
+5	egunh	H	עגונה	egvnh	deserted_wife
+6	un	CONJ	און	AvN	_
+7	gsheydn	ADJ	גשײדן	g$YdN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.179
+1	tsu	P	צו	qv	_
+2	tseytn	N	צײטן	qYtN	_
+3	hat	VBF	האַט	hAat	_
+4	ir	PRO$	איר	Ayr	_
+5	man	N	מאַן	mAaN	_
+6	keyn	Q	קײן	kYN	_
+7	ru	N	רו	rv	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.180
+1	er	PRO	ער	er	_
+2	nemt	VBF	נעמט	nemt	_
+3	nakh	ADV	נ"ך	n"X	_
+4	eyni	PRO	אײני	AYny	_
+5	dr_tsu	DR+P	דר_צו	dr_qv	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.181
+1	keyn	Q	קײן	kYN	_
+2	dieh	H	דיִעה	dyieh	UNKNOWN
+3	dz	C	דז	dz	_
+4	er	PRO	ער	er	_
+5	vil	VBF	װיל	Vyl	_
+6	nakh	P	נ"ך	n"X	_
+7	hoyz	N	הױז	hWz	_
+8	biz	C	ביז	byz	_
+9	da	ADV	דאַ	dAa	_
+10	kumn	VBF	קומן	kvmN	_
+11	khrumut	H	כרומוט	xrvmvt	UNKNOWN
+12	brif	N	בריף	bryF	_
+13	hroyz	ADV	הרױז	hrWz	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.182
+1	zaln	MDF	זאַלן	zAalN	_
+2	mir	PRO	מיר	myr	_
+3	fun	P	פֿון	fvN	_
+4	palkn	N	פּאַלקן	pAalkN	_
+5	di	WPRO	די	dy	_
+6	shnarn	VB	שנאַרן	$nAarN	_
+7	gin	VBF	גין	gyN	_
+8	dr_tsiln	VB	דר_צילן	dr_qylN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.183
+1	di	D	די	dy	_
+2	tun	DOF	טון	tvN	_
+3	unz	PRO	אונז	Avnz	_
+4	stik	N	סטיק	styk	_
+5	kviln	VB	קװילן	kVylN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.184
+1	kumn	VBF	קומן	kvmN	_
+2	zi	PRO	זי	zy	_
+3	unz	PRO	אונז	Avnz	_
+4	in	P	אין	AyN	_
+5	s	D	ס	s	_
+6	hoyz	N	הױז	hWz	_
+7	spehn	VBF	ספּעהן	spehN	_
+8	zi	PRO	זי	zy	_
+9	alis	Q	אַליס	Aalys	_
+10	oyz	RP	אױז	AWz	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.185
+1	mn	PRO	מן	mN	_
+2	kan	MDF	ק"ן	k"N	_
+3	zikh	PRO	זיך	zyX	_
+4	nit	NEG	ניט	nyt	_
+5	gnug	Q	גנוג	gnvg	_
+6	fr_zehn	VB	פֿר_זעהן	fr_zehN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.186
+1	vi	WADV	װי	Vy	_
+2	bald	ADV	באַלד	bAald	_
+3	iz	BEF	איז	Ayz	_
+4	eynm	PRO	אײנם	AYnM	_
+5	eyn	D	אײן	AYN	_
+6	gnibh	N	גניבה	gnybh	_
+7	gsehn	VBN	גסעהן	gsehN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.187
+1	ez	ES	עז	ez	_
+2	iz	VBF	איז	Ayz	_
+3	inn	PRO	אינן	AynN	_
+4	alz	Q	אַלז	Aalz	_
+5	gut	ADJ	גוט	gvt	_
+6	ez	ES	עז	ez	_
+7	zey	VBF	זײ	zY	_
+8	eyn	D	אײן	AYN	_
+9	rak	N	רק	rk	_
+10	udr	CONJ	אודר	Avdr	_
+11	eyn	D	אײן	AYN	_
+12	hut	N	הוט	hvt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.188
+1	zunstn	ADV	זונסטן	zvnstN	_
+2	andri	ADJ	אַנדרי	Aandry	_
+3	zakhn	N	זאַכן	zAaxN	_
+4	dr_nebn	DR+P	דר_נעבן	dr_nebN	_
+5	bleybt	VBF	בלײבט	blYbt	_
+6	inn	PRO	אינן	AynN	_
+7	an	P	אַן	AaN	_
+8	irn	PRO$	אירן	AyrN	_
+9	hendn	N	הענדן	hendN	_
+10	klebn	RP-V	קלעבן	klebN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.189
+1	kumn	VBF	קומן	kvmN	_
+2	zi	PRO	זי	zy	_
+3	oyf	P	אױף	AWF	_
+4	di	D	די	dy	_
+5	yishubim	N	ייִשובים	yyi$vbyM	_
+6	udr	CONJ	אודר	Avdr	_
+7	oyf	P	אױף	AWF	_
+8	eyn	D	אײן	AYN	_
+9	urt	N	אורט	Avrt	_
+10	sprikht	VBF	ספּריכט	spryxt	_
+11	er	PRO	ער	er	_
+12	meyn	PRO$	מײן	mYN	_
+13	froy	N	פֿרױ	frW	_
+14	tragt	VBF	טראַגט	trAagt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.190
+1	zi	PRO	זי	zy	_
+2	kan	MDF	ק"ן	k"N	_
+3	nimr	ADV	נימר	nymr	_
+4	fart	ADV	פֿאַרט	fAart	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,546.191
+1	azu	ADV	אַזו	Aazv	_
+2	muzn	MDF	מוזן	mvzN	_
+3	mir	PRO	מיר	myr	_
+4	im	PRO	אים	AyM	_
+5	gebn	VB	געבן	gebN	_
+6	gelt	N	געלט	gelt	_
+7	un	CONJ	און	AvN	_
+8	guti	ADJ	גוטי	gvty	_
+9	vart	N	װאַרט	VAart	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.193
+1	da	ADV	דאַ	dAa	_
+2	tsiht	VBF	ציהט	qyht	_
+3	er	PRO	ער	er	_
+4	in	P	אין	AyN	_
+5	eyn	D	אײן	AYN	_
+6	andr	ADJ	אַנדר	Aandr	_
+7	urt	N	אורט	Avrt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.194
+1	zukht	VBF	זוכט	zvxt	_
+2	vidr	ADV	װידר	Vydr	_
+3	oyz	RP	אױז	AWz	_
+4	gelt	N	געלט	gelt	_
+5	biz	C	ביז	byz	_
+6	er	PRO	ער	er	_
+7	kumt	VBF	קומט	kvmt	_
+8	in	P	אין	AyN	_
+9	eyn	D	אײן	AYN	_
+10	khlh	N	כלה	xlh	_
+11	di	WPRO	די	dy	_
+12	im	PRO	אים	AyM	_
+13	gfelt	VBF	גפֿעלט	gfelt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.195
+1	dart	ADV	דאַרט	dAart	_
+2	muz	MDF	מוז	mvz	_
+3	mn	PRO	מן	mN	_
+4	zi	PRO	זי	zy	_
+5	hltn	VB	הלטן	hltN	_
+6	di	D	די	dy	_
+7	kindbet	N	קינדבעט	kyndbet	_
+8	oyz	RP	אױז	AWz	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.196
+1	dr_veyl	ADV	דר_װײל	dr_VYl	_
+2	zukht	VBF	זוכט	zvxt	_
+3	er	PRO	ער	er	_
+4	zikh	PRO	זיך	zyX	_
+5	eyn	D	אײן	AYN	_
+6	reykhn	ADJ	רײכן	rYxN	_
+7	gfatr	N	גפֿאַטר	gfAatr	_
+8	oyz	RP	אױז	AWz	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.197
+1	hut	HVF	הוט	hvt	_
+2	mn	PRO	מן	mN	_
+3	im	PRO	אים	AyM	_
+4	shun	ADV	שון	$vN	_
+5	di	D	די	dy	_
+6	kindbet	N	קינדבעט	kyndbet	_
+7	ghltn	VBN	גהלטן	ghltN	_
+8	un'	CONJ	אונ'	Avn'	_
+9	gebn	VBN	געבן	gebN	_
+10	eyn	D	אײן	AYN	_
+11	gfatrshft	N	גפֿאַטרשפֿט	gfAatr$ft	_
+12	dr_tsu	DR+P	דר_צו	dr_qv	_
+13	zu	ADV	זו	zv	_
+14	hat	VBF	האַט	hAat	_
+15	dr	D	דר	dr	_
+16	gifatr	N	גיפֿאַטר	gyfAatr	_
+17	dakh	ADV	דאַך	dAaX	_
+18	keyn	Q	קײן	kYN	_
+19	ru	N	רו	rv	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.198
+1	un'	CONJ	אונ'	Avn'	_
+2	azu_bld_az	C	אַזו_בלד_אַז	Aazv_bld_Aaz	_
+3	di	D	די	dy	_
+4	kleyni	ADJ	קלײני	klYny	_
+5	shnarr	N	שנאַרר	$nAarr	_
+6	vern	VBF	װערן	VerN	_
+7	eyn	D	אײן	AYN	_
+8	bisl	N	ביסל	bysl	_
+9	grus	ADJ	גרוס	grvs	_
+10	tunn	VBF	טונן	tvnN	_
+11	zi	PRO	זי	zy	_
+12	shun	ADV	שון	$vN	_
+13	biz	N	ביז	byz	_
+14	un	P	און	AvN	_
+15	tsal	N	צאַל	qAal	_
+16	un	CONJ	און	AvN	_
+17	mas	N	מס	ms	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.199
+1	lernn	VBF	לערנן	lernN	_
+2	gnvn	VB	גנװן	gnVN	_
+3	far-erst	ADV	פֿאַר-ערסט	fAar-erst	_
+4	eyn	D	אײן	AYN	_
+5	bisl	N	ביסל	bysl	_
+6	,	PUNC	,	,	_
+7	eyn	D	אײן	AYN	_
+8	telir	N	טעליר	telyr	_
+9	adr	CONJ	אַדר	Aadr	_
+10	shisl	N	שיסל	$ysl	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.200
+1	vert	VBF	װערט	Vert	_
+2	er	PRO	ער	er	_
+3	grus	ADJ	גרוס	grvs	_
+4	nemt	VBF	נעמט	nemt	_
+5	er	PRO	ער	er	_
+6	dr_mit	DR+P	דר_מיט	dr_myt	_
+7	nit	NEG	ניט	nyt	_
+8	fr_lib	ADV	פֿר_ליב	fr_lyb	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.201
+1	er	PRO	ער	er	_
+2	vert	VBF	װערט	Vert	_
+3	eyn	D	אײן	AYN	_
+4	ekbr	ADJ	עקבר	ekbr	_
+5	ras	N	ראַס	rAas	_
+6	un'	CONJ	אונ'	Avn'	_
+7	eyn	D	אײן	AYN	_
+8	rkhtr	ADJ	רכטר	rxtr	_
+9	dib	N	דיב	dyb	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.202
+1	un'	CONJ	אונ'	Avn'	_
+2	treybt	VBF	טרײבט	trYbt	_
+3	ali	Q	אַלי	Aaly	_
+4	klut	N	קלוט	klvt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.203
+1	bignbt	VBF	ביגנבט	bygnbt	_
+2	ihudim	N	איהודים	AyhvdyM	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.204
+1	shtelt	VBF	שטעלט	$telt	_
+2	zi	PRO	זי	zy	_
+3	bdlut	H	בדלוט	bdlvt	in_poverty
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.205
+1	brekhn	VBF	ברעכן	brexN	_
+2	zi	PRO	זי	zy	_
+3	bey	P	בײ	bY	_
+4	goym	N	גױם	gWM	_
+5	eyn	RP	אײן	AYN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.206
+1	muz	MDF	מוז	mvz	_
+2	mn	PRO	מן	mN	_
+3	zi	PRO	זי	zy	_
+4	uft	ADV	אופֿט	Avft	_
+5	fun	P	פֿון	fvN	_
+6	der	D	דער	der	_
+7	khlih	N	כליה	xlyh	_
+8	mtsil	RP-H	מציל	mqyl	_
+9	zeyn	VB	זײן	zYN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.207
+1	eyn	D	אײן	AYN	_
+2	teyl	N	טײל	tYl	_
+3	palkin	N	פּאַלקין	pAalkyN	_
+4	gingn	VBF	גינגן	gyngN	_
+5	in	P	אין	AyN	_
+6	ashknz	NPR	אַשקנז	Aa$knz	_
+7	hndln	VB	הנדלן	hndlN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.208
+1	un'	CONJ	אונ'	Avn'	_
+2	trugn	VBF	טרוגן	trvgN	_
+3	pakn	N	פּאַקן	pAakN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.209
+1	di	D	די	dy	_
+2	habn	HVF	האַבן	hAabN	_
+3	oyz	RP	אױז	AWz	_
+4	gteylt	VBN	גטײלט	gtYlt	_
+5	eyn	D	אײן	AYN	_
+6	grusi	ADJ	גרוסי	grvsy	_
+7	mkh	N	מך	mX	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.210
+1	fil	Q	פֿיל	fyl	_
+2	skhurh	N	סכורה	sxvrh	_
+3	tetn	DOF	טעטן	tetN	_
+4	zi	PRO	זי	zy	_
+5	oyz	RP	אױז	AWz	_
+6	bargn	VB	באַרגן	bAargN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.211
+1	abr	CONJ	אַבר	Aabr	_
+2	far	P	פֿאַר	fAar	_
+3	di	D	די	dy	_
+4	btsalung	N	בצאַלונג	bqAalvng	_
+5	tetn	DOF	טעטן	tetN	_
+6	zi	PRO	זי	zy	_
+7	nit	NEG	ניט	nyt	_
+8	zargn	VB	זאַרגן	zAargN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.212
+1	fun	P	פֿון	fvN	_
+2	kind	N	קינד	kynd	_
+3	oyf	RP	אױף	AWF	_
+4	habn	HVF	האַבן	hAabN	_
+5	zi	PRO	זי	zy	_
+6	nit	NEG	ניט	nyt	_
+7	giht	VBN	גיהט	gyht	_
+8	eyn	D	אײן	AYN	_
+9	gnts	ADJ	גנץ	gnQ	_
+10	hemd	N	העמד	hemd	_
+11	oyf	P	אױף	AWF	_
+12	irr	PRO$	אירר	Ayrr	_
+13	hoyt	N	הױט	hWt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.213
+1	itsund	ADV	איצונד	Ayqvnd	_
+2	hubn	HVF	הובן	hvbN	_
+3	menkhi	Q	מענכי	menxy	_
+4	narn	N	נאַרן	nAarN	_
+5	inn	PRO	אינן	AynN	_
+6	kmh	H	קמה	kmh	a_few
+7	maut	H	מאַוט	mAavt	hundreds
+8	fr_troyt	VBN	פֿר_טרױט	fr_trWt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.214
+1	zi	PRO	זי	zy	_
+2	zeyn	BEF	זײן	zYN	_
+3	vaul	ADV	װאַול	VAavl	_
+4	etlikhi	Q	עטליכי	etlyxy	_
+5	mal	N	מל	ml	_
+6	mit	P	מיט	myt	_
+7	gelt	N	געלט	gelt	_
+8	gkumn	VBN	גקומן	gkvmN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.215
+1	hab	HVF	האַב	hAab	_
+2	abr	ADV	אַבר	Aabr	_
+3	tsvey	NUM	צװײ	qVY	_
+4	mal	N	מל	ml	_
+5	azu	ADV	אַזו	Aazv	_
+6	fil	Q	פֿיל	fyl	_
+7	gnumn	VBN	גנומן	gnvmN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.216
+1	zi	PRO	זי	zy	_
+2	tetn	DOF	טעטן	tetN	_
+3	zikh	PRO	זיך	zyX	_
+4	hukh	ADV	הוך	hvX	_
+5	firn	VB	פֿירן	fyrN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.217
+1	mn	PRO	מן	mN	_
+2	kant	MDF	קאַנט	kAant	_
+3	zi	PRO	זי	zy	_
+4	nit	NEG	ניט	nyt	_
+5	gnug	Q	גנוג	gnvg	_
+6	traktirn	VB	טראַקטירן	trAaktyrN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.218
+1	zi	PRO	זי	zy	_
+2	tetn	DOF	טעטן	tetN	_
+3	den	D	דען	deN	_
+4	leytn	N	לײטן	lYtN	_
+5	fil	Q	פֿיל	fyl	_
+6	far	RP	פֿאַר	fAar	_
+7	shvetsn	VB	שװעצן	$VeqN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.219
+1	abr	CONJ	אַבר	Aabr	_
+2	ir	PRO$	איר	Ayr	_
+3	mkhsbh	H	מכסבה	mxsbh	UNKNOWN
+4	reh	N	רעה	reh	_
+5	iz	BEF	איז	Ayz	_
+6	gvezn	VBN	גװעזן	gVezN	_
+7	an	RP	אַן	AaN	_
+8	tsu	TO	צו	qv	_
+9	zetsn	VB	זעצן	zeqN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.220
+1	menkhr	Q	מענכר	menxr	_
+2	zagt	VBF	זאַגט	zAagt	_
+3	ikh	PRO	איך	AyX	_
+4	bin	BEF	בין	byN	_
+5	gngn	VBN	גנגן	gngN	_
+6	oyf	P	אױף	AWF	_
+7	den	D	דען	deN	_
+8	feld	N	פֿעלד	feld	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,547.221
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	gzlnim	N	גזלנים	gzlnyM	_
+4	hubn	HVF	הובן	hvbN	_
+5	mir	PRO	מיר	myr	_
+6	gnumn	VBN	גנומן	gnvmN	_
+7	meyn	PRO$	מײן	mYN	_
+8	gelt	N	געלט	gelt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,548.223
+1	abr	CONJ	אַבר	Aabr	_
+2	dz	D	דז	dz	_
+3	gnibh	ADJ	גניבה	gnybh	_
+4	gelt	N	געלט	gelt	_
+5	un'	CONJ	אונ'	Avn'	_
+6	oyz_bargn	N	אױז_באַרגן	AWz_bAargN	_
+7	gvert	VBF	גװערט	gVert	_
+8	nit	NEG	ניט	nyt	_
+9	biz	P	ביז	byz	_
+10	margn	N	מאַרגן	mAargN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,548.224
+1	drum	DR+P	דרום	drvM	_
+2	ir	PRO	איר	Ayr	_
+3	palkin	N	פּאַלקין	pAalkyN	_
+4	ir	PRO	איר	Ayr	_
+5	hndlt	VBF	הנדלט	hndlt	_
+6	un'	CONJ	אונ'	Avn'	_
+7	gnbt	VBF	גנבט	gnbt	_
+8	un'	CONJ	אונ'	Avn'	_
+9	snart	VBF	סנאַרט	snAart	_
+10	oykh	ADV	אױך	AWX	_
+11	dr_bey	DR+P	דר_בײ	dr_bY	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,548.225
+1	un'	CONJ	אונ'	Avn'	_
+2	ez	ES	עז	ez	_
+3	hilft	VBF	הילפֿט	hylft	_
+4	niks	Q	ניקס	nyks	_
+5	al	Q	אַל	Aal	_
+6	drey	NUM	דרײ	drY	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,548.226
+1	ven	C	װען	VeN	_
+2	mn	PRO	מן	mN	_
+3	eykh	PRO	אײך	AYX	_
+4	palkin	N	פּאַלקין	pAalkyN	_
+5	tut	DOF	טוט	tvt	_
+6	tsu	RP	צו	qv	_
+7	hern	VB	הערן	herN	_
+8	meynt	VBF	מײנט	mYnt	_
+9	mn	PRO	מן	mN	_
+10	nit	NEG	ניט	nyt	_
+11	dz	C	דז	dz	_
+12	ier	PRO	איער	Ayer	_
+13	gleykhn	ADJ	גלײכן	glYxN	_
+14	in	P	אין	AyN	_
+15	eulm	N	עולם	evlM	_
+16	vern	VBF	װערן	VerN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,548.227
+1	dz	D	דז	dz	_
+2	zag	VBF	זאַג	zAag	_
+3	ikh	PRO	איך	AyX	_
+4	un_fr_hulin	ADV	אונ_פֿר_הולין	Avn_fr_hvlyN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,548.228
+1	ikh	PRO	איך	AyX	_
+2	meyn	VBF	מײן	mYN	_
+3	nit	NEG	ניט	nyt	_
+4	gnts	ADJ	גנץ	gnQ	_
+5	pulin	NPR	פּולין	pvlyN	_
+6	neyart	FP	נײאַרט	nYAart	_
+7	in	P	אין	AyN	_
+8	gmeyn	ADJ	גמײן	gmYN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,548.229
+1	di	D	די	dy	_
+2	palkin	N	פּאַלקין	pAalkyN	_
+3	di	WPRO	די	dy	_
+4	in	P	אין	AyN	_
+5	ashknz	NPR	אַשקנז	Aa$knz	_
+6	zeyn	VBF	זײן	zYN	_
+7	zikh	PRO	זיך	zyX	_
+8	oyf	P	אױף	AWF	_
+9	zelkhi	ADJ	זעלכי	zelxy	_
+10	zakhn	N	זאַכן	zAaxN	_
+11	lign	VBF	ליגן	lygN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,548.230
+1	un'	CONJ	אונ'	Avn'	_
+2	nakh	P	נ"ך	n"X	_
+3	hshm	H	השם	h$M	the_name
+4	itbrkh	H	איטברך	AytbrX	may_be_blessed
+5	un	CONJ	און	AvN	_
+6	nakh	P	נ"ך	n"X	_
+7	zeyn	PRO$	זײן	zYN	_
+8	gbat	N	גבאַט	gbAat	_
+9	niks	Q	ניקס	nyks	_
+10	fregn	VBF	פֿרעגן	fregN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,548.231
+1	kumt	VBF	קומט	kvmt	_
+2	menkhr	Q	מענכר	menxr	_
+3	in	P	אין	AyN	_
+4	ashknz	NPR	אַשקנז	Aa$knz	_
+5	un'	CONJ	אונ'	Avn'	_
+6	tut	DOF	טוט	tvt	_
+7	zeyn	PRO$	זײן	zYN	_
+8	bart	N	באַרט	bAart	_
+9	streykhn	VB	סטרײכן	strYxN	_
+10	er	PRO	ער	er	_
+11	meynt	VBF	מײנט	mYnt	_
+12	ez	ES	עז	ez	_
+13	ver	VBF	װער	Ver	_
+14	nit	NEG	ניט	nyt	_
+15	fr_hndn	ADJ	פֿר_הנדן	fr_hndN	_
+16	zeyns	PRO$	זײנס	zYns	_
+17	gleykhn	N	גלײכן	glYxN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,548.232
+1	er	PRO	ער	er	_
+2	toyg	VBF	טױג	tWg	_
+3	nakh	P	נ"ך	n"X	_
+4	kidus	N	קידוס	kydvs	_
+5	nakh	CONJ	נ"ך	n"X	_
+6	tsu	P	צו	qv	_
+7	hbdlh	N	הבדלה	hbdlh	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,548.233
+1	un'	CONJ	אונ'	Avn'	_
+2	gibt	VBF	גיבט	gybt	_
+3	zikh	PRO	זיך	zyX	_
+4	oyz	RP	אױז	AWz	_
+5	az	P	אַז	Aaz	_
+6	ven	C	װען	VeN	_
+7	er	PRO	ער	er	_
+8	ver	VBF	װער	Ver	_
+9	dr	D	דר	dr	_
+10	rb	N	רב	rb	_
+11	fun	P	פֿון	fvN	_
+12	kraka	NPR	קראַקאַ	krAakAa	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,548.234
+1	er	PRO	ער	er	_
+2	meynt	VBF	מײנט	mYnt	_
+3	er	PRO	ער	er	_
+4	vil	MDF	װיל	Vyl	_
+5	ashknz	NPR	אַשקנז	Aa$knz	_
+6	fapin	VB	פֿאַפּין	fAapyN	_
+7	az	C	אַז	Aaz	_
+8	mn	PRO	מן	mN	_
+9	im	PRO	אים	AyM	_
+10	vert	RDF	װערט	Vert	_
+11	den	D	דען	deN	_
+12	beytl	N	בײטל	bYtl	_
+13	an	RP	אַן	AaN	_
+14	shtapn	VB	שטאַפּן	$tAapN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,548.235
+1	du_aribr	DR+P	דו_אַריבר	dv_Aarybr	_
+2	tut	DOF	טוט	tvt	_
+3	menkhr	Q	מענכר	menxr	_
+4	gutr	ADJ	גוטר	gvtr	_
+5	man	N	מאַן	mAaN	_
+6	eyn	RP	אײן	AYN	_
+7	bisn	VB	ביסן	bysN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,548.236
+1	un'	CONJ	אונ'	Avn'	_
+2	di	D	די	dy	_
+3	rmaim	N	רמאַיִם	rmAayiM	_
+4	tut	DOF	טוט	tvt	_
+5	ez	PRO	עז	ez	_
+6	gnisn	VB	גניסן	gnysN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,548.237
+1	ligt	VBF	ליגט	lygt	_
+2	mn	PRO	מן	mN	_
+3	oykh	PRO	אױך	AWX	_
+4	eyn	D	אײן	AYN	_
+5	stik	N	סטיק	styk	_
+6	fleysh	N	פֿלײש	flY$	_
+7	oyf	P	אױף	AWF	_
+8	den	D	דען	deN	_
+9	telir	N	טעליר	telyr	_
+10	ez	PRO	עז	ez	_
+11	fr_shvint	VBF	פֿר_שװינט	fr_$Vynt	_
+12	az	C	אַז	Aaz	_
+13	ez	PRO	עז	ez	_
+14	felt	VBF	פֿעלט	felt	_
+15	in	P	אין	AyN	_
+16	eyn	D	אײן	AYN	_
+17	kelr	N	קעלר	kelr	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,548.238
+1	ir	PRO	איר	Ayr	_
+2	meynt	VBF	מײנט	mYnt	_
+3	di	D	די	dy	_
+4	uksn	N	אוקסן	AvksN	_
+5	kumn	VBF	קומן	kvmN	_
+6	in	P	אין	AyN	_
+7	stal	N	סטאַל	stAal	_
+8	gbratn	ADJ	גבראַטן	gbrAatN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,548.239
+1	un	CONJ	און	AvN	_
+2	ver	WPRO	װער	Ver	_
+3	hut	HVF	הוט	hvt	_
+4	nakh	P	נ"ך	n"X	_
+5	eykh	PRO	אײך	AYX	_
+6	gshikt	VBN	גשיקט	g$ykt	_
+7	eyn	D	אײן	AYN	_
+8	batn	N	באַטן	bAatN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,548.240
+1	ir	PRO	איר	Ayr	_
+2	velt	MDF	װעלט	Velt	_
+3	imr	ADV	אימר	Aymr	_
+4	esn	VB	עסן	esN	_
+5	frish	ADJ	פֿריש	fry$	_
+6	fleysh	N	פֿלײש	flY$	_
+7	in	P	אין	AyN	_
+8	dr	D	דר	dr	_
+9	yuaikh	N	יואַיִך	yvAayiX	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,548.241
+1	mir	PRO	מיר	myr	_
+2	makhn	VBF	מאַכן	mAaxN	_
+3	es	PRO	עס	es	_
+4	libr	ADV	ליבר	lybr	_
+5	in	P	אין	AyN	_
+6	zlts	N	זלץ	zlQ	_
+7	udr	CONJ	אודר	Avdr	_
+8	roykh	N	רױך	rWX	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,548.242
+1	mn	PRO	מן	mN	_
+2	muz	MDF	מוז	mvz	_
+3	ez	PRO	עז	ez	_
+4	mkhin	VB	מכין	mxyN	_
+5	vi	WADV	װי	Vy	_
+6	mn	PRO	מן	mN	_
+7	kan	MDF	ק"ן	k"N	_
+8	un'	CONJ	אונ'	Avn'	_
+9	mag	MDF	מאַג	mAag	_
+10	dz	C	דז	dz	_
+11	mn	PRO	מן	mN	_
+12	dr_bey	DR+P	דר_בײ	dr_bY	_
+13	bleybn	VB	בלײבן	blYbN	_
+14	kan	MDF	ק"ן	k"N	_
+15	zeyn	PRO$	זײן	zYN	_
+16	lebn_tag	N	לעבנ_טאַג	lebn_tAag	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,548.243
+1	un'	CONJ	אונ'	Avn'	_
+2	mir	PRO	מיר	myr	_
+3	ashknzim	NPR	אַשקנזים	Aa$knzyM	_
+4	habn	HVF	האַבן	hAabN	_
+5	unzr	PRO$	אונזר	Avnzr	_
+6	mkheyh	N	מכײה	mxYh	_
+7	gstelt	VBN	גסטעלט	gstelt	_
+8	ds	D	דס	ds	_
+9	meynst	QS	מײנסט	mYnst	_
+10	in	P	אין	AyN	_
+11	hoyz	N	הױז	hWz	_
+12	un	CONJ	און	AvN	_
+13	nit	NEG	ניט	nyt	_
+14	fil	Q	פֿיל	fyl	_
+15	ibr	P	איבר	Aybr	_
+16	feld	N	פֿעלד	feld	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,548.244
+1	azu	ADV	אַזו	Aazv	_
+2	tsikht	VBF	ציכט	qyxt	_
+3	dakh	ADV	דאַך	dAaX	_
+4	keynr	Q	קײנר	kYnr	_
+5	in	P	אין	AyN	_
+6	pulin	NPR	פּולין	pvlyN	_
+7	um	C	אום	AvM	_
+8	gelt	N	געלט	gelt	_
+9	fun	P	פֿון	fvN	_
+10	dartn	ADV	דאַרטן	dAartN	_
+11	tsu	TO	צו	qv	_
+12	huln	VB	הולן	hvlN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,549.246
+1	mn	PRO	מן	mN	_
+2	zal	MDF	ז"ל	z"l	_
+3	nit	NEG	ניט	nyt	_
+4	veyt	ADV	װײט	VYt	_
+5	tsihn	VB	ציהן	qyhN	_
+6	fun	P	פֿון	fvN	_
+7	veyb	N	װײב	VYb	_
+8	un	CONJ	און	AvN	_
+9	kind	N	קינד	kynd	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,549.247
+1	adr	CONJ	אַדר	Aadr	_
+2	mn	PRO	מן	mN	_
+3	zal	MDF	ז"ל	z"l	_
+4	el	H	על	el	on
+5	kl	H	קל	kl	all
+6	pnim	H	פּנים	pnyM	faces
+7	vidr	ADV	װידר	Vydr	_
+8	kumn	VB	קומן	kvmN	_
+9	gshvind	ADV	גשװינד	g$Vynd	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,549.248
+1	in	P	אין	AyN	_
+2	ashknz	NPR	אַשקנז	Aa$knz	_
+3	iz	VBF	איז	Ayz	_
+4	zikh	PRO	זיך	zyX	_
+5	der	D	דער	der	_
+6	eni	N	עני	eny	_
+7	nit	NEG	ניט	nyt	_
+8	an	P	אַן	AaN	_
+9	den	D	דען	deN	_
+10	eusr	N	עוסר	evsr	_
+11	mkna	RP-H	מקנאַ	mknAa	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,549.249
+1	er	PRO	ער	er	_
+2	iz	VBF	איז	Ayz	_
+3	zikh	PRO	זיך	zyX	_
+4	mshmkh	H	משמך	m$mX	with_joy
+5	bkhlku	H	בכלקו	bxlkv	with_part_his
+6	un'	CONJ	אונ'	Avn'	_
+7	mit	P	מיט	myt	_
+8	veyb	N	װײב	VYb	_
+9	un'	CONJ	אונ'	Avn'	_
+10	kindr	N	קינדר	kyndr	_
+11	mhnh	H	מהנה	mhnh	UNKNOWN
+
+SENT	1675E-ASHKENAZ-UN-POLAK,549.250
+1	dr	D	דר	dr	_
+2	zkhut	N	זכוט	zxvt	_
+3	stit	VBF	סטיט	styt	_
+4	unz	PRO	אונז	Avnz	_
+5	bey	RP	בײ	bY	_
+6	ali	Q	אַלי	Aaly	_
+7	maln	N	מלן	mlN	_
+8	ds	C	דס	ds	_
+9	mir	PRO	מיר	myr	_
+10	mit	P	מיט	myt	_
+11	di	D	די	dy	_
+12	veybr	N	װײבר	VYbr	_
+13	lebn	VBF	לעבן	lebN	_
+14	liplikh	ADV	ליפּליך	lyplyX	_
+15	un'	CONJ	אונ'	Avn'	_
+16	vaul	ADV	װאַול	VAavl	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,549.251
+1	un'	CONJ	אונ'	Avn'	_
+2	oykh	ADV	אױך	AWX	_
+3	gfint	VBF	גפֿינט	gfynt	_
+4	mn	PRO	מן	mN	_
+5	nit	NEG	ניט	nyt	_
+6	ven	C	װען	VeN	_
+7	mn	PRO	מן	mN	_
+8	shun	ADV	שון	$vN	_
+9	in	P	אין	AyN	_
+10	ashknz	NPR	אַשקנז	Aa$knz	_
+11	vil	MDF	װיל	Vyl	_
+12	zukhn	VB	זוכן	zvxN	_
+13	ds	C	דס	ds	_
+14	eyn	D	אײן	AYN	_
+15	veyb	N	װײב	VYb	_
+16	den	D	דען	deN	_
+17	man	N	מאַן	mAaN	_
+18	tut	DOF	טוט	tvt	_
+19	shelmn	VB	שעלמן	$elmN	_
+20	un'	CONJ	אונ'	Avn'	_
+21	flukhn	VB	פֿלוכן	flvxN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,549.252
+1	oykh	ADV	אױך	AWX	_
+2	tun	DOF	טון	tvN	_
+3	mir	PRO	מיר	myr	_
+4	far	P	פֿאַר	fAar	_
+5	unzri	PRO$	אונזרי	Avnzry	_
+6	kindr	N	קינדר	kyndr	_
+7	keyn	Q	קײן	kYN	_
+8	shidukh	N	שידוך	$ydvX	_
+9	nit	NEG	ניט	nyt	_
+10	tsu	RP	צו	qv	_
+11	hern	VB	הערן	herN	_
+12	biz	C	ביז	byz	_
+13	mir	PRO	מיר	myr	_
+14	erst	ADV	ערסט	erst	_
+15	visn	VBF	װיסן	VysN	_
+16	ds	C	דס	ds	_
+17	zi	PRO	זי	zy	_
+18	zikh	PRO	זיך	zyX	_
+19	kenn	MDF	קענן	kenN	_
+20	der_nern	VB	דער_נערן	der_nerN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,549.253
+1	abr	CONJ	אַבר	Aabr	_
+2	nakh	ADV	נ"ך	n"X	_
+3	gleykh_vaul	ADV	גלײכ_װאַול	glYx_VAavl	_
+4	palkin	N	פּאַלקין	pAalkyN	_
+5	zagt	VBI	זאַגט	zAagt	_
+6	mir	PRO	מיר	myr	_
+7	her	RP-ADV	הער	her	_
+8	vaz	WPRO	װאַז	VAaz	_
+9	da	ADV	דאַ	dAa	_
+10	iz	VBF	איז	Ayz	_
+11	mit	P	מיט	myt	_
+12	di	D	די	dy	_
+13	pregr	N	פּרעגר	pregr	_
+14	dr	D	דר	dr	_
+15	mer	N	מער	mer	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,549.254
+1	di	D	די	dy	_
+2	pregr	N	פּרעגר	pregr	_
+3	tun	DOF	טון	tvN	_
+4	vaul	ADV	װאַול	VAavl	_
+5	esn	VB	עסן	esN	_
+6	un	CONJ	און	AvN	_
+7	vaul	ADV	װאַול	VAavl	_
+8	trinkn	VB	טרינקן	trynkN	_
+9	al	Q	אַל	Aal	_
+10	ali	Q	אַלי	Aaly	_
+11	tseyt	N	צײט	qYt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,549.255
+1	un'	CONJ	אונ'	Avn'	_
+2	veln	MDF	װעלן	VelN	_
+3	di	D	די	dy	_
+4	gresti	ADJS	גרעסטי	gresty	_
+5	khkhmim	N	ככמים	xxmyM	_
+6	zeyn	VB	זײן	zYN	_
+7	tsvishn	P	צװישן	qVy$N	_
+8	ali	Q	אַלי	Aaly	_
+9	tseyt	N	צײט	qYt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,549.256
+1	er	PRO	ער	er	_
+2	hlt	VBF	הלט	hlt	_
+3	fil	Q	פֿיל	fyl	_
+4	fun	P	פֿון	fvN	_
+5	zikh	PRO	זיך	zyX	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,549.257
+1	er	PRO	ער	er	_
+2	meynt	VBF	מײנט	mYnt	_
+3	,	PUNC	,	,	_
+4	andri	ADJ	אַנדרי	Aandry	_
+5	leyt	N	לײט	lYt	_
+6	zeyn	VBF	זײן	zYN	_
+7	az	P	אַז	Aaz	_
+8	daz	D	דאַז	dAaz	_
+9	fikh	N	פֿיך	fyX	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,549.258
+1	er	PRO	ער	er	_
+2	muz	MDF	מוז	mvz	_
+3	imr	ADV	אימר	Aymr	_
+4	habn	VB	האַבן	hAabN	_
+5	eyn	D	אײן	AYN	_
+6	bloyan	ADJ	בלױאַן	blWAaN	_
+7	gligtn	ADJ	גליגטן	glygtN	_
+8	kragn	N	קראַגן	krAagN	_
+9	oyz	P	אױז	AWz	_
+10	dr	D	דר	dr	_
+11	gar_kukh	N	גאַר_קוך	gAar_kvX	_
+12	tsu	P	צו	qv	_
+13	mitag	N	מיטאַג	mytAag	_
+14	eyn	D	אײן	AYN	_
+15	gfiltn	ADJ	גפֿילטן	gfyltN	_
+16	magn	N	מאַגן	mAagN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,549.259
+1	er	PRO	ער	er	_
+2	kan	MDF	ק"ן	k"N	_
+3	nit	NEG	ניט	nyt	_
+4	sbut	N	סבוט	sbvt	_
+5	mkhn	VB	מכן	mxN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,549.260
+1	freytag	N	פֿרײטאַג	frYtAag	_
+2	tsu	P	צו	qv	_
+3	nkht	N	נכט	nxt	_
+4	lemplikh	N	לעמפּליך	lemplyX	_
+5	gbakn	VBN	גבאַקן	gbAakN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,549.261
+1	zunstn	ADV	זונסטן	zvnstN	_
+2	kem	VBF	קעם	keM	_
+3	er	PRO	ער	er	_
+4	nit	NEG	ניט	nyt	_
+5	tsu	P	צו	qv	_
+6	tish	N	טיש	ty$	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,549.262
+1	muz	MDF	מוז	mvz	_
+2	oykh	ADV	אױך	AWX	_
+3	habn	VB	האַבן	hAabN	_
+4	hinr	N	הינר	hynr	_
+5	un	CONJ	און	AvN	_
+6	fish	N	פֿיש	fy$	_
+7	fil	Q	פֿיל	fyl	_
+8	likhtr	N	ליכטר	lyxtr	_
+9	un'	CONJ	אונ'	Avn'	_
+10	kreysl_verk	N	קרײסל_װערק	krYsl_Verk	_
+11	un'	CONJ	אונ'	Avn'	_
+12	alir_ley	Q	אַליר_לײ	Aalyr_lY	_
+13	veyn	N	װײן	VYN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,549.263
+1	ez	ES	עז	ez	_
+2	muz	MDF	מוז	mvz	_
+3	fr	P	פֿר	fr	_
+4	var	ADV	װאַר	VAar	_
+5	gelt	N	געלט	gelt	_
+6	dr_tsu	DR+P	דר_צו	dr_qv	_
+7	zeyn	VB	זײן	zYN	_
+8	oykh	ADV	אױך	AWX	_
+9	veyn	N	װײן	VYN	_
+10	un'	CONJ	אונ'	Avn'	_
+11	bitr	ADJ	ביטר	bytr	_
+12	bir	N	ביר	byr	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,549.264
+1	un'	CONJ	אונ'	Avn'	_
+2	tsu	P	צו	qv	_
+3	sbt	N	סבט	sbt	_
+4	verft	VBF	װערפֿט	Verft	_
+5	er	PRO	ער	er	_
+6	den	D	דען	deN	_
+7	beytl	N	בײטל	bYtl	_
+8	intr	P	אינטר	Ayntr	_
+9	dr	D	דר	dr	_
+10	tir	N	טיר	tyr	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,549.265
+1	kumt	VBF	קומט	kvmt	_
+2	eyn	D	אײן	AYN	_
+3	urkh	N	אורך	AvrX	_
+4	nakh	P	נ"ך	n"X	_
+5	prag	NPR	פּראַג	prAag	_
+6	oyz	P	אױז	AWz	_
+7	fremdn	ADJ	פֿרעמדן	fremdN	_
+8	lnd	N	לנד	lnd	_
+9	dr	D	דר	dr	_
+10	pregr	N	פּרעגר	pregr	_
+11	gibt	VBF	גיבט	gybt	_
+12	im	PRO	אים	AyM	_
+13	slum	H	סלום	slvM	peace
+14	elikm	H	עליקם	elykM	upon_you
+
+SENT	1675E-ASHKENAZ-UN-POLAK,549.266
+1	kvetsht	VBF	קװעטשט	kVet$t	_
+2	im	PRO	אים	AyM	_
+3	di	D	די	dy	_
+4	hnt	N	הנט	hnt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,550.268
+1	dr	D	דר	dr	_
+2	urkh	N	אורך	AvrX	_
+3	meynt	VBF	מײנט	mYnt	_
+4	er	PRO	ער	er	_
+5	ver	RDF	װער	Ver	_
+6	zeyn	VB	זײן	zYN	_
+7	krub	ADJ	קרוב	krvb	_
+8	gnts	ADV	גנץ	gnQ	_
+9	un'	CONJ	אונ'	Avn'	_
+10	pst	ADJ	פּסט	pst	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,550.269
+1	dr	D	דר	dr	_
+2	pregr	N	פּרעגר	pregr	_
+3	zagt	VBF	זאַגט	zAagt	_
+4	:	PUNC	:	:	_
+5	oyf	P	אױף	AWF	_
+6	dr	D	דר	dr	_
+7	nkht	N	נכט	nxt	_
+8	zeyt	VBI	זײט	zYt	_
+9	meyn	PRO$	מײן	mYN	_
+10	gast	N	גאַסט	gAast	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,550.270
+1	dr	D	דר	dr	_
+2	urkh	N	אורך	AvrX	_
+3	iz	VBF	איז	Ayz	_
+4	zer	ADV	זער	zer	_
+5	fru	ADJ	פֿרו	frv	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,550.271
+1	dr_nakh	DR+P	דר_נאַך	dr_nAaX	_
+2	iz	VBF	איז	Ayz	_
+3	hintn	ADV	הינטן	hyntN	_
+4	un'	CONJ	אונ'	Avn'	_
+5	farn	ADV	פֿאַרן	fAarN	_
+6	nisht	Q	נישט	ny$t	_
+7	da	ADV	דאַ	dAa	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,550.272
+1	dr	D	דר	dr	_
+2	pregr	N	פּרעגר	pregr	_
+3	sprikht	VBF	ספּריכט	spryxt	_
+4	kumt	VBI	קומט	kvmt	_
+5	mit	P	מיט	myt	_
+6	mir	PRO	מיר	myr	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,550.273
+1	ikh	PRO	איך	AyX	_
+2	vil	MDF	װיל	Vyl	_
+3	eykh	PRO	אײך	AYX	_
+4	tun	DO	טון	tvN	_
+5	koyfn	VB	קױפֿן	kWfN	_
+6	eyn	D	אײן	AYN	_
+7	pint	N	פּינט	pynt	_
+8	bitr	ADJ	ביטר	bytr	_
+9	bir	N	ביר	byr	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,550.274
+1	er	PRO	ער	er	_
+2	firt	VBF	פֿירט	fyrt	_
+3	den	D	דען	deN	_
+4	urkh	N	אורך	AvrX	_
+5	in	P	אין	AyN	_
+6	kelir	N	קעליר	kelyr	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,550.275
+1	dr	D	דר	dr	_
+2	pregr	N	פּרעגר	pregr	_
+3	hut	VBF	הוט	hvt	_
+4	in	P	אין	AyN	_
+5	beytl	N	בײטל	bYtl	_
+6	keyn	Q	קײן	kYN	_
+7	helir	N	העליר	helyr	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,550.276
+1	di	D	די	dy	_
+2	virtn	N	װירטן	VyrtN	_
+3	shenkt	VBF	שענקט	$enkt	_
+4	eyns	PRO	אײנס	AYns	_
+5	nakh	P	נ"ך	n"X	_
+6	den	D	דען	deN	_
+7	andrn	ADJ	אַנדרן	AandrN	_
+8	eyn	RP	אײן	AYN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,550.277
+1	der	D	דער	der	_
+2	pregr	N	פּרעגר	pregr	_
+3	zagt	VBF	זאַגט	zAagt	_
+4-5	tsum	P~D	צום	qvM	_
+4	tsu	P	צו	qv	_
+5	m	D	מ	m	_
+6	urkh	N	אורך	AvrX	_
+7	ikh	PRO	איך	AyX	_
+8	vil	MDF	װיל	Vyl	_
+9	eyn_mal	ADV	אײנ_מאַל	AYn_mAal	_
+10	gin	VB	גין	gyN	_
+11	mshtin	RP-H	משטין	m$tyN	_
+12	zeyn	VB	זײן	zYN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,550.278
+1	der	D	דער	der	_
+2	urkh	N	אורך	AvrX	_
+3	bleybt	VBF	בלײבט	blYbt	_
+4	gar	ADV	גאַר	gAar	_
+5	lng	ADV	לנג	lng	_
+6	zitsn	RP-V	זיצן	zyqN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,550.279
+1	fr	P	פֿר	fr	_
+2	angst	N	אַנגסט	Aangst	_
+3	hibt	VBF	היבט	hybt	_
+4	er	PRO	ער	er	_
+5	an	RP	אַן	AaN	_
+6	tsu	TO	צו	qv	_
+7	shvitsn	VB	שװיצן	$VyqN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,550.280
+1	er	PRO	ער	er	_
+2	hibt	VBF	היבט	hybt	_
+3	an	RP	אַן	AaN	_
+4	tsu	TO	צו	qv	_
+5	fr_stin	VB	פֿר_סטין	fr_styN	_
+6	di	D	די	dy	_
+7	zakhn	N	זאַכן	zAaxN	_
+8	vi	WADV	װי	Vy	_
+9	im	PRO	אים	AyM	_
+10	der	D	דער	der	_
+11	pragr	N	פּראַגר	prAagr	_
+12	hat	HVF	האַט	hAat	_
+13	gtan	DON	גטאַן	gtAaN	_
+14	di	D	די	dy	_
+15	zkh	N	זך	zX	_
+16	mkhin	VB	מכין	mxyN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,550.281
+1	drum	DR+P	דרום	drvM	_
+2	zul	MDF	זול	zvl	_
+3	zikh	PRO	זיך	zyX	_
+4	idr	Q	אידר	Aydr	_
+5	urkh	N	אורך	AvrX	_
+6	tsu	P	צו	qv	_
+7	prag	NPR	פּראַג	prAag	_
+8	fir	RP	פֿיר	fyr	_
+9	zehn	VB	זעהן	zehN	_
+10	dz	C	דז	dz	_
+11	im	PRO	אים	AyM	_
+12	oykh	ADV	אױך	AWX	_
+13	nit	NEG	ניט	nyt	_
+14	zu	ADV	זו	zv	_
+15	zul	MDF	זול	zvl	_
+16	gsehn	VB	גסעהן	gsehN	_
+17	ds	C	דס	ds	_
+18	oykh	ADV	אױך	AWX	_
+19	gsehn	VBN	גסעהן	gsehN	_
+20	iz	BEF	איז	Ayz	_
+21	tsu	P	צו	qv	_
+22	prag	NPR	פּראַג	prAag	_
+23	dem	D	דעם	deM	_
+24	polk	N	פּאָלק	pAolk	_
+25	ebn	FP	עבן	ebN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,550.282
+1	mn	PRO	מן	mN	_
+2	brakht	VBF	בראַכט	brAaxt	_
+3	im	PRO	אים	AyM	_
+4	den	D	דען	deN	_
+5	tlit	N	טליט	tlyt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,550.283
+1	un'	CONJ	אונ'	Avn'	_
+2	mn	PRO	מן	mN	_
+3	var	VBF	װאַר	VAar	_
+4	in	PRO	אין	AyN	_
+5	mkbr	RP-H	מקבר	mkbr	_
+6	di	D	די	dy	_
+7	urgl	N	אורגל	Avrgl	_
+8	tsu	TO	צו	qv	_
+9	hibn	VB	היבן	hybN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,550.284
+1	entfrt	VBF	ענטפֿרט	entfrt	_
+2	der	D	דער	der	_
+3	pregir	N	פּרעגיר	pregyr	_
+4	ikh	PRO	איך	AyX	_
+5	hab	HVF	האַב	hAab	_
+6	eykh	PRO	אײך	AYX	_
+7	ashknzim	NPR	אַשקנזים	Aa$knzyM	_
+8	vaul	ADV	װאַול	VAavl	_
+9	fr_numn	VBN	פֿר_נומן	fr_nvmN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,550.285
+1	fr_tsikht	VBI	פֿר_ציכט	fr_qyxt	_
+2	biz	C	ביז	byz	_
+3	ikh	PRO	איך	AyX	_
+4	ver	RDF	װער	Ver	_
+5	kumn	VB	קומן	kvmN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,550.286
+1	ez	PRO	עז	ez	_
+2	zul	MDF	זול	zvl	_
+3	zu	ADV	זו	zv	_
+4	nit	NEG	ניט	nyt	_
+5	dr_bey	DR+P	דר_בײ	dr_bY	_
+6	bleybn	VB	בלײבן	blYbN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,550.287
+1	ikh	PRO	איך	AyX	_
+2	vil	MDF	װיל	Vyl	_
+3	eykh	PRO	אײך	AYX	_
+4	shun	ADV	שון	$vN	_
+5	kl	H	קל	kl	all
+6	dbr	H	דבר	dbr	speech
+7	surs	H	סורס	svrs	UNKNOWN
+8	shreybn	VB	שרײבן	$rYbN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,550.288
+1	vaz	WPRO	װאַז	VAaz	_
+2	valt	MDF	װאַלט	VAalt	_
+3	ir	PRO	איר	Ayr	_
+4	unz	PRO	אונז	Avnz	_
+5	gut	ADJ	גוט	gvt	_
+6	esn	N	עסן	esN	_
+7	un	CONJ	און	AvN	_
+8	trinkn	N	טרינקן	trynkN	_
+9	fr_vern	VB	פֿר_װערן	fr_VerN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,550.289
+1	hsm	H	הסם	hsM	the_name
+2	itbrkh	H	איטברך	AytbrX	may_be_blessed
+3	tut	DOF	טוט	tvt	_
+4	ez	PRO	עז	ez	_
+5	unz	PRO	אונז	Avnz	_
+6	bshern	VB	בשערן	b$erN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,550.290
+1	ven	C	װען	VeN	_
+2	unzri	PRO$	אונזרי	Avnzry	_
+3	eltrn	N	עלטרן	eltrN	_
+4	hetn	HVF	העטן	hetN	_
+5	gvelt	VBN	גװעלט	gVelt	_
+6	zi	PRO	זי	zy	_
+7	hetn	HVF	העטן	hetN	_
+8	fr	P	פֿר	fr	_
+9	unz	PRO	אונז	Avnz	_
+10	oykh	ADV	אױך	AWX	_
+11	gspart	VBN	גספּאַרט	gspAart	_
+12	gelt	N	געלט	gelt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,550.291
+1	aleyn	CONJ	אַלײן	AalYN	_
+2	zi	PRO	זי	zy	_
+3	hubn	HVF	הובן	hvbN	_
+4	tsu	P	צו	qv	_
+5	gat	NPR	גאַט	gAat	_
+6	gtroyat	VBN	גטרױאַט	gtrWAat	_
+7	un	CONJ	און	AvN	_
+8	unz	PRO	אונז	Avnz	_
+9	di	D	די	dy	_
+10	heyligi	ADJ	הײליגי	hYlygy	_
+11	suln	N	סולן	svlN	_
+12	gboyt	VBN	גבױט	gbWt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,550.292
+1	mir	PRO	מיר	myr	_
+2	pregr	N	פּרעגר	pregr	_
+3	zeyn	VBF	זײן	zYN	_
+4	mit	P	מיט	myt	_
+5	unzrn	PRO$	אונזרן	AvnzrN	_
+6	sbl	N	סבל	sbl	_
+7	gar	ADV	גאַר	gAar	_
+8	yust	ADJ	יוסט	yvst	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,550.293
+1	laz	VBI	לאַז	lAaz	_
+2	her	RP-ADV	הער	her	_
+3	kumn	VB	קומן	kvmN	_
+4	vem	WPRO	װעם	VeM	_
+5	dz	D	דז	dz	_
+6	shlim	ADJ	שלים	$lyM	_
+7	mzl	N	מזל	mzl	_
+8	glust	VBF	גלוסט	glvst	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,550.294
+1	un'	CONJ	אונ'	Avn'	_
+2	valt	MDF	װאַלט	VAalt	_
+3	zagn	VB	זאַגן	zAagN	_
+4	er	PRO	ער	er	_
+5	ver	VBF	װער	Ver	_
+6	den	D	דען	deN	_
+7	pregr	ADJ	פּרעגר	pregr	_
+8	khkhm	N	ככם	xxM	_
+9	gnugn	ADV	גנוגן	gnvgN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,550.295
+1	er	PRO	ער	er	_
+2	zal	MDF	ז"ל	z"l	_
+3	nit	NEG	ניט	nyt	_
+4	dr_fun	DR+P	דר_פֿון	dr_fvN	_
+5	kumn	VB	קומן	kvmN	_
+6	un	CONJ	און	AvN	_
+7	btrugn	VB	בטרוגן	btrvgN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,551.296
+1	entfrt	VBF	ענטפֿרט	entfrt	_
+2	der	D	דער	der	_
+3	ashknz	NPR	אַשקנז	Aa$knz	_
+4	oy	INTJ	אױ	AW	_
+5	ir	PRO	איר	Ayr	_
+6	pregr	N	פּרעגר	pregr	_
+7	fr_lazt	VBI	פֿר_לאַזט	fr_lAazt	_
+8	oykh	PRO	אױך	AWX	_
+9	oyf	P	אױף	AWF	_
+10	eyari	PRO$	אײאַרי	AYAary	_
+11	khkhmh	N	ככמה	xxmh	_
+12	nit	NEG	ניט	nyt	_
+13	zu	ADV	זו	zv	_
+14	gar	ADV	גאַר	gAar	_
+15	gvis	ADV	גװיס	gVys	_
+16	dr	D	דר	dr	_
+17	marpsik	X	מאַרפּסיק	mAarpsyk	_
+18	leymn	X	לײמן	lYmN	_
+19	stmpir	X	סטמפּיר	stmpyr	_
+20	mit	P	מיט	myt	_
+21	zeyni	PRO$	זײני	zYny	_
+22	gelh	ADJ	געלה	gelh	_
+23	fis	N	פֿיס	fys	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,551.297
+1	ikh	PRO	איך	AyX	_
+2	gloyb	VBF	גלױב	glWb	_
+3	zi	PRO	זי	zy	_
+4	zeyn	VBF	זײן	zYN	_
+5	kligr	ADJR	קליגר	klygr	_
+6	un'	CONJ	אונ'	Avn'	_
+7	nakh	ADV	נ"ך	n"X	_
+8	mer	QR	מער	mer	_
+9	gsheyt	ADJ	גשײט	g$Yt	_
+10	az	C	אַז	Aaz	_
+11	ir	PRO	איר	Ayr	_
+12	,	PUNC	,	,	_
+13	spits_kepf	N	ספּיצ_קעפּף	spyq_kepF	_
+14	,	PUNC	,	,	_
+15	ir	PRO	איר	Ayr	_
+16	pragr	N	פּראַגר	prAagr	_
+17	zeyt	VBF	זײט	zYt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,551.298
+1	ez	ES	עז	ez	_
+2	iz	VBF	איז	Ayz	_
+3	eyn	D	אײן	AYN	_
+4	sprikh_vart	N	ספּריכ_װאַרט	spryx_VAart	_
+5	eyn	D	אײן	AYN	_
+6	oyg	N	אױג	AWg	_
+7	shent	VBF	שענט	$ent	_
+8	eyn	D	אײן	AYN	_
+9	gntsi	ADJ	גנצי	gnqy	_
+10	bk	N	בק	bk	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,551.299
+1	di	D	די	dy	_
+2	nik_sburgr	N	ניק_סבורגר	nyk_sbvrgr	_
+3	habn	HVF	האַבן	hAabN	_
+4	dakh	ADV	דאַך	dAaX	_
+5	rbi	NPR	רבי	rby	_
+6	slmh	NPR	סלמה	slmh	_
+7	zinger	NPR	זינגער	zynger	_
+8	den	D	דען	deN	_
+9	pregr	N	פּרעגר	pregr	_
+10	areyn	ADV	אַרײן	AarYN	_
+11	ginart	VBN	גינאַרט	gynAart	_
+12	in	P	אין	AyN	_
+13	zak	N	זאַק	zAak	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,551.300
+1	dz	D	דז	dz	_
+2	zalt	MDF	זאַלט	zAalt	_
+3	ir	PRO	איר	Ayr	_
+4	eykh	PRO	אײך	AYX	_
+5	shemn	VB	שעמן	$emN	_
+6	eyer	PRO$	אײער	AYer	_
+7	lebn_tag	N	לעבנ_טאַג	lebn_tAag	_
+8	un'	CONJ	אונ'	Avn'	_
+9	vau	WADV	װאַו	VAav	_
+10	zikh	PRO	זיך	zyX	_
+11	eynr	PRO	אײנר	AYnr	_
+12	nar	FP	נאַר	nAar	_
+13	melt	VBF	מעלט	melt	_
+14	fun	P	פֿון	fvN	_
+15	prag	NPR	פּראַג	prAag	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,551.301
+1	aleyn	CONJ	אַלײן	AalYN	_
+2	di	D	די	dy	_
+3	rmim	N	רמים	rmyM	_
+4	nemn	VBF	נעמן	nemN	_
+5	in	P	אין	AyN	_
+6	mehrn	N	מעהרן	mehrN	_
+7	zer	ADV	זער	zer	_
+8	ibr_hnt	ADV	איבר_הנט	Aybr_hnt	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,551.302
+1	ir	PRO$	איר	Ayr	_
+2	eygni	ADJ	אײגני	AYgny	_
+3	kindr	N	קינדר	kyndr	_
+4	mrmh	RP-H	מרמה	mrmh	_
+5	tsu	TO	צו	qv	_
+6	zeyn	VB	זײן	zYN	_
+7	iz	VBF	איז	Ayz	_
+8	bey	P	בײ	bY	_
+9	zi	PRO	זי	zy	_
+10	keyn	Q	קײן	kYN	_
+11	shnd	N	שנד	$nd	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,551.303
+1	er	PRO	ער	er	_
+2	fr_sprikht	VBF	פֿר_ספּריכט	fr_spryxt	_
+3	den	D	דען	deN	_
+4	eydm	N	אײדם	AYdM	_
+5	drey	NUM	דרײ	drY	_
+6	yar	N	יאַר	yAar	_
+7	di	D	די	dy	_
+8	kost	N	קאָסט	kAost	_
+9	der_tsu	DR+P	דער_צו	der_qv	_
+10	eyn	D	אײן	AYN	_
+11	khlk	N	כלק	xlk	_
+12	an	P	אַן	AaN	_
+13	hoyz	N	הױז	hWz	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,551.304
+1	fir	NUM	פֿיר	fyr	_
+2	vakhn	N	װאַכן	VAaxN	_
+3	nakh	P	נ"ך	n"X	_
+4	der	D	דער	der	_
+5	khtunh	N	כטונה	xtvnh	_
+6	eydm	N	אײדם	AYdM	_
+7-8	vilstu	MDF~PRO	װילסטו	Vylstv	_
+7	vils	MDF	װילס	Vyls	_
+8	tu	PRO	טו	tv	_
+9	esn	VB	עסן	esN	_
+10	fr_zets	VBI	פֿר_זעץ	fr_zeQ	_
+11	den	D	דען	deN	_
+12	tlit	N	טליט	tlyt	_
+13	un'	CONJ	אונ'	Avn'	_
+14	kitl	N	קיטל	kytl	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,551.305
+1	deyn	PRO$	דײן	dYN	_
+2	kast	N	קאַסט	kAast	_
+3	iz	VBF	איז	Ayz	_
+4	oyz	RP	אױז	AWz	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,551.306
+1	den	CONJ	דען	deN	_
+2	keyn	Q	קײן	kYN	_
+3	gelt	N	געלט	gelt	_
+4	iz	VBF	איז	Ayz	_
+5	shun	ADV	שון	$vN	_
+6	da	ADV	דאַ	dAa	_
+7	tsu	TO	צו	qv	_
+8	arnern	VB	אַרנערן	AarnerN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,551.307
+1	in	P	אין	AyN	_
+2	khznut	N	כזנוט	xznvt	_
+3	un	CONJ	און	AvN	_
+4	smsut	N	סמסוט	smsvt	_
+5	un	CONJ	און	AvN	_
+6	rbnut	N	רבנוט	rbnvt	_
+7	hat	HVF	האַט	hAat	_
+8	er	PRO	ער	er	_
+9	di	D	די	dy	_
+10	gdunia	N	גדוניִאַ	gdvnyiAa	_
+11	gitan	DON	גיטאַן	gytAaN	_
+12	an	RP	אַן	AaN	_
+13	vern	VB	װערן	VerN	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,551.308
+1	azu	ADV	אַזו	Aazv	_
+2	git	VBF	גיט	gyt	_
+3	der	D	דער	der	_
+4	armr	ADJ	אַרמר	Aarmr	_
+5	trapf	N	טראַפּף	trAapF	_
+6	arum	ADV	אַרום	AarvM	_
+7	her	RP-ADV	הער	her	_
+8	in	P	אין	AyN	_
+9	di	D	די	dy	_
+10	gas	N	גאַס	gAas	_
+11	vi	P	װי	Vy	_
+12	eyn	D	אײן	AYN	_
+13	puel	H	פּועל	pvel	reality
+14	btl	N	בטל	btl	worthless
+
+SENT	1675E-ASHKENAZ-UN-POLAK,551.309
+1	suf	ADV	סוף	svF	_
+2	muz	MDF	מוז	mvz	_
+3	er	PRO	ער	er	_
+4	oyf	P	אױף	AWF	_
+5	zikh	PRO	זיך	zyX	_
+6	nemn	VB	נעמן	nemN	_
+7	di	D	די	dy	_
+8	glut	N	גלוט	glvt	_
+9	skatl	H	סקאַטל	skAatl	UNKNOWN
+
+SENT	1675E-ASHKENAZ-UN-POLAK,551.310
+1	da_in	DR+P	דאַ_ין	dAa_yN	_
+2	tragt	VBF	טראַגט	trAagt	_
+3	er	PRO	ער	er	_
+4	in	P	אין	AyN	_
+5	di	D	די	dy	_
+6	derfr	N	דערפֿר	derfr	_
+7	eyn	D	אײן	AYN	_
+8	bisl	N	ביסל	bysl	_
+9	bsmit	N	בסמיט	bsmyt	_
+10	un'	CONJ	אונ'	Avn'	_
+11	shun	ADJ	שון	$vN	_
+12	negl	N	נעגל	negl	_
+13	un'	CONJ	אונ'	Avn'	_
+14	shvebl	N	שװעבל	$Vebl	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,551.311
+1	un'	CONJ	אונ'	Avn'	_
+2	kan	MDF	ק"ן	k"N	_
+3	zikh	PRO	זיך	zyX	_
+4	dakh	ADV	דאַך	dAaX	_
+5	arnern	VB	אַרנערן	AarnerN	_
+6	mit	P	מיט	myt	_
+7	azu	ADV	אַזו	Aazv	_
+8	eyn	D	אײן	AYN	_
+9	hlb	N	הלב	hlb	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,551.312
+1	hat	VBF	האַט	hAat	_
+2	eynr	PRO	אײנר	AYnr	_
+3	finf	NUM	פֿינף	fynF	_
+4	gildn	N	גילדן	gyldN	_
+5	er	PRO	ער	er	_
+6	iz	VBF	איז	Ayz	_
+7	mlkh	H	מלך	mlX	king
+8	smkhh	H	סמכה	smxh	joy
+9	un'	CONJ	אונ'	Avn'	_
+10	freylikh	ADJ	פֿרײליך	frYlyX	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,551.313
+1	er	PRO	ער	er	_
+2	stapt	VBF	סטאַפּט	stAapt	_
+3	tsvey	NUM	צװײ	qVY	_
+4	genz	N	גענז	genz	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,551.314
+1	er	PRO	ער	er	_
+2	iz	VBF	איז	Ayz	_
+3	eusr	N	עוסר	evsr	_
+4	mlkh	N	מלך	mlX	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,551.315
+1	abr	CONJ	אַבר	Aabr	_
+2	di	D	די	dy	_
+3	esirim	N	עסירים	esyryM	_
+4	di	D	די	dy	_
+5	zitsn	VBF	זיצן	zyqN	_
+6	in	P	אין	AyN	_
+7	mehrin	N	מעהרין	mehryN	_
+8	zer	ADV	זער	zer	_
+9	vaul	ADV	װאַול	VAavl	_
+10	arts	H	אַרץ	AarQ	land
+11	zbt	H	זבט	zbt	UNKNOWN
+12	khlb	H	כלב	xlb	UNKNOWN
+13	udbs	H	אודבס	Avdbs	UNKNOWN
+14	biz	P	ביז	byz	_
+15	an	P	אַן	AaN	_
+16	das	D	דת	dS	_
+17	moyl	N	מױל	mWl	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,551.316
+1	da_mit	DR+P	דאַ_מיט	dAa_myt	_
+2	nemt	VBI	נעמט	nemt	_
+3	fr_lib	ADV	פֿר_ליב	fr_lyb	_
+4	,	PUNC	,	,	_
+
+SENT	1675E-ASHKENAZ-UN-POLAK,551.317
+1	meyni	PRO$	מײני	mYny	_
+2	rid	N	ריד	ryd	_
+3	zalt	MDF	זאַלט	zAalt	_
+4	zeyn	VB	זײן	zYN	_
+5	fil	Q	פֿיל	fyl	_
+6	puel	H	פּועל	pvel	reality
+

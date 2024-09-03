@@ -1,0 +1,7597 @@
+SENT	1946E-MARK,1.3
+1	a.	LS	אַ.	Aa.	_
+2	a	D	אַ	Aa	_
+3	por	Q	פּאָר	pAor	_
+4	verter	N	װערטער	Verter	_
+5	vegn	P	װעגן	VegN	_
+6	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+7	bkll	ADV	בקלל	bkll	_
+
+SENT	1946E-MARK,1.4
+1	der	D	דער	der	_
+2	seyder	N	סדר	sdr	_
+3	fun	P	פֿון	fvN	_
+4	di	D	די	dy	_
+5	verter	N	װערטער	Verter	_
+6	in	P	אין	AyN	_
+7	dem	D	דעם	deM	_
+8	zats	N	זאַץ	zAaQ	_
+9	iz	VBF	איז	Ayz	_
+10	eyner	PRO	אײנער	AYner	_
+11	fun	P	פֿון	fvN	_
+12	di	D	די	dy	_
+13	hoypt-inyomim	N	הױפּט-איניאָמים	hWpt-AynyAomyM	_
+14	fun	P	פֿון	fvN	_
+15	sintaks	N	סינטאַקס	syntAaks	_
+16	.	PUNC	.	.	_
+
+SENT	1946E-MARK,1.5
+1	in	P	אין	AyN	_
+2	yidish	N	ייִדיש	yyidy$	_
+3	iz	VBF	איז	Ayz	_
+4	dos	D	דאָס	dAos	_
+5	zeyer	ADV	זײער	zYer	_
+6	a	D	אַ	Aa	_
+7	groyser	ADJ	גרױסער	grWser	_
+8	un	CONJ	און	AvN	_
+9	vikhtiker	ADJ	װיכטיקער	Vyxtyker	_
+10	kapitl	N	קאַפּיטל	kAapytl	_
+11	.	PUNC	.	.	_
+
+SENT	1946E-MARK,1.6
+1	afilu	FP	אַפֿילו	Aafylv	_
+2	di	D	די	dy	_
+3	vos	C	װאָס	VAos	_
+4	yidish	N	ייִדיש	yyidy$	_
+5	iz	VBF	איז	Ayz	_
+6	zeyer	PRO$	זײער	zYer	_
+7	natirlekh	ADJ	נאַטירלעך	nAatyrleX	_
+8	loshn	N	לשון	l$vN	_
+9	,	PUNC	,	,	_
+10	zeyer	PRO$	זײער	zYer	_
+11	mutershprakh	N	מוטערשפּראַך	mvter$prAaX	_
+12	,	PUNC	,	,	_
+13	kenen	MDF	קענען	keneN	_
+14	geshtroykhlt	VAN	געשטרױכלט	ge$trWxlt	_
+15	vern	RD	װערן	VerN	_
+16	in	P	אין	AyN	_
+17	gevise	ADJ	געװיסע	geVyse	_
+18	faln	N	פֿאַלן	fAalN	_
+19	,	PUNC	,	,	_
+
+SENT	1946E-MARK,1.7
+1	el	H	על	el	on
+2	akhts	H	אַכץ	AaxQ	except
+3	kmh	H	קמה	kmh	a_few
+4	ukmh	H	אוקמה	Avkmh	and_a_few
+5	iz	VBF	איז	Ayz	_
+6	der	D	דער	der	_
+7	yidisher	ADJ	ייִדישער	yyidy$er	_
+8	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+9	a	D	אַ	Aa	_
+10	harber	ADJ	האַרבער	hAarber	_
+11	inyen	N	ענין	enyN	_
+12	far	P	פֿאַר	fAar	_
+13	di	D	די	dy	_
+14	vos	C	װאָס	VAos	_
+15	zeyer	PRO$	זײער	zYer	_
+16	yidish	N	ייִדיש	yyidy$	_
+17	iz	VBF	איז	Ayz	_
+18	defektiv	ADJ	דעפֿעקטיװ	defektyV	_
+19	un	CONJ	און	AvN	_
+20	htkhlhdik	ADJ	הטכלהדיק	htxlhdyk	_
+21	.	PUNC	.	.	_
+
+SENT	1946E-MARK,1.8
+1	ven	C	װען	VeN	_
+2	di	D	די	dy	_
+3	saykhut	N	סײַכוט	sYaxvt	_
+4	tsvishn	P	צװישן	qVy$N	_
+5	di	D	די	dy	_
+6	verter	N	װערטער	Verter	_
+7	in	P	אין	AyN	_
+8	zats	N	זאַץ	zAaQ	_
+9	drikt	VBF	דריקט	drykt	_
+10	zikh	PRO	זיך	zyX	_
+11	oys	RP	אױס	AWs	_
+12	durkh	P	דורך	dvrX	_
+13	endungen	N	ענדונגען	endvngeN	_
+14	,	PUNC	,	,	_
+15	durkh	P	דורך	dvrX	_
+16	fleksie	N	פֿלעקסיִע	fleksyie	_
+17	fun	P	פֿון	fvN	_
+18	beygfaln	N	בײגפֿאַלן	bYgfAalN	_
+19	,	PUNC	,	,	_
+20	ven	C	װען	VeN	_
+21	man	PRO	מאַן	mAaN	_
+22	kan	MDF	ק"ן	k"N	_
+23	shtendig	ADV	שטענדיג	$tendyg	_
+24	derkonen	VB	דערקאָנען	derkAoneN	_
+25	dem	D	דעם	deM	_
+26	vortklas	N	װאָרטקלאַס	VAortklAas	_
+27	nakh	P	נ"ך	n"X	_
+28	der	D	דער	der	_
+29	endung	N	ענדונג	endvng	_
+30	nokh	P	נאָך	nAoX	_
+31	,	PUNC	,	,	_
+32	yemolt	ADV	יעמאָלט	yemAolt	_
+33	shpilt	VBF	שפּילט	$pylt	_
+34	der	D	דער	der	_
+35	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+36	a	D	אַ	Aa	_
+37	klenere	ADJR	קלענערע	klenere	_
+38	role	N	ראָלע	rAole	_
+39	.	PUNC	.	.	_
+
+SENT	1946E-MARK,1.9
+1	ober	CONJ	אָבער	Aober	_
+2	ven	C	װען	VeN	_
+3	di	D	די	dy	_
+4	flektsie	N	פֿלעקציִע	flekqyie	_
+5	fun	P	פֿון	fvN	_
+6	dem	D	דעם	deM	_
+7	vort	N	װאָרט	VAort	_
+8	in	P	אין	AyN	_
+9	zats	N	זאַץ	zAaQ	_
+10	bashtimt	VBF	באַשטימט	bAa$tymt	_
+11	tsu	P	צו	qv	_
+12	voser	WD	װאָסער	VAoser	_
+13	vortklas	N	װאָרטקלאַס	VAortklAas	_
+14	dos	D	דאָס	dAos	_
+15	vort	N	װאָרט	VAort	_
+16	gehert	VBF	געהערט	gehert	_
+17	,	PUNC	,	,	_
+18	yemolt	ADV	יעמאָלט	yemAolt	_
+19	tret	VBF	טרעט	tret	_
+20	klor	ADV	קלאָר	klAor	_
+21	aroys	ADV	אַרױס	AarWs	_
+22	di	D	די	dy	_
+23	groyse	ADJ	גרױסע	grWse	_
+24	role	N	ראָלע	rAole	_
+25	fun	P	פֿון	fvN	_
+26	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+27	.	PUNC	.	.	_
+
+SENT	1946E-MARK,1.10
+1	vos	WPRO	װאָס	VAos	_
+2	vintsiker	QR	װינציקער	Vynqyker	_
+3	endungen	N	ענדונגען	endvngeN	_
+4	un	CONJ	און	AvN	_
+5	beygungen	N	בײגונגען	bYgvngeN	_
+6	es	PRO	עס	es	_
+7	zeynen	VBF	זײנען	zYneN	_
+8	faran	ADJ	פֿאַראַן	fAarAaN	_
+9	in	P	אין	AyN	_
+10	dem	D	דעם	deM	_
+11	loshn	N	לשון	l$vN	_
+12	alts	Q	אַלץ	AalQ	_
+13	vikhtiker	ADJR	װיכטיקער	Vyxtyker	_
+14	iz	VBF	איז	Ayz	_
+15	der	D	דער	der	_
+16	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+17	vi	P	װי	Vy	_
+18	der	D	דער	der	_
+19	koyekh	N	כּוח	KvH	_
+20	vos	C	װאָס	VAos	_
+21	makht	VBF	מאַכט	mAaxt	_
+22	miglekh	ADJ	מיגלעך	mygleX	_
+23	,	PUNC	,	,	_
+24	vos	C	װאָס	VAos	_
+25	boyt	VBF	בױט	bWt	_
+26	oyf	RP	אױף	AWF	_
+27	dem	D	דעם	deM	_
+28	zats	N	זאַץ	zAaQ	_
+29	.	PUNC	.	.	_
+
+SENT	1946E-MARK,1.11
+1	in	P	אין	AyN	_
+2	yidish	N	ייִדיש	yyidy$	_
+3	iz	VBF	איז	Ayz	_
+4	der	D	דער	der	_
+5	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+6	in	P	אין	AyN	_
+7	zeyer	ADV	זײער	zYer	_
+8	a	D	אַ	Aa	_
+9	groyser	ADJ	גרױסער	grWser	_
+10	mas	N	מס	ms	_
+11	a	D	אַ	Aa	_
+12	gegebener	ADJ	געגעבענער	gegebener	_
+13	,	PUNC	,	,	_
+14	fun	P	פֿון	fvN	_
+15	shtandpunkt	N	שטאַנדפּונקט	$tAandpvnkt	_
+16	fun	P	פֿון	fvN	_
+17	dem	D	דעם	deM	_
+18	reyder	N	רײדער	rYder	_
+19	.	PUNC	.	.	_
+
+SENT	1946E-MARK,1.12
+1	der	D	דער	der	_
+2	ikhid	N	איכיד	Ayxyd	_
+3	hot	VBF	האָט	hAot	_
+4	do	ADV	דאָ	dAo	_
+5	vintsik	Q	װינציק	Vynqyk	_
+6	vos	Q	װאָס	VAos	_
+7	freyheyt	N	פֿרײהײט	frYhYt	_
+8	un	CONJ	און	AvN	_
+9	knape	ADJ	קנאַפּע	knAape	_
+10	miglekhkeytn	N	מיגלעכקײטן	myglexkYtN	_
+11	tsu	TO	צו	qv	_
+12	beytn	VB	בײטן	bYtN	_
+13	un	CONJ	און	AvN	_
+14	tsu	TO	צו	qv	_
+15	variirn	VB	װאַריִיִרן	VAaryiyirN	_
+16	.	PUNC	.	.	_
+
+SENT	1946E-MARK,1.13
+1	der	D	דער	der	_
+2	yidisher	ADJ	ייִדישער	yyidy$er	_
+3	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+4	ken	MDF	קען	keN	_
+5-6	ongerufn	RP~VAN	אָנגערופֿן	AongervfN	_
+5	on	RP	אָן	AoN	_
+6	gerufn	VAN	גערופֿן	gervfN	_
+7	vern	RD	װערן	VerN	_
+8	a	D	אַ	Aa	_
+9	gebundener	N	געבונדענער	gebvndener	_
+10	.	PUNC	.	.	_
+
+SENT	1946E-MARK,1.14
+1	di	D	די	dy	_
+2	vos	C	װאָס	VAos	_
+3	kenen	VBF	קענען	keneN	_
+4	a	D	אַ	Aa	_
+5	slavishe	ADJ	סלאַװישע	slAaVy$e	_
+6	shprakh	N	שפּראַך	$prAaX	_
+7	kenen	MDF	קענען	keneN	_
+8	zeyer	ADV	זײער	zYer	_
+9	gring	ADV	גרינג	gryng	_
+10-11	aynzen	RP~VB	אײַנזען	AYanzeN	_
+10	ayn	RP	אײַן	AYaN	_
+11	zen	VB	זען	zeN	_
+12	az	C	אַז	Aaz	_
+13	der	D	דער	der	_
+14	yidisher	ADJ	ייִדישער	yyidy$er	_
+15	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+16	iz	VBF	איז	Ayz	_
+17	gebundener	ADJR	געבונדענער	gebvndener	_
+18	vi	P	װי	Vy	_
+19	in	P	אין	AyN	_
+20	di	D	די	dy	_
+21	slavishe	ADJ	סלאַװישע	slAaVy$e	_
+22	lashones	N	לאַשאָנעס	lAa$Aones	_
+23	.	PUNC	.	.	_
+
+SENT	1946E-MARK,1.15
+1	vos	WPRO	װאָס	VAos	_
+2	seykh	VBF	סײך	sYX	_
+3	dem	D	דעם	deM	_
+4	hoyptzats	N	הױפּטזאַץ	hWptzAaQ	_
+5	iz	VBF	איז	Ayz	_
+6	der	D	דער	der	_
+7	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+8	fun	P	פֿון	fvN	_
+9	yidish	N	ייִדיש	yyidy$	_
+10	gebundener	ADJR	געבונדענער	gebvndener	_
+11	vi	P	װי	Vy	_
+12	in	P	אין	AyN	_
+13	frantseyzish	N	פֿראַנצײזיש	frAanqYzy$	_
+14	oder	CONJ	אָדער	Aoder	_
+15	deytsh	N	דײטש	dYt$	_
+16	oder	CONJ	אָדער	Aoder	_
+17	english	N	ענגליש	engly$	_
+18	.	PUNC	.	.	_
+
+SENT	1946E-MARK,1.16
+1	ven	C	װען	VeN	_
+2	mir	PRO	מיר	myr	_
+3	hobn	VBF	האָבן	hAobN	_
+4	far	P	פֿאַר	fAar	_
+5	zikh	PRO	זיך	zyX	_
+6	a	D	אַ	Aa	_
+7	konkretn	ADJ	קאָנקרעטן	kAonkretN	_
+8	zats	N	זאַץ	zAaQ	_
+9	,	PUNC	,	,	_
+10	iz	BEF	איז	Ayz	_
+11	der	D	דער	der	_
+12	seyder	N	סדר	sdr	_
+13	fun	P	פֿון	fvN	_
+14	zeyne	PRO$	זײנע	zYne	_
+15	verter	N	װערטער	Verter	_
+16	bashtimt	VAN	באַשטימט	bAa$tymt	_
+17	gevorn	RDN	געװאָרן	geVAorN	_
+18	durkh	P	דורך	dvrX	_
+19	drey	NUM	דרײ	drY	_
+20	faktorn	N	פֿאַקטאָרן	fAaktAorN	_
+21	:	PUNC	:	:	_
+22	dem	D	דעם	deM	_
+23	historishn	N	היסטאָרישן	hystAory$N	_
+24	,	PUNC	,	,	_
+25	dem	D	דעם	deM	_
+26	psikhologishn	N	פּסיכאָלאָגישן	psyxAolAogy$N	_
+27	un	CONJ	און	AvN	_
+28	dem	D	דעם	deM	_
+29	ritmishn	N	ריטמישן	rytmy$N	_
+30	.	PUNC	.	.	_
+
+SENT	1946E-MARK,1.17
+1	der	D	דער	der	_
+2	historisher	ADJ	היסטאָרישער	hystAory$er	_
+3	faktor	N	פֿאַקטאָר	fAaktAor	_
+4	dos	D	דאָס	dAos	_
+5	iz	VBF	איז	Ayz	_
+6	der	D	דער	der	_
+7	eyngeshtelter	ADJ	אײנגעשטעלטער	AYnge$telter	_
+8	seyder	N	סדר	sdr	_
+9	,	PUNC	,	,	_
+
+SENT	1946E-MARK,1.18
+1	dos	D	דאָס	dAos	_
+2	iz	VBF	איז	Ayz	_
+3	a	D	אַ	Aa	_
+4	sistem	N	סיסטעם	systeM	_
+5	fun	P	פֿון	fvN	_
+6-7	oyfboyen	RP~VB	אױפֿבױען	AWfbWeN	_
+6	oyf	RP	אױף	AWF	_
+7	boyen	VB	בױען	bWeN	_
+8	dem	D	דעם	deM	_
+9	zats	N	זאַץ	zAaQ	_
+10	el-pi	P	על-פּי	el-py	_
+11	dem	D	דעם	deM	_
+12	groysn	ADJ	גרױסן	grWsN	_
+13	rov	N	רבֿ	r~	_
+14	analogish	ADV	אַנאַלאָגיש	AanAalAogy$	_
+15	geboytn	ADJ	געבױטן	gebWtN	_
+16	zatsn	N	זאַצן	zAaqN	_
+17	.	PUNC	.	.	_
+
+SENT	1946E-MARK,1.19
+1	der	D	דער	der	_
+2	historisher	ADJ	היסטאָרישער	hystAory$er	_
+3	faktor	N	פֿאַקטאָר	fAaktAor	_
+4	bashtimt	VBF	באַשטימט	bAa$tymt	_
+5	di	D	די	dy	_
+6	hoypt-kllim	N	הױפּט-קללים	hWpt-kllyM	_
+7	fun	P	פֿון	fvN	_
+8	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+9	,	PUNC	,	,	_
+
+SENT	1946E-MARK,1.20
+1	er	PRO	ער	er	_
+2	git	VBF	גיט	gyt	_
+3	dem	D	דעם	deM	_
+4	shnur	N	שנור	$nvr	_
+5	oyf	P	אױף	AWF	_
+6	velkhe	WPRO	װעלכע	Velxe	_
+7	men	PRO	מען	meN	_
+8	tsit	VBF	ציט	qyt	_
+9	aroyf	ADV	אַרױף	AarWF	_
+10	di	D	די	dy	_
+11	bazundere	ADJ	באַזונדערע	bAazvndere	_
+12	verter	N	װערטער	Verter	_
+13	fun	P	פֿון	fvN	_
+14	zats	N	זאַץ	zAaQ	_
+15	.	PUNC	.	.	_
+
+SENT	1946E-MARK,2.21
+1	der	D	דער	der	_
+2	psikhologisher	ADJ	פּסיכאָלאָגישער	psyxAolAogy$er	_
+3	faktor	N	פֿאַקטאָר	fAaktAor	_
+4	vayzt	VBF	װײַזט	VYazt	_
+5	zikh	PRO	זיך	zyX	_
+6	aroys	ADV	אַרױס	AarWs	_
+7	in	P	אין	AyN	_
+8	dem	D	דעם	deM	_
+9	emotsionale	ADJ	עמאָציִאָנאַלע	emAoqyiAonAale	_
+10	bafarbn	N	באַפֿאַרבן	bAafAarbN	_
+11	,	PUNC	,	,	_
+12	oder	CONJ	אָדער	Aoder	_
+13	nit	NEG	ניט	nyt	_
+14	bafarbn	N	באַפֿאַרבן	bAafAarbN	_
+15	,	PUNC	,	,	_
+16	undzerer	PRO$	אונדזערער	Avndzerer	_
+17	reyd	N	רײד	rYd	_
+18-19	durkhn	P~D	דורכן	dvrxN	_
+18	durkh	P	דורך	dvrX	_
+19	n	D	נ	n	_
+20	baytn	VB	בײַטן	bYatN	_
+21	oder	CONJ	אָדער	Aoder	_
+22	haltn	VB	האַלטן	hAaltN	_
+23	zikh	PRO	זיך	zyX	_
+24-25	baym	P~D	בײַם	bYaM	_
+24	bay	P	בײַ	bYa	_
+25	m	D	מ	m	_
+26	geveyntlikhn	ADJ	געװײנטליכן	geVYntlyxN	_
+27	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+28	.	PUNC	.	.	_
+
+SENT	1946E-MARK,2.22
+1	dos	D	דאָס	dAos	_
+2	ikhidim-emotsionale	ADJ	איכידים-עמאָציִאָנאַלע	AyxydyM-emAoqyiAonAale	_
+3	,	PUNC	,	,	_
+4	freyd	N	פֿרײד	frYd	_
+5	un	CONJ	און	AvN	_
+6	farvunderung	N	פֿאַרװוּנדערונג	fAarVUndervng	_
+7	,	PUNC	,	,	_
+8	dos	WPRO	דאָס	dAos	_
+9	veln	MDF	װעלן	VelN	_
+10-11	oysdrikn	RP~VB	אױסדריקן	AWsdrykN	_
+10	oys	RP	אױס	AWs	_
+11	drikn	VB	דריקן	drykN	_
+12	zikh	PRO	זיך	zyX	_
+13	feyerlekh	ADV	פֿײערלעך	fYerleX	_
+14	un	CONJ	און	AvN	_
+15	oysferlikh	ADV	אױספֿערליך	AWsferlyX	_
+16	vi	P	װי	Vy	_
+17	oykh	ADV	אױך	AWX	_
+18	andere	ADJ	אַנדערע	Aandere	_
+19	gefiln	N	געפֿילן	gefylN	_
+20	vos	C	װאָס	VAos	_
+21	virkn	VBF	װירקן	VyrkN	_
+22-23	oyfn	P~D	אױפֿן	AWfN	_
+22	oyf	P	אױף	AWF	_
+23	n	D	נ	n	_
+24	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+25	,	PUNC	,	,	_
+26	hot	VBF	האָט	hAot	_
+27	oykh	ADV	אױך	AWX	_
+28	zeyne	PRO$	זײנע	zYne	_
+29	greyte	ADJ	גרײטע	grYte	_
+30	,	PUNC	,	,	_
+31	zeyer	ADV	זײער	zYer	_
+32	fartike	ADJ	פֿאַרטיקע	fAartyke	_
+33	formen	N	פֿאָרמען	fAormeN	_
+34	,	PUNC	,	,	_
+
+SENT	1946E-MARK,2.23
+1	hot	VBF	האָט	hAot	_
+2	iber-ikhidishe	ADJ	איבער-איכידישע	Ayber-Ayxydy$e	_
+3	mitlen	N	מיטלען	mytleN	_
+4	in	P	אין	AyN	_
+5	a	D	אַ	Aa	_
+6	konventsioneln	ADJ	קאָנװענציִאָנעלן	kAonVenqyiAonelN	_
+7	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+8	fun	P	פֿון	fvN	_
+9	emotsioneln	ADJ	עמאָציִאָנעלן	emAoqyiAonelN	_
+10	reyd	N	רײד	rYd	_
+11	.	PUNC	.	.	_
+
+SENT	1946E-MARK,2.24
+1	di	D	די	dy	_
+2	ale	Q	אַלע	Aale	_
+3	faln	N	פֿאַלן	fAalN	_
+4	,	PUNC	,	,	_
+5	ven	C	װען	VeN	_
+6	dos	D	דאָס	dAos	_
+7	gefil	N	געפֿיל	gefyl	_
+8	bahersht	VBF	באַהערשט	bAaher$t	_
+9	azoy	ADV	אַזױ	AazW	_
+10	dem	D	דעם	deM	_
+11	reyder	N	רײדער	rYder	_
+12	az	C	אַז	Aaz	_
+13	der	D	דער	der	_
+14	zats	N	זאַץ	zAaQ	_
+15	vert	RDF	װערט	Vert	_
+16	in_gantsn	ADV	אינ_גאַנצן	Ayn_gAanqN	_
+17-18	oyfgerisn	RP~VAN	אױפֿגעריסן	AWfgerysN	_
+17	oyf	RP	אױף	AWF	_
+18	gerisn	VAN	געריסן	gerysN	_
+19	,	PUNC	,	,	_
+20	vayl	C	װײַל	VYal	_
+21	der	D	דער	der	_
+22	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+23	iz	VBF	איז	Ayz	_
+24	nit	NEG	ניט	nyt	_
+25	konventionel	ADJ	קאָנװענטיִאָנעל	kAonVentyiAonel	_
+26	,	PUNC	,	,	_
+27	iz	VBF	איז	Ayz	_
+28	in	P	אין	AyN	_
+29	a	D	אַ	Aa	_
+30	mtsv	N	מצװ	mqV	_
+31	fun	P	פֿון	fvN	_
+32	anarkhie	N	אַנאַרכיִע	AanAarxyie	_
+33	,	PUNC	,	,	_
+34	di	D	די	dy	_
+35	ale	Q	אַלע	Aale	_
+36	faln	N	פֿאַלן	fAalN	_
+37	gehern	VBF	געהערן	geherN	_
+38	kll	ADV	קלל	kll	_
+39	nit	NEG	ניט	nyt	_
+40	tsu	P	צו	qv	_
+41	der	D	דער	der	_
+42	gramatik	N	גראַמאַטיק	grAamAatyk	_
+43	fun	P	פֿון	fvN	_
+44	loshn	N	לשון	l$vN	_
+45	.	PUNC	.	.	_
+
+SENT	1946E-MARK,2.25
+1	der	D	דער	der	_
+2	koyekh	N	כּוח	KvH	_
+3	fun	P	פֿון	fvN	_
+4	dem	D	דעם	deM	_
+5	ritmishn	ADJ	ריטמישן	rytmy$N	_
+6	faktor	N	פֿאַקטאָר	fAaktAor	_
+7	bashteyt	VBF	באַשטײט	bAa$tYt	_
+8	in	P	אין	AyN	_
+9	dem	D	דעם	deM	_
+10	az	C	אַז	Aaz	_
+11	der	D	דער	der	_
+12	seyder	N	סדר	sdr	_
+13	fun	P	פֿון	fvN	_
+14	di	D	די	dy	_
+15	verter	N	װערטער	Verter	_
+16	muz	MDF	מוז	mvz	_
+17	harmonirn	VB	האַרמאָנירן	hAarmAonyrN	_
+18	mit	P	מיט	myt	_
+19	dem	D	דעם	deM	_
+20	algemeynem	ADJ	אַלגעמײנעם	AalgemYneM	_
+21	ritem	N	ריטעם	ryteM	_
+22	fun	P	פֿון	fvN	_
+23	zats	N	זאַץ	zAaQ	_
+24	un	CONJ	און	AvN	_
+25-26	mitn	P~D	מיטן	mytN	_
+25	mit	P	מיט	myt	_
+26	n	D	נ	n	_
+27	geboy	N	געבױ	gebW	_
+28	fun	P	פֿון	fvN	_
+29	zeyne	PRO$	זײנע	zYne	_
+30	kolonen	N	קאָלאָנען	kAolAoneN	_
+31	,	PUNC	,	,	_
+32	zeyne	PRO$	זײנע	zYne	_
+33	ritmishe	ADJ	ריטמישע	rytmy$e	_
+34	glider	N	גלידער	glyder	_
+35	.	PUNC	.	.	_
+
+SENT	1946E-MARK,2.26
+1	nit	NEG	ניט	nyt	_
+2	bloyz	FP	בלױז	blWz	_
+3	poetishe	ADJ	פּאָעטישע	pAoety$e	_
+4	reyd	N	רײד	rYd	_
+5	,	PUNC	,	,	_
+6	nor	CONJ	נאָר	nAor	_
+7	di	D	די	dy	_
+8	gevoyntlekhste	ADJS	געװױנטלעכסטע	geVWntlexste	_
+9	fraze	N	פֿראַזע	frAaze	_
+10	farmogt	VBF	פֿאַרמאָגט	fAarmAogt	_
+11	ir	PRO$	איר	Ayr	_
+12	bazundern	ADJ	באַזונדערן	bAazvnderN	_
+13	ritem	N	ריטעם	ryteM	_
+14	.	PUNC	.	.	_
+
+SENT	1946E-MARK,2.27
+1	yeder	Q	יעדער	yeder	_
+2	loshn	N	לשון	l$vN	_
+3	hot	VBF	האָט	hAot	_
+4	zikh	PRO	זיך	zyX	_
+5	zeyn	PRO$	זײן	zYN	_
+6	ritem	N	ריטעם	ryteM	_
+7	fun	P	פֿון	fvN	_
+8	zats	N	זאַץ	zAaQ	_
+9	.	PUNC	.	.	_
+
+SENT	1946E-MARK,2.28
+1	far	P	פֿאַר	fAar	_
+2	yidish	N	ייִדיש	yyidy$	_
+3	iz	VBF	איז	Ayz	_
+4	kharakteristish	ADJ	כאַראַקטעריסטיש	xAarAakterysty$	_
+5	az	C	אַז	Aaz	_
+6	der	D	דער	der	_
+7	aktsent	N	אַקצענט	Aakqent	_
+8	fun	P	פֿון	fvN	_
+9	ruik	ADV	רויִק	rvyik	_
+10	oysgeredtn	ADJ	אױסגערעדטן	AWsgeredtN	_
+11	zats	N	זאַץ	zAaQ	_
+12	zol	MDF	זאָל	zAol	_
+13	zeyn	VB	זײן	zYN	_
+14	nit	NEG	ניט	nyt	_
+15-16	oyfn	P~D	אױפֿן	AWfN	_
+15	oyf	P	אױף	AWF	_
+16	n	D	נ	n	_
+17	letstn	ADJ	לעצטן	leqtN	_
+18	vort	N	װאָרט	VAort	_
+19	zeynen	PRO$	זײנען	zYneN	_
+20	.	PUNC	.	.	_
+
+SENT	1946E-MARK,2.29
+1	dem	D	דעם	deM	_
+2	ritem	N	ריטעם	ryteM	_
+3	fun	P	פֿון	fvN	_
+4	yidish	ADJ	ייִדיש	yyidy$	_
+5	zats	N	זאַץ	zAaQ	_
+6	ken	MDF	קען	keN	_
+7	men	PRO	מען	meN	_
+8	grafish	ADV	גראַפֿיש	grAafy$	_
+9-10	farshteln	RP~VB	פֿאַרשטעלן	fAar$telN	_
+9	far	RP	פֿאַר	fAar	_
+10	shteln	VB	שטעלן	$telN	_
+11	vi	P	װי	Vy	_
+12	a	D	אַ	Aa	_
+13	krume	ADJ	קרומע	krvme	_
+14	linie	N	ליניִע	lynyie	_
+15	,	PUNC	,	,	_
+16	vu	WADV	װוּ	VU	_
+17	der	D	דער	der	_
+18	anhoyb	N	אַנהױב	AanhWb	_
+19	un	CONJ	און	AvN	_
+20	der	D	דער	der	_
+21	sof	N	סוף	svF	_
+22	zeyn	VBF	זײן	zYN	_
+23	nideriker	ADJR	נידעריקער	nyderyker	_
+24	vi	P	װי	Vy	_
+25	der	D	דער	der	_
+26	mitn	N	מיטן	mytN	_
+27	.	PUNC	.	.	_
+
+SENT	1946E-MARK,2.30
+1	di	D	די	dy	_
+2	bazundere	ADJ	באַזונדערע	bAazvndere	_
+3	ritmishe	ADJ	ריטמישע	rytmy$e	_
+4	glider	N	גלידער	glyder	_
+5	fun	P	פֿון	fvN	_
+6	dem	D	דעם	deM	_
+7	zats	N	זאַץ	zAaQ	_
+8	kenen	MDF	קענען	keneN	_
+9	nit	NEG	ניט	nyt	_
+10	zayn	VB	זײַן	zYaN	_
+11	keyn	Q	קײן	kYN	_
+12	tsu	ADV	צו	qv	_
+13	lange	ADJ	לאַנגע	lAange	_
+14	,	PUNC	,	,	_
+15	nit	NEG	ניט	nyt	_
+16	tsu	ADV	צו	qv	_
+17	fil	Q	פֿיל	fyl	_
+18	trafn	N	טראַפֿן	trAafN	_
+19	.	PUNC	.	.	_
+
+SENT	1946E-MARK,2.31
+1	di	D	די	dy	_
+2	kolonen	N	קאָלאָנען	kAolAoneN	_
+3	zeynen	VBF	זײנען	zYneN	_
+4	azoy	ADV	אַזױ	AazW	_
+5	tsu	TO	צו	qv	_
+6	zagn	VB	זאַגן	zAagN	_
+7	kurtsatemdike	ADJ	קורצאַטעמדיקע	kvrqAatemdyke	_
+8	.	PUNC	.	.	_
+
+SENT	1946E-MARK,2.32
+1	ot	FP	אָט	Aot	_
+2	di	D	די	dy	_
+3	eygnshaftn	N	אײגנשאַפֿטן	AYgn$AaftN	_
+4	fun	P	פֿון	fvN	_
+5	der	D	דער	der	_
+6	yidisher	ADJ	ייִדישער	yyidy$er	_
+7	zatsritem	N	זאַצריטעם	zAaqryteM	_
+8	,	PUNC	,	,	_
+9	vos	C	װאָס	VAos	_
+10	mir	PRO	מיר	myr	_
+11	hobn	HVF	האָבן	hAobN	_
+12	zi	PRO	זי	zy	_
+13	koym	ADV	קױם	kWM	_
+14	barirt	VBN	באַרירט	bAaryrt	_
+15	,	PUNC	,	,	_
+16	bashtimen	VBF	באַשטימען	bAa$tymeN	_
+17	oykh	ADV	אױך	AWX	_
+18	dem	D	דעם	deM	_
+19	seyder	N	סדר	sdr	_
+20	fun	P	פֿון	fvN	_
+21	di	D	די	dy	_
+22	verter	N	װערטער	Verter	_
+23	.	PUNC	.	.	_
+
+SENT	1946E-MARK,2.33
+1	fn._1	LS	פֿן._1	fN._1	_
+2	logish	ADV	לאָגיש	lAogy$	_
+3	genumen	VAN	גענומען	genvmeN	_
+4	iz	VBF	איז	Ayz	_
+5-6	nito	NEG~ADV	ניטאָ	nytAo	_
+5	nit	NEG	ניט	nyt	_
+6	o	ADV	אָ	Ao	_
+7	keyn	Q	קײן	kYN	_
+8	bazunderer	ADJ	באַזונדערער	bAazvnderer	_
+9	ritmisher	ADJ	ריטמישער	rytmy$er	_
+10	faktor	N	פֿאַקטאָר	fAaktAor	_
+11	,	PUNC	,	,	_
+
+SENT	1946E-MARK,2.34
+1	nor	CONJ	נאָר	nAor	_
+2	dos	D	דאָס	dAos	_
+3	ritmishe	N	ריטמישע	rytmy$e	_
+4	vert	RDF	װערט	Vert	_
+5	oykh	ADV	אױך	AWX	_
+6	bashtimt	VAN	באַשטימט	bAa$tymt	_
+7	fun	P	פֿון	fvN	_
+8	dem	D	דעם	deM	_
+9	historishn	ADJ	היסטאָרישן	hystAory$N	_
+10	un	CONJ	און	AvN	_
+11	dem	D	דעם	deM	_
+12	psikhologishn	ADJ	פּסיכאָלאָגישן	psyxAolAogy$N	_
+13	faktor	N	פֿאַקטאָר	fAaktAor	_
+14	.	PUNC	.	.	_
+
+SENT	1946E-MARK,2.35
+1	ober	CONJ	אָבער	Aober	_
+2	azoy	ADV	אַזױ	AazW	_
+3	vi	C	װי	Vy	_
+4	oyf	P	אױף	AWF	_
+5	dem	D	דעם	deM	_
+6	ritmishn	ADJ	ריטמישן	rytmy$N	_
+7	element	N	עלעמענט	element	_
+8	fun	P	פֿון	fvN	_
+9	unzere	PRO$	אונזערע	Avnzere	_
+10	reyd	N	רײד	rYd	_
+11	leygt	VBF	לײגט	lYgt	_
+12	men	PRO	מען	meN	_
+13	veynik	Q	װײניק	VYnyk	_
+14	akht	N	אַכט	Aaxt	_
+15	in	P	אין	AyN	_
+16	gramatik	N	גראַמאַטיק	grAamAatyk	_
+17	,	PUNC	,	,	_
+18	iz	VBF	איז	Ayz	_
+19	kdai	ADJ	קדאַיִ	kdAayi	_
+20	dos	D	דאָס	dAos	_
+21	ritmishe	N	ריטמישע	rytmy$e	_
+22-24	aroystsuheybn	ADV~TO~VB	אַרױסצוהײבן	AarWsqvhYbN	_
+22	aroys	ADV	אַרױס	AarWs	_
+23	tsu	TO	צו	qv	_
+24	heybn	VB	הײבן	hYbN	_
+25	un	CONJ	און	AvN	_
+26	tsu	TO	צו	qv	_
+27	derheybn	VB	דערהײבן	derhYbN	_
+28	es	PRO	עס	es	_
+29	biz	P	ביז	byz	_
+30	tsu	P	צו	qv	_
+31	a	D	אַ	Aa	_
+32	farzikhtikn	ADJ	פֿאַרזיכטיקן	fAarzyxtykN	_
+33	faktor	N	פֿאַקטאָר	fAaktAor	_
+34	.	PUNC	.	.	_
+
+SENT	1946E-MARK,2.36
+1	mir	PRO	מיר	myr	_
+2	hobn	HVF	האָבן	hAobN	_
+3	do	ADV	דאָ	dAo	_
+4	gemuzt	MDN	געמוזט	gemvzt	_
+5	dermonen	VB	דערמאָנען	dermAoneN	_
+6	di	D	די	dy	_
+7	faktorn	N	פֿאַקטאָרן	fAaktAorN	_
+8	,	PUNC	,	,	_
+9	vayl	C	װײַל	VYal	_
+10	shpeter	ADVR	שפּעטער	$peter	_
+11	vet	MDF	װעט	Vet	_
+12	etlekhe	Q	עטלעכע	etlexe	_
+13	mol	N	מאָל	mAol	_
+14-15	oyskumen	RP~VB	אױסקומען	AWskvmeN	_
+14	oys	RP	אױס	AWs	_
+15	kumen	VB	קומען	kvmeN	_
+16	zikh	PRO	זיך	zyX	_
+17	tsu	TO	צו	qv	_
+18	farrufn	VB	פֿאַררופֿן	fAarrvfN	_
+19	oyf	P	אױף	AWF	_
+20	zey	PRO	זײ	zY	_
+21	.	PUNC	.	.	_
+
+SENT	1946E-MARK,2.37
+1	b.	LS	ב.	b.	_
+2	der	D	דער	der	_
+3	bagrif	N	באַגריף	bAagryF	_
+4	seyder-eyns	N	סדר-אײנס	sdr-AYns	_
+
+SENT	1946E-MARK,2.38
+1	a	D	אַ	Aa	_
+2	zats	N	זאַץ	zAaQ	_
+3	bashteyt	VBF	באַשטײט	bAa$tYt	_
+4	geveyntlikh	ADV	געװײנטליך	geVYntlyX	_
+5	fun	P	פֿון	fvN	_
+6	zatsteyln	N	זאַצטײלן	zAaqtYlN	_
+7	,	PUNC	,	,	_
+
+SENT	1946E-MARK,2.39
+1	dos	D	דאָס	dAos	_
+2	vort	N	װאָרט	VAort	_
+3	"	PUNC	"	"	_
+4	geveyntlekh	ADV	געװײנטלעך	geVYntleX	_
+5	"	PUNC	"	"	_
+6	iz	BEF	איז	Ayz	_
+7	do	ADV	דאָ	dAo	_
+8-9	arayngeshtelt	ADV~VAN	אַרײַנגעשטעלט	AarYange$telt	_
+8	arayn	ADV	אַרײַן	AarYaN	_
+9	geshtelt	VAN	געשטעלט	ge$telt	_
+10	makhmes	P	מחמת	mHmS	_
+11	dem	D	דעם	deM	_
+12	vos	C	װאָס	VAos	_
+13	a	D	אַ	Aa	_
+14	zats	N	זאַץ	zAaQ	_
+15	ken	MDF	קען	keN	_
+16	bashteyn	VB	באַשטײן	bAa$tYN	_
+17	fun	P	פֿון	fvN	_
+18	eyn	D	אײן	AYN	_
+19	eyntsikn	ADJ	אײנציקן	AYnqykN	_
+20	vort	N	װאָרט	VAort	_
+21	.	PUNC	.	.	_
+
+SENT	1946E-MARK,2.40
+1	ober	CONJ	אָבער	Aober	_
+2	ven	C	װען	VeN	_
+3	men	PRO	מען	meN	_
+4	vil	MDF	װיל	Vyl	_
+5	analizirn	VB	אַנאַליזירן	AanAalyzyrN	_
+6	dem	D	דעם	deM	_
+7	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+8	,	PUNC	,	,	_
+9	ken	MDF	קען	keN	_
+10	men	PRO	מען	meN	_
+11	nit	NEG	ניט	nyt	_
+12-13	oyskumen	RP~VB	אױסקומען	AWskvmeN	_
+12	oys	RP	אױס	AWs	_
+13	kumen	VB	קומען	kvmeN	_
+14	nit	NEG	ניט	nyt	_
+15-16	mitn	P~D	מיטן	mytN	_
+15	mit	P	מיט	myt	_
+16	n	D	נ	n	_
+17	bagrif	N	באַגריף	bAagryF	_
+18	"	PUNC	"	"	_
+19	vort	N	װאָרט	VAort	_
+20	"	PUNC	"	"	_
+21	un	CONJ	און	AvN	_
+22	nit	NEG	ניט	nyt	_
+23-24	mitn	P~D	מיטן	mytN	_
+23	mit	P	מיט	myt	_
+24	n	D	נ	n	_
+25	bagrif	N	באַגריף	bAagryF	_
+26	"	PUNC	"	"	_
+27	zatsteyl	N	זאַצטײל	zAaqtYl	_
+28	"	PUNC	"	"	_
+29	.	PUNC	.	.	_
+
+SENT	1946E-MARK,2.41
+1	mir	PRO	מיר	myr	_
+2	darfn	VBF	דאַרפֿן	dAarfN	_
+3	oykh	ADV	אױך	AWX	_
+4	dem	D	דעם	deM	_
+5	bagrif	N	באַגריף	bAagryF	_
+6	seyder-eyns	N	סדר-אײנס	sdr-AYns	_
+7	.	PUNC	.	.	_
+
+SENT	1946E-MARK,2.42
+1	"	PUNC	"	"	_
+2	seyder-eyns	N	סדר-אײנס	sdr-AYns	_
+3	"	PUNC	"	"	_
+4	iz	VBF	איז	Ayz	_
+5	a	D	אַ	Aa	_
+6	vort	N	װאָרט	VAort	_
+7	oder	CONJ	אָדער	Aoder	_
+8	a	D	אַ	Aa	_
+9	grupe	N	גרופּע	grvpe	_
+10	verter	N	װערטער	Verter	_
+11	in	P	אין	AyN	_
+12	dem	D	דעם	deM	_
+13	zats	N	זאַץ	zAaQ	_
+14	vos	C	װאָס	VAos	_
+15	shaft	VBF	שאַפֿט	$Aaft	_
+16	a	D	אַ	Aa	_
+17	farzikhdikn	ADJ	פֿאַרזיכדיקן	fAarzyxdykN	_
+18	eyns	N	אײנס	AYns	_
+19	bey	P	בײ	bY	_
+20	di	D	די	dy	_
+21	miglekhe	ADJ	מיגלעכע	myglexe	_
+22	ibershtelungen	N	איבערשטעלונגען	Ayber$telvngeN	_
+23	un	CONJ	און	AvN	_
+24	kombinirungen	N	קאָמבינירונגען	kAombynyrvngeN	_
+25	fun	P	פֿון	fvN	_
+26	di	D	די	dy	_
+27	verter	N	װערטער	Verter	_
+28	in	P	אין	AyN	_
+29	dem	D	דעם	deM	_
+30	zats	N	זאַץ	zAaQ	_
+31	.	PUNC	.	.	_
+
+SENT	1946E-MARK,2.43
+1	oyb	C	אױב	AWb	_
+2	mir	PRO	מיר	myr	_
+3	zoln	MDF	זאָלן	zAolN	_
+4	zikh	PRO	זיך	zyX	_
+5	oyf	P	אױף	AWF	_
+6	a	D	אַ	Aa	_
+7	bildlekhn	ADJ	בילדלעכן	byldlexN	_
+8	ufn	N	אופֿן	AvfN	_
+9	farshteln	VB	פֿאַרשטעלן	fAar$telN	_
+10	dem	D	דעם	deM	_
+11	zats	N	זאַץ	zAaQ	_
+12	vi	P	װי	Vy	_
+13-14	tsunoyfgeshtelt	ADV~VAN	צונױפֿגעשטעלט	qvnWfge$telt	_
+13	tsunoyf	ADV	צונױף	qvnWF	_
+14	geshtelt	VAN	געשטעלט	ge$telt	_
+15	fun	P	פֿון	fvN	_
+16	bazundere	ADJ	באַזונדערע	bAazvndere	_
+17	kletslekh	N	קלעצלעך	kleqleX	_
+18	,	PUNC	,	,	_
+19	iz	VBF	איז	Ayz	_
+20	yeder	Q	יעדער	yeder	_
+21	seyder-eyns	N	סדר-אײנס	sdr-AYns	_
+22	a	D	אַ	Aa	_
+23	bazunder	ADJ	באַזונדער	bAazvnder	_
+24	kletsl	N	קלעצל	kleql	_
+25	.	PUNC	.	.	_
+
+SENT	1946E-MARK,2.44
+1	es	ES	עס	es	_
+2	kenen	MDF	קענען	keneN	_
+3	zeyn	VB	זײן	zYN	_
+4	in	P	אין	AyN	_
+5	zats	N	זאַץ	zAaQ	_
+6	azoy	ADV	אַזױ	AazW	_
+7	fil	Q	פֿיל	fyl	_
+8	seyder-eynsn	N	סדר-אײנסן	sdr-AYnsN	_
+9-10	vifl	WADV~Q	װיפֿל	Vyfl	_
+9	vi	WADV	װי	Vy	_
+10	fl	Q	פֿל	fl	_
+11	es	ES	עס	es	_
+12	zaynen	VBF	זײַנען	zYaneN	_
+13	faran	ADJ	פֿאַראַן	fAarAaN	_
+14	verter	N	װערטער	Verter	_
+15	.	PUNC	.	.	_
+
+SENT	1946E-MARK,3.45
+1	in	P	אין	AyN	_
+2	dem	D	דעם	deM	_
+3	zats	N	זאַץ	zAaQ	_
+4	zi	PRO	זי	zy	_
+5	heyst	VBF	הײסט	hYst	_
+6	rokhel	N	ראָכעל	rAoxel	_
+7	hobn	VBF	האָבן	hAobN	_
+8	mir	PRO	מיר	myr	_
+9	dray	NUM	דרײַ	drYa	_
+10	verter	N	װערטער	Verter	_
+11	un	CONJ	און	AvN	_
+12	drey	NUM	דרײ	drY	_
+13	seyder-eynsn	N	סדר-אײנסן	sdr-AYnsN	_
+14	,	PUNC	,	,	_
+
+SENT	1946E-MARK,3.46
+1	ober	CONJ	אָבער	Aober	_
+2-3	inem	P~D	אינעם	AyneM	_
+2	in	P	אין	AyN	_
+3	em	D	עם	eM	_
+4	zats	N	זאַץ	zAaQ	_
+5	meyn	PRO$	מײן	mYN	_
+6	khaverte	N	חבֿרטע	H~rte	_
+7	heyst	VBF	הײסט	hYst	_
+8	rokhl	NPR	רחל	rHl	_
+9	hobn	VBF	האָבן	hAobN	_
+10	mir	PRO	מיר	myr	_
+11	fir	NUM	פֿיר	fyr	_
+12	vert	N	װערט	Vert	_
+13	un	CONJ	און	AvN	_
+14	nit	NEG	ניט	nyt	_
+15	mer	QR	מער	mer	_
+16	vi	P	װי	Vy	_
+17	dray	NUM	דרײַ	drYa	_
+18	seyder-eynsn	N	סדר-אײנסן	sdr-AYnsN	_
+19	:	PUNC	:	:	_
+20	mayn	PRO$	מײַן	mYaN	_
+21	khaverte	N	חבֿרטע	H~rte	_
+22	,	PUNC	,	,	_
+23	heyst	VBF	הײסט	hYst	_
+24	,	PUNC	,	,	_
+25	rokhl	NPR	רחל	rHl	_
+26	.	PUNC	.	.	_
+
+SENT	1946E-MARK,3.47
+1	in	P	אין	AyN	_
+2	dem	D	דעם	deM	_
+3	langn	ADJ	לאַנגן	lAangN	_
+4	zats	N	זאַץ	zAaQ	_
+5	der_doziker	D	דער_דאָזיקער	der_dAozyker	_
+6	voyler	ADJ	װױלער	VWler	_
+7	mentsh	N	מענטש	ment$	_
+8	iz	VBF	איז	Ayz	_
+9	zayner	PRO$	זײַנער	zYaner	_
+10	an	D	אַן	AaN	_
+11	alter	ADJ	אַלטער	Aalter	_
+12	bakanter	N	באַקאַנטער	bAakAanter	_
+13	zeynen	VBF	זײנען	zYneN	_
+14	faran	ADJ	פֿאַראַן	fAarAaN	_
+15	neyn	NUM	נײן	nYN	_
+16	verter	N	װערטער	Verter	_
+17	ober	CONJ	אָבער	Aober	_
+18	nit	NEG	ניט	nyt	_
+19	mer	QR	מער	mer	_
+20	vi	P	װי	Vy	_
+21	fir	NUM	פֿיר	fyr	_
+22	seyder-eynsn	N	סדר-אײנסן	sdr-AYnsN	_
+23	:	PUNC	:	:	_
+24	der_doziker	D	דער_דאָזיקער	der_dAozyker	_
+25	voyler	ADJ	װױלער	VWler	_
+26	mentsh	N	מענטש	ment$	_
+27	,	PUNC	,	,	_
+28	iz	VBF	איז	Ayz	_
+29	,	PUNC	,	,	_
+30	zayner	PRO$	זײַנער	zYaner	_
+31	,	PUNC	,	,	_
+32	an	D	אַן	AaN	_
+33	alter	ADJ	אַלטער	Aalter	_
+34	bakanter	N	באַקאַנטער	bAakAanter	_
+
+SENT	1946E-MARK,3.48
+1	nokh	ADV	נאָך	nAoX	_
+2	a	D	אַ	Aa	_
+3	por	Q	פּאָר	pAor	_
+4	bayshpiln	N	בײַשפּילן	bYa$pylN	_
+5	veln	MDF	װעלן	VelN	_
+6	dem	D	דעם	deM	_
+7	inyen	N	ענין	enyN	_
+8	makhn	VB	מאַכן	mAaxN	_
+9	klorer	ADJR	קלאָרער	klAorer	_
+10	.	PUNC	.	.	_
+
+SENT	1946E-MARK,3.49
+1	in	P	אין	AyN	_
+2	dem	D	דעם	deM	_
+3	zats	N	זאַץ	zAaQ	_
+4	:	PUNC	:	:	_
+5	ikh	PRO	איך	AyX	_
+6	bin	BEF	בין	byN	_
+7	nekhtn	ADV	נעכטן	nextN	_
+8	shpet	ADV	שפּעט	$pet	_
+9	gekumen	VBN	געקומען	gekvmeN	_
+10	aheym	ADV	אַהײם	AahYM	_
+11	zaynen	VBF	זײַנען	zYaneN	_
+12	faran	ADJ	פֿאַראַן	fAarAaN	_
+13	zeks	NUM	זעקס	zeks	_
+14	verter	N	װערטער	Verter	_
+15	un	CONJ	און	AvN	_
+16	punkt	ADV	פּונקט	pvnkt	_
+17	azoy	ADV	אַזױ	AazW	_
+18	fil	Q	פֿיל	fyl	_
+19	seyder-eynsn	N	סדר-אײנסן	sdr-AYnsN	_
+20	,	PUNC	,	,	_
+21	vayl	C	װײַל	VYal	_
+22	mir	PRO	מיר	myr	_
+23	kenen	MDF	קענען	keneN	_
+24	di	D	די	dy	_
+25	verter	N	װערטער	Verter	_
+26-27	ibershteln	RP~VB	איבערשטעלן	Ayber$telN	_
+26	iber	RP	איבער	Ayber	_
+27	shteln	VB	שטעלן	$telN	_
+28	oykh	ADV	אױך	AWX	_
+29	azoy	ADV	אַזױ	AazW	_
+30	.	PUNC	.	.	_
+
+SENT	1946E-MARK,3.50
+1	bin	BEF	בין	byN	_
+2	ikh	PRO	איך	AyX	_
+3	nekhtn	ADV	נעכטן	nextN	_
+4	shpet	ADV	שפּעט	$pet	_
+5	gekumen	VBN	געקומען	gekvmeN	_
+6	aheym	ADV	אַהײם	AahYM	_
+7	.	PUNC	.	.	_
+
+SENT	1946E-MARK,3.51
+1	nekhtn	ADV	נעכטן	nextN	_
+2	bin	BEF	בין	byN	_
+3	ikh	PRO	איך	AyX	_
+4	shpet	ADV	שפּעט	$pet	_
+5	gekumen	VBN	געקומען	gekvmeN	_
+6	aheym	ADV	אַהײם	AahYM	_
+7	.	PUNC	.	.	_
+
+SENT	1946E-MARK,3.52
+1	shpet	ADV	שפּעט	$pet	_
+2	bin	BEF	בין	byN	_
+3	ikh	PRO	איך	AyX	_
+4	nekhtn	ADV	נעכטן	nextN	_
+5	aheym	ADV	אַהײם	AahYM	_
+6	gekumen	VBN	געקומען	gekvmeN	_
+7	.	PUNC	.	.	_
+
+SENT	1946E-MARK,3.53
+1	gekumen	VBN	געקומען	gekvmeN	_
+2	bin	BEF	בין	byN	_
+3	ikh	PRO	איך	AyX	_
+4	nekhtn	ADV	נעכטן	nextN	_
+5	shpet	ADV	שפּעט	$pet	_
+6	aheym	ADV	אַהײם	AahYM	_
+7	.	PUNC	.	.	_
+
+SENT	1946E-MARK,3.54
+1	aheym	ADV	אַהײם	AahYM	_
+2	bin	BEF	בין	byN	_
+3	ikh	PRO	איך	AyX	_
+4	nekhtn	ADV	נעכטן	nextN	_
+5	gekumen	VBN	געקומען	gekvmeN	_
+6	shpet	ADV	שפּעט	$pet	_
+7	.	PUNC	.	.	_
+
+SENT	1946E-MARK,3.55
+1	farshteyt	VBF	פֿאַרשטײט	fAar$tYt	_
+2	zikh	PRO	זיך	zyX	_
+3	az	C	אַז	Aaz	_
+4	men	PRO	מען	meN	_
+5	ken	MDF	קען	keN	_
+6	makhn	VB	מאַכן	mAaxN	_
+7	nokh	ADV	נאָך	nAoX	_
+8	andere	ADJ	אַנדערע	Aandere	_
+9	gezetslekhe	ADJ	געזעצלעכע	gezeqlexe	_
+10	ibershtelungen	N	איבערשטעלונגען	Ayber$telvngeN	_
+11	,	PUNC	,	,	_
+
+SENT	1946E-MARK,3.56
+1	ober	CONJ	אָבער	Aober	_
+2	di	D	די	dy	_
+3	vos	C	װאָס	VAos	_
+4	mir	PRO	מיר	myr	_
+5	hobn	HVF	האָבן	hAobN	_
+6	do	ADV	דאָ	dAo	_
+7	gemakht	VBN	געמאַכט	gemAaxt	_
+8	ilustrirn	VBF	אילוסטרירן	AylvstryrN	_
+9	shoyn	ADV	שױן	$WN	_
+10	far	P	פֿאַר	fAar	_
+11	undz	PRO	אונדז	Avndz	_
+12	az	C	אַז	Aaz	_
+13	in	P	אין	AyN	_
+14	dem	D	דעם	deM	_
+15	zats	N	זאַץ	zAaQ	_
+16	iz	VBF	איז	Ayz	_
+17	yeder	Q	יעדער	yeder	_
+18	vort	N	װאָרט	VAort	_
+19	far	P	פֿאַר	fAar	_
+20	zikh	PRO	זיך	zyX	_
+21	a	D	אַ	Aa	_
+22	bazunderer	ADJ	באַזונדערער	bAazvnderer	_
+23	seyder-eyns	N	סדר-אײנס	sdr-AYns	_
+24	.	PUNC	.	.	_
+
+SENT	1946E-MARK,3.57
+1	in	P	אין	AyN	_
+2	dem	D	דעם	deM	_
+3	zats	N	זאַץ	zAaQ	_
+4	:	PUNC	:	:	_
+5	der	D	דער	der	_
+6	aremer	ADJ	אַרעמער	Aaremer	_
+7	yingl	N	ייִנגל	yyingl	_
+8	hot	HVF	האָט	hAot	_
+9-10	ongeton	RP~VBN	אָנגעטאָן	AongetAoN	_
+9	on	RP	אָן	AoN	_
+10	geton	VBN	געטאָן	getAoN	_
+11	a	D	אַ	Aa	_
+12	rekl	N	רעקל	rekl	_
+13	mit	P	מיט	myt	_
+14	tserisene	ADJ	צעריסענע	qerysene	_
+15	arbl	N	אַרבל	Aarbl	_
+16	zeynen	VBF	זײנען	zYneN	_
+17	faran	ADJ	פֿאַראַן	fAarAaN	_
+18	tsen	NUM	צען	qeN	_
+19	verter	N	װערטער	Verter	_
+20	,	PUNC	,	,	_
+21	ober	CONJ	אָבער	Aober	_
+22	nit	NEG	ניט	nyt	_
+23	mer	QR	מער	mer	_
+24	vi	P	װי	Vy	_
+25	fir	NUM	פֿיר	fyr	_
+26	seyder-eynsn	N	סדר-אײנסן	sdr-AYnsN	_
+27	:	PUNC	:	:	_
+28	der	D	דער	der	_
+29	aremer	ADJ	אַרעמער	Aaremer	_
+30	yingl	N	ייִנגל	yyingl	_
+31	,	PUNC	,	,	_
+32	hot	HVF	האָט	hAot	_
+33	,	PUNC	,	,	_
+34-35	ongeton	RP~VBN	אָנגעטאָן	AongetAoN	_
+34	on	RP	אָן	AoN	_
+35	geton	VBN	געטאָן	getAoN	_
+36	,	PUNC	,	,	_
+37	a	D	אַ	Aa	_
+38	rekl	N	רעקל	rekl	_
+39	mit	P	מיט	myt	_
+40	tserisene	ADJ	צעריסענע	qerysene	_
+41	arbl	N	אַרבל	Aarbl	_
+42	,	PUNC	,	,	_
+
+SENT	1946E-MARK,3.58
+1	vorem	CONJ	װאָרעם	VAoreM	_
+2	men	PRO	מען	meN	_
+3	meg	MDF	מעג	meg	_
+4	kombinirn	VB	קאָמבינירן	kAombynyrN	_
+5	azoy	ADV	אַזױ	AazW	_
+6	:	PUNC	:	:	_
+
+SENT	1946E-MARK,3.59
+1	der	D	דער	der	_
+2	aremer	ADJ	אַרעמער	Aaremer	_
+3	yingl	N	ייִנגל	yyingl	_
+4	hot	HVF	האָט	hAot	_
+5-6	ongeton	RP~VBN	אָנגעטאָן	AongetAoN	_
+5	on	RP	אָן	AoN	_
+6	geton	VBN	געטאָן	getAoN	_
+7	a	D	אַ	Aa	_
+8	rekl	N	רעקל	rekl	_
+9	mit	P	מיט	myt	_
+10	tserisene	ADJ	צעריסענע	qerysene	_
+11	arbl	N	אַרבל	Aarbl	_
+
+SENT	1946E-MARK,3.60
+1-2	ongeton	RP~VBN	אָנגעטאָן	AongetAoN	_
+1	on	RP	אָן	AoN	_
+2	geton	VBN	געטאָן	getAoN	_
+3	hot	HVF	האָט	hAot	_
+4	der	D	דער	der	_
+5	aremer	ADJ	אַרעמער	Aaremer	_
+6	yingl	N	ייִנגל	yyingl	_
+7	a	D	אַ	Aa	_
+8	rekl	N	רעקל	rekl	_
+9	mit	P	מיט	myt	_
+10	tserisene	ADJ	צעריסענע	qerysene	_
+11	arbl	N	אַרבל	Aarbl	_
+12	.	PUNC	.	.	_
+
+SENT	1946E-MARK,3.61
+1	a	D	אַ	Aa	_
+2	rekl	N	רעקל	rekl	_
+3	mit	P	מיט	myt	_
+4	tserisene	ADJ	צעריסענע	qerysene	_
+5	arbl	N	אַרבל	Aarbl	_
+6	hot	HVF	האָט	hAot	_
+7	der	D	דער	der	_
+8	aremer	ADJ	אַרעמער	Aaremer	_
+9	yingl	N	ייִנגל	yyingl	_
+10-11	ongeton	RP~VBN	אָנגעטאָן	AongetAoN	_
+10	on	RP	אָן	AoN	_
+11	geton	VBN	געטאָן	getAoN	_
+12	.	PUNC	.	.	_
+
+SENT	1946E-MARK,3.62
+1	hot	HVF	האָט	hAot	_
+2-3	ongeton	RP~VBN	אָנגעטאָן	AongetAoN	_
+2	on	RP	אָן	AoN	_
+3	geton	VBN	געטאָן	getAoN	_
+4	der	D	דער	der	_
+5	aremer	ADJ	אַרעמער	Aaremer	_
+6	yingl	N	ייִנגל	yyingl	_
+7	a	D	אַ	Aa	_
+8	rekl	N	רעקל	rekl	_
+9	mit	P	מיט	myt	_
+10	tserisene	ADJ	צעריסענע	qerysene	_
+11	arbl	N	אַרבל	Aarbl	_
+12	.	PUNC	.	.	_
+
+SENT	1946E-MARK,3.63
+1	men	PRO	מען	meN	_
+2	tor	MDF	טאָר	tAor	_
+3	ober	ADV	אָבער	Aober	_
+4	nit	NEG	ניט	nyt	_
+5	makhn	VB	מאַכן	mAaxN	_
+6	azelkhe	ADJ	אַזעלכע	Aazelxe	_
+7	ibershtelungen	N	איבערשטעלונגען	Ayber$telvngeN	_
+8	:	PUNC	:	:	_
+9	der	D	דער	der	_
+10	aremer	ADJ	אַרעמער	Aaremer	_
+11	yingl	N	ייִנגל	yyingl	_
+12	hot	HVF	האָט	hAot	_
+13-14	ongeton	RP~VBN	אָנגעטאָן	AongetAoN	_
+13	on	RP	אָן	AoN	_
+14	geton	VBN	געטאָן	getAoN	_
+15	mit	P	מיט	myt	_
+16	tserisene	ADJ	צעריסענע	qerysene	_
+17	arbl	N	אַרבל	Aarbl	_
+18	a	D	אַ	Aa	_
+19	rekl	N	רעקל	rekl	_
+20	der	D	דער	der	_
+21	yingl	N	ייִנגל	yyingl	_
+22	aremer	ADJ	אַרעמער	Aaremer	_
+23	hot	HVF	האָט	hAot	_
+24	uzv.	X	אוזװ.	AvzV.	_
+25	un	CONJ	און	AvN	_
+26	a_sakh	Q	אַ_סאַך	Aa_sAaX	_
+27	andere	ADJ	אַנדערע	Aandere	_
+28	reyn	ADV	רײן	rYN	_
+29	mekhanishe	ADJ	מעכאַנישע	mexAany$e	_
+30	ibershtelungen	N	איבערשטעלונגען	Ayber$telvngeN	_
+31	vos	C	װאָס	VAos	_
+32	kenen	MDF	קענען	keneN	_
+33	nit	NEG	ניט	nyt	_
+34	gebn	VB	געבן	gebN	_
+35	keyn	Q	קײן	kYN	_
+36	korektn	ADJ	קאָרעקטן	kAorektN	_
+37	zats	N	זאַץ	zAaQ	_
+38	.	PUNC	.	.	_
+
+SENT	1946E-MARK,3.64
+1	fun	P	פֿון	fvN	_
+2	di	D	די	dy	_
+3	bayshpiln	N	בײַשפּילן	bYa$pylN	_
+4	hot	HVF	האָט	hAot	_
+5	oykh	ADV	אױך	AWX	_
+6	gedarft	MDN	געדאַרפֿט	gedAarft	_
+7	klor	ADJ	קלאָר	klAor	_
+8	vern	VB	װערן	VerN	_
+9	az	C	אַז	Aaz	_
+10	der	D	דער	der	_
+11	seyder-eyns	N	סדר-אײנס	sdr-AYns	_
+12	falt	VBF	פֿאַלט	fAalt	_
+13	nit	NEG	ניט	nyt	_
+14	tsunoyf	ADV	צונױף	qvnWF	_
+15-16	mitn	P~D	מיטן	mytN	_
+15	mit	P	מיט	myt	_
+16	n	D	נ	n	_
+17	zatsteyl	N	זאַצטײל	zAaqtYl	_
+18	.	PUNC	.	.	_
+
+SENT	1946E-MARK,3.65
+1	ot	FP	אָט	Aot	_
+2	hobn	HVF	האָבן	hAobN	_
+3	mir	PRO	מיר	myr	_
+4	in	P	אין	AyN	_
+5	dem	D	דעם	deM	_
+6	letstn	ADJ	לעצטן	leqtN	_
+7	zats	N	זאַץ	zAaQ	_
+8	gehot	VBN	געהאָט	gehAot	_
+9	a	D	אַ	Aa	_
+10	predikat	N	פּרעדיקאַט	predykAat	_
+11	"	PUNC	"	"	_
+12	hot	HVF	האָט	hAot	_
+13-14	ongeton	RP~VBN	אָנגעטאָן	AongetAoN	_
+13	on	RP	אָן	AoN	_
+14	geton	VBN	געטאָן	getAoN	_
+15	"	PUNC	"	"	_
+
+SENT	1946E-MARK,3.66
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	eyn	NUM	אײן	AYN	_
+4	predikat	N	פּרעדיקאַט	predykAat	_
+5	bashteyt	VBF	באַשטײט	bAa$tYt	_
+6	fun	P	פֿון	fvN	_
+7	tsvey	ADJ	צװײ	qVY	_
+8	seyder-eynsn	N	סדר-אײנסן	sdr-AYnsN	_
+9	.	PUNC	.	.	_
+10	beys	C	ב	b	_
+11	der	D	דער	der	_
+12	oysdruk	N	אױסדרוק	AWsdrvk	_
+13	"	PUNC	"	"	_
+14	a	D	אַ	Aa	_
+15	rekl	N	רעקל	rekl	_
+16	mit	P	מיט	myt	_
+17	tserisene	ADJ	צעריסענע	qerysene	_
+18	arbl	N	אַרבל	Aarbl	_
+19	"	PUNC	"	"	_
+20	iz	VBF	איז	Ayz	_
+21	an	D	אַן	AaN	_
+22	objekt	N	אָבjעקט	Aobjekt	_
+23	plus	P	פּלוס	plvs	_
+24	an	D	אַן	AaN	_
+25	atribut	N	אַטריבוט	Aatrybvt	_
+26	tsu	P	צו	qv	_
+27	im	PRO	אים	AyM	_
+28	,	PUNC	,	,	_
+
+SENT	1946E-MARK,3.67
+1	un	CONJ	און	AvN	_
+2	beyde	Q	בײדע	bYde	_
+3	in	P	אין	AyN	_
+4	eynem	N	אײנעם	AYneM	_
+5	zeynen	VBF	זײנען	zYneN	_
+6	in	P	אין	AyN	_
+7	dem	D	דעם	deM	_
+8	zats	N	זאַץ	zAaQ	_
+9	eyn	D	אײן	AYN	_
+10	seyder-eyns	N	סדר-אײנס	sdr-AYns	_
+11	.	PUNC	.	.	_
+
+SENT	1946E-MARK,3.68
+1	a	D	אַ	Aa	_
+2	konyunktsie	N	קאָניונקציִע	kAonyvnkqyie	_
+3	shpilt	VBF	שפּילט	$pylt	_
+4	ale_mol	ADV	אַלע_מאָל	Aale_mAol	_
+5	di	D	די	dy	_
+6	role	N	ראָלע	rAole	_
+7	fun	P	פֿון	fvN	_
+8	a	D	אַ	Aa	_
+9	nul	N	נול	nvl	_
+10	in	P	אין	AyN	_
+11	der	D	דער	der	_
+12	rey	N	רײ	rY	_
+13	seyder-eynsn	N	סדר-אײנסן	sdr-AYnsN	_
+14	.	PUNC	.	.	_
+
+SENT	1946E-MARK,3.69
+1	a	D	אַ	Aa	_
+2	prepozitsie	N	פּרעפּאָזיציִע	prepAozyqyie	_
+3	iz	VBF	איז	Ayz	_
+4	a	D	אַ	Aa	_
+5	seyder-eyns	N	סדר-אײנס	sdr-AYns	_
+6	in	P	אין	AyN	_
+7	eynem	PRO	אײנעם	AYneM	_
+8-9	mitn	P~D	מיטן	mytN	_
+8	mit	P	מיט	myt	_
+9	n	D	נ	n	_
+10	substantiv	N	סובסטאַנטיװ	svbstAantyV	_
+11	.	PUNC	.	.	_
+
+SENT	1946E-MARK,3.70
+1	dos	D	דאָס	dAos	_
+2	eygene	ADJ	אײגענע	AYgene	_
+3	iz	VBF	איז	Ayz	_
+4	oykh	ADV	אױך	AWX	_
+5-6	mitn	P~D	מיטן	mytN	_
+5	mit	P	מיט	myt	_
+6	n	D	נ	n	_
+7	artikl	N	אַרטיקל	Aartykl	_
+8	.	PUNC	.	.	_
+
+SENT	1946E-MARK,3.71
+1	di	D	די	dy	_
+2	hilfsverbn	N	הילפֿסװערבן	hylfsVerbN	_
+3	zaynen	VBF	זײַנען	zYaneN	_
+4	bazundere	ADJ	באַזונדערע	bAazvndere	_
+5	seyder-eynsn	N	סדר-אײנסן	sdr-AYnsN	_
+6	.	PUNC	.	.	_
+
+SENT	1946E-MARK,3.72
+1	modale	ADJ	מאָדאַלע	mAodAale	_
+2	verter	N	װערטער	Verter	_
+3	efshr	ADV	עפֿשר	ef$r	_
+4	,	PUNC	,	,	_
+5	avade	ADV	אַװדאי	AaVdAy	_
+6	,	PUNC	,	,	_
+7	mistome	ADV	מסתּמא	msTmA	_
+8	,	PUNC	,	,	_
+9	usv.	X	אוסװ.	AvsV.	_
+10	zeynen	VBF	זײנען	zYneN	_
+11	bazundere	ADJ	באַזונדערע	bAazvndere	_
+12	seyder-eynsn	N	סדר-אײנסן	sdr-AYnsN	_
+13	.	PUNC	.	.	_
+
+SENT	1946E-MARK,3.73
+1	die	D	דיִע	dyie	_
+2	batsiung	N	באַציִונג	bAaqyivng	_
+3	tsvishn	P	צװישן	qVy$N	_
+4	atribut	N	אַטריבוט	Aatrybvt	_
+5	un	CONJ	און	AvN	_
+6	dem	D	דעם	deM	_
+7	substantiv	N	סובסטאַנטיװ	svbstAantyV	_
+8	,	PUNC	,	,	_
+9	tsu	P	צו	qv	_
+10	velkhn	WPRO	װעלכן	VelxN	_
+11	er	PRO	ער	er	_
+12	tsit	VBF	ציט	qyt	_
+13	zikh	PRO	זיך	zyX	_
+14	,	PUNC	,	,	_
+15	iz	VBF	איז	Ayz	_
+16	benegeye	P	בנוגע	bnvge	_
+17	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+18	a	D	אַ	Aa	_
+19	komplitsirter	ADJ	קאָמפּליצירטער	kAomplyqyrter	_
+20	,	PUNC	,	,	_
+
+SENT	1946E-MARK,3.74
+1	un	CONJ	און	AvN	_
+2	mir	PRO	מיר	myr	_
+3	veln	MDF	װעלן	VelN	_
+4	zikh	PRO	זיך	zyX	_
+5-6	opshteln	RP~VB	אָפּשטעלן	Aop$telN	_
+5	op	RP	אָפּ	Aop	_
+6	shteln	VB	שטעלן	$telN	_
+7	oyf	P	אױף	AWF	_
+8	dem	D	דעם	deM	_
+9	inyen	N	ענין	enyN	_
+10	a	D	אַ	Aa	_
+11	bisl	N	ביסל	bysl	_
+12	shpeter	ADVR	שפּעטער	$peter	_
+13	.	PUNC	.	.	_
+
+SENT	1946E-MARK,4.76
+1	g.	LS	ג.	g.	_
+2	der	D	דער	der	_
+3	grunt-kll	N	גרונט-קלל	grvnt-kll	_
+4	fun	P	פֿון	fvN	_
+5	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+6	in	P	אין	AyN	_
+7	normaln	ADJ	נאָרמאַלן	nAormAalN	_
+8	dertseylzats	N	דערצײלזאַץ	derqYlzAaQ	_
+
+SENT	1946E-MARK,4.77
+1	nokh	P	נאָך	nAoX	_
+2	dem	D	דעם	deM	_
+3	vi	C	װי	Vy	_
+4	mir	PRO	מיר	myr	_
+5	hobn	HVF	האָבן	hAobN	_
+6-7	oyfgeklert	RP~VBN	אױפֿגעקלערט	AWfgeklert	_
+6	oyf	RP	אױף	AWF	_
+7	geklert	VBN	געקלערט	geklert	_
+8	dem	D	דעם	deM	_
+9	bagrif	N	באַגריף	bAagryF	_
+10	seyder-eyns	N	סדר-אײנס	sdr-AYns	_
+11	,	PUNC	,	,	_
+12	ken	MDF	קען	keN	_
+13	men	PRO	מען	meN	_
+14	gebn	VB	געבן	gebN	_
+15	zeyer	ADV	זײער	zYer	_
+16	a	D	אַ	Aa	_
+17	kurtser	ADJ	קורצער	kvrqer	_
+18	kll	N	קלל	kll	_
+19	vegn	P	װעגן	VegN	_
+20	dem	D	דעם	deM	_
+21	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+22	in	P	אין	AyN	_
+23	dem	D	דעם	deM	_
+24	normaln	ADJ	נאָרמאַלן	nAormAalN	_
+25	,	PUNC	,	,	_
+26	dem	D	דעם	deM	_
+27	ruikn	ADJ	רויִקן	rvyikN	_
+28	dertseylzats	N	דערצײלזאַץ	derqYlzAaQ	_
+29	.	PUNC	.	.	_
+
+SENT	1946E-MARK,4.78
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	kll	N	קלל	kll	_
+4	iz	VBF	איז	Ayz	_
+5	azoy	ADV	אַזױ	AazW	_
+6	eikrdik	ADJ	עיִקרדיק	eyikrdyk	_
+7	az	C	אַז	Aaz	_
+8	er	PRO	ער	er	_
+9	iz	VBF	איז	Ayz	_
+10	oykh	ADV	אױך	AWX	_
+11	khl	N	כל	xl	_
+12	oyf	P	אױף	AWF	_
+13	a	D	אַ	Aa	_
+14	teyl	N	טײל	tYl	_
+15	emotsional	ADV	עמאָציִאָנאַל	emAoqyiAonAal	_
+16	befarbene	ADJ	בעפֿאַרבענע	befAarbene	_
+17	zatsn	N	זאַצן	zAaqN	_
+18	,	PUNC	,	,	_
+19	oykh	ADV	אױך	AWX	_
+20	oyf	P	אױף	AWF	_
+21	freg-	N	פֿרעג-	freg-	_
+22	und	CONJ	אונד	Avnd	_
+23	oysruf-zatsn	N	אױסרוף-זאַצן	AWsrvF-zAaqN	_
+24	.	PUNC	.	.	_
+
+SENT	1946E-MARK,4.79
+1	der	D	דער	der	_
+2	kll	N	קלל	kll	_
+3	bashteyt	VBF	באַשטײט	bAa$tYt	_
+4	sakh-hakol	Q	סך-האַקאָל	sX-hAakAol	_
+5	fun	P	פֿון	fvN	_
+6	etlekkhe	Q	עטלעקכע	etlekxe	_
+7	verter	N	װערטער	Verter	_
+8	:	PUNC	:	:	_
+
+SENT	1946E-MARK,4.80
+1	der	D	דער	der	_
+2	beygiker	ADJ	בײגיקער	bYgyker	_
+3	verb	N	װערב	Verb	_
+4	kumt	VBF	קומט	kvmt	_
+5-6	oyfn	P~D	אױפֿן	AWfN	_
+5	oyf	P	אױף	AWF	_
+6	n	D	נ	n	_
+7	tsveytn	ADJ	צװײטן	qVYtN	_
+8	ort	N	אָרט	Aort	_
+9	fun	P	פֿון	fvN	_
+10	di	D	די	dy	_
+11	seyder-eynsn	N	סדר-אײנסן	sdr-AYnsN	_
+12	.	PUNC	.	.	_
+
+SENT	1946E-MARK,4.81
+1	ale	Q	אַלע	Aale	_
+2	frier	ADVR	פֿריִער	fryier	_
+3	gebrakhtn	ADJ	געבראַכטן	gebrAaxtN	_
+4	beysphiln	N	בײספּהילן	bYsphylN	_
+5	vos	C	װאָס	VAos	_
+6	men	PRO	מען	meN	_
+7	ken	MDF	קען	keN	_
+8	zey	PRO	זײ	zY	_
+9	gefinen	VB	געפֿינען	gefyneN	_
+10	in	P	אין	AyN	_
+11	kapitele	N	קאַפּיטעלע	kAapytele	_
+12	b	REF	ב	b	_
+13	,	PUNC	,	,	_
+14	bashtetikn	VBF	באַשטעטיקן	bAa$tetykN	_
+15	ot	FP	אָט	Aot	_
+16	dem	D	דעם	deM	_
+17	kll	N	קלל	kll	_
+18	.	PUNC	.	.	_
+
+SENT	1946E-MARK,4.82
+1	mir	PRO	מיר	myr	_
+2	brengen	VBF	ברענגען	brengeN	_
+3	ober	ADV	אָבער	Aober	_
+4	nokh	ADV	נאָך	nAoX	_
+5	a	D	אַ	Aa	_
+6	gantse	ADJ	גאַנצע	gAanqe	_
+7	grupe	N	גרופּע	grvpe	_
+8	bayshpiln	N	בײַשפּילן	bYa$pylN	_
+9	kedey	C	כּדי	Kdy	_
+10	der	D	דער	der	_
+11	kll	N	קלל	kll	_
+12	zol	MDF	זאָל	zAol	_
+13	vern	VB	װערן	VerN	_
+14	in_gantsn	ADV	אינ_גאַנצן	Ayn_gAanqN	_
+15	klor	ADJ	קלאָר	klAor	_
+16	:	PUNC	:	:	_
+
+SENT	1946E-MARK,4.83
+1	ikh	PRO	איך	AyX	_
+2	vel	MDF	װעל	Vel	_
+3	geyn	VB	גײן	gYN	_
+4	.	PUNC	.	.	_
+
+SENT	1946E-MARK,4.84
+1	ikh	PRO	איך	AyX	_
+2	aleyn	ADV	אַלײן	AalYN	_
+3	vel	MDF	װעל	Vel	_
+4	geyn	VB	גײן	gYN	_
+5	.	PUNC	.	.	_
+
+SENT	1946E-MARK,4.85
+1	men	PRO	מען	meN	_
+2	tor	MDF	טאָר	tAor	_
+3	nisht	NEG	נישט	ny$t	_
+4-5	oyfvekn	RP~VB	אױפֿװעקן	AWfVekN	_
+4	oyf	RP	אױף	AWF	_
+5	vekn	VB	װעקן	VekN	_
+6	dos	D	דאָס	dAos	_
+7	kind	N	קינד	kynd	_
+8	.	PUNC	.	.	_
+
+SENT	1946E-MARK,4.86
+1-2	oyfvekn	RP~VB	אױפֿװעקן	AWfVekN	_
+1	oyf	RP	אױף	AWF	_
+2	vekn	VB	װעקן	VekN	_
+3	dos	D	דאָס	dAos	_
+4	kind	N	קינד	kynd	_
+5	tor	MDF	טאָר	tAor	_
+6	men	PRO	מען	meN	_
+7	nisht	NEG	נישט	ny$t	_
+8	.	PUNC	.	.	_
+
+SENT	1946E-MARK,4.87
+1	dos	D	דאָס	dAos	_
+2	kind	N	קינד	kynd	_
+3-4	oyfvekn	RP~VB	אױפֿװעקן	AWfVekN	_
+3	oyf	RP	אױף	AWF	_
+4	vekn	VB	װעקן	VekN	_
+5	tor	MDF	טאָר	tAor	_
+6	men	PRO	מען	meN	_
+7	nisht	NEG	נישט	ny$t	_
+8	.	PUNC	.	.	_
+
+SENT	1946E-MARK,4.88
+1	di	D	די	dy	_
+2	tir	N	טיר	tyr	_
+3	fun	P	פֿון	fvN	_
+4	shtub	N	שטוב	$tvb	_
+5	iz	VBF	איז	Ayz	_
+6	ofn	ADJ	אָפֿן	AofN	_
+7	a	D	אַ	Aa	_
+8	gantsn	ADJ	גאַנצן	gAanqN	_
+9	tog	N	טאָג	tAog	_
+10	.	PUNC	.	.	_
+
+SENT	1946E-MARK,4.89
+1	a	D	אַ	Aa	_
+2	gantsn	ADJ	גאַנצן	gAanqN	_
+3	tog	N	טאָג	tAog	_
+4	iz	VBF	איז	Ayz	_
+5	ofn	ADJ	אָפֿן	AofN	_
+6	di	D	די	dy	_
+7	tir	N	טיר	tyr	_
+8	fun	P	פֿון	fvN	_
+9	shtub	N	שטוב	$tvb	_
+10	.	PUNC	.	.	_
+
+SENT	1946E-MARK,4.90
+1	di	D	די	dy	_
+2	sheyne	ADJ	שײנע	$Yne	_
+3	vunderlekhe	ADJ	װוּנדערלעכע	VUnderlexe	_
+4	meshiut	N	מעשיִוט	me$yivt	_
+5	fun	P	פֿון	fvN	_
+6	shtualikn	NPR	שטואַליקן	$tvAalykN	_
+7	dem	D	דעם	deM	_
+8	itum	N	איטום	AytvM	_
+9	hobn	HVF	האָבן	hAobN	_
+10	zeyn	PRO$	זײן	zYN	_
+11	yungn	ADJ	יונגן	yvngN	_
+12	khaver	N	חבֿר	H~r	_
+13	in_gantsn	ADV	אינ_גאַנצן	Ayn_gAanqN	_
+14	farkisuft	VBN	פֿאַרקיסופֿט	fAarkysvft	_
+15	.	PUNC	.	.	_
+
+SENT	1946E-MARK,4.91
+1	azoy	ADV	אַזױ	AazW	_
+2	zogt	VBF	זאָגט	zAogt	_
+3	tsu	P	צו	qv	_
+4	mir	PRO	מיר	myr	_
+5	meyn	PRO$	מײן	mYN	_
+6	bruder	N	ברודער	brvder	_
+7	alihu	NPR	אַליהו	Aalyhv	_
+8	.	PUNC	.	.	_
+
+SENT	1946E-MARK,4.92
+1	efsher	ADV	אפֿשר	Af$r	_
+2	vet	MDF	װעט	Vet	_
+3	er	PRO	ער	er	_
+4	kumen	VB	קומען	kvmeN	_
+5	.	PUNC	.	.	_
+
+SENT	1946E-MARK,4.93
+1	ot	FP	אָט	Aot	_
+2	falt	VBF	פֿאַלט	fAalt	_
+3	fun	P	פֿון	fvN	_
+4	himl	N	הימל	hyml	_
+5	a	D	אַ	Aa	_
+6	likhtiker	ADJ	ליכטיקער	lyxtyker	_
+7	shtern	N	שטערן	$terN	_
+8	.	PUNC	.	.	_
+
+SENT	1946E-MARK,4.94
+1	oy	INTJ	אױ	AW	_
+2	krekhtst	VBF	קרעכצט	krexqt	_
+3	men	PRO	מען	meN	_
+4	.	PUNC	.	.	_
+
+SENT	1946E-MARK,4.95
+1	in	P	אין	AyN	_
+2	di	D	די	dy	_
+3	ale	Q	אַלע	Aale	_
+4	zatsn	N	זאַצן	zAaqN	_
+5	kumt	VBF	קומט	kvmt	_
+6-7	farn	P~D	פֿאַרן	fAarN	_
+6	far	P	פֿאַר	fAar	_
+7	n	D	נ	n	_
+8	beygikn	ADJ	בײגיקן	bYgykN	_
+9	verb	N	װערב	Verb	_
+10	nor	FP	נאָר	nAor	_
+11	eyn	NUM	אײן	AYN	_
+12	seyder-eyns	N	סדר-אײנס	sdr-AYns	_
+13	.	PUNC	.	.	_
+
+SENT	1946E-MARK,4.96
+1	agev	ADV	אַגבֿ	Aag~	_
+2	,	PUNC	,	,	_
+3	eyder	C	אײדער	AYder	_
+4	mir	PRO	מיר	myr	_
+5	geyen	VBF	גײען	gYeN	_
+6	vayter	ADVR	װײַטער	VYater	_
+7	,	PUNC	,	,	_
+8	zol	MDF	זאָל	zAol	_
+9	do	ADV	דאָ	dAo	_
+10	nokh	ADV	נאָך	nAoX	_
+11	gezogt	VAN	געזאָגט	gezAogt	_
+12	vern	RD	װערן	VerN	_
+13	,	PUNC	,	,	_
+14	az	C	אַז	Aaz	_
+15	der	D	דער	der	_
+16	ufn	ADJ	אופֿן	AvfN	_
+17-18	aroysreydn	ADV~VB	אַרױסרײדן	AarWsrYdN	_
+17	aroys	ADV	אַרױס	AarWs	_
+18	reydn	VB	רײדן	rYdN	_
+19	,	PUNC	,	,	_
+20	di	D	די	dy	_
+21	intonatsie	N	אינטאָנאַציִע	AyntAonAaqyie	_
+22	fun	P	פֿון	fvN	_
+23-24	opteyln	RP~VB	אָפּטײלן	AoptYlN	_
+23	op	RP	אָפּ	Aop	_
+24	teyln	VB	טײלן	tYlN	_
+25	oder	CONJ	אָדער	Aoder	_
+26-27	tsunoyfnemen	ADV~VB	צונױפֿנעמען	qvnWfnemeN	_
+26	tsunoyf	ADV	צונױף	qvnWF	_
+27	nemen	VB	נעמען	nemeN	_
+28	in	P	אין	AyN	_
+29	eynem	PRO	אײנעם	AYneM	_
+30	,	PUNC	,	,	_
+31	bashtimt	VBF	באַשטימט	bAa$tymt	_
+32	tsi	C	צי	qy	_
+33	mir	PRO	מיר	myr	_
+34	hobn	VBF	האָבן	hAobN	_
+35	tsu	TO	צו	qv	_
+36	ton	VB	טאָן	tAoN	_
+37	mit	P	מיט	myt	_
+38	eyn	D	אײן	AYN	_
+39	seyder-eyns	N	סדר-אײנס	sdr-AYns	_
+40	oder	CONJ	אָדער	Aoder	_
+41	mit	P	מיט	myt	_
+42	tsvey	N	צװײ	qVY	_
+43	.	PUNC	.	.	_
+
+SENT	1946E-MARK,4.97
+1	hert	VBI	הערט	hert	_
+2	zikh	PRO	זיך	zyX	_
+3	tsu	RP	צו	qv	_
+4	tsu	P	צו	qv	_
+5	dem	D	דעם	deM	_
+6	,	PUNC	,	,	_
+7	vi	WADV	װי	Vy	_
+8	ir	PRO	איר	Ayr	_
+9	aleyn	ADV	אַלײן	AalYN	_
+10	brengt	VBF	ברענגט	brengt	_
+11	aroys	ADV	אַרױס	AarWs	_
+12	di	D	די	dy	_
+13	beyde	Q	בײדע	bYde	_
+14	zatsn	N	זאַצן	zAaqN	_
+15	:	PUNC	:	:	_
+
+SENT	1946E-MARK,4.98
+1	a.	LS	אַ.	Aa.	_
+2	dos	D	דאָס	dAos	_
+3	kind	N	קינד	kynd	_
+4-5	oyfvekn	RP~VB	אױפֿװעקן	AWfVekN	_
+4	oyf	RP	אױף	AWF	_
+5	vekn	VB	װעקן	VekN	_
+6	tor	MDF	טאָר	tAor	_
+7	men	PRO	מען	meN	_
+8	nisht	NEG	נישט	ny$t	_
+9	.	PUNC	.	.	_
+
+SENT	1946E-MARK,4.99
+1	b.	LS	ב.	b.	_
+2	dos	D	דאָס	dAos	_
+3	kind	N	קינד	kynd	_
+4	tor	MDF	טאָר	tAor	_
+5	men	PRO	מען	meN	_
+6	nisht	NEG	נישט	ny$t	_
+7-8	oyfvekn	RP~VB	אױפֿװעקן	AWfVekN	_
+7	oyf	RP	אױף	AWF	_
+8	vekn	VB	װעקן	VekN	_
+9	.	PUNC	.	.	_
+
+SENT	1946E-MARK,4.100
+1	oykh	ADV	אױך	AWX	_
+2	in	P	אין	AyN	_
+3	frages	N	פֿראַגעס	frAages	_
+4	un	CONJ	און	AvN	_
+5	in	P	אין	AyN	_
+6	oysrufn	N	אױסרופֿן	AWsrvfN	_
+7	iz	VBF	איז	Ayz	_
+8	miglekh	ADJ	מיגלעך	mygleX	_
+9	der	D	דער	der	_
+10	zelbiker	ADJ	זעלביקער	zelbyker	_
+11	seyder	N	סדר	sdr	_
+12	verter	N	װערטער	Verter	_
+13	,	PUNC	,	,	_
+
+SENT	1946E-MARK,4.101
+1	un	CONJ	און	AvN	_
+2	nor	FP	נאָר	nAor	_
+3	di	D	די	dy	_
+4	intonatsie	N	אינטאָנאַציִע	AyntAonAaqyie	_
+5	fun	P	פֿון	fvN	_
+6	fregn	N	פֿרעגן	fregN	_
+7	oder	CONJ	אָדער	Aoder	_
+8	fun	P	פֿון	fvN	_
+9	emotsianeln	ADJ	עמאָציִאַנעלן	emAoqyiAanelN	_
+10	oysrufn	N	אױסרופֿן	AWsrvfN	_
+11	bashtimt	VBF	באַשטימט	bAa$tymt	_
+12	dem	D	דעם	deM	_
+13	kharakter	N	כאַראַקטער	xAarAakter	_
+14	fun	P	פֿון	fvN	_
+15	a	D	אַ	Aa	_
+16	freg-	N	פֿרעג-	freg-	_
+17	oder	CONJ	אָדער	Aoder	_
+18	an	D	אַן	AaN	_
+19	oysruf-zats	N	אױסרוף-זאַץ	AWsrvF-zAaQ	_
+20	,	PUNC	,	,	_
+
+SENT	1946E-MARK,4.102
+1	lemoshl	H	למשל	lm$l	for_example
+2	:	PUNC	:	:	_
+3	1a.	LS	1אַ.	1Aa.	_
+4	ir	PRO$	איר	Ayr	_
+5	esn	N	עסן	esN	_
+6	vet	MDF	װעט	Vet	_
+7	gornisht	Q	גאָרנישט	gAorny$t	_
+8	kostn	VB	קאָסטן	kAostN	_
+9	.	PUNC	.	.	_
+
+SENT	1946E-MARK,4.103
+1	1b.	LS	1ב.	1b.	_
+2	ir	PRO$	איר	Ayr	_
+3	esn	N	עסן	esN	_
+4	vet	MDF	װעט	Vet	_
+5	gornisht	Q	גאָרנישט	gAorny$t	_
+6	kostn	VB	קאָסטן	kAostN	_
+7	?	PUNC	?	?	_
+
+SENT	1946E-MARK,4.104
+1	2a.	LS	2אַ.	2Aa.	_
+2	ir	PRO	איר	Ayr	_
+3	arbet	VBF	אַרבעט	Aarbet	_
+4	nit	NEG	ניט	nyt	_
+5	vi	P	װי	Vy	_
+6	an	D	אַן	AaN	_
+7	eyzl	N	אײזל	AYzl	_
+8	a	D	אַ	Aa	_
+9	gantsn	ADJ	גאַנצן	gAanqN	_
+10	tog	N	טאָג	tAog	_
+11	.	PUNC	.	.	_
+
+SENT	1946E-MARK,4.105
+1	2b.	LS	2ב.	2b.	_
+2	ir	PRO	איר	Ayr	_
+3	arbet	VBF	אַרבעט	Aarbet	_
+4	nit	NEG	ניט	nyt	_
+5	vi	P	װי	Vy	_
+6	an	D	אַן	AaN	_
+7	eyzl	N	אײזל	AYzl	_
+8	a	D	אַ	Aa	_
+9	gantsn	ADJ	גאַנצן	gAanqN	_
+10	tog	N	טאָג	tAog	_
+11	?	PUNC	?	?	_
+
+SENT	1946E-MARK,4.106
+1	3a.	LS	3אַ.	3Aa.	_
+2	ir	PRO	איר	Ayr	_
+3	shpilt	VBF	שפּילט	$pylt	_
+4	zikh	PRO	זיך	zyX	_
+5	mit	P	מיט	myt	_
+6	berlen	N	בערלען	berleN	_
+7	.	PUNC	.	.	_
+
+SENT	1946E-MARK,4.107
+1	3b.	LS	3ב.	3b.	_
+2	ir	PRO	איר	Ayr	_
+3	shpilt	VBF	שפּילט	$pylt	_
+4	zikh	PRO	זיך	zyX	_
+5	mit	P	מיט	myt	_
+6	berlen	N	בערלען	berleN	_
+7	!	PUNC	!	!	_
+
+SENT	1946E-MARK,4.108
+1	hkll	ADV	הקלל	hkll	_
+2	,	PUNC	,	,	_
+3	in	P	אין	AyN	_
+4	frages	N	פֿראַגעס	frAages	_
+5	un	CONJ	און	AvN	_
+6	in	P	אין	AyN	_
+7	oysrufn	N	אױסרופֿן	AWsrvfN	_
+8	kumt	VBF	קומט	kvmt	_
+9	oykh	ADV	אױך	AWX	_
+10	der	D	דער	der	_
+11	beygiker	ADJ	בײגיקער	bYgyker	_
+12	verb	N	װערב	Verb	_
+13-14	oyfn	P~D	אױפֿן	AWfN	_
+13	oyf	P	אױף	AWF	_
+14	n	D	נ	n	_
+15	tsveytn	ADJ	צװײטן	qVYtN	_
+16	ort	N	אָרט	Aort	_
+17	:	PUNC	:	:	_
+
+SENT	1946E-MARK,5.110
+1	vos	WPRO	װאָס	VAos	_
+2	klert	VBF	קלערט	klert	_
+3	ir	PRO	איר	Ayr	_
+4	?	PUNC	?	?	_
+
+SENT	1946E-MARK,5.111
+1	vi_azoy	WADV	װי_אַזױ	Vy_AazW	_
+2	iz	BEF	איז	Ayz	_
+3	er	PRO	ער	er	_
+4-5	arayngekumen	ADV~VBN	אַרײַנגעקומען	AarYangekvmeN	_
+4	arayn	ADV	אַרײַן	AarYaN	_
+5	gekumen	VBN	געקומען	gekvmeN	_
+6	?	PUNC	?	?	_
+
+SENT	1946E-MARK,5.112
+1	oy	INTJ	אױ	AW	_
+2	,	PUNC	,	,	_
+3	ligt	VBF	ליגט	lygt	_
+4	men	PRO	מען	meN	_
+5	in	P	אין	AyN	_
+6	dr	D	דר	dr	_
+7	erd	N	ערד	erd	_
+8	!	PUNC	!	!	_
+
+SENT	1946E-MARK,5.113
+1	mit	P	מיט	myt	_
+2	berlen	N	בערלען	berleN	_
+3	shpilt	VBF	שפּילט	$pylt	_
+4	ir	PRO	איר	Ayr	_
+5	zikh	PRO	זיך	zyX	_
+6	!	PUNC	!	!	_
+
+SENT	1946E-MARK,5.114
+1	es	ES	עס	es	_
+2	iz	VBF	איז	Ayz	_
+3	klor	ADJ	קלאָר	klAor	_
+4	fun	P	פֿון	fvN	_
+5	di	D	די	dy	_
+6	ale	Q	אַלע	Aale	_
+7	beysphiln	N	בײספּהילן	bYsphylN	_
+8	,	PUNC	,	,	_
+9	az	C	אַז	Aaz	_
+10	in	P	אין	AyN	_
+11	yidish	N	ייִדיש	yyidy$	_
+12	shpilt	VBF	שפּילט	$pylt	_
+13	nisht	NEG	נישט	ny$t	_
+14	keyn	Q	קײן	kYN	_
+15	role	N	ראָלע	rAole	_
+16	der	D	דער	der	_
+17	khilek	N	חילוק	Hylvk	_
+18	tsvishn	P	צװישן	qVy$N	_
+19	a	D	אַ	Aa	_
+20	direktn	ADJ	דירעקטן	dyrektN	_
+21	un	CONJ	און	AvN	_
+22	umdirektn	ADJ	אומדירעקטן	AvmdyrektN	_
+23	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+24	.	PUNC	.	.	_
+
+SENT	1946E-MARK,5.115
+1	bekheyn	ADV	בכן	bxN	_
+2	,	PUNC	,	,	_
+3	iz	VBF	איז	Ayz	_
+4	aza	ADV	אַזאַ	AazAa	_
+5	min	QR	מין	myN	_
+6	untersheydn	N	אונטערשײדן	Avnter$YdN	_
+7	tsvishn	P	צװישן	qVy$N	_
+8	a	D	אַ	Aa	_
+9	direkten	ADJ	דירעקטען	dyrekteN	_
+10	un	CONJ	און	AvN	_
+11	umdirekten	ADJ	אומדירעקטען	AvmdyrekteN	_
+12	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+13	lkhlutin	H	לכלוטין	lxlvtyN	UNKNOWN
+14	iberik	ADV	איבעריק	Ayberyk	_
+15	in	P	אין	AyN	_
+16	der	D	דער	der	_
+17	yidisher	ADJ	ייִדישער	yyidy$er	_
+18	gramatik	N	גראַמאַטיק	grAamAatyk	_
+19	,	PUNC	,	,	_
+
+SENT	1946E-MARK,5.116
+1	un	CONJ	און	AvN	_
+2	oyb	C	אױב	AWb	_
+3	emetser	Q	עמעצער	emeqer	_
+4	firt	VBF	פֿירט	fyrt	_
+5	es	PRO	עס	es	_
+6	arayn	ADV	אַרײַן	AarYaN	_
+7-8	baym	P~D	בײַם	bYaM	_
+7	bay	P	בײַ	bYa	_
+8	m	D	מ	m	_
+9	lernen	VB	לערנען	lerneN	_
+10	yidish	N	ייִדיש	yyidy$	_
+11	iz	VBF	איז	Ayz	_
+12	es	PRO	עס	es	_
+13	nit	NEG	ניט	nyt	_
+14	mer	QR	מער	mer	_
+15	vi	P	װי	Vy	_
+16	a	D	אַ	Aa	_
+17	simn	N	סימן	symN	_
+18	az	C	אַז	Aaz	_
+19	er	PRO	ער	er	_
+20	iz	VBF	איז	Ayz	_
+21	an	D	אַן	AaN	_
+22	evd	H	עװד	eVd	UNKNOWN
+23	kneni	H	קנעני	kneny	UNKNOWN
+24	bay	P	בײַ	bYa	_
+25	a	D	אַ	Aa	_
+26	fremder	ADJ	פֿרעמדער	fremder	_
+27	gramatik	N	גראַמאַטיק	grAamAatyk	_
+28	.	PUNC	.	.	_
+
+SENT	1946E-MARK,5.117
+1	men	PRO	מען	meN	_
+2	darf	MDF	דאַרף	dAarF	_
+3	anzeik	ADV	אַנזעיִק	Aanzeyik	_
+4	zikh	PRO	זיך	zyX	_
+5-6	farshteln	RP~VB	פֿאַרשטעלן	fAar$telN	_
+5	far	RP	פֿאַר	fAar	_
+6	shteln	VB	שטעלן	$telN	_
+7	dem	D	דעם	deM	_
+8	yidishn	ADJ	ייִדישן	yyidy$N	_
+9	zats	N	זאַץ	zAaQ	_
+10	vi	P	װי	Vy	_
+11	a	D	אַ	Aa	_
+12	keyt	N	קײט	kYt	_
+13	vu	WADV	װוּ	VU	_
+14	di	D	די	dy	_
+15	ringen	N	רינגען	ryngeN	_
+16	kenen	MDF	קענען	keneN	_
+17	zikh	PRO	זיך	zyX	_
+18	baytn	VB	בײַטן	bYatN	_
+19	mit	P	מיט	myt	_
+20	zeyere	PRO$	זײערע	zYere	_
+21	erter	N	ערטער	erter	_
+
+SENT	1946E-MARK,5.118
+1	ober	CONJ	אָבער	Aober	_
+2	eyn	D	אײן	AYN	_
+3	ring	N	רינג	ryng	_
+4	iz	VBF	איז	Ayz	_
+5	shtabil	ADJ	שטאַביל	$tAabyl	_
+
+SENT	1946E-MARK,5.119
+1	iz	BEF	איז	Ayz	_
+2-3	tsugefestikt	RP~VAN	צוגעפֿעסטיקט	qvgefestykt	_
+2	tsu	RP	צו	qv	_
+3	gefestikt	VAN	געפֿעסטיקט	gefestykt	_
+4-5	tsum	P~D	צום	qvM	_
+4	tsu	P	צו	qv	_
+5	m	D	מ	m	_
+6	tsveytn	ADJ	צװײטן	qVYtN	_
+7	ort	N	אָרט	Aort	_
+8	.	PUNC	.	.	_
+
+SENT	1946E-MARK,5.120
+1	der	D	דער	der	_
+2	beygiker	ADJ	בײגיקער	bYgyker	_
+3	verb	N	װערב	Verb	_
+4	iz	VBF	איז	Ayz	_
+5	azoy	ADV	אַזױ	AazW	_
+6	vi	P	װי	Vy	_
+7	di	D	די	dy	_
+8	aks	N	אַקס	Aaks	_
+9	vos	C	װאָס	VAos	_
+10	zi	PRO	זי	zy	_
+11	bavegt	VBF	באַװעגט	bAaVegt	_
+12	zikh	PRO	זיך	zyX	_
+13	nit	NEG	ניט	nyt	_
+14	un	CONJ	און	AvN	_
+15	vos	C	װאָס	VAos	_
+16	arum	P	אַרום	AarvM	_
+17	ir	PRO	איר	Ayr	_
+18	kenen	MDF	קענען	keneN	_
+19	zikh	PRO	זיך	zyX	_
+20-21	ibershteln	RP~VB	איבערשטעלן	Ayber$telN	_
+20	iber	RP	איבער	Ayber	_
+21	shteln	VB	שטעלן	$telN	_
+22-23	ophitndik	RP~VAG	אָפּהיטנדיק	Aophytndyk	_
+22	op	RP	אָפּ	Aop	_
+23	hitndik	VAG	היטנדיק	hytndyk	_
+24	gevise	ADJ	געװיסע	geVyse	_
+25	tsugob-kllim	N	צוגאָב-קללים	qvgAob-kllyM	_
+26	di	D	די	dy	_
+27	andere	ADJ	אַנדערע	Aandere	_
+28	seyder-eynsn	N	סדר-אײנסן	sdr-AYnsN	_
+29	fun	P	פֿון	fvN	_
+30	zats	N	זאַץ	zAaQ	_
+31	.	PUNC	.	.	_
+
+SENT	1946E-MARK,5.121
+1	biz	P	ביז	byz	_
+2	itst	ADV	איצט	Ayqt	_
+3	hobn	HVF	האָבן	hAobN	_
+4	mir	PRO	מיר	myr	_
+5	gehot	VBN	געהאָט	gehAot	_
+6	tsu	TO	צו	qv	_
+7	ton	VB	טאָן	tAoN	_
+8	mit	P	מיט	myt	_
+9	poshete	ADJ	פּשוטע	p$vte	_
+10	zatsn	N	זאַצן	zAaqN	_
+11	.	PUNC	.	.	_
+
+SENT	1946E-MARK,5.122
+1	ober	CONJ	אָבער	Aober	_
+2	oykh	ADV	אױך	AWX	_
+3	in	P	אין	AyN	_
+4	di	D	די	dy	_
+5	tsunoyfgezetste	ADJ	צונױפֿגעזעצטע	qvnWfgezeqte	_
+6	zatsn	N	זאַצן	zAaqN	_
+7	geveltikt	VBF	געװעלטיקט	geVeltykt	_
+8	der	D	דער	der	_
+9	zelbiker	ADJ	זעלביקער	zelbyker	_
+10	printsip	N	פּרינציפּ	prynqyp	_
+11	fun	P	פֿון	fvN	_
+12	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+13	,	PUNC	,	,	_
+14	oykh	ADV	אױך	AWX	_
+15	dortn	ADV	דאָרטן	dAortN	_
+16	vu	WADV	װוּ	VU	_
+17	mir	PRO	מיר	myr	_
+18	hobn	VBF	האָבן	hAobN	_
+19	a	D	אַ	Aa	_
+20	hoyptzats	N	הױפּטזאַץ	hWptzAaQ	_
+21	un	CONJ	און	AvN	_
+22	a	D	אַ	Aa	_
+23	bayzats	N	בײַזאַץ	bYazAaQ	_
+24	.	PUNC	.	.	_
+
+SENT	1946E-MARK,5.123
+1	ven	C	װען	VeN	_
+2	der	D	דער	der	_
+3	beyzats	N	בײזאַץ	bYzAaQ	_
+4	kumt	VBF	קומט	kvmt	_
+5	nokh	P	נאָך	nAoX	_
+6	dem	D	דעם	deM	_
+7	hoyptzats	N	הױפּטזאַץ	hWptzAaQ	_
+8	iz	VBF	איז	Ayz	_
+9-10	oyfn	P~D	אױפֿן	AWfN	_
+9	oyf	P	אױף	AWF	_
+10	n	D	נ	n	_
+11	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+12	i	CONJ	אי	Ay	_
+13	fun	P	פֿון	fvN	_
+14	hoyptzats	N	הױפּטזאַץ	hWptzAaQ	_
+15	i	CONJ	אי	Ay	_
+16	fun	P	פֿון	fvN	_
+17	bayzats	N	בײַזאַץ	bYazAaQ	_
+18	khl	H	כל	xl	general
+19	der	D	דער	der	_
+20	zelbiker	ADJ	זעלביקער	zelbyker	_
+21	grund-kll	N	גרונד-קלל	grvnd-kll	_
+22	.	PUNC	.	.	_
+
+SENT	1946E-MARK,5.124
+1	mir	PRO	מיר	myr	_
+2	darfn	MDF	דאַרפֿן	dAarfN	_
+3	bloyz	ADV	בלױז	blWz	_
+4	nit	NEG	ניט	nyt	_
+5	fargesn	VB	פֿאַרגעסן	fAargesN	_
+6	az	C	אַז	Aaz	_
+7	di	D	די	dy	_
+8	konyunktsie	N	קאָניונקציִע	kAonyvnkqyie	_
+9	vert	RDF	װערט	Vert	_
+10	nit	NEG	ניט	nyt	_
+11-12	arayngerekhnt	ADV~VAN	אַרײַנגערעכנט	AarYangerexnt	_
+11	arayn	ADV	אַרײַן	AarYaN	_
+12	gerekhnt	VAN	גערעכנט	gerexnt	_
+13	in	P	אין	AyN	_
+14	der	D	דער	der	_
+15	tsol	N	צאָל	qAol	_
+16	seyder-eynsn	N	סדר-אײנסן	sdr-AYnsN	_
+17	.	PUNC	.	.	_
+
+SENT	1946E-MARK,5.125
+1	etlekhe	Q	עטלעכע	etlexe	_
+2	bayshpiln	N	בײַשפּילן	bYa$pylN	_
+3	oyf	P	אױף	AWF	_
+4	tsu	TO	צו	qv	_
+5	ilustrirn	VB	אילוסטרירן	AylvstryrN	_
+6	:	PUNC	:	:	_
+
+SENT	1946E-MARK,5.126
+1	ikh	PRO	איך	AyX	_
+2	veys	VBF	װײס	VYs	_
+3	oyf	P	אױף	AWF	_
+4	zikher	N	זיכער	zyxer	_
+5	az	C	אַז	Aaz	_
+6	moyshe	NPR	משה	m$h	_
+7	vet	MDF	װעט	Vet	_
+8	morgen	ADV	מאָרגען	mAorgeN	_
+9	kumen	VB	קומען	kvmeN	_
+10	tsu	TO	צו	qv	_
+11	forn	VB	פֿאָרן	fAorN	_
+
+SENT	1946E-MARK,5.127
+1	zi	PRO	זי	zy	_
+2	veys	VBF	װײס	VYs	_
+3	gornisht	NEG	גאָרנישט	gAorny$t	_
+4	tsi	C	צי	qy	_
+5	es	ES	עס	es	_
+6	kumt	VBF	קומט	kvmt	_
+7	a	D	אַ	Aa	_
+8	gast	N	גאַסט	gAast	_
+
+SENT	1946E-MARK,5.128
+1	fun	P	פֿון	fvN	_
+2	turem	N	טורעם	tvreM	_
+3	zet	VBF	זעט	zet	_
+4	der	D	דער	der	_
+5	vekhter	N	װעכטער	Vexter	_
+6	vi	C	װי	Vy	_
+7	es	ES	עס	es	_
+8	dernentsert	VBF	דערנענצערט	dernenqert	_
+9	zikh	PRO	זיך	zyX	_
+10	der	D	דער	der	_
+11	kheyl	N	כײל	xYl	_
+12	fun	P	פֿון	fvN	_
+13	soyne	N	שׂונא	CvnA	_
+14	.	PUNC	.	.	_
+
+SENT	1946E-MARK,5.129
+1	der	D	דער	der	_
+2	dokter	N	דאָקטער	dAokter	_
+3	hot	HVF	האָט	hAot	_
+4	geheysn	VBN	געהײסן	gehYsN	_
+5	glaykh	ADV	גלײַך	glYaX	_
+6	operirn	VB	אָפּערירן	AoperyrN	_
+7	,	PUNC	,	,	_
+8	vayl	C	װײַל	VYal	_
+9	keyn	Q	קײן	kYN	_
+10	ander	ADJ	אַנדער	Aander	_
+11	brirh	N	ברירה	bryrh	_
+12	iz	BEF	איז	Ayz	_
+13	shoyn	ADV	שױן	$WN	_
+14	nit	NEG	ניט	nyt	_
+15	geven	VBN	געװען	geVeN	_
+16	.	PUNC	.	.	_
+
+SENT	1946E-MARK,5.130
+1	der	D	דער	der	_
+2	zelbiker	ADJ	זעלביקער	zelbyker	_
+3	kll	N	קלל	kll	_
+4	vegn	P	װעגן	VegN	_
+5	beygikn	ADJ	בײגיקן	bYgykN	_
+6	verb	N	װערב	Verb	_
+7-8	oyfn	P~D	אױפֿן	AWfN	_
+7	oyf	P	אױף	AWF	_
+8	n	D	נ	n	_
+9	tsveytn	ADJ	צװײטן	qVYtN	_
+10	ort	N	אָרט	Aort	_
+11	iz	VBF	איז	Ayz	_
+12	oykh	ADV	אױך	AWX	_
+13	khl	H	כל	xl	UNKNOWN
+14	oyf	P	אױף	AWF	_
+15	dem	D	דעם	deM	_
+16	atributivn	ADJ	אַטריבוטיװן	AatrybvtyVN	_
+17	bayzats	N	בײַזאַץ	bYazAaQ	_
+18	,	PUNC	,	,	_
+19	hn	CONJ	הן	hN	_
+20	oyf	P	אױף	AWF	_
+21	dem	D	דעם	deM	_
+22	relativishn	ADJ	רעלאַטיװישן	relAatyVy$N	_
+23	,	PUNC	,	,	_
+24	hn	CONJ	הן	hN	_
+25	oyf	P	אױף	AWF	_
+26	dem	D	דעם	deM	_
+27	konyunktivishn	ADJ	קאָניונקטיװישן	kAonyvnktyVy$N	_
+28	,	PUNC	,	,	_
+
+SENT	1946E-MARK,5.131
+1	lemoshl	H	למשל	lm$l	for_example
+2	:	PUNC	:	:	_
+3	di	D	די	dy	_
+4	oytsres	N	אוצרות	AvqrvS	_
+5	vos	C	װאָס	VAos	_
+6	der	D	דער	der	_
+7	yam	N	ים	yM	_
+8	hot	HVF	האָט	hAot	_
+9	zey	PRO	זײ	zY	_
+10	bahaltn	VBN	באַהאַלטן	bAahAaltN	_
+11	oyf	P	אױף	AWF	_
+12	eybik	ADV	אײביק	AYbyk	_
+
+SENT	1946E-MARK,5.132
+1	meyn	PRO$	מײן	mYN	_
+2	freynd	N	פֿרײנד	frYnd	_
+3	vos	C	װאָס	VAos	_
+4	ikh	PRO	איך	AyX	_
+5	hob	HVF	האָב	hAob	_
+6	im	PRO	אים	AyM	_
+7	shoyn	ADV	שױן	$WN	_
+8	lang	ADV	לאַנג	lAang	_
+9	nit	NEG	ניט	nyt	_
+10	gezen	VBN	געזען	gezeN	_
+
+SENT	1946E-MARK,5.133
+1	di	D	די	dy	_
+2	shtot	N	שטאָט	$tAot	_
+3	vu	WADV	װוּ	VU	_
+4	der	D	דער	der	_
+5	held	N	העלד	held	_
+6	iz	BEF	איז	Ayz	_
+7	geboyrn	VAN	געבױרן	gebWrN	_
+8	gevorn	RDN	געװאָרן	geVAorN	_
+
+SENT	1946E-MARK,5.134
+1	ven	C	װען	VeN	_
+2	ober	ADV	אָבער	Aober	_
+3	der	D	דער	der	_
+4	bayzats	N	בײַזאַץ	bYazAaQ	_
+5	kumt	VBF	קומט	kvmt	_
+6	far	P	פֿאַר	fAar	_
+7	dem	D	דעם	deM	_
+8	hoyptzats	N	הױפּטזאַץ	hWptzAaQ	_
+9	,	PUNC	,	,	_
+10	shpilt	VBF	שפּילט	$pylt	_
+11	der	D	דער	der	_
+12	gantser	ADJ	גאַנצער	gAanqer	_
+13	bayzats	N	בײַזאַץ	bYazAaQ	_
+14	benegeye	P	בנוגע	bnvge	_
+15-16	tsum	P~D	צום	qvM	_
+15	tsu	P	צו	qv	_
+16	m	D	מ	m	_
+17	hoyptzats	N	הױפּטזאַץ	hWptzAaQ	_
+18	di	D	די	dy	_
+19	role	N	ראָלע	rAole	_
+20	fun	P	פֿון	fvN	_
+21	eyn	D	אײן	AYN	_
+22	seyder-eyns	N	סדר-אײנס	sdr-AYns	_
+23	.	PUNC	.	.	_
+
+SENT	1946E-MARK,5.135
+1	bekheyn	ADV	בכן	bxN	_
+2	,	PUNC	,	,	_
+3	kumt	VBF	קומט	kvmt	_
+4	yemolt	ADV	יעמאָלט	yemAolt	_
+5	der	D	דער	der	_
+6	verb	N	װערב	Verb	_
+7	fun	P	פֿון	fvN	_
+8	dem	D	דעם	deM	_
+9	hoyptzats	N	הױפּטזאַץ	hWptzAaQ	_
+10	gleykh	ADV	גלײך	glYX	_
+11	in	P	אין	AyN	_
+12	onheyb	N	אָנהײב	AonhYb	_
+13	,	PUNC	,	,	_
+
+SENT	1946E-MARK,5.136
+1	lemoshl	H	למשל	lm$l	for_example
+2	:	PUNC	:	:	_
+3	ven	C	װען	VeN	_
+4	ikh	PRO	איך	AyX	_
+5	bin	VBF	בין	byN	_
+6	tsu	P	צו	qv	_
+7	im	PRO	אים	AyM	_
+8	arayn	ADV	אַרײַן	AarYaN	_
+9	,	PUNC	,	,	_
+10	hob	HVF	האָב	hAob	_
+11	ikh	PRO	איך	AyX	_
+12	im	PRO	אים	AyM	_
+13	nokh	ADV	נאָך	nAoX	_
+14	getrofen	VBN	געטראָפֿען	getrAofeN	_
+15	in	P	אין	AyN	_
+16	bet	N	בעט	bet	_
+17	.	PUNC	.	.	_
+
+SENT	1946E-MARK,5.137
+1	vayl	C	װײַל	VYal	_
+2	keyn	Q	קײן	kYN	_
+3	ander	ADJ	אַנדער	Aander	_
+4	brirh	N	ברירה	bryrh	_
+5	iz	BEF	איז	Ayz	_
+6	shoyn	ADV	שױן	$WN	_
+7	nit	NEG	ניט	nyt	_
+8	geven	VBN	געװען	geVeN	_
+9	,	PUNC	,	,	_
+10	hot	HVF	האָט	hAot	_
+11	der	D	דער	der	_
+12	doktor	N	דאָקטאָר	dAoktAor	_
+13	geheysn	VBN	געהײסן	gehYsN	_
+14	glaykh	ADV	גלײַך	glYaX	_
+15	operirn	VB	אָפּערירן	AoperyrN	_
+
+SENT	1946E-MARK,5.138
+1	az	C	אַז	Aaz	_
+2	men	PRO	מען	meN	_
+3	klingt	VBF	קלינגט	klyngt	_
+4	iz	VBF	איז	Ayz	_
+5	a	D	אַ	Aa	_
+6	khga	N	כגאַ	xgAa	_
+
+SENT	1946E-MARK,6.140
+1	dos	D	דאָס	dAos	_
+2	eygene	N	אײגענע	AYgene	_
+3	kumt	VBF	קומט	kvmt	_
+4	oykh	ADV	אױך	AWX	_
+5	far	RP	פֿאַר	fAar	_
+6	in	P	אין	AyN	_
+7	di	D	די	dy	_
+8	bagleytzatsn	N	באַגלײטזאַצן	bAaglYtzAaqN	_
+9	,	PUNC	,	,	_
+10	ven	C	װען	VeN	_
+11	men	PRO	מען	meN	_
+12	tsitirt	VBF	ציטירט	qytyrt	_
+13	fremde	ADJ	פֿרעמדע	fremde	_
+14	reyd	N	רײד	rYd	_
+15	,	PUNC	,	,	_
+
+SENT	1946E-MARK,6.141
+1	lemoshl	H	למשל	lm$l	for_example
+2	:	PUNC	:	:	_
+3	du	PRO	דו	dv	_
+4	host	HVF	האָסט	hAost	_
+5	shoyn	ADV	שױן	$WN	_
+6	gegesn	VBN	געגעסן	gegesN	_
+7	voremes	N	װאָרעמעס	VAoremes	_
+8	hot	HVF	האָט	hAot	_
+9	er	PRO	ער	er	_
+10	zi	PRO	זי	zy	_
+11	gefregt	VBN	געפֿרעגט	gefregt	_
+
+SENT	1946E-MARK,6.142
+1	neyn	INTJ	נײן	nYN	_
+2	hot	HVF	האָט	hAot	_
+3	zi	PRO	זי	zy	_
+4	geentfert	VBN	געענטפֿערט	geentfert	_
+
+SENT	1946E-MARK,6.143
+1	d.	LS	ד.	d.	_
+2	der	D	דער	der	_
+3	fiktiver	ADJ	פֿיקטיװער	fyktyVer	_
+4	subyekt	N	סוביעקט	svbyekt	_
+5	es	ES	עס	es	_
+
+SENT	1946E-MARK,6.144
+1	bshaykhut	P	בשײַכוט	b$Yaxvt	_
+2-3	mitn	P~D	מיטן	mytN	_
+2	mit	P	מיט	myt	_
+3	n	D	נ	n	_
+4	grunt-kll	N	גרונט-קלל	grvnt-kll	_
+5	fun	P	פֿון	fvN	_
+6	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+7	vert	VBF	װערט	Vert	_
+8	oykh	ADV	אױך	AWX	_
+9	klor	ADJ	קלאָר	klAor	_
+10	di	D	די	dy	_
+11	funktsie	N	פֿונקציִע	fvnkqyie	_
+12	fun	P	פֿון	fvN	_
+13	dem	D	דעם	deM	_
+14	vertele	N	װערטעלע	Vertele	_
+15	"	PUNC	"	"	_
+16	es	ES	עס	es	_
+17	"	PUNC	"	"	_
+18	vos	C	װאָס	VAos	_
+19	darf	MDF	דאַרף	dAarF	_
+20	in	P	אין	AyN	_
+21	gevisn	ADJ	געװיסן	geVysN	_
+22	faln	N	פֿאַלן	fAalN	_
+23	kumen	VB	קומען	kvmeN	_
+24	in	P	אין	AyN	_
+25	onheyb	N	אָנהײב	AonhYb	_
+26	zats	N	זאַץ	zAaQ	_
+
+SENT	1946E-MARK,6.145
+1	ot	FP	אָט	Aot	_
+2	dos	D	דאָס	dAos	_
+3	vertele	N	װערטעלע	Vertele	_
+4	iz	VBF	איז	Ayz	_
+5	azoy	ADV	אַזױ	AazW	_
+6	vi	P	װי	Vy	_
+7	a	D	אַ	Aa	_
+8	fiktiver	ADJ	פֿיקטיװער	fyktyVer	_
+9	subyekt	N	סוביעקט	svbyekt	_
+10	,	PUNC	,	,	_
+11	a	D	אַ	Aa	_
+12	fiktiver	ADJ	פֿיקטיװער	fyktyVer	_
+13	makhmes	P	מחמת	mHmS	_
+14	dem	D	דעם	deM	_
+15	vos	C	װאָס	VAos	_
+16	in	P	אין	AyN	_
+17	zats	N	זאַץ	zAaQ	_
+18	iz	VBF	איז	Ayz	_
+19	faran	ADJ	פֿאַראַן	fAarAaN	_
+20	an	D	אַן	AaN	_
+21	ander	ADJ	אַנדער	Aander	_
+22	subyekt	N	סוביעקט	svbyekt	_
+23	.	PUNC	.	.	_
+
+SENT	1946E-MARK,6.146
+1	ober	CONJ	אָבער	Aober	_
+2	nit	NEG	ניט	nyt	_
+3	shtendik	ADV	שטענדיק	$tendyk	_
+4	iz	VBF	איז	Ayz	_
+5	"	PUNC	"	"	_
+6	es	ES	עס	es	_
+7	"	PUNC	"	"	_
+8	der	D	דער	der	_
+9	fiktiver	ADJ	פֿיקטיװער	fyktyVer	_
+10	subyekt	N	סוביעקט	svbyekt	_
+11	.	PUNC	.	.	_
+
+SENT	1946E-MARK,6.147
+1	"	PUNC	"	"	_
+2	es	ES	עס	es	_
+3	"	PUNC	"	"	_
+4	ken	MDF	קען	keN	_
+5	oykh	ADV	אױך	AWX	_
+6	zayn	VB	זײַן	zYaN	_
+7	der	D	דער	der	_
+8	eyntsiker	N	אײנציקער	AYnqyker	_
+9	un	CONJ	און	AvN	_
+10	der	D	דער	der	_
+11	emeser	ADJ	אמתער	AmSer	_
+12	subyekt	N	סוביעקט	svbyekt	_
+13	fun	P	פֿון	fvN	_
+14	dem	D	דעם	deM	_
+15	zats	N	זאַץ	zAaQ	_
+16	,	PUNC	,	,	_
+
+SENT	1946E-MARK,6.148
+1	lemoshl	H	למשל	lm$l	for_example
+2	:	PUNC	:	:	_
+3	es	PRO	עס	es	_
+4	regnt	VBF	רעגנט	regnt	_
+
+SENT	1946E-MARK,6.149
+1	"	PUNC	"	"	_
+2	es	ES	עס	es	_
+3	"	PUNC	"	"	_
+4	iz	VBF	איז	Ayz	_
+5	der	D	דער	der	_
+6	subyekt	N	סוביעקט	svbyekt	_
+7	,	PUNC	,	,	_
+8	regnt	VBF	רעגנט	regnt	_
+9	der	D	דער	der	_
+10	predikat	N	פּרעדיקאַט	predykAat	_
+11	.	PUNC	.	.	_
+
+SENT	1946E-MARK,6.150
+1	vos	WPRO	װאָס	VAos	_
+2	vert	RDF	װערט	Vert	_
+3	gezogt	VAN	געזאָגט	gezAogt	_
+4	mit	P	מיט	myt	_
+5	dem	D	דעם	deM	_
+6	"	PUNC	"	"	_
+7	es	ES	עס	es	_
+8	"	PUNC	"	"	_
+9	?	PUNC	?	?	_
+
+SENT	1946E-MARK,6.151
+1	oyf	P	אױף	AWF	_
+2	an	D	אַן	AaN	_
+3	umbashtimtn	ADJ	אומבאַשטימטן	AvmbAa$tymtN	_
+4	ufn	N	אופֿן	AvfN	_
+5	vert	RDF	װערט	Vert	_
+6	do	ADV	דאָ	dAo	_
+7-8	aroysgebrakht	ADV~VAN	אַרױסגעבראַכט	AarWsgebrAaxt	_
+7	aroys	ADV	אַרױס	AarWs	_
+8	gebrakht	VAN	געבראַכט	gebrAaxt	_
+9	an	D	אַן	AaN	_
+10	erkh	X	ערך	erX	_
+11	dos	D	דאָס	dAos	_
+12	eygene	ADJ	אײגענע	AYgene	_
+13	vos	Q	װאָס	VAos	_
+14	:	PUNC	:	:	_
+15	dos	D	דאָס	dAos	_
+16	gantse	ADJ	גאַנצע	gAanqe	_
+17	arumike	N	אַרומיקע	Aarvmyke	_
+18	,	PUNC	,	,	_
+19	di	D	די	dy	_
+20	droysndike	ADJ	דרױסנדיקע	drWsndyke	_
+21	velt	N	װעלט	Velt	_
+22	oyf	P	אױף	AWF	_
+23-24	vifl	WADV~Q	װיפֿל	Vyfl	_
+23	vi	WADV	װי	Vy	_
+24	fl	Q	פֿל	fl	_
+25	zi	PRO	זי	zy	_
+26	kumt	VBF	קומט	kvmt	_
+27	direkt	ADV	דירעקט	dyrekt	_
+28	in	P	אין	AyN	_
+29	a	D	אַ	Aa	_
+30	kontakt	N	קאָנטאַקט	kAontAakt	_
+31	mit	P	מיט	myt	_
+32	di	D	די	dy	_
+33	khushm	N	כושם	xv$M	_
+
+SENT	1946E-MARK,6.152
+1	a	D	אַ	Aa	_
+2	tseytn	ADJ	צײטן	qYtN	_
+3	dugma	N	דוגמאַ	dvgmAa	_
+4	:	PUNC	:	:	_
+
+SENT	1946E-MARK,6.153
+1	es	PRO	עס	es	_
+2	tut	VBF	טוט	tvt	_
+3	vey	RP-N	װײ	VY	_
+
+SENT	1946E-MARK,6.154
+1	"	PUNC	"	"	_
+2	es	ES	עס	es	_
+3	"	PUNC	"	"	_
+4	iz	VBF	איז	Ayz	_
+5	der	D	דער	der	_
+6	subyekt	N	סוביעקט	svbyekt	_
+7	,	PUNC	,	,	_
+
+SENT	1946E-MARK,6.155
+1	"	PUNC	"	"	_
+2	tut	VBF	טוט	tvt	_
+3	vey	RP-N	װײ	VY	_
+4	"	PUNC	"	"	_
+5	iz	VBF	איז	Ayz	_
+6	der	D	דער	der	_
+7	predikat	N	פּרעדיקאַט	predykAat	_
+
+SENT	1946E-MARK,6.156
+1	un	CONJ	און	AvN	_
+2	oykh	ADV	אױך	AWX	_
+3	do	ADV	דאָ	dAo	_
+4	git	VBF	גיט	gyt	_
+5	"	PUNC	"	"	_
+6	es	ES	עס	es	_
+7	"	PUNC	"	"	_
+8	iber	RP	איבער	Ayber	_
+9	oykh	ADV	אױך	AWX	_
+10	an	D	אַן	AaN	_
+11	umbashtimtn	ADJ	אומבאַשטימטן	AvmbAa$tymtN	_
+12	fun	P	פֿון	fvN	_
+13	a	D	אַ	Aa	_
+14	gantse	ADJ	גאַנצע	gAanqe	_
+15	velt	N	װעלט	Velt	_
+16	,	PUNC	,	,	_
+17	die	D	דיִע	dyie	_
+18	ineveynikste	ADJS	אינעװײניקסטע	AyneVYnykste	_
+19	velt	N	װעלט	Velt	_
+20	vos	C	װאָס	VAos	_
+21	farshtelt	VBF	פֿאַרשטעלט	fAar$telt	_
+22	dos	D	דאָס	dAos	_
+23	gefil	N	געפֿיל	gefyl	_
+24	fun	P	פֿון	fvN	_
+25	vey	RP-N	װײ	VY	_
+26	ton	VB	טאָן	tAoN	_
+
+SENT	1946E-MARK,6.157
+1	in	P	אין	AyN	_
+2	yene	D	יענע	yene	_
+3	faln	N	פֿאַלן	fAalN	_
+4	,	PUNC	,	,	_
+5	ven	C	װען	VeN	_
+6	"	PUNC	"	"	_
+7	es	ES	עס	es	_
+8	"	PUNC	"	"	_
+9	iz	VBF	איז	Ayz	_
+10	an	D	אַן	AaN	_
+11	emeser	ADJ	אמתער	AmSer	_
+12	subyekt	N	סוביעקט	svbyekt	_
+13	,	PUNC	,	,	_
+14	ken	MDF	קען	keN	_
+15	er	PRO	ער	er	_
+16	kumen	VB	קומען	kvmeN	_
+17	,	PUNC	,	,	_
+18	vi	P	װי	Vy	_
+19	ale	Q	אַלע	Aale	_
+20	andere	ADJ	אַנדערע	Aandere	_
+21	subyektn	N	סוביעקטן	svbyektN	_
+22	,	PUNC	,	,	_
+23	hn	CONJ	הן	hN	_
+24	far	P	פֿאַר	fAar	_
+25	hn	CONJ	הן	hN	_
+26	nokh	P	נאָך	nAoX	_
+27	dem	D	דעם	deM	_
+28	beygikn	ADJ	בײגיקן	bYgykN	_
+29	verb	N	װערב	Verb	_
+30	fun	P	פֿון	fvN	_
+31	dem	D	דעם	deM	_
+32	zats	N	זאַץ	zAaQ	_
+33	,	PUNC	,	,	_
+
+SENT	1946E-MARK,6.158
+1	lemoshl	H	למשל	lm$l	for_example
+2	:	PUNC	:	:	_
+3	1a.	LS	1אַ.	1Aa.	_
+4	es	PRO	עס	es	_
+5	regnt	VBF	רעגנט	regnt	_
+6	a	D	אַ	Aa	_
+7	gantsn	ADJ	גאַנצן	gAanqN	_
+8	tog	N	טאָג	tAog	_
+9	.	PUNC	.	.	_
+
+SENT	1946E-MARK,6.159
+1	1b.	LS	1ב.	1b.	_
+2	a	D	אַ	Aa	_
+3	gantsn	ADJ	גאַנצן	gAanqN	_
+4	tog	N	טאָג	tAog	_
+5	regnt	VBF	רעגנט	regnt	_
+6	es	PRO	עס	es	_
+7	.	PUNC	.	.	_
+
+SENT	1946E-MARK,6.160
+1	2a.	LS	2אַ.	2Aa.	_
+2	es	PRO	עס	es	_
+3	tut	VBF	טוט	tvt	_
+4	vey	RP-N	װײ	VY	_
+5	zeyer	ADV	זײער	zYer	_
+6	stark	ADV	סטאַרק	stAark	_
+7	.	PUNC	.	.	_
+
+SENT	1946E-MARK,6.161
+1	2b.	LS	2ב.	2b.	_
+2	zeyer	ADV	זײער	zYer	_
+3	stark	ADV	סטאַרק	stAark	_
+4	tut	VBF	טוט	tvt	_
+5	es	PRO	עס	es	_
+6	vey	RP-N	װײ	VY	_
+7	.	PUNC	.	.	_
+
+SENT	1946E-MARK,6.162
+1	ober	CONJ	אָבער	Aober	_
+2	ven	C	װען	VeN	_
+3	"	PUNC	"	"	_
+4	es	ES	עס	es	_
+5	"	PUNC	"	"	_
+6	iz	VBF	איז	Ayz	_
+7	a	D	אַ	Aa	_
+8	fiktiver	ADJ	פֿיקטיװער	fyktyVer	_
+9	subyekt	N	סוביעקט	svbyekt	_
+10	,	PUNC	,	,	_
+11	ken	MDF	קען	keN	_
+12	"	PUNC	"	"	_
+13	es	ES	עס	es	_
+14	"	PUNC	"	"	_
+15	kumen	VB	קומען	kvmeN	_
+16	bloyz	FP	בלױז	blWz	_
+17	onheyb	N	אָנהײב	AonhYb	_
+18	zats	N	זאַץ	zAaQ	_
+19	,	PUNC	,	,	_
+20-21	farn	P~D	פֿאַרן	fAarN	_
+20	far	P	פֿאַר	fAar	_
+21	n	D	נ	n	_
+22	beygikn	ADJ	בײגיקן	bYgykN	_
+23	verb	N	װערב	Verb	_
+24	.	PUNC	.	.	_
+
+SENT	1946E-MARK,6.163
+1	un	CONJ	און	AvN	_
+2	vi	C	װי	Vy	_
+3	nor	FP	נאָר	nAor	_
+4	der	D	דער	der	_
+5	emeser	ADJ	אמתער	AmSer	_
+6	subyekt	N	סוביעקט	svbyekt	_
+7	kumt	VBF	קומט	kvmt	_
+8	in	P	אין	AyN	_
+9	onheyb	N	אָנהײב	AonhYb	_
+10	,	PUNC	,	,	_
+11	oder	CONJ	אָדער	Aoder	_
+12	ven	C	װען	VeN	_
+13	an	D	אַן	AaN	_
+14	ander	ADJ	אַנדער	Aander	_
+15	seyder-eyns	N	סדר-אײנס	sdr-AYns	_
+16	farnemt	VBF	פֿאַרנעמט	fAarnemt	_
+17	dos	D	דאָס	dAos	_
+18	ort	N	אָרט	Aort	_
+19	onheyb	N	אָנהײב	AonhYb	_
+20	zats	N	זאַץ	zAaQ	_
+21	,	PUNC	,	,	_
+22	vert	RDF	װערט	Vert	_
+23	farshvundn	VAN	פֿאַרשװוּנדן	fAar$VUndN	_
+24	der	D	דער	der	_
+25	fiktiver	ADJ	פֿיקטיװער	fyktyVer	_
+26	subyekt	N	סוביעקט	svbyekt	_
+27	,	PUNC	,	,	_
+
+SENT	1946E-MARK,6.164
+1	un	CONJ	און	AvN	_
+2	keyn	Q	קײן	kYN	_
+3	"	PUNC	"	"	_
+4	es	ES	עס	es	_
+5	"	PUNC	"	"	_
+6	iz	VBF	איז	Ayz	_
+7	mer	ADV	מער	mer	_
+8	nisht	NEG	נישט	ny$t	_
+9	in	P	אין	AyN	_
+10	dem	D	דעם	deM	_
+11	zats	N	זאַץ	zAaQ	_
+12	.	PUNC	.	.	_
+
+SENT	1946E-MARK,6.165
+1	lemoshl	H	למשל	lm$l	for_example
+2	:	PUNC	:	:	_
+3	3a.	LS	3אַ.	3Aa.	_
+4	es	ES	עס	es	_
+5	tut	VBF	טוט	tvt	_
+6	mir	PRO	מיר	myr	_
+7	vey	RP-N	װײ	VY	_
+8	der	D	דער	der	_
+9	kop	N	קאָפּ	kAop	_
+10	.	PUNC	.	.	_
+
+SENT	1946E-MARK,6.166
+1	3b.	LS	3ב.	3b.	_
+2	der	D	דער	der	_
+3	kop	N	קאָפּ	kAop	_
+4	tut	VBF	טוט	tvt	_
+5	mir	PRO	מיר	myr	_
+6	vey	RP-N	װײ	VY	_
+7	.	PUNC	.	.	_
+
+SENT	1946E-MARK,6.167
+1	3g.	LS	3ג.	3g.	_
+2	mir	PRO	מיר	myr	_
+3	tut	VBF	טוט	tvt	_
+4	vey	RP-N	װײ	VY	_
+5	der	D	דער	der	_
+6	kop	N	קאָפּ	kAop	_
+7	.	PUNC	.	.	_
+
+SENT	1946E-MARK,6.168
+1	4a.	LS	4אַ.	4Aa.	_
+2	es	ES	עס	es	_
+3	iz	BEF	איז	Ayz	_
+4	nekhtn	ADV	נעכטן	nextN	_
+5	gekumen	VBN	געקומען	gekvmeN	_
+6	tsu	TO	צו	qv	_
+7	forn	VB	פֿאָרן	fAorN	_
+8	der	D	דער	der	_
+9	bruder	N	ברודער	brvder	_
+10	fun	P	פֿון	fvN	_
+11	shtot	N	שטאָט	$tAot	_
+12	.	PUNC	.	.	_
+
+SENT	1946E-MARK,6.169
+1	4b.	LS	4ב.	4b.	_
+2	nekhtn	ADV	נעכטן	nextN	_
+3	iz	BEF	איז	Ayz	_
+4	gekumen	VBN	געקומען	gekvmeN	_
+5	tsu	TO	צו	qv	_
+6	forn	VB	פֿאָרן	fAorN	_
+7	der	D	דער	der	_
+8	bruder	N	ברודער	brvder	_
+9	fun	P	פֿון	fvN	_
+10	shtot	N	שטאָט	$tAot	_
+11	.	PUNC	.	.	_
+
+SENT	1946E-MARK,6.170
+1	4g.	LS	4ג.	4g.	_
+2	der	D	דער	der	_
+3	bruder	N	ברודער	brvder	_
+4	iz	BEF	איז	Ayz	_
+5	nekhtn	ADV	נעכטן	nextN	_
+6	gekumen	VBN	געקומען	gekvmeN	_
+7	tsu	TO	צו	qv	_
+8	forn	VB	פֿאָרן	fAorN	_
+9	fun	P	פֿון	fvN	_
+10	shtot	N	שטאָט	$tAot	_
+11	.	PUNC	.	.	_
+
+SENT	1946E-MARK,6.171
+1	4d.	LS	4ד.	4d.	_
+2	fun	P	פֿון	fvN	_
+3	shtot	N	שטאָט	$tAot	_
+4	iz	BEF	איז	Ayz	_
+5	der	D	דער	der	_
+6	bruder	N	ברודער	brvder	_
+7	nekhtn	ADV	נעכטן	nextN	_
+8	gekumen	VBN	געקומען	gekvmeN	_
+9	tsu	TO	צו	qv	_
+10	forn	VB	פֿאָרן	fAorN	_
+11	.	PUNC	.	.	_
+
+SENT	1946E-MARK,6.172
+1	vos	WPRO	װאָס	VAos	_
+2	zhe	FP	זשע	z$e	_
+3	iz	VBF	איז	Ayz	_
+4	di	D	די	dy	_
+5	funtsie	N	פֿונציִע	fvnqyie	_
+6	fun	P	פֿון	fvN	_
+7	dem	D	דעם	deM	_
+8	fiktivn	ADJ	פֿיקטיװן	fyktyVN	_
+9	subyekt	N	סוביעקט	svbyekt	_
+10	?	PUNC	?	?	_
+
+SENT	1946E-MARK,6.173
+1	er	PRO	ער	er	_
+2	farnemt	VBF	פֿאַרנעמט	fAarnemt	_
+3	dos	D	דאָס	dAos	_
+4	erste	ADJ	ערסטע	erste	_
+5	ort	N	אָרט	Aort	_
+6	in	P	אין	AyN	_
+7	der	D	דער	der	_
+8	rey	N	רײ	rY	_
+9	seyder-eynsn	N	סדר-אײנסן	sdr-AYnsN	_
+10	,	PUNC	,	,	_
+11	kedey	C	כּדי	Kdy	_
+12	der	D	דער	der	_
+13	beygiker	ADJ	בײגיקער	bYgyker	_
+14	verb	N	װערב	Verb	_
+15	zol	MDF	זאָל	zAol	_
+16	kenen	MD	קענען	keneN	_
+17	kumen	VB	קומען	kvmeN	_
+18	oyf	P	אױף	AWF	_
+19	zeyn	PRO$	זײן	zYN	_
+20	geveytnlekhn	ADJ	געװײטנלעכן	geVYtnlexN	_
+21	tsveytn	ADJ	צװײטן	qVYtN	_
+22	ort	N	אָרט	Aort	_
+23	!	PUNC	!	!	_
+
+SENT	1946E-MARK,7.174
+1	un	CONJ	און	AvN	_
+2	vi	C	װי	Vy	_
+3	nor	FP	נאָר	nAor	_
+4	ot	FP	אָט	Aot	_
+5	di	D	די	dy	_
+6	slikhut	N	סליכוט	slyxvt	_
+7	nemt	VBF	נעמט	nemt	_
+8	oyf	P	אױף	AWF	_
+9	zikh	PRO	זיך	zyX	_
+10	iber	RP	איבער	Ayber	_
+11	an	D	אַן	AaN	_
+12	ander	ADJ	אַנדער	Aander	_
+13	seyder-eyns	N	סדר-אײנס	sdr-AYns	_
+14	,	PUNC	,	,	_
+15	iz	VBF	איז	Ayz	_
+16	iberik	ADJ	איבעריק	Ayberyk	_
+17	der	D	דער	der	_
+18	fiktiver	ADJ	פֿיקטיװער	fyktyVer	_
+19	subyekt	N	סוביעקט	svbyekt	_
+
+SENT	1946E-MARK,7.175
+1	un	CONJ	און	AvN	_
+2	"	PUNC	"	"	_
+3	es	ES	עס	es	_
+4	"	PUNC	"	"	_
+5	vert	VBF	װערט	Vert	_
+6	nit	NEG	ניט	nyt	_
+7	.	PUNC	.	.	_
+
+SENT	1946E-MARK,7.176
+1	agev	ADV	אַגבֿ	Aag~	_
+2	,	PUNC	,	,	_
+3	ven	C	װען	VeN	_
+4	der	D	דער	der	_
+5	subyekt	N	סוביעקט	svbyekt	_
+6	iz	VBF	איז	Ayz	_
+7	a	D	אַ	Aa	_
+8	perzonlekhe	ADJ	פּערזאָנלעכע	perzAonlexe	_
+9	pronom	N	פּראָנאָם	prAonAoM	_
+10	,	PUNC	,	,	_
+11	ken	MDF	קען	keN	_
+12	yemolt	ADV	יעמאָלט	yemAolt	_
+13	bkll	ADV	בקלל	bkll	_
+14	nit	NEG	ניט	nyt	_
+15	gemolt	VAN	געמאָלט	gemAolt	_
+16	zeyn	BE	זײן	zYN	_
+17	keyn	Q	קײן	kYN	_
+18	fiktiver	ADJ	פֿיקטיװער	fyktyVer	_
+19	subyekt	N	סוביעקט	svbyekt	_
+20	"	PUNC	"	"	_
+21	es	ES	עס	es	_
+22	"	PUNC	"	"	_
+23	,	PUNC	,	,	_
+
+SENT	1946E-MARK,7.177
+1	lemoshl	H	למשל	lm$l	for_example
+2	:	PUNC	:	:	_
+3	5a.	LS	5אַ.	5Aa.	_
+4	der	D	דער	der	_
+5	tate	N	טאַטע	tAate	_
+6	vet	MDF	װעט	Vet	_
+7	kumen	VB	קומען	kvmeN	_
+8	.	PUNC	.	.	_
+
+SENT	1946E-MARK,7.178
+1	5b.	LS	5ב.	5b.	_
+2	es	ES	עס	es	_
+3	vet	MDF	װעט	Vet	_
+4	kumen	VB	קומען	kvmeN	_
+5	der	D	דער	der	_
+6	tate	N	טאַטע	tAate	_
+7	.	PUNC	.	.	_
+
+SENT	1946E-MARK,7.179
+1	6a.	LS	6אַ.	6Aa.	_
+2	er	PRO	ער	er	_
+3	vet	MDF	װעט	Vet	_
+4	kumen	VB	קומען	kvmeN	_
+5	.	PUNC	.	.	_
+
+SENT	1946E-MARK,7.180
+1	6b.	LS	6ב.	6b.	_
+2	vet	MDF	װעט	Vet	_
+3	er	PRO	ער	er	_
+4	kumen	VB	קומען	kvmeN	_
+5	.	PUNC	.	.	_
+
+SENT	1946E-MARK,7.181
+1	h.	LS	ה.	h.	_
+2	der	D	דער	der	_
+3	fiktiver	ADJ	פֿיקטיװער	fyktyVer	_
+4	predikat	N	פּרעדיקאַט	predykAat	_
+5	iz	ADV	איז	Ayz	_
+
+SENT	1946E-MARK,7.182
+1	di	D	די	dy	_
+2	zelbike	ADJ	זעלביקע	zelbyke	_
+3	kvnh	N	קװנה	kVnh	_
+4	tsu	TO	צו	qv	_
+5	kumen	VB	קומען	kvmeN	_
+6-7	tsum	P~D	צום	qvM	_
+6	tsu	P	צו	qv	_
+7	m	D	מ	m	_
+8	geveyntlekhn	ADJ	געװײנטלעכן	geVYntlexN	_
+9	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+10-11	mitn	P~D	מיטן	mytN	_
+10	mit	P	מיט	myt	_
+11	n	D	נ	n	_
+12	beygikn	ADJ	בײגיקן	bYgykN	_
+13	verb	N	װערב	Verb	_
+14-15	oyfn	P~D	אױפֿן	AWfN	_
+14	oyf	P	אױף	AWF	_
+15	n	D	נ	n	_
+16	tseytn	ADJ	צײטן	qYtN	_
+17	ort	N	אָרט	Aort	_
+18	drikt	VBF	דריקט	drykt	_
+19	zikh	PRO	זיך	zyX	_
+20	oykh	ADV	אױך	AWX	_
+21	oys	RP	אױס	AWs	_
+22	in	P	אין	AyN	_
+23	dem	D	דעם	deM	_
+24	nitsn	VB	ניצן	nyqN	_
+25	dos	D	דאָס	dAos	_
+26	vertele	N	װערטעלע	Vertele	_
+27	"	PUNC	"	"	_
+28	iz	ADV	איז	Ayz	_
+29	"	PUNC	"	"	_
+30	vi	P	װי	Vy	_
+31	a	D	אַ	Aa	_
+32	min	N	מין	myN	_
+33	fiktivn	ADJ	פֿיקטיװן	fyktyVN	_
+34	predikat	N	פּרעדיקאַט	predykAat	_
+35	beys	C	ב	b	_
+36	es	ES	עס	es	_
+37	iz	VBF	איז	Ayz	_
+38	faran	ADJ	פֿאַראַן	fAarAaN	_
+39	an	D	אַן	AaN	_
+40	anderer	ADJ	אַנדערער	Aanderer	_
+41	a	D	אַ	Aa	_
+42	tsveyter	ADJ	צװײטער	qVYter	_
+43	,	PUNC	,	,	_
+44	an	D	אַן	AaN	_
+45	emeser	ADJ	אמתער	AmSer	_
+46	predikat	N	פּרעדיקאַט	predykAat	_
+47	in	P	אין	AyN	_
+48	dem	D	דעם	deM	_
+49	zats	N	זאַץ	zAaQ	_
+50	.	PUNC	.	.	_
+
+SENT	1946E-MARK,7.183
+1	der	D	דער	der	_
+2	"	PUNC	"	"	_
+3	iz	ADV	איז	Ayz	_
+4	"	PUNC	"	"	_
+5	kumt	VBF	קומט	kvmt	_
+6	vi	P	װי	Vy	_
+7	a	D	אַ	Aa	_
+8	mitl	N	מיטל	mytl	_
+9	gringer	ADJR	גרינגער	grynger	_
+10	tsu	TO	צו	qv	_
+11	makhn	VB	מאַכן	mAaxN	_
+12	di	D	די	dy	_
+13	farbindung	N	פֿאַרבינדונג	fAarbyndvng	_
+14	tsvishn	P	צװישן	qVy$N	_
+15	a	D	אַ	Aa	_
+16	lengern	ADJR	לענגערן	lengerN	_
+17	bayzats	N	בײַזאַץ	bYazAaQ	_
+18	un	CONJ	און	AvN	_
+19	dem	D	דעם	deM	_
+20	hoyptzats	N	הױפּטזאַץ	hWptzAaQ	_
+21	vos	C	װאָס	VAos	_
+22	kumt	VBF	קומט	kvmt	_
+23	nokh	P	נאָך	nAoX	_
+24	im	PRO	אים	AyM	_
+25	.	PUNC	.	.	_
+
+SENT	1946E-MARK,7.184
+1	shtamen	VB	שטאַמען	$tAameN	_
+2	shtamt	VBF	שטאַמט	$tAamt	_
+3	der	D	דער	der	_
+4	"	PUNC	"	"	_
+5	iz	ADV	איז	Ayz	_
+6	"	PUNC	"	"	_
+7	fun	P	פֿון	fvN	_
+8	dem	D	דעם	deM	_
+9	geredtn	ADJ	גערעדטן	geredtN	_
+10	loyshn	N	לױשן	lW$N	_
+
+SENT	1946E-MARK,7.185
+1	un	CONJ	און	AvN	_
+2	iz	BEF	איז	Ayz	_
+3	ober	ADV	אָבער	Aober	_
+4	in_gantsn	ADV	אינ_גאַנצן	Ayn_gAanqN	_
+5	barekhtikt	VAN	באַרעכטיקט	bAarextykt	_
+6	oykh	ADV	אױך	AWX	_
+7	in	P	אין	AyN	_
+8	der	D	דער	der	_
+9	geshribener	ADJ	געשריבענער	ge$rybener	_
+10	shprakh	N	שפּראַך	$prAaX	_
+11	.	PUNC	.	.	_
+
+SENT	1946E-MARK,7.186
+1	lemoshl	H	למשל	lm$l	for_example
+2	in	P	אין	AyN	_
+3	aza	ADJ	אַזאַ	AazAa	_
+4	zats	N	זאַץ	zAaQ	_
+5	:	PUNC	:	:	_
+6	1a.	LS	1אַ.	1Aa.	_
+7	dos	D	דאָס	dAos	_
+8	vos	C	װאָס	VAos	_
+9	ikh	PRO	איך	AyX	_
+10	hob	HVF	האָב	hAob	_
+11	im	PRO	אים	AyM	_
+12	gezogt	VBN	געזאָגט	gezAogt	_
+13	vegn	P	װעגן	VegN	_
+14	dem	D	דעם	deM	_
+15	bukh	N	בוך	bvX	_
+16	iz	ADV	איז	Ayz	_
+17	oder	CONJ	אָדער	Aoder	_
+18	er	PRO	ער	er	_
+19	hot	HVF	האָט	hAot	_
+20	fargesn	VBN	פֿאַרגעסן	fAargesN	_
+21	oder	CONJ	אָדער	Aoder	_
+22	er	PRO	ער	er	_
+23	hot	HVF	האָט	hAot	_
+24	nit	NEG	ניט	nyt	_
+25	farshtanden	VBN	פֿאַרשטאַנדען	fAar$tAandeN	_
+26	,	PUNC	,	,	_
+27	oder	CONJ	אָדער	Aoder	_
+28	er	PRO	ער	er	_
+29	hot	HVF	האָט	hAot	_
+30	lekht-kholile	ADV	לעכט-חלילה	lext-Hlylh	_
+31	zikh	PRO	זיך	zyX	_
+32	nit	NEG	ניט	nyt	_
+33-34	tsugehert	RP~VBN	צוגעהערט	qvgehert	_
+33	tsu	RP	צו	qv	_
+34	gehert	VBN	געהערט	gehert	_
+35	tsu	P	צו	qv	_
+36	dem	D	דעם	deM	_
+37	.	PUNC	.	.	_
+
+SENT	1946E-MARK,7.187
+1	der	D	דער	der	_
+2	zats	N	זאַץ	zAaQ	_
+3	heybt	VBF	הײבט	hYbt	_
+4	zikh	PRO	זיך	zyX	_
+5	on	RP	אָן	AoN	_
+6	mit	P	מיט	myt	_
+7	a	D	אַ	Aa	_
+8	beyzats	N	בײזאַץ	bYzAaQ	_
+9	,	PUNC	,	,	_
+
+SENT	1946E-MARK,7.188
+1	darf	MDF	דאַרף	dAarF	_
+2	der	D	דער	der	_
+3	hoyptzats	N	הױפּטזאַץ	hWptzAaQ	_
+4	zikh	PRO	זיך	zyX	_
+5-6	onheybn	RP~VB	אָנהײבן	AonhYbN	_
+5	on	RP	אָן	AoN	_
+6	heybn	VB	הײבן	hYbN	_
+7-8	mitn	P~D	מיטן	mytN	_
+7	mit	P	מיט	myt	_
+8	n	D	נ	n	_
+9	beygikn	ADJ	בײגיקן	bYgykN	_
+10	verb	N	װערב	Verb	_
+11	.	PUNC	.	.	_
+
+SENT	1946E-MARK,7.189
+1	iz	VBF	איז	Ayz	_
+2	take	ADV	טאַקע	tAake	_
+3	miglekh	ADJ	מיגלעך	mygleX	_
+4	tsu	TO	צו	qv	_
+5	zogn	VB	זאָגן	zAogN	_
+6	oykh	ADV	אױך	AWX	_
+7	azoy	ADV	אַזױ	AazW	_
+8	.	PUNC	.	.	_
+
+SENT	1946E-MARK,7.190
+1	1b.	LS	1ב.	1b.	_
+2	dos	D	דאָס	dAos	_
+3	vos	C	װאָס	VAos	_
+4	ikh	PRO	איך	AyX	_
+5	hob	HVF	האָב	hAob	_
+6	im	PRO	אים	AyM	_
+7	gezogt	VBN	געזאָגט	gezAogt	_
+8	vegn	P	װעגן	VegN	_
+9	dem	D	דעם	deM	_
+10	bukh	N	בוך	bvX	_
+11	hot	HVF	האָט	hAot	_
+12	er	PRO	ער	er	_
+13	oder	CONJ	אָדער	Aoder	_
+14	fargesn	VBN	פֿאַרגעסן	fAargesN	_
+15	oder	CONJ	אָדער	Aoder	_
+16	nit	NEG	ניט	nyt	_
+17	farshtanden	VBN	פֿאַרשטאַנדען	fAar$tAandeN	_
+18	.	PUNC	.	.	_
+
+SENT	1946E-MARK,7.191
+1	mit	P	מיט	myt	_
+2	vos	WPRO	װאָס	VAos	_
+3	zhe	FP	זשע	z$e	_
+4	ken	MDF	קען	keN	_
+5	men	PRO	מען	meN	_
+6	barekhtikn	VB	באַרעכטיקן	bAarextykN	_
+7	dem	D	דעם	deM	_
+8	nuskh	N	נוסך	nvsX	_
+9	1a	REF	1אַ	1Aa	_
+10	?	PUNC	?	?	_
+
+SENT	1946E-MARK,7.192
+1	er	PRO	ער	er	_
+2	iz	VBF	איז	Ayz	_
+3	fuler	ADJR	פֿולער	fvler	_
+4	un	CONJ	און	AvN	_
+5	emfatisher	ADJR	עמפֿאַטישער	emfAaty$er	_
+6	,	PUNC	,	,	_
+
+SENT	1946E-MARK,7.193
+1	un	CONJ	און	AvN	_
+2	vil	MDF	װיל	Vyl	_
+3	men	PRO	מען	meN	_
+4-5	oyfhitn	RP~VB	אױפֿהיטן	AWfhytN	_
+4	oyf	RP	אױף	AWF	_
+5	hitn	VB	היטן	hytN	_
+6	ot	FP	אָט	Aot	_
+7	di	D	די	dy	_
+8	eygnshaft	N	אײגנשאַפֿט	AYgn$Aaft	_
+9	iz	VBF	איז	Ayz	_
+10	keyn	Q	קײן	kYN	_
+11	ander	ADJ	אַנדער	Aander	_
+12	brirh	N	ברירה	bryrh	_
+13	nisht	NEG	נישט	ny$t	_
+14	saydn	P	סײַדן	sYadN	_
+15-16	araynshteln	ADV~VB	אַרײַנשטעלן	AarYan$telN	_
+15	arayn	ADV	אַרײַן	AarYaN	_
+16	shteln	VB	שטעלן	$telN	_
+17	dem	D	דעם	deM	_
+18	"	PUNC	"	"	_
+19	iz	ADV	איז	Ayz	_
+20	"	PUNC	"	"	_
+21	.	PUNC	.	.	_
+
+SENT	1946E-MARK,7.194
+1	oyb	C	אױב	AWb	_
+2	men	PRO	מען	meN	_
+3	zol	MDF	זאָל	zAol	_
+4-5	oyfhitn	RP~VB	אױפֿהיטן	AWfhytN	_
+4	oyf	RP	אױף	AWF	_
+5	hitn	VB	היטן	hytN	_
+6	di	D	די	dy	_
+7	konstruktsie	N	קאָנסטרוקציִע	kAonstrvkqyie	_
+8	fun	P	פֿון	fvN	_
+9	1a	REF	1אַ	1Aa	_
+10	un	CONJ	און	AvN	_
+11	dokh	ADV	דאָך	dAoX	_
+12-13	durkhlozn	RP~VB	דורכלאָזן	dvrxlAozN	_
+12	durkh	RP	דורך	dvrX	_
+13	lozn	VB	לאָזן	lAozN	_
+14	dem	D	דעם	deM	_
+15	"	PUNC	"	"	_
+16	iz	ADV	איז	Ayz	_
+17	"	PUNC	"	"	_
+18	bakumt	VBF	באַקומט	bAakvmt	_
+19	zikh	PRO	זיך	zyX	_
+20	zeyer	ADV	זײער	zYer	_
+21	a	D	אַ	Aa	_
+22	shverer	ADJ	שװערער	$Verer	_
+23	zats	N	זאַץ	zAaQ	_
+
+SENT	1946E-MARK,7.195
+1	un	CONJ	און	AvN	_
+2-3	baym	P~D	בײַם	bYaM	_
+2	bay	P	בײַ	bYa	_
+3	m	D	מ	m	_
+4-5	aroysredn	ADV~VB	אַרױסרעדן	AarWsredN	_
+4	aroys	ADV	אַרױס	AarWs	_
+5	redn	VB	רעדן	redN	_
+6	im	PRO	אים	AyM	_
+7	kumt	VBF	קומט	kvmt	_
+8	oys	RP	אױס	AWs	_
+9	tsu	TO	צו	qv	_
+10	makhn	VB	מאַכן	mAaxN	_
+11	zeyer	ADV	זײער	zYer	_
+12	a	D	אַ	Aa	_
+13	lange	ADJ	לאַנגע	lAange	_
+14	pauze	N	פּאַוזע	pAavze	_
+15-16	nokhn	P~D	נאָכן	nAoxN	_
+15	nokh	P	נאָך	nAoX	_
+16	n	D	נ	n	_
+17	bayzats	N	בײַזאַץ	bYazAaQ	_
+18	.	PUNC	.	.	_
+
+SENT	1946E-MARK,7.196
+1	dem	D	דעם	deM	_
+2	"	PUNC	"	"	_
+3	iz	ADV	איז	Ayz	_
+4	"	PUNC	"	"	_
+5	kumt	VBF	קומט	kvmt	_
+6	oys	RP	אױס	AWs	_
+7-9	arayntsushteln	ADV~TO~VB	אַרײַנצושטעלן	AarYanqv$telN	_
+7	arayn	ADV	אַרײַן	AarYaN	_
+8	tsu	TO	צו	qv	_
+9	shteln	VB	שטעלן	$telN	_
+10	oykh	ADV	אױך	AWX	_
+11	in	P	אין	AyN	_
+12	andere	ADJ	אַנדערע	Aandere	_
+13	faln	N	פֿאַלן	fAalN	_
+14	,	PUNC	,	,	_
+
+SENT	1946E-MARK,7.197
+1	lemoshl	H	למשל	lm$l	for_example
+2	:	PUNC	:	:	_
+3	2a.	LS	2אַ.	2Aa.	_
+4	deriber	DR+P	דעריבער	deryber	_
+5	,	PUNC	,	,	_
+6	iz	ADV	איז	Ayz	_
+7	nit	NEG	ניט	nyt	_
+8	nor	FP	נאָר	nAor	_
+9	vos	C	װאָס	VAos	_
+10	ikh	PRO	איך	AyX	_
+11	ze	VBF	זע	ze	_
+12	nit	NEG	ניט	nyt	_
+13	eyn	D	אײן	AYN	_
+14	keyn	Q	קײן	kYN	_
+15	umglik	N	אומגליק	Avmglyk	_
+16	in	P	אין	AyN	_
+17	dem	D	דעם	deM	_
+18	nor	CONJ	נאָר	nAor	_
+19	farkert	ADV	פֿאַרקערט	fAarkert	_
+20	,	PUNC	,	,	_
+21	ikh	PRO	איך	AyX	_
+22	ze	VBF	זע	ze	_
+23	eyn	D	אײן	AYN	_
+24	nutsn	N	נוצן	nvqN	_
+25	derin	DR+P	דערין	deryN	_
+
+SENT	1946E-MARK,7.198
+1	farshteyt	VBF	פֿאַרשטײט	fAar$tYt	_
+2	zikh	PRO	זיך	zyX	_
+3	,	PUNC	,	,	_
+4	az	C	אַז	Aaz	_
+5	es	ES	עס	es	_
+6	iz	VBF	איז	Ayz	_
+7	miglekh	ADJ	מיגלעך	mygleX	_
+8	un	CONJ	און	AvN	_
+9	biz	ADV	ביז	byz	_
+10	gor	ADV	גאָר	gAor	_
+11	gut	ADJ	גוט	gvt	_
+12	aza	ADJ	אַזאַ	AazAa	_
+13	nush	N	נוש	nv$	_
+14	:	PUNC	:	:	_
+
+SENT	1946E-MARK,7.199
+1	2b.	LS	2ב.	2b.	_
+2	deriber	DR+P	דעריבער	deryber	_
+3	ze	VBF	זע	ze	_
+4	ikh	PRO	איך	AyX	_
+5	nit	NEG	ניט	nyt	_
+6	eyn	D	אײן	AYN	_
+7	keyn	Q	קײן	kYN	_
+8	umglik	N	אומגליק	Avmglyk	_
+9	in	P	אין	AyN	_
+10	dem	D	דעם	deM	_
+11	.	PUNC	.	.	_
+
+SENT	1946E-MARK,7.200
+1	ober	CONJ	אָבער	Aober	_
+2	der	D	דער	der	_
+3	zats	N	זאַץ	zAaQ	_
+4	2b	REF	2ב	2b	_
+5	iz	VBF	איז	Ayz	_
+6	nit	NEG	ניט	nyt	_
+7	azoy	ADV	אַזױ	AazW	_
+8	bult	ADJ	בולט	bvlt	_
+9	un	CONJ	און	AvN	_
+10	nit	NEG	ניט	nyt	_
+11	azoy	ADV	אַזױ	AazW	_
+12	shtark	ADJ	שטאַרק	$tAark	_
+13	vi	P	װי	Vy	_
+14	der	D	דער	der	_
+15	nush	N	נוש	nv$	_
+16	2a	REF	2אַ	2Aa	_
+17	.	PUNC	.	.	_
+
+SENT	1946E-MARK,7.201
+1	zogn	VB	זאָגן	zAogN	_
+2	vider	ADV	װידער	Vyder	_
+3	:	PUNC	:	:	_
+4	2g.	LS	2ג.	2g.	_
+5	deriber	DR+P	דעריבער	deryber	_
+6	ze	VBF	זע	ze	_
+7	ikh	PRO	איך	AyX	_
+8	nit	NEG	ניט	nyt	_
+9	nor	FP	נאָר	nAor	_
+10	nit	NEG	ניט	nyt	_
+11	eyn	D	אײן	AYN	_
+12	keyn	Q	קײן	kYN	_
+13	umglik	N	אומגליק	Avmglyk	_
+14	.	PUNC	.	.	_
+15	iz	VBF	איז	Ayz	_
+16	a	D	אַ	Aa	_
+17	bisl	N	ביסל	bysl	_
+18	hamesne	ADJ	האַמעסנע	hAamesne	_
+19	di	D	די	dy	_
+20	farbindung	N	פֿאַרבינדונג	fAarbyndvng	_
+21	:	PUNC	:	:	_
+22	nit	NEG	ניט	nyt	_
+23	nor	FP	נאָר	nAor	_
+24	nit	NEG	ניט	nyt	_
+
+SENT	1946E-MARK,7.202
+1	un	CONJ	און	AvN	_
+2	take	ADV	טאַקע	tAake	_
+3	kedey	C	כּדי	Kdy	_
+4	zi	PRO	זי	zy	_
+5-7	oystsumeydn	RP~TO~VB	אױסצומײדן	AWsqvmYdN	_
+5	oys	RP	אױס	AWs	_
+6	tsu	TO	צו	qv	_
+7	meydn	VB	מײדן	mYdN	_
+8	darf	MDF	דאַרף	dAarF	_
+9	men	PRO	מען	meN	_
+10-11	onkumen	RP~VB	אָנקומען	AonkvmeN	_
+10	on	RP	אָן	AoN	_
+11	kumen	VB	קומען	kvmeN	_
+12	tsu	P	צו	qv	_
+13	dem	D	דעם	deM	_
+14	zats	N	זאַץ	zAaQ	_
+15	2a	REF	2אַ	2Aa	_
+16	,	PUNC	,	,	_
+17	vu	WADV	װוּ	VU	_
+18	mir	PRO	מיר	myr	_
+19	bagegenen	VBF	באַגעגענען	bAagegeneN	_
+20	dem	D	דעם	deM	_
+21	"	PUNC	"	"	_
+22	iz	ADV	איז	Ayz	_
+23	"	PUNC	"	"	_
+24	.	PUNC	.	.	_
+
+SENT	1946E-MARK,8.204
+1	mir	PRO	מיר	myr	_
+2	iz	BEF	איז	Ayz	_
+3	shoyn	ADV	שױן	$WN	_
+4-5	oysgekumen	RP~VBN	אױסגעקומען	AWsgekvmeN	_
+4	oys	RP	אױס	AWs	_
+5	gekumen	VBN	געקומען	gekvmeN	_
+6	tsitirn	VB	ציטירן	qytyrN	_
+7	fun	P	פֿון	fvN	_
+8	kh.	NPR	כ.	x.	_
+9	zhitlovskin	NPR	זשיטלאָװסקין	z$ytlAoVskyN	_
+10	:	PUNC	:	:	_
+
+SENT	1946E-MARK,8.205
+1	3.	LS	3.	3.	_
+2	oyb	C	אױב	AWb	_
+3	es	PRO	עס	es	_
+4	iz	VBF	איז	Ayz	_
+5	azoy	ADV	אַזױ	AazW	_
+6	iz	ADV	איז	Ayz	_
+7	demolt	ADV	דעמאָלט	demAolt	_
+8	vern	RDF	װערן	VerN	_
+9	a_sakh	Q	אַ_סאַך	Aa_sAaX	_
+10	frages	N	פֿראַגעס	frAages	_
+11	vos	C	װאָס	VAos	_
+12	hobn	VBF	האָבן	hAobN	_
+13	tsu	TO	צו	qv	_
+14	ton	VB	טאָן	tAoN	_
+15	mit	P	מיט	myt	_
+16	dem	D	דעם	deM	_
+17	rom	N	ראָם	rAoM	_
+18-19	avekgeshtelt	ADV~VAN	אַװעקגעשטעלט	AaVekge$telt	_
+18	avek	ADV	אַװעק	AaVek	_
+19	geshtelt	VAN	געשטעלט	ge$telt	_
+20	in	P	אין	AyN	_
+21	a	D	אַ	Aa	_
+22	gants	ADV	גאַנץ	gAanQ	_
+23	ander	ADJ	אַנדער	Aander	_
+24	baloykhtung	N	באַלױכטונג	bAalWxtvng	_
+25	.	PUNC	.	.	_
+
+SENT	1946E-MARK,8.206
+1	kh.	NPR	כ.	x.	_
+2	zhitlovski	NPR	זשיטלאָװסקי	z$ytlAoVsky	_
+3	hot	HVF	האָט	hAot	_
+4-5	baym	P~D	בײַם	bYaM	_
+4	bay	P	בײַ	bYa	_
+5	m	D	מ	m	_
+6	iberzetsn	VB	איבערזעצן	AyberzeqN	_
+7	heynen	N	הײנען	hYneN	_
+8	genitst	VBN	געניצט	genyqt	_
+9	aza	ADJ	אַזאַ	AazAa	_
+10	zats	N	זאַץ	zAaQ	_
+11	:	PUNC	:	:	_
+
+SENT	1946E-MARK,8.207
+1	4.	LS	4.	4.	_
+2	mit	P	מיט	myt	_
+3	frisherer	ADJR	פֿרישערער	fry$erer	_
+4	luft	N	לופֿט	lvft	_
+5	,	PUNC	,	,	_
+6	mit	P	מיט	myt	_
+7	muzik	N	מוזיק	mvzyk	_
+8	un	CONJ	און	AvN	_
+9	mit	P	מיט	myt	_
+10	tents	N	טענץ	tenQ	_
+11	,	PUNC	,	,	_
+12	iz	ADV	איז	Ayz	_
+13	ken	MDF	קען	keN	_
+14	men	PRO	מען	meN	_
+15	zey	PRO	זײ	zY	_
+16	makhn	VB	מאַכן	mAaxN	_
+17	gezinter	ADJR	געזינטער	gezynter	_
+18	.	PUNC	.	.	_
+
+SENT	1946E-MARK,8.208
+1	er	PRO	ער	er	_
+2	hot	HVF	האָט	hAot	_
+3	derbey	DR+P	דערבײ	derbY	_
+4	in	P	אין	AyN	_
+5	a	D	אַ	Aa	_
+6	herh	N	הערה	herh	_
+7	gefregt	VBN	געפֿרעגט	gefregt	_
+8	di	D	די	dy	_
+9	shayle	N	שאלה	$Alh	_
+10	,	PUNC	,	,	_
+11	tsi	C	צי	qy	_
+12	men	PRO	מען	meN	_
+13	meg	MDF	מעג	meg	_
+14	in	P	אין	AyN	_
+15	azelkhe	ADJ	אַזעלכע	Aazelxe	_
+16	faln	N	פֿאַלן	fAalN	_
+17	nitsn	VB	ניצן	nyqN	_
+18	dem	D	דעם	deM	_
+19	"	PUNC	"	"	_
+20	iz	ADV	איז	Ayz	_
+21	"	PUNC	"	"	_
+
+SENT	1946E-MARK,8.209
+1	dos	D	דאָס	dAos	_
+2	etsm	N	עצם	eqM	_
+3	kumen	VB	קומען	kvmeN	_
+4	mit	P	מיט	myt	_
+5	aza	ADV	אַזאַ	AazAa	_
+6	shayle	N	שאלה	$Alh	_
+7	veyzt	VBF	װײזט	VYzt	_
+8	oyf	P	אױף	AWF	_
+9	a	D	אַ	Aa	_
+10	feynem	ADJ	פֿײנעם	fYneM	_
+11	shprakh-khus	N	שפּראַך-כוס	$prAaX-xvs	_
+12	,	PUNC	,	,	_
+
+SENT	1946E-MARK,8.210
+1	vorem	CONJ	װאָרעם	VAoreM	_
+2	in	P	אין	AyN	_
+3	zats	N	זאַץ	zAaQ	_
+4	4	NUM	4	4	_
+5	filt	VBF	פֿילט	fylt	_
+6	dokh	ADV	דאָך	dAoX	_
+7	der	D	דער	der	_
+8	"	PUNC	"	"	_
+9	iz	ADV	איז	Ayz	_
+10	"	PUNC	"	"	_
+11	nit	NEG	ניט	nyt	_
+12	oys	RP	אױס	AWs	_
+13	di	D	די	dy	_
+14	funktsie	N	פֿונקציִע	fvnkqyie	_
+15	fun	P	פֿון	fvN	_
+16	a	D	אַ	Aa	_
+17	fiktivn	ADJ	פֿיקטיװן	fyktyVN	_
+18	predikat	N	פּרעדיקאַט	predykAat	_
+19	,	PUNC	,	,	_
+
+SENT	1946E-MARK,8.211
+1	glaykh	ADV	גלײַך	glYaX	_
+2	nokh	P	נאָך	nAoX	_
+3	dem	D	דעם	deM	_
+4	"	PUNC	"	"	_
+5	iz	ADV	איז	Ayz	_
+6	"	PUNC	"	"	_
+7	kumt	VBF	קומט	kvmt	_
+8	dokh	ADV	דאָך	dAoX	_
+9	der	D	דער	der	_
+10	beygiker	ADJ	בײגיקער	bYgyker	_
+11	verb	N	װערב	Verb	_
+12	"	PUNC	"	"	_
+13	kon	MDF	קאָן	kAoN	_
+14	"	PUNC	"	"	_
+
+SENT	1946E-MARK,8.212
+1	dr	NPR	דר	dr	_
+2	zhitlovskis	NPR$	זשיטלאָװסקיס	z$ytlAoVskys	_
+3	entfer	N	ענטפֿער	entfer	_
+4	iz	BEF	איז	Ayz	_
+5	geven	VBN	געװען	geVeN	_
+6	:	PUNC	:	:	_
+
+SENT	1946E-MARK,8.213
+1	oyb	C	אױב	AWb	_
+2	dos	D	דאָס	dAos	_
+3	folk	N	פֿאָלק	fAolk	_
+4	redt	VBF	רעדט	redt	_
+5	azoy	ADV	אַזױ	AazW	_
+6	iz	ADV	איז	Ayz	_
+7	meg	MDF	מעג	meg	_
+8	men	PRO	מען	meN	_
+9	.	PUNC	.	.	_
+
+SENT	1946E-MARK,8.214
+1	me	PRO	מע	me	_
+2	treft	VBF	טרעפֿט	treft	_
+3	take	ADV	טאַקע	tAake	_
+4	in	P	אין	AyN	_
+5	dem	D	דעם	deM	_
+6	geredtn	ADJ	גערעדטן	geredtN	_
+7	loyshn	N	לױשן	lW$N	_
+8	azelkhe	ADJ	אַזעלכע	Aazelxe	_
+9	konstruktsies	N	קאָנסטרוקציִעס	kAonstrvkqyies	_
+10	.	PUNC	.	.	_
+
+SENT	1946E-MARK,8.215
+1	in	P	אין	AyN	_
+2	di	D	די	dy	_
+3	faln	N	פֿאַלן	fAalN	_
+4	hot	HVF	האָט	hAot	_
+5	der	D	דער	der	_
+6	"	PUNC	"	"	_
+7	iz	ADV	איז	Ayz	_
+8	"	PUNC	"	"	_
+9	gekrogn	VBN	געקראָגן	gekrAogN	_
+10	a	D	אַ	Aa	_
+11	neye	ADJ	נײע	nYe	_
+12	funktsie	N	פֿונקציִע	fvnkqyie	_
+13	,	PUNC	,	,	_
+
+SENT	1946E-MARK,8.216
+1	"	PUNC	"	"	_
+2	iz	ADV	איז	Ayz	_
+3	"	PUNC	"	"	_
+4	iz	VBF	איז	Ayz	_
+5	do	ADV	דאָ	dAo	_
+6	a	D	אַ	Aa	_
+7	min	N	מין	myN	_
+8	konyunktsie	N	קאָניונקציִע	kAonyvnkqyie	_
+9	mit	P	מיט	myt	_
+10	batayt	N	באַטײַט	bAatYat	_
+11	:	PUNC	:	:	_
+12	bekheyn	ADV	בכן	bxN	_
+13	.	PUNC	.	.	_
+
+SENT	1946E-MARK,8.217
+1	vi	WADV	װי	Vy	_
+2	men	PRO	מען	meN	_
+3	ken	MDF	קען	keN	_
+4	zen	VB	זען	zeN	_
+5	fun	P	פֿון	fvN	_
+6	di	D	די	dy	_
+7	ale	Q	אַלע	Aale	_
+8	zatsn	N	זאַצן	zAaqN	_
+9	mit	P	מיט	myt	_
+10	"	PUNC	"	"	_
+11	iz	ADV	איז	Ayz	_
+12	"	PUNC	"	"	_
+13	,	PUNC	,	,	_
+14	kumt	VBF	קומט	kvmt	_
+15	der	D	דער	der	_
+16	"	PUNC	"	"	_
+17	iz	ADV	איז	Ayz	_
+18	"	PUNC	"	"	_
+19	in	P	אין	AyN	_
+20	farbindung	N	פֿאַרבינדונג	fAarbyndvng	_
+21	mit	P	מיט	myt	_
+22	a	D	אַ	Aa	_
+23	pauze	N	פּאַוזע	pAavze	_
+24	,	PUNC	,	,	_
+
+SENT	1946E-MARK,8.218
+1	kumt	VBF	קומט	kvmt	_
+2	vi	P	װי	Vy	_
+3	a	D	אַ	Aa	_
+4	ringele	N	רינגעלע	ryngele	_
+5	vos	C	װאָס	VAos	_
+6	farbindt	VBF	פֿאַרבינדט	fAarbyndt	_
+7	tsvey	NUM	צװײ	qVY	_
+8	teyln	N	טײלן	tYlN	_
+9	fun	P	פֿון	fvN	_
+10	a	D	אַ	Aa	_
+11	tsunoyfgezetstn	ADJ	צונױפֿגעזעצטן	qvnWfgezeqtN	_
+12	zats	N	זאַץ	zAaQ	_
+13	.	PUNC	.	.	_
+
+SENT	1946E-MARK,8.219
+1	men	PRO	מען	meN	_
+2	ken	MDF	קען	keN	_
+3	ober	ADV	אָבער	Aober	_
+4	dem	D	דעם	deM	_
+5	"	PUNC	"	"	_
+6	iz	ADV	איז	Ayz	_
+7	"	PUNC	"	"	_
+8	nit	NEG	ניט	nyt	_
+9	shteln	VB	שטעלן	$telN	_
+10	stam	ADV	סתּ"ם	sT"M	_
+11	azoy	ADV	אַזױ	AazW	_
+12-13	oyfn	P~D	אױפֿן	AWfN	_
+12	oyf	P	אױף	AWF	_
+13	n	D	נ	n	_
+14	tsveytn	ADJ	צװײטן	qVYtN	_
+15	ort	N	אָרט	Aort	_
+16	,	PUNC	,	,	_
+17	ven	C	װען	VeN	_
+18	es	ES	עס	es	_
+19	iz	VBF	איז	Ayz	_
+20	nisht	NEG	נישט	ny$t	_
+21	keyn	Q	קײן	kYN	_
+22	shum	Q	שום	$vM	_
+23	barekhtikung	N	באַרעכטיקונג	bAarextykvng	_
+24	far	P	פֿאַר	fAar	_
+25	dem	D	דעם	deM	_
+26	vertele	N	װערטעלע	Vertele	_
+27	,	PUNC	,	,	_
+
+SENT	1946E-MARK,8.220
+1	lemoshl	H	למשל	lm$l	for_example
+2	:	PUNC	:	:	_
+3	5a.	LS	5אַ.	5Aa.	_
+4	in	P	אין	AyN	_
+5	frankraykh	N	פֿראַנקרײַך	frAankrYaX	_
+6	iz	ADV	איז	Ayz	_
+7	di	D	די	dy	_
+8	heldn	N	העלדן	heldN	_
+9	matrosn	N	מאַטראָסן	mAatrAosN	_
+10	,	PUNC	,	,	_
+11	velkhe	WPRO	װעלכע	Velxe	_
+12	hobn	HVF	האָבן	hAobN	_
+13	zikh	PRO	זיך	zyX	_
+14-15	opgezogt	RP~VBN	אָפּגעזאָגט	AopgezAogt	_
+14	op	RP	אָפּ	Aop	_
+15	gezogt	VBN	געזאָגט	gezAogt	_
+16-18	aroystsutretn	ADV~TO~VB	אַרױסצוטרעטן	AarWsqvtretN	_
+16	aroys	ADV	אַרױס	AarWs	_
+17	tsu	TO	צו	qv	_
+18	tretn	VB	טרעטן	tretN	_
+19	kegn	P	קעגן	kegN	_
+20	rusland	NPR	רוסלאַנד	rvslAand	_
+21	,	PUNC	,	,	_
+22	matern	VBF	מאַטערן	mAaterN	_
+23	zikh	PRO	זיך	zyX	_
+24	nokh	ADV	נאָך	nAoX	_
+25	alts	X	אַלץ	AalQ	_
+26	in	P	אין	AyN	_
+27	tfise	N	תּפֿיסה	Tfysh	_
+28	.	PUNC	.	.	_
+
+SENT	1946E-MARK,8.221
+1	6a.	LS	6אַ.	6Aa.	_
+2	in	P	אין	AyN	_
+3	uriel	NPR	אוריאל	AvryAl	_
+4	iz	ADV	איז	Ayz	_
+5	di	D	די	dy	_
+6	teatrale	ADJ	טעאַטראַלע	teAatrAale	_
+7	meystershaft	N	מײסטערשאַפֿט	mYster$Aaft	_
+8	velkhe	WPRO	װעלכע	Velxe	_
+9	bazirt	VBF	באַזירט	bAazyrt	_
+10	zikh	PRO	זיך	zyX	_
+11	oyf	P	אױף	AWF	_
+12	ratsionalistishn	ADJ	ראַציִאָנאַליסטישן	rAaqyiAonAalysty$N	_
+13	ekstaz	N	עקסטאַז	ekstAaz	_
+14	oder	CONJ	אָדער	Aoder	_
+15	ekstatishn	ADJ	עקסטאַטישן	ekstAaty$N	_
+16	ratsionalism	N	ראַציִאָנאַליסם	rAaqyiAonAalysM	_
+17	,	PUNC	,	,	_
+18	dergreykht	VBF	דערגרײכט	dergrYxt	_
+19	a	D	אַ	Aa	_
+20	groyse	ADJ	גרױסע	grWse	_
+21	heykh	N	הײך	hYX	_
+22	un	CONJ	און	AvN	_
+23	ongeshtrengtkeyt	N	אָנגעשטרענגטקײט	Aonge$trengtkYt	_
+24	.	PUNC	.	.	_
+
+SENT	1946E-MARK,8.222
+1	di	D	די	dy	_
+2	zatsn	N	זאַצן	zAaqN	_
+3	5	NUM	5	5	_
+4	un	CONJ	און	AvN	_
+5	6	NUM	6	6	_
+6	hob	HVF	האָב	hAob	_
+7	ikh	PRO	איך	AyX	_
+8	genumen	VBN	גענומען	genvmeN	_
+9	fun	P	פֿון	fvN	_
+10	a.	NPR	אַ.	Aa.	_
+11	zaretskis	NPR$	זאַרעצקיס	zAareqkys	_
+12	praktishe	ADJ	פּראַקטישע	prAakty$e	_
+13	yidishe	ADJ	ייִדישע	yyidy$e	_
+14	gramatik	N	גראַמאַטיק	grAamAatyk	_
+15	moskve	NPR	מאָסקװע	mAoskVe	_
+16	,	PUNC	,	,	_
+17	1926	NUM	1926	1926	_
+18	,	PUNC	,	,	_
+19	z.	N	ז.	z.	_
+20	157	NUM	157	157	_
+21	.	PUNC	.	.	_
+
+SENT	1946E-MARK,8.223
+1	der	D	דער	der	_
+2	mekhaber	N	מחבר	mHbr	_
+3	tsitirt	VBF	ציטירט	qytyrt	_
+4	dem	D	דעם	deM	_
+5	zats	N	זאַץ	zAaQ	_
+6	5	NUM	5	5	_
+7	fun	P	פֿון	fvN	_
+8	emes	N	אמת	AmS	_
+9	,	PUNC	,	,	_
+10	dem	D	דעם	deM	_
+11	zats	N	זאַץ	zAaQ	_
+12	6	NUM	6	6	_
+13	fun	P	פֿון	fvN	_
+14	moyshe	NPR	משה	m$h	_
+15	litvakovn	NPR	ליטװאַקאָװן	lytVAakAoVN	_
+
+SENT	1946E-MARK,8.224
+1	un	CONJ	און	AvN	_
+2	in	P	אין	AyN	_
+3	beyde	Q	בײדע	bYde	_
+4	faln	N	פֿאַלן	fAalN	_
+5	barekhtigt	VBF	באַרעכטיגט	bAarextygt	_
+6	er	PRO	ער	er	_
+7	di	D	די	dy	_
+8	konstruktisie	N	קאָנסטרוקטיסיִע	kAonstrvktysyie	_
+9	mit	P	מיט	myt	_
+10	"	PUNC	"	"	_
+11	iz	ADV	איז	Ayz	_
+12	"	PUNC	"	"	_
+13	.	PUNC	.	.	_
+
+SENT	1946E-MARK,8.225
+1	dos	D	דאָס	dAos	_
+2	iz	VBF	איז	Ayz	_
+3	avade	ADV	אַװדאי	AaVdAy	_
+4	a	D	אַ	Aa	_
+5	toes	N	טעות	tevS	_
+6	.	PUNC	.	.	_
+
+SENT	1946E-MARK,8.226
+1	di	D	די	dy	_
+2	zatsn	N	זאַצן	zAaqN	_
+3	darf	MDF	דאַרף	dAarF	_
+4	men	PRO	מען	meN	_
+5	farrikhtn	VB	פֿאַרריכטן	fAarryxtN	_
+6	:	PUNC	:	:	_
+
+SENT	1946E-MARK,8.227
+1	5b.	LS	5ב.	5b.	_
+2	in	P	אין	AyN	_
+3	frankraykh	N	פֿראַנקרײַך	frAankrYaX	_
+4	matern	VBF	מאַטערן	mAaterN	_
+5	zikh	PRO	זיך	zyX	_
+6	nokh	ADV	נאָך	nAoX	_
+7	alts	X	אַלץ	AalQ	_
+8	in	P	אין	AyN	_
+9	tfise	N	תּפֿיסה	Tfysh	_
+10	di	D	די	dy	_
+11	heldn	N	העלדן	heldN	_
+12	matrosn	N	מאַטראָסן	mAatrAosN	_
+13	,	PUNC	,	,	_
+14	velkhe	WPRO	װעלכע	Velxe	_
+15	hobn	HVF	האָבן	hAobN	_
+16	zikh	PRO	זיך	zyX	_
+17-18	opgezogt	RP~VBN	אָפּגעזאָגט	AopgezAogt	_
+17	op	RP	אָפּ	Aop	_
+18	gezogt	VBN	געזאָגט	gezAogt	_
+19-21	aroystsutretn	ADV~TO~VB	אַרױסצוטרעטן	AarWsqvtretN	_
+19	aroys	ADV	אַרױס	AarWs	_
+20	tsu	TO	צו	qv	_
+21	tretn	VB	טרעטן	tretN	_
+22	kegn	P	קעגן	kegN	_
+23	rusland	NPR	רוסלאַנד	rvslAand	_
+24	.	PUNC	.	.	_
+
+SENT	1946E-MARK,8.228
+1	6b.	LS	6ב.	6b.	_
+2	di	D	די	dy	_
+3	teatrale	ADJ	טעאַטראַלע	teAatrAale	_
+4	meystershaft	N	מײסטערשאַפֿט	mYster$Aaft	_
+5	velkhe	WPRO	װעלכע	Velxe	_
+6	bazirt	VBF	באַזירט	bAazyrt	_
+7	zikh	PRO	זיך	zyX	_
+8	oyf	P	אױף	AWF	_
+9	ratsionalistishn	ADJ	ראַציִאָנאַליסטישן	rAaqyiAonAalysty$N	_
+10	ekstaz	N	עקסטאַז	ekstAaz	_
+11	oder	CONJ	אָדער	Aoder	_
+12	ekstatishn	ADJ	עקסטאַטישן	ekstAaty$N	_
+13	ratsionalism	N	ראַציִאָנאַליסם	rAaqyiAonAalysM	_
+14	,	PUNC	,	,	_
+15	dergreykht	VBF	דערגרײכט	dergrYxt	_
+16	in	P	אין	AyN	_
+17	uriel	NPR	אוריאל	AvryAl	_
+18	a	D	אַ	Aa	_
+19	groyse	ADJ	גרױסע	grWse	_
+20	heykh	N	הײך	hYX	_
+21	un	CONJ	און	AvN	_
+22	ongeshtrengtkeyt	N	אָנגעשטרענגטקײט	Aonge$trengtkYt	_
+23	.	PUNC	.	.	_
+
+SENT	1946E-MARK,8.229
+1	oder	CONJ	אָדער	Aoder	_
+2	efsher	ADV	אפֿשר	Af$r	_
+3	oykh	ADV	אױך	AWX	_
+4	:	PUNC	:	:	_
+
+SENT	1946E-MARK,8.230
+1	6g.	LS	6ג.	6g.	_
+2	in	P	אין	AyN	_
+3	uriel	NPR	אוריאל	AvryAl	_
+4	dergreykht	VBF	דערגרײכט	dergrYxt	_
+5	a	D	אַ	Aa	_
+6	groyse	ADJ	גרױסע	grWse	_
+7	heykh	N	הײך	hYX	_
+8	un	CONJ	און	AvN	_
+9	ongeshtrengtkeyt	N	אָנגעשטרענגטקײט	Aonge$trengtkYt	_
+10	.	PUNC	.	.	_
+11	di	D	די	dy	_
+12	teatrale	ADJ	טעאַטראַלע	teAatrAale	_
+13	meystershaft	N	מײסטערשאַפֿט	mYster$Aaft	_
+14	velkhe	WPRO	װעלכע	Velxe	_
+15	bazirt	VBF	באַזירט	bAazyrt	_
+16	zikh	PRO	זיך	zyX	_
+17	oyf	P	אױף	AWF	_
+18	ratsionalistishn	ADJ	ראַציִאָנאַליסטישן	rAaqyiAonAalysty$N	_
+19	ekstaz	N	עקסטאַז	ekstAaz	_
+20	oder	CONJ	אָדער	Aoder	_
+21	ekstatishn	ADJ	עקסטאַטישן	ekstAaty$N	_
+22	ratsionalism	N	ראַציִאָנאַליסם	rAaqyiAonAalysM	_
+23	.	PUNC	.	.	_
+
+SENT	1946E-MARK,8.231
+1	hkll	ADV	הקלל	hkll	_
+2	,	PUNC	,	,	_
+3	men	PRO	מען	meN	_
+4	darf	MDF	דאַרף	dAarF	_
+5	zeyn	BE	זײן	zYN	_
+6	gevarnt	VAN	געװאַרנט	geVAarnt	_
+7-8	baym	P~D	בײַם	bYaM	_
+7	bay	P	בײַ	bYa	_
+8	m	D	מ	m	_
+9	nitsn	VB	ניצן	nyqN	_
+10	dem	D	דעם	deM	_
+11	fiktiven	ADJ	פֿיקטיװען	fyktyVeN	_
+12	predikat	N	פּרעדיקאַט	predykAat	_
+13	"	PUNC	"	"	_
+14	iz	ADV	איז	Ayz	_
+15	"	PUNC	"	"	_
+16	.	PUNC	.	.	_
+
+SENT	1946E-MARK,8.232
+1	u.	LS	או.	Av.	_
+2	der	D	דער	der	_
+3	toytologisher	ADJ	טױטאָלאָגישער	tWtAolAogy$er	_
+4	infinitiv	N	אינפֿיניטיװ	AynfynytyV	_
+
+SENT	1946E-MARK,8.233
+1	der	D	דער	der	_
+2	toytologisher	ADJ	טױטאָלאָגישער	tWtAolAogy$er	_
+3	infinitiv	N	אינפֿיניטיװ	AynfynytyV	_
+4	iz	VBF	איז	Ayz	_
+5	der	D	דער	der	_
+6	min	N	מין	myN	_
+7	infinitiv	N	אינפֿיניטיװ	AynfynytyV	_
+8	vos	C	װאָס	VAos	_
+9	kumt	VBF	קומט	kvmt	_
+10	shtendik	ADV	שטענדיק	$tendyk	_
+11	far	P	פֿאַר	fAar	_
+12	dem	D	דעם	deM	_
+13	beygikn	ADJ	בײגיקן	bYgykN	_
+14	verb	N	װערב	Verb	_
+15	un	CONJ	און	AvN	_
+16	khazert	VBF	חזרט	Hzrt	_
+17	iber	P	איבער	Ayber	_
+18	dem	D	דעם	deM	_
+19	shtot	N	שטאָט	$tAot	_
+20	fun	P	פֿון	fvN	_
+21	dem	D	דעם	deM	_
+22	verb	N	װערב	Verb	_
+23	,	PUNC	,	,	_
+
+SENT	1946E-MARK,8.234
+1	lemoshl	H	למשל	lm$l	for_example
+2	:	PUNC	:	:	_
+3	hern	VB	הערן	herN	_
+4	hob	HVF	האָב	hAob	_
+5	ikh	PRO	איך	AyX	_
+6	es	PRO	עס	es	_
+7	nit	NEG	ניט	nyt	_
+8	gehert	VBN	געהערט	gehert	_
+9	.	PUNC	.	.	_
+
+SENT	1946E-MARK,8.235
+1	zogn	VB	זאָגן	zAogN	_
+2	hot	HVF	האָט	hAot	_
+3	men	PRO	מען	meN	_
+4	mir	PRO	מיר	myr	_
+5	es	PRO	עס	es	_
+6	nit	NEG	ניט	nyt	_
+7	gezogt	VBN	געזאָגט	gezAogt	_
+8	.	PUNC	.	.	_
+
+SENT	1946E-MARK,8.236
+1	ober	CONJ	אָבער	Aober	_
+2	veysn	VB	װײסן	VYsN	_
+3	veys	VBF	װײס	VYs	_
+4	ikh	PRO	איך	AyX	_
+5	es	PRO	עס	es	_
+6	.	PUNC	.	.	_
+
+SENT	1946E-MARK,9.237
+1	di	D	די	dy	_
+2	konstruktsie	N	קאָנסטרוקציִע	kAonstrvkqyie	_
+3	,	PUNC	,	,	_
+4	vos	C	װאָס	VAos	_
+5	zi	PRO	זי	zy	_
+6	iz	BEF	איז	Ayz	_
+7	gekumen	VBN	געקומען	gekvmeN	_
+8	tsu	P	צו	qv	_
+9	undz	PRO	אונדז	Avndz	_
+10	fun	P	פֿון	fvN	_
+11	loyshn-koydesh	N	לױשן-קודש	lW$N-kvd$	_
+12	,	PUNC	,	,	_
+13	iz	VBF	איז	Ayz	_
+14	an	D	אַן	AaN	_
+15	ufn	N	אופֿן	AvfN	_
+16-18	aroystsuheybn	ADV~TO~VB	אַרױסצוהײבן	AarWsqvhYbN	_
+16	aroys	ADV	אַרױס	AarWs	_
+17	tsu	TO	צו	qv	_
+18	heybn	VB	הײבן	hYbN	_
+19-21	untertsustraykhn	RP~TO~VB	אונטערצוסטרײַכן	AvnterqvstrYaxN	_
+19	unter	RP	אונטער	Avnter	_
+20	tsu	TO	צו	qv	_
+21	straykhn	VB	סטרײַכן	strYaxN	_
+22	dem	D	דעם	deM	_
+23	mmsutdikn	ADJ	ממסוטדיקן	mmsvtdykN	_
+24	inhalt	N	אינהאַלט	AynhAalt	_
+25	fun	P	פֿון	fvN	_
+26	dem	D	דעם	deM	_
+27	verb	N	װערב	Verb	_
+28	.	PUNC	.	.	_
+
+SENT	1946E-MARK,9.238
+1	ven	C	װען	VeN	_
+2	mir	PRO	מיר	myr	_
+3	fargleykhn	VBF	פֿאַרגלײכן	fAarglYxN	_
+4	di	D	די	dy	_
+5	beyde	Q	בײדע	bYde	_
+6	zatsn	N	זאַצן	zAaqN	_
+7	:	PUNC	:	:	_
+8	1a.	LS	1אַ.	1Aa.	_
+9	er	PRO	ער	er	_
+10	arbet	VBF	אַרבעט	Aarbet	_
+11	,	PUNC	,	,	_
+12	ober	CONJ	אָבער	Aober	_
+13	es	ES	עס	es	_
+14	kumt	VBF	קומט	kvmt	_
+15	keyn	Q	קײן	kYN	_
+16	zakh	N	זאַך	zAaX	_
+17	nit	NEG	ניט	nyt	_
+18	aroys	ADV	אַרױס	AarWs	_
+19	.	PUNC	.	.	_
+20	1b.	LS	1ב.	1b.	_
+21	arbetn	VB	אַרבעטן	AarbetN	_
+22	arbet	VBF	אַרבעט	Aarbet	_
+23	er	PRO	ער	er	_
+24	,	PUNC	,	,	_
+25	ober	CONJ	אָבער	Aober	_
+26	es	ES	עס	es	_
+27	kumt	VBF	קומט	kvmt	_
+28	keyn	Q	קײן	kYN	_
+29	zakh	N	זאַך	zAaX	_
+30	nit	NEG	ניט	nyt	_
+31	aroys	ADV	אַרױס	AarWs	_
+32	.	PUNC	.	.	_
+33	derfiln	VBF	דערפֿילן	derfylN	_
+34	mir	PRO	מיר	myr	_
+35	teykef	ADV	תּיכּף	TyKF	_
+36	vi_azoy	WADV	װי_אַזױ	Vy_AazW	_
+37	der	D	דער	der	_
+38	toytologisher	ADJ	טױטאָלאָגישער	tWtAolAogy$er	_
+39	infinitive	N	אינפֿיניטיװע	AynfynytyVe	_
+40	helft	VBF	העלפֿט	helft	_
+41	undz	PRO	אונדז	Avndz	_
+42	zikh	PRO	זיך	zyX	_
+43-45	optsushteln	RP~TO~VB	אָפּצושטעלן	Aopqv$telN	_
+43	op	RP	אָפּ	Aop	_
+44	tsu	TO	צו	qv	_
+45	shteln	VB	שטעלן	$telN	_
+46	un	CONJ	און	AvN	_
+47	beser	ADV	בעסער	beser	_
+48	tsu	TO	צו	qv	_
+49	farnemen	VB	פֿאַרנעמען	fAarnemeN	_
+50	dos	D	דאָס	dAos	_
+51	vos	C	װאָס	VAos	_
+52	der	D	דער	der	_
+53	verb	N	װערב	Verb	_
+54	zogt	VBF	זאָגט	zAogt	_
+55	undz	PRO	אונדז	Avndz	_
+56	.	PUNC	.	.	_
+
+SENT	1946E-MARK,9.239
+1	ober	CONJ	אָבער	Aober	_
+2	do	ADV	דאָ	dAo	_
+3	iz	VBF	איז	Ayz	_
+4	oykh	ADV	אױך	AWX	_
+5	faran	ADJ	פֿאַראַן	fAarAaN	_
+6	a	D	אַ	Aa	_
+7	bayfunktsie	N	בײַפֿונקציִע	bYafvnkqyie	_
+8	.	PUNC	.	.	_
+
+SENT	1946E-MARK,9.240
+1	der	D	דער	der	_
+2	reyder	N	רײדער	rYder	_
+3	vil	MDF	װיל	Vyl	_
+4-5	aroysheybn	ADV~VB	אַרױסהײבן	AarWshYbN	_
+4	aroys	ADV	אַרױס	AarWs	_
+5	heybn	VB	הײבן	hYbN	_
+6	dem	D	דעם	deM	_
+7	verb	N	װערב	Verb	_
+8	,	PUNC	,	,	_
+
+SENT	1946E-MARK,9.241
+1	der	D	דער	der	_
+2	inhalt	N	אינהאַלט	AynhAalt	_
+3	fun	P	פֿון	fvN	_
+4	verb	N	װערב	Verb	_
+5	iz	VBF	איז	Ayz	_
+6	im	PRO	אים	AyM	_
+7	zeyer	ADV	זײער	zYer	_
+8	vikhtik	ADJ	װיכטיק	Vyxtyk	_
+9	,	PUNC	,	,	_
+
+SENT	1946E-MARK,9.242
+1	vil	MDF	װיל	Vyl	_
+2	er	PRO	ער	er	_
+3-4	onheybn	RP~VB	אָנהײבן	AonhYbN	_
+3	on	RP	אָן	AoN	_
+4	heybn	VB	הײבן	hYbN	_
+5	mit	P	מיט	myt	_
+6	dem	D	דעם	deM	_
+7	verb	N	װערב	Verb	_
+
+SENT	1946E-MARK,9.243
+1	hiut	ADV	היִוט	hyivt	_
+2	ober	CONJ	אָבער	Aober	_
+3	vi	C	װי	Vy	_
+4	der	D	דער	der	_
+5	grunt-kll	N	גרונט-קלל	grvnt-kll	_
+6	fun	P	פֿון	fvN	_
+7	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+8	farlangt	VBF	פֿאַרלאַנגט	fAarlAangt	_
+9	az	C	אַז	Aaz	_
+10	der	D	דער	der	_
+11	beygiker	ADJ	בײגיקער	bYgyker	_
+12	verb	N	װערב	Verb	_
+13	zol	MDF	זאָל	zAol	_
+14	kumen	VB	קומען	kvmeN	_
+15-16	oyfn	P~D	אױפֿן	AWfN	_
+15	oyf	P	אױף	AWF	_
+16	n	D	נ	n	_
+17	tsveytn	ADJ	צװײטן	qVYtN	_
+18	ort	N	אָרט	Aort	_
+19	,	PUNC	,	,	_
+20	kumt	VBF	קומט	kvmt	_
+21	mamesh	ADV	ממש	mm$	_
+22	tsu	P	צו	qv	_
+23	der	D	דער	der	_
+24	hant	N	האַנט	hAant	_
+25	der	D	דער	der	_
+26	toytologisher	ADJ	טױטאָלאָגישער	tWtAolAogy$er	_
+27	infinitiv	N	אינפֿיניטיװ	AynfynytyV	_
+28	,	PUNC	,	,	_
+29	vos	C	װאָס	VAos	_
+30	nit	NEG	ניט	nyt	_
+31	tsulib	P	צוליב	qvlyb	_
+32	dem	D	דעם	deM	_
+33	iz	BEF	איז	Ayz	_
+34	er	PRO	ער	er	_
+35	bashafn	VAN	באַשאַפֿן	bAa$AafN	_
+36	gevorn	RDN	געװאָרן	geVAorN	_
+37	,	PUNC	,	,	_
+38	nor	CONJ	נאָר	nAor	_
+39	er	PRO	ער	er	_
+40	kon	MDF	קאָן	kAoN	_
+41	do	ADV	דאָ	dAo	_
+42	tsu	P	צו	qv	_
+43	nits	N	ניץ	nyQ	_
+44	kumen	VB	קומען	kvmeN	_
+45	.	PUNC	.	.	_
+
+SENT	1946E-MARK,9.244
+1	derfar	DR+P	דערפֿאַר	derfAar	_
+2	take	ADV	טאַקע	tAake	_
+3	dermonen	VBF	דערמאָנען	dermAoneN	_
+4	mir	PRO	מיר	myr	_
+5	im	PRO	אים	AyM	_
+6	in	P	אין	AyN	_
+7	dem	D	דעם	deM	_
+8	tsuzamenhang	N	צוזאַמענהאַנג	qvzAamenhAang	_
+9	.	PUNC	.	.	_
+
+SENT	1946E-MARK,9.245
+1	agev	ADV	אַגבֿ	Aag~	_
+2	iz	VBF	איז	Ayz	_
+3	oykh	ADV	אױך	AWX	_
+4	do	ADV	דאָ	dAo	_
+5	faran	ADJ	פֿאַראַן	fAarAaN	_
+6	a	D	אַ	Aa	_
+7	min	N	מין	myN	_
+8	fiktive	ADV	פֿיקטיװע	fyktyVe	_
+9	forem	N	פֿאָרעם	fAoreM	_
+10	fun	P	פֿון	fvN	_
+11	dem	D	דעם	deM	_
+12	infinitiv	N	אינפֿיניטיװ	AynfynytyV	_
+13	.	PUNC	.	.	_
+
+SENT	1946E-MARK,9.246
+1	mir	PRO	מיר	myr	_
+2	nitsn	VBF	ניצן	nyqN	_
+3	vi	P	װי	Vy	_
+4	dem	D	דעם	deM	_
+5	toytologishn	ADJ	טױטאָלאָגישן	tWtAolAogy$N	_
+6	infinitiv	N	אינפֿיניטיװ	AynfynytyV	_
+7	azelkhe	ADJ	אַזעלכע	Aazelxe	_
+8	formen	N	פֿאָרמען	fAormeN	_
+9	vos	C	װאָס	VAos	_
+10	khuts	P	חוץ	HvQ	_
+11	der	D	דער	der	_
+12	konstruktsie	N	קאָנסטרוקציִע	kAonstrvkqyie	_
+13	zeynen	VBF	זײנען	zYneN	_
+14	zey	PRO	זײ	zY	_
+15	gornit	NEG	גאָרניט	gAornyt	_
+16	benimtse	ADJ	בנימצא	bnymqA	_
+17	,	PUNC	,	,	_
+
+SENT	1946E-MARK,9.247
+1	lemoshl	H	למשל	lm$l	for_example
+2	:	PUNC	:	:	_
+3	gebn	VB	געבן	gebN	_
+4	hob	HVF	האָב	hAob	_
+5	ikh	PRO	איך	AyX	_
+6	shoyn	ADV	שױן	$WN	_
+7	gegebn	VBN	געגעבן	gegebN	_
+8	.	PUNC	.	.	_
+
+SENT	1946E-MARK,9.248
+1	ober	CONJ	אָבער	Aober	_
+2	gibn	VB	גיבן	gybN	_
+3	gib	VBF	גיב	gyb	_
+4	ikh	PRO	איך	AyX	_
+5	.	PUNC	.	.	_
+
+SENT	1946E-MARK,9.249
+1	izn	VB	איזן	AyzN	_
+2	iz	VBF	איז	Ayz	_
+3	er	PRO	ער	er	_
+4	.	PUNC	.	.	_
+
+SENT	1946E-MARK,9.250
+1	binen	VB	בינען	byneN	_
+2	bin	VBF	בין	byN	_
+3	ikh	PRO	איך	AyX	_
+4	.	PUNC	.	.	_
+
+SENT	1946E-MARK,9.251
+1	z.	LS	ז.	z.	_
+2	der	D	דער	der	_
+3	beygiker	ADJ	בײגיקער	bYgyker	_
+4	verb	N	װערב	Verb	_
+5-6	oyfn	P~D	אױפֿן	AWfN	_
+5	oyf	P	אױף	AWF	_
+6	n	D	נ	n	_
+7	erstn	ADJ	ערסטן	erstN	_
+8	ort	N	אָרט	Aort	_
+
+SENT	1946E-MARK,9.252
+1	mir	PRO	מיר	myr	_
+2	zeynen	BEF	זײנען	zYneN	_
+3	shtendik	ADV	שטענדיק	$tendyk	_
+4-5	tsugevoynt	RP~VAN	צוגעװױנט	qvgeVWnt	_
+4	tsu	RP	צו	qv	_
+5	gevoynt	VAN	געװױנט	geVWnt	_
+6	tsu	P	צו	qv	_
+7	dem	D	דעם	deM	_
+8	az	C	אַז	Aaz	_
+9	der	D	דער	der	_
+10	beygikher	ADJ	בײגיכער	bYgyxer	_
+11	verb	N	װערב	Verb	_
+12	zol	MDF	זאָל	zAol	_
+13	kumen	VB	קומען	kvmeN	_
+14-15	oyfn	P~D	אױפֿן	AWfN	_
+14	oyf	P	אױף	AWF	_
+15	n	D	נ	n	_
+16	tsveytn	ADJ	צװײטן	qVYtN	_
+17	ort	N	אָרט	Aort	_
+18	.	PUNC	.	.	_
+
+SENT	1946E-MARK,9.253
+1	dos	D	דאָס	dAos	_
+2	git	VBF	גיט	gyt	_
+3	undz	PRO	אונדז	Avndz	_
+4	di	D	די	dy	_
+5	miglekhkeyt	N	מיגלעכקײט	myglexkYt	_
+6	oyf	P	אױף	AWF	_
+7	a	D	אַ	Aa	_
+8	gringn	ADJ	גרינגן	gryngN	_
+9	ufn	N	אופֿן	AvfN	_
+10-12	arayntsubrengen	ADV~TO~VB	אַרײַנצוברענגען	AarYanqvbrengeN	_
+10	arayn	ADV	אַרײַן	AarYaN	_
+11	tsu	TO	צו	qv	_
+12	brengen	VB	ברענגען	brengeN	_
+13	a	D	אַ	Aa	_
+14	nayem	ADJ	נײַעם	nYaeM	_
+15	ton	N	טאָן	tAoN	_
+16	,	PUNC	,	,	_
+17	a	D	אַ	Aa	_
+18	gevisn	ADJ	געװיסן	geVysN	_
+19	emotsionale	ADJ	עמאָציִאָנאַלע	emAoqyiAonAale	_
+20	bafarbung	N	באַפֿאַרבונג	bAafAarbvng	_
+21	,	PUNC	,	,	_
+22	vi	C	װי	Vy	_
+23	nor	FP	נאָר	nAor	_
+24	mir	PRO	מיר	myr	_
+25	shteln	VBF	שטעלן	$telN	_
+26	avek	RP-ADV	אַװעק	AaVek	_
+27	dem	D	דעם	deM	_
+28	verb	N	װערב	Verb	_
+29	glaykh	ADV	גלײַך	glYaX	_
+30	onheyb	N	אָנהײב	AonhYb	_
+31	zats	N	זאַץ	zAaQ	_
+32	.	PUNC	.	.	_
+
+SENT	1946E-MARK,9.254
+1-2	beym	P~D	בײם	bYM	_
+1	bey	P	בײ	bY	_
+2	m	D	מ	m	_
+3	lebedikn	ADJ	לעבעדיקן	lebedykN	_
+4	dertseyln	N	דערצײלן	derqYlN	_
+5	,	PUNC	,	,	_
+6	ven	C	װען	VeN	_
+7	men	PRO	מען	meN	_
+8	vil	MDF	װיל	Vyl	_
+9	dem	D	דעם	deM	_
+10	enyin	N	ענייִן	enyyiN	_
+11	makhn	VB	מאַכן	mAaxN	_
+12	impetdiker	ADJ	אימפּעטדיקער	Aympetdyker	_
+13	,	PUNC	,	,	_
+14	ven	C	װען	VeN	_
+15	men	PRO	מען	meN	_
+16	vil	MDF	װיל	Vyl	_
+17-18	onheybn	RP~VB	אָנהײבן	AonhYbN	_
+17	on	RP	אָן	AoN	_
+18	heybn	VB	הײבן	hYbN	_
+19	oyf	P	אױף	AWF	_
+20	a	D	אַ	Aa	_
+21	geviser	ADJ	געװיסער	geVyser	_
+22	umgerikhtkeyt	N	אומגעריכטקײט	AvmgeryxtkYt	_
+23	,	PUNC	,	,	_
+24	vern	RDF	װערן	VerN	_
+25	mir	PRO	מיר	myr	_
+26	nitsn	VB	ניצן	nyqN	_
+27	an	P	אַן	AaN	_
+28	erkh	H	ערך	erX	UNKNOWN
+29	azelkhe	ADJ	אַזעלכע	Aazelxe	_
+30	zatsn	N	זאַצן	zAaqN	_
+31	:	PUNC	:	:	_
+
+SENT	1946E-MARK,9.255
+1	kumen	VBF	קומען	kvmeN	_
+2	mir	PRO	מיר	myr	_
+3	arayn	ADV	אַרײַן	AarYaN	_
+4	tsu	P	צו	qv	_
+5	im	PRO	אים	AyM	_
+6	,	PUNC	,	,	_
+
+SENT	1946E-MARK,9.256
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	ligt	VBF	ליגט	lygt	_
+4	nokh	ADV	נאָך	nAoX	_
+5	in	P	אין	AyN	_
+6	bet	N	בעט	bet	_
+7	.	PUNC	.	.	_
+
+SENT	1946E-MARK,9.257
+1	reydn	VBF	רײדן	rYdN	_
+2	mir	PRO	מיר	myr	_
+3	tsu	P	צו	qv	_
+4	im	PRO	אים	AyM	_
+5	un	CONJ	און	AvN	_
+6	tenhn	VBF	טענהן	tenhN	_
+7	,	PUNC	,	,	_
+
+SENT	1946E-MARK,9.258
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	makht	VBF	מאַכט	mAaxt	_
+4	zikh	PRO	זיך	zyX	_
+5	nit	NEG	ניט	nyt	_
+6	visndik	ADJ	װיסנדיק	Vysndyk	_
+7	.	PUNC	.	.	_
+
+SENT	1946E-MARK,9.259
+1	git	VBF	גיט	gyt	_
+2	er	PRO	ער	er	_
+3	nit	NEG	ניט	nyt	_
+4	a	D	אַ	Aa	_
+5	shpring	N	שפּרינג	$pryng	_
+6	oyf	RP	אױף	AWF	_
+
+SENT	1946E-MARK,9.260
+1	un	CONJ	און	AvN	_
+2	shist	VBF	שיסט	$yst	_
+3	aroys	ADV	אַרױס	AarWs	_
+4	:	PUNC	:	:	_
+5	zeyt	VBF	זײט	zYt	_
+6	ir	PRO	איר	Ayr	_
+7	yoldn	NPR	יאָלדן	yAoldN	_
+8	!	PUNC	!	!	_
+
+SENT	1946E-MARK,9.261
+1	shtendik	ADV	שטענדיק	$tendyk	_
+2	ven	C	װען	VeN	_
+3	mir	PRO	מיר	myr	_
+4	hobn	VBF	האָבן	hAobN	_
+5	in	P	אין	AyN	_
+6	a	D	אַ	Aa	_
+7	dertseylzats	N	דערצײלזאַץ	derqYlzAaQ	_
+8	dem	D	דעם	deM	_
+9	verb	N	װערב	Verb	_
+10-11	oyfn	P~D	אױפֿן	AWfN	_
+10	oyf	P	אױף	AWF	_
+11	n	D	נ	n	_
+12	erstn	ADJ	ערסטן	erstN	_
+13	ort	N	אָרט	Aort	_
+14	,	PUNC	,	,	_
+15	bakumt	VBF	באַקומט	bAakvmt	_
+16	zikh	PRO	זיך	zyX	_
+17	der	D	דער	der	_
+18	eyndruk	N	אײנדרוק	AYndrvk	_
+19	az	C	אַז	Aaz	_
+20	do	ADV	דאָ	dAo	_
+21	iz	VBF	איז	Ayz	_
+22	epes	Q	עפּעס	epes	_
+23	a	D	אַ	Aa	_
+24	hemshekh	N	המשך	hm$X	_
+25	,	PUNC	,	,	_
+26	nit	NEG	ניט	nyt	_
+27	keyn	Q	קײן	kYN	_
+28	onheyb	N	אָנהײב	AonhYb	_
+29	,	PUNC	,	,	_
+30	az	C	אַז	Aaz	_
+31	men	PRO	מען	meN	_
+32	iz	BEF	איז	Ayz	_
+33	azoy	ADV	אַזױ	AazW	_
+34	vi	WADV	װי	Vy	_
+35-36	arayngeshprungen	ADV~VBN	אַרײַנגעשפּרונגען	AarYange$prvngeN	_
+35	arayn	ADV	אַרײַן	AarYaN	_
+36	geshprungen	VBN	געשפּרונגען	ge$prvngeN	_
+37	in	P	אין	AyN	_
+38	der	D	דער	der	_
+39	mit	N	מיט	myt	_
+40	,	PUNC	,	,	_
+41	az	C	אַז	Aaz	_
+42	logisherheyt	ADV	לאָגישערהײט	lAogy$erhYt	_
+43	iz	BEF	איז	Ayz	_
+44	shoyn	ADV	שױן	$WN	_
+45	do	ADV	דאָ	dAo	_
+46	geven	VBN	געװען	geVeN	_
+47	a	D	אַ	Aa	_
+48	frierdiker	ADJR	פֿריִערדיקער	fryierdyker	_
+49	moment	N	מאָמענט	mAoment	_
+50	.	PUNC	.	.	_
+
+SENT	1946E-MARK,9.262
+1	ven	C	װען	VeN	_
+2	emetser	Q	עמעצער	emeqer	_
+3	heybt	VBF	הײבט	hYbt	_
+4	on	RP	אָן	AoN	_
+5	:	PUNC	:	:	_
+6	hob	HVF	האָב	hAob	_
+7	ikh	PRO	איך	AyX	_
+8	gelebt	VBN	געלעבט	gelebt	_
+9	aleyn	ADV	אַלײן	AalYN	_
+10	in	P	אין	AyN	_
+11	a	D	אַ	Aa	_
+12	vald	N	װאַלד	VAald	_
+13	iz	VBF	איז	Ayz	_
+14	der	D	דער	der	_
+15	eyndruk	N	אײנדרוק	AYndrvk	_
+16-17	baym	P~D	בײַם	bYaM	_
+16	bay	P	בײַ	bYa	_
+17	m	D	מ	m	_
+18	herer	N	הערער	herer	_
+19	aza	ADV	אַזאַ	AazAa	_
+20	,	PUNC	,	,	_
+21	az	C	אַז	Aaz	_
+22	epes	Q	עפּעס	epes	_
+23	hot	HVF	האָט	hAot	_
+24	er	PRO	ער	er	_
+25	farhert	VBN	פֿאַרהערט	fAarhert	_
+26	,	PUNC	,	,	_
+27	az	C	אַז	Aaz	_
+28	der	D	דער	der	_
+29	reyder	N	רײדער	rYder	_
+30	hot	HVF	האָט	hAot	_
+31	shoyn	ADV	שױן	$WN	_
+32	gehot	HVN	געהאָט	gehAot	_
+33	gezogt	VBN	געזאָגט	gezAogt	_
+34	far	P	פֿאַר	fAar	_
+35	vos	WPRO	װאָס	VAos	_
+36	oder	CONJ	אָדער	Aoder	_
+37	vi_azoy	WADV	װי_אַזױ	Vy_AazW	_
+38	er	PRO	ער	er	_
+39	iz	BEF	איז	Ayz	_
+40	in	P	אין	AyN	_
+41	vald	N	װאַלד	VAald	_
+42	gekumen	VBN	געקומען	gekvmeN	_
+43	.	PUNC	.	.	_
+
+SENT	1946E-MARK,9.263
+1	es	ES	עס	es	_
+2	ken	MDF	קען	keN	_
+3	oykh	ADV	אױך	AWX	_
+4	zeyn	VB	זײן	zYN	_
+5	der	D	דער	der	_
+6	eyndruk	N	אײנדרוק	AYndrvk	_
+7	,	PUNC	,	,	_
+8	az	C	אַז	Aaz	_
+9	der	D	דער	der	_
+10	erster	ADJ	ערסטער	erster	_
+11	moment	N	מאָמענט	mAoment	_
+12	iz	VBF	איז	Ayz	_
+13	nit	NEG	ניט	nyt	_
+14	genug	Q	גענוג	genvg	_
+15	vikhtik	ADJ	װיכטיק	Vyxtyk	_
+
+SENT	1946E-MARK,9.264
+1	un	CONJ	און	AvN	_
+2	deriber	DR+P	דעריבער	deryber	_
+3	iz	VBF	איז	Ayz	_
+4	nit	NEG	ניט	nyt	_
+5	kedey	ADJ	כּדי	Kdy	_
+6	zikh	PRO	זיך	zyX	_
+7-9	optsushteln	RP~TO~VB	אָפּצושטעלן	Aopqv$telN	_
+7	op	RP	אָפּ	Aop	_
+8	tsu	TO	צו	qv	_
+9	shteln	VB	שטעלן	$telN	_
+10	oyf	P	אױף	AWF	_
+11	im	PRO	אים	AyM	_
+12	.	PUNC	.	.	_
+
+SENT	1946E-MARK,9.265
+1	es	PRO	עס	es	_
+2	iz	VBF	איז	Ayz	_
+3	azoy	ADV	אַזױ	AazW	_
+4	vi	WADV	װי	Vy	_
+5	men	PRO	מען	meN	_
+6	volt	MDF	װאָלט	VAolt	_
+7	glaykh	ADV	גלײַך	glYaX	_
+8	aroyf	ADV	אַרױף	AarWF	_
+9-10	oyfn	P~D	אױפֿן	AWfN	_
+9	oyf	P	אױף	AWF	_
+10	n	D	נ	n	_
+11	tsveytn	ADJ	צװײטן	qVYtN	_
+12	shtapl	N	שטאַפּל	$tAapl	_
+13	,	PUNC	,	,	_
+14-15	iberhupfndik	RP~VAG	איבערהופּפֿנדיק	Ayberhvpfndyk	_
+14	iber	RP	איבער	Ayber	_
+15	hupfndik	VAG	הופּפֿנדיק	hvpfndyk	_
+16	dem	D	דעם	deM	_
+17	erstn	ADJ	ערסטן	erstN	_
+18	.	PUNC	.	.	_
+
+SENT	1946E-MARK,9.266
+1	ikh	PRO	איך	AyX	_
+2	breng	VBF	ברענג	breng	_
+3	do	ADV	דאָ	dAo	_
+4	tsitatn	N	ציטאַטן	qytAatN	_
+5	fun	P	פֿון	fvN	_
+6	folkslider	N	פֿאָלקסלידער	fAolkslyder	_
+7	vos	C	װאָס	VAos	_
+8	ilustrirn	VBF	אילוסטרירן	AylvstryrN	_
+9	undzere	PRO$	אונדזערע	Avndzere	_
+10	reyd	N	רײד	rYd	_
+11	:	PUNC	:	:	_
+
+SENT	1946E-MARK,10.268
+1	1.	LS	1.	1.	_
+2	vest	MDF	װעסט	Vest	_
+3	krign	VB	קריגן	krygN	_
+4	a	D	אַ	Aa	_
+5	shener	ADJR	שענער	$ener	_
+6	,	PUNC	,	,	_
+7	a	D	אַ	Aa	_
+8	besere	ADJR	בעסערע	besere	_
+
+SENT	1946E-MARK,10.269
+1	2.	LS	2.	2.	_
+2	loyft	VBF	לױפֿט	lWft	_
+3	dos	D	דאָס	dAos	_
+4	vaserl	N	װאַסערל	VAaserl	_
+5	fun	P	פֿון	fvN	_
+6	dem	D	דעם	deM	_
+7	veldl	N	װעלדל	Veldl	_
+8	,	PUNC	,	,	_
+
+SENT	1946E-MARK,10.270
+1	loyft	VBF	לױפֿט	lWft	_
+2	es	PRO	עס	es	_
+3	biz	P	ביז	byz	_
+4	keyn	P	קײן	kYN	_
+5	dants{ik}	NPR	דאַנץ{איק}	dAanQ{Ayk}	_
+
+SENT	1946E-MARK,10.271
+1	kumt	VBF	קומט	kvmt	_
+2	a	D	אַ	Aa	_
+3	meydl	N	מײדל	mYdl	_
+4	on	P	אָן	AoN	_
+5	a	D	אַ	Aa	_
+6	sheynem	ADJ	שײנעם	$YneM	_
+7	kleydl	N	קלײדל	klYdl	_
+8	nemt	VBF	נעמט	nemt	_
+9	men	PRO	מען	meN	_
+10	zi	PRO	זי	zy	_
+11	nisht	NEG	נישט	ny$t	_
+12-13	tsum	P~D	צום	qvM	_
+12	tsu	P	צו	qv	_
+13	m	D	מ	m	_
+14	tants	N	טאַנץ	tAanQ	_
+15	.	PUNC	.	.	_
+
+SENT	1946E-MARK,10.272
+1	3.	LS	3.	3.	_
+2	tsikh	VBF	ציך	qyX	_
+3	ikh	PRO	איך	AyX	_
+4	mir	PRO	מיר	myr	_
+5	in	P	אין	AyN	_
+6	shtibele	N	שטיבעלע	$tybele	_
+
+SENT	1946E-MARK,10.273
+1	un	CONJ	און	AvN	_
+2	trakht	VBF	טראַכט	trAaxt	_
+3	nor	FP	נאָר	nAor	_
+4	vegn	P	װעגן	VegN	_
+5	dir	PRO	דיר	dyr	_
+6	.	PUNC	.	.	_
+
+SENT	1946E-MARK,10.274
+1	4.	LS	4.	4.	_
+2	gey	VBF	גײ	gY	_
+3	ikh	PRO	איך	AyX	_
+4	arayn	ADV	אַרײַן	AarYaN	_
+5	in	P	אין	AyN	_
+6	shtub	N	שטוב	$tvb	_
+7	,	PUNC	,	,	_
+
+SENT	1946E-MARK,10.275
+1	s'	PRO	ס'	s'	_
+2	iz	VBF	איז	Ayz	_
+3	mir	PRO	מיר	myr	_
+4	fintster	ADJ	פֿינצטער	fynqter	_
+5	azoy	ADV	אַזױ	AazW	_
+6	vi	P	װי	Vy	_
+7	in	P	אין	AyN	_
+8	grub	N	גרוב	grvb	_
+9	.	PUNC	.	.	_
+
+SENT	1946E-MARK,10.276
+1	5.	LS	5.	5.	_
+2	zits	VBF	זיץ	zyQ	_
+3	ikh	PRO	איך	AyX	_
+4	mir	PRO	מיר	myr	_
+5	bay	P	בײַ	bYa	_
+6	der	D	דער	der	_
+7	arbet	N	אַרבעט	Aarbet	_
+8	,	PUNC	,	,	_
+
+SENT	1946E-MARK,10.277
+1	tut	VBF	טוט	tvt	_
+2	mir	PRO	מיר	myr	_
+3	zeyer	ADV	זײער	zYer	_
+4	bang	ADV	באַנג	bAang	_
+5	;	PUNC	;	;	_
+
+SENT	1946E-MARK,10.278
+1	kumt	VBF	קומט	kvmt	_
+2	men	PRO	מען	meN	_
+3	mir	PRO	מיר	myr	_
+4	a	D	אַ	Aa	_
+5	bsurh	N	בסורה	bsvrh	_
+6	zogn	VB	זאָגן	zAogN	_
+7	az	C	אַז	Aaz	_
+8	meyn	PRO$	מײן	mYN	_
+9	teyer	ADJ	טײער	tYer	_
+10	lebn	N	לעבן	lebN	_
+11	iz	VBF	איז	Ayz	_
+12	krank	ADJ	קראַנק	krAank	_
+13	.	PUNC	.	.	_
+
+SENT	1946E-MARK,10.279
+1	gey	VBF	גײ	gY	_
+2	ikh	PRO	איך	AyX	_
+3	mir	PRO	מיר	myr	_
+4	aroys	ADV	אַרױס	AarWs	_
+5	in	P	אין	AyN	_
+6	shtetele	N	שטעטעלע	$tetele	_
+
+SENT	1946E-MARK,10.280
+1	un	CONJ	און	AvN	_
+2	tu	DOF	טו	tv	_
+3	mikh	PRO	מיך	myX	_
+4-5	umkukn	RP~VB	אומקוקן	AvmkvkN	_
+4	um	RP	אום	AvM	_
+5	kukn	VB	קוקן	kvkN	_
+6	;	PUNC	;	;	_
+
+SENT	1946E-MARK,10.281
+1	flit	VBF	פֿליט	flyt	_
+2	arop	ADV	אַראָפּ	AarAop	_
+3	a	D	אַ	Aa	_
+4	sheyner	ADJ	שײנער	$Yner	_
+5	foygl	N	פֿױגל	fWgl	_
+
+SENT	1946E-MARK,10.282
+1	un	CONJ	און	AvN	_
+2	tut	DOF	טוט	tvt	_
+3	meyn	PRO$	מײן	mYN	_
+4	harts	N	האַרץ	hAarQ	_
+5	derkvikn	VB	דערקװיקן	derkVykN	_
+6	.	PUNC	.	.	_
+
+SENT	1946E-MARK,10.283
+1	mir	PRO	מיר	myr	_
+2	hobn	VBF	האָבן	hAobN	_
+3	oft	ADV	אָפֿט	Aoft	_
+4	far	P	פֿאַר	fAar	_
+5	zikh	PRO	זיך	zyX	_
+6	a	D	אַ	Aa	_
+7	bfirut	X	בפֿירוט	bfyrvt	_
+8	eliptishn	ADJ	עליפּטישן	elypty$N	_
+9	zats	N	זאַץ	zAaQ	_
+10	,	PUNC	,	,	_
+11	ven	C	װען	VeN	_
+12	mir	PRO	מיר	myr	_
+13	heybn	VBF	הײבן	hYbN	_
+14	on	RP	אָן	AoN	_
+15-16	mitn	P~D	מיטן	mytN	_
+15	mit	P	מיט	myt	_
+16	n	D	נ	n	_
+17	beygikn	ADJ	בײגיקן	bYgykN	_
+18	verb	N	װערב	Verb	_
+19	.	PUNC	.	.	_
+
+SENT	1946E-MARK,10.284
+1	di	D	די	dy	_
+2	eliptishe	ADJ	עליפּטישע	elypty$e	_
+3	konstruktsie	N	קאָנסטרוקציִע	kAonstrvkqyie	_
+4	iz	VBF	איז	Ayz	_
+5	bazunder	ADV	באַזונדער	bAazvnder	_
+6	kharakteristish	ADJ	כאַראַקטעריסטיש	xAarAakterysty$	_
+7	far	P	פֿאַר	fAar	_
+8	dem	D	דעם	deM	_
+9	tnay-zats	N	תּנאַי-זאַץ	TnAay-zAaQ	_
+10	un	CONJ	און	AvN	_
+11	oykh	ADV	אױך	AWX	_
+12	far	P	פֿאַר	fAar	_
+13	dem	D	דעם	deM	_
+14	tsaytzats	N	צײַטזאַץ	qYatzAaQ	_
+15	.	PUNC	.	.	_
+
+SENT	1946E-MARK,10.285
+1	onshtot	P	אָנשטאָט	Aon$tAot	_
+2	tsu	TO	צו	qv	_
+3	zogn	VB	זאָגן	zAogN	_
+4	:	PUNC	:	:	_
+5	6a.	LS	6אַ.	6Aa.	_
+6	oyb	C	אױב	AWb	_
+7	ikh	PRO	איך	AyX	_
+8	vel	MDF	װעל	Vel	_
+9	im	PRO	אים	AyM	_
+10	zen	VB	זען	zeN	_
+11	,	PUNC	,	,	_
+12	vel	MDF	װעל	Vel	_
+13	ikh	PRO	איך	AyX	_
+14	im	PRO	אים	AyM	_
+15	zogn	VB	זאָגן	zAogN	_
+16	.	PUNC	.	.	_
+17	hern	VBF	הערן	herN	_
+18	mir	PRO	מיר	myr	_
+19	zeyer	ADV	זײער	zYer	_
+20	oft	ADV	אָפֿט	Aoft	_
+21	un	CONJ	און	AvN	_
+22	zogn	VB	זאָגן	zAogN	_
+23	aleyn	ADV	אַלײן	AalYN	_
+24	zeyer	ADV	זײער	zYer	_
+25	oft	ADV	אָפֿט	Aoft	_
+26	di	D	די	dy	_
+27	kirtsere	ADJR	קירצערע	kyrqere	_
+28	forem	N	פֿאָרעם	fAoreM	_
+29	:	PUNC	:	:	_
+30	6b.	LS	6ב.	6b.	_
+31	vel	MDF	װעל	Vel	_
+32	ikh	PRO	איך	AyX	_
+33	im	PRO	אים	AyM	_
+34	zen	VB	זען	zeN	_
+35	,	PUNC	,	,	_
+36	vel	MDF	װעל	Vel	_
+37	ikh	PRO	איך	AyX	_
+38	im	PRO	אים	AyM	_
+39	zogn	VB	זאָגן	zAogN	_
+40	.	PUNC	.	.	_
+
+SENT	1946E-MARK,10.286
+1	in	P	אין	AyN	_
+2	dem	D	דעם	deM	_
+3	tsveytn	ADJ	צװײטן	qVYtN	_
+4	zats	N	זאַץ	zAaQ	_
+5	hobn	VBF	האָבן	hAobN	_
+6	mir	PRO	מיר	myr	_
+7	agev	ADV	אַגבֿ	Aag~	_
+8	dem	D	דעם	deM	_
+9	zelbikn	ADJ	זעלביקן	zelbykN	_
+10	ritem	N	ריטעם	ryteM	_
+11	fun	P	פֿון	fvN	_
+12	zats	N	זאַץ	zAaQ	_
+13	hn	CONJ	הן	hN	_
+14	in	P	אין	AyN	_
+15	der	D	דער	der	_
+16	erster	N	ערסטער	erster	_
+17	hn	CONJ	הן	hN	_
+18	in	P	אין	AyN	_
+19	der	D	דער	der	_
+20	tsveyter	ADJ	צװײטער	qVYter	_
+21	helft	N	העלפֿט	helft	_
+22	.	PUNC	.	.	_
+
+SENT	1946E-MARK,10.287
+1	do	ADV	דאָ	dAo	_
+2	hobn	VBF	האָבן	hAobN	_
+3	mir	PRO	מיר	myr	_
+4	yenem	D	יענעם	yeneM	_
+5	paralelism	N	פּאַראַלעליסם	pAarAalelysM	_
+6	in	P	אין	AyN	_
+7	ritem	N	ריטעם	ryteM	_
+8	vos	C	װאָס	VAos	_
+9	treft	VBF	טרעפֿט	treft	_
+10	zikh	PRO	זיך	zyX	_
+11	azoy	ADV	אַזױ	AazW	_
+12	oft	ADV	אָפֿט	Aoft	_
+13	in	P	אין	AyN	_
+14	dem	D	דעם	deM	_
+15	geredtn	ADJ	גערעדטן	geredtN	_
+16	loyshn	N	לױשן	lW$N	_
+17	.	PUNC	.	.	_
+
+SENT	1946E-MARK,10.288
+1	mir	PRO	מיר	myr	_
+2	brengen	VBF	ברענגען	brengeN	_
+3	vider	ADV	װידער	Vyder	_
+4	etlekhe	Q	עטלעכע	etlexe	_
+5	beyshpiln	N	בײשפּילן	bY$pylN	_
+6	fun	P	פֿון	fvN	_
+7	folkslider	N	פֿאָלקסלידער	fAolkslyder	_
+8	:	PUNC	:	:	_
+
+SENT	1946E-MARK,10.289
+1	7.	LS	7.	7.	_
+2	geyt	VBF	גײט	gYt	_
+3	di	D	די	dy	_
+4	meydl	N	מײדל	mYdl	_
+5	tantsn	VB	טאַנצן	tAanqN	_
+6	,	PUNC	,	,	_
+7	klagt	VBF	קלאַגט	klAagt	_
+8	zi	PRO	זי	zy	_
+
+SENT	1946E-MARK,10.290
+1	un	CONJ	און	AvN	_
+2	veynt	VBF	װײנט	VYnt	_
+
+SENT	1946E-MARK,10.291
+1	8.	LS	8.	8.	_
+2-3	vestu	MDF~PRO	װעסטו	Vestv	_
+2	ves	MDF	װעס	Ves	_
+3	tu	PRO	טו	tv	_
+4	nisht	NEG	נישט	ny$t	_
+5	kenen	MD	קענען	keneN	_
+6	keyn	Q	קײן	kYN	_
+7	brivele	N	בריװעלע	bryVele	_
+8	shreybn	VB	שרײבן	$rYbN	_
+9	,	PUNC	,	,	_
+10-11	zolstu	MDF~PRO	זאָלסטו	zAolstv	_
+10	zols	MDF	זאָלס	zAols	_
+11	tu	PRO	טו	tv	_
+12	mir	PRO	מיר	myr	_
+13	khotsh	ADV	כאָטש	xAot$	_
+14	lozn	VB	לאָזן	lAozN	_
+15	grisn	VB	גריסן	grysN	_
+16	.	PUNC	.	.	_
+
+SENT	1946E-MARK,10.292
+1	9.	LS	9.	9.	_
+2-3	vestu	MDF~PRO	װעסטו	Vestv	_
+2	ves	MDF	װעס	Ves	_
+3	tu	PRO	טו	tv	_
+4	kumen	VB	קומען	kvmeN	_
+5	tsu	P	צו	qv	_
+6	a	D	אַ	Aa	_
+7	vaserl	N	װאַסערל	VAaserl	_
+8	,	PUNC	,	,	_
+9-10	zolstu	MDF~PRO	זאָלסטו	zAolstv	_
+9	zols	MDF	זאָלס	zAols	_
+10	tu	PRO	טו	tv	_
+11	zikh	PRO	זיך	zyX	_
+12	nisht	NEG	נישט	ny$t	_
+13	trenken	VB	טרענקען	trenkeN	_
+
+SENT	1946E-MARK,10.293
+1-2	vestu	MDF~PRO	װעסטו	Vestv	_
+1	ves	MDF	װעס	Ves	_
+2	tu	PRO	טו	tv	_
+3	kumen	VB	קומען	kvmeN	_
+4	tsu	P	צו	qv	_
+5	an	D	אַן	AaN	_
+6	ander	ADJ	אַנדער	Aander	_
+7	meydele	N	מײדעלע	mYdele	_
+8	,	PUNC	,	,	_
+9-10	zolstu	MDF~PRO	זאָלסטו	zAolstv	_
+9	zols	MDF	זאָלס	zAols	_
+10	tu	PRO	טו	tv	_
+11	mikh	PRO	מיך	myX	_
+12	gedenken	VB	געדענקען	gedenkeN	_
+13	.	PUNC	.	.	_
+
+SENT	1946E-MARK,10.294
+1	in	P	אין	AyN	_
+2	freg-	N	פֿרעג-	freg-	_
+3	un	CONJ	און	AvN	_
+4	oysruf-zats	N	אױסרוף-זאַץ	AWsrvF-zAaQ	_
+5	iz	VBF	איז	Ayz	_
+6	der	D	דער	der	_
+7	verb	N	װערב	Verb	_
+8	gants	ADV	גאַנץ	gAanQ	_
+9	oft	ADV	אָפֿט	Aoft	_
+10-11	oyfn	P~D	אױפֿן	AWfN	_
+10	oyf	P	אױף	AWF	_
+11	n	D	נ	n	_
+12	erstn	ADJ	ערסטן	erstN	_
+13	ort	N	אָרט	Aort	_
+14	,	PUNC	,	,	_
+
+SENT	1946E-MARK,10.295
+1	ober	CONJ	אָבער	Aober	_
+2	vi	WADV	װי	Vy	_
+3	men	PRO	מען	meN	_
+4	ken	MDF	קען	keN	_
+5	es	PRO	עס	es	_
+6	zen	VB	זען	zeN	_
+7	fun	P	פֿון	fvN	_
+8	di	D	די	dy	_
+9	zatsn	N	זאַצן	zAaqN	_
+10	vos	C	װאָס	VAos	_
+11	zaynen	BEF	זײַנען	zYaneN	_
+12	gebrakht	VAN	געבראַכט	gebrAaxt	_
+13	gevorn	RDN	געװאָרן	geVAorN	_
+14	in	P	אין	AyN	_
+15	kapitele	N	קאַפּיטעלע	kAapytele	_
+16	g	REF	ג	g	_
+17	muz	MDF	מוז	mvz	_
+18	der	D	דער	der	_
+19	verb	N	װערב	Verb	_
+20	nit	NEG	ניט	nyt	_
+21	kumen	VB	קומען	kvmeN	_
+22-23	oyfn	P~D	אױפֿן	AWfN	_
+22	oyf	P	אױף	AWF	_
+23	n	D	נ	n	_
+24	erstn	ADJ	ערסטן	erstN	_
+25	ort	N	אָרט	Aort	_
+26	.	PUNC	.	.	_
+
+SENT	1946E-MARK,10.296
+1	men	PRO	מען	meN	_
+2	ken	MDF	קען	keN	_
+3	afilu	FP	אַפֿילו	Aafylv	_
+4	nit	NEG	ניט	nyt	_
+5	formulirn	VB	פֿאָרמולירן	fAormvlyrN	_
+6	keyn	Q	קײן	kYN	_
+7	onveyz	N	אָנװײז	AonVYz	_
+8	,	PUNC	,	,	_
+9	az	C	אַז	Aaz	_
+10	durkh	P	דורך	dvrX	_
+11	dem	D	דעם	deM	_
+12	vos	C	װאָס	VAos	_
+13	der	D	דער	der	_
+14	verb	N	װערב	Verb	_
+15	kumt	VBF	קומט	kvmt	_
+16-17	oyfn	P~D	אױפֿן	AWfN	_
+16	oyf	P	אױף	AWF	_
+17	n	D	נ	n	_
+18	erstn	ADJ	ערסטן	erstN	_
+19	ort	N	אָרט	Aort	_
+20	vert	VBF	װערט	Vert	_
+21	epes	Q	עפּעס	epes	_
+22	vos	Q	װאָס	VAos	_
+23	shtarker	ADJR	שטאַרקער	$tAarker	_
+24	in	P	אין	AyN	_
+25	der	D	דער	der	_
+26	frage	N	פֿראַגע	frAage	_
+27	oder	CONJ	אָדער	Aoder	_
+28	in	P	אין	AyN	_
+29	dem	D	דעם	deM	_
+30	oysruf	N	אױסרוף	AWsrvF	_
+31	.	PUNC	.	.	_
+
+SENT	1946E-MARK,10.297
+1	es	ES	עס	es	_
+2	zeynen	VBF	זײנען	zYneN	_
+3	faran	ADJ	פֿאַראַן	fAarAaN	_
+4	bloyz	FP	בלױז	blWz	_
+5	niuansn	N	ניִואַנסן	nyivAansN	_
+6	in	P	אין	AyN	_
+7	batayt	N	באַטײַט	bAatYat	_
+8	,	PUNC	,	,	_
+9	ober	CONJ	אָבער	Aober	_
+10	nit	NEG	ניט	nyt	_
+11	in	P	אין	AyN	_
+12	der	D	דער	der	_
+13	shtarkeyt	N	שטאַרקײט	$tAarkYt	_
+14	fun	P	פֿון	fvN	_
+15	der	D	דער	der	_
+16	freg-	N	פֿרעג-	freg-	_
+17	oder	CONJ	אָדער	Aoder	_
+18	oysruf-intonatsie	N	אױסרוף-אינטאָנאַציִע	AWsrvF-AyntAonAaqyie	_
+19	in	P	אין	AyN	_
+20	azelkhe	ADJ	אַזעלכע	Aazelxe	_
+21	variantn	N	װאַריִאַנטן	VAaryiAantN	_
+22	:	PUNC	:	:	_
+
+SENT	1946E-MARK,10.298
+1	10a.	LS	10אַ.	10Aa.	_
+2	geyst	VBF	גײסט	gYst	_
+3	shoyn	ADV	שױן	$WN	_
+4	aheym	ADV	אַהײם	AahYM	_
+5	?	PUNC	?	?	_
+
+SENT	1946E-MARK,10.299
+1	10b.	LS	10ב.	10b.	_
+2	du	PRO	דו	dv	_
+3	geyst	VBF	גײסט	gYst	_
+4	shoyn	ADV	שױן	$WN	_
+5	aheym	ADV	אַהײם	AahYM	_
+6	?	PUNC	?	?	_
+
+SENT	1946E-MARK,10.300
+1	10c.	LS	10c.	10c.	_
+2	shoyn	ADV	שױן	$WN	_
+3-4	geystu	VBF~PRO	גײסטו	gYstv	_
+3	geys	VBF	גײס	gYs	_
+4	tu	PRO	טו	tv	_
+5	aheym	ADV	אַהײם	AahYM	_
+6	?	PUNC	?	?	_
+
+SENT	1946E-MARK,10.301
+1	11a.	LS	11אַ.	11Aa.	_
+2	gey	VBI	גײ	gY	_
+3	shoyn	ADV	שױן	$WN	_
+4	aheym	ADV	אַהײם	AahYM	_
+5	!	PUNC	!	!	_
+
+SENT	1946E-MARK,10.302
+1	11b.	LS	11ב.	11b.	_
+2	du	PRO	דו	dv	_
+3	gey	VBI	גײ	gY	_
+4	shoyn	ADV	שױן	$WN	_
+5	aheym	ADV	אַהײם	AahYM	_
+6	!	PUNC	!	!	_
+
+SENT	1946E-MARK,10.303
+1	11g.	LS	11ג.	11g.	_
+2	shoyn	ADV	שױן	$WN	_
+3	gey	VBI	גײ	gY	_
+4	aheym	ADV	אַהײם	AahYM	_
+5	!	PUNC	!	!	_
+
+SENT	1946E-MARK,10.304
+1	ven	C	װען	VeN	_
+2	mir	PRO	מיר	myr	_
+3	hobn	VBF	האָבן	hAobN	_
+4	tsu	TO	צו	qv	_
+5	ton	VB	טאָן	tAoN	_
+6-7	mitn	P~D	מיטן	mytN	_
+6	mit	P	מיט	myt	_
+7	n	D	נ	n	_
+8	bafel-modus	N	באַפֿעל-מאָדוס	bAafel-mAodvs	_
+9	,	PUNC	,	,	_
+10-11	lomir	VBI~PRO	לאָמיר	lAomyr	_
+10	lo	VBI	לאָ	lAo	_
+11	mir	PRO	מיר	myr	_
+12	rasit-kl	ADV	ראַסיט-קל	rAasyt-kl	_
+13	nemen	VB	נעמען	nemeN	_
+14	in	P	אין	AyN	_
+15	batrakht	N	באַטראַכט	bAatrAaxt	_
+16	az	C	אַז	Aaz	_
+17	di	D	די	dy	_
+18	kurtse	ADJ	קורצע	kvrqe	_
+19	formen	N	פֿאָרמען	fAormeN	_
+20	far	P	פֿאַר	fAar	_
+21	der	D	דער	der	_
+22	tsveyter	ADJ	צװײטער	qVYter	_
+23	perzon	N	פּערזאָן	perzAoN	_
+24	gey	VBI	גײ	gY	_
+25	!	PUNC	!	!	_
+26	geyt	VBI	גײט	gYt	_
+27	!	PUNC	!	!	_
+28	zeynen	VBF	זײנען	zYneN	_
+29	in	P	אין	AyN	_
+30	a	D	אַ	Aa	_
+31	gevisn	ADJ	געװיסן	geVysN	_
+32	zinen	N	זינען	zyneN	_
+33	zatsverter	N	זאַצװערטער	zAaqVerter	_
+34	,	PUNC	,	,	_
+35	d.h.	X	ד.ה.	d.h.	_
+36	azelkhe	ADJ	אַזעלכע	Aazelxe	_
+37	verter	N	װערטער	Verter	_
+38	vos	C	װאָס	VAos	_
+39	zeynen	VBF	זײנען	zYneN	_
+40	gantse	ADJ	גאַנצע	gAanqe	_
+41	zatsn	N	זאַצן	zAaqN	_
+42	un	CONJ	און	AvN	_
+43	vu	WADV	װוּ	VU	_
+44	der	D	דער	der	_
+45	subyekt	N	סוביעקט	svbyekt	_
+46	un	CONJ	און	AvN	_
+47	predikat	N	פּרעדיקאַט	predykAat	_
+48	zaynen	BEF	זײַנען	zYaneN	_
+49-50	tsunoyfgeshmoltsn	ADV~VBN	צונױפֿגעשמאָלצן	qvnWfge$mAolqN	_
+49	tsunoyf	ADV	צונױף	qvnWF	_
+50	geshmoltsn	VBN	געשמאָלצן	ge$mAolqN	_
+51	in	P	אין	AyN	_
+52	eyn	D	אײן	AYN	_
+53	vort	N	װאָרט	VAort	_
+54	.	PUNC	.	.	_
+
+SENT	1946E-MARK,11.305
+1	men	PRO	מען	meN	_
+2	ken	MDF	קען	keN	_
+3	oykh	ADV	אױך	AWX	_
+4	batrakhtn	VB	באַטראַכטן	bAatrAaxtN	_
+5	ot	FP	אָט	Aot	_
+6	di	D	די	dy	_
+7	formen	N	פֿאָרמען	fAormeN	_
+8	,	PUNC	,	,	_
+9	un	CONJ	און	AvN	_
+10	dos	D	דאָס	dAos	_
+11	vet	MDF	װעט	Vet	_
+12	zeyn	VB	זײן	zYN	_
+13	a_sakh	Q	אַ_סאַך	Aa_sAaX	_
+14	posheter	ADJR	פּשוטער	p$vter	_
+15	,	PUNC	,	,	_
+16	vi	P	װי	Vy	_
+17	normal	ADV	נאָרמאַל	nAormAal	_
+18	eliptishe	ADJ	עליפּטישע	elypty$e	_
+19	,	PUNC	,	,	_
+
+SENT	1946E-MARK,11.306
+1	vorem	CONJ	װאָרעם	VAoreM	_
+2	men	PRO	מען	meN	_
+3	ken	MDF	קען	keN	_
+4	zey	PRO	זײ	zY	_
+5	dokh	ADV	דאָך	dAoX	_
+6	shtendik	ADV	שטענדיק	$tendyk	_
+7-8	oysbreytern	RP~VB	אױסברײטערן	AWsbrYterN	_
+7	oys	RP	אױס	AWs	_
+8	breytern	VB	ברײטערן	brYterN	_
+9	.	PUNC	.	.	_
+
+SENT	1946E-MARK,11.307
+1	men	PRO	מען	meN	_
+2	ken	MDF	קען	keN	_
+3	dokh	ADV	דאָך	dAoX	_
+4	anshtot	P	אַנשטאָט	Aan$tAot	_
+5	"	PUNC	"	"	_
+6	gey	VBI	גײ	gY	_
+7	"	PUNC	"	"	_
+8	zogn	VB	זאָגן	zAogN	_
+9	oykh	ADV	אױך	AWX	_
+10	:	PUNC	:	:	_
+11	"	PUNC	"	"	_
+12	du	PRO	דו	dv	_
+13	gey	VBI	גײ	gY	_
+14	!	PUNC	!	!	_
+15	"	PUNC	"	"	_
+16	anshot	P	אַנשאָט	Aan$Aot	_
+17	"	PUNC	"	"	_
+18	geyt	VBI	גײט	gYt	_
+19	"	PUNC	"	"	_
+20	oykh	ADV	אױך	AWX	_
+21	"	PUNC	"	"	_
+22	ir	PRO	איר	Ayr	_
+23	geyt	VBI	גײט	gYt	_
+24	"	PUNC	"	"	_
+25	!	PUNC	!	!	_
+
+SENT	1946E-MARK,11.308
+1	ven	C	װען	VeN	_
+2	mir	PRO	מיר	myr	_
+3	hobn	VBF	האָבן	hAobN	_
+4	di	D	די	dy	_
+5	bafel-formen	N	באַפֿעל-פֿאָרמען	bAafel-fAormeN	_
+6	mit	P	מיט	myt	_
+7	"	PUNC	"	"	_
+8	zoln	MDF	זאָלן	zAolN	_
+9	"	PUNC	"	"	_
+10	,	PUNC	,	,	_
+11	iz	VBF	איז	Ayz	_
+12	nor	FP	נאָר	nAor	_
+13	far	P	פֿאַר	fAar	_
+14	der	D	דער	der	_
+15	driter	ADJ	דריטער	dryter	_
+16	perzon	N	פּערזאָן	perzAoN	_
+17	kharakteristish	ADJ	כאַראַקטעריסטיש	xAarAakterysty$	_
+18	az	C	אַז	Aaz	_
+19	in	P	אין	AyN	_
+20	onheyb	N	אָנהײב	AonhYb	_
+21	zats	N	זאַץ	zAaQ	_
+22	zol	MDF	זאָל	zAol	_
+23	kumen	VB	קומען	kvmeN	_
+24	der	D	דער	der	_
+25	beygiker	ADJ	בײגיקער	bYgyker	_
+26	verb	N	װערב	Verb	_
+27	:	PUNC	:	:	_
+
+SENT	1946E-MARK,11.309
+1	zol	MDF	זאָל	zAol	_
+2	er	PRO	ער	er	_
+3	geyn	VB	גײן	gYN	_
+4	!	PUNC	!	!	_
+
+SENT	1946E-MARK,11.310
+1	zol	MDF	זאָל	zAol	_
+2	zi	PRO	זי	zy	_
+3	geyn	VB	גײן	gYN	_
+4	!	PUNC	!	!	_
+
+SENT	1946E-MARK,11.311
+1	zoln	MDF	זאָלן	zAolN	_
+2	zey	PRO	זײ	zY	_
+3	geyn	VB	גײן	gYN	_
+4	!	PUNC	!	!	_
+
+SENT	1946E-MARK,11.312
+1	ober	CONJ	אָבער	Aober	_
+2	far	P	פֿאַר	fAar	_
+3	der	D	דער	der	_
+4	tsveyter	ADJ	צװײטער	qVYter	_
+5	perzon	N	פּערזאָן	perzAoN	_
+6	iz	VBF	איז	Ayz	_
+7	a_ponim	ADV	אַ_פּאָנים	Aa_pAonyM	_
+8	normaler	ADJR	נאָרמאַלער	nAormAaler	_
+9	un	CONJ	און	AvN	_
+10	ofter	ADJR	אָפֿטער	Aofter	_
+11	:	PUNC	:	:	_
+12	du	PRO	דו	dv	_
+13	zolst	MDF	זאָלסט	zAolst	_
+14	geyn	VB	גײן	gYN	_
+15	!	PUNC	!	!	_
+16	ir	PRO	איר	Ayr	_
+17	zolt	MDF	זאָלט	zAolt	_
+18	geyn	VB	גײן	gYN	_
+19	!	PUNC	!	!	_
+
+SENT	1946E-MARK,11.313
+1-2	lomir	VBI~PRO	לאָמיר	lAomyr	_
+1	lo	VBI	לאָ	lAo	_
+2	mir	PRO	מיר	myr	_
+3	bazunder	ADV	באַזונדער	bAazvnder	_
+4	fartseykhenen	VB	פֿאַרצײכענען	fAarqYxeneN	_
+5	dem	D	דעם	deM	_
+6	idiom	N	אידיִאָם	AydyiAoM	_
+7	:	PUNC	:	:	_
+8	mir	PRO	מיר	myr	_
+9	zol	MDF	זאָל	zAol	_
+10	zeyn	VB	זײן	zYN	_
+11	far	P	פֿאַר	fAar	_
+12	dir	PRO	דיר	dyr	_
+13	!	PUNC	!	!	_
+14	mit	P	מיט	myt	_
+15	dem	D	דעם	deM	_
+16	fulkum	ADV	פֿולקום	fvlkvM	_
+17	festn	ADJ	פֿעסטן	festN	_
+18	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+19	.	PUNC	.	.	_
+
+SENT	1946E-MARK,11.314
+1	mir	PRO	מיר	myr	_
+2	hobn	HVF	האָבן	hAobN	_
+3	gehot	VBN	געהאָט	gehAot	_
+4	shoyn	ADV	שױן	$WN	_
+5	a	D	אַ	Aa	_
+6	bisl	N	ביסל	bysl	_
+7	frier	ADVR	פֿריִער	fryier	_
+8	dem	D	דעם	deM	_
+9	eliptishn	ADJ	עליפּטישן	elypty$N	_
+10	tnay-zats	N	תּנאַי-זאַץ	TnAay-zAaQ	_
+11	vos	C	װאָס	VAos	_
+12	heybt	VBF	הײבט	hYbt	_
+13	zikh	PRO	זיך	zyX	_
+14	on	RP	אָן	AoN	_
+15-16	mitn	P~D	מיטן	mytN	_
+15	mit	P	מיט	myt	_
+16	n	D	נ	n	_
+17	beygikn	ADJ	בײגיקן	bYgykN	_
+18	verb	N	װערב	Verb	_
+19-20	oyfn	P~D	אױפֿן	AWfN	_
+19	oyf	P	אױף	AWF	_
+20	n	D	נ	n	_
+21	erstn	ADJ	ערסטן	erstN	_
+22	ort	N	אָרט	Aort	_
+23	.	PUNC	.	.	_
+
+SENT	1946E-MARK,11.315
+1-2	farn	P~D	פֿאַרן	fAarN	_
+1	far	P	פֿאַר	fAar	_
+2	n	D	נ	n	_
+3	ummiglekhn	ADJ	אוממיגלעכן	AvmmyglexN	_
+4	tnay	N	תּנאַי	TnAay	_
+5	hobn	VBF	האָבן	hAobN	_
+6	mir	PRO	מיר	myr	_
+7	dem	D	דעם	deM	_
+8	hilfsverb	N	הילפֿסװערב	hylfsVerb	_
+9	volt	VLF	װאָלט	VAolt	_
+10	voltsu	VLF	װאָלצו	VAolqv	_
+11	voltn	VLF	װאָלטן	VAoltN	_
+12	.	PUNC	.	.	_
+
+SENT	1946E-MARK,11.316
+1	in	P	אין	AyN	_
+2	dem	D	דעם	deM	_
+3	hoyptzats	N	הױפּטזאַץ	hWptzAaQ	_
+4	hobn	VBF	האָבן	hAobN	_
+5	mir	PRO	מיר	myr	_
+6	shtendik	ADV	שטענדיק	$tendyk	_
+7	dem	D	דעם	deM	_
+8	"	PUNC	"	"	_
+9	volt	VLF	װאָלט	VAolt	_
+10	"	PUNC	"	"	_
+11	gleykh	ADV	גלײך	glYX	_
+12	in	P	אין	AyN	_
+13	onheyb	N	אָנהײב	AonhYb	_
+14	,	PUNC	,	,	_
+
+SENT	1946E-MARK,11.317
+1	lemoshl	H	למשל	lm$l	for_example
+2	:	PUNC	:	:	_
+3	zayn	PRO$	זײַן	zYaN	_
+4	vort	N	װאָרט	VAort	_
+5	volt	MDF	װאָלט	VAolt	_
+6	zeyn	VB	זײן	zYN	_
+7	a	D	אַ	Aa	_
+8	brik	N	בריק	bryk	_
+9	,	PUNC	,	,	_
+10	volt	VLF	װאָלט	VAolt	_
+11	ikh	PRO	איך	AyX	_
+12	moyre	RP-H	מורא	mvrA	_
+13	gehot	VBN	געהאָט	gehAot	_
+14-16	aribertsugeyn	ADV~TO~VB	אַריבערצוגײן	AaryberqvgYN	_
+14	ariber	ADV	אַריבער	Aaryber	_
+15	tsu	TO	צו	qv	_
+16	geyn	VB	גײן	gYN	_
+17	.	PUNC	.	.	_
+
+SENT	1946E-MARK,11.318
+1	hot	HVF	האָט	hAot	_
+2	zikh	PRO	זיך	zyX	_
+3-4	ayngeshtelt	RP~VBN	אײַנגעשטעלט	AYange$telt	_
+3	ayn	RP	אײַן	AYaN	_
+4	geshtelt	VBN	געשטעלט	ge$telt	_
+5	a	D	אַ	Aa	_
+6	ntih	N	נטיה	ntyh	_
+7	az	C	אַז	Aaz	_
+8	der	D	דער	der	_
+9	"	PUNC	"	"	_
+10	volt	VLF	װאָלט	VAolt	_
+11	"	PUNC	"	"	_
+12	zol	MDF	זאָל	zAol	_
+13	farnemen	VB	פֿאַרנעמען	fAarnemeN	_
+14	dos	D	דאָס	dAos	_
+15	erste	ADJ	ערסטע	erste	_
+16	ort	N	אָרט	Aort	_
+17	in	P	אין	AyN	_
+18	zats	N	זאַץ	zAaQ	_
+19	.	PUNC	.	.	_
+
+SENT	1946E-MARK,11.319
+1	dos	D	דאָס	dAos	_
+2	iz	VBF	איז	Ayz	_
+3	bazunder	ADV	באַזונדער	bAazvnder	_
+4	kharakteristish	ADJ	כאַראַקטעריסטיש	xAarAakterysty$	_
+5	far	P	פֿאַר	fAar	_
+6	zatsn	N	זאַצן	zAaqN	_
+7	mit	P	מיט	myt	_
+8	a	D	אַ	Aa	_
+9	vuntsh	N	װוּנטש	VUnt$	_
+10	vos	C	װאָס	VAos	_
+11	es	ES	עס	es	_
+12	iz	VBF	איז	Ayz	_
+13	ummiglekh	ADJ	אוממיגלעך	AvmmygleX	_
+14	az	C	אַז	Aaz	_
+15	er	PRO	ער	er	_
+16	zol	MDF	זאָל	zAol	_
+17	mkuim	RP-H	מקויִם	mkvyiM	_
+18	vern	VB	װערן	VerN	_
+19	,	PUNC	,	,	_
+
+SENT	1946E-MARK,11.320
+1	lemoshl	H	למשל	lm$l	for_example
+2	:	PUNC	:	:	_
+3	volt	VLF	װאָלט	VAolt	_
+4	ikh	PRO	איך	AyX	_
+5	geven	VBN	געװען	geVeN	_
+6	a	D	אַ	Aa	_
+7	rov	N	רבֿ	r~	_
+8	,	PUNC	,	,	_
+
+SENT	1946E-MARK,11.321
+1	ken	VBF	קען	keN	_
+2	ikh	PRO	איך	AyX	_
+3	nit	NEG	ניט	nyt	_
+4	keyn	Q	קײן	kYN	_
+5	toyre	NPR	תּורה	Tvrh	_
+6	.	PUNC	.	.	_
+
+SENT	1946E-MARK,11.322
+1	volt	VLF	װאָלט	VAolt	_
+2	ikh	PRO	איך	AyX	_
+3	geven	VBN	געװען	geVeN	_
+4	a	D	אַ	Aa	_
+5	soykher	N	סוחר	svHr	_
+6	,	PUNC	,	,	_
+
+SENT	1946E-MARK,11.323
+1	hob	VBF	האָב	hAob	_
+2	ikh	PRO	איך	AyX	_
+3	nit	NEG	ניט	nyt	_
+4	keyn	Q	קײן	kYN	_
+5	soykhres	N	סױכרעס	sWxres	_
+6	.	PUNC	.	.	_
+
+SENT	1946E-MARK,11.324
+1	fun	P	פֿון	fvN	_
+2	shtandpunkt	N	שטאַנדפּונקט	$tAandpvnkt	_
+3	fun	P	פֿון	fvN	_
+4	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+5	iz	VBF	איז	Ayz	_
+6	di	D	די	dy	_
+7	konyunktsie	N	קאָניונקציִע	kAonyvnkqyie	_
+8	a	D	אַ	Aa	_
+9	nul	N	נול	nvl	_
+10	,	PUNC	,	,	_
+
+SENT	1946E-MARK,11.325
+1	un	CONJ	און	AvN	_
+2	ven	C	װען	VeN	_
+3	a	D	אַ	Aa	_
+4	beyzats	N	בײזאַץ	bYzAaQ	_
+5	heybt	VBF	הײבט	hYbt	_
+6	zikh	PRO	זיך	zyX	_
+7	on	RP	אָן	AoN	_
+8	mit	P	מיט	myt	_
+9	"	PUNC	"	"	_
+10	tsi	C	צי	qy	_
+11	"	PUNC	"	"	_
+12	,	PUNC	,	,	_
+13	iz	VBF	איז	Ayz	_
+14	ot	FP	אָט	Aot	_
+15	der	D	דער	der	_
+16	"	PUNC	"	"	_
+17	tsi	C	צי	qy	_
+18	"	PUNC	"	"	_
+19	nit	NEG	ניט	nyt	_
+20	mspie	RP-H	מספּיִע	mspyie	_
+21-22	oyfn	P~D	אױפֿן	AWfN	_
+21	oyf	P	אױף	AWF	_
+22	n	D	נ	n	_
+23	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+24	,	PUNC	,	,	_
+
+SENT	1946E-MARK,11.326
+1	lemoshl	H	למשל	lm$l	for_example
+2	:	PUNC	:	:	_
+3	ikh	PRO	איך	AyX	_
+4	veys	VBF	װײס	VYs	_
+5	nit	NEG	ניט	nyt	_
+6	,	PUNC	,	,	_
+7	tsi	C	צי	qy	_
+8	du	PRO	דו	dv	_
+9	vest	MDF	װעסט	Vest	_
+10	morgn	ADV	מאָרגן	mAorgN	_
+11	kumen	VB	קומען	kvmeN	_
+12	;	PUNC	;	;	_
+
+SENT	1946E-MARK,11.327
+1	ikh	PRO	איך	AyX	_
+2	veys	VBF	װײס	VYs	_
+3	nit	NEG	ניט	nyt	_
+4	,	PUNC	,	,	_
+5	tsi	C	צי	qy	_
+6	morgn	ADV	מאָרגן	mAorgN	_
+7-8	vestu	MDF~PRO	װעסטו	Vestv	_
+7	ves	MDF	װעס	Ves	_
+8	tu	PRO	טו	tv	_
+9	kumen	VB	קומען	kvmeN	_
+10	.	PUNC	.	.	_
+
+SENT	1946E-MARK,11.328
+1	ober	CONJ	אָבער	Aober	_
+2	ven	C	װען	VeN	_
+3	mir	PRO	מיר	myr	_
+4	hobn	VBF	האָבן	hAobN	_
+5	a	D	אַ	Aa	_
+6	direkte	ADJ	דירעקטע	dyrekte	_
+7	frage	N	פֿראַגע	frAage	_
+8	vos	C	װאָס	VAos	_
+9	heybt	VBF	הײבט	hYbt	_
+10	zikh	PRO	זיך	zyX	_
+11	on	RP	אָן	AoN	_
+12-13	mitn	P~D	מיטן	mytN	_
+12	mit	P	מיט	myt	_
+13	n	D	נ	n	_
+14	fregpartikl	N	פֿרעגפּאַרטיקל	fregpAartykl	_
+15	"	PUNC	"	"	_
+16	tsi	C	צי	qy	_
+17	"	PUNC	"	"	_
+18	,	PUNC	,	,	_
+19	iz	VBF	איז	Ayz	_
+20	oftr	ADVR	אָפֿטר	Aoftr	_
+21	kedey	ADJ	כּדי	Kdy	_
+22	es	PRO	עס	es	_
+23	tsu	TO	צו	qv	_
+24	batrakhtn	VB	באַטראַכטן	bAatrAaxtN	_
+25	vi	P	װי	Vy	_
+26	a	D	אַ	Aa	_
+27	bazundern	ADJ	באַזונדערן	bAazvnderN	_
+28	seyder-eyns	N	סדר-אײנס	sdr-AYns	_
+29	.	PUNC	.	.	_
+
+SENT	1946E-MARK,11.329
+1	yemolt	ADV	יעמאָלט	yemAolt	_
+2	ken	MDF	קען	keN	_
+3	men	PRO	מען	meN	_
+4	zogn	VB	זאָגן	zAogN	_
+5	az	C	אַז	Aaz	_
+6	in	P	אין	AyN	_
+7	di	D	די	dy	_
+8	veyterdike	ADJ	װײטערדיקע	VYterdyke	_
+9	zatsn	N	זאַצן	zAaqN	_
+10	fun	P	פֿון	fvN	_
+11	folkslider	N	פֿאָלקסלידער	fAolkslyder	_
+12	kumt	VBF	קומט	kvmt	_
+13	der	D	דער	der	_
+14	beygiker	ADJ	בײגיקער	bYgyker	_
+15	verb	N	װערב	Verb	_
+16-17	oyfn	P~D	אױפֿן	AWfN	_
+16	oyf	P	אױף	AWF	_
+17	n	D	נ	n	_
+18	tsveytn	ADJ	צװײטן	qVYtN	_
+19	ort	N	אָרט	Aort	_
+20	.	PUNC	.	.	_
+
+SENT	1946E-MARK,11.330
+1	tsi	C	צי	qy	_
+2-3	gedenkstu	VBF~PRO	געדענקסטו	gedenkstv	_
+2	gedenks	VBF	געדענקס	gedenks	_
+3	tu	PRO	טו	tv	_
+4	,	PUNC	,	,	_
+5	mayn	PRO$	מײַן	mYaN	_
+6	tayer	ADJ	טײַער	tYaer	_
+7	zis-lebn	N	זיס-לעבן	zys-lebN	_
+8	,	PUNC	,	,	_
+9	ven	C	װען	VeN	_
+10	mir	PRO	מיר	myr	_
+11	hobn	HVF	האָבן	hAobN	_
+12	tsuzamen	ADV	צוזאַמען	qvzAameN	_
+13	farbrakht	VBN	פֿאַרבראַכט	fAarbrAaxt	_
+14	?	PUNC	?	?	_
+
+SENT	1946E-MARK,11.331
+1	tsi	C	צי	qy	_
+2	hot	HVF	האָט	hAot	_
+3	ir	PRO	איר	Ayr	_
+4	gehert	VBN	געהערט	gehert	_
+5	vos	WPRO	װאָס	VAos	_
+6	es	ES	עס	es	_
+7	hot	HVF	האָט	hAot	_
+8	zikh	PRO	זיך	zyX	_
+9	getrofn	VBN	געטראָפֿן	getrAofN	_
+10	?	PUNC	?	?	_
+
+SENT	1946E-MARK,11.332
+1	tsi	C	צי	qy	_
+2	hot	HVF	האָט	hAot	_
+3	ir	PRO	איר	Ayr	_
+4	gezen	VBN	געזען	gezeN	_
+5	mit	P	מיט	myt	_
+6	ayere	PRO$	אײַערע	AYaere	_
+7	oygn	N	אױגן	AWgN	_
+8	?	PUNC	?	?	_
+
+SENT	1946E-MARK,11.333
+1	tsi	C	צי	qy	_
+2-3	hostu	VBF~PRO	האָסטו	hAostv	_
+2	hos	VBF	האָס	hAos	_
+3	tu	PRO	טו	tv	_
+4	nisht	NEG	נישט	ny$t	_
+5	dayn	PRO$	דײַן	dYaN	_
+6	esn	N	עסן	esN	_
+7	?	PUNC	?	?	_
+
+SENT	1946E-MARK,11.334
+1	tsi	C	צי	qy	_
+2-3	hostu	VBF~PRO	האָסטו	hAostv	_
+2	hos	VBF	האָס	hAos	_
+3	tu	PRO	טו	tv	_
+4	nisht	NEG	נישט	ny$t	_
+5	dayn	PRO$	דײַן	dYaN	_
+6	trinken	N	טרינקען	trynkeN	_
+7	?	PUNC	?	?	_
+
+SENT	1946E-MARK,11.335
+1	tsi	C	צי	qy	_
+2	host	VBF	האָסט	hAost	_
+3	nisht	NEG	נישט	ny$t	_
+4	dayn	PRO$	דײַן	dYaN	_
+5	sheynem	ADJ	שײנעם	$YneM	_
+6	gang	N	גאַנג	gAang	_
+7	?	PUNC	?	?	_
+
+SENT	1946E-MARK,11.336
+1	tsi	C	צי	qy	_
+2-3	bistu	BEF~PRO	ביסטו	bystv	_
+2	bis	BEF	ביס	bys	_
+3	tu	PRO	טו	tv	_
+4	geshtorbn	VBN	געשטאָרבן	ge$tAorbN	_
+5	,	PUNC	,	,	_
+6	meyn	PRO$	מײן	mYN	_
+7	tayer	ADJ	טײַער	tYaer	_
+8	zis-lebn	N	זיס-לעבן	zys-lebN	_
+9	?	PUNC	?	?	_
+
+SENT	1946E-MARK,11.337
+1-2	bistu	VBF~PRO	ביסטו	bystv	_
+1	bis	VBF	ביס	bys	_
+2	tu	PRO	טו	tv	_
+3	nokh	ADV	נאָך	nAoX	_
+4	ergets	ADV	ערגעץ	ergeQ	_
+5	do	ADV	דאָ	dAo	_
+6	?	PUNC	?	?	_
+
+SENT	1946E-MARK,11.338
+1	men	PRO	מען	meN	_
+2	ken	MDF	קען	keN	_
+3	oykh	ADV	אױך	AWX	_
+4	zen	VB	זען	zeN	_
+5	in	P	אין	AyN	_
+6	der	D	דער	der	_
+7	ntih	N	נטיה	ntyh	_
+8	tsu	P	צו	qv	_
+9	dem	D	דעם	deM	_
+10	freg-partikl	N	פֿרעג-פּאַרטיקל	freg-pAartykl	_
+11	"	PUNC	"	"	_
+12	tsi	C	צי	qy	_
+13	"	PUNC	"	"	_
+14	a	D	אַ	Aa	_
+15	puel-iutsa	N	פּועל-איוצאַ	pvel-AyvqAa	_
+16	fun	P	פֿון	fvN	_
+17	dem	D	דעם	deM	_
+18	grunt-kll	N	גרונט-קלל	grvnt-kll	_
+19	fun	P	פֿון	fvN	_
+20	yidishn	ADJ	ייִדישן	yyidy$N	_
+21	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+22	.	PUNC	.	.	_
+
+SENT	1946E-MARK,11.339
+1	ober	CONJ	אָבער	Aober	_
+2	dokh	ADV	דאָך	dAoX	_
+3	ken	MDF	קען	keN	_
+4	men	PRO	מען	meN	_
+5	nit	NEG	ניט	nyt	_
+6	batrakhtn	VB	באַטראַכטן	bAatrAaxtN	_
+7	ot	FP	אָט	Aot	_
+8	dem	D	דעם	deM	_
+9	"	PUNC	"	"	_
+10	tsi	C	צי	qy	_
+11	"	PUNC	"	"	_
+12	vi	P	װי	Vy	_
+13	a	D	אַ	Aa	_
+14	muz	N	מוז	mvz	_
+15	.	PUNC	.	.	_
+
+SENT	1946E-MARK,11.340
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	ken	MDF	קען	keN	_
+4	nit	NEG	ניט	nyt	_
+5-6	opfregn	RP~VB	אָפּפֿרעגן	AopfregN	_
+5	op	RP	אָפּ	Aop	_
+6	fregn	VB	פֿרעגן	fregN	_
+7	di	D	די	dy	_
+8	rikhtikeyt	N	ריכטיקײט	ryxtykYt	_
+9	,	PUNC	,	,	_
+10	di	D	די	dy	_
+11	absolutn	ADJ	אַבסאָלוטן	AabsAolvtN	_
+12	korektkeyt	N	קאָרעקטקײט	kAorektkYt	_
+13	fun	P	פֿון	fvN	_
+14	dem	D	דעם	deM	_
+15	fregzats	N	פֿרעגזאַץ	fregzAaQ	_
+16	,	PUNC	,	,	_
+17	vos	C	װאָס	VAos	_
+18	heybt	VBF	הײבט	hYbt	_
+19	zikh	PRO	זיך	zyX	_
+20	gleykh	ADV	גלײך	glYX	_
+21	on	RP	אָן	AoN	_
+22-23	mitn	P~D	מיטן	mytN	_
+22	mit	P	מיט	myt	_
+23	n	D	נ	n	_
+24	beygikn	ADJ	בײגיקן	bYgykN	_
+25	verb	N	װערב	Verb	_
+26	,	PUNC	,	,	_
+27	on	P	אָן	AoN	_
+28	shum	Q	שום	$vM	_
+29	"	PUNC	"	"	_
+30	tsi	C	צי	qy	_
+31	"	PUNC	"	"	_
+32	.	PUNC	.	.	_
+
+SENT	1946E-MARK,11.341
+1	in	P	אין	AyN	_
+2	dem	D	דעם	deM	_
+3	geredtn	ADJ	גערעדטן	geredtN	_
+4	loyshn	N	לױשן	lW$N	_
+5	shviblt	VBF	שװיבלט	$Vyblt	_
+6	un	CONJ	און	AvN	_
+7	griblt	VBF	גריבלט	gryblt	_
+8	mit	P	מיט	myt	_
+9	aza	ADJ	אַזאַ	AazAa	_
+10	sll	H	סלל	sll	UNKNOWN
+11	zatsn	N	זאַצן	zAaqN	_
+12	fun	P	פֿון	fvN	_
+13	dem	D	דעם	deM	_
+14	shnit	N	שניט	$nyt	_
+15	:	PUNC	:	:	_
+16	az	C	אַז	Aaz	_
+17	men	PRO	מען	meN	_
+18	ken	MDF	קען	keN	_
+19	bshum	H	בשום	b$vM	in_no
+20	ufn	H	אופֿן	AvfN	manner
+21	nit	NEG	ניט	nyt	_
+22	kukn	VB	קוקן	kvkN	_
+23	oyf	P	אױף	AWF	_
+24	zey	PRO	זײ	zY	_
+25	durkh	P	דורך	dvrX	_
+26	shpakuln	N	שפּאַקולן	$pAakvlN	_
+27	fun	P	פֿון	fvN	_
+28	khsd	N	כסד	xsd	_
+29	.	PUNC	.	.	_
+
+SENT	1946E-MARK,11.342
+1	hot	HVF	האָט	hAot	_
+2	ir	PRO	איר	Ayr	_
+3	shoyn	ADV	שױן	$WN	_
+4	gehert	VBN	געהערט	gehert	_
+5	?	PUNC	?	?	_
+
+SENT	1946E-MARK,11.343
+1	kumt	VBF	קומט	kvmt	_
+2	ir	PRO	איר	Ayr	_
+3	morgn	ADV	מאָרגן	mAorgN	_
+4	?	PUNC	?	?	_
+
+SENT	1946E-MARK,11.344
+1	hot	HVF	האָט	hAot	_
+2	er	PRO	ער	er	_
+3	shoyn	ADV	שױן	$WN	_
+4	gegesn	VBN	געגעסן	gegesN	_
+5	?	PUNC	?	?	_
+
+SENT	1946E-MARK,11.345
+1	vet	MDF	װעט	Vet	_
+2	ir	PRO	איר	Ayr	_
+3	epes	Q	עפּעס	epes	_
+4	trinkn	VB	טרינקן	trynkN	_
+5	?	PUNC	?	?	_
+
+SENT	1946E-MARK,12.346
+1	mir	PRO	מיר	myr	_
+2	hobn	VBF	האָבן	hAobN	_
+3	genug	Q	גענוג	genvg	_
+4	fun	P	פֿון	fvN	_
+5	dem	D	דעם	deM	_
+6	shnit	N	שניט	$nyt	_
+7	fregzats	N	פֿרעגזאַץ	fregzAaQ	_
+8	oykh	ADV	אױך	AWX	_
+9	in	P	אין	AyN	_
+10	folkslider	N	פֿאָלקסלידער	fAolkslyder	_
+11	un	CONJ	און	AvN	_
+12	in	P	אין	AyN	_
+13	folks-mayses	N	פֿאָלקס-מעשׂיות	fAolks-meCyvS	_
+14	in	P	אין	AyN	_
+15	dem	D	דעם	deM	_
+16	nush	N	נוש	nv$	_
+17	vi	WADV	װי	Vy	_
+18	zey	PRO	זײ	zY	_
+19	zeynen	BEF	זײנען	zYneN	_
+20	farshribn	VAN	פֿאַרשריבן	fAar$rybN	_
+21	gevorn	RDN	געװאָרן	geVAorN	_
+22	.	PUNC	.	.	_
+
+SENT	1946E-MARK,12.347
+1	mir	PRO	מיר	myr	_
+2	brengen	VBF	ברענגען	brengeN	_
+3	do	ADV	דאָ	dAo	_
+4	etlekhe	Q	עטלעכע	etlexe	_
+5	zatsn	N	זאַצן	zAaqN	_
+6	:	PUNC	:	:	_
+
+SENT	1946E-MARK,12.348
+1	zog	VBI	זאָג	zAog	_
+2	mir	PRO	מיר	myr	_
+3	shusterl	N	שוסטערל	$vsterl	_
+4	:	PUNC	:	:	_
+
+SENT	1946E-MARK,12.349
+1-2	hostu	VBF~PRO	האָסטו	hAostv	_
+1	hos	VBF	האָס	hAos	_
+2	tu	PRO	טו	tv	_
+3	vos	Q	װאָס	VAos	_
+4	tsu	TO	צו	qv	_
+5	kayen	VB	קײַען	kYaeN	_
+6	?	PUNC	?	?	_
+
+SENT	1946E-MARK,12.350
+1	felt	VBF	פֿעלט	felt	_
+2	dir	PRO	דיר	dyr	_
+3	oyset	N	אױסעט	AWset	_
+4	,	PUNC	,	,	_
+5-6	krigstu	VBF~PRO	קריגסטו	krygstv	_
+5	krigs	VBF	קריגס	krygs	_
+6	tu	PRO	טו	tv	_
+7	vu	WADV	װוּ	VU	_
+8	tsu	TO	צו	qv	_
+9	layen	VB	לײַען	lYaeN	_
+10	?	PUNC	?	?	_
+
+SENT	1946E-MARK,12.351
+1-2	hostu	VBF~PRO	האָסטו	hAostv	_
+1	hos	VBF	האָס	hAos	_
+2	tu	PRO	טו	tv	_
+3	mir	PRO	מיר	myr	_
+4	emes	ADV	אמת	AmS	_
+5	lib	RP-ADJ	ליב	lyb	_
+6	?	PUNC	?	?	_
+
+SENT	1946E-MARK,12.352
+1	zets	VBI	זעץ	zeQ	_
+2	zikh	PRO	זיך	zyX	_
+3	lebn	P	לעבן	lebN	_
+4	mir	PRO	מיר	myr	_
+5	!	PUNC	!	!	_
+
+SENT	1946E-MARK,12.353
+1-2	hostu	VBF~PRO	האָסטו	hAostv	_
+1	hos	VBF	האָס	hAos	_
+2	tu	PRO	טו	tv	_
+3	breh	N	ברעה	breh	_
+4	khasene	RP-N	חתונה	HSvnh	_
+5	tsu	TO	צו	qv	_
+6	hobn	VB	האָבן	hAobN	_
+7	?	PUNC	?	?	_
+
+SENT	1946E-MARK,12.354
+1	to	ADV	טאָ	tAo	_
+2	shik	VBI	שיק	$yk	_
+3	zhe	FP	זשע	z$e	_
+4	a	D	אַ	Aa	_
+5	shidekhn	N	שידעכן	$ydexN	_
+6	tsu	P	צו	qv	_
+7	mir	PRO	מיר	myr	_
+8	!	PUNC	!	!	_
+
+SENT	1946E-MARK,12.355
+1-2	gedenkstu	VBF~PRO	געדענקסטו	gedenkstv	_
+1	gedenks	VBF	געדענקס	gedenks	_
+2	tu	PRO	טו	tv	_
+3	,	PUNC	,	,	_
+4-5	gedenkstu	VBF~PRO	געדענקסטו	gedenkstv	_
+4	gedenks	VBF	געדענקס	gedenks	_
+5	tu	PRO	טו	tv	_
+6	,	PUNC	,	,	_
+7	far	P	פֿאַר	fAar	_
+8	dem	D	דעם	deM	_
+9	toyer	N	טױער	tWer	_
+10	?	PUNC	?	?	_
+
+SENT	1946E-MARK,12.356
+1	ikh	PRO	איך	AyX	_
+2	hob	HVF	האָב	hAob	_
+3	dir	PRO	דיר	dyr	_
+4	gezogt	VBN	געזאָגט	gezAogt	_
+5	a	D	אַ	Aa	_
+6	sod	N	סוד	svd	_
+7	in	P	אין	AyN	_
+8	oyer	N	אױער	AWer	_
+9	.	PUNC	.	.	_
+
+SENT	1946E-MARK,12.357
+1	gendzelekh	N	גענדזעלעך	gendzeleX	_
+2	,	PUNC	,	,	_
+3	gendzelekh	N	גענדזעלעך	gendzeleX	_
+4	,	PUNC	,	,	_
+5	gendzelekh	N	גענדזעלעך	gendzeleX	_
+6	,	PUNC	,	,	_
+7	hot	HVF	האָט	hAot	_
+8	ets	PRO	עץ	eQ	_
+9	nisht	NEG	נישט	ny$t	_
+10	gezen	VBN	געזען	gezeN	_
+11	a	D	אַ	Aa	_
+12	meydele	N	מײדעלע	mYdele	_
+13	mit	P	מיט	myt	_
+14	a	D	אַ	Aa	_
+15	zeydn	ADJ	זײדן	zYdN	_
+16	kleydele	N	קלײדעלע	klYdele	_
+17	?	PUNC	?	?	_
+
+SENT	1946E-MARK,12.358
+1	vilst	VBF	װילסט	Vylst	_
+2	ikh	PRO	איך	AyX	_
+3	zol	MDF	זאָל	zAol	_
+4	hobn	VB	האָבן	hAobN	_
+5	nokh	ADV	נאָך	nAoX	_
+6	an	D	אַן	AaN	_
+7	arger	ADJ	אַרגער	Aarger	_
+8	mazel	N	מאַזעל	mAazel	_
+9	?	PUNC	?	?	_
+
+SENT	1946E-MARK,12.359
+1	bist	VBF	ביסט	byst	_
+2	krank	ADJ	קראַנק	krAank	_
+3	tsu	TO	צו	qv	_
+4	geyn	VB	גײן	gYN	_
+5	arbetn	VB	אַרבעטן	AarbetN	_
+6	,	PUNC	,	,	_
+7	fardinen	VB	פֿאַרדינען	fAardyneN	_
+8	gelt	N	געלט	gelt	_
+9	?	PUNC	?	?	_
+
+SENT	1946E-MARK,12.360
+1-2	veystu	VBF~PRO	װײסטו	VYstv	_
+1	veys	VBF	װײס	VYs	_
+2	tu	PRO	טו	tv	_
+3	vos	Q	װאָס	VAos	_
+4	?	PUNC	?	?	_
+
+SENT	1946E-MARK,12.361
+1	na	INTJ	נאַ	nAa	_
+2	dir	PRO	דיר	dyr	_
+3	derfar	DR+P	דערפֿאַר	derfAar	_
+4	tsen	NUM	צען	qeN	_
+5	gildn	N	גילדן	gyldN	_
+6	.	PUNC	.	.	_
+
+SENT	1946E-MARK,12.362
+1	di	D	די	dy	_
+2	erste	ADJ	ערסטע	erste	_
+3	drey	NUM	דרײ	drY	_
+4	tsitatn	N	ציטאַטן	qytAatN	_
+5	zeynen	BEF	זײנען	zYneN	_
+6	genumen	VAN	גענומען	genvmeN	_
+7	fun	P	פֿון	fvN	_
+8	folkslider	N	פֿאָלקסלידער	fAolkslyder	_
+9	,	PUNC	,	,	_
+10	di	D	די	dy	_
+11	iberike	N	איבעריקע	Ayberyke	_
+12	fun	P	פֿון	fvN	_
+13	dem	D	דעם	deM	_
+14	opteyl	N	אָפּטײל	AoptYl	_
+15	vunder-mayses	N	װוּנדער-מעשׂיות	VUnder-meCyvS	_
+16	in	P	אין	AyN	_
+17	dem	D	דעם	deM	_
+18	folklor-band	N	פֿאָלקלאָר-באַנד	fAolklAor-bAand	_
+19	fun	P	פֿון	fvN	_
+20	yivo	NPR	ייִװאָ	yyiVAo	_
+21	.	PUNC	.	.	_
+
+SENT	1946E-MARK,12.363
+1	farshteyt	VBF	פֿאַרשטײט	fAar$tYt	_
+2	zikh	PRO	זיך	zyX	_
+3	,	PUNC	,	,	_
+4	az	C	אַז	Aaz	_
+5	azelkhe	ADJ	אַזעלכע	Aazelxe	_
+6	zatsn	N	זאַצן	zAaqN	_
+7	ken	MDF	קען	keN	_
+8	men	PRO	מען	meN	_
+9	fun	P	פֿון	fvN	_
+10	umetum	N	אומעטום	AvmetvM	_
+11-12	tsunoyfnemen	ADV~VB	צונױפֿנעמען	qvnWfnemeN	_
+11	tsunoyf	ADV	צונױף	qvnWF	_
+12	nemen	VB	נעמען	nemeN	_
+13	hoyfnvayz	ADV	הױפֿנװײַז	hWfnVYaz	_
+14	.	PUNC	.	.	_
+
+SENT	1946E-MARK,12.364
+1	di	D	די	dy	_
+2	letstn	ADJ	לעצטן	leqtN	_
+3	tsvey	NUM	צװײ	qVY	_
+4	hob	HVF	האָב	hAob	_
+5	ikh	PRO	איך	AyX	_
+6	genumen	VBN	גענומען	genvmeN	_
+7	mit	P	מיט	myt	_
+8	a	D	אַ	Aa	_
+9	kivn	N	כּיװן	KyVN	_
+10	,	PUNC	,	,	_
+11	vayl	C	װײַל	VYal	_
+12	azelkhe	ADJ	אַזעלכע	Aazelxe	_
+13	zatsn	N	זאַצן	zAaqN	_
+14	ken	MDF	קען	keN	_
+15	men	PRO	מען	meN	_
+16	dokh	ADV	דאָך	dAoX	_
+17	hern	VB	הערן	herN	_
+18	in	P	אין	AyN	_
+19	a	D	אַ	Aa	_
+20	yidish_redndiker	ADJ	ייִדיש_רעדנדיקער	yyidy$_redndyker	_
+21	svive	N	סבֿיבֿה	s~y~h	_
+22	oyf	P	אױף	AWF	_
+23	trit	N	טריט	tryt	_
+24	un	CONJ	און	AvN	_
+25	shrit	N	שריט	$ryt	_
+
+SENT	1946E-MARK,12.365
+1	hkll	ADV	הקלל	hkll	_
+2	,	PUNC	,	,	_
+3	der	D	דער	der	_
+4	freg-partikel	N	פֿרעג-פּאַרטיקעל	freg-pAartykel	_
+5	"	PUNC	"	"	_
+6	tsi	C	צי	qy	_
+7	"	PUNC	"	"	_
+8	iz	VBF	איז	Ayz	_
+9	nisht	NEG	נישט	ny$t	_
+10	keyn	Q	קײן	kYN	_
+11	muz	N	מוז	mvz	_
+12	,	PUNC	,	,	_
+
+SENT	1946E-MARK,12.366
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	ken	MDF	קען	keN	_
+4	zeyer	ADV	זײער	zYer	_
+5	voyl	ADV	װױל	VWl	_
+6-7	onheybn	RP~VB	אָנהײבן	AonhYbN	_
+6	on	RP	אָן	AoN	_
+7	heybn	VB	הײבן	hYbN	_
+8	dem	D	דעם	deM	_
+9	fregzats	N	פֿרעגזאַץ	fregzAaQ	_
+10	mit	P	מיט	myt	_
+11	dem	D	דעם	deM	_
+12	beygikn	ADJ	בײגיקן	bYgykN	_
+13	verb	N	װערב	Verb	_
+14	.	PUNC	.	.	_
+
+SENT	1946E-MARK,12.367
+1	kh.	LS	כ.	x.	_
+2	der	D	דער	der	_
+3	beygiker	ADJ	בײגיקער	bYgyker	_
+4	verb	N	װערב	Verb	_
+5-6	oyfn	P~D	אױפֿן	AWfN	_
+5	oyf	P	אױף	AWF	_
+6	n	D	נ	n	_
+7	dritn	ADJ	דריטן	drytN	_
+8	ort	N	אָרט	Aort	_
+
+SENT	1946E-MARK,12.368
+1	der	D	דער	der	_
+2	beygiker	ADJ	בײגיקער	bYgyker	_
+3	verb	N	װערב	Verb	_
+4	ken	MDF	קען	keN	_
+5	nit	NEG	ניט	nyt	_
+6	kumen	VB	קומען	kvmeN	_
+7	stam	ADV	סתּ"ם	sT"M	_
+8	azoy	ADV	אַזױ	AazW	_
+9-10	oyfn	P~D	אױפֿן	AWfN	_
+9	oyf	P	אױף	AWF	_
+10	n	D	נ	n	_
+11	dritn	ADJ	דריטן	drytN	_
+12	ort	N	אָרט	Aort	_
+13	fun	P	פֿון	fvN	_
+14	zats	N	זאַץ	zAaQ	_
+15	,	PUNC	,	,	_
+16	vi	P	װי	Vy	_
+17	der	D	דער	der	_
+18	driter	ADJ	דריטער	dryter	_
+19	seyder-eyns	N	סדר-אײנס	sdr-AYns	_
+20	.	PUNC	.	.	_
+
+SENT	1946E-MARK,12.369
+1	dos	D	דאָס	dAos	_
+2	iz	VBF	איז	Ayz	_
+3	nor	FP	נאָר	nAor	_
+4	miglekh	ADJ	מיגלעך	mygleX	_
+5	in	P	אין	AyN	_
+6	gevise	ADJ	געװיסע	geVyse	_
+7	faln	N	פֿאַלן	fAalN	_
+
+SENT	1946E-MARK,12.370
+1	un	CONJ	און	AvN	_
+2	dertsu	DR+P	דערצו	derqv	_
+3	iz	VBF	איז	Ayz	_
+4	neytik	ADJ	נײטיק	nYtyk	_
+5	a	D	אַ	Aa	_
+6	gants	ADV	גאַנץ	gAanQ	_
+7	eygnartike	ADJ	אײגנאַרטיקע	AYgnAartyke	_
+8	,	PUNC	,	,	_
+9	a	D	אַ	Aa	_
+10	bazundere	ADJ	באַזונדערע	bAazvndere	_
+11	,	PUNC	,	,	_
+12	a	D	אַ	Aa	_
+13	kharakteristishe	ADJ	כאַראַקטעריסטישע	xAarAakterysty$e	_
+14	intonatsie	N	אינטאָנאַציִע	AyntAonAaqyie	_
+15	.	PUNC	.	.	_
+
+SENT	1946E-MARK,12.371
+1	ot	FP	אָט	Aot	_
+2	di	D	די	dy	_
+3	intonatsie	N	אינטאָנאַציִע	AyntAonAaqyie	_
+4	heybt	VBF	הײבט	hYbt	_
+5	shtark	ADV	שטאַרק	$tAark	_
+6	aroys	ADV	אַרױס	AarWs	_
+7	dos	D	דאָס	dAos	_
+8	vort	N	װאָרט	VAort	_
+9	vos	C	װאָס	VAos	_
+10	kumt	VBF	קומט	kvmt	_
+11-12	oyfn	P~D	אױפֿן	AWfN	_
+11	oyf	P	אױף	AWF	_
+12	n	D	נ	n	_
+13	erstn	ADJ	ערסטן	erstN	_
+14	oder	CONJ	אָדער	Aoder	_
+15-16	oyfn	P~D	אױפֿן	AWfN	_
+15	oyf	P	אױף	AWF	_
+16	n	D	נ	n	_
+17	tsveytn	ADJ	צװײטן	qVYtN	_
+18	ort	N	אָרט	Aort	_
+19	in	P	אין	AyN	_
+20	zats	N	זאַץ	zAaQ	_
+21	.	PUNC	.	.	_
+
+SENT	1946E-MARK,12.372
+1	heyst	VBF	הײסט	hYst	_
+2	es	ES	עס	es	_
+3	,	PUNC	,	,	_
+4	az	C	אַז	Aaz	_
+5	der	D	דער	der	_
+6	beygiker	ADJ	בײגיקער	bYgyker	_
+7	verb	N	װערב	Verb	_
+8	kumt	VBF	קומט	kvmt	_
+9-10	oyfn	P~D	אױפֿן	AWfN	_
+9	oyf	P	אױף	AWF	_
+10	n	D	נ	n	_
+11	dritn	ADJ	דריטן	drytN	_
+12	ort	N	אָרט	Aort	_
+13	,	PUNC	,	,	_
+14	ven	C	װען	VeN	_
+15	men	PRO	מען	meN	_
+16	vil	MDF	װיל	Vyl	_
+17	spetsiel	ADV	ספּעציִעל	speqyiel	_
+18	untershtraykhn	VB	אונטערשטרײַכן	Avnter$trYaxN	_
+19	an	D	אַן	AaN	_
+20	ander	ADJ	אַנדער	Aander	_
+21	vort	N	װאָרט	VAort	_
+22-23	inem	P~D	אינעם	AyneM	_
+22	in	P	אין	AyN	_
+23	em	D	עם	eM	_
+24	zats	N	זאַץ	zAaQ	_
+25	,	PUNC	,	,	_
+
+SENT	1946E-MARK,12.373
+1	un	CONJ	און	AvN	_
+2	deriber	DR+P	דעריבער	deryber	_
+3	kumt	VBF	קומט	kvmt	_
+4	men	PRO	מען	meN	_
+5	on	RP	אָן	AoN	_
+6	tsu	P	צו	qv	_
+7	a	D	אַ	Aa	_
+8	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+9	vos	C	װאָס	VAos	_
+10	iz	VBF	איז	Ayz	_
+11	nit	NEG	ניט	nyt	_
+12	geveyntlekh	ADJ	געװײנטלעך	geVYntleX	_
+13	,	PUNC	,	,	_
+14	vos	C	װאָס	VAos	_
+15	iz	VBF	איז	Ayz	_
+16	a	D	אַ	Aa	_
+17	stirh	N	סטירה	styrh	_
+18	tsu	P	צו	qv	_
+19	dem	D	דעם	deM	_
+20	grunt-kll	N	גרונט-קלל	grvnt-kll	_
+21	.	PUNC	.	.	_
+
+SENT	1946E-MARK,12.374
+1	di	D	די	dy	_
+2	bazundere	ADJ	באַזונדערע	bAazvndere	_
+3	intonatsie	N	אינטאָנאַציִע	AyntAonAaqyie	_
+4	,	PUNC	,	,	_
+5	vos	C	װאָס	VAos	_
+6	zi	PRO	זי	zy	_
+7	makht	VBF	מאַכט	mAaxt	_
+8	miglekh	ADJ	מיגלעך	mygleX	_
+9	dem	D	דעם	deM	_
+10	nit_geveyntlekhn	ADJ	ניט_געװײנטלעכן	nyt_geVYntlexN	_
+11	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+12	,	PUNC	,	,	_
+13	iz	VBF	איז	Ayz	_
+14	a	D	אַ	Aa	_
+15	mitl	N	מיטל	mytl	_
+16	az	C	אַז	Aaz	_
+17	der	D	דער	der	_
+18	herer	N	הערער	herer	_
+19	zol	MDF	זאָל	zAol	_
+20	gleykh	ADV	גלײך	glYX	_
+21-22	tsugetsoygn	RP~VAN	צוגעצױגן	qvgeqWgN	_
+21	tsu	RP	צו	qv	_
+22	getsoygn	VAN	געצױגן	geqWgN	_
+23	vern	RD	װערן	VerN	_
+24	tsu	P	צו	qv	_
+25	dem	D	דעם	deM	_
+26	vos	C	װאָס	VAos	_
+27	der	D	דער	der	_
+28	reyder	N	רײדער	rYder	_
+29	vil	MDF	װיל	Vyl	_
+30-31	aroysheybn	ADV~VB	אַרױסהײבן	AarWshYbN	_
+30	aroys	ADV	אַרױס	AarWs	_
+31	heybn	VB	הײבן	hYbN	_
+32	.	PUNC	.	.	_
+
+SENT	1946E-MARK,12.375
+1	ven	C	װען	VeN	_
+2	men	PRO	מען	meN	_
+3	zogt	VBF	זאָגט	zAogt	_
+4	:	PUNC	:	:	_
+5	vos	WPRO	װאָס	VAos	_
+6	er	PRO	ער	er	_
+7	hot	HVF	האָט	hAot	_
+8	ibergelebt	VBN	איבערגעלעבט	Aybergelebt	_
+9	!	PUNC	!	!	_
+10	kumt	VBF	קומט	kvmt	_
+11	der	D	דער	der	_
+12	beygiker	ADJ	בײגיקער	bYgyker	_
+13	verb	N	װערב	Verb	_
+14-15	oyfn	P~D	אױפֿן	AWfN	_
+14	oyf	P	אױף	AWF	_
+15	n	D	נ	n	_
+16	dritn	ADJ	דריטן	drytN	_
+17	ort	N	אָרט	Aort	_
+18	.	PUNC	.	.	_
+
+SENT	1946E-MARK,12.376
+1	un	CONJ	און	AvN	_
+2	dos	D	דאָס	dAos	_
+3	vort	N	װאָרט	VAort	_
+4	"	PUNC	"	"	_
+5	er	PRO	ער	er	_
+6	"	PUNC	"	"	_
+7	krigt	VBF	קריגט	krygt	_
+8	oyf	P	אױף	AWF	_
+9	zikh	PRO	זיך	zyX	_
+10	a	D	אַ	Aa	_
+11	zeyer	ADV	זײער	zYer	_
+12	shtarkn	ADJ	שטאַרקן	$tAarkN	_
+13	aktsent	N	אַקצענט	Aakqent	_
+14	fun	P	פֿון	fvN	_
+15	dem	D	דעם	deM	_
+16	zats	N	זאַץ	zAaQ	_
+17	.	PUNC	.	.	_
+
+SENT	1946E-MARK,12.377
+1	ven	C	װען	VeN	_
+2	men	PRO	מען	meN	_
+3	zogt	VBF	זאָגט	zAogt	_
+4	:	PUNC	:	:	_
+5	sara	WD	סאַראַ	sAarAa	_
+6	kluger	ADJ	קלוגער	klvger	_
+7	du	PRO	דו	dv	_
+8	bist	VBF	ביסט	byst	_
+9	!	PUNC	!	!	_
+10	kumt	VBF	קומט	kvmt	_
+11	oykh	ADV	אױך	AWX	_
+12	der	D	דער	der	_
+13	beygiker	ADJ	בײגיקער	bYgyker	_
+14	verb	N	װערב	Verb	_
+15-16	oyfn	P~D	אױפֿן	AWfN	_
+15	oyf	P	אױף	AWF	_
+16	n	D	נ	n	_
+17	dritn	ADJ	דריטן	drytN	_
+18	ort	N	אָרט	Aort	_
+19	.	PUNC	.	.	_
+
+SENT	1946E-MARK,12.378
+1	un	CONJ	און	AvN	_
+2	dos	D	דאָס	dAos	_
+3	same	ADV	סאַמע	sAame	_
+4	aktsentirte	ADJ	אַקצענטירטע	Aakqentyrte	_
+5	vort	N	װאָרט	VAort	_
+6	iz	VBF	איז	Ayz	_
+7	do	ADV	דאָ	dAo	_
+8	"	PUNC	"	"	_
+9	kluger	ADJ	קלוגער	klvger	_
+10	"	PUNC	"	"	_
+11	.	PUNC	.	.	_
+
+SENT	1946E-MARK,12.379
+1	ven	C	װען	VeN	_
+2	men	PRO	מען	meN	_
+3	zogt	VBF	זאָגט	zAogt	_
+4	:	PUNC	:	:	_
+5	er	PRO	ער	er	_
+6	shlogt	VBF	שלאָגט	$lAogt	_
+7	zikh	PRO	זיך	zyX	_
+8	rak	ADV	רק	rk	_
+9	,	PUNC	,	,	_
+10	zi	PRO	זי	zy	_
+11	tantst	VBF	טאַנצט	tAanqt	_
+12	nor	FP	נאָר	nAor	_
+13	,	PUNC	,	,	_
+14	aktsentirt	VBF	אַקצענטירט	Aakqentyrt	_
+15	men	PRO	מען	meN	_
+16	nit	NEG	ניט	nyt	_
+17	di	D	די	dy	_
+18	adverbn	ADV	אַדװערבן	AadVerbN	_
+19	"	PUNC	"	"	_
+20	rak	ADV	רק	rk	_
+21	"	PUNC	"	"	_
+22	un	CONJ	און	AvN	_
+23	"	PUNC	"	"	_
+24	nor	FP	נאָר	nAor	_
+25	"	PUNC	"	"	_
+
+SENT	1946E-MARK,12.380
+1	ober	CONJ	אָבער	Aober	_
+2	ven	C	װען	VeN	_
+3	men	PRO	מען	meN	_
+4	shtelt	VBF	שטעלט	$telt	_
+5	zey	PRO	זײ	zY	_
+6	avek	RP-ADV	אַװעק	AaVek	_
+7-8	oyfn	P~D	אױפֿן	AWfN	_
+7	oyf	P	אױף	AWF	_
+8	n	D	נ	n	_
+9	erstn	ADJ	ערסטן	erstN	_
+10	ort	N	אָרט	Aort	_
+11	un	CONJ	און	AvN	_
+12	es	ES	עס	es	_
+13	kumt	VBF	קומט	kvmt	_
+14	oys	RP	אױס	AWs	_
+15	dem	D	דעם	deM	_
+16	beygikn	ADJ	בײגיקן	bYgykN	_
+17	verb	N	װערב	Verb	_
+18	tsu	TO	צו	qv	_
+19	shteln	VB	שטעלן	$telN	_
+20-21	oyfn	P~D	אױפֿן	AWfN	_
+20	oyf	P	אױף	AWF	_
+21	n	D	נ	n	_
+22	dritn	ADJ	דריטן	drytN	_
+23	ort	N	אָרט	Aort	_
+24	bekumen	VBF	בעקומען	bekvmeN	_
+25	zikh	PRO	זיך	zyX	_
+26	zatsn	N	זאַצן	zAaqN	_
+27	mit	P	מיט	myt	_
+28	shtark	ADV	שטאַרק	$tAark	_
+29	aktsentirte	ADJ	אַקצענטירטע	Aakqentyrte	_
+30	"	PUNC	"	"	_
+31	rk	ADV	רק	rk	_
+32	"	PUNC	"	"	_
+33	un	CONJ	און	AvN	_
+34	"	PUNC	"	"	_
+35	nor	FP	נאָר	nAor	_
+36	"	PUNC	"	"	_
+37	.	PUNC	.	.	_
+
+SENT	1946E-MARK,13.382
+1	hert	VBI	הערט	hert	_
+2	zikh	PRO	זיך	zyX	_
+3	tsu	RP	צו	qv	_
+4	vi	WADV	װי	Vy	_
+5	ir	PRO	איר	Ayr	_
+6	brengt	VBF	ברענגט	brengt	_
+7	aroys	ADV	אַרױס	AarWs	_
+8	:	PUNC	:	:	_
+
+SENT	1946E-MARK,13.383
+1	rak	ADV	רק	rk	_
+2	er	PRO	ער	er	_
+3	shlogt	VBF	שלאָגט	$lAogt	_
+4	zikh	PRO	זיך	zyX	_
+5	!	PUNC	!	!	_
+
+SENT	1946E-MARK,13.384
+1	nor	FP	נאָר	nAor	_
+2	zi	PRO	זי	zy	_
+3	tantst	VBF	טאַנצט	tAanqt	_
+4	!	PUNC	!	!	_
+
+SENT	1946E-MARK,13.385
+1	dem	D	דעם	deM	_
+2	eygenem	ADJ	אײגענעם	AYgeneM	_
+3	untersheyd	N	אונטערשײד	Avnter$Yd	_
+4	ken	MDF	קען	keN	_
+5	men	PRO	מען	meN	_
+6	gring	ADV	גרינג	gryng	_
+7	derfiln	VB	דערפֿילן	derfylN	_
+8	tsvishn	P	צװישן	qVy$N	_
+9	:	PUNC	:	:	_
+10	er	PRO	ער	er	_
+11	atemt	VBF	אַטעמט	Aatemt	_
+12	koym	ADV	קױם	kWM	_
+13	koym	ADV	קױם	kWM	_
+14	er	PRO	ער	er	_
+15	atemt	VBF	אַטעמט	Aatemt	_
+
+SENT	1946E-MARK,13.386
+1-2	lomir	VBI~PRO	לאָמיר	lAomyr	_
+1	lo	VBI	לאָ	lAo	_
+2	mir	PRO	מיר	myr	_
+3	geben	VB	געבען	gebeN	_
+4	nokh	ADV	נאָך	nAoX	_
+5	tsvey	NUM	צװײ	qVY	_
+6	por	N	פּאָר	pAor	_
+7	zatsn	N	זאַצן	zAaqN	_
+
+SENT	1946E-MARK,13.387
+1	1a.	LS	1אַ.	1Aa.	_
+2	tomer	ADV	טאָמער	tAomer	_
+3	kumt	VBF	קומט	kvmt	_
+4	a	D	אַ	Aa	_
+5	gast	N	גאַסט	gAast	_
+6	,	PUNC	,	,	_
+7	vos	WPRO	װאָס	VAos	_
+8-9	vestu	MDF~PRO	װעסטו	Vestv	_
+8	ves	MDF	װעס	Ves	_
+9	tu	PRO	טו	tv	_
+10	ton	VB	טאָן	tAoN	_
+11	?	PUNC	?	?	_
+
+SENT	1946E-MARK,13.388
+1	1b.	LS	1ב.	1b.	_
+2	a	D	אַ	Aa	_
+3	gast	N	גאַסט	gAast	_
+4	tomer	ADV	טאָמער	tAomer	_
+5	kumt	VBF	קומט	kvmt	_
+6	,	PUNC	,	,	_
+7	vos	WPRO	װאָס	VAos	_
+8-9	vestu	MDF~PRO	װעסטו	Vestv	_
+8	ves	MDF	װעס	Ves	_
+9	tu	PRO	טו	tv	_
+10	ton	VB	טאָן	tAoN	_
+11	?	PUNC	?	?	_
+
+SENT	1946E-MARK,13.389
+1	2a.	LS	2אַ.	2Aa.	_
+2	im	PRO	אים	AyM	_
+3	aleyn	ADV	אַלײן	AalYN	_
+4	iz	BEF	איז	Ayz	_
+5	oykh	ADV	אױך	AWX	_
+6	gegangen	VBN	געגאַנגען	gegAangeN	_
+7	shlekht	ADV	שלעכט	$lext	_
+8	in	P	אין	AyN	_
+9	di	D	די	dy	_
+10	gesheftn	N	געשעפֿטן	ge$eftN	_
+11	.	PUNC	.	.	_
+
+SENT	1946E-MARK,13.390
+1	2b.	LS	2ב.	2b.	_
+2	im	PRO	אים	AyM	_
+3	aleyn	ADV	אַלײן	AalYN	_
+4	in	P	אין	AyN	_
+5	di	D	די	dy	_
+6	gesheftn	N	געשעפֿטן	ge$eftN	_
+7	iz	BEF	איז	Ayz	_
+8	oykh	ADV	אױך	AWX	_
+9	gegangen	VBN	געגאַנגען	gegAangeN	_
+10	shlekht	ADV	שלעכט	$lext	_
+11	.	PUNC	.	.	_
+
+SENT	1946E-MARK,13.391
+1	in	P	אין	AyN	_
+2	1b	REF	1ב	1b	_
+3	iz	VBF	איז	Ayz	_
+4	dos	D	דאָס	dAos	_
+5	same	ADV	סאַמע	sAame	_
+6	aktsentirte	ADJ	אַקצענטירטע	Aakqentyrte	_
+7	vort	N	װאָרט	VAort	_
+8	"	PUNC	"	"	_
+9	a	D	אַ	Aa	_
+10	gast	N	גאַסט	gAast	_
+11	"	PUNC	"	"	_
+12	,	PUNC	,	,	_
+13	in	P	אין	AyN	_
+14	2b	REF	2ב	2b	_
+15	der	D	דער	der	_
+16	seyder-eyns	N	סדר-אײנס	sdr-AYns	_
+17	:	PUNC	:	:	_
+18	in	P	אין	AyN	_
+19	di	D	די	dy	_
+20	gesheftn	N	געשעפֿטן	ge$eftN	_
+21	;	PUNC	;	;	_
+
+SENT	1946E-MARK,13.392
+1	in	P	אין	AyN	_
+2	1b	REF	1ב	1b	_
+3	iz	VBF	איז	Ayz	_
+4	ez	ES	עז	ez	_
+5	der	D	דער	der	_
+6	erster	ADJ	ערסטער	erster	_
+7	seyder-eyns	N	סדר-אײנס	sdr-AYns	_
+8	,	PUNC	,	,	_
+9	in	P	אין	AyN	_
+10	2b	REF	2ב	2b	_
+11	der	D	דער	der	_
+12	tsveyter	ADJ	צװײטער	qVYter	_
+13	.	PUNC	.	.	_
+
+SENT	1946E-MARK,13.393
+1-2	beym	P~D	בײם	bYM	_
+1	bey	P	בײ	bY	_
+2	m	D	מ	m	_
+3-4	avekrukn	ADV~VB	אַװעקרוקן	AaVekrvkN	_
+3	avek	ADV	אַװעק	AaVek	_
+4	rukn	VB	רוקן	rvkN	_
+5	dem	D	דעם	deM	_
+6	beygikn	ADJ	בײגיקן	bYgykN	_
+7	verb	N	װערב	Verb	_
+8-9	oyfn	P~D	אױפֿן	AWfN	_
+8	oyf	P	אױף	AWF	_
+9	n	D	נ	n	_
+10	dritn	ADJ	דריטן	drytN	_
+11	ort	N	אָרט	Aort	_
+12	ken	MDF	קען	keN	_
+13	zikh	PRO	זיך	zyX	_
+14	oykh	ADV	אױך	AWX	_
+15	bakumen	VB	באַקומען	bAakvmeN	_
+16	az	C	אַז	Aaz	_
+17	a	D	אַ	Aa	_
+18	zatsglid	N	זאַצגליד	zAaqglyd	_
+19	zol	MDF	זאָל	zAol	_
+20	blaybn	VB	בלײַבן	blYabN	_
+21	azoy	ADV	אַזױ	AazW	_
+22	vi	P	װי	Vy	_
+23	hengen	VB	הענגען	hengeN	_
+24	in	P	אין	AyN	_
+25	der	D	דער	der	_
+26	luftn	N	לופֿטן	lvftN	_
+27	un	CONJ	און	AvN	_
+28	zayn	PRO$	זײַן	zYaN	_
+29	shaykut	N	שײַקוט	$Yakvt	_
+30-31	tsum	P~D	צום	qvM	_
+30	tsu	P	צו	qv	_
+31	m	D	מ	m	_
+32	vort	N	װאָרט	VAort	_
+33	tsu	P	צו	qv	_
+34	velkhn	WPRO	װעלכן	VelxN	_
+35	es	PRO	עס	es	_
+36	tsit	VBF	ציט	qyt	_
+37	zikh	PRO	זיך	zyX	_
+38	zol	MDF	זאָל	zAol	_
+39	oybn	ADV	אױבן	AWbN	_
+40	oyf	ADV	אױף	AWF	_
+41	nit	NEG	ניט	nyt	_
+42	zayn	VB	זײַן	zYaN	_
+43	klor	ADJ	קלאָר	klAor	_
+44	.	PUNC	.	.	_
+
+SENT	1946E-MARK,13.394
+1	mir	PRO	מיר	myr	_
+2	gefinen	VBF	געפֿינען	gefyneN	_
+3	,	PUNC	,	,	_
+4	lemoshl	H	למשל	lm$l	for_example
+5	,	PUNC	,	,	_
+6	bay	P	בײַ	bYa	_
+7	sholem-aleykem	NPR	שלום-אַלײקעם	$lvM-AalYkeM	_
+8	:	PUNC	:	:	_
+9	shtark	ADV	שטאַרק	$tAark	_
+10	geyn	VB	גײן	gYN	_
+11	ahin	ADV	אַהין	AahyN	_
+12	vil	MDF	װיל	Vyl	_
+13	ikh	PRO	איך	AyX	_
+14	nit	NEG	ניט	nyt	_
+
+SENT	1946E-MARK,13.395
+1	"	PUNC	"	"	_
+2	shtark	ADV	שטאַרק	$tAark	_
+3	"	PUNC	"	"	_
+4	tsit	VBF	ציט	qyt	_
+5	zikh	PRO	זיך	zyX	_
+6-7	tsum	P~D	צום	qvM	_
+6	tsu	P	צו	qv	_
+7	m	D	מ	m	_
+8	predikat	N	פּרעדיקאַט	predykAat	_
+9	"	PUNC	"	"	_
+10	vil	MDF	װיל	Vyl	_
+11	"	PUNC	"	"	_
+
+SENT	1946E-MARK,13.396
+1	ober	CONJ	אָבער	Aober	_
+2	do	ADV	דאָ	dAo	_
+3	zeynen	BEF	זײנען	zYneN	_
+4	di	D	די	dy	_
+5	verter	N	װערטער	Verter	_
+6-7	opgerisn	RP~VAN	אָפּגעריסן	AopgerysN	_
+6	op	RP	אָפּ	Aop	_
+7	gerisn	VAN	געריסן	gerysN	_
+8	eyns	PRO	אײנס	AYns	_
+9	fun	P	פֿון	fvN	_
+10	andern	ADJ	אַנדערן	AanderN	_
+11	,	PUNC	,	,	_
+12	beys	C	ב	b	_
+13	zey	PRO	זײ	zY	_
+14	voltn	VLF	װאָלטן	VAoltN	_
+15	gedarft	MDN	געדאַרפֿט	gedAarft	_
+16	kumen	VB	קומען	kvmeN	_
+17	bskhnut	H	בסכנוט	bsxnvt	in_proximity
+18	in	P	אין	AyN	_
+19	dem	D	דעם	deM	_
+20	geveyntlekhn	ADJ	געװײנטלעכן	geVYntlexN	_
+21	verter-seyder	N	װערטער-סדר	Verter-sdr	_
+22	:	PUNC	:	:	_
+
+SENT	1946E-MARK,13.397
+1	ikh	PRO	איך	AyX	_
+2	vil	MDF	װיל	Vyl	_
+3	nit	NEG	ניט	nyt	_
+4	stark	ADV	סטאַרק	stAark	_
+5	geyn	VB	גײן	gYN	_
+6	ahin	ADV	אַהין	AahyN	_
+7	.	PUNC	.	.	_
+
+SENT	1946E-MARK,13.398
+1	azoy	ADV	אַזױ	AazW	_
+2	ober	ADV	אָבער	Aober	_
+3	vi	C	װי	Vy	_
+4	der	D	דער	der	_
+5	mekhaber	N	מחבר	mHbr	_
+6	hot	HVF	האָט	hAot	_
+7	gevolt	MDN	געװאָלט	geVAolt	_
+8	untershtraykhn	VB	אונטערשטרײַכן	Avnter$trYaxN	_
+9	i	CONJ	אי	Ay	_
+10	"	PUNC	"	"	_
+11	geyn	VB	גײן	gYN	_
+12	ahin	ADV	אַהין	AahyN	_
+13	"	PUNC	"	"	_
+14	i	CONJ	אי	Ay	_
+15	"	PUNC	"	"	_
+16	shtark	ADV	שטאַרק	$tAark	_
+17	"	PUNC	"	"	_
+18	,	PUNC	,	,	_
+19	hot	HVF	האָט	hAot	_
+20	er	PRO	ער	er	_
+21	gemuzt	MDN	געמוזט	gemvzt	_
+22-23	onkumen	RP~VB	אָנקומען	AonkvmeN	_
+22	on	RP	אָן	AoN	_
+23	kumen	VB	קומען	kvmeN	_
+24	tsu	P	צו	qv	_
+25	dem	D	דעם	deM	_
+26	tsitirtn	ADJ	ציטירטן	qytyrtN	_
+27	zats	N	זאַץ	zAaQ	_
+28	.	PUNC	.	.	_
+
+SENT	1946E-MARK,13.399
+1	shoyn	ADV	שױן	$WN	_
+2	on	P	אָן	AoN	_
+3	pirusim	N	פּירוסים	pyrvsyM	_
+4	gibn	VBF	גיבן	gybN	_
+5	mir	PRO	מיר	myr	_
+6	nokh	ADV	נאָך	nAoX	_
+7	a	D	אַ	Aa	_
+8	rey	N	רײ	rY	_
+9	zatsn	N	זאַצן	zAaqN	_
+10	vu	WADV	װוּ	VU	_
+11	der	D	דער	der	_
+12	beygiker	ADJ	בײגיקער	bYgyker	_
+13	verb	N	װערב	Verb	_
+14	kumt	VBF	קומט	kvmt	_
+15-16	oyfn	P~D	אױפֿן	AWfN	_
+15	oyf	P	אױף	AWF	_
+16	n	D	נ	n	_
+17	dritn	ADJ	דריטן	drytN	_
+18	ort	N	אָרט	Aort	_
+19	.	PUNC	.	.	_
+
+SENT	1946E-MARK,13.400
+1	mir	PRO	מיר	myr	_
+2	betn	VBF	בעטן	betN	_
+3	bloys	FP	בלױס	blWs	_
+4	nit	NEG	ניט	nyt	_
+5	leynenen	VB	לײנענען	lYneneN	_
+6	ot	FP	אָט	Aot	_
+7	di	D	די	dy	_
+8	veyterdike	ADJ	װײטערדיקע	VYterdyke	_
+9	dugmaut	N	דוגמאַוט	dvgmAavt	_
+10	mit	P	מיט	myt	_
+11	di	D	די	dy	_
+12	oygn	N	אױגן	AWgN	_
+13	,	PUNC	,	,	_
+14	nor	CONJ	נאָר	nAor	_
+15	zey	PRO	זײ	zY	_
+16-17	aroysreydn	ADV~VB	אַרױסרײדן	AarWsrYdN	_
+16	aroys	ADV	אַרױס	AarWs	_
+17	reydn	VB	רײדן	rYdN	_
+18-19	oyfn	P~D	אױפֿן	AWfN	_
+18	oyf	P	אױף	AWF	_
+19	n	D	נ	n	_
+20	kol	N	קול	kvl	_
+21	:	PUNC	:	:	_
+
+SENT	1946E-MARK,13.401
+1	di	D	די	dy	_
+2	starkste	ADJS	סטאַרקסטע	stAarkste	_
+3	gefiln	N	געפֿילן	gefylN	_
+4	in	P	אין	AyN	_
+5	hartsn	N	האַרצן	hAarqN	_
+6	bahalt	VBI	באַהאַלט	bAahAalt	_
+7	.	PUNC	.	.	_
+
+SENT	1946E-MARK,13.402
+1	di	D	די	dy	_
+2	nakht	N	נאַכט	nAaxt	_
+3	,	PUNC	,	,	_
+4	vi	P	װי	Vy	_
+5	a	D	אַ	Aa	_
+6	kishuf-makherin	N	קישוף-מאַכערין	ky$vF-mAaxeryN	_
+7	,	PUNC	,	,	_
+8	lozt	VBF	לאָזט	lAozt	_
+9	zikh	PRO	זיך	zyX	_
+10	pamelekh	ADV	פּאַמעלעך	pAameleX	_
+11	arop	ADV	אַראָפּ	AarAop	_
+12	opatasn	REF	אָפּאַטאַסן	AopAatAasN	_
+
+SENT	1946E-MARK,13.403
+1	mamesh	ADV	ממש	mm$	_
+2	er	PRO	ער	er	_
+3	tsitert	VBF	ציטערט	qytert	_
+4	far	P	פֿאַר	fAar	_
+5	freyd	N	פֿרײד	frYd	_
+6	.	PUNC	.	.	_
+
+SENT	1946E-MARK,13.404
+1	a_ponim	ADV	אַ_פּאָנים	Aa_pAonyM	_
+2	di	D	די	dy	_
+3	mame	N	מאַמע	mAame	_
+4	iz	BEF	איז	Ayz	_
+5	nokh	ADV	נאָך	nAoX	_
+6	nit	NEG	ניט	nyt	_
+7	geven	VBN	געװען	geVeN	_
+8	in	P	אין	AyN	_
+9	der	D	דער	der	_
+10	heym	N	הײם	hYM	_
+11	.	PUNC	.	.	_
+
+SENT	1946E-MARK,13.405
+1	kheyml	NPR	כײמל	xYml	_
+2	,	PUNC	,	,	_
+3	derzeendik	VAG	דערזעענדיק	derzeendyk	_
+4	dem	D	דעם	deM	_
+5	tatn	N	טאַטן	tAatN	_
+6	,	PUNC	,	,	_
+7	hot	HVF	האָט	hAot	_
+8	zikh	PRO	זיך	zyX	_
+9	shtark	ADV	שטאַרק	$tAark	_
+10	ibergeshrokn	VBN	איבערגעשראָקן	Ayberge$rAokN	_
+11	.	PUNC	.	.	_
+
+SENT	1946E-MARK,13.406
+1	mikh	PRO	מיך	myX	_
+2	,	PUNC	,	,	_
+3	ven	C	װען	VeN	_
+4	ikh	PRO	איך	AyX	_
+5	vil	MDF	װיל	Vyl	_
+6	zikh	PRO	זיך	zyX	_
+7	nor	FP	נאָר	nAor	_
+8	shlogn	VB	שלאָגן	$lAogN	_
+9	,	PUNC	,	,	_
+10	vet	MDF	װעט	Vet	_
+11	keyner	Q	קײנער	kYner	_
+12	nit	NEG	ניט	nyt	_
+13	bazign	VB	באַזיגן	bAazygN	_
+14	.	PUNC	.	.	_
+
+SENT	1946E-MARK,13.407
+1	in	P	אין	AyN	_
+2	moyl	N	מױל	mWl	_
+3	bey	P	בײ	bY	_
+4	zey	PRO	זײ	zY	_
+5	beydn	Q	בײדן	bYdN	_
+6	iz	VBF	איז	Ayz	_
+7-8	nito	NEG~ADV	ניטאָ	nytAo	_
+7	nit	NEG	ניט	nyt	_
+8	o	ADV	אָ	Ao	_
+9	a	D	אַ	Aa	_
+10	tson	N	צאָן	qAoN	_
+11	.	PUNC	.	.	_
+
+SENT	1946E-MARK,13.408
+1	es	ES	עס	es	_
+2	zaynen	VBF	זײַנען	zYaneN	_
+3	faran	ADJ	פֿאַראַן	fAarAaN	_
+4	dray	NUM	דרײַ	drYa	_
+5	spetsiele	ADJ	ספּעציִעלע	speqyiele	_
+6	faln	N	פֿאַלן	fAalN	_
+7	,	PUNC	,	,	_
+8	ven	C	װען	VeN	_
+9	der	D	דער	der	_
+10	beygiker	ADJ	בײגיקער	bYgyker	_
+11	verb	N	װערב	Verb	_
+12	kumt	VBF	קומט	kvmt	_
+13	in	P	אין	AyN	_
+14	a	D	אַ	Aa	_
+15	fregzats	N	פֿרעגזאַץ	fregzAaQ	_
+16-17	oyfn	P~D	אױפֿן	AWfN	_
+16	oyf	P	אױף	AWF	_
+17	n	D	נ	n	_
+18	dritn	ADJ	דריטן	drytN	_
+19	ort	N	אָרט	Aort	_
+20	.	PUNC	.	.	_
+
+SENT	1946E-MARK,13.409
+1	1.	LS	1.	1.	_
+2	ven	C	װען	VeN	_
+3	men	PRO	מען	meN	_
+4	vil	MDF	װיל	Vyl	_
+5-6	aroysheybn	ADV~VB	אַרױסהײבן	AarWshYbN	_
+5	aroys	ADV	אַרױס	AarWs	_
+6	heybn	VB	הײבן	hYbN	_
+7	dos	D	דאָס	dAos	_
+8	vort	N	װאָרט	VAort	_
+9	vos	C	װאָס	VAos	_
+10	iz	VBF	איז	Ayz	_
+11	bazunder	ADV	באַזונדער	bAazvnder	_
+12	vikhtik	ADJ	װיכטיק	Vyxtyk	_
+13	far	P	פֿאַר	fAar	_
+14	dem	D	דעם	deM	_
+15	freger	N	פֿרעגער	freger	_
+16	,	PUNC	,	,	_
+
+SENT	1946E-MARK,13.410
+1	lemoshl	H	למשל	lm$l	for_example
+2	:	PUNC	:	:	_
+3	3a.	LS	3אַ.	3Aa.	_
+4	vu	WADV	װוּ	VU	_
+5-6	bistu	BEF~PRO	ביסטו	bystv	_
+5	bis	BEF	ביס	bys	_
+6	tu	PRO	טו	tv	_
+7	nekhtn	ADV	נעכטן	nextN	_
+8	geven	VBN	געװען	geVeN	_
+9	?	PUNC	?	?	_
+
+SENT	1946E-MARK,13.411
+1	der	D	דער	der	_
+2	geveyntlekher	ADJ	געװײנטלעכער	geVYntlexer	_
+3	seyder	N	סדר	sdr	_
+
+SENT	1946E-MARK,13.412
+1	3b.	LS	3ב.	3b.	_
+2	nekhtn	ADV	נעכטן	nextN	_
+3	vu	WADV	װוּ	VU	_
+4-5	bistu	BEF~PRO	ביסטו	bystv	_
+4	bis	BEF	ביס	bys	_
+5	tu	PRO	טו	tv	_
+6	geven	VBN	געװען	geVeN	_
+7	?	PUNC	?	?	_
+
+SENT	1946E-MARK,13.413
+1	dos	D	דאָס	dAos	_
+2	vort	N	װאָרט	VAort	_
+3	"	PUNC	"	"	_
+4	nekhtn	ADV	נעכטן	nextN	_
+5	"	PUNC	"	"	_
+6	vert	RDF	װערט	Vert	_
+7-8	aroysgehoybn	ADV~VAN	אַרױסגעהױבן	AarWsgehWbN	_
+7	aroys	ADV	אַרױס	AarWs	_
+8	gehoybn	VAN	געהױבן	gehWbN	_
+9	.	PUNC	.	.	_
+
+SENT	1946E-MARK,13.414
+1	4a.	LS	4אַ.	4Aa.	_
+2	ver	WPRO	װער	Ver	_
+3	fun	P	פֿון	fvN	_
+4	aykh	PRO	אײַך	AYaX	_
+5	vet	MDF	װעט	Vet	_
+6	geyn	VB	גײן	gYN	_
+7	in	P	אין	AyN	_
+8	vald	N	װאַלד	VAald	_
+9	?	PUNC	?	?	_
+
+SENT	1946E-MARK,13.415
+1	der	D	דער	der	_
+2	geveyntlekher	ADJ	געװײנטלעכער	geVYntlexer	_
+3	seyder	N	סדר	sdr	_
+
+SENT	1946E-MARK,13.416
+1	4b.	LS	4ב.	4b.	_
+2	in	P	אין	AyN	_
+3	vald	N	װאַלד	VAald	_
+4	,	PUNC	,	,	_
+5	ver	WPRO	װער	Ver	_
+6	fun	P	פֿון	fvN	_
+7	aykh	PRO	אײַך	AYaX	_
+8	vet	MDF	װעט	Vet	_
+9	geyn	VB	גײן	gYN	_
+10	?	PUNC	?	?	_
+
+SENT	1946E-MARK,13.417
+1	der	D	דער	der	_
+2	seyder-eyns	N	סדר-אײנס	sdr-AYns	_
+3	"	PUNC	"	"	_
+4	in	P	אין	AyN	_
+5	vald	N	װאַלד	VAald	_
+6	"	PUNC	"	"	_
+7	vert	RDF	װערט	Vert	_
+8	untergeshtrokhn	VAN	אונטערגעשטראָכן	Avnterge$trAoxN	_
+9	.	PUNC	.	.	_
+
+SENT	1946E-MARK,13.418
+1	2.	LS	2.	2.	_
+2	ven	C	װען	VeN	_
+3	men	PRO	מען	meN	_
+4	tsit	VBF	ציט	qyt	_
+5	tsunoyf	ADV	צונױף	qvnWF	_
+6	in	P	אין	AyN	_
+7	eyn	D	אײן	AYN	_
+8	frage	N	פֿראַגע	frAage	_
+9	tsvey	NUM	צװײ	qVY	_
+10	bazundere	ADJ	באַזונדערע	bAazvndere	_
+11	frages	N	פֿראַגעס	frAages	_
+12	,	PUNC	,	,	_
+
+SENT	1946E-MARK,14.419
+1	lemoshl	H	למשל	lm$l	for_example
+2	:	PUNC	:	:	_
+3	5a.	LS	5אַ.	5Aa.	_
+4	ver	WPRO	װער	Ver	_
+5	vet	MDF	װעט	Vet	_
+6	geyn	VB	גײן	gYN	_
+7	mit	P	מיט	myt	_
+8	aykh	PRO	אײַך	AYaX	_
+9	?	PUNC	?	?	_
+
+SENT	1946E-MARK,14.420
+1	vuhin	WADV	װוּהין	VUhyN	_
+2	vet	MDF	װעט	Vet	_
+3	men	PRO	מען	meN	_
+4	geyn	VB	גײן	gYN	_
+5	mit	P	מיט	myt	_
+6	aykh	PRO	אײַך	AYaX	_
+7	?	PUNC	?	?	_
+
+SENT	1946E-MARK,14.421
+1	5b.	LS	5ב.	5b.	_
+2	ver	WPRO	װער	Ver	_
+3	vuhin	WADV	װוּהין	VUhyN	_
+4	vet	MDF	װעט	Vet	_
+5	geyn	VB	גײן	gYN	_
+6	mit	P	מיט	myt	_
+7	aykh	PRO	אײַך	AYaX	_
+8	?	PUNC	?	?	_
+
+SENT	1946E-MARK,14.422
+1	6a.	LS	6אַ.	6Aa.	_
+2	far	P	פֿאַר	fAar	_
+3	vos	WPRO	װאָס	VAos	_
+4	hot	HVF	האָט	hAot	_
+5	er	PRO	ער	er	_
+6	es	PRO	עס	es	_
+7	geton	VBN	געטאָן	getAoN	_
+8	?	PUNC	?	?	_
+
+SENT	1946E-MARK,14.423
+1	vi_azoy	WADV	װי_אַזױ	Vy_AazW	_
+2	hot	HVF	האָט	hAot	_
+3	er	PRO	ער	er	_
+4	es	PRO	עס	es	_
+5	geton	VBN	געטאָן	getAoN	_
+6	?	PUNC	?	?	_
+
+SENT	1946E-MARK,14.424
+1	6b.	LS	6ב.	6b.	_
+2	far	P	פֿאַר	fAar	_
+3	vos	WPRO	װאָס	VAos	_
+4	un	CONJ	און	AvN	_
+5	vi_azoy	WADV	װי_אַזױ	Vy_AazW	_
+6	hot	HVF	האָט	hAot	_
+7	er	PRO	ער	er	_
+8	es	PRO	עס	es	_
+9	geton	VBN	געטאָן	getAoN	_
+10	?	PUNC	?	?	_
+
+SENT	1946E-MARK,14.425
+1	3.	LS	3.	3.	_
+2-3	beym	P~D	בײם	bYM	_
+2	bey	P	בײ	bY	_
+3	m	D	מ	m	_
+4	iberfregn	N	איבערפֿרעגן	AyberfregN	_
+5	,	PUNC	,	,	_
+6	afilu	FP	אַפֿילו	Aafylv	_
+7	ven	C	װען	VeN	_
+8	der	D	דער	der	_
+9	freger	N	פֿרעגער	freger	_
+10	khazert	VBF	חזרט	Hzrt	_
+11	aleyn	ADV	אַלײן	AalYN	_
+12	iber	RP	איבער	Ayber	_
+13	zeyn	PRO$	זײן	zYN	_
+14	frage	N	פֿראַגע	frAage	_
+15	,	PUNC	,	,	_
+
+SENT	1946E-MARK,14.426
+1	lemoshl	H	למשל	lm$l	for_example
+2	:	PUNC	:	:	_
+3	7a.	LS	7אַ.	7Aa.	_
+4	fun	P	פֿון	fvN	_
+5	vanen	WADV	װאַנען	VAaneN	_
+6	kumt	VBF	קומט	kvmt	_
+7	ir	PRO	איר	Ayr	_
+8	?	PUNC	?	?	_
+
+SENT	1946E-MARK,14.427
+1	7b.	LS	7ב.	7b.	_
+2	fun	P	פֿון	fvN	_
+3	vanen	WADV	װאַנען	VAaneN	_
+4	ir	PRO	איר	Ayr	_
+5	kumt	VBF	קומט	kvmt	_
+6	?	PUNC	?	?	_
+
+SENT	1946E-MARK,14.428
+1	8a.	LS	8אַ.	8Aa.	_
+2	vu	WADV	װוּ	VU	_
+3	zaynen	VBF	זײַנען	zYaneN	_
+4	di	D	די	dy	_
+5	klezmer	N	כּלי-זמר	Kly-zmr	_
+6	?	PUNC	?	?	_
+7	fregt	VBF	פֿרעגט	fregt	_
+8	khtsns	N$	כצנס	xqns	_
+9	tsd	N	צד	qd	_
+
+SENT	1946E-MARK,14.429
+1	8b.	LS	8ב.	8b.	_
+2	di	D	די	dy	_
+3	klezmer	N	כּלי-זמר	Kly-zmr	_
+4	vu	WADV	װוּ	VU	_
+5	zaynen	VBF	זײַנען	zYaneN	_
+6	fregt	VBF	פֿרעגט	fregt	_
+7	khtsns	N$	כצנס	xqns	_
+8	tsd	N	צד	qd	_
+9	sholem-aleykhem	REF	שלום-אַלײכעם	$lvM-AalYxeM	_
+
+SENT	1946E-MARK,14.430
+1	9a.	LS	9אַ.	9Aa.	_
+2	vos	WPRO	װאָס	VAos	_
+3	tut	VBF	טוט	tvt	_
+4	men	PRO	מען	meN	_
+5	mit	P	מיט	myt	_
+6	di	D	די	dy	_
+7	kinder	N	קינדער	kynder	_
+8	?	PUNC	?	?	_
+
+SENT	1946E-MARK,14.431
+1	9b.	LS	9ב.	9b.	_
+2	mit	P	מיט	myt	_
+3	di	D	די	dy	_
+4	kinder	N	קינדער	kynder	_
+5	vos	WPRO	װאָס	VAos	_
+6	tut	VBF	טוט	tvt	_
+7	men	PRO	מען	meN	_
+8	?	PUNC	?	?	_
+
+SENT	1946E-MARK,14.432
+1	di	D	די	dy	_
+2	beyde	Q	בײדע	bYde	_
+3	zatsn	N	זאַצן	zAaqN	_
+4	9a	REF	9אַ	9Aa	_
+5	un	CONJ	און	AvN	_
+6	9b	REF	9ב	9b	_
+7	vern	RDF	װערן	VerN	_
+8-9	aroysgezogt	ADV~VAN	אַרױסגעזאָגט	AarWsgezAogt	_
+8	aroys	ADV	אַרױס	AarWs	_
+9	gezogt	VAN	געזאָגט	gezAogt	_
+10	fun	P	פֿון	fvN	_
+11	dem	D	דעם	deM	_
+12	zelbikn	ADJ	זעלביקן	zelbykN	_
+13	freger	N	פֿרעגער	freger	_
+14	,	PUNC	,	,	_
+15	zen_sholem-aleykhem,_funem_yarid,_kapitl_35	REF	זענ_שאָלעם-אַלײכעם,_פֿונעמ_יאַריד,_קאַפּיטל_35	zen_$AoleM-AalYxeM,_fvnem_yAaryd,_kAapytl_35	_
+
+SENT	1946E-MARK,14.433
+1-2	beym	P~D	בײם	bYM	_
+1	bey	P	בײ	bY	_
+2	m	D	מ	m	_
+3	veln	MD	װעלן	VelN	_
+4-5	oyfhitn	RP~VB	אױפֿהיטן	AWfhytN	_
+4	oyf	RP	אױף	AWF	_
+5	hitn	VB	היטן	hytN	_
+6	an	D	אַן	AaN	_
+7	eygnartike	ADJ	אײגנאַרטיקע	AYgnAartyke	_
+8	ritmishkeyt	N	ריטמישקײט	rytmy$kYt	_
+9	,	PUNC	,	,	_
+10	a	D	אַ	Aa	_
+11	min	N	מין	myN	_
+12	ritmishn	ADJ	ריטמישן	rytmy$N	_
+13	paralelism	N	פּאַראַלעליסם	pAarAalelysM	_
+14-15	beym	P~D	בײם	bYM	_
+14	bey	P	בײ	bY	_
+15	m	D	מ	m	_
+16	farbindn	VB	פֿאַרבינדן	fAarbyndN	_
+17	tuung	N	טוּונג	tUvng	_
+18	un	CONJ	און	AvN	_
+19	puel-iutsa	N	פּועל-איוצאַ	pvel-AyvqAa	_
+20	oder	CONJ	אָדער	Aoder	_
+21	teze	N	טעזע	teze	_
+22	un	CONJ	און	AvN	_
+23	antiteze	N	אַנטיטעזע	Aantyteze	_
+24	kumt	VBF	קומט	kvmt	_
+25	oys	RP	אױס	AWs	_
+26	tsu	TO	צו	qv	_
+27	shteln	VB	שטעלן	$telN	_
+28	dem	D	דעם	deM	_
+29	verb	N	װערב	Verb	_
+30-31	oyfn	P~D	אױפֿן	AWfN	_
+30	oyf	P	אױף	AWF	_
+31	n	D	נ	n	_
+32	dritn	ADJ	דריטן	drytN	_
+33	ort	N	אָרט	Aort	_
+34	.	PUNC	.	.	_
+
+SENT	1946E-MARK,14.434
+1	mir	PRO	מיר	myr	_
+2	betn	VBF	בעטן	betN	_
+3	zikh	PRO	זיך	zyX	_
+4-5	tsuhern	RP~VB	צוהערן	qvherN	_
+4	tsu	RP	צו	qv	_
+5	hern	VB	הערן	herN	_
+6-7	tsum	P~D	צום	qvM	_
+6	tsu	P	צו	qv	_
+7	m	D	מ	m	_
+8	ritem	N	ריטעם	ryteM	_
+9	fun	P	פֿון	fvN	_
+10	di	D	די	dy	_
+11	zatsn	N	זאַצן	zAaqN	_
+12	.	PUNC	.	.	_
+
+SENT	1946E-MARK,14.435
+1	vos	WPRO	װאָס	VAos	_
+2	mer	QR	מער	mer	_
+3	men	PRO	מען	meN	_
+4	lebt	VBF	לעבט	lebt	_
+5	oyf	P	אױף	AWF	_
+6	der	D	דער	der	_
+7	velt	N	װעלט	Velt	_
+8	,	PUNC	,	,	_
+9	alts	Q	אַלץ	AalQ	_
+10	viniker	QR	װיניקער	Vynyker	_
+11	veys	VBF	װײס	VYs	_
+12	men	PRO	מען	meN	_
+13	.	PUNC	.	.	_
+
+SENT	1946E-MARK,14.436
+1	vos	WPRO	װאָס	VAos	_
+2	vintsiker	QR	װינציקער	Vynqyker	_
+3	ir	PRO	איר	Ayr	_
+4	vet	MDF	װעט	Vet	_
+5	fregn	VB	פֿרעגן	fregN	_
+6	shayles	N	שאלות	$AlvS	_
+7	,	PUNC	,	,	_
+8	alts	Q	אַלץ	AalQ	_
+9	gezinter	ADJR	געזינטער	gezynter	_
+10	vet	MDF	װעט	Vet	_
+11	es	PRO	עס	es	_
+12	zeyn	VB	זײן	zYN	_
+13	far	P	פֿאַר	fAar	_
+14	aykh	PRO	אײַך	AYaX	_
+15	.	PUNC	.	.	_
+
+SENT	1946E-MARK,14.437
+1	es	ES	עס	es	_
+2	ken	MDF	קען	keN	_
+3	zikh	PRO	זיך	zyX	_
+4	trefn	VB	טרעפֿן	trefN	_
+5	az	C	אַז	Aaz	_
+6	bloyz	FP	בלױז	blWz	_
+7	zeyer	ADV	זײער	zYer	_
+8	a	D	אַ	Aa	_
+9	komplitsirte	ADJ	קאָמפּליצירטע	kAomplyqyrte	_
+10	ritmishe	ADJ	ריטמישע	rytmy$e	_
+11	figur	N	פֿיגור	fygvr	_
+12	zol	MDF	זאָל	zAol	_
+13	miglekh	ADJ	מיגלעך	mygleX	_
+14	makhn	VB	מאַכן	mAaxN	_
+15	dem	D	דעם	deM	_
+16	beygiken	ADJ	בײגיקען	bYgykeN	_
+17	verb	N	װערב	Verb	_
+18-19	oyfn	P~D	אױפֿן	AWfN	_
+18	oyf	P	אױף	AWF	_
+19	n	D	נ	n	_
+20	driten	ADJ	דריטען	dryteN	_
+21	ort	N	אָרט	Aort	_
+22	,	PUNC	,	,	_
+
+SENT	1946E-MARK,14.438
+1	lemoshl	H	למשל	lm$l	for_example
+2	in	P	אין	AyN	_
+3	dem	D	דעם	deM	_
+4	shprikhvort	N	שפּריכװאָרט	$pryxVAort	_
+5	eyn	D	אײן	AYN	_
+6	tate	N	טאַטע	tAate	_
+7	tsen	NUM	צען	qeN	_
+8	kinder	N	קינדער	kynder	_
+9	,	PUNC	,	,	_
+10	derner	VBI	דערנער	derner	_
+11	tsen	NUM	צען	qeN	_
+12	kinder	N	קינדער	kynder	_
+13	eyn	D	אײן	AYN	_
+14	tate	N	טאַטע	tAate	_
+15	,	PUNC	,	,	_
+16	iz	VBF	איז	Ayz	_
+17	shver	ADJ	שװער	$Ver	_
+
+SENT	1946E-MARK,14.439
+1	do	ADV	דאָ	dAo	_
+2	zeynen	VBF	זײנען	zYneN	_
+3	faran	ADJ	פֿאַראַן	fAarAaN	_
+4	etlekhe	Q	עטלעכע	etlexe	_
+5	durkhlozn	N	דורכלאָזן	dvrxlAozN	_
+6	:	PUNC	:	:	_
+
+SENT	1946E-MARK,14.440
+1	az	C	אַז	Aaz	_
+2	eyn	D	אײן	AYN	_
+3	tate	N	טאַטע	tAate	_
+4	hot	VBF	האָט	hAot	_
+5	tsen	NUM	צען	qeN	_
+6	kinder	N	קינדער	kynder	_
+7	,	PUNC	,	,	_
+8	zogt	VBF	זאָגט	zAogt	_
+9	men	PRO	מען	meN	_
+10	im	PRO	אים	AyM	_
+11	derner	VBI	דערנער	derner	_
+12	zey	PRO	זײ	zY	_
+
+SENT	1946E-MARK,14.441
+1	ober	CONJ	אָבער	Aober	_
+2	tsen	NUM	צען	qeN	_
+3	kinder	N	קינדער	kynder	_
+4	eyn	D	אײן	AYN	_
+5	tatn	N	טאַטן	tAatN	_
+6	tsu	TO	צו	qv	_
+7	dernern	VB	דערנערן	dernerN	_
+8	iz	VBF	איז	Ayz	_
+9	shver	ADJ	שװער	$Ver	_
+10	.	PUNC	.	.	_
+
+SENT	1946E-MARK,14.442
+1	in	P	אין	AyN	_
+2	der	D	דער	der	_
+3	poezie	N	פּאָעזיִע	pAoezyie	_
+4	,	PUNC	,	,	_
+5	zeltener	ADVR	זעלטענער	zeltener	_
+6	a_sakh	Q	אַ_סאַך	Aa_sAaX	_
+7	afilu	FP	אַפֿילו	Aafylv	_
+8	in	P	אין	AyN	_
+9	folkslider	N	פֿאָלקסלידער	fAolkslyder	_
+10	,	PUNC	,	,	_
+11	trefn	VBF	טרעפֿן	trefN	_
+12	mir	PRO	מיר	myr	_
+13	dem	D	דעם	deM	_
+14	beygikn	ADJ	בײגיקן	bYgykN	_
+15	verb	N	װערב	Verb	_
+16-17	oyfn	P~D	אױפֿן	AWfN	_
+16	oyf	P	אױף	AWF	_
+17	n	D	נ	n	_
+18	dritn	ADJ	דריטן	drytN	_
+19	ort	N	אָרט	Aort	_
+20	on	P	אָן	AoN	_
+21	genugnike	ADJ	גענוגניקע	genvgnyke	_
+22	motivn	N	מאָטיװן	mAotyVN	_
+23	.	PUNC	.	.	_
+
+SENT	1946E-MARK,14.443
+1	yemolt	ADV	יעמאָלט	yemAolt	_
+2	bekumen	VBF	בעקומען	bekvmeN	_
+3	zikh	PRO	זיך	zyX	_
+4	umberekhtikt	ADV	אומבערעכטיקט	Avmberextykt	_
+5	shvere	ADJ	שװערע	$Vere	_
+6	zatsn	N	זאַצן	zAaqN	_
+7	.	PUNC	.	.	_
+
+SENT	1946E-MARK,14.444
+1	mir	PRO	מיר	myr	_
+2	brengn	VBF	ברענגן	brengN	_
+3	bloyz	FP	בלױז	blWz	_
+4	tsvey	NUM	צװײ	qVY	_
+5	:	PUNC	:	:	_
+
+SENT	1946E-MARK,14.445
+1	un	CONJ	און	AvN	_
+2	bey	P	בײ	bY	_
+3	mir	PRO	מיר	myr	_
+4	,	PUNC	,	,	_
+5	orem	ADJ	אָרעם	AoreM	_
+6	shneyderl	N	שנײדערל	$nYderl	_
+7	,	PUNC	,	,	_
+8	dos	D	דאָס	dAos	_
+9	shvakh	ADJ	שװאַך	$VAaX	_
+10	hertsele	N	הערצעלע	herqele	_
+11	tristset	VBF	טריסצעט	trysqet	_
+12	folkslid	REF	פֿאָלקסליד	fAolkslyd	_
+
+SENT	1946E-MARK,14.446
+1	oyf	P	אױף	AWF	_
+2	a	D	אַ	Aa	_
+3	boym	N	בױם	bWM	_
+4	in	P	אין	AyN	_
+5	grinem	ADJ	גרינעם	gryneM	_
+6	vald	N	װאַלד	VAald	_
+7	a	D	אַ	Aa	_
+8	vunderlekher	ADJ	װוּנדערלעכער	VUnderlexer	_
+9	foygl	N	פֿױגל	fWgl	_
+10	shalt	VBF	שאַלט	$Aalt	_
+11	porets	REF	פּרוץ	prvQ	_
+
+SENT	1946E-MARK,14.447
+1	in	P	אין	AyN	_
+2	di	D	די	dy	_
+3	beyde	Q	בײדע	bYde	_
+4	zatsn	N	זאַצן	zAaqN	_
+5	ken	MDF	קען	keN	_
+6	men	PRO	מען	meN	_
+7	azoy	ADV	אַזױ	AazW	_
+8	leyenen	VB	לײענען	lYeneN	_
+9	di	D	די	dy	_
+10	teyln	N	טײלן	tYlN	_
+11	biz	P	ביז	byz	_
+12	dem	D	דעם	deM	_
+13	beygiken	ADJ	בײגיקען	bYgykeN	_
+14	verb	N	װערב	Verb	_
+15	,	PUNC	,	,	_
+16	az	C	אַז	Aaz	_
+17	es	ES	עס	es	_
+18	zol	MDF	זאָל	zAol	_
+19	zikh	PRO	זיך	zyX	_
+20	bakumen	VB	באַקומען	bAakvmeN	_
+21	vi	WADV	װי	Vy	_
+22	nit	NEG	ניט	nyt	_
+23	iz	VBF	איז	Ayz	_
+24	a	D	אַ	Aa	_
+25	legitimer	ADJ	לעגיטימער	legytymer	_
+26	fal	N	פֿאַל	fAal	_
+27	der	D	דער	der	_
+28	verb	N	װערב	Verb	_
+29-30	oyfn	P~D	אױפֿן	AWfN	_
+29	oyf	P	אױף	AWF	_
+30	n	D	נ	n	_
+31	dritn	ADJ	דריטן	drytN	_
+32	ort	N	אָרט	Aort	_
+33	.	PUNC	.	.	_
+
+SENT	1946E-MARK,14.448
+1	veyter	ADV	װײטער	VYter	_
+2	ober	ADV	אָבער	Aober	_
+3	tor	MDF	טאָר	tAor	_
+4	der	D	דער	der	_
+5	beygiker	ADJ	בײגיקער	bYgyker	_
+6	verb	N	װערב	Verb	_
+7	keyn_mol	ADV	קײנ_מאָל	kYn_mAol	_
+8	nit	NEG	ניט	nyt	_
+9	kumen	VB	קומען	kvmeN	_
+10	!	PUNC	!	!	_
+
+SENT	1946E-MARK,14.449
+1	un	CONJ	און	AvN	_
+2	keyn	Q	קײן	kYN	_
+3	shum	Q	שום	$vM	_
+4	motiv	N	מאָטיװ	mAotyV	_
+5	fun	P	פֿון	fvN	_
+6	gram	N	גראַם	grAaM	_
+7	,	PUNC	,	,	_
+8	oder	CONJ	אָדער	Aoder	_
+9	fun	P	פֿון	fvN	_
+10	ritem	N	ריטעם	ryteM	_
+11	,	PUNC	,	,	_
+12	oder	CONJ	אָדער	Aoder	_
+13	fun	P	פֿון	fvN	_
+14	a	D	אַ	Aa	_
+15	bazundere	ADJ	באַזונדערע	bAazvndere	_
+16	kvnh	N	קװנה	kVnh	_
+17	ken	MDF	קען	keN	_
+18	nit	NEG	ניט	nyt	_
+19	barekhtikn	VB	באַרעכטיקן	bAarextykN	_
+20	dem	D	דעם	deM	_
+21	verb	N	װערב	Verb	_
+22-23	oyfn	P~D	אױפֿן	AWfN	_
+22	oyf	P	אױף	AWF	_
+23	n	D	נ	n	_
+24	fertn	ADJ	פֿערטן	fertN	_
+25	ort	N	אָרט	Aort	_
+26	,	PUNC	,	,	_
+27	vi	WADV	װי	Vy	_
+28	mir	PRO	מיר	myr	_
+29	hobn	VBF	האָבן	hAobN	_
+30	im	PRO	אים	AyM	_
+31	,	PUNC	,	,	_
+
+SENT	1946E-MARK,14.450
+1	lemoshl	H	למשל	lm$l	for_example
+2	:	PUNC	:	:	_
+3	meyn	PRO$	מײן	mYN	_
+4	utsrl	N	אוצרל	Avqrl	_
+5	shoyn	ADV	שױן	$WN	_
+6	shlofn	VB	שלאָפֿן	$lAofN	_
+7	vil	MDF	װיל	Vyl	_
+8	porets	REF	פּרוץ	prvQ	_
+
+SENT	1946E-MARK,14.451
+1	dem	D	דעם	deM	_
+2	veg	N	װעג	Veg	_
+3-4	durkhgelofn	RP~VBN	דורכגעלאָפֿן	dvrxgelAofN	_
+3	durkh	RP	דורך	dvrX	_
+4	gelofn	VBN	געלאָפֿן	gelAofN	_
+5	on	P	אָן	AoN	_
+6	ind	N	אינד	Aynd	_
+7	iz	BEF	איז	Ayz	_
+8	a	D	אַ	Aa	_
+9	shtume	N	שטומע	$tvme	_
+10	nister	REF	ניסתּר	nysTr	_
+
+SENT	1946E-MARK,14.452
+1	shtum	ADJ	שטום	$tvM	_
+2	,	PUNC	,	,	_
+3	vi	P	װי	Vy	_
+4	a	D	אַ	Aa	_
+5	yugnt-kholem	N	יוגנט-חלום	yvgnt-HlvM	_
+6	,	PUNC	,	,	_
+7	in	P	אין	AyN	_
+8	di	D	די	dy	_
+9	berg	N	בערג	berg	_
+10-11	zingstu	VBF~PRO	זינגסטו	zyngstv	_
+10	zings	VBF	זינגס	zyngs	_
+11	tu	PRO	טו	tv	_
+12	roznfeld	REF	ראָזנפֿעלד	rAoznfeld	_
+
+SENT	1946E-MARK,14.453
+1	erst	ADV	ערסט	erst	_
+2	shpeter	ADV	שפּעטער	$peter	_
+3	nokh	P	נאָך	nAoX	_
+4	tsat	H	צאַט	qAat	UNKNOWN
+5	hkukhbim	H	הקוכבים	hkvxbyM	UNKNOWN
+6	der	D	דער	der	_
+7	sms	N	סמס	sms	_
+8	di	D	די	dy	_
+9	shul	N	שול	$vl	_
+10	hot	HVF	האָט	hAot	_
+11	farmakht	VBN	פֿאַרמאַכט	fAarmAaxt	_
+12	ihuas	REF	איהואַס	AyhvAas	_
+
+SENT	1946E-MARK,15.455
+1	un	CONJ	און	AvN	_
+2	oyb	C	אױב	AWb	_
+3	men	PRO	מען	meN	_
+4	ken	MDF	קען	keN	_
+5	nit	NEG	ניט	nyt	_
+6	barekhtikn	VB	באַרעכטיקן	bAarextykN	_
+7	dem	D	דעם	deM	_
+8	verb	N	װערב	Verb	_
+9-10	oyfn	P~D	אױפֿן	AWfN	_
+9	oyf	P	אױף	AWF	_
+10	n	D	נ	n	_
+11	fertn	ADJ	פֿערטן	fertN	_
+12	ort	N	אָרט	Aort	_
+13	,	PUNC	,	,	_
+14	un	CONJ	און	AvN	_
+15	oft_mol	ADV	אָפֿט_מאָל	Aoft_mAol	_
+16	oykh	ADV	אױך	AWX	_
+17	nit	NEG	ניט	nyt	_
+18-19	oyfn	P~D	אױפֿן	AWfN	_
+18	oyf	P	אױף	AWF	_
+19	n	D	נ	n	_
+20	dritn	ADJ	דריטן	drytN	_
+21	,	PUNC	,	,	_
+22	in	P	אין	AyN	_
+23	der	D	דער	der	_
+24	poetisher	ADJ	פּאָעטישער	pAoety$er	_
+25	shprakh	N	שפּראַך	$prAaX	_
+26	,	PUNC	,	,	_
+27	iz	VBF	איז	Ayz	_
+28	el	P	על	el	_
+29	akht	H	אַכט	Aaxt	one
+30	kmh	H	קמה	kmh	a_few
+31	ukmh	H	אוקמה	Avkmh	and_a_few
+32	in	P	אין	AyN	_
+33	der	D	דער	der	_
+34	posheter	ADJ	פּשוטער	p$vter	_
+35	tseytung-notits	N	צײטונג-נאָטיץ	qYtvng-nAotyQ	_
+36	un	CONJ	און	AvN	_
+37	in	P	אין	AyN	_
+38	dem	D	דעם	deM	_
+39	publitsistishn	ADJ	פּובליציסטישן	pvblyqysty$N	_
+40	artikl	N	אַרטיקל	Aartykl	_
+41	,	PUNC	,	,	_
+42	tsi	CONJ	צי	qy	_
+43	in	P	אין	AyN	_
+44	der	D	דער	der	_
+45	visnshaftlekher	ADJ	װיסנשאַפֿטלעכער	Vysn$Aaftlexer	_
+46	fraze	N	פֿראַזע	frAaze	_
+47	.	PUNC	.	.	_
+
+SENT	1946E-MARK,15.456
+1	vegn	P	װעגן	VegN	_
+2	andere	ADJ	אַנדערע	Aandere	_
+3	problemen	N	פּראָבלעמען	prAoblemeN	_
+4	fun	P	פֿון	fvN	_
+5	verter-sdr	N	װערטער-סדר	Verter-sdr	_
+6	in	P	אין	AyN	_
+7	yidishn	ADJ	ייִדישן	yyidy$N	_
+8	zats	N	זאַץ	zAaQ	_
+9	-	PUNC	-	-	_
+10	in	P	אין	AyN	_
+11	di	D	די	dy	_
+12	veyterdike	ADJ	װײטערדיקע	VYterdyke	_
+13	numern	N	נומערן	nvmerN	_
+14	yidishe	ADJ	ייִדישע	yyidy$e	_
+15	shprakh	N	שפּראַך	$prAaX	_
+16	.	PUNC	.	.	_
+

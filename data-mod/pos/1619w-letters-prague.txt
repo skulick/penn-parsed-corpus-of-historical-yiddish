@@ -1,0 +1,945 @@
+SENT	1619W-LETTERS-PRAGUE,30.3
+1	bekitser	ADV	בקיצור	bkyqvr	_
+2	,	PUNC	,	,	_
+3	libe	ADJ	ליבע	lybe	_
+4	shvegerin	N	שװעגערין	$VegeryN	_
+5	,	PUNC	,	,	_
+6	vis	VBI	װיס	Vys	_
+7	,	PUNC	,	,	_
+8	dos	C	דאָס	dAos	_
+9	mir	PRO	מיר	myr	_
+10	hoben	HVF	האָבען	hAobeN	_
+11	dayne	PRO$	דײַנע	dYane	_
+12	ksove{m}	N	קסאָװע{מ}	ksAoVe{m}	_
+13	mekabel	RP-H	מעקאַבעל	mekAabel	_
+14	gevezen	VBN	געװעזען	geVezeN	_
+
+SENT	1619W-LETTERS-PRAGUE,30.4
+1	mir	PRO	מיר	myr	_
+2	zayn	BEF	זײַן	zYaN	_
+3	zer	ADV	זער	zer	_
+4	der_shroken	VBN	דער_שראָקען	der_$rAokeN	_
+5	fun	P	פֿון	fvN	_
+6	vegen	N	װעגען	VegeN	_
+7	di	D	די	dy	_
+8	psure_roy	N	פּסורע_רױ	psvre_rW	news_harm
+9	bavoynoysenu	H	באַװױנױסענו	bAaVWnWsenv	for_sins_our
+10	horabem	H	האָראַבעם	hAorAabeM	the_many
+11	,	PUNC	,	,	_
+12	az	C	אַז	Aaz	_
+13	do	ADV	דאָ	dAo	_
+14	iz	BEF	איז	Ayz	_
+15	nifter	RP-H	ניפֿטר	nyftr	_
+16	gevorn	VBN	געװאָרן	geVAorN	_
+17	ben	NPR	בן	bN	_
+18	akhenu	NPR	אַכענו	Aaxenv	_
+19	borekh	H	ברוך	brvX	blessed
+20	dayn	PRO$	דײַן	dYaN	_
+21	emes	N	אמת	AmS	_
+22	.	PUNC	.	.	_
+
+SENT	1619W-LETTERS-PRAGUE,30.5
+1	men	QR	מען	meN	_
+2	zayn	BEF	זײַן	zYaN	_
+3	mir	PRO	מיר	myr	_
+4	zer	ADV	זער	zer	_
+5	der_shroken	VBN	דער_שראָקען	der_$rAokeN	_
+6	makhmes	P	מחמת	mHmS	_
+7	ipesh	N	עיפּוש	eypv$	_
+8	.	PUNC	.	.	_
+
+SENT	1619W-LETTERS-PRAGUE,30.6
+1	ikh	PRO	איך	AyX	_
+2	hob	HVF	האָב	hAob	_
+3	bedey	N	בעדײ	bedY	_
+4	gehat	VBN	געהאַט	gehAat	_
+5	ahin	ADV	אַהין	AahyN	_
+6	tsu	TO	צו	qv	_
+7	tsien	VB	ציון	qyvN	_
+8	mit	P	מיט	myt	_
+9	m{ayne}	PRO$	מ{אײַנע}	m{AYane}	_
+10	kind{er}likh	N	קינד{ער}ליך	kynd{er}lyX	_
+11	,	PUNC	,	,	_
+12	got	NPR	גאָט	gAot	_
+13	behit	VBF	בעהיט	behyt	_
+14	zey	PRO	זײ	zY	_
+15	.	PUNC	.	.	_
+
+SENT	1619W-LETTERS-PRAGUE,30.7
+1	nun	INTJ	נ	n	_
+2	vayl	C	װײַל	VYal	_
+3	es	PRO	עס	es	_
+4	azoy	ADV	אַזױ	AazW	_
+5	tsu	RP	צו	qv	_
+6	get	VBF	גט	gt	_
+7	kan	MDF	ק"ן	k"N	_
+8	es	PRO	עס	es	_
+9	nit	NEG	ניט	nyt	_
+10	zayn	VB	זײַן	zYaN	_
+11	.	PUNC	.	.	_
+
+SENT	1619W-LETTERS-PRAGUE,30.8
+1	vil	MDF	װיל	Vyl	_
+2	es	PRO	עס	es	_
+3	shemisborekh	H	שעמיסבאָרעך	$emysbAoreX	name_may_be_blessed
+4	befelen	VB	בעפֿעלען	befeleN	_
+5	.	PUNC	.	.	_
+
+SENT	1619W-LETTERS-PRAGUE,30.9
+1	akh	ADV	אַך	AaX	_
+2	hoben	HVF	האָבען	hAobeN	_
+3	mir	PRO	מיר	myr	_
+4	nokh	ADV	נאָך	nAoX	_
+5	an	D	אַן	AaN	_
+6	ksav	N	כּתבֿ	KS~	_
+7	mekabel	RP-H	מעקאַבעל	mekAabel	_
+8	gevezen	VBN	געװעזען	geVezeN	_
+9	aliede	H	אַליִעדע	Aalyiede	on_hands
+10	sliekh	H	סליִעך	slyieX	messenger
+
+SENT	1619W-LETTERS-PRAGUE,30.10
+1	akh	ADV	אַך	AaX	_
+2	zayn	VBF	זײַן	zYaN	_
+3	mir	PRO	מיר	myr	_
+4	zikh	PRO	זיך	zyX	_
+5	zer	ADV	זער	zer	_
+6	metsaer	RP-H	מצער	mqer	_
+7	az	C	אַז	Aaz	_
+8	du	PRO	דו	dv	_
+9	dikh	PRO	דיך	dyX	_
+10	bavoynoysenu	H	באַװױנױסענו	bAaVWnWsenv	for_sins_our
+11	horabem	H	האָראַבעם	hAorAabeM	the_many
+12	muzt	MDF	מוזט	mvzt	_
+13	azoy	ADV	אַזױ	AazW	_
+14	geneten	VB	גענעטען	geneteN	_
+
+SENT	1619W-LETTERS-PRAGUE,30.11
+1	ober	CONJ	אָבער	Aober	_
+2	vos	WPRO	װאָס	VAos	_
+3	zol	MDF	זאָל	zAol	_
+4	man	PRO	מאַן	mAaN	_
+5	ton	VB	טאָן	tAoN	_
+6	?	PUNC	?	?	_
+
+SENT	1619W-LETTERS-PRAGUE,30.12
+1	ikh	PRO	איך	AyX	_
+2	hob	HVF	האָב	hAob	_
+3	mayn	PRO$	מײַן	mYaN	_
+4	bruder	N	ברודער	brvder	_
+5	gor	ADV	גאָר	gAor	_
+6	zer	ADV	זער	zer	_
+7	gekiplt	VBN	געקיפּלט	gekyplt	_
+8	vi	WADV	װי	Vy	_
+9	man	PRO	מאַן	mAaN	_
+10	in	PRO	אין	AyN	_
+11	hot	HVF	האָט	hAot	_
+12	auf	RP	אַוף	AavF	_
+13	genumen	VBN	גענומען	genvmeN	_
+
+SENT	1619W-LETTERS-PRAGUE,30.13
+1	er	PRO	ער	er	_
+2	zol	MDF	זאָל	zAol	_
+3	dikh	PRO	דיך	dyX	_
+4	her	RP-ADV	הער	her	_
+5	nemen	VB	נעמען	nemeN	_
+
+SENT	1619W-LETTERS-PRAGUE,30.14
+1	hot	HVF	האָט	hAot	_
+2	er	PRO	ער	er	_
+3	klal	H	כּלל	Kll	general
+4	uklal	H	אוקלאַל	AvklAal	and_general
+5	nit	NEG	ניט	nyt	_
+6	gevelt	VBN	געװעלט	geVelt	_
+7	.	PUNC	.	.	_
+
+SENT	1619W-LETTERS-PRAGUE,30.15
+1	ikh	PRO	איך	AyX	_
+2	hob	HVF	האָב	hAob	_
+3	imer_tsu	ADV	אימער_צו	Aymer_qv	_
+4	gezogt	VBN	געזאָגט	gezAogt	_
+5	vi	WADV	װי	Vy	_
+6	viltn	MDF	װילטן	VyltN	_
+7	on	P	אָן	AoN	_
+8	vayb	N	װײַב	VYab	_
+9	hauzen	VB	האַוזען	hAavzeN	_
+10	?	PUNC	?	?	_
+
+SENT	1619W-LETTERS-PRAGUE,30.16
+1	ober	CONJ	אָבער	Aober	_
+2	hits	X	היץ	hyQ	_
+3	iz	VBF	איז	Ayz	_
+4	mayn	X	מײַן	mYaN	_
+5	dey	X	דײ	dY	_
+6	gor_nit	NEG	גאָר_ניט	gAor_nyt	_
+
+SENT	1619W-LETTERS-PRAGUE,30.17
+1	un	CONJ	און	AvN	_
+2	akh	ADV	אַך	AaX	_
+3	die	D	דיִע	dyie	_
+4	gants	ADJ	גאַנץ	gAanQ	_
+5	mishpokhe	N	משפּחה	m$pHh	_
+6	,	PUNC	,	,	_
+7	got	NPR	גאָט	gAot	_
+8	behit	VBF	בעהיט	behyt	_
+9	zey	PRO	זײ	zY	_
+10	,	PUNC	,	,	_
+11	zayn	VBF	זײַן	zYaN	_
+12	akh	ADV	אַך	AaX	_
+13	dervider	DR+P	דערװידער	derVyder	_
+14	,	PUNC	,	,	_
+15	in	P	אין	AyN	_
+16	an	D	אַן	AaN	_
+17	zelkhen	ADJ	זעלכען	zelxeN	_
+18	rash	N	רעש	re$	_
+19	,	PUNC	,	,	_
+
+SENT	1619W-LETTERS-PRAGUE,30.18
+1	es	ES	עס	es	_
+2	tsit	VBF	ציט	qyt	_
+3	avek	ADV	אַװעק	AaVek	_
+4	ver	WPRO	װער	Ver	_
+5	nor	FP	נאָר	nAor	_
+6	kan	MDF	ק"ן	k"N	_
+7	zayn	PRO$	זײַן	zYaN	_
+8	gezind	N	געזינד	gezynd	_
+9	farshiken	VB	פֿאַרשיקען	fAar$ykeN	_
+
+SENT	1619W-LETTERS-PRAGUE,30.19
+1	nun	INTJ	נ	n	_
+2	vi	WADV	װי	Vy	_
+3	vil	MDF	װיל	Vyl	_
+4	tu	PRO	טו	tv	_
+5	,	PUNC	,	,	_
+6	mayn	PRO$	מײַן	mYaN	_
+7	herts-libe	ADJ	הערץ-ליבע	herQ-lybe	_
+8	shvegerin	N	שװעגערין	$VegeryN	_
+9	,	PUNC	,	,	_
+10	dir	PRO	דיר	dyr	_
+11	in	P	אין	AyN	_
+12	an	D	אַן	AaN	_
+13	zin	N	זין	zyN	_
+14	nemen	VB	נעמען	nemeN	_
+15	in	P	אין	AyN	_
+16	an	D	אַן	AaN	_
+17	zelkhen	ADJ	זעלכען	zelxeN	_
+18	vezen	N	װעזען	VezeN	_
+19	her	RP-ADV	הער	her	_
+20	tsu	TO	צו	qv	_
+21	kumen	VB	קומען	kvmeN	_
+
+SENT	1619W-LETTERS-PRAGUE,30.20
+1	ans	LS	אַנס	Aans	_
+2	:	PUNC	:	:	_
+3	man	PRO	מאַן	mAaN	_
+4	lozt	VBF	לאָזט	lAozt	_
+5	niment	Q	נימענט	nyment	_
+6	ayn	RP	אײַן	AYaN	_
+
+SENT	1619W-LETTERS-PRAGUE,30.21
+1	di	D	די	dy	_
+2	layt	N	לײַט	lYat	_
+3	di	WPRO	די	dy	_
+4	do	ADV	דאָ	dAo	_
+5	zayn	BEF	זײַן	zYaN	_
+6	her	RP-ADV	הער	her	_
+7	kumen	VBN	קומען	kvmeN	_
+8	bele	NPR	בעלע	bele	_
+9	ir	PRO$	איר	Ayr	_
+10	tokhter	N	טאָכטער	tAoxter	_
+11	un	CONJ	און	AvN	_
+12	di	WPRO	די	dy	_
+13	mit	P	מיט	myt	_
+14	ir	PRO	איר	Ayr	_
+15	zayn	BEF	זײַן	zYaN	_
+16	kumen	VBN	קומען	kvmeN	_
+17	di	D	די	dy	_
+18	hot	HVF	האָט	hAot	_
+19	man	PRO	מאַן	mAaN	_
+20	nit	NEG	ניט	nyt	_
+21	velen	MDN-IPP	װעלען	VeleN	_
+22	ayn	RP	אײַן	AYaN	_
+23	lozen	VB	לאָזען	lAozeN	_
+
+SENT	1619W-LETTERS-PRAGUE,30.22
+1	hoben	HVF	האָבען	hAobeN	_
+2	muzen	MDN-IPP	מוזען	mvzeN	_
+3	3	NUM	3	3	_
+4	yome{m}	N	יאָמע{מ}	yAome{m}	_
+5	auf	P	אַוף	AavF	_
+6	den	D	דען	deN	_
+7	bes	H	בעס	bes	house
+8	khayem	H	כײַעם	xYaeM	life
+9	ligen	VB	ליגען	lygeN	_
+
+SENT	1619W-LETTERS-PRAGUE,30.23
+1	dernokh	DR+P	דערנאָך	dernAoX	_
+2	hoben	HVF	האָבען	hAobeN	_
+3	zey	PRO	זײ	zY	_
+4	gor	ADV	גאָר	gAor	_
+5	avek	ADV	אַװעק	AaVek	_
+6	muzen	MDN-IPP	מוזען	mvzeN	_
+7	tsien	VB	ציון	qyvN	_
+8	,	PUNC	,	,	_
+9	mit	P	מיט	myt	_
+10	an_gezind	N	אַנ_געזינד	Aan_gezynd	_
+11	un	CONJ	און	AvN	_
+12	mit	P	מיט	myt	_
+13	kinder	N	קינדער	kynder	_
+14	auf	P	אַוף	AavF	_
+15	den	D	דען	deN	_
+16	veg	N	װעג	Veg	_
+17	legen	VB	לעגען	legeN	_
+
+SENT	1619W-LETTERS-PRAGUE,30.24
+1	akh	ADV	אַך	AaX	_
+2	hot	HVF	האָט	hAot	_
+3	man	PRO	מאַן	mAaN	_
+4	zey	PRO	זײ	zY	_
+5	begazel{t}	VBN	בעגאַזעל{ט}	begAazel{t}	_
+
+SENT	1619W-LETTERS-PRAGUE,30.25
+1	man	PRO	מאַן	mAaN	_
+2	hot	HVF	האָט	hAot	_
+3	zey	PRO	זײ	zY	_
+4	velen	MDN-IPP	װעלען	VeleN	_
+5	gor	ADV	גאָר	gAor	_
+6	in	P	אין	AyN	_
+7	leger	N	לעגער	leger	_
+8	firen	VB	פֿירען	fyreN	_
+
+SENT	1619W-LETTERS-PRAGUE,30.26
+1	iz	VBF	איז	Ayz	_
+2	gor	ADV	גאָר	gAor	_
+3	fil	Q	פֿיל	fyl	_
+4	derfun	DR+P	דערפֿון	derfvN	_
+5	tsun	TO	צון	qvN	_
+6	shrayben	VB	שרײַבען	$rYabeN	_
+
+SENT	1619W-LETTERS-PRAGUE,30.27
+1	iz	BEF	איז	Ayz	_
+2	gor	ADV	גאָר	gAor	_
+3	tsu	ADV	צו	qv	_
+4	fil	Q	פֿיל	fyl	_
+5	fun	P	פֿון	fvN	_
+6	beyle	NPR	בײלע	bYle	_
+7	gev{ezen}	VBN	געװ{עזען}	geV{ezeN}	_
+8	az	C	אַז	Aaz	_
+9	zi	PRO	זי	zy	_
+10	hot	HVF	האָט	hAot	_
+11	di	D	די	dy	_
+12	tokhter	N	טאָכטער	tAoxter	_
+13	in	P	אין	AyN	_
+14	an	D	אַן	AaN	_
+15	zelkhen	ADJ	זעלכען	zelxeN	_
+16	vezen	N	װעזען	VezeN	_
+17	her	RP-ADV	הער	her	_
+18	geshikt	VBN	געשיקט	ge$ykt	_
+
+SENT	1619W-LETTERS-PRAGUE,30.28
+1	zi	PRO	זי	zy	_
+2	hot	HVF	האָט	hAot	_
+3	skhus	H	זכות	zxvS	merits
+4	oves	H	אָבֿות	Ao~vS	parents
+5	genosen	VBN	גענאָסען	genAoseN	_
+
+SENT	1619W-LETTERS-PRAGUE,30.29
+1	ver	WPRO	װער	Ver	_
+2	nit	NEG	ניט	nyt	_
+3	kan	MDF	ק"ן	k"N	_
+4	derfun	DR+P	דערפֿון	derfvN	_
+5	reden	VB	רעדען	redeN	_
+6	,	PUNC	,	,	_
+7	der	D	דער	der	_
+8	kan	MDF	ק"ן	k"N	_
+9	nit	NEG	ניט	nyt	_
+10	leben	VB	לעבען	lebeN	_
+11	.	PUNC	.	.	_
+
+SENT	1619W-LETTERS-PRAGUE,30.30
+1	nun	INTJ	נ	n	_
+2	,	PUNC	,	,	_
+3	mayn	PRO$	מײַן	mYaN	_
+4	herts-libe	ADJ	הערץ-ליבע	herQ-lybe	_
+5	shvegerin	N	שװעגערין	$VegeryN	_
+6	,	PUNC	,	,	_
+7	ikh	PRO	איך	AyX	_
+8	bit	VBF	ביט	byt	_
+9	dikh	PRO	דיך	dyX	_
+10	gor	ADV	גאָר	gAor	_
+11	zer	ADV	זער	zer	_
+12	un	CONJ	און	AvN	_
+13	zer	ADV	זער	zer	_
+
+SENT	1619W-LETTERS-PRAGUE,30.31
+1	un	CONJ	און	AvN	_
+2	nem	VBI	נעם	neM	_
+3	dir	PRO	דיר	dyr	_
+4	nit	NEG	ניט	nyt	_
+5	zelkhe	ADJ	זעלכע	zelxe	_
+6	um_glaykhe	ADJ	אומ_גלײַכע	Avm_glYaxe	_
+7	drokhem	N	דראָכעם	drAoxeM	_
+8	fir	RP	פֿיר	fyr	_
+9	vos	C	װאָס	VAos	_
+10	nit	NEG	ניט	nyt	_
+11	miglekh	ADJ	מיגלעך	mygleX	_
+12	iz	VBF	איז	Ayz	_
+
+SENT	1619W-LETTERS-PRAGUE,30.32
+1	ven	C	װען	VeN	_
+2	es	PRO	עס	es	_
+3	nor	FP	נאָר	nAor	_
+4	an	D	אַן	AaN	_
+5	miglekh_kat	N	מיגלעכ_קאַט	myglex_kAat	_
+6	ver	VBF	װער	Ver	_
+7	velt	MDF	װעלט	Velt	_
+8	mayn	PRO$	מײַן	mYaN	_
+9	bruder	N	ברודער	brvder	_
+10	kan	Q	ק"ן	k"N	_
+11	menukhe	N	מנוחה	mnvHh	_
+12	lozen	VB	לאָזען	lAozeN	_
+
+SENT	1619W-LETTERS-PRAGUE,30.33
+1	er	PRO	ער	er	_
+2	muzet	MDF	מוזעט	mvzet	_
+3	dikh	PRO	דיך	dyX	_
+4	her	RP-ADV	הער	her	_
+5	nemen	VB	נעמען	nemeN	_
+6	vi	WADV	װי	Vy	_
+7	i{kh}	PRO	אי{כ}	Ay{x}	_
+8	for	ADV	פֿאָר	fAor	_
+9	mit	P	מיט	myt	_
+10	gantser	ADJ	גאַנצער	gAanqer	_
+11	makht	N	מאַכט	mAaxt	_
+12	hob	HVF	האָב	hAob	_
+13	velen	MDN-IPP	װעלען	VeleN	_
+14	hoben	VB	האָבען	hAobeN	_
+15	er	PRO	ער	er	_
+16	zol	MDF	זאָל	zAol	_
+17	dikh	PRO	דיך	dyX	_
+18	her	RP-ADV	הער	her	_
+19	nemen	VB	נעמען	nemeN	_
+
+SENT	1619W-LETTERS-PRAGUE,30.34
+1	azoy	ADV	אַזױ	AazW	_
+2	bin	VBF	בין	byN	_
+3	ikh	PRO	איך	AyX	_
+4	hits	X	היץ	hyQ	_
+5	der_vider	DR+P	דער_װידער	der_Vyder	_
+
+SENT	1619W-LETTERS-PRAGUE,30.35
+1	ikh	PRO	איך	AyX	_
+2	hob	VBF	האָב	hAob	_
+3	zelber	ADV	זעלבער	zelber	_
+4	bedey	N	בעדײ	bedY	_
+5	mit	P	מיט	myt	_
+6	mayn	PRO$	מײַן	mYaN	_
+7	shvoger	N	שװאָגער	$VAoger	_
+8	reb	NPR	ר'	r'	_
+9	shloyme	NPR	שלמה	$lmh	_
+10	in	P	אין	AyN	_
+11	poylen	NPR	פּױלען	pWleN	_
+12	tsu	TO	צו	qv	_
+13	tsien	VB	ציון	qyvN	_
+14	.	PUNC	.	.	_
+
+SENT	1619W-LETTERS-PRAGUE,30.36
+1	nit	NEG	ניט	nyt	_
+2	ikh	PRO	איך	AyX	_
+3	alan	ADV	אַלאַן	AalAaN	_
+4	,	PUNC	,	,	_
+5	andere	ADJ	אַנדערע	Aandere	_
+6	le{yt}	N	לע{יט}	le{yt}	_
+7	men	QR	מען	meN	_
+8	,	PUNC	,	,	_
+9	di	WPRO	די	dy	_
+10	nor	FP	נאָר	nAor	_
+11	kenen	MDF	קענען	keneN	_
+12	ob	RP	אָב	Aob	_
+13	kumen	VB	קומען	kvmeN	_
+
+SENT	1619W-LETTERS-PRAGUE,30.37
+1	ikh	PRO	איך	AyX	_
+2	vas	VBF	װאַס	VAas	_
+3	voyl	ADV	װױל	VWl	_
+4	,	PUNC	,	,	_
+5	az	C	אַז	Aaz	_
+6	du	PRO	דו	dv	_
+7	dikh	PRO	דיך	dyX	_
+8	zer	ADV	זער	zer	_
+9	muzt	MDF	מוזט	mvzt	_
+10	geneten	VB	גענעטען	geneteN	_
+
+SENT	1619W-LETTERS-PRAGUE,30.38
+1	vos	WPRO	װאָס	VAos	_
+2	zol	MDF	זאָל	zAol	_
+3	man	PRO	מאַן	mAaN	_
+4	ton	VB	טאָן	tAoN	_
+5	?	PUNC	?	?	_
+
+SENT	1619W-LETTERS-PRAGUE,30.39
+1	shemisborekh	H	שעמיסבאָרעך	$emysbAoreX	name_may_be_blessed
+2	zol	MDF	זאָל	zAol	_
+3	es	PRO	עס	es	_
+4	amol	ADV	אַמאָל	AamAol	_
+5	beser	ADJ	בעסער	beser	_
+6	makhen	VB	מאַכען	mAaxeN	_
+7	az	P	אַז	Aaz	_
+8	vi	WADV	װי	Vy	_
+9	mir	PRO	מיר	myr	_
+10	hofen	VBF	האָפֿען	hAofeN	_
+
+SENT	1619W-LETTERS-PRAGUE,31.41
+1	libes	ADJ	ליבעס	lybes	_
+2	herts	N	הערץ	herQ	_
+3	,	PUNC	,	,	_
+4-5	am	P~D	עם	eM	_
+4	a	P	אַ	Aa	_
+5	m	D	מ	m	_
+6	yo{m}	H	יאָ{מ}	yAo{m}	day
+7	b{es}	H	ב{עס}	b{es}	2
+8	,	PUNC	,	,	_
+9	e	C	ע	e	_
+10	der	D	דער	der	_
+11	sliekh	N	סליִעך	slyieX	_
+12	iz	BEF	איז	Ayz	_
+13	kumen	VBN	קומען	kvmeN	_
+14	zoy	ADV	זױ	zW	_
+15	iz	BEF	איז	Ayz	_
+16	bele	NPR	בעלע	bele	_
+17	tokhter	N	טאָכטער	tAoxter	_
+18	kumen	VBN	קומען	kvmeN	_
+19	un	CONJ	און	AvN	_
+20	maatle	NPR	מאַאַטלע	mAaAatle	_
+
+SENT	1619W-LETTERS-PRAGUE,31.42
+1	un	CONJ	און	AvN	_
+2	hob{en}	HVF	האָב{ען}	hAob{eN}	_
+3	mir	PRO	מיר	myr	_
+4	kan	Q	ק"ן	k"N	_
+5	briv	N	בריװ	bryV	_
+6	gebrakht	VBN	געבראַכט	gebrAaxt	_
+7	,	PUNC	,	,	_
+
+SENT	1619W-LETTERS-PRAGUE,31.43
+1	zoy	ADV	זױ	zW	_
+2	bin	BEF	בין	byN	_
+3	ikh	PRO	איך	AyX	_
+4	shir	ADV	שיר	$yr	_
+5	gebliben	VBN	געבליבען	geblybeN	_
+
+SENT	1619W-LETTERS-PRAGUE,31.44
+1	zoy	ADV	זױ	zW	_
+2	hoben	HVF	האָבען	hAobeN	_
+3	zey	PRO	זײ	zY	_
+4	mir	PRO	מיר	myr	_
+5	geshvoyre{n}	VBN	געשװױרע{נ}	ge$VWre{n}	_
+6	dos	C	דאָס	dAos	_
+7	ets	PRO	עץ	eQ	_
+8	lang	ADV	לאַנג	lAang	_
+9	mit	P	מיט	myt	_
+10	lib	N	ליב	lyb	_
+11	al	Q	אַל	Aal	_
+12	gezunt	ADJ	געזונט	gezvnt	_
+13	zayt	VBF	זײַט	zYat	_
+
+SENT	1619W-LETTERS-PRAGUE,31.45
+1	zoy	ADV	זױ	zW	_
+2	hob	HVF	האָב	hAob	_
+3	ikh	PRO	איך	AyX	_
+4	mikh	PRO	מיך	myX	_
+5	an	D	אַן	AaN	_
+6	venik	Q	װעניק	Venyk	_
+7	benugen	VB	בענוגען	benvgeN	_
+8	gelozen	VBN	געלאָזען	gelAozeN	_
+
+SENT	1619W-LETTERS-PRAGUE,31.46
+1	di	D	די	dy	_
+2	gants	ADJ	גאַנץ	gAanQ	_
+3	kile	N	קילע	kyle	_
+4	kan	MDF	ק"ן	k"N	_
+5	zikh	PRO	זיך	zyX	_
+6	nit	NEG	ניט	nyt	_
+7	genugen	Q	גענוגען	genvgeN	_
+8	for_vundern	VB	פֿאָר_װוּנדערן	fAor_VUnderN	_
+9	dos	C	דאָס	dAos	_
+10	man	PRO	מאַן	mAaN	_
+11	di	D	די	dy	_
+12	mad	N	מאַד	mAad	_
+13	itsunder	ADV	איצונדער	Ayqvnder	_
+14	hot	HVF	האָט	hAot	_
+15	her	RP-ADV	הער	her	_
+16	geshikt	VBN	געשיקט	ge$ykt	_
+
+SENT	1619W-LETTERS-PRAGUE,31.47
+1	iz	BEF	איז	Ayz	_
+2	ir	PRO	איר	Ayr	_
+3	gena	ADV	גענאַ	genAa	_
+4	genugen	Q	גענוגען	genvgeN	_
+5	gangen	VBN	גאַנגען	gAangeN	_
+
+SENT	1619W-LETTERS-PRAGUE,31.48
+1	zi	PRO	זי	zy	_
+2	ver	BEF	װער	Ver	_
+3	shir	ADV	שיר	$yr	_
+4	in	P	אין	AyN	_
+5	s	D	ס	s	_
+6	leger	N	לעגער	leger	_
+7	kumen	VBN	קומען	kvmeN	_
+8	het	HVF	העט	het	_
+9	zi	PRO	זי	zy	_
+10	nit	NEG	ניט	nyt	_
+11	mit	P	מיט	myt	_
+12	zikh	PRO	זיך	zyX	_
+13	gehat	VBN	געהאַט	gehAat	_
+14	ire	PRO$	אירע	Ayre	_
+15	zakhen	N	זאַכען	zAaxeN	_
+
+SENT	1619W-LETTERS-PRAGUE,31.49
+1	der_mit	DR+P	דער_מיט	der_myt	_
+2	hot	HVF	האָט	hAot	_
+3	zi	PRO	זי	zy	_
+4	zikh	PRO	זיך	zyX	_
+5	,	PUNC	,	,	_
+6	got	NPR	גאָט	gAot	_
+7	tsu_for	ADV	צו_פֿאָר	qv_fAor	_
+8	,	PUNC	,	,	_
+9	aus	RP	אַוס	Aavs	_
+10	geleyzt	VBN	געלײזט	gelYzt	_
+
+SENT	1619W-LETTERS-PRAGUE,31.50
+1	ver	BEF	װער	Ver	_
+2	ober	ADV	אָבער	Aober	_
+3	kan	Q	ק"ן	k"N	_
+4	vunder	N	װוּנדער	VUnder	_
+5	gevezen	VBN	געװעזען	geVezeN	_
+6	azoy	ADV	אַזױ	AazW	_
+7	an	D	אַן	AaN	_
+8	frevel	N	פֿרעװעל	freVel	_
+9	!	PUNC	!	!	_
+
+SENT	1619W-LETTERS-PRAGUE,31.51
+1	zi	PRO	זי	zy	_
+2	hot	HVF	האָט	hAot	_
+3	gevis	ADV	געװיס	geVys	_
+4	skhus	H	זכות	zxvS	merits
+5	oves	H	אָבֿות	Ao~vS	parents
+6	genosen	VBN	גענאָסען	genAoseN	_
+
+SENT	1619W-LETTERS-PRAGUE,31.52
+1	erst	ADV	ערסט	erst	_
+2	hot	HVF	האָט	hAot	_
+3	man	PRO	מאַן	mAaN	_
+4	zi	PRO	זי	zy	_
+5	hi	ADV	הי	hy	_
+6	nit	NEG	ניט	nyt	_
+7	vel{en}	MDN-IPP	װעל{ען}	Vel{eN}	_
+8	ayn	RP	אײַן	AYaN	_
+9	lozen	VB	לאָזען	lAozeN	_
+
+SENT	1619W-LETTERS-PRAGUE,31.53
+1	iz	X	איז	Ayz	_
+2	tsu	P	צו	qv	_
+3	libene	X	ליבענע	lybene	_
+4	,	PUNC	,	,	_
+5	den	CONJ	דען	deN	_
+6	dos	D	דאָס	dAos	_
+7	kol	N	קול	kvl	_
+8	get	VBF	גט	gt	_
+9	vi	C	װי	Vy	_
+10	khas	H	חס	Hs	have_mercy
+11	vesholem	H	װעשאָלעם	Ve$AoleM	and_peace
+12	groyser	ADJ	גרױסער	grWser	_
+13	aver	N	אַװיר	AaVyr	_
+14	ver	VBF	װער	Ver	_
+15	,	PUNC	,	,	_
+
+SENT	1619W-LETTERS-PRAGUE,31.54
+1	man	PRO	מאַן	mAaN	_
+2	hot	HVF	האָט	hAot	_
+3	di	D	די	dy	_
+4	mad	N	מאַד	mAad	_
+5	drum	DR+P	דרום	drvM	_
+6	her	RP-ADV	הער	her	_
+7	geshikt	VBN	געשיקט	ge$ykt	_
+
+SENT	1619W-LETTERS-PRAGUE,31.55
+1	drum	DR+P	דרום	drvM	_
+2	for_langt	VBF	פֿאָר_לאַנגט	fAor_lAangt	_
+3	mikh	PRO	מיך	myX	_
+4	,	PUNC	,	,	_
+5	biz	C	ביז	byz	_
+6	ikh	PRO	איך	AyX	_
+7	ver	RDF	װער	Ver	_
+8	mertseshem	H	אם-ירצה-השם	AM-yrqh-h$M	willing_name
+9	vider	ADV	װידער	Vyder	_
+10	briv	N	בריװ	bryV	_
+11	fun	P	פֿון	fvN	_
+12	enk	PRO	ענק	enk	_
+13	hoben	VB	האָבען	hAobeN	_
+14	.	PUNC	.	.	_
+
+SENT	1619W-LETTERS-PRAGUE,31.56
+1	libes	ADJ	ליבעס	lybes	_
+2	herts	N	הערץ	herQ	_
+3	,	PUNC	,	,	_
+4	az	C	אַז	Aaz	_
+5	du	PRO	דו	dv	_
+6	shraybst	VBF	שרײַבסט	$rYabst	_
+7	dos	C	דאָס	dAos	_
+8	do	ADV	דאָ	dAo	_
+9	fil	Q	פֿיל	fyl	_
+10	fremde	ADJ	פֿרעמדע	fremde	_
+11	layt	N	לײַט	lYat	_
+12	bay	P	בײַ	bYa	_
+13	enk	PRO	ענק	enk	_
+14	zayn	VBF	זײַן	zYaN	_
+15	iz	VBF	איז	Ayz	_
+16	kan	Q	ק"ן	k"N	_
+17	vunder	N	װוּנדער	VUnder	_
+18	,	PUNC	,	,	_
+
+SENT	1619W-LETTERS-PRAGUE,31.57
+1	zaynen	VBF	זײַנען	zYaneN	_
+2	hi	ADV	הי	hy	_
+3	akh	ADV	אַך	AaX	_
+4	shir	ADV	שיר	$yr	_
+5	azoy	ADV	אַזױ	AazW	_
+6	fil	Q	פֿיל	fyl	_
+7	az	P	אַז	Aaz	_
+8	hige	X	היגע	hyge	_
+9	.	PUNC	.	.	_
+
+SENT	1619W-LETTERS-PRAGUE,31.58
+1	vos	WPRO	װאָס	VAos	_
+2	zol	MDF	זאָל	zAol	_
+3	man	PRO	מאַן	mAaN	_
+4	tuen	VB	טוען	tveN	_
+5	?	PUNC	?	?	_
+
+SENT	1619W-LETTERS-PRAGUE,31.59
+1	vos	WPRO	װאָס	VAos	_
+2	shemisborekh	H	שעמיסבאָרעך	$emysbAoreX	name_may_be_blessed
+3	tut	VBF	טוט	tvt	_
+4	,	PUNC	,	,	_
+5	iz	BEF	איז	Ayz	_
+6	voyl	ADV	װױל	VWl	_
+7	geton	VAN	געטאָן	getAoN	_
+8	,	PUNC	,	,	_
+9	geloybt	VAN	געלױבט	gelWbt	_
+10	zey	BEF	זײ	zY	_
+11	er	PRO	ער	er	_
+12	.	PUNC	.	.	_
+
+SENT	1619W-LETTERS-PRAGUE,31.60
+1	zol	MDF	זאָל	zAol	_
+2	ikh	PRO	איך	AyX	_
+3	dir	PRO	דיר	dyr	_
+4	shrayben	VB	שרײַבען	$rYabeN	_
+5	,	PUNC	,	,	_
+6	vi	WADV	װי	Vy	_
+7	es	PRO	עס	es	_
+8	unz	PRO	אונז	Avnz	_
+9	geyt	VBF	גײט	gYt	_
+10	?	PUNC	?	?	_
+
+SENT	1619W-LETTERS-PRAGUE,31.61
+1	shemisborekh	H	שעמיסבאָרעך	$emysbAoreX	name_may_be_blessed
+2	zol	MDF	זאָל	zAol	_
+3	s	PRO	ס	s	_
+4	iber_al	ADV	איבער_אַל	Ayber_Aal	_
+5	gut	ADJ	גוט	gvt	_
+6	makhen	VB	מאַכען	mAaxeN	_
+
+SENT	1619W-LETTERS-PRAGUE,31.62
+1	mir	PRO	מיר	myr	_
+2	zaynen	BEF	זײַנען	zYaneN	_
+3	shmol	ADV	שמאָל	$mAol	_
+4	genugen	Q	גענוגען	genvgeN	_
+5	gestanden	VBN	געסטאַנדען	gestAandeN	_
+6	.	PUNC	.	.	_
+
+SENT	1619W-LETTERS-PRAGUE,31.63
+1	man	PRO	מאַן	mAaN	_
+2	iz	BEF	איז	Ayz	_
+3	an	D	אַן	AaN	_
+4	mol	N	מאָל	mAol	_
+5	ayn	RP	אײַן	AYaN	_
+6	gelofen	VBN	געלאָפֿען	gelAofeN	_
+
+SENT	1619W-LETTERS-PRAGUE,31.64
+1	iz	BEF	איז	Ayz	_
+2	borkh_ashem	H	באָרכ_אַשעם	bAorx_Aa$eM	blessed_the_name
+3	voyl	ADV	װױל	VWl	_
+4	aus	RP	אַוס	Aavs	_
+5	gangen	VBN	גאַנגען	gAangeN	_
+
+SENT	1619W-LETTERS-PRAGUE,31.65
+1	mir	PRO	מיר	myr	_
+2	hoben	HVF	האָבען	hAobeN	_
+3	skhus	H	זכות	zxvS	merits
+4	oves	H	אָבֿות	Ao~vS	parents
+5	genosen	VBN	גענאָסען	genAoseN	_
+
+SENT	1619W-LETTERS-PRAGUE,32.67
+1	ahuvi	H	אַהוּװי	AahUVy	beloved_my
+2	mekhutoni	H	מעכוטאָני	mexvtAony	father_in_law
+3	kmar	NPR	קמאַר	kmAar	_
+4	zanvel	NPR	זאַנװעל	zAanVel	_
+5	.	PUNC	.	.	_
+6	velt	MDF	װעלט	Velt	_
+7	aykh	PRO	אײַך	AYaX	_
+8	geren	ADV	גערען	gereN	_
+9	barikhes	N	באַריכות	bAaryxvS	_
+10	shrayben	VB	שרײַבען	$rYabeN	_
+11	.	PUNC	.	.	_
+
+SENT	1619W-LETTERS-PRAGUE,32.68
+1	kan	MDF	ק"ן	k"N	_
+2	nit	NEG	ניט	nyt	_
+3	visen	VB	װיסען	VyseN	_
+4	,	PUNC	,	,	_
+5	oyb	C	אױב	AWb	_
+6	di	D	די	dy	_
+7	ksove{m}	N	קסאָװע{מ}	ksAoVe{m}	_
+8	on	RP	אָן	AoN	_
+9	kumen	VBF	קומען	kvmeN	_
+
+SENT	1619W-LETTERS-PRAGUE,32.69
+1	dokh	ADV	דאָך	dAoX	_
+2	muz	MDF	מוז	mvz	_
+3	ikh	PRO	איך	AyX	_
+4	shuresay{em}	H	שורעסײַ{עם}	$vresYa{eM}	two_lines
+5	shrayben	VB	שרײַבען	$rYabeN	_
+6	,	PUNC	,	,	_
+7	dermit	C	דערמיט	dermyt	_
+8	ir	PRO	איר	Ayr	_
+9	s	PRO	ס	s	_
+10	akh	ADV	אַך	AaX	_
+11	tun	VB	טון	tvN	_
+12	zolt	MDF	זאָלט	zAolt	_
+
+SENT	1619W-LETTERS-PRAGUE,32.70
+1	un	CONJ	און	AvN	_
+2	bit	VBF	ביט	byt	_
+3	aykh	PRO	אײַך	AYaX	_
+
+SENT	1619W-LETTERS-PRAGUE,32.71
+1	vert	RDF	װערט	Vert	_
+2	aykh	PRO	אײַך	AYaX	_
+3	losen	VB	לאָסען	lAoseN	_
+4	mayne	PRO$	מײַנע	mYane	_
+5	kinder	N	קינדער	kynder	_
+6	befoylen	VAN	בעפֿױלען	befWleN	_
+7	zayn	BE	זײַן	zYaN	_
+
+SENT	1619W-LETTERS-PRAGUE,32.72
+1	akh	ADV	אַך	AaX	_
+2	kan	MDF	ק"ן	k"N	_
+3	ikh	PRO	איך	AyX	_
+4	denken	VB	דענקען	denkeN	_
+5	,	PUNC	,	,	_
+6	dos	C	דאָס	dAos	_
+7	itsunder	ADV	איצונדער	Ayqvnder	_
+8	di	D	די	dy	_
+9	mikhie	N	מיכיִע	myxyie	_
+10	tsu	P	צו	qv	_
+11	vin	NPR	װין	VyN	_
+12	akh	ADV	אַך	AaX	_
+13	nit	NEG	ניט	nyt	_
+14	iz	VBF	איז	Ayz	_
+15	vi	WADV	װי	Vy	_
+16	es	PRO	עס	es	_
+17	zayn	VB	זײַן	zYaN	_
+18	zol	MDF	זאָל	zAol	_
+
+SENT	1619W-LETTERS-PRAGUE,32.73
+1	vert	RDF	װערט	Vert	_
+2	ir	PRO	איר	Ayr	_
+3	zen	VB	זען	zeN	_
+4	,	PUNC	,	,	_
+5	beni	H	בעני	beny	son_my
+6	an	P	אַן	AaN	_
+7	on_stelung	N	אָנ_סטעלונג	Aon_stelvng	_
+8	helfen	VB	העלפֿען	helfeN	_
+9	,	PUNC	,	,	_
+10	dos	C	דאָס	dAos	_
+11	er	PRO	ער	er	_
+12	bay	P	בײַ	bYa	_
+13	den	D	דען	deN	_
+14	zeynigen	ADJ	זײניגען	zYnygeN	_
+15	blayben	VB	בלײַבען	blYabeN	_
+16	kan	MDF	ק"ן	k"N	_
+17	un	CONJ	און	AvN	_
+18	khas	H	חס	Hs	have_mercy
+19	vesholem	H	װעשאָלעם	Ve$AoleM	and_peace
+20	nit	NEG	ניט	nyt	_
+21	derum	DR+P	דערום	dervM	_
+22	kumt	VBF	קומט	kvmt	_
+23	.	PUNC	.	.	_
+
+SENT	1619W-LETTERS-PRAGUE,32.74
+1	akh	ADV	אַך	AaX	_
+2	fer_hof	VBF	פֿער_האָף	fer_hAoF	_
+3	ikh	PRO	איך	AyX	_
+4	,	PUNC	,	,	_
+5	ayer	PRO$	אײַער	AYaer	_
+6	tsu_zogen	N	צו_זאָגען	qv_zAogeN	_
+7	nokh	RP	נאָך	nAoX	_
+8	kumen	VB	קומען	kvmeN	_
+9	dos	C	דאָס	dAos	_
+10	ir	PRO	איר	Ayr	_
+11	in	PRO	אין	AyN	_
+12	velt	MDF	װעלט	Velt	_
+13	mehane	RP-H	מהנה	mhnh	_
+14	zayn	VB	זײַן	zYaN	_
+15	on	P	אָן	AoN	_
+16	hoytsoys	N	הױצױס	hWqWs	_
+
+SENT	1619W-LETTERS-PRAGUE,32.75
+1	fer_hof	VBF	פֿער_האָף	fer_hAoF	_
+2	,	PUNC	,	,	_
+3	ir	PRO	איר	Ayr	_
+4	tut	VBF	טוט	tvt	_
+5	un	CONJ	און	AvN	_
+6	tun	VB	טון	tvN	_
+7	vert	RDF	װערט	Vert	_
+8	.	PUNC	.	.	_
+
+SENT	1619W-LETTERS-PRAGUE,32.76
+1	fer_hof	VBF	פֿער_האָף	fer_hAoF	_
+2	,	PUNC	,	,	_
+3	iz	VBF	איז	Ayz	_
+4	aykh	PRO	אײַך	AYaX	_
+5	tsayes	N	צײַעס	qYaes	_
+
+SENT	1619W-LETTERS-PRAGUE,32.77
+1	veren	RDF	װערען	VereN	_
+2	mertseshem	H	אם-ירצה-השם	AM-yrqh-h$M	willing_name
+3	ovrem	H	אָװרעם	AoVreM	ones_who_go
+4	ve-shovem	H	װע-שאָװעם	Ve-$AoVeM	and_ones_who_return
+5	zayn	VB	זײַן	zYaN	_
+6	,	PUNC	,	,	_
+7	vil	MDF	װיל	Vyl	_
+8	ikh	PRO	איך	AyX	_
+9	barikhes	N	באַריכות	bAaryxvS	_
+10	shrayben	VB	שרײַבען	$rYabeN	_
+
+SENT	1619W-LETTERS-PRAGUE,32.78
+1	grist	VBI	גריסט	gryst	_
+2	zugoskhe	NPR	זוגתך	zvgSX	_
+3	fun	P	פֿון	fvN	_
+4	unzeren	PRO$	אונזערען	AvnzereN	_
+5	vegen	N	װעגען	VegeN	_
+6	.	PUNC	.	.	_
+
+SENT	1619W-LETTERS-PRAGUE,32.79
+1	volt	MDI	װאָלט	VAolt	_
+2	gutret	NPR	גוטרעט	gvtret	_
+3	befelen	VB	בעפֿעלען	befeleN	_
+4	,	PUNC	,	,	_
+5	dos	C	דאָס	dAos	_
+6	zi	PRO	זי	zy	_
+7	unz	PRO	אונז	Avnz	_
+8	akh	ADV	אַך	AaX	_
+9	shraybt	VBF	שרײַבט	$rYabt	_
+

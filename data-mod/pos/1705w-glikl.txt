@@ -1,0 +1,3074 @@
+SENT	1705W-GLIKL,1.3
+1	mir	PRO	מיר	myr	_
+2	visin	VBF	װיסין	VysyN	_
+3	daz	C	דאַז	dAaz	_
+4	hmkum	H	המקום	hmkvM	the_place
+5	b"h	H	ב"ה	b"h	blessed_he
+6	ub"s	H	אוב"ס	Avb"s	and_blessed_name_his
+7	alis	Q	אַליס	Aalys	_
+8	bishafin	VBN	בישאַפֿין	by$AafyN	_
+9	un	CONJ	און	AvN	_
+10	gitan	VBN	גיטאַן	gytAaN	_
+11	mit	P	מיט	myt	_
+12	eytil	ADJ	אײטיל	AYtyl	_
+13	khsd	H	כסד	xsd	loving-kindness
+14	urkhmim	H	אורכמים	AvrxmyM	and_mercy
+
+SENT	1705W-GLIKL,1.4
+1	ki	H	כּי	Ky	because
+2	hmkum	H	המקום	hmkvM	the_place
+3	b"h	H	ב"ה	b"h	blessed_he
+4	hat	VBF	האַט	hAat	_
+5	nit	NEG	ניט	nyt	_
+6	nitig	ADJ	ניטיג	nytyg	_
+7	eynis	PRO	אײניס	AYnys	_
+8	fun	P	פֿון	fvN	_
+9	zeyn	PRO$	זײן	zYN	_
+10	bishefnis	N	בישעפֿניס	by$efnys	_
+11	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,1.5
+1	abir	CONJ	אַביר	Aabyr	_
+2	das	C	דת	dS	_
+3	hs"i	H	הס"אי	hs"Ay	his_name_may_be_blessed
+4	zu	ADV	זו	zv	_
+5	fil_arley	Q	פֿיל_אַרלײ	fyl_AarlY	_
+6	hat	HVF	האַט	hAat	_
+7	bishafin	VBN	בישאַפֿין	by$AafyN	_
+8	izt	VBF	איזט	Ayzt	_
+9	alis	Q	אַליס	Aalys	_
+10	tsu	P	צו	qv	_
+11	zeynir	PRO$	זײניר	zYnyr	_
+12	grusi	ADJ	גרוסי	grvsy	_
+13	er	N	ער	er	_
+
+SENT	1705W-GLIKL,1.6
+1	un'	CONJ	אונ'	Avn'	_
+2	hat	HVF	האַט	hAat	_
+3	alis	Q	אַליס	Aalys	_
+4	mit	P	מיט	myt	_
+5	khsd	H	כסד	xsd	loving-kindness
+6	urkhmim	H	אורכמים	AvrxmyM	and_mercy
+7	bishafin	VBN	בישאַפֿין	by$AafyN	_
+8	daz	C	דאַז	dAaz	_
+9	es	PRO	עס	es	_
+10	uns	PRO	אונס	Avns	_
+11	zindige	ADJ	זינדיגע	zyndyge	_
+12	menshin	N	מענשין	men$yN	_
+13	alis	Q	אַליס	Aalys	_
+14	tsu	P	צו	qv	_
+15	nutts	N	נוטץ	nvtQ	_
+16	kumt	VBF	קומט	kvmt	_
+
+SENT	1705W-GLIKL,1.7
+1	dan	CONJ	דאַן	dAaN	_
+2	alis	Q	אַליס	Aalys	_
+3	vaz	WPRO	װאַז	VAaz	_
+4	bishafin	VAN	בישאַפֿין	by$AafyN	_
+5	izt	BEF	איזט	Ayzt	_
+6	kumt	VBF	קומט	kvmt	_
+7	uns	PRO	אונס	Avns	_
+8	menshin	N	מענשין	men$yN	_
+9	alis	Q	אַליס	Aalys	_
+10	tsu	P	צו	qv	_
+11	nuttsin	N	נוטצין	nvtqyN	_
+12	daz	C	דאַז	dAaz	_
+13	mir	PRO	מיר	myr	_
+14	menshin	N	מענשין	men$yN	_
+15	shunt	ADV	שונט	$vnt	_
+16	nit	NEG	ניט	nyt	_
+17	bigreyfin	VB	ביגרײפֿין	bygrYfyN	_
+18	udir	CONJ	אודיר	Avdyr	_
+19	bitrakhtin	VB	ביטראַכטין	bytrAaxtyN	_
+20	kenin	MDF	קענין	kenyN	_
+21	alis	P	אַליס	Aalys	_
+22	vi	C	װי	Vy	_
+23	dud	NPR	דוד	dvd	_
+24	hmlkh	H	המלך	hmlX	the_king
+25	e"h	H	ע"ה	e"h	on_him_peace
+26	gifragt	VBN	גיפֿראַגט	gyfrAagt	_
+27	hat	HVF	האַט	hAat	_
+28	vaur	WPRO	װאַור	VAavr	_
+29	tsu	P	צו	qv	_
+30	eyn	D	אײן	AYN	_
+31	nar	N	נאַר	nAar	_
+32	un'	CONJ	אונ'	Avn'	_
+33	eyn	D	אײן	AYN	_
+34	vespa	N	װעספּאַ	VespAa	_
+35	un'	CONJ	אונ'	Avn'	_
+36	eyn	D	אײן	AYN	_
+37	shpin	N	שפּין	$pyN	_
+38	izt	BEF	איזט	Ayzt	_
+39	bishafin	VAN	בישאַפֿין	by$AafyN	_
+40	vardin	RDN	װאַרדין	VAardyN	_
+
+SENT	1705W-GLIKL,1.8
+1	den	CONJ	דען	deN	_
+2	ihm	PRO	איהם	AyhM	_
+3	hat	HVF	האַט	hAat	_
+4	gidakht	VBN	גידאַכט	gydAaxt	_
+5	vaz	WPRO	װאַז	VAaz	_
+6	kumin	VBF	קומין	kvmyN	_
+7	di	D	די	dy	_
+8	dreyarley	NUM	דרײאַרלײ	drYAarlY	_
+9	tsu	P	צו	qv	_
+10	nuttsin	N	נוטצין	nvtqyN	_
+11	in	P	אין	AyN	_
+12	der	D	דער	der	_
+13	velt	N	װעלט	Velt	_
+
+SENT	1705W-GLIKL,1.9
+1	abir	CONJ	אַביר	Aabyr	_
+2	er	PRO	ער	er	_
+3	izt	BEF	איזט	Ayzt	_
+4	entlikh	ADV	ענטליך	entlyX	_
+5	givar	ADJ	גיװאַר	gyVAar	_
+6	vardin	VBN	װאַרדין	VAardyN	_
+7	daz	C	דאַז	dAaz	_
+8	ihm	PRO	איהם	AyhM	_
+9	zelbirt	ADV	זעלבירט	zelbyrt	_
+10	ali	Q	אַלי	Aaly	_
+11	dreyarli	NUM	דרײאַרלי	drYAarly	_
+12	zenin	BEF	זענין	zenyN	_
+13	tsu	P	צו	qv	_
+14	nuttsin	N	נוטצין	nvtqyN	_
+15	kumin	VBN	קומין	kvmyN	_
+16	un'	CONJ	אונ'	Avn'	_
+17	ihm	PRO	איהם	AyhM	_
+18	zeyn	PRO$	זײן	zYN	_
+19	khiut	N	כיִוט	xyivt	_
+20	gat	NPR	גאַט	gAat	_
+21	tsu_far	ADV	צו_פֿאַר	qv_fAar	_
+22	erhaltin	VBF	ערהאַלטין	erhAaltyN	_
+23	alis	P	אַליס	Aalys	_
+24	vi	WADV	װי	Vy	_
+25	in	P	אין	AyN	_
+26	sfr	H	ספֿר	sfr	book
+27	mlkhim	H	מלכים	mlxyM	kings
+28	bishribin	VAN	בישריבין	by$rybyN	_
+29	izt	BEF	איזט	Ayzt	_
+30	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,1.10
+1	ver	WPRO	װער	Ver	_
+2	visin	VB	װיסין	VysyN	_
+3	vil	MDF	װיל	Vyl	_
+4	kan	MDF	ק"ן	k"N	_
+5	in	P	אין	AyN	_
+6	esrim	H	עסרים	esryM	twenty
+7	uarbe	H	אואַרבע	AvAarbe	and_four
+8	leyain	VB	לײאַיִן	lYAayiN	_
+
+SENT	1705W-GLIKL,1.11
+1	nun	ADV	נ	n	_
+2	izt	VBF	איזט	Ayzt	_
+3	oykh	ADV	אױך	AWX	_
+4	visiklikh	ADJ	װיסיקליך	VysyklyX	_
+5	vi	WADV	װי	Vy	_
+6	fil	Q	פֿיל	fyl	_
+7	tripzal	N	טריפּזאַל	trypzAal	_
+8	ilind	N	אילינד	Aylynd	_
+9	vidrvilin	N	װידרװילין	VydrVylyN	_
+10	daz	C	דאַז	dAaz	_
+11	mir	PRO	מיר	myr	_
+12	zindigi	ADJ	זינדיגי	zyndygy	_
+13	menshin	N	מענשין	men$yN	_
+14	in	P	אין	AyN	_
+15	dizir	D	דיזיר	dyzyr	_
+16	frgenklikhi	ADJ	פֿרגענקליכי	frgenklyxy	_
+17	velt	N	װעלט	Velt	_
+18	habin	VBF	האַבין	hAabyN	_
+
+SENT	1705W-GLIKL,1.12
+1	tsu	P	צו	qv	_
+2	dem	D	דעם	deM	_
+3	findin	VBF	פֿינדין	fyndyN	_
+4	mir	PRO	מיר	myr	_
+5	vi	C	װי	Vy	_
+6	fil	Q	פֿיל	fyl	_
+7	froymi	ADJ	פֿרױמי	frWmy	_
+8	leyt	N	לײט	lYt	_
+9	zeynin	VBF	זײנין	zYnyN	_
+10	in	P	אין	AyN	_
+11	der	D	דער	der	_
+12	velt	N	װעלט	Velt	_
+13	di	WPRO	די	dy	_
+14	es	PRO	עס	es	_
+15	gar	ADV	גאַר	gAar	_
+16	ibl	ADV	איבל	Aybl	_
+17	git	VBF	גיט	gyt	_
+18	un	CONJ	און	AvN	_
+19	beulm	H	בעולם	bevlM	in_world
+20	hzh	H	הזש	hz$	the_this
+21	gar	ADV	גאַר	gAar	_
+22	ilindlikh	ADV	אילינדליך	AylyndlyX	_
+23	lebn	VBF	לעבן	lebN	_
+
+SENT	1705W-GLIKL,1.13
+1	kign	P	קיגן	kygN	_
+2	desin	D	דעסין	desyN	_
+3	findit	VBF	פֿינדיט	fyndyt	_
+4	man	PRO	מאַן	mAaN	_
+5	vidrum	ADV	װידרום	VydrvM	_
+6	khmh	H	כמה	xmh	a_few
+7	rseim	N	רסעיִם	rseyiM	_
+8	di	WPRO	די	dy	_
+9	in	P	אין	AyN	_
+10	groys	ADJ	גרױס	grWs	_
+11	vaul_tegin	N	װאַול_טעגין	VAavl_tegyN	_
+12	un'	CONJ	אונ'	Avn'	_
+13	esirut	N	עסירוט	esyrvt	_
+14	lebn	VBF	לעבן	lebN	_
+
+SENT	1705W-GLIKL,1.14
+1	un	CONJ	און	AvN	_
+2	es	PRO	עס	es	_
+3	git	VBF	גיט	gyt	_
+4	inin	PRO	אינין	AynyN	_
+5	ir	PRO$	איר	Ayr	_
+6	kindr	N	קינדר	kyndr	_
+7	gar	ADV	גאַר	gAar	_
+8	vaul	ADV	װאַול	VAavl	_
+9	,	PUNC	,	,	_
+10	dr	C	דר	dr	_
+11	es	PRO	עס	es	_
+12	nebikh	INTJ	נעביך	nebyX	_
+13	den	D	דען	deN	_
+14	girekhtin	ADJ	גירעכטין	gyrextyN	_
+15	getisferkhtig	ADJ	געטיספֿערכטיג	getysferxtyg	_
+16	gar	ADV	גאַר	gAar	_
+17	ibil	ADV	איביל	Aybyl	_
+18	im	PRO	אים	AyM	_
+19	un'	CONJ	אונ'	Avn'	_
+20	zeyni	PRO$	זײני	zYny	_
+21	kindir	N	קינדיר	kyndyr	_
+22	giat	VBF	גיִאַט	gyiAat	_
+
+SENT	1705W-GLIKL,1.15
+1	nun	ADV	נ	n	_
+2	valtin	MDF	װאַלטין	VAaltyN	_
+3	mir	PRO	מיר	myr	_
+4	unz	PRO	אונז	Avnz	_
+5	gidankin	N	גידאַנקין	gydAankyN	_
+6	makhin	VB	מאַכין	mAaxyN	_
+
+SENT	1705W-GLIKL,1.16
+1	vi	WADV	װי	Vy	_
+2	kan	MDF	ק"ן	k"N	_
+3	daz	D	דאַז	dAaz	_
+4	zeyn	VB	זײן	zYN	_
+
+SENT	1705W-GLIKL,2.18
+1	gat	NPR	גאַט	gAat	_
+2	der	D	דער	der	_
+3	almekhtigi	ADJ	אַלמעכטיגי	Aalmextygy	_
+4	izt	VBF	איזט	Ayzt	_
+5	yu	ADV	יו	yv	_
+6	eyn	D	אײן	AYN	_
+7	girekhtir	ADJ	גירעכטיר	gyrextyr	_
+8	rikhtir	N	ריכטיר	ryxtyr	_
+9	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,2.19
+1	ikh	PRO	איך	AyX	_
+2	hab	HVF	האַב	hAab	_
+3	mir	PRO	מיר	myr	_
+4	abir	ADV	אַביר	Aabyr	_
+5	gidakht	VBN	גידאַכט	gydAaxt	_
+6	gm	H	גם	gM	also
+7	zh	H	זש	z$	this
+8	hbl	H	הבל	hbl	futility
+
+SENT	1705W-GLIKL,2.20
+1	den	CONJ	דען	deN	_
+2	di	D	די	dy	_
+3	mesim	N	מעסים	mesyM	_
+4	fun	P	פֿון	fvN	_
+5	hs"i	H	הס"אי	hs"Ay	his_name_may_be_blessed
+6	b"h	H	ב"ה	b"h	blessed_he
+7	zenin	VBF	זענין	zenyN	_
+8	un_miglikh	ADJ	אונ_מיגליך	Avn_myglyX	_
+9	oyz	RP	אױז	AWz	_
+10	tsu	TO	צו	qv	_
+11	trakhtin	VB	טראַכטין	trAaxtyN	_
+12	udir	CONJ	אודיר	Avdyr	_
+13	oyz	RP	אױז	AWz	_
+14	tsu	TO	צו	qv	_
+15	grindin	VB	גרינדין	gryndyN	_
+
+SENT	1705W-GLIKL,2.21
+1	msh	NPR	מש	m$	_
+2	rbinu	H	רבינו	rbynv	rabbi_our
+3	e"h	H	ע"ה	e"h	on_him_the_peace
+4	hat	HVF	האַט	hAat	_
+5	es	PRO	עס	es	_
+6	gerin	ADV	גערין	geryN	_
+7	valin	VBN-IPP	װאַלין	VAalyN	_
+8	un'	CONJ	אונ'	Avn'	_
+9	gizagt	VBN	גיזאַגט	gyzAagt	_
+10	abir	CONJ	אַביר	Aabyr	_
+11	dakh	ADV	דאַך	dAaX	_
+12	nit	NEG	ניט	nyt	_
+13	der_tsu	DR+P	דער_צו	der_qv	_
+14	kumin	VBN	קומין	kvmyN	_
+
+SENT	1705W-GLIKL,2.22
+1	darum	DR+P	דאַרום	dAarvM	_
+2	zalin	MDF	זאַלין	zAalyN	_
+3	mir	PRO	מיר	myr	_
+4	daz	D	דאַז	dAaz	_
+5	nit	NEG	ניט	nyt	_
+6	trakhtin	VB	טראַכטין	trAaxtyN	_
+
+SENT	1705W-GLIKL,2.23
+1	dizis	D	דיזיס	dyzys	_
+2	izt	VBF	איזט	Ayzt	_
+3	ek"p	H	עק"פּ	ek"p	on_all_faces
+4	gvis	ADJ	גװיס	gVys	_
+5	daz	C	דאַז	dAaz	_
+6	dizir	D	דיזיר	dyzyr	_
+7	eulm	N	עולם	evlM	_
+8	izt	BEF	איזט	Ayzt	_
+9	fun	P	פֿון	fvN	_
+10	niks	Q	ניקס	nyks	_
+11	andrst	ADJ	אַנדרסט	Aandrst	_
+12	vegin	N	װעגין	VegyN	_
+13	varin	RDN	װאַרין	VAaryN	_
+14	beshafin	VAN	בעשאַפֿין	be$AafyN	_
+15	alis	P	אַליס	Aalys	_
+16	fun	P	פֿון	fvN	_
+17	eulm_hba	N	עולמ_הבאַ	evlm_hbAa	_
+18	vegin	N	װעגין	VegyN	_
+
+SENT	1705W-GLIKL,2.24
+1	un'	CONJ	אונ'	Avn'	_
+2	darum	DR+P	דאַרום	dAarvM	_
+3	hat	HVF	האַט	hAat	_
+4	uns	PRO	אונס	Avns	_
+5	hmkum	H	המקום	hmkvM	the_place
+6	b"h	H	ב"ה	b"h	blessed_he
+7	akh	INTJ	אַך	AaX	_
+8	brub	H	ברוב	brvb	UNKNOWN
+9	khsdiu	H	כסדיִו	xsdyiv	loving-kindnesses
+10	in	P	אין	AyN	_
+11	dizin	D	דיזין	dyzyN	_
+12	eulm	N	עולם	evlM	_
+13	bishafin	VBN	בישאַפֿין	by$AafyN	_
+14	der	WPRO	דער	der	_
+15	niks	Q	ניקס	nyks	_
+16	un_far_genklikh	ADJ	אונ_פֿאַר_גענקליך	Avn_fAar_genklyX	_
+17	izt	VBF	איזט	Ayzt	_
+18	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,2.25
+1	zu	C	זו	zv	_
+2	mir	PRO	מיר	myr	_
+3	nun	ADV	נ	n	_
+4	vaul	ADV	װאַול	VAavl	_
+5	tun	VBF	טון	tvN	_
+6	un'	CONJ	אונ'	Avn'	_
+7	unzrin	PRO$	אונזרין	AvnzryN	_
+8	groysn	ADJ	גרױסן	grWsN	_
+9	herin	N	הערין	heryN	_
+10	vaul	ADV	װאַול	VAavl	_
+11	dinin	VBF	דינין	dynyN	_
+12	brengt	VBF	ברענגט	brengt	_
+13	er	PRO	ער	er	_
+14	uns	PRO	אונס	Avns	_
+15	un_ergenklikh	ADV	אונ_ערגענקליך	Avn_ergenklyX	_
+16	ini	P	איני	Ayny	_
+17	z	D	ז	z	_
+18	ibigi	N	איביגי	Aybygy	_
+19	oyz	P	אױז	AWz	_
+20	der	D	דער	der	_
+21	bishvehrlikhi	ADJ	בישװעהרליכי	by$Vehrlyxy	_
+22	mn	H	מן	mN	_from
+23	zeligi	ADJ	זעליגי	zelygy	_
+24	velt	N	װעלט	Velt	_
+25	in	P	אין	AyN	_
+26	eytil	ADJ	אײטיל	AYtyl	_
+27	roying	N	רױיִנג	rWying	_
+28	un'	CONJ	אונ'	Avn'	_
+29	zeniftkeyt	N	זעניפֿטקײט	zenyftkYt	_
+
+SENT	1705W-GLIKL,2.26
+1	un'	CONJ	אונ'	Avn'	_
+2	bishtit	VBF	בישטיט	by$tyt	_
+3	al	Q	אַל	Aal	_
+4	unzira	PRO$	אונזיראַ	AvnzyrAa	_
+5	ibl	N	איבל	Aybl	_
+6	un'	CONJ	אונ'	Avn'	_
+7	vaullebn	N	װאַוללעבן	VAavllebN	_
+8	in	P	אין	AyN	_
+9	dizr	D	דיזר	dyzr	_
+10	velt	N	װעלט	Velt	_
+11	nur	FP	נור	nvr	_
+12	oyf	P	אױף	AWF	_
+13	eyn	D	אײן	AYN	_
+14	kleyni	ADJ	קלײני	klYny	_
+15	tseyt	N	צײט	qYt	_
+
+SENT	1705W-GLIKL,2.27
+1	daz	D	דאַז	dAaz	_
+2	menshin_lebin	N	מענשינ_לעבין	men$yn_lebyN	_
+3	izt	BEF	איזט	Ayzt	_
+4	gizetst	VAN	גיזעצט	gyzeqt	_
+5	sbeim	H	סבעיִם	sbeyiM	seventy
+6	snh	H	סנה	snh	year
+
+SENT	1705W-GLIKL,2.28
+1	vi	WADV	װי	Vy	_
+2	bld	ADV	בלד	bld	_
+3	zeyn	VBF	זײן	zYN	_
+4	di	D	די	dy	_
+5	hin	RP-ADV	הין	hyN	_
+
+SENT	1705W-GLIKL,2.29
+1	vi	WADV	װי	Vy	_
+2	fil	Q	פֿיל	fyl	_
+3	hundirt_toyzind	NUM	הונדירט_טױזינד	hvndyrt_tWzynd	_
+4	menshin	N	מענשין	men$yN	_
+5	zenin	VBF	זענין	zenyN	_
+6	di	WPRO	די	dy	_
+7	lng	ADV	לנג	lng	_
+8	dar_tsu	DR+P	דאַר_צו	dAar_qv	_
+9	nit	NEG	ניט	nyt	_
+10	greykhin	VBF	גרײכין	grYxyN	_
+
+SENT	1705W-GLIKL,2.30
+1	abir	CONJ	אַביר	Aabyr	_
+2	eulm_hba	N	עולמ_הבאַ	evlm_hbAa	_
+3	daz	WPRO	דאַז	dAaz	_
+4	ibig	ADV	איביג	Aybyg	_
+5	un'	CONJ	אונ'	Avn'	_
+6	imir	ADV	אימיר	Aymyr	_
+7	givert	VBF	גיװערט	gyVert	_
+8	,	PUNC	,	,	_
+9	umh	H	אומה	Avmh	nation
+10	rb	H	רב	rb	UNKNOWN
+11	tubkh	H	טובך	tvbX	good_your
+12	ashr	H	אַשר	Aa$r	that
+13	tspnh	H	צפּנה	qpnh	hid
+14	lirakh	H	ליראַך	lyrAaX	to_God-fearing_yours
+15	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,2.31
+1	vaul	N	װאַול	VAavl	_
+2	dem	D	דעם	deM	_
+3	der	WPRO	דער	der	_
+4	hmkum	H	המקום	hmkvM	the_place
+5	b"h	H	ב"ה	b"h	blessed_he
+6	skhr	H	סכר	sxr	UNKNOWN
+7	gibt	VBF	גיבט	gybt	_
+8	beh"b	H	בעה"ב	beh"b	in_world_the_coming
+9	der	WPRO	דער	der	_
+10	ibig	ADJ	איביג	Aybyg	_
+11	un'	CONJ	אונ'	Avn'	_
+12	nit	NEG	ניט	nyt	_
+13	far_genklikh	ADJ	פֿאַר_גענקליך	fAar_genklyX	_
+14	izt	VBF	איזט	Ayzt	_
+15	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,2.32
+1	den	CONJ	דען	deN	_
+2	ali	Q	אַלי	Aaly	_
+3	tser	N	צער	qer	_
+4	zurg	N	זורג	zvrg	_
+5	un'	CONJ	אונ'	Avn'	_
+6	furenut	N	פֿורענוט	fvrenvt	_
+7	di	WPRO	די	dy	_
+8	der	D	דער	der	_
+9	mensh	N	מענש	men$	_
+10	oyf	P	אױף	AWF	_
+11	dizir	D	דיזיר	dyzyr	_
+12	velt	N	װעלט	Velt	_
+13	hat	VBF	האַט	hAat	_
+14	izt	VBF	איזט	Ayzt	_
+15	nar	FP	נאַר	nAar	_
+16	eyn	D	אײן	AYN	_
+17	tseyt	N	צײט	qYt	_
+18	lng	ADJ	לנג	lng	_
+19	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,2.33
+1	ven	C	װען	VeN	_
+2	der	D	דער	der	_
+3	mensh	N	מענש	men$	_
+4	nakh	ADV	נ"ך	n"X	_
+5	al	Q	אַל	Aal	_
+6	zeyn	PRO$	זײן	zYN	_
+7	tsrut	N	צרוט	qrvt	_
+8	un'	CONJ	אונ'	Avn'	_
+9	ali	Q	אַלי	Aaly	_
+10	leyt	N	לײט	lYt	_
+11	un'	CONJ	אונ'	Avn'	_
+12	alis	Q	אַליס	Aalys	_
+13	vidr_vertigi	N	װידר_װערטיגי	Vydr_Vertygy	_
+14	oyz	RP	אױז	AWz	_
+15	gistandin	VBN	גיסטאַנדין	gystAandyN	_
+16	hat	HVF	האַט	hAat	_
+17	un'	CONJ	אונ'	Avn'	_
+18	zeyn	PRO$	זײן	zYN	_
+19	seh	N	סעה	seh	_
+20	izt	BEF	איזט	Ayzt	_
+21	oyz	RP	אױז	AWz	_
+22	gilafin	VBN	גילאַפֿין	gylAafyN	_
+23	daz	C	דאַז	dAaz	_
+24	er	PRO	ער	er	_
+25	sterbin	VB	סטערבין	sterbyN	_
+26	zal	MDF	ז"ל	z"l	_
+27	alzu	ADV	אַלזו	Aalzv	_
+28	sterbt	VBF	סטערבט	sterbt	_
+29	er	PRO	ער	er	_
+30	mit	P	מיט	myt	_
+31	denin	D	דענין	denyN	_
+32	ali_tsu_gleykh	ADV	אַלי_צו_גלײך	Aaly_qv_glYX	_
+33	velkhi	WPRO	װעלכי	Velxy	_
+34	kl	H	קל	kl	all
+35	imihm	H	אימיהם	AymyhM	days_their
+36	in	P	אין	AyN	_
+37	groysn	ADJ	גרױסן	grWsN	_
+38	vaul_lust	N	װאַול_לוסט	VAavl_lvst	_
+39	gilebt	VBN	גילעבט	gylebt	_
+40	habin	HVF	האַבין	hAabyN	_
+
+SENT	1705W-GLIKL,2.34
+1	adrbh	ADV	אַדרבה	Aadrbh	_
+2	yener	D	יענער	yener	_
+3	abiun	H	אַביִון	AabyivN	pauper
+4	der	WPRO	דער	der	_
+5	nebikh	INTJ	נעביך	nebyX	_
+6	zeyn	PRO$	זײן	zYN	_
+7	tag	N	תּג	Tg	_
+8	in	P	אין	AyN	_
+9	tsrut	N	צרוט	qrvt	_
+10	un'	CONJ	אונ'	Avn'	_
+11	leyt	N	לײט	lYt	_
+12	hat	HVF	האַט	hAat	_
+13	tsu	RP	צו	qv	_
+14	gibrakht	VBN	גיבראַכט	gybrAaxt	_
+15	bvdai	ADV	בװדאַיִ	bVdAayi	_
+16	sterbt	VBF	סטערבט	sterbt	_
+17	er	PRO	ער	er	_
+18	girust	ADV	גירוסט	gyrvst	_
+
+SENT	1705W-GLIKL,2.35
+1	den	CONJ	דען	deN	_
+2	el	H	על	el	on
+3	utu	H	אוטו	Avtv	the_same
+4	yum	H	יום	yvM	day
+5	koyt	H	קױט	kWt	hoped_I
+6	er	PRO	ער	er	_
+7	izt	BEF	איזט	Ayzt	_
+8	nebikh	INTJ	נעביך	nebyX	_
+9	ali	Q	אַלי	Aaly	_
+10	yum	N	יום	yvM	_
+11	gistarbin	VBN	גיסטאַרבין	gystAarbyN	_
+12	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,3.37
+1	alzu	ADV	אַלזו	Aalzv	_
+2	hat	HVF	האַט	hAat	_
+3	er	PRO	ער	er	_
+4	ali	Q	אַלי	Aaly	_
+5	tseyt	N	צײט	qYt	_
+6	zeyn	PRO$	זײן	zYN	_
+7	hbtkhkh	H	הבטכך	hbtxX	UNKNOWN
+8	lhmkum	H	להמקום	lhmkvM	to_the_place
+9	b"h	H	ב"ה	b"h	blessed_he
+10	gihabt	VBN	גיהאַבט	gyhAabt	_
+11	daz	C	דאַז	dAaz	_
+12	er	PRO	ער	er	_
+13	ihm	PRO	איהם	AyhM	_
+14	vert	RDF	װערט	Vert	_
+15	beh"b	H	בעה"ב	beh"b	in_world_the_coming
+16	besir	ADV	בעסיר	besyr	_
+17	gin	VB	גין	gyN	_
+18	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,3.38
+1	un'	CONJ	אונ'	Avn'	_
+2	hat	VBF	האַט	hAat	_
+3	in	P	אין	AyN	_
+4	zeyn	PRO$	זײן	zYN	_
+5	huh	ADJ	הוה	hvh	_
+6	amina	N	אַמינאַ	AamynAa	_
+7	daz	C	דאַז	dAaz	_
+8	er	PRO	ער	er	_
+9	atsl	H	אַצל	Aaql	by
+10	hmkum	H	המקום	hmkvM	the_place
+11	b"h	H	ב"ה	b"h	blessed_he
+12	eyn	D	אײן	AYN	_
+13	groysn	ADJ	גרױסן	grWsN	_
+14	khub	N	כוב	xvb	_
+15	hat	VBF	האַט	hAat	_
+16	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,3.39
+1	dan	CONJ	דאַן	dAaN	_
+2	al	Q	אַל	Aal	_
+3	zeyn	PRO$	זײן	zYN	_
+4	tenugim	H	טענוגים	tenvgyM	UNKNOWN
+5	un	CONJ	און	AvN	_
+6	al	Q	אַל	Aal	_
+7	zeyn	PRO$	זײן	zYN	_
+8	tnhumh	H	טנהומה	tnhvmh	UNKNOWN
+9	beh"z	H	בעה"ז	beh"z	in_world_this
+10	izt	VBF	איזט	Ayzt	_
+11	alis	Q	אַליס	Aalys	_
+12	oyf	P	אױף	AWF	_
+13	eulm_hba	N	עולמ_הבאַ	evlm_hbAa	_
+14	mti	H	מטי	mty	when
+15	abua	H	אַבואַ	AabvAa	I_will_come
+16	uarah	H	אואַראַה	AvAarAah	and_I_will_see
+17	pni	H	פּני	pny	face
+18	alhim	H	אַלהים	AalhyM	Elohim
+
+SENT	1705W-GLIKL,3.40
+1	alzu	ADV	אַלזו	Aalzv	_
+2	halt	VBF	האַלט	hAalt	_
+3	ikh	PRO	איך	AyX	_
+4	lpi	H	לפּי	lpy	according_to
+5	kt	H	קט	kt	tiny
+6	skli	H	סקלי	skly	understanding
+7	daz	C	דאַז	dAaz	_
+8	es	PRO	עס	es	_
+9	im	PRO	אים	AyM	_
+10	nit	NEG	ניט	nyt	_
+11	zu	ADV	זו	zv	_
+12	shver	ADV	שװער	$Ver	_
+13	un'	CONJ	אונ'	Avn'	_
+14	in	P	אין	AyN	_
+15	un_gidult	N	אונ_גידולט	Avn_gydvlt	_
+16	an	RP	אַן	AaN	_
+17	kumt	VBF	קומט	kvmt	_
+
+SENT	1705W-GLIKL,3.41
+1	msa"k	H	מסאַ"ק	msAa"k	UNKNOWN
+2	abir	CONJ	אַביר	Aabyr	_
+3	der	D	דער	der	_
+4	reykhi	ADJ	רײכי	rYxy	_
+5	rse	N	רסע	rse	_
+6	der	WPRO	דער	der	_
+7	al	Q	אַל	Aal	_
+8	zeyn	PRO$	זײן	zYN	_
+9	vaul_lust	N	װאַול_לוסט	VAavl_lvst	_
+10	mit	P	מיט	myt	_
+11	gut	N	גוט	gvt	_
+12	un'	CONJ	אונ'	Avn'	_
+13	gelt	N	געלט	gelt	_
+14	ginumin	VBN	גינומין	gynvmyN	_
+15	hat	HVF	האַט	hAat	_
+16	un'	CONJ	אונ'	Avn'	_
+17	zikht	VBF	זיכט	zyxt	_
+18	niks	Q	ניקס	nyks	_
+19	andrst	ADJ	אַנדרסט	Aandrst	_
+20	far	P	פֿאַר	fAar	_
+21	zikh	PRO	זיך	zyX	_
+22	alz	P	אַלז	Aalz	_
+23	alis	Q	אַליס	Aalys	_
+24	gutin	N	גוטין	gvtyN	_
+25	,	PUNC	,	,	_
+26	es	PRO	עס	es	_
+27	git	VBF	גיט	gyt	_
+28	ihm	PRO	איהם	AyhM	_
+29	un'	CONJ	אונ'	Avn'	_
+30	zeyn	PRO$	זײן	zYN	_
+31	kindir	N	קינדיר	kyndyr	_
+32	gnts	ADV	גנץ	gnQ	_
+33	vaul	ADV	װאַול	VAavl	_
+
+SENT	1705W-GLIKL,3.42
+1	es	ES	עס	es	_
+2	hindrt	VBF	הינדרט	hyndrt	_
+3	ihm	PRO	איהם	AyhM	_
+4	niks	Q	ניקס	nyks	_
+5	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,3.43
+1	abir	CONJ	אַביר	Aabyr	_
+2	ven	C	װען	VeN	_
+3	den	ADV	דען	deN	_
+4	zeyn	PRO$	זײן	zYN	_
+5	tseyt	N	צײט	qYt	_
+6	akh	ADV	אַך	AaX	_
+7	kumin	VB	קומין	kvmyN	_
+8	tut	DOF	טוט	tvt	_
+9	daz	C	דאַז	dAaz	_
+10	er	PRO	ער	er	_
+11	zali	MDF	זאַלי	zAaly	_
+12	fun	P	פֿון	fvN	_
+13	dizir	D	דיזיר	dyzyr	_
+14	velt	N	װעלט	Velt	_
+15	hin_vek	ADV	הינ_װעק	hyn_Vek	_
+16	gihn	VB	גיהן	gyhN	_
+17	,	PUNC	,	,	_
+18	das	C	דת	dS	_
+19	er	PRO	ער	er	_
+20	veys	VBF	װײס	VYs	_
+21	vaz	WPRO	װאַז	VAaz	_
+22	far	P	פֿאַר	fAar	_
+23	lust	N	לוסט	lvst	_
+24	un'	CONJ	אונ'	Avn'	_
+25	freyd	N	פֿרײד	frYd	_
+26	un'	CONJ	אונ'	Avn'	_
+27	gutis	N	גוטיס	gvtys	_
+28	er	PRO	ער	er	_
+29	in	P	אין	AyN	_
+30	dizir	D	דיזיר	dyzyr	_
+31	velt	N	װעלט	Velt	_
+32	gihabt	VBN	גיהאַבט	gyhAabt	_
+33	u	H	או	Av	and
+34	bprt	ADV	בפּרט	bprt	especially
+35	van	C	װאַן	VAaN	_
+36	er	PRO	ער	er	_
+37	zikh	PRO	זיך	zyX	_
+38	vert	RDF	װערט	Vert	_
+39	bfindin	VB	בפֿינדין	bfyndyN	_
+40	un'	CONJ	אונ'	Avn'	_
+41	in	P	אין	AyN	_
+42	zeyn	PRO$	זײן	zYN	_
+43	letstin	N	לעצטין	leqtyN	_
+44	bitrakhtin	VB	ביטראַכטין	bytrAaxtyN	_
+45	vaz	WPRO	װאַז	VAaz	_
+46	far	P	פֿאַר	fAar	_
+47	gutis	N	גוטיס	gvtys	_
+48	alis	Q	אַליס	Aalys	_
+49	ihm	PRO	איהם	AyhM	_
+50	hs"i	H	הס"אי	hs"Ay	his_name_may_be_blessed
+51	in	P	אין	AyN	_
+52	dizir	D	דיזיר	dyzyr	_
+53	velt	N	װעלט	Velt	_
+54	hat	HVF	האַט	hAat	_
+55	gigebin	VBN	גיגעבין	gygebyN	_
+56	un'	CONJ	אונ'	Avn'	_
+57	er	PRO	ער	er	_
+58	den	D	דען	deN	_
+59	hekhstin	N	העכסטין	hexstyN	_
+60	nit	NEG	ניט	nyt	_
+61	rekht	ADV	רעכט	rext	_
+62	mit	P	מיט	myt	_
+63	gdint	VBN	גדינט	gdynt	_
+64	un'	CONJ	אונ'	Avn'	_
+65	zeyn	PRO$	זײן	zYN	_
+66	gbaut	N	גבאַוט	gbAavt	_
+67	nit	NEG	ניט	nyt	_
+68	rekht	ADV	רעכט	rext	_
+69	far_zehn	VBN	פֿאַר_זעהן	fAar_zehN	_
+70	bvdai	ADV	בװדאַיִ	bVdAayi	_
+71	ven	C	װען	VeN	_
+72	er	PRO	ער	er	_
+73	gidenkt	VBF	גידענקט	gydenkt	_
+74	fun	P	פֿון	fvN	_
+75	al	Q	אַל	Aal	_
+76	zeyn	PRO$	זײן	zYN	_
+77	reykhtum	N	רײכטום	rYxtvM	_
+78	hin_vek	ADV	הינ_װעק	hyn_Vek	_
+79	tsu	TO	צו	qv	_
+80	gihn	VB	גיהן	gyhN	_
+81	un'	CONJ	אונ'	Avn'	_
+82	tsu	TO	צו	qv	_
+83	sheydin	VB	שײדין	$YdyN	_
+84	fun	P	פֿון	fvN	_
+85	dizr	D	דיזר	dyzr	_
+86	velt	N	װעלט	Velt	_
+87	un'	CONJ	אונ'	Avn'	_
+88	tsu	TO	צו	qv	_
+89	gin	VB	גין	gyN	_
+90	in	P	אין	AyN	_
+91	der	D	דער	der	_
+92	andri	ADJ	אַנדרי	Aandry	_
+93	ibige	ADJ	איביגע	Aybyge	_
+94	velt	N	װעלט	Velt	_
+95	daz	C	דאַז	dAaz	_
+96	er	PRO	ער	er	_
+97	muz	MDF	מוז	mvz	_
+98	zeyn	PRO$	זײן	zYN	_
+99	gbaut	N	גבאַוט	gbAavt	_
+100	nidr	ADV	נידר	nydr	_
+101	ligin	VB	ליגין	lygyN	_
+102	un'	CONJ	אונ'	Avn'	_
+103	hsbun	N	הסבון	hsbvN	_
+104	gebin	VB	געבין	gebyN	_
+105	vi	WADV	װי	Vy	_
+106	er	PRO	ער	er	_
+107	zikh	PRO	זיך	zyX	_
+108	beh"z	H	בעה"ז	beh"z	in_world_this
+109	far_haltin	VBN	פֿאַר_האַלטין	fAar_hAaltyN	_
+110	hat	HVF	האַט	hAat	_
+111	,	PUNC	,	,	_
+112	alzu	ADV	אַלזו	Aalzv	_
+113	ihm	PRO	איהם	AyhM	_
+114	di	D	די	dy	_
+115	reyz	N	רײז	rYz	_
+116	fil	Q	פֿיל	fyl	_
+117	shvarir	ADJR	שװאַריר	$VAaryr	_
+118	un'	CONJ	אונ'	Avn'	_
+119	zoyarir	ADJR	זױאַריר	zWAaryr	_
+120	an	RP	אַן	AaN	_
+121	kumt	VBF	קומט	kvmt	_
+122	alis	P	אַליס	Aalys	_
+123	den	D	דען	deN	_
+124	abiunim	N	אַביִונים	AabyivnyM	_
+125	nebikh	INTJ	נעביך	nebyX	_
+126	.	PUNC	.	.	_
+
+SENT	1705W-GLIKL,3.44
+1	mh	H	מה	mh	what
+2	li	H	לי	ly	to_me
+3	lharikh	H	להאַריך	lhAaryX	to_lengthen
+4	meyn	PRO$	מײן	mYN	_
+5	libi	ADJ	ליבי	lyby	_
+6	kindir	N	קינדיר	kyndyr	_
+7	ikh	PRO	איך	AyX	_
+8	habi	HVF	האַבי	hAaby	_
+9	dizus	D	דיזוס	dyzvs	_
+10	an	RP	אַן	AaN	_
+11	gifangin	VBN	גיפֿאַנגין	gyfAangyN	_
+12	bs"d	H	בס"ד	bs"d	with_help_Heaven
+13	tsu	TO	צו	qv	_
+14	shreybin	VB	שרײבין	$rYbyN	_
+15	nakh	P	נ"ך	n"X	_
+16	den	D	דען	deN	_
+17	tut	N	טוט	tvt	_
+18	fun	P	פֿון	fvN	_
+19	eyer	PRO$	אײער	AYer	_
+20	frumir	ADJ	פֿרומיר	frvmyr	_
+21	fatir	N	פֿאַטיר	fAatyr	_
+22	daz	C	דאַז	dAaz	_
+23	es	PRO	עס	es	_
+24	mir	PRO	מיר	myr	_
+25	izt	BEF	איזט	Ayzt	_
+26	givezin	VBN	גיװעזין	gyVezyN	_
+27	lktst	H	לקצט	lkqt	to_a_little
+28	lnkht	H	לנכט	lnxt	to_satisfaction
+29	rukh	H	רוך	rvX	spirit
+30	,	PUNC	,	,	_
+31	ven	C	װען	VeN	_
+32	mir	PRO	מיר	myr	_
+33	di	D	די	dy	_
+34	malkulishi	ADJ	מאַלקולישי	mAalkvly$y	_
+35	gidankin	N	גידאַנקין	gydAankyN	_
+36	zeynen	BEF	זײנען	zYneN	_
+37	gikumin	VBN	גיקומין	gykvmyN	_
+38	un'	CONJ	אונ'	Avn'	_
+39	fun	P	פֿון	fvN	_
+40	shvari	ADJ	שװאַרי	$VAary	_
+41	dagut	H	דאַגוט	dAagvt	worries
+42	shheynu	H	שהײנו	$hYnv	that_were_we
+43	ktsan	H	קצאַן	kqAaN	like_flock
+44	bla	H	בלאַ	blAa	without
+45	rueh	H	רועה	rveh	shepherd
+46	un'	CONJ	אונ'	Avn'	_
+47	mir	PRO	מיר	myr	_
+48	unzrin	PRO$	אונזרין	AvnzryN	_
+49	gitreyain	ADJ	גיטרײאַיִן	gytrYAayiN	_
+50	hirtn	N	הירטן	hyrtN	_
+51	habin	HVF	האַבין	hAabyN	_
+52	fr_lahrin	VBN	פֿר_לאַהרין	fr_lAahryN	_
+
+SENT	1705W-GLIKL,3.45
+1	alzu	ADV	אַלזו	Aalzv	_
+2	ikh	PRO	איך	AyX	_
+3	menikhi	Q	מעניכי	menyxy	_
+4	lilh	N	לילה	lylh	_
+5	shlaf_laz	ADJ	שלאַפֿ_לאַז	$lAaf_lAaz	_
+6	tsu	RP	צו	qv	_
+7	gibrakht	VBN	גיבראַכט	gybrAaxt	_
+
+SENT	1705W-GLIKL,4.47
+1	un'	CONJ	אונ'	Avn'	_
+2	ikh	PRO	איך	AyX	_
+3	bizurgt	ADJ	ביזורגט	byzvrgt	_
+4	daz	C	דאַז	dAaz	_
+5	ikh	PRO	איך	AyX	_
+6	h"u	H	ה"או	h"Av	have_mercy_and_peace
+7	in	P	אין	AyN	_
+8	malikuli	ADJ	מאַליקולי	mAalykvly	_
+9	gidnkin	N	גידנקין	gydnkyN	_
+10	zulti	MDF	זולטי	zvlty	_
+11	kumin	VB	קומין	kvmyN	_
+12	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,4.48
+1	alzu	ADV	אַלזו	Aalzv	_
+2	ikh	PRO	איך	AyX	_
+3	uft	ADV	אופֿט	Avft	_
+4	blilh	H	בלילה	blylh	at_night
+5	oyf	RP	אױף	AWF	_
+6	gistandin	VBN	גיסטאַנדין	gystAandyN	_
+
+SENT	1705W-GLIKL,4.49
+1	un'	CONJ	אונ'	Avn'	_
+2	di	D	די	dy	_
+3	shlaf_luzin	ADJ	שלאַפֿ_לוזין	$lAaf_lvzyN	_
+4	seut	N	סעוט	sevt	_
+5	der_mit	DR+P	דער_מיט	der_myt	_
+6	tsu	RP	צו	qv	_
+7	gibrakht	VBN	גיבראַכט	gybrAaxt	_
+8	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,4.50
+1	meyn	PRO$	מײן	mYN	_
+2	libi	ADJ	ליבי	lyby	_
+3	kindr	N	קינדר	kyndr	_
+4	ikh	PRO	איך	AyX	_
+5	bin	VBF	בין	byN	_
+6	akh	ADV	אַך	AaX	_
+7	nit	NEG	ניט	nyt	_
+8	oyzn	RP-H	אױזן	AWzN	_
+9	eykh	PRO	אײך	AYX	_
+10	eyn	D	אײן	AYN	_
+11	sfr	H	ספֿר	sfr	book
+12	musr	H	מוסר	mvsr	morality
+13	tsu	TO	צו	qv	_
+14	makhin	VB	מאַכין	mAaxyN	_
+15	un'	CONJ	אונ'	Avn'	_
+16	tsu	TO	צו	qv	_
+17	shreybn	VB	שרײבן	$rYbN	_
+
+SENT	1705W-GLIKL,4.51
+1	ikh	PRO	איך	AyX	_
+2	bin	VBF	בין	byN	_
+3	nit	NEG	ניט	nyt	_
+4	kpabil	ADJ	קפּאַביל	kpAabyl	_
+5	dar_tsu	DR+P	דאַר_צו	dAar_qv	_
+
+SENT	1705W-GLIKL,4.52
+1	des	D	דעס	des	_
+2	zenin	VBF	זענין	zenyN	_
+3	unzri	PRO$	אונזרי	Avnzry	_
+4	khz"l	N	כז"ל	xz"l	_
+5	di	WPRO	די	dy	_
+6	kmh	H	קמה	kmh	a_few
+7	ukmh	H	אוקמה	Avkmh	and_a_few
+8	sfrim	N	ספֿרים	sfryM	_
+9	fun	P	פֿון	fvN	_
+10	gimakht	VBN	גימאַכט	gymAaxt	_
+11	habn	HVF	האַבן	hAabN	_
+12	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,4.53
+1	un'	CONJ	אונ'	Avn'	_
+2	mir	PRO	מיר	myr	_
+3	habin	VBF	האַבין	hAabyN	_
+4	turtinu	H	טורטינו	tvrtynv	UNKNOWN
+5	hkdushh	H	הקדושה	hkdv$h	the_holy
+6	dar	C	דאַר	dAar	_
+7	mir	PRO	מיר	myr	_
+8	alis	Q	אַליס	Aalys	_
+9	oyz	RP	אױז	AWz	_
+10	zehn	VB	זעהן	zehN	_
+11	un'	CONJ	אונ'	Avn'	_
+12	bigreyfin	VB	ביגרײפֿין	bygrYfyN	_
+13	kenin	MDF	קענין	kenyN	_
+14	vaz	WPRO	װאַז	VAaz	_
+15	unz	PRO	אונז	Avnz	_
+16	nitslikh	ADJ	ניצליך	nyqlyX	_
+17	izt	VBF	איזט	Ayzt	_
+18	,	PUNC	,	,	_
+19	un	CONJ	און	AvN	_
+20	fun	P	פֿון	fvN	_
+21	eh"z	H	עה"ז	eh"z	world_this
+22	lkhi	H	לכי	lxy	to_life_of
+23	eh"b	H	עה"ב	eh"b	world_the_coming
+24	brengit	VBF	ברענגיט	brengyt	_
+
+SENT	1705W-GLIKL,4.54
+1	un'	CONJ	אונ'	Avn'	_
+2	an	P	אַן	AaN	_
+3	unzir	PRO$	אונזיר	Avnzyr	_
+4	libi	ADJ	ליבי	lyby	_
+5	turh	NPR	טורה	tvrh	_
+6	kenin	MDF	קענין	kenyN	_
+7	mir	PRO	מיר	myr	_
+8	zikh	PRO	זיך	zyX	_
+9	fast	ADV	פֿאַסט	fAast	_
+10	haltin	VB	האַלטין	hAaltyN	_
+
+SENT	1705W-GLIKL,4.55
+1	lmshl	ADV	למשל	lm$l	_
+2	es	ES	עס	es	_
+3	izt	BEF	איזט	Ayzt	_
+4	eyn	D	אײן	AYN	_
+5	shif	N	שיף	$yF	_
+6	mit	P	מיט	myt	_
+7	leyt	N	לײט	lYt	_
+8-9	im	P~D	אים	AyM	_
+8	i	P	אי	Ay	_
+9	m	D	מ	m	_
+10	im	N	אים	AyM	_
+11	gifahrin	VBN	גיפֿאַהרין	gyfAahryN	_
+
+SENT	1705W-GLIKL,4.56
+1	hat	HVF	האַט	hAat	_
+2	eynir	PRO	אײניר	AYnyr	_
+3	oyf	P	אױף	AWF	_
+4	der	D	דער	der	_
+5	bartin	N	באַרטין	bAartyN	_
+6	fun	P	פֿון	fvN	_
+7	shif	N	שיף	$yF	_
+8	gangin	VBN	גאַנגין	gAangyN	_
+9	un'	CONJ	אונ'	Avn'	_
+10	zikh	PRO	זיך	zyX	_
+11	zer	ADV	זער	zer	_
+12	in	P	אין	AyN	_
+13	im	PRO	אים	AyM	_
+14	aneyn	ADV	אַנײן	AanYN	_
+15	gibukt	VBN	גיבוקט	gybvkt	_
+
+SENT	1705W-GLIKL,4.57
+1	izt	BEF	איזט	Ayzt	_
+2	er	PRO	ער	er	_
+3	in	P	אין	AyN	_
+4	im	PRO	אים	AyM	_
+5	hineyn	ADV	הינײן	hynYN	_
+6	gifalin	VBN	גיפֿאַלין	gyfAalyN	_
+
+SENT	1705W-GLIKL,4.58
+1	un'	CONJ	אונ'	Avn'	_
+2	ver	BEF	װער	Ver	_
+3	far_zafin	VBN	פֿאַר_זאַפֿין	fAar_zAafyN	_
+
+SENT	1705W-GLIKL,4.59
+1	der	D	דער	der	_
+2	shifir	N	שיפֿיר	$yfyr	_
+3	hat	HVF	האַט	hAat	_
+4	daz	D	דאַז	dAaz	_
+5	gizehin	VBN	גיזעהין	gyzehyN	_
+6	un'	CONJ	אונ'	Avn'	_
+7	kmh	H	קמה	kmh	a_few
+8	strik	N	סטריק	stryk	_
+9	tsu	RP	צו	qv	_
+10	givarfin	VBN	גיװאַרפֿין	gyVAarfyN	_
+11	un'	CONJ	אונ'	Avn'	_
+12	mzhir	RP-H	מזשיר	mz$yr	_
+13	givezin	VBN	גיװעזין	gyVezyN	_
+14	zal	MDF	ז"ל	z"l	_
+15	zikh	PRO	זיך	zyX	_
+16	fast	ADV	פֿאַסט	fAast	_
+17	an	P	אַן	AaN	_
+18	di	D	די	dy	_
+19	strik	N	סטריק	stryk	_
+20	an	RP	אַן	AaN	_
+21	haltin	VB	האַלטין	hAaltyN	_
+
+SENT	1705W-GLIKL,4.60
+1	zu	ADV	זו	zv	_
+2	vert	RDF	װערט	Vert	_
+3	er	PRO	ער	er	_
+4	nit	NEG	ניט	nyt	_
+5	far_zoyfn	VB	פֿאַר_זױפֿן	fAar_zWfN	_
+
+SENT	1705W-GLIKL,4.61
+1	alzu	ADV	אַלזו	Aalzv	_
+2	mir	PRO	מיר	myr	_
+3	zindigi	ADJ	זינדיגי	zyndygy	_
+4	menshin	N	מענשין	men$yN	_
+5	zenin	VBF	זענין	zenyN	_
+6	in	P	אין	AyN	_
+7	dizr	D	דיזר	dyzr	_
+8	velt	N	װעלט	Velt	_
+9	gleykh	ADV	גלײך	glYX	_
+10	alis	P	אַליס	Aalys	_
+11	ven	C	װען	VeN	_
+12	mir	PRO	מיר	myr	_
+13	in	P	אין	AyN	_
+14	im	PRO	אים	AyM	_
+15	shvimitn	VBF	שװימיטן	$VymytN	_
+16	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,4.62
+1	mir	PRO	מיר	myr	_
+2	visin	VBF	װיסין	VysyN	_
+3	uns	PRO	אונס	Avns	_
+4	yu	ADV	יו	yv	_
+5	keyn	Q	קײן	kYN	_
+6	rge	H	רגע	rge	UNKNOWN
+7	ein	NUM	עיִן	eyiN	_
+8	zikhir	ADJ	זיכיר	zyxyr	_
+9	daz	C	דאַז	dAaz	_
+10	mir	PRO	מיר	myr	_
+11	arzoyfin	VBF	אַרזױפֿין	AarzWfyN	_
+12	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,4.63
+1	abir	CONJ	אַביר	Aabyr	_
+2	got	NPR	גאָט	gAot	_
+3	der	D	דער	der	_
+4	almekhtigr	N	אַלמעכטיגר	Aalmextygr	_
+5	der	WPRO	דער	der	_
+6	unz	PRO	אונז	Avnz	_
+7	mit	P	מיט	myt	_
+8	khsd	H	כסד	xsd	loving-kindness
+9	urkhmim	H	אורכמים	AvrxmyM	and_mercy
+10	bishafin	VBN	בישאַפֿין	by$AafyN	_
+11	gnts	ADV	גנץ	gnQ	_
+12	ahn	P	אַהן	AahN	_
+13	zind	N	זינד	zynd	_
+14	mir	PRO	מיר	myr	_
+15	zultin	MDF	זולטין	zvltyN	_
+16	zeyn	VB	זײן	zYN	_
+
+SENT	1705W-GLIKL,4.64
+1	abir	CONJ	אַביר	Aabyr	_
+2	mfni	H	מפֿני	mfny	because_of
+3	khta	H	כטאַ	xtAa	sin
+4	shl	H	של	$l	of
+5	adm	NPR	אַדם	AadM	_
+6	hrashun	H	הראַשון	hrAa$vN	the_first
+7	hat	HVF	האַט	hAat	_
+8	der	D	דער	der	_
+9	itsr_hre	N	איצר_הרע	Ayqr_hre	_
+10	beu"h	H	בעו"ה	bev"h	for_sins_our_the_many
+11	an	P	אַן	AaN	_
+12	uns	PRO	אונס	Avns	_
+13	shult	RP-N	שולט	$vlt	_
+14	givezin	VBN	גיװעזין	gyVezyN	_
+15	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,4.65
+1	nun	ADV	נ	n	_
+2	hat	HVF	האַט	hAat	_
+3	hmkum	H	המקום	hmkvM	the_place
+4	b"h	H	ב"ה	b"h	blessed_he
+5	bishafin	VBN	בישאַפֿין	by$AafyN	_
+6	kmh	H	קמה	kmh	a_few
+7	kheylut	N	כײלוט	xYlvt	_
+8	mlakhim	N	מלאַכים	mlAaxyM	_
+
+SENT	1705W-GLIKL,4.66
+1	ali	Q	אַלי	Aaly	_
+2	tun	VBF	טון	tvN	_
+3	rtsunu	H	רצונו	rqvnv	will_his
+4	shl	H	של	$l	of
+5	hmkum	H	המקום	hmkvM	the_place
+6	b"h	H	ב"ה	b"h	blessed_he
+
+SENT	1705W-GLIKL,4.67
+1	un'	CONJ	אונ'	Avn'	_
+2	habin	VBF	האַבין	hAabyN	_
+3	keyn	Q	קײן	kYN	_
+4	itsr_hre	N	איצר_הרע	Ayqr_hre	_
+
+SENT	1705W-GLIKL,4.68
+1	bmila	H	במילאַ	bmylAa	therefore
+2	tunin	VBF	טונין	tvnyN	_
+3	zi	PRO	זי	zy	_
+4	alis	Q	אַליס	Aalys	_
+5	gutis	N	גוטיס	gvtys	_
+
+SENT	1705W-GLIKL,4.69
+1	heyst	VBF	הײסט	hYst	_
+2	zi	PRO	זי	zy	_
+3	niks	Q	ניקס	nyks	_
+4	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,4.70
+1	nakh	ADV	נ"ך	n"X	_
+2	hat	HVF	האַט	hAat	_
+3	hmku	H	המקו	hmkv	the_place
+4	b"h	H	ב"ה	b"h	blessed_he
+5	bishafin	VBN	בישאַפֿין	by$AafyN	_
+6	bhmut	N	בהמוט	bhmvt	_
+7	utiut	N	אוטיִוט	Avtyivt	_
+8	ueuput	H	אועופּוט	Avevpvt	and_UNKNOWN
+9	ushari	H	אושאַרי	Av$Aary	UNKNOWN
+10	bishefnis	N	בישעפֿניס	by$efnys	_
+11	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,4.71
+1	di	D	די	dy	_
+2	habin	VBF	האַבין	hAabyN	_
+3	eytil	ADJ	אײטיל	AYtyl	_
+4	itsr_hre	N	איצר_הרע	Ayqr_hre	_
+
+SENT	1705W-GLIKL,4.72
+1	un'	CONJ	אונ'	Avn'	_
+2	visin	VBF	װיסין	VysyN	_
+3	fun	P	פֿון	fvN	_
+4	keyn	Q	קײן	kYN	_
+5	gutis	N	גוטיס	gvtys	_
+6	tsu	TO	צו	qv	_
+7	tuhn	VB	טוהן	tvhN	_
+8	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,4.73
+1	nun	ADV	נ	n	_
+2	hat	HVF	האַט	hAat	_
+3	hmkum	H	המקום	hmkvM	the_place
+4	b"h	H	ב"ה	b"h	blessed_he
+5	uns	PRO	אונס	Avns	_
+6	menshin	N	מענשין	men$yN	_
+7	btslmu	H	בצלמו	bqlmv	in_image_his
+8	bishafin	VBN	בישאַפֿין	by$AafyN	_
+
+SENT	1705W-GLIKL,4.74
+1	un'	CONJ	אונ'	Avn'	_
+2	habin	VBF	האַבין	hAabyN	_
+3	skl	N	סקל	skl	_
+4	alis	P	אַליס	Aalys	_
+5	di	D	די	dy	_
+6	mlakhim	N	מלאַכים	mlAaxyM	_
+7	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,4.75
+1	abir	CONJ	אַביר	Aabyr	_
+2	unz	PRO	אונז	Avnz	_
+3	menshin	N	מענשין	men$yN	_
+4	di	D	די	dy	_
+5	brirh	N	ברירה	bryrh	_
+6	gigebin	VBN	גיגעבין	gygebyN	_
+7	daz	C	דאַז	dAaz	_
+8	mir	PRO	מיר	myr	_
+9	migin	MDF	מיגין	mygyN	_
+10	tun	VB	טון	tvN	_
+11	vaz	WPRO	װאַז	VAaz	_
+12	mir	PRO	מיר	myr	_
+13	valin	VBF	װאַלין	VAalyN	_
+14	biz	N	ביז	byz	_
+15	kh"v	H	כ"װ	x"V	have_mercy_and_peace
+16	udir	CONJ	אודיר	Avdyr	_
+17	gutis	N	גוטיס	gvtys	_
+
+SENT	1705W-GLIKL,5.77
+1	abir	CONJ	אַביר	Aabyr	_
+2	der	D	דער	der	_
+3	grusir	ADJ	גרוסיר	grvsyr	_
+4	ginedigi	ADJ	גינעדיגי	gynedygy	_
+5	gitigir	ADJ	גיטיגיר	gytygyr	_
+6	gat	NPR	גאַט	gAat	_
+7	mit	P	מיט	myt	_
+8	zeyni	PRO$	זײני	zYny	_
+9	grusi	ADJ	גרוסי	grvsy	_
+10	barimhertsigkeyt	N	באַרימהערציגקײט	bAarymherqygkYt	_
+11	hat	HVF	האַט	hAat	_
+12	unz	PRO	אונז	Avnz	_
+13	strik	N	סטריק	stryk	_
+14	oyz	RP	אױז	AWz	_
+15	givarfin	VBN	גיװאַרפֿין	gyVAarfyN	_
+16	vauran	WPRO+P	װאַוראַן	VAavrAaN	_
+17	mir	PRO	מיר	myr	_
+18	zikh	PRO	זיך	zyX	_
+19	fast	ADV	פֿאַסט	fAast	_
+20	haltin	VB	האַלטין	hAaltyN	_
+21	zalin	MDF	זאַלין	zAalyN	_
+
+SENT	1705W-GLIKL,5.78
+1	daz	D	דאַז	dAaz	_
+2	izt	VBF	איזט	Ayzt	_
+3	turtinu	H	טורטינו	tvrtynv	UNKNOWN
+4	hkdush	H	הקדוש	hkdv$	the_holy
+5	di	WPRO	די	dy	_
+6	uns	PRO	אונס	Avns	_
+7	oyf	P	אױף	AWF	_
+8	alin	Q	אַלין	AalyN	_
+9	mzhir	RP-H	מזשיר	mz$yr	_
+10	izt	VBF	איזט	Ayzt	_
+11	daz	C	דאַז	dAaz	_
+12	mir	PRO	מיר	myr	_
+13	nit	NEG	ניט	nyt	_
+14	far_zoyfin	VBF	פֿאַר_זױפֿין	fAar_zWfyN	_
+
+SENT	1705W-GLIKL,5.79
+1	un	CONJ	און	AvN	_
+2	gizagt	VBN	גיזאַגט	gyzAagt	_
+3	vi_vaul	C	װי_װאַול	Vy_VAavl	_
+4	mir	PRO	מיר	myr	_
+5	makht	N	מאַכט	mAaxt	_
+6	habin	VBF	האַבין	hAabyN	_
+7	vaz	WPRO	װאַז	VAaz	_
+8	mir	PRO	מיר	myr	_
+9	valin	VBF	װאַלין	VAalyN	_
+
+SENT	1705W-GLIKL,5.80
+1	abir	CONJ	אַביר	Aabyr	_
+2	in	P	אין	AyN	_
+3	unzir	PRO$	אונזיר	Avnzyr	_
+4	libi	ADJ	ליבי	lyby	_
+5	turh	NPR	טורה	tvrh	_
+6	alis	Q	אַליס	Aalys	_
+7	gishtelt	VBN	גישטעלט	gy$telt	_
+8	daz	C	דאַז	dAaz	_
+9	mir	PRO	מיר	myr	_
+10	zulin	MDF	זולין	zvlyN	_
+11	frum	ADJ	פֿרום	frvM	_
+12	zeyn	VB	זײן	zYN	_
+13	un'	CONJ	אונ'	Avn'	_
+14	tun	VB	טון	tvN	_
+15	alis	Q	אַליס	Aalys	_
+16	gutis	N	גוטיס	gvtys	_
+17	alis	P	אַליס	Aalys	_
+18	di	D	די	dy	_
+19	mlakhim	N	מלאַכים	mlAaxyM	_
+
+SENT	1705W-GLIKL,5.81
+1	un'	CONJ	אונ'	Avn'	_
+2	in	P	אין	AyN	_
+3	der	D	דער	der	_
+4	turh	NPR	טורה	tvrh	_
+5	an	RP	אַן	AaN	_
+6	gishribn	VBN	גישריבן	gy$rybN	_
+7	den	D	דען	deN	_
+8	skr	N	סקר	skr	_
+9	un'	CONJ	אונ'	Avn'	_
+10	euns	N	עונס	evns	_
+11	fun	P	פֿון	fvN	_
+12	mtsut	N	מצוט	mqvt	_
+13	un'	CONJ	אונ'	Avn'	_
+14	ebirut	H	עבירוט	ebyrvt	UNKNOWN
+15	ubkhrt	H	אובכרט	Avbxrt	UNKNOWN
+16	bkheym	H	בכײם	bxYM	UNKNOWN
+17	,	PUNC	,	,	_
+18	h"u	H	ה"או	h"Av	have_mercy_and_peace
+19	daz	C	דאַז	dAaz	_
+20	mir	PRO	מיר	myr	_
+21	unzir	PRO$	אונזיר	Avnzyr	_
+22	bisefir	N	ביסעפֿיר	bysefyr	_
+23	nit	NEG	ניט	nyt	_
+24	zultin	MDF	זולטין	zvltyN	_
+25	dinin	VB	דינין	dynyN	_
+26	un'	CONJ	אונ'	Avn'	_
+27	zultin	MDF	זולטין	zvltyN	_
+28	nakh	P	נ"ך	n"X	_
+29	unzir	PRO$	אונזיר	Avnzyr	_
+30	bizin	ADJ	ביזין	byzyN	_
+31	herttsin	N	הערטצין	hertqyN	_
+32	lustin	N	לוסטין	lvstyN	_
+33	lebin	VB	לעבין	lebyN	_
+34	alis	P	אַליס	Aalys	_
+35	vi	P	װי	Vy	_
+36	das	D	דת	dS	_
+37	un_farniftigi	ADJ	אונ_פֿאַרניפֿטיגי	Avn_fAarnyftygy	_
+38	fikh	N	פֿיך	fyX	_
+39	,	PUNC	,	,	_
+40	daz	WPRO	דאַז	dAaz	_
+41	keyn	Q	קײן	kYN	_
+42	skr	N	סקר	skr	_
+43	udr	CONJ	אודר	Avdr	_
+44	euns	N	עונס	evns	_
+45	nit	NEG	ניט	nyt	_
+46	beh"z	H	בעה"ז	beh"z	in_world_this
+47	udir	CONJ	אודיר	Avdyr	_
+48	beh"b	H	בעה"ב	beh"b	in_world_the_coming
+49	hat	VBF	האַט	hAat	_
+50	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,5.82
+1	ven	C	װען	VeN	_
+2	mir	PRO	מיר	myr	_
+3	h"u	H	ה"או	h"Av	have_mercy_and_peace
+4	zu	ADV	זו	zv	_
+5	tetin	VBF	טעטין	tetyN	_
+6	zu	ADV	זו	zv	_
+7	verin	VBF	װערין	VeryN	_
+8	mir	PRO	מיר	myr	_
+9	fil	Q	פֿיל	fyl	_
+10	ergir	ADJR	ערגיר	ergyr	_
+11	alis	P	אַליס	Aalys	_
+12	die	D	דיִע	dyie	_
+13	bhmut	N	בהמוט	bhmvt	_
+14	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,5.83
+1	den	CONJ	דען	deN	_
+2	di	D	די	dy	_
+3	bhmh	N	בהמה	bhmh	_
+4	falt	VBF	פֿאַלט	fAalt	_
+5	nidir	ADV	נידיר	nydyr	_
+
+SENT	1705W-GLIKL,5.84
+1	un'	CONJ	אונ'	Avn'	_
+2	sterbt	VBF	סטערבט	sterbt	_
+3	hoyf	X	הױף	hWF	_
+4	keyn	Q	קײן	kYN	_
+5	khsbun	N	כסבון	xsbvN	_
+6	tsu	TO	צו	qv	_
+7	gebin	VB	געבין	gebyN	_
+
+SENT	1705W-GLIKL,5.85
+1	abir	CONJ	אַביר	Aabyr	_
+2	der	D	דער	der	_
+3	armi	ADJ	אַרמי	Aarmy	_
+4	mensh	N	מענש	men$	_
+5	zu_bldi	C	זו_בלדי	zv_bldy	_
+6	er	PRO	ער	er	_
+7	stirbt	VBF	סטירבט	styrbt	_
+8	muz	MDF	מוז	mvz	_
+9	er	PRO	ער	er	_
+10	khsbun	N	כסבון	xsbvN	_
+11	gebin	VB	געבין	gebyN	_
+12	far	P	פֿאַר	fAar	_
+13	zeyn	PRO$	זײן	zYN	_
+14	beshefir	N	בעשעפֿיר	be$efyr	_
+15	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,5.86
+1	vaul	N	װאַול	VAavl	_
+2	nun	ADV	נ	n	_
+3	tsu	P	צו	qv	_
+4	unz	PRO	אונז	Avnz	_
+5	menshin	N	מענשין	men$yN	_
+6	da	C	דאַ	dAa	_
+7	mir	PRO	מיר	myr	_
+8	unzir	PRO$	אונזיר	Avnzyr	_
+9	khsbun	N	כסבון	xsbvN	_
+10	hipsh	ADV	היפּש	hyp$	_
+11	fertig	ADJ	פֿערטיג	fertyg	_
+12	makhin	VBF	מאַכין	mAaxyN	_
+13	darveyl	C	דאַרװײל	dAarVYl	_
+14	mir	PRO	מיר	myr	_
+15	nakh	ADV	נ"ך	n"X	_
+16	lebin	VBF	לעבין	lebyN	_
+17	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,5.87
+1	dheynu	ADV	דהײנו	dhYnv	_
+2	mir	PRO	מיר	myr	_
+3	visin	VBF	װיסין	VysyN	_
+4	vaul	ADV	װאַול	VAavl	_
+5	daz	C	דאַז	dAaz	_
+6	mir	PRO	מיר	myr	_
+7	zindig	ADJ	זינדיג	zyndyg	_
+8	zeynin	VBF	זײנין	zYnyN	_
+9	un'	CONJ	אונ'	Avn'	_
+10	der	D	דער	der	_
+11	itsr_hre	N	איצר_הרע	Ayqr_hre	_
+12	an	P	אַן	AaN	_
+13	uns	PRO	אונס	Avns	_
+14	shult	RP-N	שולט	$vlt	_
+15	izt	VBF	איזט	Ayzt	_
+
+SENT	1705W-GLIKL,5.88
+1	ki	H	כּי	Ky	because
+2	in	H	אין	AyN	there_is_not
+3	tsdik	H	צדיק	qdyk	righteous_one
+4	barts	H	באַרץ	bAarQ	in_land
+5	asr	H	אַסר	Aasr	that
+6	iesh	H	איעש	Aye$	he_will_do
+7	tub	H	טוב	tvb	good
+8	ula	H	אולאַ	AvlAa	and_not
+9	ikhta	H	איכטאַ	AyxtAa	he_will_sin
+10	alzu	ADV	אַלזו	Aalzv	_
+11	zal	MDF	ז"ל	z"l	_
+12	zikh	PRO	זיך	zyX	_
+13	der	D	דער	der	_
+14	mensh	N	מענש	men$	_
+15	nuhg	RP-H	נוהג	nvhg	_
+16	zeyn	VB	זײן	zYN	_
+17	,	PUNC	,	,	_
+18	zu_bldi	C	זו_בלדי	zv_bldy	_
+19	er	PRO	ער	er	_
+20	eyn	D	אײן	AYN	_
+21	kleyni	ADJ	קלײני	klYny	_
+22	udir	CONJ	אודיר	Avdyr	_
+23	grusi	ADJ	גרוסי	grvsy	_
+24	ebirh	N	עבירה	ebyrh	_
+25	gitan	VBN	גיטאַן	gytAaN	_
+26	dar_kigin	DR+P	דאַר_קיגין	dAar_kygyN	_
+27	mtkhrt	RP-H	מטכרט	mtxrt	_
+28	tsu	TO	צו	qv	_
+29	zeyn	VB	זײן	zYN	_
+30	un'	CONJ	אונ'	Avn'	_
+31	tsubh	N	צובה	qvbh	_
+32	tsu	TO	צו	qv	_
+33	tuhn	VB	טוהן	tvhN	_
+34	vi	WADV	װי	Vy	_
+35	unzri	PRO$	אונזרי	Avnzry	_
+36	khkhmi	N	ככמי	xxmy	_
+37	musr	N	מוסר	mvsr	_
+38	gishribn	VBN	גישריבן	gy$rybN	_
+39	habin	HVF	האַבין	hAabyN	_
+40	kdi	ADV	קדי	kdy	_
+41	daz	C	דאַז	dAaz	_
+42	di	D	די	dy	_
+43	ebirh	N	עבירה	ebyrh	_
+44	oyz	P	אױז	AWz	_
+45	zeyn	PRO$	זײן	zYN	_
+46	pnkm	N	פּנקם	pnkM	_
+47	gimekt	VAN	גימעקט	gymekt	_
+48	vert	RDF	װערט	Vert	_
+49	un'	CONJ	אונ'	Avn'	_
+50	alis_den	ADV	אַליס_דען	Aalys_deN	_
+51	alpi'	H	על-פּי'	el-py'	according_to
+52	mtsut	H	מצוט	mqvt	good_deeds
+53	darfir	DR+P	דאַרפֿיר	dAarfyr	_
+54	an	RP	אַן	AaN	_
+55	gishribn	VAN	גישריבן	gy$rybN	_
+56	verin	RDF	װערין	VeryN	_
+
+SENT	1705W-GLIKL,5.89
+1	abir	CONJ	אַביר	Aabyr	_
+2	ven	C	װען	VeN	_
+3	der	D	דער	der	_
+4	zindigi	ADJ	זינדיגי	zyndygy	_
+5	mensh	N	מענש	men$	_
+6	zu	ADV	זו	zv	_
+7	hin	RP-ADV	הין	hyN	_
+8	lebit	VBF	לעביט	lebyt	_
+9	alis	P	אַליס	Aalys	_
+10	di	D	די	dy	_
+11	bhmh	N	בהמה	bhmh	_
+12	un'	CONJ	אונ'	Avn'	_
+13	keyn	Q	קײן	kYN	_
+14	gutis	N	גוטיס	gvtys	_
+15	un'	CONJ	אונ'	Avn'	_
+16	afilu	FP	אַפֿילו	Aafylv	_
+17	alis	Q	אַליס	Aalys	_
+18	biz	N	ביז	byz	_
+19	tut	VBF	טוט	tvt	_
+20	un'	CONJ	אונ'	Avn'	_
+21	in	P	אין	AyN	_
+22	zeyni	PRO$	זײני	zYny	_
+23	zindin	N	זינדין	zyndyN	_
+24	alzu	ADV	אַלזו	Aalzv	_
+25	hin	RP-ADV	הין	hyN	_
+26	sterbit	VBF	סטערביט	sterbyt	_
+27	oy	INTJ	אױ	AW	_
+28	vi	WADV	װי	Vy	_
+29	vert	RDF	װערט	Vert	_
+30	er	PRO	ער	er	_
+31	oyf	P	אױף	AWF	_
+32	yenir	D	יעניר	yenyr	_
+33	velt	N	װעלט	Velt	_
+34	zeyn	PRO$	זײן	zYN	_
+35	bukh	N	בוך	bvX	_
+36	mit	P	מיט	myt	_
+37	eytil	ADJ	אײטיל	AYtyl	_
+38	tubut	N	טובוט	tvbvt	_
+39	velkhis	WPRO	װעלכיס	Velxys	_
+40	di	D	די	dy	_
+41	ebirut	N	עבירוט	ebyrvt	_
+42	zeyn	VBF	זײן	zYN	_
+43	gfindin	VB	גפֿינדין	gfyndyN	_
+44	un'	CONJ	אונ'	Avn'	_
+45	kumn	VB	קומן	kvmN	_
+46	ibr	RP	איבר	Aybr	_
+47	oyf	P	אױף	AWF	_
+48	den	D	דען	deN	_
+49	blat	N	בלאַט	blAat	_
+50	dar	WADV	דאַר	dAar	_
+51	der	D	דער	der	_
+52	preun	N	פּרעון	prevN	_
+53	bilikh	ADV	ביליך	bylyX	_
+54	zult	MDF	זולט	zvlt	_
+55	shtin	VB	שטין	$tyN	_
+
+SENT	1705W-GLIKL,309.91
+1	nun	ADV	נ	n	_
+2	vil	MDF	װיל	Vyl	_
+3	ikh	PRO	איך	AyX	_
+4	bs"d	H	בס"ד	bs"d	with_help_Heaven
+5	an	RP	אַן	AaN	_
+6	fangin	VB	פֿאַנגין	fAangyN	_
+7	daz	D	דאַז	dAaz	_
+8	zibinti	ADJ	זיבינטי	zybynty	_
+9	boykh	N	בױך	bWX	_
+10	velkhis	WPRO	װעלכיס	Velxys	_
+11	far_misht	VBF	פֿאַר_מישט	fAar_my$t	_
+12	lktst	H	לקצט	lkqt	to_a_little
+13	mer	P	מער	mer	_
+14	tripzal	N	טריפּזאַל	trypzAal	_
+15	lktst	H	לקצט	lkqt	to_a_little
+16	mit	P	מיט	myt	_
+17	far_gnigin	N	פֿאַר_גניגין	fAar_gnygyN	_
+18	nakh	P	נ"ך	n"X	_
+19	menshlikhi	ADJ	מענשליכי	men$lyxy	_
+20	natur	N	נאַטור	nAatvr	_
+21	ksdr	H	קסדר	ksdr	like_order
+22	shl	H	של	$l	of
+23	heulm	H	העולם	hevlM	the_world
+24	un'	CONJ	אונ'	Avn'	_
+25	vidr	ADV	װידר	Vydr	_
+26	an	RP	אַן	AaN	_
+27	fangin	VB	פֿאַנגין	fAangyN	_
+28	vaur	WADV	װאַור	VAavr	_
+29	ikh	PRO	איך	AyX	_
+30	oyz	RP	אױז	AWz	_
+31	gilazin	VBN	גילאַזין	gylAazyN	_
+32	habi	HVF	האַבי	hAaby	_
+
+SENT	1705W-GLIKL,309.92
+1	hir	ADV	היר	hyr	_
+2	mit	P	מיט	myt	_
+3	vil	MDF	װיל	Vyl	_
+4	ikh	PRO	איך	AyX	_
+5	meyn	PRO$	מײן	mYN	_
+6	zibintin	ADJ	זיבינטין	zybyntyN	_
+7	bukh	N	בוך	bvX	_
+8	an	RP	אַן	AaN	_
+9	fngin	VB	פֿנגין	fngyN	_
+
+SENT	1705W-GLIKL,309.93
+1	gat	NPR	גאַט	gAat	_
+2	zal	MDF	ז"ל	z"l	_
+3	gebin	VB	געבין	gebyN	_
+4	daz	C	דאַז	dAaz	_
+5	ikh	PRO	איך	AyX	_
+6	dakh	ADV	דאַך	dAaX	_
+7	veytir	ADV	װײטיר	VYtyr	_
+8	keyn	Q	קײן	kYN	_
+9	tser	N	צער	qer	_
+10	mer	QR	מער	mer	_
+11	an	P	אַן	AaN	_
+12	meyni	PRO$	מײני	mYny	_
+13	libh	ADJ	ליבה	lybh	_
+14	kindr	N	קינדר	kyndr	_
+15	arlebin	VB	אַרלעבין	AarlebyN	_
+16	daz	C	דאַז	dAaz	_
+17	ikh	PRO	איך	AyX	_
+18	bem	H	בעם	beM	in_time
+19	zknuti	H	זקנוטי	zknvty	old_age_my
+20	ali	Q	אַלי	Aaly	_
+21	far_gniglikhkeyt	N	פֿאַר_גניגליכקײט	fAar_gnyglyxkYt	_
+22	un'	CONJ	אונ'	Avn'	_
+23	ir	PRO$	איר	Ayr	_
+24	vaul_gang	N	װאַול_גאַנג	VAavl_gAang	_
+25	zehn	VB	זעהן	zehN	_
+26	un'	CONJ	אונ'	Avn'	_
+27	herin	VB	הערין	heryN	_
+28	mag	MDF	מאַג	mAag	_
+29	fun	P	פֿון	fvN	_
+30	lmelkh	H	למעלך	lmelX	UNKNOWN
+31	girakht	X	גיראַכט	gyrAaxt	_
+32	vi	WADV	װי	Vy	_
+33	ikh	PRO	איך	AyX	_
+34	mbni	H	מבני	mbny	from_son_my
+35	r'	NPR	ר'	r'	_
+36	znvil	NPR	זנװיל	znVyl	_
+37	e"h	H	ע"ה	e"h	on_him_the_peace
+38	eyn	D	אײן	AYN	_
+39	ibigin	ADJ	איביגין	AybygyN	_
+40	ap_sheyd	N	אַפּ_שײד	Aap_$Yd	_
+41	ginumin	VBN	גינומין	gynvmyN	_
+
+SENT	1705W-GLIKL,309.94
+1	gat	NPR	גאַט	gAat	_
+2	zal	MDF	ז"ל	z"l	_
+3	zikh	PRO	זיך	zyX	_
+4	mrkhm	RP-H	מרכם	mrxM	_
+5	zeyn	VB	זײן	zYN	_
+
+SENT	1705W-GLIKL,309.95
+1	zu	ADV	זו	zv	_
+2	eyn	D	אײן	AYN	_
+3	vakrir	ADJ	װאַקריר	VAakryr	_
+4	yungir	ADJ	יונגיר	yvngyr	_
+5	mensh	N	מענש	men$	_
+6	di	D	די	dy	_
+7	shvartsi	ADJ	שװאַרצי	$VAarqy	_
+8	erd	N	ערד	erd	_
+9	shunt	ADV	שונט	$vnt	_
+10	tsu	TO	צו	qv	_
+11	keyain	VB	קײאַיִן	kYAayiN	_
+
+SENT	1705W-GLIKL,309.96
+1	bin	BEF	בין	byN	_
+2	keyn	Q	קײן	kYN	_
+3	b'	NUM	ב'	b'	_
+4	snim	N	סנים	snyM	_
+5	kan	H	ק"ן	k"N	here
+6	tsu	P	צו	qv	_
+7	mits	NPR	מיץ	myQ	_
+8	givezin	VBN	גיװעזין	gyVezyN	_
+9	alis	C	אַליס	Aalys	_
+10	ikh	PRO	איך	AyX	_
+11	beu"h	H	בעו"ה	bev"h	for_sins_our_the_many
+12	di	D	די	dy	_
+13	bsurh	H	בסורה	bsvrh	news
+14	reh	H	רעה	reh	bad
+15	bikumin	VBN	ביקומין	bykvmyN	_
+16	das	C	דת	dS	_
+17	er	PRO	ער	er	_
+18	das	D	דת	dS	_
+19	tseytlikhi	N	צײטליכי	qYtlyxy	_
+20	gizegnit	VBN	גיזעגניט	gyzegnyt	_
+21	un'	CONJ	אונ'	Avn'	_
+22	in	P	אין	AyN	_
+23	das	D	דת	dS	_
+24	ibigi	N	איביגי	Aybygy	_
+25	gangin	VBN	גאַנגין	gAangyN	_
+26	izt	BEF	איזט	Ayzt	_
+27	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,309.97
+1	vaz	WPRO	װאַז	VAaz	_
+2	mir	PRO	מיר	myr	_
+3	das	D	דת	dS	_
+4	far	P	פֿאַר	fAar	_
+5	tser	N	צער	qer	_
+6	un'	CONJ	אונ'	Avn'	_
+7	sbrun	H	סברון	sbrvN	break
+8	lb	H	לב	lb	heart
+9	givezin	VBN	גיװעזין	gyVezyN	_
+10	izt	VBF	איזט	Ayzt	_
+11	lmkum	H	למקום	lmkvM	to_place
+12	b"h	H	ב"ה	b"h	blessed_he
+13	bikant	ADJ	ביקאַנט	bykAant	_
+
+SENT	1705W-GLIKL,309.98
+1	zu	ADV	זו	zv	_
+2	eyn	D	אײן	AYN	_
+3	libin	ADJ	ליבין	lybyN	_
+4	zun	N	זון	zvN	_
+5	in	P	אין	AyN	_
+6	zulkhi	ADJ	זולכי	zvlxy	_
+7	yungi	ADJ	יונגי	yvngy	_
+8	yarin	N	יאַרין	yAaryN	_
+9	tsu	TO	צו	qv	_
+10	far_lirin	VB	פֿאַר_לירין	fAar_lyryN	_
+11	nun	ADV	נ	n	_
+12	vas	WPRO	װאַס	VAas	_
+13	zal	MDF	ז"ל	z"l	_
+14	ikh	PRO	איך	AyX	_
+15	tun	VB	טון	tvN	_
+16	udir	CONJ	אודיר	Avdyr	_
+17	fil	Q	פֿיל	fyl	_
+18	klagin	VB	קלאַגין	klAagyN	_
+19	udir	CONJ	אודיר	Avdyr	_
+20	zagin	VB	זאַגין	zAagyN	_
+21	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,310.100
+1	nit	NEG	ניט	nyt	_
+2	lng	ADV	לנג	lng	_
+3	nakh	P	נ"ך	n"X	_
+4	zeyn	PRO$	זײן	zYN	_
+5	ap_sterben	N	אַפּ_סטערבען	Aap_sterbeN	_
+6	,	PUNC	,	,	_
+7	izt	BEF	איזט	Ayzt	_
+8	astu	H	אַסטו	Aastv	wife_his
+9	in	P	אין	AyN	_
+10	kind_bet	N	קינד_בעט	kynd_bet	_
+11	kumin	VBN	קומין	kvmyN	_
+12	un'	CONJ	אונ'	Avn'	_
+13	eyn	D	אײן	AYN	_
+14	takhtir	N	טאַכטיר	tAaxtyr	_
+15	bikumin	VBN	ביקומין	bykvmyN	_
+16	velkhi	WPRO	װעלכי	Velxy	_
+17	t"l	H	ט"ל	t"l	thanks_to_God
+18	frish	ADJ	פֿריש	fry$	_
+19	un'	CONJ	אונ'	Avn'	_
+20	gizunt	ADJ	גיזונט	gyzvnt	_
+21	un	CONJ	און	AvN	_
+22	shin	ADJ	ש	$	_
+23	kind	N	קינד	kynd	_
+24	gb"h	H	גב"ה	gb"h	UNKNOWN_blessed_he
+25	izt	VBF	איזט	Ayzt	_
+
+SENT	1705W-GLIKL,310.101
+1	hsh"i	H	הש"אי	h$"Ay	his_name_may_be_blessed
+2	b"h	H	ב"ה	b"h	blessed_he
+3	zal	MDF	ז"ל	z"l	_
+4	gebin	VB	געבין	gebyN	_
+5	das	C	דת	dS	_
+6	mir	PRO	מיר	myr	_
+7	mtsidi	H	מצידי	mqydy	from_side_my
+8	tsddim	H	צדדים	qddyM	sides
+9	zalin	MDF	זאַלין	zAalyN	_
+10	fil	Q	פֿיל	fyl	_
+11	smkhut	N	סמכוט	smxvt	_
+12	an	P	אַן	AaN	_
+13	ir	PRO	איר	Ayr	_
+14	arlebin	VB	אַרלעבין	AarlebyN	_
+
+SENT	1705W-GLIKL,310.102
+1	zi	PRO	זי	zy	_
+2	vert	RDF	װערט	Vert	_
+3	nun	ADV	נ	n	_
+4	lerkh	H	לערך	lerX	approximately
+5	i"g	NUM	אי"ג	Ay"g	_
+6	snim	N	סנים	snyM	_
+7	alt	ADJ	אַלט	Aalt	_
+8	zeyn	VB	זײן	zYN	_
+
+SENT	1705W-GLIKL,310.103
+1	zal	MDF	ז"ל	z"l	_
+2	gar	ADV	גאַר	gAar	_
+3	eyn	D	אײן	AYN	_
+4	vakir	ADJ	װאַקיר	VAakyr	_
+5	mensh	N	מענש	men$	_
+6	zeyn	VB	זײן	zYN	_
+
+SENT	1705W-GLIKL,310.104
+1	izt	VBF	איזט	Ayzt	_
+2	atsl	H	אַצל	Aaql	by
+3	abih	H	אַביה	Aabyh	father_her
+4	zkunh	H	זקונה	zkvnh	old
+5	p"u	H	פּ"או	p"Av	support_and_leader
+6	r'	NPR	ר'	r'	_
+7	mshh	NPR	משה	m$h	_
+8	bamberg	NPR	באַמבערג	bAamberg	_
+9	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,310.105
+1	klti	H	קלטי	klty	daughter_my
+2	asht	H	אַשט	Aa$t	wife_of
+3	r'	NPR	ר'	r'	_
+4	znuuil	NPR	זנוויִל	znvvyil	_
+5	e"h	H	ע"ה	e"h	on_him_the_peace
+6	hat	HVF	האַט	hAat	_
+7	vidr	ADV	װידר	Vydr	_
+8	eyn	D	אײן	AYN	_
+9	andrin	ADJ	אַנדרין	AandryN	_
+10	man	N	מאַן	mAaN	_
+11	ginumin	VBN	גינומין	gynvmyN	_
+12	abir	CONJ	אַביר	Aabyr	_
+13	den_zelbigin	D	דענ_זעלביגין	den_zelbygyN	_
+14	nit	NEG	ניט	nyt	_
+15	lng	ADV	לנג	lng	_
+16	gihat	VBN	גיהאַט	gyhAat	_
+
+SENT	1705W-GLIKL,310.106
+1	izt	BEF	איזט	Ayzt	_
+2	akh	ADV	אַך	AaX	_
+3	gistarbn	VBN	גיסטאַרבן	gystAarbN	_
+4	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,310.107
+1	alzu	ADV	אַלזו	Aalzv	_
+2	das	D	דת	dS	_
+3	guti	ADJ	גוטי	gvty	_
+4	yungi	ADJ	יונגי	yvngy	_
+5	mensh	N	מענש	men$	_
+6	akh	ADV	אַך	AaX	_
+7	ir	PRO$	איר	Ayr	_
+8	yugint	N	יוגינט	yvgynt	_
+9	biz	P	ביז	byz	_
+10	alher	ADV	אַלהער	Aalher	_
+11	nebikh	INTJ	נעביך	nebyX	_
+12	misrabil	ADV	מיסראַביל	mysrAabyl	_
+13	tsu	RP	צו	qv	_
+14	gibrakht	VBN	גיבראַכט	gybrAaxt	_
+
+SENT	1705W-GLIKL,310.108
+1	vaz	WPRO	װאַז	VAaz	_
+2	zal	MDF	ז"ל	z"l	_
+3	man	PRO	מאַן	mAaN	_
+4	zagin	VB	זאַגין	zAagyN	_
+
+SENT	1705W-GLIKL,310.109
+1	mi	H	מי	my	who
+2	yamr	H	יאַמר	yAamr	will_say
+3	mh	H	מה	mh	what
+4	aseh	H	אַסעה	Aaseh	you_will_do
+5	mag	MDF	מאַג	mAag	_
+6	veytir	ADV	װײטיר	VYtyr	_
+7	niks	Q	ניקס	nyks	_
+8	fun	P	פֿון	fvN	_
+9	gidenkin	VB	גידענקין	gydenkyN	_
+
+SENT	1705W-GLIKL,310.110
+1	den	CONJ	דען	deN	_
+2	izt	VBF	איזט	Ayzt	_
+3	mir	PRO	מיר	myr	_
+4	tsu	ADV	צו	qv	_
+5	fil	Q	פֿיל	fyl	_
+6	sbrun	H	סברון	sbrvN	break
+7	lb	H	לב	lb	heart
+8	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,310.111
+1	nun	ADV	נ	n	_
+2	bin	BEF	בין	byN	_
+3	ikh	PRO	איך	AyX	_
+4	kan	ADV	ק"ן	k"N	_
+5	lerkh	H	לערך	lerX	approximately
+6	a'snh	H	אַ'סנה	Aa'snh	one_year
+7	givezin	VBN	גיװעזין	gyVezyN	_
+8	un'	CONJ	אונ'	Avn'	_
+9	far_meynt	VBN	פֿאַר_מײנט	fAar_mYnt	_
+10	das	C	דת	dS	_
+11	ikh	PRO	איך	AyX	_
+12	nun	ADV	נ	n	_
+13	kenti	MDF	קענטי	kenty	_
+14	far_gniglikh	ADV	פֿאַר_גניגליך	fAar_gnyglyX	_
+15	lebin	VB	לעבין	lebyN	_
+16	vi	WADV	װי	Vy	_
+17	akh	ADV	אַך	AaX	_
+18	nakh	P	נ"ך	n"X	_
+19	den	D	דען	deN	_
+20	an_zehins	N	אַנ_זעהינס	Aan_zehyns	_
+21	lktst	H	לקצט	lkqt	to_a_little
+22	gidakht	VBN	גידאַכט	gydAaxt	_
+23	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,310.112
+1-2	bam	P~D	באַם	bAaM	_
+1	ba	P	באַ	bAa	_
+2	m	D	מ	m	_
+3	beli	H	בלי-	bly-	husband_my
+4	z"l	H	ז"ל	z"l	memory_to_blessing
+5	er	PRO	ער	er	_
+6	heti	HVF	העטי	hety	_
+7	kenin	MDN-IPP	קענין	kenyN	_
+8	nakh	ADV	נ"ך	n"X	_
+9	eyn	NUM	אײן	AYN	_
+10	sni	H	סני	sny	two
+11	snim	N	סנים	snyM	_
+12	haltin	VB	האַלטין	hAaltyN	_
+
+SENT	1705W-GLIKL,310.113
+1	zu	ADV	זו	zv	_
+2	heti	HVF	העטי	hety	_
+3	er	PRO	ער	er	_
+4	zikh	PRO	זיך	zyX	_
+5	e"h	H	ע"ה	e"h	on_him_the_peace
+6	ginugin	ADV	גינוגין	gynvgyN	_
+7	kenin	MDN-IPP	קענין	kenyN	_
+8	aroyz	ADV	אַרױז	AarWz	_
+9	reysin	VB	רײסין	rYsyN	_
+10	den	D	דען	deN	_
+11	lahr	H	לאַהר	lAahr	approximately
+12	shni	H	שני	$ny	two
+13	snim	N	סנים	snyM	_
+14	daz	C	דאַז	dAaz	_
+15	er	PRO	ער	er	_
+16	e"h	H	ע"ה	e"h	on_him_the_peace
+17	kl	H	קל	kl	all
+18	asr	H	אַסר	Aasr	that
+19	lu	H	לו	lv	to_him
+20	hat	HVF	האַט	hAat	_
+21	muzin	MDN-IPP	מוזין	mvzyN	_
+22	zeyni	PRO$	זײני	zYny	_
+23	kriditarin	N	קרידיטאַרין	krydytAaryN	_
+24	gebin	VB	געבין	gebyN	_
+
+SENT	1705W-GLIKL,310.114
+1	izt	BEF	איזט	Ayzt	_
+2	tukh	H	טוך	tvX	within
+3	tsrput	N	צרפּוט	qrpvt	jewellers
+4	zulkhir	ADJ	זולכיר	zvlxyr	_
+5	mu"m	H	מו"מ	mv"m	burden_and_giving
+6	givezin	VBN	גיװעזין	gyVezyN	_
+7	daz	C	דאַז	dAaz	_
+8	di	D	די	dy	_
+9	gntsi	ADJ	גנצי	gnqy	_
+10	khilh	N	כילה	xylh	_
+11	zenin	BEF	זענין	zenyN	_
+12	esirim	N	עסירים	esyryM	_
+13	givarin	VBN	גיװאַרין	gyVAaryN	_
+
+SENT	1705W-GLIKL,310.115
+1	un'	CONJ	אונ'	Avn'	_
+2	er	PRO	ער	er	_
+3	izt	BEF	איזט	Ayzt	_
+4	eyn	D	אײן	AYN	_
+5	khkhm	H	ככם	xxM	wise_man
+6	mkhukm	H	מכוקם	mxvkM	from_wise_man
+7	givezin	VBN	גיװעזין	gyVezyN	_
+8	un'	CONJ	אונ'	Avn'	_
+9	groysr	ADJ	גרױסר	grWsr	_
+10	bel_mu"m	N	בעל_מו"מ	bel_mv"m	_
+11	givezin	VBN	גיװעזין	gyVezyN	_
+12	un'	CONJ	אונ'	Avn'	_
+13	gar	ADV	גאַר	gAar	_
+14	vaul	ADV	װאַול	VAavl	_
+15	gilitn	ADJ	גיליטן	gylytN	_
+16	givezin	VBN	גיװעזין	gyVezyN	_
+17	mank	H	מאַנק	mAank	from_UNKNOWN
+18	ihudi'	H	איהודי'	Ayhvdy'	Jews
+19	uainm	H	אואַיִנם	AvAayinM	and_not_they
+20	ihudi'	H	איהודי'	Ayhvdy'	Jews
+
+SENT	1705W-GLIKL,310.116
+1	abir	CONJ	אַביר	Aabyr	_
+2	hmkum	H	המקום	hmkvM	the_place
+3	b"h	H	ב"ה	b"h	blessed_he
+4	hat	HVF	האַט	hAat	_
+5	zalkhis	ADJ	זאַלכיס	zAalxys	_
+6	{nit}	NEG	{ניט}	{nyt}	_
+7	habin	VB	האַבין	hAabyN	_
+8	valin	MDN-IPP	װאַלין	VAalyN	_
+9	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,310.117
+1	un'	CONJ	אונ'	Avn'	_
+2	zeyni	PRO$	זײני	zYny	_
+3	kreditarin	N	קרעדיטאַרין	kredytAaryN	_
+4	oyf	P	אױף	AWF	_
+5	in	PRO	אין	AyN	_
+6	gar	ADV	גאַר	gAar	_
+7	zer	ADV	זער	zer	_
+8	gidrungin	VBN	גידרונגין	gydrvngyN	_
+9	daz	C	דאַז	dAaz	_
+10	er	PRO	ער	er	_
+11	e"h	H	ע"ה	e"h	on_him_the_peace
+12	hat	HVF	האַט	hAat	_
+13	muzin	MDN-IPP	מוזין	mvzyN	_
+14	ibr	P	איבר	Aybr	_
+15	zeyt	N	זײט	zYt	_
+16	giain	VB	גיִאַין	gyiAayN	_
+17	un'	CONJ	אונ'	Avn'	_
+18	kl	H	קל	kl	all
+19	asr	H	אַסר	Aasr	that
+20	lu	H	לו	lv	to_him
+21	den_zelbin	D	דענ_זעלבין	den_zelbyN	_
+22	hintr_lazin	VB	הינטר_לאַזין	hyntr_lAazyN	_
+23	,	PUNC	,	,	_
+24	hgm	C	הגם	hgM	_
+25	zi	PRO	זי	zy	_
+26	daz	D	דאַז	dAaz	_
+27	khtsi	N	כצי	xqy	_
+28	nit	NEG	ניט	nyt	_
+29	bikumn	VBN	ביקומן	bykvmN	_
+30	habin	HVF	האַבין	hAabyN	_
+31	vaz	WPRO	װאַז	VAaz	_
+32	er	PRO	ער	er	_
+33	inin	PRO	אינין	AynyN	_
+34	kheyb	RP-H	כײב	xYb	_
+35	givezin	VBN	גיװעזין	gyVezyN	_
+
+SENT	1705W-GLIKL,310.118
+1	den_nakh	ADV	דענ_נאַך	den_nAaX	_
+2	zi	PRO	זי	zy	_
+3	zer	ADV	זער	zer	_
+4	mitb_emu	RP-H	מיטב_עמו	mytb_emv	_
+5	givezin	VBN	גיװעזין	gyVezyN	_
+6	oyb	C	אױב	AWb	_
+7	ikh	PRO	איך	AyX	_
+8	soynt	ADV	סױנט	sWnt	_
+9	atslu	H	אַצלו	Aaqlv	by_him
+10	an	RP	אַן	AaN	_
+11	gihaltin	VBN	גיהאַלטין	gyhAaltyN	_
+12	oyf	P	אױף	AWF	_
+13	meyn	PRO$	מײן	mYN	_
+14	ktubh	N	קטובה	ktvbh	_
+15	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,310.119
+1	abir	CONJ	אַביר	Aabyr	_
+2	hab	HVF	האַב	hAab	_
+3	zelbirt	ADV	זעלבירט	zelbyrt	_
+4	gizehn	VBN	גיזעהן	gyzehN	_
+5	daz	C	דאַז	dAaz	_
+6	niks	Q	ניקס	nyks	_
+7	tsu	TO	צו	qv	_
+8	krigin	VB	קריגין	krygyN	_
+9	izt	BEF	איזט	Ayzt	_
+10	givezin	VBN	גיװעזין	gyVezyN	_
+
+SENT	1705W-GLIKL,311.121
+1	er	PRO	ער	er	_
+2	e"h	H	ע"ה	e"h	on_him_the_peace
+3	hat	HVF	האַט	hAat	_
+4	mbti	H	מבטי	mbty	from_daughter_my
+5	mrim	NPR	מרים	mryM	_
+6	hi"	H	הי"	hy"	she_will_live
+7	al	Q	אַל	Aal	_
+8	ir	PRO$	איר	Ayr	_
+9	meut	H	מעוט	mevt	coins
+10	bidu	H	בידו	bydv	in_hand_his
+11	gihat	VBN	גיהאַט	gyhAat	_
+
+SENT	1705W-GLIKL,311.122
+1	zulkhis	ADJ	זולכיס	zvlxys	_
+2	abir	ADV	אַביר	Aabyr	_
+3	ikh	PRO	איך	AyX	_
+4	mmnu	H	ממנו	mmnv	from_him
+5	bikumin	VBN	ביקומין	bykvmyN	_
+6	an	P	אַן	AaN	_
+7	andri	ADJ	אַנדרי	Aandry	_
+8	ktbim	N	קטבים	ktbyM	_
+9	el	H	על	el	on
+10	b"i	H	ב"אי	b"Ay	children_Israel
+
+SENT	1705W-GLIKL,311.123
+1	abir	CONJ	אַביר	Aabyr	_
+2	vi	WADV	װי	Vy	_
+3	zaur	ADJ	זאַור	zAavr	_
+4	un	CONJ	און	AvN	_
+5	shvar	ADJ	שװאַר	$VAar	_
+6	das	C	דת	dS	_
+7	es	PRO	עס	es	_
+8	mir	PRO	מיר	myr	_
+9	givarin	VBN	גיװאַרין	gyVAaryN	_
+10	izt	BEF	איזט	Ayzt	_
+11	daz	D	דאַז	dAaz	_
+12	veys	VBF	װײס	VYs	_
+13	hs"i	H	הס"אי	hs"Ay	his_name_may_be_blessed
+14	b"h	H	ב"ה	b"h	blessed_he
+
+SENT	1705W-GLIKL,311.124
+1	gt	NPR	גט	gt	_
+2	hat	HVF	האַט	hAat	_
+3	bni	H	בני	bny	son_my
+4	ntn	NPR	נטן	ntN	_
+5	mg"l	H	מג"ל	mg"l	deputy_Levite
+6	izh	H	איזש	Ayz$	which
+7	alpim	H	אַלפּים	AalpyM	thousands
+8	r"t	H	ר"ט	r"t	rigut?
+9	habin	VB	האַבין	hAabyN	_
+10	muzin	MDN-IPP	מוזין	mvzyN	_
+
+SENT	1705W-GLIKL,311.125
+1	hab	HVF	האַב	hAab	_
+2	ikh	PRO	איך	AyX	_
+3	g"k	H	ג"ק	g"k	also_yes
+4	gizehn	VBN	גיזעהן	gyzehN	_
+5	tsu	TO	צו	qv	_
+6	bikumin	VB	ביקומין	bykvmyN	_
+7	un'	CONJ	אונ'	Avn'	_
+8	bsbil	H	בסביל	bsbyl	for
+9	zh	H	זש	z$	this
+10	nit	NEG	ניט	nyt	_
+11	oyf	P	אױף	AWF	_
+12	meyni	PRO$	מײני	mYny	_
+13	ktubh	N	קטובה	ktvbh	_
+14	gidakht	VBN	גידאַכט	gydAaxt	_
+15	un'	CONJ	אונ'	Avn'	_
+16	alis	Q	אַליס	Aalys	_
+17	far_lip	ADV	פֿאַר_ליפּ	fAar_lyp	_
+18	ginumin	VBN	גינומין	gynvmyN	_
+19	,	PUNC	,	,	_
+20	vas	WPRO	װאַס	VAas	_
+21	mir	PRO	מיר	myr	_
+22	hs"i	H	הס"אי	hs"Ay	his_name_may_be_blessed
+23	tsu	RP	צו	qv	_
+24	gshikt	VBN	גשיקט	g$ykt	_
+25	un'	CONJ	אונ'	Avn'	_
+26	gitan	VBN	גיטאַן	gytAaN	_
+27	alis	ADV	אַליס	Aalys	_
+28	vi	P	װי	Vy	_
+29	der	D	דער	der	_
+30	adlir	N	אַדליר	Aadlyr	_
+31	der	WPRO	דער	der	_
+32	zeyni	PRO$	זײני	zYny	_
+33	kindr	N	קינדר	kyndr	_
+34	oyf	P	אױף	AWF	_
+35	zeyni	PRO$	זײני	zYny	_
+36	fligil	N	פֿליגיל	flygyl	_
+37	ginumin	VBN	גינומין	gynvmyN	_
+38	un'	CONJ	אונ'	Avn'	_
+39	gizagt	VBN	גיזאַגט	gyzAagt	_
+40	es	ES	עס	es	_
+41	izt	VBF	איזט	Ayzt	_
+42	besir	ADJ	בעסיר	besyr	_
+43	daz	C	דאַז	dAaz	_
+44	man	PRO	מאַן	mAaN	_
+45	mikh	PRO	מיך	myX	_
+46	shist	VBF	שיסט	$yst	_
+47	alis	P	אַליס	Aalys	_
+48	in	P	אין	AyN	_
+49	meyni	PRO$	מײני	mYny	_
+50	kindir	N	קינדיר	kyndyr	_
+51	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,311.126
+1	vas	WPRO	װאַס	VAas	_
+2	hab	HVF	האַב	hAab	_
+3	ikh	PRO	איך	AyX	_
+4	mikh	PRO	מיך	myX	_
+5	ginit	VBN	גיניט	gynyt	_
+
+SENT	1705W-GLIKL,311.127
+1	beli	H	בלי-	bly-	husband_my
+2	e"h	H	ע"ה	e"h	on_him_the_peace
+3	hat	HVF	האַט	hAat	_
+4	zikh	PRO	זיך	zyX	_
+5	muzin	MDN-IPP	מוזין	mvzyN	_
+6	far_bargin	VB	פֿאַר_באַרגין	fAar_bAargyN	_
+
+SENT	1705W-GLIKL,311.128
+1	alzu	ADV	אַלזו	Aalzv	_
+2	zenin	BEF	זענין	zenyN	_
+3	es	PRO	עס	es	_
+4	di	D	די	dy	_
+5	kreditarin	N	קרעדיטאַרין	kredytAaryN	_
+6	givar	ADJ	גיװאַר	gyVAar	_
+7	givarin	VBN	גיװאַרין	gyVAaryN	_
+8	un'	CONJ	אונ'	Avn'	_
+9	g'	NUM	ג'	g'	_
+10	rakarin	N	ראַקאַרין	rAakAaryN	_
+11	lbitu	H	לביטו	lbytv	to_house_his
+12	gshikt	VBN	גשיקט	g$ykt	_
+13	di	WPRO	די	dy	_
+14	eyn	D	אײן	AYN	_
+15	opantur	N	אָפּאַנטור	AopAantvr	_
+16	habin	HVF	האַבין	hAabyN	_
+17	gimakht	VBN	גימאַכט	gymAaxt	_
+18	un'	CONJ	אונ'	Avn'	_
+19	oyf	RP	אױף	AWF	_
+20	gishribn	VBN	גישריבן	gy$rybN	_
+21	den	D	דען	deN	_
+22	nagil	N	נאַגיל	nAagyl	_
+23	oyf	P	אױף	AWF	_
+24	der	D	דער	der	_
+25	vant	N	װאַנט	VAant	_
+26	un'	CONJ	אונ'	Avn'	_
+27	aliz	Q	אַליז	Aalyz	_
+28	far_khtmnt	VBN	פֿאַר_כטמנט	fAar_xtmnt	_
+29	daz	C	דאַז	dAaz	_
+30	er	PRO	ער	er	_
+31	mir	PRO	מיר	myr	_
+32	nit	NEG	ניט	nyt	_
+33	gilazin	VBN	גילאַזין	gylAazyN	_
+34	mzun	H	מזון	mzvN	UNKNOWN
+35	lseudh	H	לסעודה	lsevdh	UNKNOWN
+36	akht	H	אַכט	Aaxt	one
+
+SENT	1705W-GLIKL,311.129
+1	ikh	PRO	איך	AyX	_
+2	bin	BEF	בין	byN	_
+3	mit	P	מיט	myt	_
+4	meyn	PRO$	מײן	mYN	_
+5	piltsil	N	פּילציל	pylqyl	_
+6	in	P	אין	AyN	_
+7	der	D	דער	der	_
+8	stub	N	סטוב	stvb	_
+9	gilegin	VBN	גילעגין	gylegyN	_
+
+SENT	1705W-GLIKL,311.130
+1	zenin	BEF	זענין	zenyN	_
+2	di	D	די	dy	_
+3	g'	NUM	ג'	g'	_
+4	rakarin	N	ראַקאַרין	rAakAaryN	_
+5	g"k	H	ג"ק	g"k	also_yes
+6	drinn	ADV	דרינן	drynN	_
+7	gilegin	VBN	גילעגין	gylegyN	_
+
+SENT	1705W-GLIKL,311.131
+1	un'	CONJ	אונ'	Avn'	_
+2	zi	PRO	זי	zy	_
+3	zenin	BEF	זענין	zenyN	_
+4	meynstir	RP-H	מײנסטיר	mYnstyr	_
+5	givezin	VBN	גיװעזין	gyVezyN	_
+6	keynir	Q	קײניר	kYnyr	_
+7	derfin	MDF	דערפֿין	derfyN	_
+8	oys	RP	אױס	AWs	_
+9	un'	CONJ	אונ'	Avn'	_
+10	in	RP	אין	AyN	_
+11	gin	VB	גין	gyN	_
+
+SENT	1705W-GLIKL,311.132
+1	hab	HVF	האַב	hAab	_
+2	ikh	PRO	איך	AyX	_
+3	bium	H	ביִום	byivM	on_day
+4	eyn	D	אײן	AYN	_
+5	malt	N	מאַלט	mAalt	_
+6	valin	MDN-IPP	װאַלין	VAalyN	_
+7	hin_vek	ADV	הינ_װעק	hyn_Vek	_
+8	gin	VB	גין	gyN	_
+
+SENT	1705W-GLIKL,311.133
+1	habin	HVF	האַבין	hAabyN	_
+2	zi	PRO	זי	zy	_
+3	mikh	PRO	מיך	myX	_
+4	bizukht	VBN	ביזוכט	byzvxt	_
+5	ub	C	אוב	Avb	_
+6	ikh	PRO	איך	AyX	_
+7	vas	Q	װאַס	VAas	_
+8	bey	P	בײ	bY	_
+9	mir	PRO	מיר	myr	_
+10	hab	VBF	האַב	hAab	_
+11	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,311.134
+1	alzu	ADV	אַלזו	Aalzv	_
+2	eyn	D	אײן	AYN	_
+3	g'	NUM	ג'	g'	_
+4	sbueut	N	סבועוט	sbvevt	_
+5	in	P	אין	AyN	_
+6	den	D	דען	deN	_
+7	misrablin	ADJ	מיסראַבלין	mysrAablyN	_
+8	stant	N	סטאַנט	stAant	_
+9	gilebt	VBN	גילעבט	gylebt	_
+
+SENT	1705W-GLIKL,311.135
+1	entlikh	ADV	ענטליך	entlyX	_
+2	hat	HVF	האַט	hAat	_
+3	beli	H	בלי-	bly-	husband_my
+4	zts"l	H	זצ"ל	zq"l	memory_righteous_to_blessing
+5	eyn	D	אײן	AYN	_
+6	akart	N	אַקאַרט	AakAart	_
+7	mit	P	מיט	myt	_
+8	zeyni	PRO$	זײני	zYny	_
+9	kreditorin	N	קרעדיטאָרין	kredytAoryN	_
+10	gimakht	VBN	גימאַכט	gymAaxt	_
+
+SENT	1705W-GLIKL,311.136
+1	un'	CONJ	אונ'	Avn'	_
+2	habin	HVF	האַבין	hAabyN	_
+3	kl	H	קל	kl	all
+4	asr	H	אַסר	Aasr	that
+5	lu	H	לו	lv	to_him
+6	oyf	RP	אױף	AWF	_
+7	gishribn	VBN	גישריבן	gy$rybN	_
+8	un'	CONJ	אונ'	Avn'	_
+9	im	PRO	אים	AyM	_
+10	zelbi	ADJ	זעלבי	zelby	_
+11	tukh	H	טוך	tvX	within
+12	idu	H	אידו	Aydv	hand_his
+13	gilazin	VBN	גילאַזין	gylAazyN	_
+14	das	C	דת	dS	_
+15	er	PRO	ער	er	_
+16	zal	MDF	ז"ל	z"l	_
+17	eyn	D	אײן	AYN	_
+18	oys_royf	N	אױס_רױף	AWs_rWF	_
+19	makhin	VB	מאַכין	mAaxyN	_
+
+SENT	1705W-GLIKL,311.137
+1	izt	BEF	איזט	Ayzt	_
+2	keyn	Q	קײן	kYN	_
+3	tsinin	ADJ	צינין	qynyN	_
+4	lefil	N	לעפֿיל	lefyl	_
+5	bbitu	H	בביטו	bbytv	in_house_his
+6	givezin	VBN	גיװעזין	gyVezyN	_
+
+SENT	1705W-GLIKL,311.138
+1	izt	BEF	איזט	Ayzt	_
+2	alis	Q	אַליס	Aalys	_
+3	oyf	RP	אױף	AWF	_
+4	gishribn	VAN	גישריבן	gy$rybN	_
+5	givarin	RDN	גיװאַרין	gyVAaryN	_
+6	daz	C	דאַז	dAaz	_
+7	er	PRO	ער	er	_
+8	hat	HVF	האַט	hAat	_
+9	niks	Q	ניקס	nyks	_
+10	hat	HVF	האַט	hAat	_
+11	kenin	MDN-IPP	קענין	kenyN	_
+12	melim	RP-H	מעלים	melyM	_
+13	zeyn	VB	זײן	zYN	_
+
+SENT	1705W-GLIKL,311.139
+1	akh	CONJ	אַך	AaX	_
+2	niks	Q	ניקס	nyks	_
+3	bigert	VBN	ביגערט	bygert	_
+4	melim	RP-H	מעלים	melyM	_
+5	tsu	TO	צו	qv	_
+6	zeyn	VB	זײן	zYN	_
+
+SENT	1705W-GLIKL,311.140
+1	den	CONJ	דען	deN	_
+2	er	PRO	ער	er	_
+3	gat	NPR	גאַט	gAat	_
+4	gidankit	VBN	גידאַנקיט	gydAankyt	_
+5	das	C	דת	dS	_
+6	er	PRO	ער	er	_
+7	mit	P	מיט	myt	_
+8	zeyn	PRO$	זײן	zYN	_
+9	khiut	N	כיִוט	xyivt	_
+10	izt	BEF	איזט	Ayzt	_
+11	dar_fun	DR+P	דאַר_פֿון	dAar_fvN	_
+12	gikumen	VBN	גיקומען	gykvmeN	_
+
+SENT	1705W-GLIKL,311.141
+1	zeyni	PRO$	זײני	zYny	_
+2	kriditarin	N	קרידיטאַרין	krydytAaryN	_
+3	habin	HVF	האַבין	hAabyN	_
+4	gizehin	VBN	גיזעהין	gyzehyN	_
+5	das	C	דת	dS	_
+6	er	PRO	ער	er	_
+7	inin	PRO	אינין	AynyN	_
+8	alis	Q	אַליס	Aalys	_
+9	gigebin	VBN	גיגעבין	gygebyN	_
+10	vas	WPRO	װאַס	VAas	_
+11	er	PRO	ער	er	_
+12	gihat	VBN	גיהאַט	gyhAat	_
+13	hat	HVF	האַט	hAat	_
+
+SENT	1705W-GLIKL,312.143
+1	habin	HVF	האַבין	hAabyN	_
+2	zi	PRO	זי	zy	_
+3	etsmu	H	עצמו	eqmv	UNKNOWN_his
+4	rkhmnut	N	רכמנוט	rxmnvt	_
+5	ibr	P	איבר	Aybr	_
+6	in	PRO	אין	AyN	_
+7	gihat	VBN	גיהאַט	gyhAat	_
+
+SENT	1705W-GLIKL,312.144
+1	den	CONJ	דען	deN	_
+2	er	PRO	ער	er	_
+3	di	D	די	dy	_
+4	khtsi	N	כצי	xqy	_
+5	nit	NEG	ניט	nyt	_
+6	kenin	MDN-IPP	קענין	kenyN	_
+7	gebin	VB	געבין	gebyN	_
+8	vas	WPRO	װאַס	VAas	_
+9	er	PRO	ער	er	_
+10	emhm	H	עמהם	emhM	with_them
+11	akurdirt	VBN	אַקורדירט	Aakvrdyrt	_
+12	hat	HVF	האַט	hAat	_
+13	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,312.145
+1	dakh	ADV	דאַך	dAaX	_
+2	zenin	BEF	זענין	zenyN	_
+3	zi	PRO	זי	zy	_
+4	fridlikh	ADJ	פֿרידליך	frydlyX	_
+5	emu	H	עמו	emv	with_him
+6	givezin	VBN	גיװעזין	gyVezyN	_
+7	un'	CONJ	אונ'	Avn'	_
+8	im	PRO	אים	AyM	_
+9	nit	NEG	ניט	nyt	_
+10	sharf	ADV	שאַרף	$AarF	_
+11	gidrengit	VBN	גידרענגיט	gydrengyt	_
+
+SENT	1705W-GLIKL,312.146
+1	zi	PRO	זי	zy	_
+2	hetin	HVF	העטין	hetyN	_
+3	im	PRO	אים	AyM	_
+4	vaul	ADV	װאַול	VAavl	_
+5	kenin	MDN-IPP	קענין	kenyN	_
+6	tfus	RP-H	טפֿוס	tfvs	_
+7	nemin	VB	נעמין	nemyN	_
+
+SENT	1705W-GLIKL,312.147
+1	abir	CONJ	אַביר	Aabyr	_
+2	gizehin	VBN	גיזעהין	gyzehyN	_
+3	daz	C	דאַז	dAaz	_
+4	er	PRO	ער	er	_
+5	eyn	D	אײן	AYN	_
+6	erlikhr	ADJ	ערליכר	erlyxr	_
+7	man	N	מאַן	mAaN	_
+8	givezin	VBN	גיװעזין	gyVezyN	_
+9	izt	BEF	איזט	Ayzt	_
+10	un'	CONJ	אונ'	Avn'	_
+11	das	C	דת	dS	_
+12	er	PRO	ער	er	_
+13	inin	PRO	אינין	AynyN	_
+14	vas	WPRO	װאַס	VAas	_
+15	er	PRO	ער	er	_
+16	nur	FP	נור	nvr	_
+17	gihat	VBN	גיהאַט	gyhAat	_
+18	hat	HVF	האַט	hAat	_
+19	hin	RP-ADV	הין	hyN	_
+20	gebin	VBN	געבין	gebyN	_
+21	ula	H	אולאַ	AvlAa	and_not
+22	nsad	H	נסאַד	nsAad	remained
+23	maumh	H	מאַומה	mAavmh	anything
+
+SENT	1705W-GLIKL,312.148
+1	er	PRO	ער	er	_
+2	izt	BEF	איזט	Ayzt	_
+3	gar	ADV	גאַר	gAar	_
+4	eyn	D	אײן	AYN	_
+5	vakrir	ADJ	װאַקריר	VAakryr	_
+6	man	N	מאַן	mAaN	_
+7	givezin	VBN	גיװעזין	gyVezyN	_
+8	un'	CONJ	אונ'	Avn'	_
+9	in	P	אין	AyN	_
+10	zeyn	PRO$	זײן	zYN	_
+11	vaul_stant	N	װאַול_סטאַנט	VAavl_stAant	_
+12	fun	P	פֿון	fvN	_
+13	ali	Q	אַלי	Aaly	_
+14	glibit	VAN	גליביט	glybyt	_
+15	un'	CONJ	אונ'	Avn'	_
+16	gfarkhit	VAN	גפֿאַרכיט	gfAarxyt	_
+17	givezin	BEN	גיװעזין	gyVezyN	_
+
+SENT	1705W-GLIKL,312.149
+1	un'	CONJ	אונ'	Avn'	_
+2	izt	BEF	איזט	Ayzt	_
+3	frnm	N	פֿרנם	frnM	_
+4	un'	CONJ	אונ'	Avn'	_
+5	stdlin	N	סטדלין	stdlyN	_
+6	bk"k	H	בק"ק	bk"k	in_community_holy
+7	mits	NPR	מיץ	myQ	_
+8	givezin	VBN	גיװעזין	gyVezyN	_
+9	bey	P	בײ	bY	_
+10	l'	NUM	ל'	l'	_
+11	snim	N	סנים	snyM	_
+12	un'	CONJ	אונ'	Avn'	_
+13	alis	Q	אַליס	Aalys	_
+14	gar	ADV	גאַר	gAar	_
+15	shin	ADV	ש	$	_
+16	gfirt	VBN	גפֿירט	gfyrt	_
+17	daz	C	דאַז	dAaz	_
+18	er	PRO	ער	er	_
+19	groysn	ADJ	גרױסן	grWsN	_
+20	khn	N	כן	xN	_
+21	gihat	VBN	גיהאַט	gyhAat	_
+22	atsl	H	אַצל	Aaql	by
+23	ihudim	H	איהודים	AyhvdyM	Jews
+24	uainm	H	אואַיִנם	AvAayinM	and_not_they
+25	ihudi'	H	איהודי'	Ayhvdy'	Jews
+
+SENT	1705W-GLIKL,312.150
+1	abir	CONJ	אַביר	Aabyr	_
+2	dar	C	דאַר	dAar	_
+3	im	PRO	אים	AyM	_
+4	daz	D	דאַז	dAaz	_
+5	slimzl	N	סלימזל	slymzl	_
+6	beu"h	H	בעו"ה	bev"h	for_sins_our_the_many
+7	gitrafin	VBN	גיטראַפֿין	gytrAafyN	_
+8	hat	HVF	האַט	hAat	_
+9	izt	BEF	איזט	Ayzt	_
+10	uns	PRO	אונס	Avns	_
+11	zer	ADV	זער	zer	_
+12	mizrabil	ADV	מיזראַביל	myzrAabyl	_
+13	gangin	VBN	גאַנגין	gAangyN	_
+14	daz	C	דאַז	dAaz	_
+15	mir	PRO	מיר	myr	_
+16	mms	ADV	ממס	mms	_
+17	uft	ADV	אופֿט	Avft	_
+18	keyn	Q	קײן	kYN	_
+19	lkhm	H	לכם	lxM	bread
+20-21	im	P~D	אים	AyM	_
+20	i	P	אי	Ay	_
+21	m	D	מ	m	_
+22	bit	N	ביט	byt	_
+23	gihat	VBN	גיהאַט	gyhAat	_
+24	vi	WADV	װי	Vy	_
+25	es	PRO	עס	es	_
+26	nakh	ADV	נ"ך	n"X	_
+27	far	P	פֿאַר	fAar	_
+28	aizh	H	אַיִזש	Aayiz$	UNKNOWN
+29	sni'	H	סני'	sny'	years
+30	zua	ADV	זואַ	zvAa	_
+31	groys	ADJ	גרױס	grWs	_
+32	ikrut	N	איקרוט	Aykrvt	_
+33	givezin	VBN	גיװעזין	gyVezyN	_
+
+SENT	1705W-GLIKL,312.151
+1	ikh	PRO	איך	AyX	_
+2	hab	HVF	האַב	hAab	_
+3	nakh	ADV	נ"ך	n"X	_
+4	ktsh	H	קטש	kt$	UNKNOWN
+5	meut	H	מעוט	mevt	coins
+6	far	P	פֿאַר	fAar	_
+7	mir	PRO	מיר	myr	_
+8	gihat	VBN	גיהאַט	gyhAat	_
+
+SENT	1705W-GLIKL,312.152
+1	hab	HVF	האַב	hAab	_
+2	ikh	PRO	איך	AyX	_
+3	letim	H	לעטים	letyM	at_times
+4	oyz	RP	אױז	AWz	_
+5	gebin	VBN	געבין	gebyN	_
+6	vas	WPRO	װאַס	VAas	_
+7	ltsurkh	H	לצורך	lqvrX	for_purpose
+8	hbit	H	הביט	hbyt	the_house
+9	gevezin	VBN	געװעזין	geVezyN	_
+
+SENT	1705W-GLIKL,312.153
+1	zu_bldi	C	זו_בלדי	zv_bldy	_
+2	er	PRO	ער	er	_
+3	meut	N	מעוט	mevt	_
+4	bikumin	VBN	ביקומין	bykvmyN	_
+5	mir	PRO	מיר	myr	_
+6	zalkhis	N	זאַלכיס	zAalxys	_
+7	vidr	ADV	װידר	Vydr	_
+8	gebin	VBN	געבין	gebyN	_
+9	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,312.154
+1	khtni	H	כטני	xtny	son_in_law_my
+2	hktsin	H	הקצין	hkqyN	the_leader
+3	p"u	H	פּ"או	p"Av	support_and_leader
+4	msh	NPR	מש	m$	_
+5	krumbakh	NPR	קרומבאַך	krvmbAaX	_
+6	im	PRO	אים	AyM	_
+7	fil	Q	פֿיל	fyl	_
+8	gutis	N	גוטיס	gvtys	_
+9	gitan	VBN	גיטאַן	gytAaN	_
+10	hgm	C	הגם	hgM	_
+11	das	C	דת	dS	_
+12	er	PRO	ער	er	_
+13	yutr	H	יוטר	yvtr	more
+14	alis	P	אַליס	Aalys	_
+15	sni	H	סני	sny	two
+16	alpi	H	על-פּי	el-py	thousands
+17	r"t	H	ר"ט	r"t	rigut?
+18	an	P	אַן	AaN	_
+19	im	PRO	אים	AyM	_
+20	izt	BEF	איזט	Ayzt	_
+21	tsu	ADV	צו	qv	_
+22	kurts	ADV	קורץ	kvrQ	_
+23	gikumin	VBN	גיקומין	gykvmyN	_
+24	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,312.155
+1	hs"i	H	הס"אי	hs"Ay	his_name_may_be_blessed
+2	b"h	H	ב"ה	b"h	blessed_he
+3	hat	HVF	האַט	hAat	_
+4	zulkhis	ADJ	זולכיס	zvlxys	_
+5	akh	ADV	אַך	AaX	_
+6	lkhtni	H	לכטני	lxtny	to_son_in_law_my
+7	si'	H	סי'	sy'	that_he_will_live
+8	gnitin	VB	גניטין	gnytyN	_
+9	lazin	VBN-IPP	לאַזין	lAazyN	_
+10	daz	C	דאַז	dAaz	_
+11	er	PRO	ער	er	_
+12	t"l	H	ט"ל	t"l	thanks_to_God
+13	mms	H	ממס	mms	really
+14	der	D	דער	der	_
+15	gresti	ADJS	גרעסטי	gresty	_
+16	eusr	N	עוסר	evsr	_
+17	izt	BEF	איזט	Ayzt	_
+18	givezin	VBN	גיװעזין	gyVezyN	_
+19	tukh	H	טוך	tvX	within
+20	hkhilh	H	הכילה	hxylh	the_community
+21	un'	CONJ	אונ'	Avn'	_
+22	eyn	D	אײן	AYN	_
+23	is	H	איס	Ays	person
+24	isr	H	איסר	Aysr	UNKNOWN
+25	ulb	H	אולב	Avlb	and_heart
+26	khds	H	כדס	xds	UNKNOWN
+27	bikumin	VBN	ביקומין	bykvmyN	_
+28	das	C	דת	dS	_
+29	er	PRO	ער	er	_
+30	fil	Q	פֿיל	fyl	_
+31	gutis	N	גוטיס	gvtys	_
+32	tut	VBF	טוט	tvt	_
+33	es	H	עס	es	direct_object_marker
+34	krubi'	H	קרובי'	krvby'	family_members
+35	hn	H	הן	hN	they
+36	mtsidu	H	מצידו	mqydv	from_side_his
+37	au	H	אַו	Aav	or
+38	mtsd	H	מצד	mqd	from_side
+39	bti	H	בטי	bty	daughter_my
+40	astr	H	אַסטר	Aastr	Esther
+41	hi'	H	הי'	hy'	she_will_live
+42	,	PUNC	,	,	_
+43	ubitu	H	אוביטו	Avbytv	and_house_his
+44	ptukh	H	פּטוך	ptvX	open
+45	lruukhh	H	לרוּוכה	lrUvxh	and_wide_open
+46	far	P	פֿאַר	fAar	_
+47	eneym	H	ענײם	enYM	eyes
+48	un'	CONJ	אונ'	Avn'	_
+49	le"e	H	לע"ע	le"e	forever_until
+50	frnm	H	פֿרנם	frnM	supported
+51	ali	Q	אַלי	Aaly	_
+52	khsubi	H	כסובי	xsvby	important
+53	aurkhim	H	אַורכים	AavrxyM	guests
+54	di	D	די	dy	_
+55	marbeh	H	מאַרבעה	mAarbeh	increase
+56	pinut	H	פּינוט	pynvt	corners
+57	eulm	H	עולם	evlM	world
+
+SENT	1705W-GLIKL,312.156
+1	zeyn	VBF	זײן	zYN	_
+2	ali	Q	אַלי	Aaly	_
+3	bey	P	בײ	bY	_
+4	im	PRO	אים	AyM	_
+5	gast	N	גאַסט	gAast	_
+
+SENT	1705W-GLIKL,312.157
+1	un'	CONJ	אונ'	Avn'	_
+2	tut	VBF	טוט	tvt	_
+3	an	P	אַן	AaN	_
+4	idrin	Q	אידרין	AydryN	_
+5	tsukht	N	צוכט	qvxt	_
+6	un'	CONJ	אונ'	Avn'	_
+7	er	N	ער	er	_
+8	an	CONJ	אַן	AaN	_
+9	desin	D	דעסין	desyN	_
+10	gleykhin	ADJ	גלײכין	glYxyN	_
+11	astu	H	אַסטו	Aastv	wife_his
+12	bti	H	בטי	bty	daughter_my
+13	astr	H	אַסטר	Aastr	Esther
+14	hi"	H	הי"	hy"	she_will_live
+15	g"k	H	ג"ק	g"k	also_yes
+
+SENT	1705W-GLIKL,312.158
+1	lktsr	H	לקצר	lkqr	to_shorten
+2	beydi	Q	בײדי	bYdy	_
+3	habn	VBF	האַבן	hAabN	_
+4	guti	ADJ	גוטי	gvty	_
+5	lbbut	N	לבבוט	lbbvt	_
+
+SENT	1705W-GLIKL,312.159
+1	un'	CONJ	אונ'	Avn'	_
+2	gsikht	VBF	גסיכט	gsyxt	_
+3	gar	ADV	גאַר	gAar	_
+4	fil	Q	פֿיל	fyl	_
+5	gutis	N	גוטיס	gvtys	_
+6	oyz	P	אױז	AWz	_
+7	ir	PRO$	איר	Ayr	_
+8	bit	N	ביט	byt	_
+9	,	PUNC	,	,	_
+10	hs"i	H	הס"אי	hs"Ay	his_name_may_be_blessed
+11	islm	H	איסלם	AyslM	he_will_pay
+12	skrm	H	סקרם	skrM	payment_their
+
+SENT	1705W-GLIKL,312.160
+1	un'	CONJ	אונ'	Avn'	_
+2	zi	PRO	זי	zy	_
+3	mit	P	מיט	myt	_
+4	ir	PRO$	איר	Ayr	_
+5	kindrkhir	N	קינדרכיר	kyndrxyr	_
+6	ed	H	עד	ed	until
+7	mah	H	מאַה	mAah	a_hundred
+8	sni'	H	סני'	sny'	years
+9	tukh	H	טוך	tvX	within
+10	eusr	H	עוסר	evsr	wealth
+11	ukbud	H	אוקבוד	Avkbvd	and_honor
+12	gizand	ADJ	גיזאַנד	gyzAand	_
+13	lazin	VB	לאַזין	lAazyN	_
+
+SENT	1705W-GLIKL,313.162
+1	lerkh	H	לערך	lerX	approximately
+2	he"b	H	הע"ב	he"b	5472_1711_1712
+3	r"h	H	ר"ה	r"h	head_month
+4	siun	H	סיִון	syivN	Sivan
+5	izt	BEF	איזט	Ayzt	_
+6	bni	H	בני	bny	son_my
+7	ali	NPR	אַלי	Aaly	_
+8	si	H	סי	sy	that_he_will_live
+9	lmz"t	H	למז"ט	lmz"t	to_luck_good
+10	eyn	D	אײן	AYN	_
+11	khtn	N	כטן	xtN	_
+12	givarin	VBN	גיװאַרין	gyVAaryN	_
+
+SENT	1705W-GLIKL,313.163
+1	hkhtnh	H	הכטנה	hxtnh	the_wedding
+2	izt	BEF	איזט	Ayzt	_
+3	gistelt	VAN	גיסטעלט	gystelt	_
+4	el	H	על	el	on
+5	siun	H	סיִון	syivN	Sivan
+6	he"u	H	הע"או	he"Av	UNKNOWN
+7	hbe"l	H	הבע"ל	hbe"l	UNKNOWN
+8	makhr	H	מאַכר	mAaxr	UNKNOWN
+9	khtn	H	כטן	xtN	bridegroom
+10	ukhlh	H	אוכלה	Avxlh	and_bride
+11	bidi	Q	בידי	bydy	_
+12	nakh	ADV	נ"ך	n"X	_
+13	rkh	H	רך	rX	UNKNOWN
+14	bshnit	VAN	בשניט	b$nyt	_
+15	zeyn	BEF	זײן	zYN	_
+16	h'	H	ה'	h'	5
+17	yarkh	H	יאַרך	yAarX	UNKNOWN
+18	ymih'	H	ימיה'	ymyh'	UNKNOWN
+19	usnutihm	H	אוסנוטיהם	AvsnvtyhM	UNKNOWN
+
+SENT	1705W-GLIKL,313.164
+1	zi	PRO	זי	zy	_
+2	brengin	VBF	ברענגין	brengyN	_
+3	em	H	עם	eM	with
+4	mtnut	H	מטנוט	mtnvt	gifts
+5	nit	NEG	ניט	nyt	_
+6	mer	QR	מער	mer	_
+7	tsu_zamin	ADV	צו_זאַמין	qv_zAamyN	_
+8	alis	P	אַליס	Aalys	_
+9	lerkh	H	לערך	lerX	approximately
+10	l'	H	ל'	l'	30
+11	alpim	H	אַלפּים	AalpyM	thousands
+12	r"t	H	ר"ט	r"t	rigut?
+
+SENT	1705W-GLIKL,313.165
+1	hmkum	H	המקום	hmkvM	the_place
+2	b"h	H	ב"ה	b"h	blessed_he
+3	zal	MDF	ז"ל	z"l	_
+4	inin	PRO	אינין	AynyN	_
+5	mzl	H	מזל	mzl	luck
+6	ubrkhh	H	אוברכה	Avbrxh	and_blessing
+7	gebin	VB	געבין	gebyN	_
+8	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,313.166
+1	nun	ADV	נ	n	_
+2	vidr	ADV	װידר	Vydr	_
+3	mbeli	H	מבעלי	mbely	from_husband_my
+4	zts"l	H	זצ"ל	zq"l	memory_righteous_to_blessing
+5	tsu	TO	צו	qv	_
+6	shreybin	VB	שרײבין	$rYbyN	_
+7	velkhir	WPRO	װעלכיר	Velxyr	_
+8	zikh	PRO	זיך	zyX	_
+9	in	P	אין	AyN	_
+10	zeyn	PRO$	זײן	zYN	_
+11	ilint	N	אילינט	Aylynt	_
+12	nit	NEG	ניט	nyt	_
+13	gar	ADV	גאַר	gAar	_
+14	vaul	ADV	װאַול	VAavl	_
+15	hat	HVF	האַט	hAat	_
+16	shikn	VB	שיקן	$ykN	_
+17	kenin	MDN-IPP	קענין	kenyN	_
+
+SENT	1705W-GLIKL,313.167
+1	den	CONJ	דען	deN	_
+2	zeyni	PRO$	זײני	zYny	_
+3	kindr	N	קינדר	kyndr	_
+4	bautu	H	באַוטו	bAavtv	at_same
+5	pem	H	פּעם	peM	time
+6	nakh	ADV	נ"ך	n"X	_
+7	nit	NEG	ניט	nyt	_
+8	in	P	אין	AyN	_
+9	den	D	דען	deN	_
+10	stant	N	סטאַנט	stAant	_
+11	givezin	VBN	גיװעזין	gyVezyN	_
+12	daz	C	דאַז	dAaz	_
+13	zi	PRO	זי	zy	_
+14	abiu	H	אַביִו	Aabyiv	father_his
+15	hetin	HVF	העטין	hetyN	_
+16	zalin	MDN-IPP	זאַלין	zAalyN	_
+17	ful_kumlikh	ADV	פֿול_קומליך	fvl_kvmlyX	_
+18	helfin	VB	העלפֿין	helfyN	_
+19	,	PUNC	,	,	_
+
+SENT	1705W-GLIKL,313.168
+1	dakh	ADV	דאַך	dAaX	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zi	PRO	זי	zy	_
+4	gitan	VBN	גיטאַן	gytAaN	_
+5	vau	WADV	װאַו	VAav	_
+6	zi	PRO	זי	zy	_
+7	gikent	MDN	גיקענט	gykent	_
+8	habin	HVF	האַבין	hAabyN	_
+
+SENT	1705W-GLIKL,313.169
+1	bnu	H	בנו	bnv	son_his
+2	shl	H	של	$l	of
+3	beli	H	בלי-	bly-	husband_my
+4	z"l	H	ז"ל	z"l	memory_to_blessing
+5	bsmu	H	בסמו	bsmv	by_name_his
+6	mhur"r	H	מהור"ר	mhvr"r	teacher_our_the_great_and_master
+7	smual	NPR	סמואַל	smvAal	_
+8	eyn	D	אײן	AYN	_
+9	grusir	ADJ	גרוסיר	grvsyr	_
+10	lmdun	N	למדון	lmdvN	_
+11	un'	CONJ	אונ'	Avn'	_
+12	grusir	ADJ	גרוסיר	grvsyr	_
+13	brih	H	בריה	bryh	UNKNOWN
+14	bkl	H	בקל	bkl	in_all
+15	dbr	H	דבר	dbr	speech
+16	ukhkm	H	אוכקם	AvxkM	and_wise_man
+17	mkhukm	H	מכוקם	mxvkM	from_wise_man
+18	izt	BEF	איזט	Ayzt	_
+19	lng	ADV	לנג	lng	_
+20	tukh	H	טוך	tvX	within
+21	pulin	NPR	פּולין	pvlyN	_
+22	givezin	VBN	גיװעזין	gyVezyN	_
+23	un'	CONJ	אונ'	Avn'	_
+24	gilernit	VBN	גילערניט	gylernyt	_
+25	daz	C	דאַז	dAaz	_
+26	er	PRO	ער	er	_
+27	di	D	די	dy	_
+28	mrinh	N	מרינה	mrynh	_
+29	bikumin	VBN	ביקומין	bykvmyN	_
+
+SENT	1705W-GLIKL,313.170
+1	un'	CONJ	אונ'	Avn'	_
+2	vi	WADV	װי	Vy	_
+3	er	PRO	ער	er	_
+4	oyz	P	אױז	AWz	_
+5	pulin	NPR	פּולין	pvlyN	_
+6	gikumin	VBN	גיקומין	gykvmyN	_
+7	izt	BEF	איזט	Ayzt	_
+8	lzu	H	לזו	lzv	to_this
+9	hzmn	H	הזמן	hzmN	the_time
+10	bin	BEF	בין	byN	_
+11	ikh	PRO	איך	AyX	_
+12	nakh	ADV	נ"ך	n"X	_
+13	nit	NEG	ניט	nyt	_
+14	bk"k	H	בק"ק	bk"k	in_community_holy
+15	mits	NPR	מיץ	myQ	_
+16	givezin	VBN	גיװעזין	gyVezyN	_
+
+SENT	1705W-GLIKL,313.171
+1	akh	X	אַך	AaX	_
+2	u	H	או	Av	and
+3	rk	H	רק	rk	only
+4	aizhu	H	אַיִזשו	Aayiz$v	which_one
+5	snim	H	סנים	snyM	years
+6	dar_nakh	DR+P	דאַר_נאַך	dAar_nAaX	_
+7	aher	ADV	אַהער	Aaher	_
+8	kumin	VBN	קומין	kvmyN	_
+9	hab	HVF	האַב	hAab	_
+10	ikh	PRO	איך	AyX	_
+11	mhur"r	H	מהור"ר	mhvr"r	teacher_our_the_great_and_master
+12	smual	NPR	סמואַל	smvAal	_
+13	kan	NPR	ק"ן	k"N	_
+14	gifundin	VBN	גיפֿונדין	gyfvndyN	_
+15	in	P	אין	AyN	_
+16	zeyn	PRO$	זײן	zYN	_
+17	eygin	ADJ	אײגין	AYgyN	_
+18	bit	N	ביט	byt	_
+19	beli	H	בלי-	bly-	husband_my
+20	zts"l	H	זצ"ל	zq"l	memory_righteous_to_blessing
+21	vi	C	װי	Vy	_
+22	akh	X	אַך	AaX	_
+23	hktsi'	H	הקצי'	hkqy'	the_leaders
+24	hkhti	H	הכטי	hxty	UNKNOWN
+25	f"u	H	פֿ"או	f"Av	UNKNOWN
+26	mkhr"r	H	מכר"ר	mxr"r	UNKNOWN
+27	abrhm	NPR	אַברהם	AabrhM	_
+28	krumbakh	NPR	קרומבאַך	krvmbAaX	_
+29	khmiu	H	כמיִו	xmyiv	UNKNOWN
+30	shl	H	של	$l	of
+31	r"s	H	ר"ס	r"s	UNKNOWN
+32	hn"l	H	הנ"ל	hn"l	aforesaid
+33	habin	HVF	האַבין	hAabyN	_
+34	im	PRO	אים	AyM	_
+35	grusi	ADJ	גרוסי	grvsy	_
+36	tubut	N	טובוט	tvbvt	_
+37	gitan	VBN	גיטאַן	gytAaN	_
+38	daz	C	דאַז	dAaz	_
+39	er	PRO	ער	er	_
+40	hat	HVF	האַט	hAat	_
+41	kenin	MDN-IPP	קענין	kenyN	_
+42	lmudu	H	למודו	lmvdv	learning_his
+43	fart	ADV	פֿאַרט	fAart	_
+44	zettsin	VB	זעטצין	zetqyN	_
+
+SENT	1705W-GLIKL,313.172
+1	akh	ADV	אַך	AaX	_
+2	zu	ADV	זו	zv	_
+3	vi	ADV	װי	Vy	_
+4	fart	ADV	פֿאַרט	fAart	_
+5	gihalfin	VBN	גיהאַלפֿין	gyhAalfyN	_
+6	un'	CONJ	אונ'	Avn'	_
+7	ktst	H	קצט	kqt	a_little
+8	fun	P	פֿון	fvN	_
+9	kn"l	H	קנ"ל	kn"l	as_is_mentioned_above
+10	bidi	Q	בידי	bydy	_
+11	eltrin	N	עלטרין	eltryN	_
+12	ir	PRO$	איר	Ayr	_
+13	autiretet	N	אַוטירעטעט	Aavtyretet	_
+14	gimakht	VBN	גימאַכט	gymAaxt	_
+15	daz	C	דאַז	dAaz	_
+16	man	PRO	מאַן	mAaN	_
+17	bni	H	בני	bny	son_my
+18	turgi	NPR	טורגי	tvrgy	_
+19	mhur"r	H	מהור"ר	mhvr"r	teacher_our_the_great_and_master
+20	smual	NPR	סמואַל	smvAal	_
+21	sg"l	NPR	סג"ל	sg"l	UNKNOWN
+22	hat	HVF	האַט	hAat	_
+23	far	P	פֿאַר	fAar	_
+24	eyn	D	אײן	AYN	_
+25	ab"d	H	אַב"ד	Aab"d	father_house_justice
+26	oyf	RP	אױף	AWF	_
+27	ginumin	VBN	גינומין	gynvmyN	_
+28	tukh	H	טוך	tvX	within
+29	elzis	NPR	עלזיס	elzys	_
+30	velkhis	WPRO	װעלכיס	Velxys	_
+31	er	PRO	ער	er	_
+32	gar	ADV	גאַר	gAar	_
+33	shin	ADV	ש	$	_
+34	lpi	H	לפּי	lpy	according
+35	khkmtu	H	כקמטו	xkmtv	his_wisdom
+36	gfirt	VBN	גפֿירט	gfyrt	_
+37	hat	HVF	האַט	hAat	_
+
+SENT	1705W-GLIKL,313.173
+1	izt	BEF	איזט	Ayzt	_
+2	akh	ADV	אַך	AaX	_
+3	fun	P	פֿון	fvN	_
+4	ali	Q	אַלי	Aaly	_
+5	menshin	N	מענשין	men$yN	_
+6	gar	ADV	גאַר	gAar	_
+7	zer	ADV	זער	zer	_
+8	gilibt	VAN	גיליבט	gylybt	_
+9	givarin	RDN	גיװאַרין	gyVAaryN	_
+
+SENT	1705W-GLIKL,56_from_Shtif_1932.175
+1	124.	LS	124.	124.	_
+2	habi	HVF	האַבי	hAaby	_
+3	ikh	PRO	איך	AyX	_
+4	...	PUNC	...	...	_
+5	deyn	PRO$	דײן	dYN	_
+6	kukht	N	קוכט	kvxt	_
+7	bikumen	VBN	ביקומען	bykvmeN	_
+8	,	PUNC	,	,	_
+9	velkhis	WPRO	װעלכיס	Velxys	_
+10	izt	BEF	איזט	Ayzt	_
+11	sla	H	סלאַ	slAa	that_not
+12	btbe	H	בטבע	btbe	in_nature
+13	heulm	H	העולם	hevlM	the_world
+14	givezin	VBN	גיװעזין	gyVezyN	_
+
+SENT	1705W-GLIKL,56_from_Shtif_1932.176
+1	125.	LS	125.	125.	_
+2	hob	HVF	האָב	hAob	_
+3	ikh	PRO	איך	AyX	_
+4	shvis	N	שװיס	$Vys	_
+5	bikumen	VBN	ביקומען	bykvmeN	_
+6	,	PUNC	,	,	_
+7	velkhis	WPRO	װעלכיס	Velxys	_
+8	mir	PRO	מיר	myr	_
+9	nokh	ADV	נאָך	nAoX	_
+10	ergir	ADJR	ערגיר	ergyr	_
+11	alis	P	אַליס	Aalys	_
+12	hitts	N	היטץ	hytQ	_
+13	un	CONJ	און	AvN	_
+14	kelt	N	קעלט	kelt	_
+15	givezin	VBN	גיװעזין	gyVezyN	_
+16	izt	BEF	איזט	Ayzt	_
+
+SENT	1705W-GLIKL,56_from_Shtif_1932.177
+1	126.	LS	126.	126.	_
+2	alzo	ADV	אַלזאָ	AalzAo	_
+3	zenin	BEF	זענין	zenyN	_
+4	mir	PRO	מיר	myr	_
+5	gitsagin	VBN	גיצאַגין	gyqAagyN	_
+6	lhnufir	H	להנופֿיר	lhnvfyr	to_Hanover
+
+SENT	1705W-GLIKL,56_from_Shtif_1932.178
+1	127.	LS	127.	127.	_
+2	alzo	ADV	אַלזאָ	AalzAo	_
+3	zenin	BEF	זענין	zenyN	_
+4	zi	PRO	זי	zy	_
+5	mhildsum	H	מהילדסום	mhyldsvM	from_Hildesheim
+6	lhnubir	H	להנוביר	lhnvbyr	to_Hanover
+7	gitsagin	VBN	גיצאַגין	gyqAagyN	_
+
+SENT	1705W-GLIKL,57.180
+1	128.	LS	128.	128.	_
+2	nun	ADV	נ	n	_
+3	iz	BEF	איז	Ayz	_
+4	r'	NPR	ר'	r'	_
+5	smsun	NPR	סמסון	smsvN	_
+6	beyarsdarf	NPR	בײאַרסדאַרף	bYAarsdAarF	_
+7	...	PUNC	...	...	_
+8	atsl	H	אַצל	Aaql	by
+9	h	H	ה	h	the
+10	margrafin	N	מאַרגראַפֿין	mAargrAafyN	_
+11	m	H	מ	m	from
+12	breyt	NPR	ברײט	brYt	_
+13	givezin	VBN	גיװעזין	gyVezyN	_
+14	,	PUNC	,	,	_
+15	bay	P	בײַ	bYa	_
+16	velkhin	WPRO	װעלכין	VelxyN	_
+17	er	PRO	ער	er	_
+18	zeyer	ADV	זײער	zYer	_
+19	teykuf	ADV	טײקוף	tYkvF	_
+20	eyn	D	אײן	AYN	_
+21	hoyf_yud	N	הױפֿ_יוד	hWf_yvd	_
+22	givezin	VBN	גיװעזין	gyVezyN	_
+
+SENT	1705W-GLIKL,57.181
+1	131.	LS	131.	131.	_
+2	der	D	דער	der	_
+3	yungir	N	יונגיר	yvngyr	_
+4	...	PUNC	...	...	_
+5	hot	HVF	האָט	hAot	_
+6	shmual	NPR	שמואַל	$mvAal	_
+7	giheysin	VBN	גיהײסין	gyhYsyN	_
+
+SENT	1705W-GLIKL,57.182
+1	izt	BEF	איזט	Ayzt	_
+2	gor	ADV	גאָר	gAor	_
+3	eyn	D	אײן	AYN	_
+4	shiner	ADJ	שינער	$yner	_
+5	...	PUNC	...	...	_
+6	givezin	VBN	גיװעזין	gyVezyN	_
+
+SENT	1705W-GLIKL,57.183
+1	hot	HVF	האָט	hAot	_
+2	man	PRO	מאַן	mAaN	_
+3	im	PRO	אים	AyM	_
+4	den	D	דען	deN	_
+5	feynin	ADJ	פֿײנין	fYnyN	_
+6	smual	NPR	סמואַל	smvAal	_
+7	giheysin	VBN	גיהײסין	gyhYsyN	_
+
+SENT	1705W-GLIKL,57.184
+1	den	CONJ	דען	deN	_
+2	mir	PRO	מיר	myr	_
+3	habin	HVF	האַבין	hAabyN	_
+4	eyn	D	אײן	AYN	_
+5	yungin	N	יונגין	yvngyN	_
+6	bey	P	בײ	bY	_
+7	uns	PRO	אונס	Avns	_
+8	gihat	VBN	גיהאַט	gyhAat	_
+
+SENT	1705W-GLIKL,57.185
+1	habin	HVF	האַבין	hAabyN	_
+2	di	D	די	dy	_
+3	kindr	N	קינדר	kyndr	_
+4	den_zelbig	D	דענ_זעלביג	den_zelbyg	_
+5	den	D	דען	deN	_
+6	grabin	ADJ	גראַבין	grAabyN	_
+7	smual	NPR	סמואַל	smvAal	_
+8	giheysin	VBN	גיהײסין	gyhYsyN	_
+

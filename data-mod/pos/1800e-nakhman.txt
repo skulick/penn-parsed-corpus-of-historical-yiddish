@@ -1,0 +1,554 @@
+SENT	1800E-NAKHMAN,172.3
+1	un	CONJ	און	AvN	_
+2	s	ES	ס	s	_
+3	iz	VBF	איז	Ayz	_
+4	faranen	ADJ	פֿאַראַנען	fAarAaneN	_
+5	a	D	אַ	Aa	_
+6	berg	N	בערג	berg	_
+7	,	PUNC	,	,	_
+
+SENT	1800E-NAKHMAN,172.4
+1	un	CONJ	און	AvN	_
+2-3	oyfn	P~D	אױפֿן	AWfN	_
+2	oyf	P	אױף	AWF	_
+3	n	D	נ	n	_
+4	berg	N	בערג	berg	_
+5	shtayt	VBF	שטײַט	$tYat	_
+6	a	D	אַ	Aa	_
+7	shtayn	N	שטײַן	$tYaN	_
+8	,	PUNC	,	,	_
+
+SENT	1800E-NAKHMAN,172.5
+1	un	CONJ	און	AvN	_
+2-3	funem	P~D	פֿונעם	fvneM	_
+2	fun	P	פֿון	fvN	_
+3	em	D	עם	eM	_
+4	shtayn	N	שטײַן	$tYaN	_
+5	gayt	VBF	גײַט	gYat	_
+6	a	D	אַ	Aa	_
+7	kval	N	קװאַל	kVAal	_
+
+SENT	1800E-NAKHMAN,172.6
+1	un	CONJ	און	AvN	_
+2	itlekhe	Q	איטלעכע	Aytlexe	_
+3	zakh	N	זאַך	zAaX	_
+4	hot	VBF	האָט	hAot	_
+5	a	D	אַ	Aa	_
+6	harts	N	האַרץ	hAarQ	_
+7	,	PUNC	,	,	_
+
+SENT	1800E-NAKHMAN,172.7
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	velt	N	װעלט	Velt	_
+4	in_gantsn	ADV	אינ_גאַנצן	Ayn_gAanqN	_
+5	hot	VBF	האָט	hAot	_
+6	oykh	ADV	אױך	AWX	_
+7	a	D	אַ	Aa	_
+8	harts	N	האַרץ	hAarQ	_
+9	.	PUNC	.	.	_
+
+SENT	1800E-NAKHMAN,172.8
+1	un	CONJ	און	AvN	_
+2	dus	D	דוס	dvs	_
+3	harts	N	האַרץ	hAarQ	_
+4	fun	P	פֿון	fvN	_
+5	der	D	דער	der	_
+6	velt	N	װעלט	Velt	_
+7	iz	VBF	איז	Ayz	_
+8	a	D	אַ	Aa	_
+9	gantse	ADJ	גאַנצע	gAanqe	_
+10	koyme	N	קױמע	kWme	_
+11	mit	P	מיט	myt	_
+12	a	D	אַ	Aa	_
+13	ponem	N	פּנים	pnyM	_
+14	un	CONJ	און	AvN	_
+15	mit	P	מיט	myt	_
+16	hent	N	הענט	hent	_
+17	un	CONJ	און	AvN	_
+18	fis	N	פֿיס	fys	_
+
+SENT	1800E-NAKHMAN,172.9
+1	lishmer	H	לישמער	ly$mer	UNKNOWN
+2	der	D	דער	der	_
+3	nugl	N	נוגל	nvgl	_
+4-5	funem	P~D	פֿונעם	fvneM	_
+4	fun	P	פֿון	fvN	_
+5	em	D	עם	eM	_
+6	fus	N	פֿוס	fvs	_
+7-8	funem	P~D	פֿונעם	fvneM	_
+7	fun	P	פֿון	fvN	_
+8	em	D	עם	eM	_
+9	harts	N	האַרץ	hAarQ	_
+10	fun	P	פֿון	fvN	_
+11	der	D	דער	der	_
+12	velt	N	װעלט	Velt	_
+13	iz	VBF	איז	Ayz	_
+14	hartsiker	ADJ	האַרציקער	hAarqyker	_
+15	ayder	P	אײַדער	AYader	_
+16	an	D	אַן	AaN	_
+17	andern	ADJ	אַנדערן	AanderN	_
+18	s	$	ס	s	_
+19	harts	N	האַרץ	hAarQ	_
+20	.	PUNC	.	.	_
+
+SENT	1800E-NAKHMAN,172.10
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	berg	N	בערג	berg	_
+4	mit	P	מיט	myt	_
+5	kval	N	קװאַל	kVAal	_
+6	shtayt	VBF	שטײַט	$tYat	_
+7	in	P	אין	AyN	_
+8	ayn	D	אײַן	AYaN	_
+9	ek	N	עק	ek	_
+10	fun	P	פֿון	fvN	_
+11	der	D	דער	der	_
+12	velt	N	װעלט	Velt	_
+13	,	PUNC	,	,	_
+
+SENT	1800E-NAKHMAN,172.11
+1	un	CONJ	און	AvN	_
+2	dus	D	דוס	dvs	_
+3	harts	N	האַרץ	hAarQ	_
+4	fun	P	פֿון	fvN	_
+5	der	D	דער	der	_
+6	velt	N	װעלט	Velt	_
+7	shtayt	VBF	שטײַט	$tYat	_
+8-9	inem	P~D	אינעם	AyneM	_
+8	in	P	אין	AyN	_
+9	em	D	עם	eM	_
+10	andern	ADJ	אַנדערן	AanderN	_
+11	ek	N	עק	ek	_
+12	fun	P	פֿון	fvN	_
+13	der	D	דער	der	_
+14	velt	N	װעלט	Velt	_
+15	.	PUNC	.	.	_
+
+SENT	1800E-NAKHMAN,172.12
+1	un	CONJ	און	AvN	_
+2	dus	D	דוס	dvs	_
+3	harts	N	האַרץ	hAarQ	_
+4	shtayt	VBF	שטײַט	$tYat	_
+5	akaygn	P	אַקײַגן	AakYagN	_
+6	dem	D	דעם	deM	_
+7	kval	N	קװאַל	kVAal	_
+
+SENT	1800E-NAKHMAN,172.13
+1	un	CONJ	און	AvN	_
+2	glust	VBF	גלוסט	glvst	_
+
+SENT	1800E-NAKHMAN,172.14
+1	un	CONJ	און	AvN	_
+2	benkt	VBF	בענקט	benkt	_
+3	tomed	ADV	תּמיד	Tmyd	_
+4	zeyer	ADV	זײער	zYer	_
+5	,	PUNC	,	,	_
+6	az	C	אַז	Aaz	_
+7	se	PRO	סע	se	_
+8	zol	MDF	זאָל	zAol	_
+9	kumen	VB	קומען	kvmeN	_
+10-11	tsum	P~D	צום	qvM	_
+10	tsu	P	צו	qv	_
+11	m	D	מ	m	_
+12	kval	N	קװאַל	kVAal	_
+13	.	PUNC	.	.	_
+
+SENT	1800E-NAKHMAN,173.15
+1	un	CONJ	און	AvN	_
+2	dus	D	דוס	dvs	_
+3	benken	N	בענקען	benkeN	_
+4	un	CONJ	און	AvN	_
+5	dus	D	דוס	dvs	_
+6	glustn	N	גלוסטן	glvstN	_
+7-8	funem	P~D	פֿונעם	fvneM	_
+7	fun	P	פֿון	fvN	_
+8	em	D	עם	eM	_
+9	harts	N	האַרץ	hAarQ	_
+10-11	tsum	P~D	צום	qvM	_
+10	tsu	P	צו	qv	_
+11	m	D	מ	m	_
+12	kval	N	קװאַל	kVAal	_
+13	iz	VBF	איז	Ayz	_
+14	gur	ADV	גור	gvr	_
+15	vild	ADJ	װילד	Vyld	_
+
+SENT	1800E-NAKHMAN,173.16
+1	un	CONJ	און	AvN	_
+2	se	ES	סע	se	_
+3	shrayyt	VBF	שרײַיט	$rYayt	_
+4	tomed	ADV	תּמיד	Tmyd	_
+5	dus	D	דוס	dvs	_
+6	harts	N	האַרץ	hAarQ	_
+7	az	C	אַז	Aaz	_
+8	es	PRO	עס	es	_
+9	zol	MDF	זאָל	zAol	_
+10	kumen	VB	קומען	kvmeN	_
+11-12	tsum	P~D	צום	qvM	_
+11	tsu	P	צו	qv	_
+12	m	D	מ	m	_
+13	kval	N	קװאַל	kVAal	_
+
+SENT	1800E-NAKHMAN,173.17
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	kval	N	קװאַל	kVAal	_
+4	glust	VBF	גלוסט	glvst	_
+5-6	tsum	P~D	צום	qvM	_
+5	tsu	P	צו	qv	_
+6	m	D	מ	m	_
+7	harts	N	האַרץ	hAarQ	_
+8	oykh	ADV	אױך	AWX	_
+
+SENT	1800E-NAKHMAN,173.18
+1	un	CONJ	און	AvN	_
+2	dus	D	דוס	dvs	_
+3	harts	N	האַרץ	hAarQ	_
+4	ot	VBF	אָט	Aot	_
+5	tsvey	NUM	צװײ	qVY	_
+6	khlishes	N	כלישעס	xly$es	_
+7	...	PUNC	...	...	_
+
+SENT	1800E-NAKHMAN,173.19
+1	aynts	N	אײַנץ	AYanQ	_
+2	vurn	CONJ	װוּרן	VUrN	_
+3	di	D	די	dy	_
+4	zun	N	זון	zvN	_
+5	yugt	VBF	יוגט	yvgt	_
+6	ya	ADV	יאַ	yAa	_
+7	zayer	ADV	זײַער	zYaer	_
+
+SENT	1800E-NAKHMAN,173.20
+1	un	CONJ	און	AvN	_
+2	brent	VBF	ברענט	brent	_
+3	es	PRO	עס	es	_
+4	...	PUNC	...	...	_
+
+SENT	1800E-NAKHMAN,173.21
+1	un	CONJ	און	AvN	_
+2	dus	D	דוס	dvs	_
+3	andere	ADJ	אַנדערע	Aandere	_
+4	shlafkeyt	N	שלאַפֿקײט	$lAafkYt	_
+5	ot	VBF	אָט	Aot	_
+6	dus	D	דוס	dvs	_
+7	harts	N	האַרץ	hAarQ	_
+8	,	PUNC	,	,	_
+9	makhmes	P	מחמת	mHmS	_
+10	dem	D	דעם	deM	_
+11	benken	N	בענקען	benkeN	_
+12	un	CONJ	און	AvN	_
+13	dem	D	דעם	deM	_
+14	glustn	N	גלוסטן	glvstN	_
+15	,	PUNC	,	,	_
+16	vus	C	װוּס	VUs	_
+17	dus	D	דוס	dvs	_
+18	harts	N	האַרץ	hAarQ	_
+19	benkt	VBF	בענקט	benkt	_
+
+SENT	1800E-NAKHMAN,173.22
+1	un	CONJ	און	AvN	_
+2	glust	VBF	גלוסט	glvst	_
+3	tomed	ADV	תּמיד	Tmyd	_
+
+SENT	1800E-NAKHMAN,173.23
+1	un	CONJ	און	AvN	_
+2	es	PRO	עס	es	_
+3	gayt	VBF	גײַט	gYat	_
+4	nor	FP	נאָר	nAor	_
+5	oys	RP	אױס	AWs	_
+6-7	tsum	P~D	צום	qvM	_
+6	tsu	P	צו	qv	_
+7	m	D	מ	m	_
+8	kval	N	קװאַל	kVAal	_
+
+SENT	1800E-NAKHMAN,173.24
+1	un	CONJ	און	AvN	_
+2	se	PRO	סע	se	_
+3	shrayt	VBF	שרײַט	$rYat	_
+4	alts	ADV	אַלץ	AalQ	_
+5	,	PUNC	,	,	_
+6	se	PRO	סע	se	_
+7	zol	MDF	זאָל	zAol	_
+8	kumen	VB	קומען	kvmeN	_
+9-10	tsum	P~D	צום	qvM	_
+9	tsu	P	צו	qv	_
+10	m	D	מ	m	_
+11	kval	N	קװאַל	kVAal	_
+12	...	PUNC	...	...	_
+
+SENT	1800E-NAKHMAN,173.25
+1	vurn	CONJ	װוּרן	VUrN	_
+2	dus	D	דוס	dvs	_
+3	harts	N	האַרץ	hAarQ	_
+4	shtayt	VBF	שטײַט	$tYat	_
+5	tumed	ADV	טומעד	tvmed	_
+6	akaygn	P	אַקײַגן	AakYagN	_
+7	dem	D	דעם	deM	_
+8	kval	N	קװאַל	kVAal	_
+
+SENT	1800E-NAKHMAN,173.26
+1	un	CONJ	און	AvN	_
+2	shrat	VBF	שראַט	$rAat	_
+3	na	INTJ	נאַ	nAa	_
+4	gvald	N	גװאַלד	gVAald	_
+5	...	PUNC	...	...	_
+
+SENT	1800E-NAKHMAN,173.27
+1	lishmer	H	לישמער	ly$mer	UNKNOWN
+2	az	C	אַז	Aaz	_
+3	dus	D	דוס	dvs	_
+4	harts	N	האַרץ	hAarQ	_
+5	badarf	MDF	באַדאַרף	bAadAarF	_
+6	zekh	PRO	זעך	zeX	_
+7	a	D	אַ	Aa	_
+8	bisl	N	ביסל	bysl	_
+9	up	RP	אופּ	Avp	_
+10	ruen	VB	רוען	rveN	_
+11	az	C	אַז	Aaz	_
+12	se	PRO	סע	se	_
+13	zol	MDF	זאָל	zAol	_
+14	zekh	PRO	זעך	zeX	_
+15	up	RP	אופּ	Avp	_
+16	sapen	VB	סאַפּען	sAapeN	_
+17	a	D	אַ	Aa	_
+18	bisl	N	ביסל	bysl	_
+19	azoy	ADV	אַזױ	AazW	_
+20	kumt	VBF	קומט	kvmt	_
+21	a	D	אַ	Aa	_
+22	groyser	ADJ	גרױסער	grWser	_
+23	foygl	N	פֿױגל	fWgl	_
+
+SENT	1800E-NAKHMAN,173.28
+1	un	CONJ	און	AvN	_
+2	far_shprayt	VBF	פֿאַר_שפּרײַט	fAar_$prYat	_
+3	di	D	די	dy	_
+4	fligl	N	פֿליגל	flygl	_
+5	oyf	P	אױף	AWF	_
+6	im	PRO	אים	AyM	_
+
+SENT	1800E-NAKHMAN,173.29
+1	un	CONJ	און	AvN	_
+2	farshtelt	VBF	פֿאַרשטעלט	fAar$telt	_
+3	im	PRO	אים	AyM	_
+4	fun	P	פֿון	fvN	_
+5	der	D	דער	der	_
+6	zun	N	זון	zvN	_
+7	.	PUNC	.	.	_
+
+SENT	1800E-NAKHMAN,173.30
+1	demolt	ADV	דעמאָלט	demAolt	_
+2	rut	VBF	רוט	rvt	_
+3	zekh	PRO	זעך	zeX	_
+4	dus	D	דוס	dvs	_
+5	harts	N	האַרץ	hAarQ	_
+6	up	RP	אופּ	Avp	_
+7	a	D	אַ	Aa	_
+8	bisl	N	ביסל	bysl	_
+
+SENT	1800E-NAKHMAN,173.31
+1	un	CONJ	און	AvN	_
+2	afile	FP	אַפֿילו	Aafylv	_
+3	demlt	ADV	דעמלט	demlt	_
+4	,	PUNC	,	,	_
+5	az	C	אַז	Aaz	_
+6	se	PRO	סע	se	_
+7	rut	VBF	רוט	rvt	_
+8	zekh	PRO	זעך	zeX	_
+9	up	RP	אופּ	Avp	_
+10	kukt	VBF	קוקט	kvkt	_
+11	es	PRO	עס	es	_
+12	oykh	ADV	אױך	AWX	_
+13	akaygn	P	אַקײַגן	AakYagN	_
+14	dem	D	דעם	deM	_
+15	kval	N	קװאַל	kVAal	_
+
+SENT	1800E-NAKHMAN,173.32
+1	un	CONJ	און	AvN	_
+2	benkt	VBF	בענקט	benkt	_
+3	alts	ADV	אַלץ	AalQ	_
+4-5	tsum	P~D	צום	qvM	_
+4	tsu	P	צו	qv	_
+5	m	D	מ	m	_
+6	kval	N	קװאַל	kVAal	_
+7	.	PUNC	.	.	_
+
+SENT	1800E-NAKHMAN,173.33
+1	lishmer	H	לישמער	ly$mer	UNKNOWN
+2	az	C	אַז	Aaz	_
+3	se	PRO	סע	se	_
+4	benkt	VBF	בענקט	benkt	_
+5	yo	ADV	יאָ	yAo	_
+6	azoy	ADV	אַזױ	AazW	_
+7-8	tsum	P~D	צום	qvM	_
+7	tsu	P	צו	qv	_
+8	m	D	מ	m	_
+9	kval	N	קװאַל	kVAal	_
+10	,	PUNC	,	,	_
+11	far	P	פֿאַר	fAar	_
+12	vus	WPRO	װוּס	VUs	_
+13	gayt	VBF	גײַט	gYat	_
+14	er	PRO	ער	er	_
+15	nit	NEG	ניט	nyt	_
+16-17	tsum	P~D	צום	qvM	_
+16	tsu	P	צו	qv	_
+17	m	D	מ	m	_
+18	kval	N	קװאַל	kVAal	_
+19	?	PUNC	?	?	_
+
+SENT	1800E-NAKHMAN,173.34
+1	nor	CONJ	נאָר	nAor	_
+2	vi_bald	C	װי_באַלד	Vy_bAald	_
+3	dus	D	דוס	dvs	_
+4	harts	N	האַרץ	hAarQ	_
+5	vil	MDF	װיל	Vyl	_
+6	tsu	RP	צו	qv	_
+7	gayn	VB	גײַן	gYaN	_
+8	noent	ADV	נאָענט	nAoent	_
+9-10	tsum	P~D	צום	qvM	_
+9	tsu	P	צו	qv	_
+10	m	D	מ	m	_
+11	barg	N	באַרג	bAarg	_
+12	,	PUNC	,	,	_
+13	vus	C	װוּס	VUs	_
+14	oyvn	ADV	אױװן	AWVN	_
+15	iz	VBF	איז	Ayz	_
+16	der	D	דער	der	_
+17	kval	N	קװאַל	kVAal	_
+18	,	PUNC	,	,	_
+19	azoy	ADV	אַזױ	AazW	_
+20	zet	VBF	זעט	zet	_
+21	er	PRO	ער	er	_
+22	shoyn	ADV	שױן	$WN	_
+23	nit	NEG	ניט	nyt	_
+24	aroys	ADV	אַרױס	AarWs	_
+25	dem	D	דעם	deM	_
+26	spits	N	ספּיץ	spyQ	_
+
+SENT	1800E-NAKHMAN,173.35
+1	kon	MDF	קאָן	kAoN	_
+2	er	PRO	ער	er	_
+3	nit	NEG	ניט	nyt	_
+4	zen	VB	זען	zeN	_
+5	dem	D	דעם	deM	_
+6	kval	N	קװאַל	kVAal	_
+
+SENT	1800E-NAKHMAN,173.36
+1	un	CONJ	און	AvN	_
+2	vi_bald	C	װי_באַלד	Vy_bAald	_
+3	er	PRO	ער	er	_
+4	kukt	VBF	קוקט	kvkt	_
+5	nit	NEG	ניט	nyt	_
+6-7	oyfn	P~D	אױפֿן	AWfN	_
+6	oyf	P	אױף	AWF	_
+7	n	D	נ	n	_
+8	kval	N	קװאַל	kVAal	_
+9	gayt	VBF	גײַט	gYat	_
+10	er	PRO	ער	er	_
+11	oys	RP	אױס	AWs	_
+12	,	PUNC	,	,	_
+
+SENT	1800E-NAKHMAN,173.37
+1	vurn	CONJ	װוּרן	VUrN	_
+2	gur	ADV	גור	gvr	_
+3	zayn	PRO$	זײַן	zYaN	_
+4	khays	N	כײַס	xYas	_
+5	iz	VBF	איז	Ayz	_
+6	nor	FP	נאָר	nAor	_
+7-8	funem	P~D	פֿונעם	fvneM	_
+7	fun	P	פֿון	fvN	_
+8	em	D	עם	eM	_
+9	kval	N	קװאַל	kVAal	_
+
+SENT	1800E-NAKHMAN,173.38
+1	un	CONJ	און	AvN	_
+2	az	C	אַז	Aaz	_
+3	er	PRO	ער	er	_
+4	stayt	VBF	סטײַט	stYat	_
+5	akaygn	P	אַקײַגן	AakYagN	_
+6	barg	N	באַרג	bAarg	_
+7	zet	VBF	זעט	zet	_
+8	er	PRO	ער	er	_
+9	aroys	ADV	אַרױס	AarWs	_
+10	dem	D	דעם	deM	_
+11	spits	N	ספּיץ	spyQ	_
+12	barg	N	באַרג	bAarg	_
+13	vus	C	װוּס	VUs	_
+14	dort	ADV	דאָרט	dAort	_
+15	iz	VBF	איז	Ayz	_
+16	der	D	דער	der	_
+17	kval	N	קװאַל	kVAal	_
+
+SENT	1800E-NAKHMAN,173.39
+1	obr	CONJ	אָבר	Aobr	_
+2	teykef	ADV	תּיכּף	TyKF	_
+3	vi_bald	C	װי_באַלד	Vy_bAald	_
+4	er	PRO	ער	er	_
+5	vil	MDF	װיל	Vyl	_
+6	tsu	RP	צו	qv	_
+7	gayn	VB	גײַן	gYaN	_
+8-9	tsum	P~D	צום	qvM	_
+8	tsu	P	צו	qv	_
+9	m	D	מ	m	_
+10	barg	N	באַרג	bAarg	_
+11	zet	VBF	זעט	zet	_
+12	er	PRO	ער	er	_
+13	shoyn	ADV	שױן	$WN	_
+14	nit	NEG	ניט	nyt	_
+15	aroys	ADV	אַרױס	AarWs	_
+16	dem	D	דעם	deM	_
+17	spits	N	ספּיץ	spyQ	_
+18	...	PUNC	...	...	_
+
+SENT	1800E-NAKHMAN,173.40
+1	kon	MDF	קאָן	kAoN	_
+2	er	PRO	ער	er	_
+3	shoyn	ADV	שױן	$WN	_
+4	nit	NEG	ניט	nyt	_
+5	kukn	VB	קוקן	kvkN	_
+6-7	oyfn	P~D	אױפֿן	AWfN	_
+6	oyf	P	אױף	AWF	_
+7	n	D	נ	n	_
+8	kval	N	קװאַל	kVAal	_
+
+SENT	1800E-NAKHMAN,173.41
+1	un	CONJ	און	AvN	_
+2	az	C	אַז	Aaz	_
+3	dus	D	דוס	dvs	_
+4	harts	N	האַרץ	hAarQ	_
+5	zol	MDF	זאָל	zAol	_
+6	khas	H	חס	Hs	have_mercy
+7	veshulem	H	װעשולעם	Ve$vleM	and_peace
+8	oys	RP	אױס	AWs	_
+9	gayn	VB	גײַן	gYaN	_
+10	volt	VLF	װאָלט	VAolt	_
+11	gur	ADV	גור	gvr	_
+12	di	D	די	dy	_
+13	velt	N	װעלט	Velt	_
+14	khorev	RP-H	חרובֿ	Hrv~	_
+15	gevorn	VBN	געװאָרן	geVAorN	_
+
+SENT	1800E-NAKHMAN,173.42
+1	vurn	CONJ	װוּרן	VUrN	_
+2	dus	D	דוס	dvs	_
+3	harts	N	האַרץ	hAarQ	_
+4	iz	VBF	איז	Ayz	_
+5	ekh	ADV	עך	eX	_
+6	dus	D	דוס	dvs	_
+7	khayes	N	חיות	HyvS	_
+8	fun	P	פֿון	fvN	_
+9	itlekher	Q	איטלעכער	Aytlexer	_
+10	zakh	N	זאַך	zAaX	_
+
+SENT	1800E-NAKHMAN,173.43
+1	un	CONJ	און	AvN	_
+2	vi	WADV	װי	Vy	_
+3	kon	MDF	קאָן	kAoN	_
+4	di	D	די	dy	_
+5	velt	N	װעלט	Velt	_
+6	a	D	אַ	Aa	_
+7	kiem	N	קיום	kyvM	_
+8	hubn	VB	הובן	hvbN	_
+9	un	P	און	AvN	_
+10	dem	D	דעם	deM	_
+11	harts	N	האַרץ	hAarQ	_
+

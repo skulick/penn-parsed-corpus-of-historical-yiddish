@@ -1,0 +1,927 @@
+SENT	1929E-WEINREICH-SHPOTLIDER,537.3
+1	di	D	די	dy	_
+2	elementn	N	עלעמענטן	elementN	_
+3	fun	P	פֿון	fvN	_
+4	spot	N	ספּאָט	spAot	_
+5	tibul	N	טיבול	tybvl	_
+6	un	CONJ	און	AvN	_
+7	vits	N	װיץ	VyQ	_
+8	zeynen	VBF	זײנען	zYneN	_
+9	genug	Q	גענוג	genvg	_
+10	stark	ADJ	סטאַרק	stAark	_
+11	in	P	אין	AyN	_
+12	unzer	PRO$	אונזער	Avnzer	_
+13	literatur	N	ליטעראַטור	lyterAatvr	_
+14	un	CONJ	און	AvN	_
+15	folksshafung	N	פֿאָלקסשאַפֿונג	fAolks$Aafvng	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,537.4
+1	un	CONJ	און	AvN	_
+2	zey	PRO	זײ	zY	_
+3	hobn	HVF	האָבן	hAobN	_
+4-5	aroysgerufn	ADV~VBN	אַרױסגערופֿן	AarWsgervfN	_
+4	aroys	ADV	אַרױס	AarWs	_
+5	gerufn	VBN	גערופֿן	gervfN	_
+6	a	D	אַ	Aa	_
+7	hipshn	ADJ	היפּשן	hyp$N	_
+8	interes	N	אינטערעס	Aynteres	_
+9	bey	P	בײ	bY	_
+10	unzere	PRO$	אונזערע	Avnzere	_
+11	forsher	N	פֿאָרשער	fAor$er	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,537.5
+1	mit	P	מיט	myt	_
+2	parodies	N	פּאַראָדיִעס	pAarAodyies	_
+3	hot	HVF	האָט	hAot	_
+4	zikh	PRO	זיך	zyX	_
+5	farnumen	VBN	פֿאַרנומען	fAarnvmeN	_
+6	profesor	NPR	פּראָפֿעסאָר	prAofesAor	_
+7	isral	NPR	איסראַל	AysrAal	_
+8	davidzon	NPR	דאַװידזאָן	dAaVydzAoN	_
+9	mit	P	מיט	myt	_
+10	folksverter	N	פֿאָלקסװערטער	fAolksVerter	_
+11	vegn	P	װעגן	VegN	_
+12	mdinut	N	מדינוט	mdynvt	_
+13	un	CONJ	און	AvN	_
+14	stet	N	סטעט	stet	_
+15	nkh	NPR	נך	nX	_
+16	prilutski	NPR	פּרילוצקי	prylvqky	_
+17	mit	P	מיט	myt	_
+18	spet_lsun	N	ספּעט_לסון	spet_lsvN	_
+19	der	D	דער	der	_
+20	zelber	ADJ	זעלבער	zelber	_
+21	mit	P	מיט	myt	_
+22	tsunemenishn	N	צונעמענישן	qvnemeny$N	_
+23	dr.	NPR	דר.	dr.	_
+24	smual	NPR	סמואַל	smvAal	_
+25	veysenberg	NPR	װײסענבערג	VYsenberg	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,537.6
+1	oyf	P	אױף	AWF	_
+2	vifil	WPRO	װיפֿיל	Vyfyl	_
+3	komik	N	קאָמיק	kAomyk	_
+4	un	CONJ	און	AvN	_
+5	satire	N	סאַטירע	sAatyre	_
+6	dringen	VBF	דרינגען	dryngeN	_
+7	areyn	ADV	אַרײן	AarYN	_
+8	in	P	אין	AyN	_
+9	gdr	N	גדר	gdr	_
+10	fun	P	פֿון	fvN	_
+11	der	D	דער	der	_
+12	drame	N	דראַמע	drAame	_
+13	hot	HVF	האָט	hAot	_
+14	zey	PRO	זײ	zY	_
+15	dr.	NPR	דר.	dr.	_
+16	itskhh	NPR	איצכה	Ayqxh	_
+17	shifer	NPR	שיפֿער	$yfer	_
+18	bahandlt	VBN	באַהאַנדלט	bAahAandlt	_
+19	in	P	אין	AyN	_
+20	zeyn	PRO$	זײן	zYN	_
+21	dreybendikn	ADJ	דרײבענדיקן	drYbendykN	_
+22	verk	N	װערק	Verk	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,537.7
+1	speter	ADVR	ספּעטער	speter	_
+2	a	D	אַ	Aa	_
+3	bisl	N	ביסל	bysl	_
+4	iz	BEF	איז	Ayz	_
+5	men	PRO	מען	meN	_
+6-7	tsugegangen	RP~VBN	צוגעגאַנגען	qvgegAangeN	_
+6	tsu	RP	צו	qv	_
+7	gegangen	VBN	געגאַנגען	gegAangeN	_
+8	tsu	P	צו	qv	_
+9	dem	D	דעם	deM	_
+10	min	N	מין	myN	_
+11	opspetndike	ADJ	אָפּספּעטנדיקע	Aopspetndyke	_
+12	lider	N	לידער	lyder	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,537.8
+1	itskhk	NPR	איצכק	Ayqxk	_
+2	rivkind	NPR	ריװקינד	ryVkynd	_
+3	hot	HVF	האָט	hAot	_
+4	publikirt	VBN	פּובליקירט	pvblykyrt	_
+5	"	PUNC	"	"	_
+6	a	D	אַ	Aa	_
+7	sheyn	ADJ	שײן	$YN	_
+8	lid	N	ליד	lyd	_
+9	fun	P	פֿון	fvN	_
+10	di	D	די	dy	_
+11	handverksleyt	N	האַנדװערקסלײט	hAandVerkslYt	_
+12	"	PUNC	"	"	_
+13	,	PUNC	,	,	_
+14	prog	NPR	פּראָג	prAog	_
+15	ahrn	NPR	אַהרן	AahrN	_
+16	freyman	NPR	פֿרײמאַן	frYmAaN	_
+17	-	PUNC	-	-	_
+18	"	PUNC	"	"	_
+19	a	D	אַ	Aa	_
+20	ney	ADJ	נײ	nY	_
+21	klog-lid	N	קלאָג-ליד	klAog-lyd	_
+22	oyf	P	אױף	AWF	_
+23	a	D	אַ	Aa	_
+24	msrth	N	מסרטה	msrth	_
+25	fun	P	פֿון	fvN	_
+26	prog	NPR	פּראָג	prAog	_
+27	"	PUNC	"	"	_
+28	,	PUNC	,	,	_
+29	nkhum	NPR	נכום	nxvM	_
+30	shtif	NPR	שטיף	$tyF	_
+31	-	PUNC	-	-	_
+32	alihu	NPR	אַליהו	Aalyhv	_
+33	bkhurs	NPR$	בכורס	bxvrs	_
+34	"	PUNC	"	"	_
+35	hmbdil	H	המבדיל	hmbdyl	the_one_who_separates
+36	"	PUNC	"	"	_
+37	.	PUNC	.	.	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,538.9
+1	fragmentn	N	פֿראַגמענטן	frAagmentN	_
+2	fun	P	פֿון	fvN	_
+3	azoyne	ADJ	אַזױנע	AazWne	_
+4	shafungen	N	שאַפֿונגען	$AafvngeN	_
+5	zeynen	VBF	זײנען	zYneN	_
+6	faran	ADJ	פֿאַראַן	fAarAaN	_
+7	in	P	אין	AyN	_
+8	aliezer	NPR	אַליִעזער	Aalyiezer	_
+9	shulmans	NPR$	שולמאַנס	$vlmAans	_
+10	"	PUNC	"	"	_
+11	spth	H	ספּטה	spth	language_of
+12	ihudith	H	איהודיטה	Ayhvdyth	Jewish_woman
+13	ashknzith	H	אַשקנזיטה	Aa$knzyth	Ashkenazi
+14	usfruthkh	H	אוספֿרוטהך	AvsfrvthX	and_its_literature
+15	"	PUNC	"	"	_
+16	,	PUNC	,	,	_
+17	bey	P	בײ	bY	_
+18	dr.	NPR	דר.	dr.	_
+19	maks	NPR	מאַקס	mAaks	_
+20	grunvalds	NPR$	גרונװאַלדס	grvnVAalds	_
+21	a	D	אַ	Aa	_
+22	lid	N	ליד	lyd	_
+23	vegn	P	װעגן	VegN	_
+24	di	D	די	dy	_
+25	proger	ADJ	פּראָגער	prAoger	_
+26	dinstmeydlekh	N	דינסטמײדלעך	dynstmYdleX	_
+27	leyder	ADV	לײדער	lYder	_
+28	in	P	אין	AyN	_
+29	a	D	אַ	Aa	_
+30	deytsher	ADJ	דײטשער	dYt$er	_
+31	tranksriptsie	N	טראַנקסריפּציִע	trAanksrypqyie	_
+32	in	P	אין	AyN	_
+33	meyne	PRO$	מײנע	mYne	_
+34	bilder	N	בילדער	bylder	_
+35	fun	P	פֿון	fvN	_
+36	der	D	דער	der	_
+37	yidisher	ADJ	ייִדישער	yyidy$er	_
+38	literaturgeshikhte	N	ליטעראַטורגעשיכטע	lyterAatvrge$yxte	_
+39	<paren>	PUNC	<פּאַרען>	<pAareN>	_
+40	"	PUNC	"	"	_
+41	a	D	אַ	Aa	_
+42	sheyn	ADJ	שײן	$YN	_
+43	ney	ADJ	נײ	nY	_
+44	lid	N	ליד	lyd	_
+45	vas	C	װאַס	VAas	_
+46	tsu	P	צו	qv	_
+47	hamburg	NPR	האַמבורג	hAambvrg	_
+48	iz	BEF	איז	Ayz	_
+49	geshen	VBN	געשען	ge$eN	_
+50	"	PUNC	"	"	_
+51	<$$paren>	PUNC	<$$פּאַרען>	<$$pAareN>	_
+52	usv.	X	אוסװ.	AvsV.	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,538.10
+1	di	D	די	dy	_
+2	itstike	ADJ	איצטיקע	Ayqtyke	_
+3	tsvey	NUM	צװײ	qVY	_
+4	lider	N	לידער	lyder	_
+5	vos	C	װאָס	VAos	_
+6	ikh	PRO	איך	AyX	_
+7	druk	VBF	דרוק	drvk	_
+8	fun	P	פֿון	fvN	_
+9	zey	PRO	זײ	zY	_
+10	dem	D	דעם	deM	_
+11	fuln	ADJ	פֿולן	fvlN	_
+12	tekst	N	טעקסט	tekst	_
+13	zeynen	VBF	זײנען	zYneN	_
+14	oykh	ADV	אױך	AWX	_
+15	a	D	אַ	Aa	_
+16	tsushteyer	N	צושטײער	qv$tYer	_
+17	tsu	P	צו	qv	_
+18	dem	D	דעם	deM	_
+19	min	N	מין	myN	_
+20	literatur	N	ליטעראַטור	lyterAatvr	_
+21	bey	P	בײ	bY	_
+22	yidn	N	ייִדן	yyidN	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,538.11
+1	I.	LS	אי.	Ay.	_
+2	di	D	די	dy	_
+3	"	PUNC	"	"	_
+4	bashreybung	N	באַשרײבונג	bAa$rYbvng	_
+5	fun	P	פֿון	fvN	_
+6	ashknz	NPR	אַשקנז	Aa$knz	_
+7	un	CONJ	און	AvN	_
+8	poliak	N	פּאָליִאַק	pAolyiAak	_
+9	"	PUNC	"	"	_
+10	iz	BEF	איז	Ayz	_
+11	fartseykhnt	VAN	פֿאַרצײכנט	fAarqYxnt	_
+12	bey	P	בײ	bY	_
+13	steynshneyder	NPR	סטײנשנײדער	stYn$nYder	_
+14	in	P	אין	AyN	_
+15	tsvey	NUM	צװײ	qVY	_
+16	oysgabes	N	אױסגאַבעס	AWsgAabes	_
+17	fun	P	פֿון	fvN	_
+18	prog	NPR	פּראָג	prAog	_
+19	on	P	אָן	AoN	_
+20	a	D	אַ	Aa	_
+21	yor	N	יאָר	yAor	_
+22	berkh	ADV	בערך	berX	_
+23	1675-1680	NUM	1675-1680	1675-1680	_
+24	{COM:reference_omitted}	REF	{cאָם:רעפֿערענcע_אָמיטטעד}	{cAoM:reference_Aomytted}	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,538.12
+1	bn	NPR	בן	bN	_
+2	yekb	NPR	יעקב	yekb	_
+3	{COM:reference_omitted}	REF	{cאָם:רעפֿערענcע_אָמיטטעד}	{cAoM:reference_Aomytted}	_
+4	dermont	VBF	דערמאָנט	dermAont	_
+5	dem	D	דעם	deM	_
+6	nomen	N	נאָמען	nAomeN	_
+7	nit	NEG	ניט	nyt	_
+8	ingantsn	ADV	אינגאַנצן	AyngAanqN	_
+9	pinktlekh	ADV	פּינקטלעך	pynktleX	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,538.13
+1	a	D	אַ	Aa	_
+2	por	Q	פּאָר	pAor	_
+3	urut	N	אורוט	Avrvt	_
+4	fun	P	פֿון	fvN	_
+5	dem	D	דעם	deM	_
+6	lid	N	ליד	lyd	_
+7	in	P	אין	AyN	_
+8	a	D	אַ	Aa	_
+9	stark	ADV	סטאַרק	stAark	_
+10	fardeytster	ADJ	פֿאַרדײצטער	fAardYqter	_
+11	transkriptsie	N	טראַנסקריפּציִע	trAanskrypqyie	_
+12	gefinen	VBF	געפֿינען	gefyneN	_
+13	zikh	PRO	זיך	zyX	_
+14	in	P	אין	AyN	_
+15	s"st	NPR	ס"סט	s"st	_
+16	{COM:reference_omitted}	REF	{cאָם:רעפֿערענcע_אָמיטטעד}	{cAoM:reference_Aomytted}	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,538.14
+1	letstns	ADV	לעצטנס	leqtns	_
+2	hot	HVF	האָט	hAot	_
+3	m.	NPR	מ.	m.	_
+4	erik	NPR	עריק	eryk	_
+5	in	P	אין	AyN	_
+6	zeyn	PRO$	זײן	zYN	_
+7-8	iberdertseylt	RP~VBN	איבערדערצײלט	AyberderqYlt	_
+7	iber	RP	איבער	Ayber	_
+8	dertseylt	VBN	דערצײלט	derqYlt	_
+9	,	PUNC	,	,	_
+10	mit	P	מיט	myt	_
+11	tsitates	N	ציטאַטעס	qytAates	_
+12	,	PUNC	,	,	_
+13	dem	D	דעם	deM	_
+14	inhalt	N	אינהאַלט	AynhAalt	_
+15	fun	P	פֿון	fvN	_
+16	der	D	דער	der	_
+17	zakh	N	זאַך	zAaX	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,538.15
+1	zi	PRO	זי	zy	_
+2	iz	VBF	איז	Ayz	_
+3	ober	ADV	אָבער	Aober	_
+4	azoy	ADV	אַזױ	AazW	_
+5	tsikave	ADJ	ציקאַװע	qykAaVe	_
+6	loyt	P	לוט	lvt	_
+7	inhalt	N	אינהאַלט	AynhAalt	_
+8	un	CONJ	און	AvN	_
+9	sprakh	N	ספּראַך	sprAaX	_
+10	az	C	אַז	Aaz	_
+11	es	ES	עס	es	_
+12	loynt	VBF	לױנט	lWnt	_
+13	zi	PRO	זי	zy	_
+14	tsu	TO	צו	qv	_
+15	brengen	VB	ברענגען	brengeN	_
+16	ingantsn	ADV	אינגאַנצן	AyngAanqN	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,538.16
+1	keyn	Q	קײן	kYN	_
+2	shum	Q	שום	$vM	_
+3	mkhbr	N	מכבר	mxbr	_
+4	iz	BEF	איז	Ayz	_
+5	in	P	אין	AyN	_
+6	dem	D	דעם	deM	_
+7	verkl	N	װערקל	Verkl	_
+8	nit	NEG	ניט	nyt	_
+9-10	ongerufn	RP~VAN	אָנגערופֿן	AongervfN	_
+9	on	RP	אָן	AoN	_
+10	gerufn	VAN	גערופֿן	gervfN	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,538.17
+1	un	CONJ	און	AvN	_
+2	hiut	C	היִוט	hyivt	_
+3	er	PRO	ער	er	_
+4	zogt	VBF	זאָגט	zAogt	_
+5	areyn	ADV	אַרײן	AarYN	_
+6	i	CONJ	אי	Ay	_
+7	di	D	די	dy	_
+8	deytshe	ADJ	דײטשע	dYt$e	_
+9	i	CONJ	אי	Ay	_
+10	di	D	די	dy	_
+11	poylishe	ADJ	פּױלישע	pWly$e	_
+12	i	CONJ	אי	Ay	_
+13	di	D	די	dy	_
+14	proger	ADJ	פּראָגער	prAoger	_
+15	yidn	N	ייִדן	yyidN	_
+16	ken	MDF	קען	keN	_
+17	men	PRO	מען	meN	_
+18	in	P	אין	AyN	_
+19	flug	N	פֿלוג	flvg	_
+20	oykh	ADV	אױך	AWX	_
+21	nit	NEG	ניט	nyt	_
+22	makhn	VB	מאַכן	mAaxN	_
+23	keyn	Q	קײן	kYN	_
+24	hserut	N	הסערוט	hservt	_
+25	vegn	P	װעגן	VegN	_
+26	zeyn	PRO$	זײן	zYN	_
+27	opstam	N	אָפּסטאַם	AopstAaM	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,538.18
+1	ober	CONJ	אָבער	Aober	_
+2	ven	C	װען	VeN	_
+3	mir	PRO	מיר	myr	_
+4	kukn	VBF	קוקן	kvkN	_
+5	zikh	PRO	זיך	zyX	_
+6	eyn	RP	אײן	AYN	_
+7	bemerkn	VBF	בעמערקן	bemerkN	_
+8	mir	PRO	מיר	myr	_
+9	,	PUNC	,	,	_
+10	az	C	אַז	Aaz	_
+11	mir	PRO	מיר	myr	_
+12	hobn	VBF	האָבן	hAobN	_
+13	tsu	TO	צו	qv	_
+14	tun	VB	טון	tvN	_
+15	mit	P	מיט	myt	_
+16	a	D	אַ	Aa	_
+17	poylish-yidishn	ADJ	פּױליש-ייִדישן	pWly$-yyidy$N	_
+18	mkhbr	N	מכבר	mxbr	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,538.19
+1	a	D	אַ	Aa	_
+2	deytsher	ADJ	דײטשער	dYt$er	_
+3	yid	N	ייִד	yyid	_
+4	volt	VLF	װאָלט	VAolt	_
+5	nit	NEG	ניט	nyt	_
+6	gezen	VBN	געזען	gezeN	_
+7	azoy	ADV	אַזױ	AazW	_
+8	sharf	ADV	שאַרף	$AarF	_
+9	di	D	די	dy	_
+10	shvakhkeytn	N	שװאַכקײטן	$VAaxkYtN	_
+11	fun	P	פֿון	fvN	_
+12	zeyne	PRO$	זײנע	zYne	_
+13	landsleyt	N	לאַנדסלײט	lAandslYt	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,539.20
+1	fun	P	פֿון	fvN	_
+2	mkumut	N	מקומוט	mkvmvt	_
+3	vos	C	װאָס	VAos	_
+4	vern	RDF	װערן	VerN	_
+5-6	angerufn	RP~VAN	אַנגערופֿן	AangervfN	_
+5	an	RP	אַן	AaN	_
+6	gerufn	VAN	גערופֿן	gervfN	_
+7	in	P	אין	AyN	_
+8	di	D	די	dy	_
+9	verzn	N	װערזן	VerzN	_
+10	19-20	NUM	19-20	19-20	_
+11	zeen	VBF	זעען	zeeN	_
+12	mir	PRO	מיר	myr	_
+13	az	C	אַז	Aaz	_
+14	der	D	דער	der	_
+15	shreyber	N	שרײבער	$rYber	_
+16	iz	BEF	איז	Ayz	_
+17	oyf	P	אױף	AWF	_
+18	zeyn	PRO$	זײן	zYN	_
+19	vanderveg	N	װאַנדערװעג	VAanderVeg	_
+20-21	oysgeven	RP~VBN	אױסגעװען	AWsgeVeN	_
+20	oys	RP	אױס	AWs	_
+21	geven	VBN	געװען	geVeN	_
+22	in	P	אין	AyN	_
+23	gants	ADJ	גאַנץ	gAanQ	_
+24	tsfun-	NPR	צפֿון-	qfvN-	_
+25	un	CONJ	און	AvN	_
+26	mitldeytshland	NPR	מיטלדײטשלאַנד	mytldYt$lAand	_
+27	dos	D	דאָס	dAos	_
+28	rov	N	רבֿ	r~	_
+29	in	P	אין	AyN	_
+30	hesn	NPR	העסן	hesN	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,539.21
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	hot	HVF	האָט	hAot	_
+4	zikh	PRO	זיך	zyX	_
+5	mistome	ADV	מסתּמא	msTmA	_
+6	genug	Q	גענוג	genvg	_
+7-8	ongelitn	RP~VBN	אָנגעליטן	AongelytN	_
+7	on	RP	אָן	AoN	_
+8	gelitn	VBN	געליטן	gelytN	_
+9	fun	P	פֿון	fvN	_
+10	di	D	די	dy	_
+11	ashknzim	NPR	אַשקנזים	Aa$knzyM	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,539.22
+1	er	PRO	ער	er	_
+2	hot	VBF	האָט	hAot	_
+3	kegn	P	קעגן	kegN	_
+4	zey	PRO	זײ	zY	_
+5	a	D	אַ	Aa	_
+6	sharfn	ADJ	שאַרפֿן	$AarfN	_
+7	argument	N	אַרגומענט	Aargvment	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,539.23
+1	zey	PRO	זײ	zY	_
+2	hobn	VBF	האָבן	hAobN	_
+3	zikh	PRO	זיך	zyX	_
+4	nit	NEG	ניט	nyt	_
+5	vos	Q	װאָס	VAos	_
+6-8	ibertsunemen	RP~TO~VB	איבערצונעמען	AyberqvnemeN	_
+6	iber	RP	איבער	Ayber	_
+7	tsu	TO	צו	qv	_
+8	nemen	VB	נעמען	nemeN	_
+9	antkegn	P	אַנטקעגן	AantkegN	_
+10	di	D	די	dy	_
+11	"	PUNC	"	"	_
+12	shnorer	N	שנאָרער	$nAorer	_
+13	"	PUNC	"	"	_
+14	fun	P	פֿון	fvN	_
+15	mzrkh	H	מזרך	mzrX	east
+16	veyl	C	װײל	VYl	_
+17	bset	C	בסעט	bset	_
+18	di	D	די	dy	_
+19	deytshe	ADJ	דײטשע	dYt$e	_
+20	yorn	N	יאָרן	yAorN	_
+21	hobn	HVF	האָבן	hAobN	_
+22	gehat	VBN	געהאַט	gehAat	_
+23	bey	P	בײ	bY	_
+24	zikh	PRO	זיך	zyX	_
+25	a	D	אַ	Aa	_
+26	mlkhmh	N	מלכמה	mlxmh	_
+27	afile	FP	אַפֿילו	Aafylv	_
+28	di	D	די	dy	_
+29	dreysig-yorike	ADJ	דרײסיג-יאָריקע	drYsyg-yAoryke	_
+30	mlkhmh	N	מלכמה	mlxmh	_
+31	1618-1648	X	1618-1648	1618-1648	_
+32	zeynen	BEF	זײנען	zYneN	_
+33	zey	PRO	זײ	zY	_
+34	gelofn	VBN	געלאָפֿן	gelAofN	_
+35	keyn	P	קײן	kYN	_
+36	mzrkh	H	מזרך	mzrX	east
+37	azoy	ADV	אַזױ	AazW	_
+38	vi	WADV	װי	Vy	_
+39	di	D	די	dy	_
+40	poylishe	ADJ	פּױלישע	pWly$e	_
+41	hobn	HVF	האָבן	hAobN	_
+42	genumen	VBN	גענומען	genvmeN	_
+43	loyfn	VB	לױפֿן	lWfN	_
+44	keyn	P	קײן	kYN	_
+45	deytshland	NPR	דײטשלאַנד	dYt$lAand	_
+46	nokh	P	נאָך	nAoX	_
+47	khmelmitskis	NPR$	כמעלמיצקיס	xmelmyqkys	_
+48	gzrut	N	גזרוט	gzrvt	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,539.24
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	poylishe	ADJ	פּױלישע	pWly$e	_
+4	yidn	N	ייִדן	yyidN	_
+5	zeynen	BEF	זײנען	zYneN	_
+6	dafke	ADV	דװקא	dVkA	_
+7	geven	VBN	געװען	geVeN	_
+8	gute	ADJ	גוטע	gvte	_
+9	mkhnin-urkhim	N	מכנין-אורכים	mxnyN-AvrxyM	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,539.25
+1-2	tsum	P~D	צום	qvM	_
+1	tsu	P	צו	qv	_
+2	m	D	מ	m	_
+3	sof	N	סוף	svF	_
+4	fun	P	פֿון	fvN	_
+5	verz	N	װערז	Verz	_
+6	183	NUM	183	183	_
+7	usv	X	אוסװ	AvsV	_
+8	geyt	VBF	גײט	gYt	_
+9	unzer	PRO$	אונזער	Avnzer	_
+10	shreyber	N	שרײבער	$rYber	_
+11	afilu	FP	אַפֿילו	Aafylv	_
+12	ariber	ADV	אַריבער	Aaryber	_
+13	tsu	P	צו	qv	_
+14	der	D	דער	der	_
+15	ofensive	N	אָפֿענסיװע	AofensyVe	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,539.26
+1	un	CONJ	און	AvN	_
+2	varft	VBF	װאַרפֿט	VAarft	_
+3	oyf	P	אױף	AWF	_
+4	di	D	די	dy	_
+5	ashknzim	NPR	אַשקנזים	Aa$knzyM	_
+6	az	C	אַז	Aaz	_
+7	zey	PRO	זײ	zY	_
+8	zeynen	VBF	זײנען	zYneN	_
+9	kartnspiler	N	קאַרטנספּילער	kAartnspyler	_
+10	un	CONJ	און	AvN	_
+11	zey	PRO	זײ	zY	_
+12	farfirn	VBF	פֿאַרפֿירן	fAarfyrN	_
+13	di	D	די	dy	_
+14	erlekhe	ADJ	ערלעכע	erlexe	_
+15	poylishe	ADJ	פּױלישע	pWly$e	_
+16	yidn	N	ייִדן	yyidN	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,539.27
+1	ober	CONJ	אָבער	Aober	_
+2	er	PRO	ער	er	_
+3	hot	VBF	האָט	hAot	_
+4	fandestvegn	ADV	פֿאַנדעסטװעגן	fAandestVegN	_
+5	genug	Q	גענוג	genvg	_
+6	humor	N	הומאָר	hvmAor	_
+7	tsu	TO	צו	qv	_
+8	zen	VB	זען	zeN	_
+9	oykh	ADV	אױך	AWX	_
+10	di	D	די	dy	_
+11	eygene	ADJ	אײגענע	AYgene	_
+12	poylishe	ADJ	פּױלישע	pWly$e	_
+13	khsrunut	N	כסרונוט	xsrvnvt	_
+14	un	CONJ	און	AvN	_
+15	genug	Q	גענוג	genvg	_
+16	yusr	N	יוסר	yvsr	_
+17	tsu	TO	צו	qv	_
+18	zen	VB	זען	zeN	_
+19	di	D	די	dy	_
+20	melut	N	מעלוט	melvt	_
+21	fun	P	פֿון	fvN	_
+22	di	D	די	dy	_
+23	askhnzim	N	אַסכנזים	AasxnzyM	_
+24	oykh	ADV	אױך	AWX	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,539.28
+1	kegn	P	קעגן	kegN	_
+2	di	D	די	dy	_
+3	preger	N	פּרעגער	preger	_
+4	iz	VBF	איז	Ayz	_
+5	eyngtlekh	ADV	אײנגטלעך	AYngtleX	_
+6	faran	ADJ	פֿאַראַן	fAarAaN	_
+7	nor	FP	נאָר	nAor	_
+8	eyn	NUM	אײן	AYN	_
+9	tenh	N	טענה	tenh	_
+10	zey	PRO	זײ	zY	_
+11	zeynen	VBF	זײנען	zYneN	_
+12	fmoim	N	פֿמאָיִם	fmAoyiM	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,539.29
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	polemik	N	פּאָלעמיק	pAolemyk	_
+4	mit	P	מיט	myt	_
+5	zey	PRO	זײ	zY	_
+6	iz	VBF	איז	Ayz	_
+7	mer	QR	מער	mer	_
+8	gutmutike	ADJ	גוטמוטיקע	gvtmvtyke	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,539.30
+1	tsu	P	צו	qv	_
+2	der	D	דער	der	_
+3	tekhnik	N	טעכניק	texnyk	_
+4-5	funem	P~D	פֿונעם	fvneM	_
+4	fun	P	פֿון	fvN	_
+5	em	D	עם	eM	_
+6	opdruk	N	אָפּדרוק	Aopdrvk	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,539.31
+1	di	D	די	dy	_
+2	numeratsie	N	נומעראַציִע	nvmerAaqyie	_
+3	fun	P	פֿון	fvN	_
+4	di	D	די	dy	_
+5	verzn	N	װערזן	VerzN	_
+6	di	D	די	dy	_
+7	opsteltseykhns	N	אָפּסטעלצײכנס	AopstelqYxns	_
+8	dos	D	דאָס	dAos	_
+9	bisl	N	ביסל	bysl	_
+10	nmudut	N	נמודוט	nmvdvt	_
+11	zeynen	BEF	זײנען	zYneN	_
+12-13	tsugestelt	RP~VAN	צוגעסטעלט	qvgestelt	_
+12	tsu	RP	צו	qv	_
+13	gestelt	VAN	געסטעלט	gestelt	_
+14	fun	P	פֿון	fvN	_
+15	mir	PRO	מיר	myr	_
+16	oyf	P	אױף	AWF	_
+17	tsu	TO	צו	qv	_
+18	fargringern	VB	פֿאַרגרינגערן	fAargryngerN	_
+19	dos	D	דאָס	dAos	_
+20	leyenen	N	לײענען	lYeneN	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,539.32
+1	oykh	ADV	אױך	AWX	_
+2	hob	HVF	האָב	hAob	_
+3	ikh	PRO	איך	AyX	_
+4	stilshveygndig	ADV	סטילשװײגנדיג	styl$VYgndyg	_
+5	farrikht	VBN	פֿאַרריכט	fAarryxt	_
+6	ofene	ADJ	אָפֿענע	Aofene	_
+7	drukteutn	N	דרוקטעוטן	drvktevtN	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,539.33
+1	di	D	די	dy	_
+2	hebreishe	ADJ	העברעיִשע	hebreyi$e	_
+3	verter	N	װערטער	Verter	_
+4	hob	HVF	האָב	hAob	_
+5	ikh	PRO	איך	AyX	_
+6	gelozn	VBN	געלאָזן	gelAozN	_
+7	eyngeringlt	ADJ	אײנגערינגלט	AYngerynglt	_
+8	in	P	אין	AyN	_
+9	halbe	ADJ	האַלבע	hAalbe	_
+10	lbnut	N	לבנוט	lbnvt	_
+11	azoy	ADV	אַזױ	AazW	_
+12	vi	P	װי	Vy	_
+13	zey	PRO	זײ	zY	_
+14	steyen	VBF	סטײען	stYeN	_
+15	in	P	אין	AyN	_
+16	original	N	אָריגינאַל	AorygynAal	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,539.34
+1	dos	D	דאָס	dAos	_
+2	bikhl	N	ביכל	byxl	_
+3	halt	VBF	האַלט	hAalt	_
+4	akht	NUM	אַכט	Aaxt	_
+5	zeytlekh	N	זײטלעך	zYtleX	_
+6	oktav-format	N	אָקטאַװ-פֿאָרמאַט	AoktAaV-fAormAat	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,539.35
+1	II.	LS	איי.	Ayy.	_
+2	dos	D	דאָס	dAos	_
+3	tsveyte	ADJ	צװײטע	qVYte	_
+4	lid	N	ליד	lyd	_
+5	,	PUNC	,	,	_
+6	di	D	די	dy	_
+7	{COM:title_omitted}	TTL	{cאָם:טיטלע_אָמיטטעד}	{cAoM:tytle_Aomytted}	_
+8	hob	HVF	האָב	hAob	_
+9	ikh	PRO	איך	AyX	_
+10	in	P	אין	AyN	_
+11	ergets	ADV	ערגעץ	ergeQ	_
+12	nit	NEG	ניט	nyt	_
+13	gefunen	VBN	געפֿונען	gefvneN	_
+14	dermont	ADJ	דערמאָנט	dermAont	_
+15	oyser	P	אױסער	AWser	_
+16	in	P	אין	AyN	_
+17	tsedners	NPR$	צעדנערס	qedners	_
+18	katalog	N	קאַטאַלאָג	kAatAalAog	_
+19	fun	P	פֿון	fvN	_
+20	britishn	ADJ	בריטישן	bryty$N	_
+21	muzeum	N	מוזעום	mvzevM	_
+22	{COM:reference_omitted}	REF	{cאָם:רעפֿערענcע_אָמיטטעד}	{cAoM:reference_Aomytted}	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,539.36
+1	in	P	אין	AyN	_
+2	britishn	ADJ	בריטישן	bryty$N	_
+3	muzeum	N	מוזעום	mvzevM	_
+4	trogt	VBF	טראָגט	trAogt	_
+5	es	PRO	עס	es	_
+6	dem	D	דעם	deM	_
+7	numer	N	נומער	nvmer	_
+8	.Or._1979._c._25	NP-PRN	.אָר._1979._c._25	.Aor._1979._c._25	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,539.37
+1	tsedner	NPR	צעדנער	qedner	_
+2	git	VBF	גיט	gyt	_
+3	tsu	RP	צו	qv	_
+4	"	PUNC	"	"	_
+5	prag	NPR	פּראַג	prAag	_
+6	1792?	NUM	1792?	1792?	_
+7	"	PUNC	"	"	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,539.38
+1	oyf	P	אױף	AWF	_
+2	dem	D	דעם	deM	_
+3	bikhl	N	ביכל	byxl	_
+4	gupa	H	גופּאַ	gvpAa	itself
+5	es	PRO	עס	es	_
+6	halt	VBF	האַלט	hAalt	_
+7	4	NUM	4	4	_
+8	zeytlekh	N	זײטלעך	zYtleX	_
+9	oktav-format	N	אָקטאַװ-פֿאָרמאַט	AoktAaV-fAormAat	_
+10	iz	BEF	איז	Ayz	_
+11	keyn	Q	קײן	kYN	_
+12	shum	Q	שום	$vM	_
+13	yor	N	יאָר	yAor	_
+14	un	CONJ	און	AvN	_
+15	ort	N	אָרט	Aort	_
+16	nit	NEG	ניט	nyt	_
+17-18	ongevizn	RP~VAN	אָנגעװיזן	AongeVyzN	_
+17	on	RP	אָן	AoN	_
+18	gevizn	VAN	געװיזן	geVyzN	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,539.39
+1	nor	CONJ	נאָר	nAor	_
+2	der	D	דער	der	_
+3	shrift	N	שריפֿט	$ryft	_
+4	endlt	VBF	ענדלט	endlt	_
+5-6	tsum	P~D	צום	qvM	_
+5	tsu	P	צו	qv	_
+6	m	D	מ	m	_
+7	proger	ADJ	פּראָגער	prAoger	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,539.40
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	oysleyg	N	אױסלײג	AWslYg	_
+4	e	X	ע	e	_
+5	h	X	ה	h	_
+6	in	P	אין	AyN	_
+7	farsheydene	ADJ	פֿאַרשײדענע	fAar$Ydene	_
+8	erter	N	ערטער	erter	_
+9	iz	VBF	איז	Ayz	_
+10	take	ADV	טאַקע	tAake	_
+11	karakteristish	ADJ	קאַראַקטעריסטיש	kAarAakterysty$	_
+12	far	P	פֿאַר	fAar	_
+13	dem	D	דעם	deM	_
+14	oysloz	N	אױסלאָז	AWslAoz	_
+15	fun	P	פֿון	fvN	_
+16	18tn	ADJ	18טן	18tN	_
+17	yh	N	יה	yh	_
+18	.	PUNC	.	.	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,539.41
+1	ven	CONJ	װען	VeN	_
+2	di	D	די	dy	_
+3	deytshe	ADJ	דײטשע	dYt$e	_
+4	shriftsprakhike	ADJ	שריפֿצפּראַכיקע	$ryfqprAaxyke	_
+5	hspeut	N	הספּעוט	hspevt	_
+6	zeynen	BEF	זײנען	zYneN	_
+7	tsulib	P	צוליב	qvlyb	_
+8	der	D	דער	der	_
+9	khsklh	N	כסקלה	xsklh	_
+10	gevorn	VBN	געװאָרן	geVAorN	_
+11	starker	ADJ	סטאַרקער	stAarker	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,539.42
+1	es	ES	עס	es	_
+2	varft	VBF	װאַרפֿט	VAarft	_
+3	zikh	PRO	זיך	zyX	_
+4	in	P	אין	AyN	_
+5	di	D	די	dy	_
+6	oygn	N	אױגן	AWgN	_
+7	di	D	די	dy	_
+8	konsekvente	ADJ	קאָנסעקװענטע	kAonsekVente	_
+9	shreybung	N	שרײבונג	$rYbvng	_
+10	"	PUNC	"	"	_
+11	vab	N	װאַב	VAab	_
+12	"	PUNC	"	"	_
+13	dafke	ADV	דװקא	dVkA	_
+14	mit	P	מיט	myt	_
+15	a	D	אַ	Aa	_
+16	ptkh	N	פּטך	ptX	_
+17-18	untern	P~D	אונטערן	AvnterN	_
+17	unter	P	אונטער	Avnter	_
+18	n	D	נ	n	_
+19	a	N	אַ	Aa	_
+20	kedey	C	כּדי	Kdy	_
+21	tsu	TO	צו	qv	_
+22	batseykhnen	VB	באַצײכנען	bAaqYxneN	_
+23	dem	D	דעם	deM	_
+24	poliaks	N$	פּאָליִאַקס	pAolyiAaks	_
+25	oyssprakh	N	אױסספּראַך	AWssprAaX	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,539.43
+1	a	D	אַ	Aa	_
+2	ptkh-a-shreybung	N	פּטך-אַ-שרײבונג	ptX-Aa-$rYbvng	_
+3	gefinen	VBF	געפֿינען	gefyneN	_
+4	mir	PRO	מיר	myr	_
+5	nokh	ADV	נאָך	nAoX	_
+6	in	P	אין	AyN	_
+7	dem	D	דעם	deM	_
+8	vort	N	װאָרט	VAort	_
+9	"	PUNC	"	"	_
+10	tatin	N	טאַטין	tAatyN	_
+11	"	PUNC	"	"	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,539.44
+1	veytir	ADV	װײטיר	VYtyr	_
+2	zeynen	BEF	זײנען	zYneN	_
+3	alts	X	אַלץ	AalQ	_
+4	gkudut	H	גקודוט	gkvdvt	UNKNOWN
+5	dos	D	דאָס	dAos	_
+6	nemlekhe	ADJ	נעמלעכע	nemlexe	_
+7	di	D	די	dy	_
+8	opsteltseykns	N	אָפּסטעלצײקנס	AopstelqYkns	_
+9-10	tsugegebn	RP~VAN	צוגעגעבן	qvgegebN	_
+9	tsu	RP	צו	qv	_
+10	gegebn	VAN	געגעבן	gegebN	_
+11	durkh	P	דורך	dvrX	_
+12	mir	PRO	מיר	myr	_
+13	in	P	אין	AyN	_
+14	dem	D	דעם	deM	_
+15	itstikn	ADJ	איצטיקן	AyqtykN	_
+16	iberdruk	N	איבערדרוק	Ayberdrvk	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,539.45
+1	interesant	ADJ	אינטערעסאַנט	AynteresAant	_
+2	iz	VBF	איז	Ayz	_
+3	tsu	TO	צו	qv	_
+4	fargleykhn	VB	פֿאַרגלײכן	fAarglYxN	_
+5	di	D	די	dy	_
+6	pretenzies	N	פּרעטענזיִעס	pretenzyies	_
+7	tsu	P	צו	qv	_
+8	dem	D	דעם	deM	_
+9	"	PUNC	"	"	_
+10	poliak	N	פּאָליִאַק	pAolyiAak	_
+11	"	PUNC	"	"	_
+12	vos	C	װאָס	VAos	_
+13	vern	RDF	װערן	VerN	_
+14	do	ADV	דאָ	dAo	_
+15-16	aroysgezogt	ADV~VAN	אַרױסגעזאָגט	AarWsgezAogt	_
+15	aroys	ADV	אַרױס	AarWs	_
+16	gezogt	VAN	געזאָגט	gezAogt	_
+17	mit	P	מיט	myt	_
+18	hundert	NUM	הונדערט	hvndert	_
+19	yor	N	יאָר	yAor	_
+20	speter	ADVR	ספּעטער	speter	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,539.46
+1	zey	PRO	זײ	zY	_
+2	zeynen	VBF	זײנען	zYneN	_
+3	sharfer	ADJ	שאַרפֿער	$Aarfer	_
+4	in	P	אין	AyN	_
+5	der	D	דער	der	_
+6	form	N	פֿאָרם	fAorM	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,540.47
+1	<paren>	PUNC	<פּאַרען>	<pAareN>	_
+2	un	CONJ	און	AvN	_
+3	dos	D	דאָס	dAos	_
+4	iz	VBF	איז	Ayz	_
+5	a	D	אַ	Aa	_
+6	raikh	N	ראַיִך	rAayiX	_
+7	az	C	אַז	Aaz	_
+8	der	D	דער	der	_
+9	anonimer	ADJ	אַנאָנימער	AanAonymer	_
+10	mkhbr	N	מכבר	mxbr	_
+11	iz	VBF	איז	Ayz	_
+12	nit	NEG	ניט	nyt	_
+13	keyn	Q	קײן	kYN	_
+14	poylisher	ADJ	פּױלישער	pWly$er	_
+15	yid	N	ייִד	yyid	_
+16	<$$paren>	PUNC	<$$פּאַרען>	<$$pAareN>	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,540.48
+1	ober	CONJ	אָבער	Aober	_
+2	sof-kl-sof	ADV	סוף-קל-סוף	svF-kl-svF	_
+3	khzrn	VBF	כזרן	xzrN	_
+4	zey	PRO	זײ	zY	_
+5	zikh	PRO	זיך	zyX	_
+6	iber	RP	איבער	Ayber	_
+7	.	PUNC	.	.	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,540.49
+1	un	CONJ	און	AvN	_
+2	es	ES	עס	es	_
+3	iz	VBF	איז	Ayz	_
+4	genug	Q	גענוג	genvg	_
+5	zikh	PRO	זיך	zyX	_
+6-8	aribertsutrogn	ADV~TO~VB	אַריבערצוטראָגן	AaryberqvtrAogN	_
+6	ariber	ADV	אַריבער	Aaryber	_
+7	tsu	TO	צו	qv	_
+8	trogn	VB	טראָגן	trAogN	_
+9	in	P	אין	AyN	_
+10	der	D	דער	der	_
+11	itstiker	ADJ	איצטיקער	Ayqtyker	_
+12	tseyt	N	צײט	qYt	_
+13	,	PUNC	,	,	_
+
+SENT	1929E-WEINREICH-SHPOTLIDER,540.50
+1	veln	MDF	װעלן	VelN	_
+2	mir	PRO	מיר	myr	_
+3	zen	VB	זען	zeN	_
+4	mutatis	FW	מוטאַטיס	mvtAatys	_
+5	mutandis	FW	מוטאַנדיס	mvtAandys	_
+6	az	C	אַז	Aaz	_
+7	"	PUNC	"	"	_
+8	ostyuden	N	אָסטיודען	AostyvdeN	_
+9	"	PUNC	"	"	_
+10	und	CONJ	אונד	Avnd	_
+11	deytshe	ADJ	דײטשע	dYt$e	_
+12	yidn	N	ייִדן	yyidN	_
+13	kumen	VBF	קומען	kvmeN	_
+14	nokh	ADV	נאָך	nAoX	_
+15	heynt	ADV	הײנט	hYnt	_
+16	nokh	P	נאָך	nAoX	_
+17	der	D	דער	der	_
+18	veltmlkhmh	N	װעלטמלכמה	Veltmlxmh	_
+19	mit	P	מיט	myt	_
+20	di	D	די	dy	_
+21	zelbe	ADJ	זעלבע	zelbe	_
+22	tenut	N	טענוט	tenvt	_
+23	eyner	PRO	אײנער	AYner	_
+24-25	tsum	P~D	צום	qvM	_
+24	tsu	P	צו	qv	_
+25	m	D	מ	m	_
+26	andern	ADJ	אַנדערן	AanderN	_
+27	.	PUNC	.	.	_
+

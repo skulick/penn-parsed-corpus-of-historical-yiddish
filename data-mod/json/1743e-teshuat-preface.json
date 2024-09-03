@@ -1,0 +1,5052 @@
+[
+    {
+        "leaves": [],
+        "tree": "(CODE <BEGIN_1743e-teshuat-preface>)",
+        "tree_id": "notreeid"
+    },
+    {
+        "leaves": [],
+        "tree": "(CODE <P_17.1>)",
+        "tree_id": "notreeid"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "dizun",
+                "start": 1,
+                "ycode": "dyzvN",
+                "yid": "דיזון"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "sfr",
+                "start": 2,
+                "ycode": "sfr",
+                "yid": "ספֿר"
+            },
+            {
+                "gloss": "salvation",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "tsuet",
+                "start": 3,
+                "ycode": "qvet",
+                "yid": "צועט"
+            },
+            {
+                "gloss": "Israel",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "isral",
+                "start": 4,
+                "ycode": "AysrAal",
+                "yid": "איסראַל"
+            },
+            {
+                "ltype": "st",
+                "pos": "HVF",
+                "rom": "hab",
+                "start": 5,
+                "ycode": "hAab",
+                "yid": "האַב"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "ikh",
+                "start": 6,
+                "ycode": "AyX",
+                "yid": "איך"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "mikh",
+                "start": 7,
+                "ycode": "myX",
+                "yid": "מיך"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBN",
+                "rom": "bmiht",
+                "start": 8,
+                "ycode": "bmyht",
+                "yid": "במיהט"
+            },
+            {
+                "ltype": "st",
+                "pos": "TO",
+                "rom": "tsu",
+                "start": 9,
+                "ycode": "qv",
+                "yid": "צו"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "bkumn",
+                "start": 10,
+                "ycode": "bkvmN",
+                "yid": "בקומן"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "in",
+                "start": 11,
+                "ycode": "AyN",
+                "yid": "אין"
+            },
+            {
+                "ltype": "st",
+                "pos": "NPR",
+                "rom": "rum",
+                "start": 12,
+                "ycode": "rvM",
+                "yid": "רום"
+            },
+            {
+                "ltype": "st",
+                "pos": "WPRO",
+                "rom": "velkhs",
+                "start": 13,
+                "ycode": "Velxs",
+                "yid": "װעלכס"
+            },
+            {
+                "ltype": "st",
+                "pos": "VAN",
+                "rom": "gdrukt",
+                "start": 14,
+                "ycode": "gdrvkt",
+                "yid": "גדרוקט"
+            },
+            {
+                "ltype": "st",
+                "pos": "BEF",
+                "rom": "izt",
+                "start": 15,
+                "ycode": "Ayzt",
+                "yid": "איזט"
+            },
+            {
+                "ltype": "st",
+                "pos": "RDN",
+                "rom": "vardn",
+                "start": 16,
+                "ycode": "VAardN",
+                "yid": "װאַרדן"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "in",
+                "start": 17,
+                "ycode": "AyN",
+                "yid": "אין"
+            },
+            {
+                "ltype": "st",
+                "pos": "NPR",
+                "rom": "rum",
+                "start": 18,
+                "ycode": "rvM",
+                "yid": "רום"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "mit",
+                "start": 19,
+                "ycode": "myt",
+                "yid": "מיט"
+            },
+            {
+                "gloss": "permission",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "rsut",
+                "start": 20,
+                "ycode": "rsvt",
+                "yid": "רסוט"
+            },
+            {
+                "gloss": "the_master",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "hadun",
+                "start": 21,
+                "ycode": "hAadvN",
+                "yid": "האַדון"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "pups",
+                "start": 22,
+                "ycode": "pvps",
+                "yid": "פּופּס"
+            },
+            {
+                "gloss": "it_will_be_exalted_his_majesty",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "ir\"h",
+                "start": 23,
+                "ycode": "Ayr\"h",
+                "yid": "איר\"ה"
+            }
+        ],
+        "tree": "(IP-MAT (NP-1 (D dizun) (N sfr) (NP-PRN-TTL (H tsuet) (H isral)) (CP-REL (-NONE- *ICH*-2))) (HVF hab) (NP-SBJ (PRO ikh)) (NP-RFL (PRO mikh)) (VBN bmiht) (IP-INF (NP-ACC (-NONE- *ICH*-1)) (TO tsu) (VB bkumn) (PP (P in) (NP (NPR rum)))) (CP-REL-2 (WNP-3 (WPRO velkhs)) (IP-SUB (NP-SBJ (-NONE- *T*-3)) (VAN gdrukt) (BEF izt) (RDN vardn) (PP (P in) (NP (NPR rum))) (PP (P mit) (NP (H rsut) (H hadun) (N pups) (H ir\"h) (CODE (-NONE- {GLOSS:irum_hudu})))))))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.1.3"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "abr",
+                "start": 1,
+                "ycode": "Aabr",
+                "yid": "אַבר"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "zelbig",
+                "start": 2,
+                "ycode": "zelbyg",
+                "yid": "זעלביג"
+            },
+            {
+                "ltype": "st",
+                "pos": "BEF",
+                "rom": "izt",
+                "start": 3,
+                "ycode": "Ayzt",
+                "yid": "איזט"
+            },
+            {
+                "ltype": "st",
+                "pos": "VAN",
+                "rom": "gdrukt",
+                "start": 4,
+                "ycode": "gdrvkt",
+                "yid": "גדרוקט"
+            },
+            {
+                "ltype": "st",
+                "pos": "BEN",
+                "rom": "gevezn",
+                "start": 5,
+                "ycode": "geVezN",
+                "yid": "געװעזן"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "oyf",
+                "start": 6,
+                "ycode": "AWF",
+                "yid": "אױף"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "itliens",
+                "start": 7,
+                "ycode": "Aytlyiens",
+                "yid": "איטליִענס"
+            },
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "un'",
+                "start": 8,
+                "ycode": "Avn'",
+                "yid": "אונ'"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "lsun",
+                "start": 9,
+                "ycode": "lsvN",
+                "yid": "לסון"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "lteyn",
+                "start": 10,
+                "ycode": "ltYN",
+                "yid": "לטײן"
+            },
+            {
+                "ltype": "st",
+                "pos": "WPRO",
+                "rom": "velkher",
+                "start": 11,
+                "ycode": "Velxer",
+                "yid": "װעלכער"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "in",
+                "start": 12,
+                "ycode": "AyN",
+                "yid": "אין"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "dizh",
+                "start": 13,
+                "ycode": "dyz$",
+                "yid": "דיזש"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "mdinut",
+                "start": 14,
+                "ycode": "mdynvt",
+                "yid": "מדינוט"
+            },
+            {
+                "ltype": "st",
+                "pos": "Q",
+                "rom": "vinig",
+                "start": 15,
+                "ycode": "Vynyg",
+                "yid": "װיניג"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "leyt",
+                "start": 16,
+                "ycode": "lYt",
+                "yid": "לײט"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "gibt",
+                "start": 17,
+                "ycode": "gybt",
+                "yid": "גיבט"
+            },
+            {
+                "ltype": "st",
+                "pos": "C",
+                "rom": "alz",
+                "start": 18,
+                "ycode": "Aalz",
+                "yid": "אַלז"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "zelkhs",
+                "start": 19,
+                "ycode": "zelxs",
+                "yid": "זעלכס"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "lsun",
+                "start": 20,
+                "ycode": "lsvN",
+                "yid": "לסון"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "fr_stin",
+                "start": 21,
+                "ycode": "fr_styN",
+                "yid": "פֿר_סטין"
+            }
+        ],
+        "tree": "(IP-MAT (CONJ abr) (NP-SBJ (ADJ zelbig)) (BEF izt) (VAN gdrukt) (BEN gevezn) (PP (P oyf) (NP (NP (N itliens)) (CONJP (CONJ un') (NP (N lsun) (N lteyn))) (CP-REL (WNP-1 (WPRO velkher)) (IP-SUB (NP-SBJ (-NONE- *exp*)) (PP (P in) (NP (D dizh) (N mdinut))) (NP-ACC (Q vinig) (N leyt) (CP-REL (-NONE- *ICH*-2))) (VBF gibt) (CP-REL-2 (WNP-3 (-NONE- 0)) (C alz) (IP-SUB (NP-SBJ (-NONE- *T*-3)) (NP-ACC-RSP-1 (ADJ zelkhs) (N lsun)) (VBF fr_stin))))))))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.1.4"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "alz_den",
+                "start": 1,
+                "ycode": "Aalz_deN",
+                "yid": "אַלז_דען"
+            },
+            {
+                "ltype": "st",
+                "pos": "HVF",
+                "rom": "hab",
+                "start": 2,
+                "ycode": "hAab",
+                "yid": "האַב"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "ikh",
+                "start": 3,
+                "ycode": "AyX",
+                "yid": "איך"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "mit",
+                "start": 4,
+                "ycode": "myt",
+                "yid": "מיט"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "groyzami",
+                "start": 5,
+                "ycode": "grWzAamy",
+                "yid": "גרױזאַמי"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "mi",
+                "start": 6,
+                "ycode": "my",
+                "yid": "מי"
+            },
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "un'",
+                "start": 7,
+                "ycode": "Avn'",
+                "yid": "אונ'"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "kastn",
+                "start": 8,
+                "ycode": "kAastN",
+                "yid": "קאַסטן"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "fun",
+                "start": 9,
+                "ycode": "fvN",
+                "yid": "פֿון"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "dizh",
+                "start": 10,
+                "ycode": "dyz$",
+                "yid": "דיזש"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "lsunut",
+                "start": 11,
+                "ycode": "lsvnvt",
+                "yid": "לסונוט"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "in",
+                "start": 12,
+                "ycode": "AyN",
+                "yid": "אין"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "teytshin",
+                "start": 13,
+                "ycode": "tYt$yN",
+                "yid": "טײטשין"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBN",
+                "rom": "gbroykht",
+                "start": 14,
+                "ycode": "gbrWxt",
+                "yid": "גברױכט"
+            }
+        ],
+        "tree": "(IP-MAT (ADVP-TMP (ADV alz_den)) (HVF hab) (NP-SBJ (PRO ikh)) (NP-ACC (-NONE- 0)) (PP (P mit) (NP (ADJ groyzami) (N mi) (CONJP (CONJ un') (NX (N kastn))))) (PP (P fun) (NP (D dizh) (N lsunut))) (PP (P in) (NP (N teytshin))) (VBN gbroykht))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.1.5"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "un'",
+                "start": 1,
+                "ycode": "Avn'",
+                "yid": "אונ'"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "den",
+                "start": 2,
+                "ycode": "deN",
+                "yid": "דען"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "in_halt",
+                "start": 3,
+                "ycode": "Ayn_hAalt",
+                "yid": "אינ_האַלט"
+            },
+            {
+                "ltype": "st",
+                "pos": "RDF",
+                "rom": "virt",
+                "start": 4,
+                "ycode": "Vyrt",
+                "yid": "װירט"
+            },
+            {
+                "ltype": "st",
+                "pos": "Q",
+                "rom": "yedr",
+                "start": 5,
+                "ycode": "yedr",
+                "yid": "יעדר"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "mensh",
+                "start": 6,
+                "ycode": "men$",
+                "yid": "מענש"
+            },
+            {
+                "ltype": "st",
+                "pos": "MD",
+                "rom": "kenn",
+                "start": 7,
+                "ycode": "kenN",
+                "yid": "קענן"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "zehn",
+                "start": 8,
+                "ycode": "zehN",
+                "yid": "זעהן"
+            },
+            {
+                "ltype": "st",
+                "pos": "C",
+                "rom": "ven",
+                "start": 9,
+                "ycode": "VeN",
+                "yid": "װען"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "er",
+                "start": 10,
+                "ycode": "er",
+                "yid": "ער"
+            },
+            {
+                "ltype": "st",
+                "pos": "Q",
+                "rom": "ali",
+                "start": 11,
+                "ycode": "Aaly",
+                "yid": "אַלי"
+            },
+            {
+                "ltype": "st",
+                "pos": "NUM",
+                "rom": "drey",
+                "start": 12,
+                "ycode": "drY",
+                "yid": "דרײ"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "bikhr",
+                "start": 13,
+                "ycode": "byxr",
+                "yid": "ביכר"
+            },
+            {
+                "ltype": "st",
+                "pos": "RP",
+                "rom": "durkh",
+                "start": 14,
+                "ycode": "dvrX",
+                "yid": "דורך"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "leyant",
+                "start": 15,
+                "ycode": "lYAant",
+                "yid": "לײאַנט"
+            }
+        ],
+        "tree": "(IP-MAT (CONJ un') (NP-ACC (D den) (N in_halt)) (RDF virt) (NP-SBJ (Q yedr) (N mensh)) (MD kenn) (VB zehn) (CP-ADV (C ven) (IP-SUB (NP-SBJ (PRO er)) (NP-ACC (Q ali) (NUM drey) (N bikhr)) (RP durkh) (VBF leyant))))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.1.6"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "den",
+                "start": 1,
+                "ycode": "deN",
+                "yid": "דען"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "zi",
+                "start": 2,
+                "ycode": "zy",
+                "yid": "זי"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "btsihn",
+                "start": 3,
+                "ycode": "bqyhN",
+                "yid": "בציהן"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "zikh",
+                "start": 4,
+                "ycode": "zyX",
+                "yid": "זיך"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "eyns",
+                "start": 5,
+                "ycode": "AYns",
+                "yid": "אײנס"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "oyf",
+                "start": 6,
+                "ycode": "AWF",
+                "yid": "אױף"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "dz",
+                "start": 7,
+                "ycode": "dz",
+                "yid": "דז"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "andri",
+                "start": 8,
+                "ycode": "Aandry",
+                "yid": "אַנדרי"
+            },
+            {
+                "ltype": "st",
+                "pos": "TO",
+                "rom": "tsu",
+                "start": 9,
+                "ycode": "qv",
+                "yid": "צו"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "stopin",
+                "start": 10,
+                "ycode": "stAopyN",
+                "yid": "סטאָפּין"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "di",
+                "start": 11,
+                "ycode": "dy",
+                "yid": "די"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "moylr",
+                "start": 12,
+                "ycode": "mWlr",
+                "yid": "מױלר"
+            },
+            {
+                "ltype": "st",
+                "pos": "WPRO",
+                "rom": "velkhi",
+                "start": 13,
+                "ycode": "Velxy",
+                "yid": "װעלכי"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "durkh",
+                "start": 14,
+                "ycode": "dvrX",
+                "yid": "דורך"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "feynt_saft",
+                "start": 15,
+                "ycode": "fYnt_sAaft",
+                "yid": "פֿײנט_סאַפֿט"
+            },
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "un'",
+                "start": 16,
+                "ycode": "Avn'",
+                "yid": "אונ'"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "bilbulim",
+                "start": 17,
+                "ycode": "bylbvlyM",
+                "yid": "בילבולים"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "unts",
+                "start": 18,
+                "ycode": "AvnQ",
+                "yid": "אונץ"
+            },
+            {
+                "ltype": "st",
+                "pos": "RP",
+                "rom": "nakh",
+                "start": 19,
+                "ycode": "n\"X",
+                "yid": "נ\"ך"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "zagn",
+                "start": 20,
+                "ycode": "zAagN",
+                "yid": "זאַגן"
+            },
+            {
+                "ltype": "st",
+                "pos": "C",
+                "rom": "alz",
+                "start": 21,
+                "ycode": "Aalz",
+                "yid": "אַלז"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "mir",
+                "start": 22,
+                "ycode": "myr",
+                "yid": "מיר"
+            },
+            {
+                "ltype": "st",
+                "pos": "INTJ",
+                "rom": "khlilh",
+                "start": 23,
+                "ycode": "xlylh",
+                "yid": "כלילה"
+            },
+            {
+                "ltype": "st",
+                "pos": "MDF",
+                "rom": "zaltn",
+                "start": 24,
+                "ycode": "zAaltN",
+                "yid": "זאַלטן"
+            },
+            {
+                "ltype": "st",
+                "pos": "MD",
+                "rom": "muzn",
+                "start": 25,
+                "ycode": "mvzN",
+                "yid": "מוזן"
+            },
+            {
+                "gloss": "blood",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "dm",
+                "start": 26,
+                "ycode": "dM",
+                "yid": "דם"
+            },
+            {
+                "gloss": "from_Christians",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "mhnutsrim",
+                "start": 27,
+                "ycode": "mhnvqryM",
+                "yid": "מהנוצרים"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "habn",
+                "start": 28,
+                "ycode": "hAabN",
+                "yid": "האַבן"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "vi_vahl",
+                "start": 29,
+                "ycode": "Vy_VAahl",
+                "yid": "װי_װאַהל"
+            },
+            {
+                "ltype": "st",
+                "pos": "C",
+                "rom": "alz",
+                "start": 30,
+                "ycode": "Aalz",
+                "yid": "אַלז"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "zelbig",
+                "start": 31,
+                "ycode": "zelbyg",
+                "yid": "זעלביג"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "soyn",
+                "start": 32,
+                "ycode": "sWN",
+                "yid": "סױן"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "bkant",
+                "start": 33,
+                "ycode": "bkAant",
+                "yid": "בקאַנט"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "izt",
+                "start": 34,
+                "ycode": "Ayzt",
+                "yid": "איזט"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "bey",
+                "start": 35,
+                "ycode": "bY",
+                "yid": "בײ"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "gruzi",
+                "start": 36,
+                "ycode": "grvzy",
+                "yid": "גרוזי"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "hern",
+                "start": 37,
+                "ycode": "herN",
+                "yid": "הערן"
+            },
+            {
+                "gloss": "his_name_may_be_blessed",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "hs\"i",
+                "start": 38,
+                "ycode": "hs\"Ay",
+                "yid": "הס\"אי"
+            },
+            {
+                "gloss": "the_name",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "hsm",
+                "start": 39,
+                "ycode": "hsM",
+                "yid": "הסם"
+            },
+            {
+                "gloss": "may_be_blessed",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "itbrkh",
+                "start": 40,
+                "ycode": "AytbrX",
+                "yid": "איטברך"
+            },
+            {
+                "gloss": "he_will_lengthen",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "yarikh",
+                "start": 41,
+                "ycode": "yAaryX",
+                "yid": "יאַריך"
+            },
+            {
+                "gloss": "days_their",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "imihm",
+                "start": 42,
+                "ycode": "AymyhM",
+                "yid": "אימיהם"
+            },
+            {
+                "ltype": "st",
+                "pos": "C",
+                "rom": "alz",
+                "start": 43,
+                "ycode": "Aalz",
+                "yid": "אַלז"
+            },
+            {
+                "ltype": "st",
+                "pos": "FP",
+                "rom": "nar",
+                "start": 44,
+                "ycode": "nAar",
+                "yid": "נאַר"
+            },
+            {
+                "ltype": "st",
+                "pos": "Q",
+                "rom": "loytr",
+                "start": 45,
+                "ycode": "lWtr",
+                "yid": "לױטר"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "bilbulim",
+                "start": 46,
+                "ycode": "bylbvlyM",
+                "yid": "בילבולים"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "zeyn",
+                "start": 47,
+                "ycode": "zYN",
+                "yid": "זײן"
+            },
+            {
+                "ltype": "st",
+                "pos": "WADV",
+                "rom": "vi",
+                "start": 48,
+                "ycode": "Vy",
+                "yid": "װי"
+            },
+            {
+                "ltype": "st",
+                "pos": "NPR",
+                "rom": "her",
+                "start": 49,
+                "ycode": "her",
+                "yid": "הער"
+            },
+            {
+                "ltype": "st",
+                "pos": "NPR",
+                "rom": "prafesr",
+                "start": 50,
+                "ycode": "prAafesr",
+                "yid": "פּראַפֿעסר"
+            },
+            {
+                "ltype": "st",
+                "pos": "NPR",
+                "rom": "vagn_zeyl",
+                "start": 51,
+                "ycode": "VAagn_zYl",
+                "yid": "װאַגנ_זײל"
+            },
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "un'",
+                "start": 52,
+                "ycode": "Avn'",
+                "yid": "אונ'"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "andri",
+                "start": 53,
+                "ycode": "Aandry",
+                "yid": "אַנדרי"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "gruzi",
+                "start": 54,
+                "ycode": "grvzy",
+                "yid": "גרוזי"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "prafesariut",
+                "start": 55,
+                "ycode": "prAafesAaryivt",
+                "yid": "פּראַפֿעסאַריִוט"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "voyl",
+                "start": 56,
+                "ycode": "VWl",
+                "yid": "װױל"
+            },
+            {
+                "ltype": "st",
+                "pos": "Q",
+                "rom": "fil",
+                "start": 57,
+                "ycode": "fyl",
+                "yid": "פֿיל"
+            },
+            {
+                "ltype": "st",
+                "pos": "DR+P",
+                "rom": "da_fun",
+                "start": 58,
+                "ycode": "dAa_fvN",
+                "yid": "דאַ_פֿון"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBN",
+                "rom": "gsribn",
+                "start": 59,
+                "ycode": "gsrybN",
+                "yid": "גסריבן"
+            },
+            {
+                "ltype": "st",
+                "pos": "HVF",
+                "rom": "habn",
+                "start": 60,
+                "ycode": "hAabN",
+                "yid": "האַבן"
+            },
+            {
+                "ltype": "st",
+                "pos": "C",
+                "rom": "alz",
+                "start": 61,
+                "ycode": "Aalz",
+                "yid": "אַלז"
+            },
+            {
+                "ltype": "st",
+                "pos": "Q",
+                "rom": "loytr",
+                "start": 62,
+                "ycode": "lWtr",
+                "yid": "לױטר"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "bilbulim",
+                "start": 63,
+                "ycode": "bylbvlyM",
+                "yid": "בילבולים"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "zeyn",
+                "start": 64,
+                "ycode": "zYN",
+                "yid": "זײן"
+            }
+        ],
+        "tree": "(IP-MAT (CONJ den) (NP-SBJ (PRO zi)) (VBF btsihn) (NP-RFL (PRO zikh)) (NP-ADV (NP (PRO eyns)) (PP (P oyf) (NP (D dz) (ADJ andri)))) (IP-INF-PRP (TO tsu) (VB stopin) (NP-ACC (D di) (N moylr) (CP-REL (WNP-1 (WPRO velkhi)) (IP-SUB (NP-SBJ (-NONE- *T*-1)) (PP (P durkh) (NP (NP (N feynt_saft)) (CONJP (CONJ un') (NP (N bilbulim))))) (NP-DTV (PRO unts)) (RP nakh) (VBF zagn) (CP-THT (C alz) (IP-SUB (NP-SBJ (PRO mir)) (INTJ khlilh) (MDF zaltn) (MD muzn) (NP-ACC (H dm) (H mhnutsrim)) (VB habn))))))) (CP-ADV (ADV vi_vahl) (C alz) (IP-SUB (NP-2 (ADJ zelbig)) (NP-SBJ-3 (-NONE- *exp*)) (ADVP-DIAGN (ADV soyn)) (ADJP-PRD (ADJ bkant)) (VBF izt) (PP (P bey) (NP (ADJ gruzi) (N hern))) (INTJP (H hs\"i)) (INTJP (H hsm) (H itbrkh)) (INTJP (H yarikh) (H imihm)) (CP-THT-3 (C alz) (IP-SUB (NP-SBJ (-NONE- *ICH*-2)) (NP-PRD (FP nar) (Q loytr) (N bilbulim)) (VBF zeyn))))) (CP-ADV (WADVP-4 (WADV vi)) (IP-SUB (ADVP (-NONE- *T*-4)) (NP-SBJ (NP (NPR her) (NPR prafesr) (NPR vagn_zeyl)) (CONJP (CONJ un') (NP (ADJ andri) (ADJ gruzi) (N prafesariut)))) (ADVP (ADV voyl)) (NP-ACC (Q fil) (PP (DR+P da_fun))) (VBN gsribn) (HVF habn) (CP-THT (C alz) (IP-SUB (NP-SBJ (-NONE- *pro*)) (NP-PRD (Q loytr) (N bilbulim)) (VBF zeyn))))))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.1.7"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "HVF",
+                "rom": "hb",
+                "start": 1,
+                "ycode": "hb",
+                "yid": "הב"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "dakh",
+                "start": 2,
+                "ycode": "dAaX",
+                "yid": "דאַך"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "das",
+                "start": 3,
+                "ycode": "dS",
+                "yid": "דת"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "in",
+                "start": 4,
+                "ycode": "AyN",
+                "yid": "אין"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "dr",
+                "start": 5,
+                "ycode": "dr",
+                "yid": "דר"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "druk",
+                "start": 6,
+                "ycode": "drvk",
+                "yid": "דרוק"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBN",
+                "rom": "gbrakht",
+                "start": 7,
+                "ycode": "gbrAaxt",
+                "yid": "גבראַכט"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "denn",
+                "start": 8,
+                "ycode": "denN",
+                "yid": "דענן"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "gmeynn",
+                "start": 9,
+                "ycode": "gmYnN",
+                "yid": "גמײנן"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "leytn",
+                "start": 10,
+                "ycode": "lYtN",
+                "yid": "לײטן"
+            },
+            {
+                "ltype": "st",
+                "pos": "TO",
+                "rom": "tsu",
+                "start": 11,
+                "ycode": "qv",
+                "yid": "צו"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "bveyzn",
+                "start": 12,
+                "ycode": "bVYzN",
+                "yid": "בװײזן"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "mit",
+                "start": 13,
+                "ycode": "myt",
+                "yid": "מיט"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "zalkhn",
+                "start": 14,
+                "ycode": "zAalxN",
+                "yid": "זאַלכן"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "bveyz",
+                "start": 15,
+                "ycode": "bVYz",
+                "yid": "בװײז"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "vi",
+                "start": 16,
+                "ycode": "Vy",
+                "yid": "װי"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "durkh",
+                "start": 17,
+                "ycode": "dvrX",
+                "yid": "דורך"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "den",
+                "start": 18,
+                "ycode": "deN",
+                "yid": "דען"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "hern",
+                "start": 19,
+                "ycode": "herN",
+                "yid": "הערן"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "adfigatin",
+                "start": 20,
+                "ycode": "AadfygAatyN",
+                "yid": "אַדפֿיגאַטין"
+            },
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "un'",
+                "start": 21,
+                "ycode": "Avn'",
+                "yid": "אונ'"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "angela",
+                "start": 22,
+                "ycode": "AangelAa",
+                "yid": "אַנגעלאַ"
+            },
+            {
+                "ltype": "st",
+                "pos": "NPR",
+                "rom": "parelia",
+                "start": 23,
+                "ycode": "pAarelyiAa",
+                "yid": "פּאַרעליִאַ"
+            },
+            {
+                "ltype": "st",
+                "pos": "NPR",
+                "rom": "natroym",
+                "start": 24,
+                "ycode": "nAatrWM",
+                "yid": "נאַטרױם"
+            },
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "akh",
+                "start": 25,
+                "ycode": "AaX",
+                "yid": "אַך"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "fun",
+                "start": 26,
+                "ycode": "fvN",
+                "yid": "פֿון"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "den",
+                "start": 27,
+                "ycode": "deN",
+                "yid": "דען"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "hern",
+                "start": 28,
+                "ycode": "herN",
+                "yid": "הערן"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "angela",
+                "start": 29,
+                "ycode": "AangelAa",
+                "yid": "אַנגעלאַ"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "medikus",
+                "start": 30,
+                "ycode": "medykvs",
+                "yid": "מעדיקוס"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "fiskus",
+                "start": 31,
+                "ycode": "fyskvs",
+                "yid": "פֿיסקוס"
+            },
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "un'",
+                "start": 32,
+                "ycode": "Avn'",
+                "yid": "אונ'"
+            },
+            {
+                "ltype": "st",
+                "pos": "X",
+                "rom": "mukhl",
+                "start": 33,
+                "ycode": "mvxl",
+                "yid": "מוכל"
+            },
+            {
+                "ltype": "st",
+                "pos": "X",
+                "rom": "mn",
+                "start": 34,
+                "ycode": "mN",
+                "yid": "מן"
+            },
+            {
+                "ltype": "st",
+                "pos": "X",
+                "rom": "khikhudim",
+                "start": 35,
+                "ycode": "xyxvdyM",
+                "yid": "כיכודים"
+            },
+            {
+                "ltype": "st",
+                "pos": "X",
+                "rom": "brum",
+                "start": 36,
+                "ycode": "brvM",
+                "yid": "ברום"
+            }
+        ],
+        "tree": "(IP-MAT (NP-SBJ (-NONE- *pro*)) (HVF hb) (ADVP-DIAGN (ADV dakh)) (NP-ACC (D das)) (PP (P in) (NP (D dr) (N druk))) (VBN gbrakht) (IP-INF-PRP (NP-DTV (D denn) (ADJ gmeynn) (N leytn)) (TO tsu) (VB bveyzn) (PP (P mit) (NP (ADJ zalkhn) (N bveyz) (PP (P vi) (PP (PP (P durkh) (NP (D den) (N hern) (N adfigatin) (CONJP (CONJ un') (NX (N angela))) (NP-PRN (NPR parelia) (NPR natroym)))) (CONJP (CONJ akh) (PP (P fun) (NP (NP (D den) (N hern) (N angela) (N medikus) (N fiskus)) (CONJP (CONJ un') (NP (X mukhl) (X mn) (X khikhudim) (X brum))))))))))))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.1.8"
+    },
+    {
+        "leaves": [],
+        "tree": "(CODE <P_17.2>)",
+        "tree_id": "notreeid"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "nun",
+                "start": 1,
+                "ycode": "n",
+                "yid": "נ"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "izt",
+                "start": 2,
+                "ycode": "Ayzt",
+                "yid": "איזט"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "dakh",
+                "start": 3,
+                "ycode": "dAaX",
+                "yid": "דאַך"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "visiglikh",
+                "start": 4,
+                "ycode": "VysyglyX",
+                "yid": "װיסיגליך"
+            },
+            {
+                "ltype": "st",
+                "pos": "WPRO",
+                "rom": "vaz",
+                "start": 5,
+                "ycode": "VAaz",
+                "yid": "װאַז"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO$",
+                "rom": "unzri",
+                "start": 6,
+                "ycode": "Avnzry",
+                "yid": "אונזרי"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "khkhmim",
+                "start": 7,
+                "ycode": "xxmyM",
+                "yid": "ככמים"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBN",
+                "rom": "gsribn",
+                "start": 8,
+                "ycode": "gsrybN",
+                "yid": "גסריבן"
+            },
+            {
+                "ltype": "st",
+                "pos": "HVF",
+                "rom": "hbn",
+                "start": 9,
+                "ycode": "hbN",
+                "yid": "הבן"
+            }
+        ],
+        "tree": "(IP-MAT (ADVP (ADV nun)) (VBF izt) (ADVP-DIAGN (ADV dakh)) (ADJP-PRD (ADJ visiglikh)) (NP-SBJ (CP-FRL (WNP-1 (WPRO vaz)) (IP-SUB (NP-ACC (-NONE- *T*-1)) (NP-SBJ (PRO$ unzri) (N khkhmim)) (VBN gsribn) (HVF hbn) (CODE (-NONE- {COM:hebrew_omitted}))))))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.2.10"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "nun",
+                "start": 1,
+                "ycode": "n",
+                "yid": "נ"
+            },
+            {
+                "ltype": "st",
+                "pos": "WADV",
+                "rom": "vi",
+                "start": 2,
+                "ycode": "Vy",
+                "yid": "װי"
+            },
+            {
+                "ltype": "st",
+                "pos": "Q",
+                "rom": "fil",
+                "start": 3,
+                "ycode": "fyl",
+                "yid": "פֿיל"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "khsidim",
+                "start": 4,
+                "ycode": "HsydyM",
+                "yid": "חסידים"
+            },
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "un'",
+                "start": 5,
+                "ycode": "Avn'",
+                "yid": "אונ'"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "grusi",
+                "start": 6,
+                "ycode": "grvsy",
+                "yid": "גרוסי"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "gaunim",
+                "start": 7,
+                "ycode": "gAavnyM",
+                "yid": "גאַונים"
+            },
+            {
+                "ltype": "st",
+                "pos": "HVF",
+                "rom": "hbn",
+                "start": 8,
+                "ycode": "hbN",
+                "yid": "הבן"
+            },
+            {
+                "gloss": "mercy",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "rkhmnh",
+                "start": 9,
+                "ycode": "rxmnh",
+                "yid": "רכמנה"
+            },
+            {
+                "gloss": "save",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "litsln",
+                "start": 10,
+                "ycode": "lyqlN",
+                "yid": "ליצלן"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "ibr",
+                "start": 11,
+                "ycode": "Aybr",
+                "yid": "איבר"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "den",
+                "start": 12,
+                "ycode": "deN",
+                "yid": "דען"
+            },
+            {
+                "gloss": "payment",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "skr",
+                "start": 13,
+                "ycode": "skr",
+                "yid": "סקר"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "bilbul",
+                "start": 14,
+                "ycode": "bylbvl",
+                "yid": "בילבול"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO$",
+                "rom": "ir",
+                "start": 15,
+                "ycode": "Ayr",
+                "yid": "איר"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "lebn",
+                "start": 16,
+                "ycode": "lebN",
+                "yid": "לעבן"
+            },
+            {
+                "ltype": "st",
+                "pos": "MDN-IPP",
+                "rom": "muzn",
+                "start": 17,
+                "ycode": "mvzN",
+                "yid": "מוזן"
+            },
+            {
+                "ltype": "st",
+                "pos": "RP",
+                "rom": "oyf",
+                "start": 18,
+                "ycode": "AWF",
+                "yid": "אױף"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "gebn",
+                "start": 19,
+                "ycode": "gebN",
+                "yid": "געבן"
+            }
+        ],
+        "tree": "(CP-QUE-MAT (ADVP (ADV nun)) (WNP-1 (WNP (WQP (WADV vi) (Q fil)) (N khsidim)) (CONJP (CONJ un') (NP (ADJ grusi) (N gaunim)))) (IP-SUB (NP-SBJ (-NONE- *T*-1)) (HVF hbn) (INTJP (H rkhmnh) (H litsln)) (PP (P ibr) (NP (D den) (H skr) (N bilbul))) (NP-ACC (PRO$ ir) (N lebn)) (MDN-IPP muzn) (RP oyf) (VB gebn)))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.2.11"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "un'",
+                "start": 1,
+                "ycode": "Avn'",
+                "yid": "אונ'"
+            },
+            {
+                "ltype": "st",
+                "pos": "HVF",
+                "rom": "hbn",
+                "start": 2,
+                "ycode": "hbN",
+                "yid": "הבן"
+            },
+            {
+                "ltype": "st",
+                "pos": "INTJ",
+                "rom": "nebikh",
+                "start": 3,
+                "ycode": "nebyX",
+                "yid": "נעביך"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "shvehri",
+                "start": 4,
+                "ycode": "$Vehry",
+                "yid": "שװעהרי"
+            },
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "un'",
+                "start": 5,
+                "ycode": "Avn'",
+                "yid": "אונ'"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "bitri",
+                "start": 6,
+                "ycode": "bytry",
+                "yid": "ביטרי"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "ymurim",
+                "start": 7,
+                "ycode": "ymvryM",
+                "yid": "ימורים"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBN",
+                "rom": "glitn",
+                "start": 8,
+                "ycode": "glytN",
+                "yid": "גליטן"
+            }
+        ],
+        "tree": "(IP-MAT (CONJ un') (NP-SBJ (-NONE- *con*)) (HVF hbn) (INTJ nebikh) (NP-ACC (ADJP (ADJP (ADJ shvehri)) (CONJP (CONJ un') (ADJP (ADJ bitri)))) (N ymurim)) (VBN glitn))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.2.12"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "den",
+                "start": 1,
+                "ycode": "deN",
+                "yid": "דען"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "in_halt",
+                "start": 2,
+                "ycode": "Ayn_hAalt",
+                "yid": "אינ_האַלט"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "fun",
+                "start": 3,
+                "ycode": "fvN",
+                "yid": "פֿון"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "di",
+                "start": 4,
+                "ycode": "dy",
+                "yid": "די"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "drey",
+                "start": 5,
+                "ycode": "drY",
+                "yid": "דרײ"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "sfrim",
+                "start": 6,
+                "ycode": "sfryM",
+                "yid": "ספֿרים"
+            },
+            {
+                "ltype": "st",
+                "pos": "MDF",
+                "rom": "vil",
+                "start": 7,
+                "ycode": "Vyl",
+                "yid": "װיל"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "ikh",
+                "start": 8,
+                "ycode": "AyX",
+                "yid": "איך"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "dakh",
+                "start": 9,
+                "ycode": "dAaX",
+                "yid": "דאַך"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "bkitsur",
+                "start": 10,
+                "ycode": "bkyqvr",
+                "yid": "בקיצור"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "shreybn",
+                "start": 11,
+                "ycode": "$rYbN",
+                "yid": "שרײבן"
+            }
+        ],
+        "tree": "(IP-MAT (NP-ACC (D den) (N in_halt) (PP (P fun) (NP (D di) (ADJ drey) (N sfrim)))) (MDF vil) (NP-SBJ (PRO ikh)) (ADVP-DIAGN (ADV dakh)) (ADVP (ADV bkitsur)) (VB shreybn))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.2.13"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "dz",
+                "start": 1,
+                "ycode": "dz",
+                "yid": "דז"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "eyni",
+                "start": 2,
+                "ycode": "AYny",
+                "yid": "אײני"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "izt",
+                "start": 3,
+                "ycode": "Ayzt",
+                "yid": "איזט"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "fun",
+                "start": 4,
+                "ycode": "fvN",
+                "yid": "פֿון"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "den",
+                "start": 5,
+                "ycode": "deN",
+                "yid": "דען"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "mesh",
+                "start": 6,
+                "ycode": "me$",
+                "yid": "מעש"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "mit",
+                "start": 7,
+                "ycode": "myt",
+                "yid": "מיט"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "den",
+                "start": 8,
+                "ycode": "deN",
+                "yid": "דען"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "yung",
+                "start": 9,
+                "ycode": "yvng",
+                "yid": "יונג"
+            },
+            {
+                "ltype": "st",
+                "pos": "C",
+                "rom": "vaz",
+                "start": 10,
+                "ycode": "VAaz",
+                "yid": "װאַז"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "da",
+                "start": 11,
+                "ycode": "dAa",
+                "yid": "דאַ"
+            },
+            {
+                "ltype": "st",
+                "pos": "BEF",
+                "rom": "izt",
+                "start": 12,
+                "ycode": "Ayzt",
+                "yid": "איזט"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBN",
+                "rom": "gsehn",
+                "start": 13,
+                "ycode": "gsehN",
+                "yid": "גסעהן"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "in",
+                "start": 14,
+                "ycode": "AyN",
+                "yid": "אין"
+            },
+            {
+                "ltype": "st",
+                "pos": "NPR",
+                "rom": "vita_erba",
+                "start": 15,
+                "ycode": "VytAa_erbAa",
+                "yid": "װיטאַ_ערבאַ"
+            }
+        ],
+        "tree": "(IP-MAT (NP-SBJ (D dz) (ADJ eyni)) (VBF izt) (PP (P fun) (NP (D den) (N mesh) (PP (P mit) (NP (D den) (N yung))) (CP-REL (WNP-1 (-NONE- 0)) (C vaz) (IP-SUB (NP-SBJ (-NONE- *T*-1)) (ADVP (ADV da)) (BEF izt) (VBN gsehn) (PP (P in) (NP (NPR vita_erba))))))))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.2.14"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "dz",
+                "start": 1,
+                "ycode": "dz",
+                "yid": "דז"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "andri",
+                "start": 2,
+                "ycode": "Aandry",
+                "yid": "אַנדרי"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "izt",
+                "start": 3,
+                "ycode": "Ayzt",
+                "yid": "איזט"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "dos",
+                "start": 4,
+                "ycode": "dAos",
+                "yid": "דאָס"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "mmrial",
+                "start": 5,
+                "ycode": "mmryiAal",
+                "yid": "ממריִאַל"
+            },
+            {
+                "ltype": "st",
+                "pos": "C",
+                "rom": "vaz",
+                "start": 6,
+                "ycode": "VAaz",
+                "yid": "װאַז"
+            },
+            {
+                "ltype": "st",
+                "pos": "HVF",
+                "rom": "hat",
+                "start": 7,
+                "ycode": "hAat",
+                "yid": "האַט"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBN",
+                "rom": "gmakht",
+                "start": 8,
+                "ycode": "gmAaxt",
+                "yid": "גמאַכט"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "in",
+                "start": 9,
+                "ycode": "AyN",
+                "yid": "אין"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "dr",
+                "start": 10,
+                "ycode": "dr",
+                "yid": "דר"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "zakh",
+                "start": 11,
+                "ycode": "zAaX",
+                "yid": "זאַך"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "dr",
+                "start": 12,
+                "ycode": "dr",
+                "yid": "דר"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "adfikat",
+                "start": 13,
+                "ycode": "AadfykAat",
+                "yid": "אַדפֿיקאַט"
+            },
+            {
+                "ltype": "st",
+                "pos": "NPR",
+                "rom": "andre",
+                "start": 14,
+                "ycode": "Aandre",
+                "yid": "אַנדרע"
+            },
+            {
+                "ltype": "st",
+                "pos": "NPR",
+                "rom": "alberta",
+                "start": 15,
+                "ycode": "AalbertAa",
+                "yid": "אַלבערטאַ"
+            }
+        ],
+        "tree": "(IP-MAT (NP-SBJ (D dz) (ADJ andri)) (VBF izt) (NP-PRD (D dos) (N mmrial) (CP-REL (WNP-1 (-NONE- 0)) (C vaz) (IP-SUB (NP-ACC (-NONE- *T*-1)) (HVF hat) (VBN gmakht) (PP (P in) (NP (D dr) (N zakh))) (NP-SBJ (D dr) (N adfikat) (NP-PRN (NPR andre) (NPR alberta)))))))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.2.15"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "der",
+                "start": 1,
+                "ycode": "der",
+                "yid": "דער"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "zelbigi",
+                "start": 2,
+                "ycode": "zelbygy",
+                "yid": "זעלביגי"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "var",
+                "start": 3,
+                "ycode": "VAar",
+                "yid": "װאַר"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "eyn",
+                "start": 4,
+                "ycode": "AYN",
+                "yid": "אײן"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "groyzr",
+                "start": 5,
+                "ycode": "grWzr",
+                "yid": "גרױזר"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "khsid",
+                "start": 6,
+                "ycode": "xsyd",
+                "yid": "כסיד"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": "...",
+                "start": 7,
+                "ycode": "...",
+                "yid": "..."
+            }
+        ],
+        "tree": "(IP-MAT (NP-SBJ (D der) (ADJ zelbigi)) (VBF var) (NP-PRD (D eyn) (ADJ groyzr) (N khsid) (PUNC ...)))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.2.16"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "un'",
+                "start": 1,
+                "ycode": "Avn'",
+                "yid": "אונ'"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "der",
+                "start": 2,
+                "ycode": "der",
+                "yid": "דער"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "zelbig",
+                "start": 3,
+                "ycode": "zelbyg",
+                "yid": "זעלביג"
+            },
+            {
+                "ltype": "st",
+                "pos": "HVF",
+                "rom": "hat",
+                "start": 4,
+                "ycode": "hAat",
+                "yid": "האַט"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "zikh",
+                "start": 5,
+                "ycode": "zyX",
+                "yid": "זיך"
+            },
+            {
+                "ltype": "st",
+                "pos": "RP",
+                "rom": "an",
+                "start": 6,
+                "ycode": "AaN",
+                "yid": "אַן"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBN",
+                "rom": "ginumn",
+                "start": 7,
+                "ycode": "gynvmN",
+                "yid": "גינומן"
+            },
+            {
+                "ltype": "st",
+                "pos": "C",
+                "rom": "veyl",
+                "start": 8,
+                "ycode": "VYl",
+                "yid": "װײל"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "er",
+                "start": 9,
+                "ycode": "er",
+                "yid": "ער"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "dem",
+                "start": 10,
+                "ycode": "deM",
+                "yid": "דעם"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "oyz_gdrakhtn",
+                "start": 11,
+                "ycode": "AWz_gdrAaxtN",
+                "yid": "אױז_גדראַכטן"
+            },
+            {
+                "gloss": "payment",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "skr",
+                "start": 12,
+                "ycode": "skr",
+                "yid": "סקר"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "bilbul",
+                "start": 13,
+                "ycode": "bylbvl",
+                "yid": "בילבול"
+            },
+            {
+                "ltype": "st",
+                "pos": "HVF",
+                "rom": "hat",
+                "start": 14,
+                "ycode": "hAat",
+                "yid": "האַט"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "nimr",
+                "start": 15,
+                "ycode": "nymr",
+                "yid": "נימר"
+            },
+            {
+                "ltype": "st",
+                "pos": "MDN-IPP",
+                "rom": "kenn",
+                "start": 16,
+                "ycode": "kenN",
+                "yid": "קענן"
+            },
+            {
+                "ltype": "st",
+                "pos": "RP",
+                "rom": "tsu",
+                "start": 17,
+                "ycode": "qv",
+                "yid": "צו"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "hern",
+                "start": 18,
+                "ycode": "herN",
+                "yid": "הערן"
+            }
+        ],
+        "tree": "(IP-MAT (CONJ un') (NP-SBJ (D der) (ADJ zelbig)) (HVF hat) (NP-RFL (PRO zikh)) (RP an) (VBN ginumn) (CP-ADV (C veyl) (IP-SUB (NP-SBJ (PRO er)) (NP-DTV (D dem) (ADJ oyz_gdrakhtn) (H skr) (N bilbul)) (HVF hat) (ADVP-TMP (ADV nimr)) (MDN-IPP kenn) (RP tsu) (VB hern))))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.2.17"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "un'",
+                "start": 1,
+                "ycode": "Avn'",
+                "yid": "אונ'"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "dr",
+                "start": 2,
+                "ycode": "dr",
+                "yid": "דר"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "adfikat",
+                "start": 3,
+                "ycode": "AadfykAat",
+                "yid": "אַדפֿיקאַט"
+            },
+            {
+                "ltype": "st",
+                "pos": "BEF",
+                "rom": "iz",
+                "start": 4,
+                "ycode": "Ayz",
+                "yid": "איז"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "eyn",
+                "start": 5,
+                "ycode": "AYN",
+                "yid": "אײן"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "groyzr",
+                "start": 6,
+                "ycode": "grWzr",
+                "yid": "גרױזר"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "bki",
+                "start": 7,
+                "ycode": "bky",
+                "yid": "בקי"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBN",
+                "rom": "gevezn",
+                "start": 8,
+                "ycode": "geVezN",
+                "yid": "געװעזן"
+            },
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "za_vahl",
+                "start": 9,
+                "ycode": "zAa_VAahl",
+                "yid": "זאַ_װאַהל"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "in",
+                "start": 10,
+                "ycode": "AyN",
+                "yid": "אין"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO$",
+                "rom": "unzri",
+                "start": 11,
+                "ycode": "Avnzry",
+                "yid": "אונזרי"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "sfrim",
+                "start": 12,
+                "ycode": "sfryM",
+                "yid": "ספֿרים"
+            },
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "alz",
+                "start": 13,
+                "ycode": "Aalz",
+                "yid": "אַלז"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "in",
+                "start": 14,
+                "ycode": "AyN",
+                "yid": "אין"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO$",
+                "rom": "ihri",
+                "start": 15,
+                "ycode": "Ayhry",
+                "yid": "איהרי"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "sfrim",
+                "start": 16,
+                "ycode": "sfryM",
+                "yid": "ספֿרים"
+            }
+        ],
+        "tree": "(IP-MAT (CONJ un') (NP-SBJ (D dr) (N adfikat)) (BEF iz) (NP-PRD (D eyn) (ADJ groyzr) (N bki) (PP (-NONE- *ICH*-1))) (VBN gevezn) (PP-1 (CONJ za_vahl) (PP (P in) (NP (PRO$ unzri) (N sfrim))) (CONJP (CONJ alz) (PP (P in) (NP (PRO$ ihri) (N sfrim))))))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.2.18"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "za",
+                "start": 1,
+                "ycode": "zAa",
+                "yid": "זאַ"
+            },
+            {
+                "ltype": "st",
+                "pos": "HVF",
+                "rom": "hat",
+                "start": 2,
+                "ycode": "hAat",
+                "yid": "האַט"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "er",
+                "start": 3,
+                "ycode": "er",
+                "yid": "ער"
+            },
+            {
+                "ltype": "st",
+                "pos": "Q",
+                "rom": "alz",
+                "start": 4,
+                "ycode": "Aalz",
+                "yid": "אַלז"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBN",
+                "rom": "bvizn",
+                "start": 5,
+                "ycode": "bVyzN",
+                "yid": "בװיזן"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "in",
+                "start": 6,
+                "ycode": "AyN",
+                "yid": "אין"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO$",
+                "rom": "unzri",
+                "start": 7,
+                "ycode": "Avnzry",
+                "yid": "אונזרי"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "sfrim",
+                "start": 8,
+                "ycode": "sfryM",
+                "yid": "ספֿרים"
+            },
+            {
+                "ltype": "st",
+                "pos": "C",
+                "rom": "alz",
+                "start": 9,
+                "ycode": "Aalz",
+                "yid": "אַלז"
+            },
+            {
+                "ltype": "st",
+                "pos": "INTJ",
+                "rom": "khlilh",
+                "start": 10,
+                "ycode": "xlylh",
+                "yid": "כלילה"
+            },
+            {
+                "ltype": "st",
+                "pos": "Q",
+                "rom": "keyn",
+                "start": 11,
+                "ycode": "kYN",
+                "yid": "קײן"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "gdankn",
+                "start": 12,
+                "ycode": "gdAankN",
+                "yid": "גדאַנקן"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "eyn",
+                "start": 13,
+                "ycode": "AYN",
+                "yid": "אײן"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "ihudi",
+                "start": 14,
+                "ycode": "Ayhvdy",
+                "yid": "איהודי"
+            },
+            {
+                "ltype": "st",
+                "pos": "MDF",
+                "rom": "zalt",
+                "start": 15,
+                "ycode": "zAalt",
+                "yid": "זאַלט"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "hbn",
+                "start": 16,
+                "ycode": "hbN",
+                "yid": "הבן"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "gign",
+                "start": 17,
+                "ycode": "gygN",
+                "yid": "גיגן"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "eyn",
+                "start": 18,
+                "ycode": "AYN",
+                "yid": "אײן"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "nutsri",
+                "start": 19,
+                "ycode": "nvqry",
+                "yid": "נוצרי"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "zalkhi",
+                "start": 20,
+                "ycode": "zAalxy",
+                "yid": "זאַלכי"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "zakhn",
+                "start": 21,
+                "ycode": "zAaxN",
+                "yid": "זאַכן"
+            },
+            {
+                "ltype": "st",
+                "pos": "TO",
+                "rom": "tsu",
+                "start": 22,
+                "ycode": "qv",
+                "yid": "צו"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "tahn",
+                "start": 23,
+                "ycode": "tAahN",
+                "yid": "טאַהן"
+            }
+        ],
+        "tree": "(IP-MAT (ADVP (ADV za)) (HVF hat) (NP-SBJ (PRO er)) (NP-ACC (Q alz)) (VBN bvizn) (PP (P in) (NP (PRO$ unzri) (N sfrim))) (CP-THT (C alz) (IP-SUB (INTJ khlilh) (NP-ACC (Q keyn) (N gdankn) (IP-INF (-NONE- *ICH*-1))) (NP-SBJ (D eyn) (N ihudi)) (MDF zalt) (VB hbn) (IP-INF-1 (PP (P gign) (NP (D eyn) (N nutsri))) (NP-ACC (ADJ zalkhi) (N zakhn)) (TO tsu) (VB tahn)))))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.2.19"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "FP",
+                "rom": "afilu",
+                "start": 1,
+                "ycode": "Aafylv",
+                "yid": "אַפֿילו"
+            },
+            {
+                "ltype": "st",
+                "pos": "FP",
+                "rom": "nar",
+                "start": 2,
+                "ycode": "nAar",
+                "yid": "נאַר"
+            },
+            {
+                "ltype": "st",
+                "pos": "RP-H",
+                "rom": "mrmai",
+                "start": 3,
+                "ycode": "mrmAayi",
+                "yid": "מרמאַיִ"
+            },
+            {
+                "ltype": "st",
+                "pos": "TO",
+                "rom": "tsu",
+                "start": 4,
+                "ycode": "qv",
+                "yid": "צו"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "zeyn",
+                "start": 5,
+                "ycode": "zYN",
+                "yid": "זײן"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "izt",
+                "start": 6,
+                "ycode": "Ayzt",
+                "yid": "איזט"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "atur",
+                "start": 7,
+                "ycode": "Aatvr",
+                "yid": "אַטור"
+            },
+            {
+                "gloss": "and_from_all",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "umkl",
+                "start": 8,
+                "ycode": "Avmkl",
+                "yid": "אומקל"
+            },
+            {
+                "gloss": "that_yes",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "skn",
+                "start": 9,
+                "ycode": "skN",
+                "yid": "סקן"
+            },
+            {
+                "ltype": "st",
+                "pos": "INTJ",
+                "rom": "khlilh",
+                "start": 10,
+                "ycode": "xlylh",
+                "yid": "כלילה"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "eyn",
+                "start": 11,
+                "ycode": "AYN",
+                "yid": "אײן"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "rtsikhh",
+                "start": 12,
+                "ycode": "rqyxh",
+                "yid": "רציכה"
+            },
+            {
+                "ltype": "st",
+                "pos": "TO",
+                "rom": "tsu",
+                "start": 13,
+                "ycode": "qv",
+                "yid": "צו"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "tahn",
+                "start": 14,
+                "ycode": "tAahN",
+                "yid": "טאַהן"
+            }
+        ],
+        "tree": "(IP-MAT (IP-MAT-1 (NP-SBJ (IP-INF (FP afilu) (FP nar) (RP-H mrmai) (TO tsu) (VB zeyn))) (VBF izt) (ADJP-PRD (ADJ atur))) (CONJP (IP-MAT=1 (H umkl) (H skn) (INTJ khlilh) (IP-INF (NP-ACC (D eyn) (N rtsikhh)) (TO tsu) (VB tahn)))))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.2.20"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "das",
+                "start": 1,
+                "ycode": "dS",
+                "yid": "דת"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "driti",
+                "start": 2,
+                "ycode": "dryty",
+                "yid": "דריטי"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "sfr",
+                "start": 3,
+                "ycode": "sfr",
+                "yid": "ספֿר"
+            },
+            {
+                "ltype": "st",
+                "pos": "HVF",
+                "rom": "hat",
+                "start": 4,
+                "ycode": "hAat",
+                "yid": "האַט"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBN",
+                "rom": "gmakht",
+                "start": 5,
+                "ycode": "gmAaxt",
+                "yid": "גמאַכט"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "der",
+                "start": 6,
+                "ycode": "der",
+                "yid": "דער"
+            },
+            {
+                "gloss": "wise_man",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "khkhm",
+                "start": 7,
+                "ycode": "xxM",
+                "yid": "ככם"
+            },
+            {
+                "gloss": "sword",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "khrb",
+                "start": 8,
+                "ycode": "xrb",
+                "yid": "כרב"
+            },
+            {
+                "gloss": "the_light",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "hmaur",
+                "start": 9,
+                "ycode": "hmAavr",
+                "yid": "המאַור"
+            },
+            {
+                "gloss": "the_great",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "hgdul",
+                "start": 10,
+                "ycode": "hgdvl",
+                "yid": "הגדול"
+            },
+            {
+                "gloss": "teacher_our_and_rabbi_our",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "muhr\"r",
+                "start": 11,
+                "ycode": "mvhr\"r",
+                "yid": "מוהר\"ר"
+            },
+            {
+                "gloss": "Manaokh",
+                "ltype": "st",
+                "pos": "NPR",
+                "rom": "mnh",
+                "start": 12,
+                "ycode": "mnh",
+                "yid": "מנה"
+            },
+            {
+                "ltype": "st",
+                "pos": "NPR",
+                "rom": "karkus",
+                "start": 13,
+                "ycode": "kAarkvs",
+                "yid": "קאַרקוס"
+            },
+            {
+                "gloss": "father_house_justice",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "ab\"d",
+                "start": 14,
+                "ycode": "Aab\"d",
+                "yid": "אַב\"ד"
+            },
+            {
+                "gloss": "head_of_yeshiva",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "ur\"m",
+                "start": 15,
+                "ycode": "Avr\"m",
+                "yid": "אור\"מ"
+            },
+            {
+                "gloss": "that_community_holy",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "dk\"k",
+                "start": 16,
+                "ycode": "dk\"k",
+                "yid": "דק\"ק"
+            },
+            {
+                "ltype": "st",
+                "pos": "NPR",
+                "rom": "ruma",
+                "start": 17,
+                "ycode": "rvmAa",
+                "yid": "רומאַ"
+            },
+            {
+                "gloss": "the_capital",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "kbirh",
+                "start": 18,
+                "ycode": "kbyrh",
+                "yid": "קבירה"
+            }
+        ],
+        "tree": "(IP-MAT (NP-ACC (D das) (ADJ driti) (N sfr)) (HVF hat) (VBN gmakht) (NP-SBJ (D der) (H khkhm) (H khrb) (H hmaur) (H hgdul) (H muhr\"r) (NPR mnh) (NPR karkus) (H ab\"d) (H ur\"m) (H dk\"k) (NPR ruma) (H kbirh)))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.2.21"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "un'",
+                "start": 1,
+                "ycode": "Avn'",
+                "yid": "אונ'"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "oyf",
+                "start": 2,
+                "ycode": "AWF",
+                "yid": "אױף"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "di",
+                "start": 3,
+                "ycode": "dy",
+                "yid": "די"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "drey",
+                "start": 4,
+                "ycode": "drY",
+                "yid": "דרײ"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "sfrim",
+                "start": 5,
+                "ycode": "sfryM",
+                "yid": "ספֿרים"
+            },
+            {
+                "ltype": "st",
+                "pos": "BEF",
+                "rom": "izt",
+                "start": 6,
+                "ycode": "Ayzt",
+                "yid": "איזט"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "rsut",
+                "start": 7,
+                "ycode": "rsvt",
+                "yid": "רסוט"
+            },
+            {
+                "ltype": "st",
+                "pos": "VAN",
+                "rom": "gebn",
+                "start": 8,
+                "ycode": "gebN",
+                "yid": "געבן"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "fun",
+                "start": 9,
+                "ycode": "fvN",
+                "yid": "פֿון"
+            },
+            {
+                "ltype": "st",
+                "pos": "X",
+                "rom": "inkvertar",
+                "start": 10,
+                "ycode": "AynkVertAar",
+                "yid": "אינקװערטאַר"
+            },
+            {
+                "ltype": "st",
+                "pos": "X",
+                "rom": "madun",
+                "start": 11,
+                "ycode": "mAadvN",
+                "yid": "מאַדון"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "pups",
+                "start": 12,
+                "ycode": "pvps",
+                "yid": "פּופּס"
+            },
+            {
+                "gloss": "it_will_be_exalted_his_majesty",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "ir\"h",
+                "start": 13,
+                "ycode": "Ayr\"h",
+                "yid": "איר\"ה"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "mit",
+                "start": 14,
+                "ycode": "myt",
+                "yid": "מיט"
+            },
+            {
+                "ltype": "st",
+                "pos": "Q",
+                "rom": "ali",
+                "start": 15,
+                "ycode": "Aaly",
+                "yid": "אַלי"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "hern",
+                "start": 16,
+                "ycode": "herN",
+                "yid": "הערן"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "fun",
+                "start": 17,
+                "ycode": "fvN",
+                "yid": "פֿון"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "trubinal",
+                "start": 18,
+                "ycode": "trvbynAal",
+                "yid": "טרובינאַל"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "fun",
+                "start": 19,
+                "ycode": "fvN",
+                "yid": "פֿון"
+            },
+            {
+                "ltype": "st",
+                "pos": "NPR",
+                "rom": "rum",
+                "start": 20,
+                "ycode": "rvM",
+                "yid": "רום"
+            },
+            {
+                "ltype": "st",
+                "pos": "C",
+                "rom": "alz",
+                "start": 21,
+                "ycode": "Aalz",
+                "yid": "אַלז"
+            },
+            {
+                "ltype": "st",
+                "pos": "VAN",
+                "rom": "erloybt",
+                "start": 22,
+                "ycode": "erlWbt",
+                "yid": "ערלױבט"
+            },
+            {
+                "ltype": "st",
+                "pos": "BEF",
+                "rom": "izt",
+                "start": 23,
+                "ycode": "Ayzt",
+                "yid": "איזט"
+            },
+            {
+                "ltype": "st",
+                "pos": "TO",
+                "rom": "tsu",
+                "start": 24,
+                "ycode": "qv",
+                "yid": "צו"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "drukn",
+                "start": 25,
+                "ycode": "drvkN",
+                "yid": "דרוקן"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "nakh",
+                "start": 26,
+                "ycode": "n\"X",
+                "yid": "נ\"ך"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "eyn_mahl",
+                "start": 27,
+                "ycode": "AYn_mAahl",
+                "yid": "אײנ_מאַהל"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "zey",
+                "start": 28,
+                "ycode": "zY",
+                "yid": "זײ"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "in",
+                "start": 29,
+                "ycode": "AyN",
+                "yid": "אין"
+            },
+            {
+                "ltype": "st",
+                "pos": "NPR",
+                "rom": "rum",
+                "start": 30,
+                "ycode": "rvM",
+                "yid": "רום"
+            },
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "adr",
+                "start": 31,
+                "ycode": "Aadr",
+                "yid": "אַדר"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "in",
+                "start": 32,
+                "ycode": "AyN",
+                "yid": "אין"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "andri",
+                "start": 33,
+                "ycode": "Aandry",
+                "yid": "אַנדרי"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "lendr",
+                "start": 34,
+                "ycode": "lendr",
+                "yid": "לענדר"
+            }
+        ],
+        "tree": "(IP-MAT (CONJ un') (PP (P oyf) (NP (D di) (ADJ drey) (N sfrim))) (BEF izt) (NP-SBJ (N rsut)) (VAN gebn) (PP (P fun) (NP (X inkvertar) (X madun) (N pups) (H ir\"h) (PP (P mit) (NP (Q ali) (N hern) (PP (P fun) (NP (N trubinal) (PP (P fun) (NP (NPR rum))))))))) (CP-THT (C alz) (IP-SUB (NP-SBJ-1 (-NONE- *exp*)) (VAN erloybt) (BEF izt) (IP-INF-1 (TO tsu) (VB drukn) (ADVP-TMP (ADV nakh) (ADV eyn_mahl)) (IP-MAT-PRN (NP-SBJ (-NONE- *exp*)) (VBF zey) (PP (PP (P in) (NP (NPR rum))) (CONJP (CONJ adr) (PP (P in) (NP (ADJ andri) (N lendr))))))))))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.2.22"
+    },
+    {
+        "leaves": [],
+        "tree": "(CODE <P_17.3>)",
+        "tree_id": "notreeid"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "DR+P",
+                "rom": "drum",
+                "start": 1,
+                "ycode": "drvM",
+                "yid": "דרום"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "bit",
+                "start": 2,
+                "ycode": "byt",
+                "yid": "ביט"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "ikh",
+                "start": 3,
+                "ycode": "AyX",
+                "yid": "איך"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "mir",
+                "start": 4,
+                "ycode": "myr",
+                "yid": "מיר"
+            },
+            {
+                "ltype": "st",
+                "pos": "TO",
+                "rom": "tsu",
+                "start": 5,
+                "ycode": "qv",
+                "yid": "צו"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "helfn",
+                "start": 6,
+                "ycode": "helfN",
+                "yid": "העלפֿן"
+            },
+            {
+                "ltype": "st",
+                "pos": "C",
+                "rom": "alz",
+                "start": 7,
+                "ycode": "Aalz",
+                "yid": "אַלז"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "ikh",
+                "start": 8,
+                "ycode": "AyX",
+                "yid": "איך"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "dizuz",
+                "start": 9,
+                "ycode": "dyzvz",
+                "yid": "דיזוז"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "sfr",
+                "start": 10,
+                "ycode": "sfr",
+                "yid": "ספֿר"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "oyf",
+                "start": 11,
+                "ycode": "AWF",
+                "yid": "אױף"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "andri",
+                "start": 12,
+                "ycode": "Aandry",
+                "yid": "אַנדרי"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "lsunut",
+                "start": 13,
+                "ycode": "lsvnvt",
+                "yid": "לסונוט"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "akh",
+                "start": 14,
+                "ycode": "AaX",
+                "yid": "אַך"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "drukn",
+                "start": 15,
+                "ycode": "drvkN",
+                "yid": "דרוקן"
+            },
+            {
+                "ltype": "st",
+                "pos": "MDF",
+                "rom": "kan",
+                "start": 16,
+                "ycode": "k\"N",
+                "yid": "ק\"ן"
+            }
+        ],
+        "tree": "(IP-MAT (PP (DR+P drum)) (VBF bit) (NP-SBJ (PRO ikh)) (IP-INF (NP-DTV (PRO mir)) (TO tsu) (VB helfn) (CP-ADV (C alz) (IP-SUB (NP-SBJ (PRO ikh)) (NP-ACC (D dizuz) (N sfr)) (PP (P oyf) (NP (ADJ andri) (N lsunut))) (ADVP (ADV akh)) (VB drukn) (MDF kan)))))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.3.24"
+    },
+    {
+        "leaves": [],
+        "tree": "(CODE <P_17.4>)",
+        "tree_id": "notreeid"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "WADV",
+                "rom": "vi",
+                "start": 1,
+                "ycode": "Vy",
+                "yid": "װי"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "ikh",
+                "start": 2,
+                "ycode": "AyX",
+                "yid": "איך"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "sriftlikh",
+                "start": 3,
+                "ycode": "sryftlyX",
+                "yid": "סריפֿטליך"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "hb",
+                "start": 4,
+                "ycode": "hb",
+                "yid": "הב"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "fun",
+                "start": 5,
+                "ycode": "fvN",
+                "yid": "פֿון"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "rbnim",
+                "start": 6,
+                "ycode": "rbnyM",
+                "yid": "רבנים"
+            },
+            {
+                "gloss": "from_country",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "mmdint",
+                "start": 7,
+                "ycode": "mmdynt",
+                "yid": "ממדינט"
+            },
+            {
+                "ltype": "st",
+                "pos": "NPR",
+                "rom": "itlia",
+                "start": 8,
+                "ycode": "AytlyiAa",
+                "yid": "איטליִאַ"
+            },
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "un'",
+                "start": 9,
+                "ycode": "Avn'",
+                "yid": "אונ'"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "rbnim",
+                "start": 10,
+                "ycode": "rbnyM",
+                "yid": "רבנים"
+            },
+            {
+                "gloss": "from_country",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "mmdint",
+                "start": 11,
+                "ycode": "mmdynt",
+                "yid": "ממדינט"
+            },
+            {
+                "ltype": "st",
+                "pos": "NPR",
+                "rom": "asknz",
+                "start": 12,
+                "ycode": "Aasknz",
+                "yid": "אַסקנז"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "zeyn",
+                "start": 13,
+                "ycode": "zYN",
+                "yid": "זײן"
+            },
+            {
+                "ltype": "st",
+                "pos": "RP-H",
+                "rom": "mkeym",
+                "start": 14,
+                "ycode": "mkYM",
+                "yid": "מקײם"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO$",
+                "rom": "ihri",
+                "start": 15,
+                "ycode": "Ayhry",
+                "yid": "איהרי"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "khtimut",
+                "start": 16,
+                "ycode": "xtymvt",
+                "yid": "כטימוט"
+            },
+            {
+                "ltype": "st",
+                "pos": "C",
+                "rom": "alz",
+                "start": 17,
+                "ycode": "Aalz",
+                "yid": "אַלז"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "ikh",
+                "start": 18,
+                "ycode": "AyX",
+                "yid": "איך"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "groyzi",
+                "start": 19,
+                "ycode": "grWzy",
+                "yid": "גרױזי"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "miha",
+                "start": 20,
+                "ycode": "myhAa",
+                "yid": "מיהאַ"
+            },
+            {
+                "ltype": "st",
+                "pos": "HVF",
+                "rom": "hab",
+                "start": 21,
+                "ycode": "hAab",
+                "yid": "האַב"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "mit",
+                "start": 22,
+                "ycode": "myt",
+                "yid": "מיט"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBN",
+                "rom": "ghat",
+                "start": 23,
+                "ycode": "ghAat",
+                "yid": "גהאַט"
+            },
+            {
+                "ltype": "st",
+                "pos": "C",
+                "rom": "biz",
+                "start": 24,
+                "ycode": "byz",
+                "yid": "ביז"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "ikh",
+                "start": 25,
+                "ycode": "AyX",
+                "yid": "איך"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "zalkhs",
+                "start": 26,
+                "ycode": "zAalxs",
+                "yid": "זאַלכס"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBN",
+                "rom": "bkumn",
+                "start": 27,
+                "ycode": "bkvmN",
+                "yid": "בקומן"
+            },
+            {
+                "ltype": "st",
+                "pos": "HVF",
+                "rom": "hab",
+                "start": 28,
+                "ycode": "hAab",
+                "yid": "האַב"
+            }
+        ],
+        "tree": "(IP-MAT (CP-ADV (WADVP-1 (WADV vi)) (IP-SUB (ADVP (-NONE- *T*-1)) (NP-SBJ (PRO ikh)) (ADVP (ADV sriftlikh)) (VBF hb) (PP (P fun) (NP (NP (N rbnim) (PP (H mmdint) (NPR itlia))) (CONJP (CONJ un') (NP (N rbnim) (PP (H mmdint) (NPR asknz)))))))) (VBF zeyn) (RP-H mkeym) (NP-SBJ (PRO$ ihri) (N khtimut)) (CP-THT (C alz) (IP-SUB (NP-SBJ (PRO ikh)) (NP-ACC (ADJ groyzi) (N miha) (PP (-NONE- *ICH*-2))) (HVF hab) (PP-2 (NP (-NONE- 0)) (P mit)) (VBN ghat) (CP-ADV (C biz) (IP-SUB (NP-SBJ (PRO ikh)) (NP-ACC (ADJ zalkhs)) (VBN bkumn) (HVF hab))))))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.4.26"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "den",
+                "start": 1,
+                "ycode": "deN",
+                "yid": "דען"
+            },
+            {
+                "ltype": "st",
+                "pos": "BEF",
+                "rom": "zeyn",
+                "start": 2,
+                "ycode": "zYN",
+                "yid": "זײן"
+            },
+            {
+                "gloss": "people",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "anshim",
+                "start": 3,
+                "ycode": "Aan$yM",
+                "yid": "אַנשים"
+            },
+            {
+                "gloss": "important",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "khshubim",
+                "start": 4,
+                "ycode": "x$vbyM",
+                "yid": "כשובים"
+            },
+            {
+                "gloss": "states",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "mdint",
+                "start": 5,
+                "ycode": "mdynt",
+                "yid": "מדינט"
+            },
+            {
+                "ltype": "st",
+                "pos": "NPR",
+                "rom": "pulin",
+                "start": 6,
+                "ycode": "pvlyN",
+                "yid": "פּולין"
+            },
+            {
+                "ltype": "st",
+                "pos": "VAN",
+                "rom": "gshikt",
+                "start": 7,
+                "ycode": "g$ykt",
+                "yid": "גשיקט"
+            },
+            {
+                "ltype": "st",
+                "pos": "RDN",
+                "rom": "vardn",
+                "start": 8,
+                "ycode": "VAardN",
+                "yid": "װאַרדן"
+            },
+            {
+                "gloss": "to_Rome",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "lrum",
+                "start": 9,
+                "ycode": "lrvM",
+                "yid": "לרום"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "zalkhs",
+                "start": 10,
+                "ycode": "zAalxs",
+                "yid": "זאַלכס"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "sfr",
+                "start": 11,
+                "ycode": "sfr",
+                "yid": "ספֿר"
+            },
+            {
+                "ltype": "st",
+                "pos": "TO",
+                "rom": "tsu",
+                "start": 12,
+                "ycode": "qv",
+                "yid": "צו"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "bkumn",
+                "start": 13,
+                "ycode": "bkvmN",
+                "yid": "בקומן"
+            }
+        ],
+        "tree": "(IP-MAT (CONJ den) (BEF zeyn) (NP-SBJ (H anshim) (H khshubim) (H mdint) (NPR pulin)) (VAN gshikt) (RDN vardn) (PP (H lrum)) (IP-INF-PRP (NP-ACC (ADJ zalkhs) (N sfr)) (TO tsu) (VB bkumn)))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.4.27"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "HVF",
+                "rom": "hbn",
+                "start": 1,
+                "ycode": "hbN",
+                "yid": "הבן"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "abir",
+                "start": 2,
+                "ycode": "Aabyr",
+                "yid": "אַביר"
+            },
+            {
+                "ltype": "st",
+                "pos": "Q",
+                "rom": "niksz",
+                "start": 3,
+                "ycode": "nyksz",
+                "yid": "ניקסז"
+            },
+            {
+                "ltype": "st",
+                "pos": "RP",
+                "rom": "oyz",
+                "start": 4,
+                "ycode": "AWz",
+                "yid": "אױז"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBN",
+                "rom": "grikht",
+                "start": 5,
+                "ycode": "gryxt",
+                "yid": "גריכט"
+            }
+        ],
+        "tree": "(IP-MAT (NP-SBJ (-NONE- *con*)) (HVF hbn) (ADVP (ADV abir)) (NP-ACC (Q niksz)) (RP oyz) (VBN grikht))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.4.28"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "za",
+                "start": 1,
+                "ycode": "zAa",
+                "yid": "זאַ"
+            },
+            {
+                "ltype": "st",
+                "pos": "HVF",
+                "rom": "hab",
+                "start": 2,
+                "ycode": "hAab",
+                "yid": "האַב"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "zalkhs",
+                "start": 3,
+                "ycode": "zAalxs",
+                "yid": "זאַלכס"
+            },
+            {
+                "ltype": "st",
+                "pos": "Q",
+                "rom": "alz",
+                "start": 4,
+                "ycode": "Aalz",
+                "yid": "אַלז"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "fun",
+                "start": 5,
+                "ycode": "fvN",
+                "yid": "פֿון"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO$",
+                "rom": "meyn",
+                "start": 6,
+                "ycode": "mYN",
+                "yid": "מײן"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "gelt",
+                "start": 7,
+                "ycode": "gelt",
+                "yid": "געלט"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "hutsat",
+                "start": 8,
+                "ycode": "hvqAat",
+                "yid": "הוצאַט"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBN",
+                "rom": "ghat",
+                "start": 9,
+                "ycode": "ghAat",
+                "yid": "גהאַט"
+            }
+        ],
+        "tree": "(IP-MAT (ADVP (ADV za)) (HVF hab) (NP-SBJ (-NONE- *pro*)) (NP-ACC (ADJ zalkhs) (Q alz) (PP (P fun) (NP (PRO$ meyn) (N gelt))) (N hutsat)) (VBN ghat))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.4.29"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "X",
+                "rom": "alz",
+                "start": 1,
+                "ycode": "Aalz",
+                "yid": "אַלז"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "bin",
+                "start": 2,
+                "ycode": "byN",
+                "yid": "בין"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "herint_hlbn",
+                "start": 3,
+                "ycode": "herynt_hlbN",
+                "yid": "הערינט_הלבן"
+            },
+            {
+                "gloss": "move",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "ne",
+                "start": 4,
+                "ycode": "ne",
+                "yid": "נע"
+            },
+            {
+                "gloss": "and_wander",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "vnd",
+                "start": 5,
+                "ycode": "Vnd",
+                "yid": "װנד"
+            },
+            {
+                "gloss": "in_country",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "bmdint",
+                "start": 6,
+                "ycode": "bmdynt",
+                "yid": "במדינט"
+            },
+            {
+                "gloss": "UNKNOWN",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "akhrim",
+                "start": 7,
+                "ycode": "AaxryM",
+                "yid": "אַכרים"
+            },
+            {
+                "ltype": "st",
+                "pos": "WPRO",
+                "rom": "velkhs",
+                "start": 8,
+                "ycode": "Velxs",
+                "yid": "װעלכס"
+            },
+            {
+                "gloss": "people",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "ansim",
+                "start": 9,
+                "ycode": "AansyM",
+                "yid": "אַנסים"
+            },
+            {
+                "gloss": "those_who_know",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "hmkhirim",
+                "start": 10,
+                "ycode": "hmxyryM",
+                "yid": "המכירים"
+            },
+            {
+                "gloss": "me",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "auti",
+                "start": 11,
+                "ycode": "Aavty",
+                "yid": "אַוטי"
+            },
+            {
+                "ltype": "st",
+                "pos": "RDF",
+                "rom": "verdn",
+                "start": 12,
+                "ycode": "VerdN",
+                "yid": "װערדן"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "zagn",
+                "start": 13,
+                "ycode": "zAagN",
+                "yid": "זאַגן"
+            },
+            {
+                "ltype": "st",
+                "pos": "C",
+                "rom": "alz",
+                "start": 14,
+                "ycode": "Aalz",
+                "yid": "אַלז"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "ikh",
+                "start": 15,
+                "ycode": "AyX",
+                "yid": "איך"
+            },
+            {
+                "gloss": "all",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "kl",
+                "start": 16,
+                "ycode": "kl",
+                "yid": "קל"
+            },
+            {
+                "gloss": "days",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "imi",
+                "start": 17,
+                "ycode": "Aymy",
+                "yid": "אימי"
+            },
+            {
+                "ltype": "st",
+                "pos": "BEF",
+                "rom": "bin",
+                "start": 18,
+                "ycode": "byN",
+                "yid": "בין"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "eyn",
+                "start": 19,
+                "ycode": "AYN",
+                "yid": "אײן"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "groyzr",
+                "start": 20,
+                "ycode": "grWzr",
+                "yid": "גרױזר"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "soykhr",
+                "start": 21,
+                "ycode": "sWxr",
+                "yid": "סױכר"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBN",
+                "rom": "gvezn",
+                "start": 22,
+                "ycode": "gVezN",
+                "yid": "גװעזן"
+            }
+        ],
+        "tree": "(IPX-MAT (X alz) (VBF bin) (NP-SBJ (-NONE- *con*)) (ADVP (ADV herint_hlbn)) (H ne) (H vnd) (PP (H bmdint) (H akhrim) (CP-REL (WNP-1 (WPRO velkhs)) (IP-SUB (NP-XXX (-NONE- *T*-1)) (NP-SBJ (H ansim) (H hmkhirim) (H auti)) (RDF verdn) (VB zagn) (CP-THT (C alz) (IP-SUB (NP-SBJ (PRO ikh)) (NP-MSR (H kl) (H imi)) (BEF bin) (NP-PRD (D eyn) (ADJ groyzr) (N soykhr)) (VBN gvezn)))))))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.4.30"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "akh",
+                "start": 1,
+                "ycode": "AaX",
+                "yid": "אַך"
+            },
+            {
+                "ltype": "st",
+                "pos": "BEF",
+                "rom": "bin",
+                "start": 2,
+                "ycode": "byN",
+                "yid": "בין"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "ikh",
+                "start": 3,
+                "ycode": "AyX",
+                "yid": "איך"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "der",
+                "start": 4,
+                "ycode": "der",
+                "yid": "דער"
+            },
+            {
+                "gloss": "redeemer",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "gual",
+                "start": 5,
+                "ycode": "gvAal",
+                "yid": "גואַל"
+            },
+            {
+                "gloss": "the_blood",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "hdm",
+                "start": 6,
+                "ycode": "hdM",
+                "yid": "הדם"
+            },
+            {
+                "gloss": "from",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "mn",
+                "start": 7,
+                "ycode": "mN",
+                "yid": "מן"
+            },
+            {
+                "gloss": "the_holy_ones",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "hkdusim",
+                "start": 8,
+                "ycode": "hkdvsyM",
+                "yid": "הקדוסים"
+            },
+            {
+                "gloss": "in_community_holy",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "bk\"k",
+                "start": 9,
+                "ycode": "bk\"k",
+                "yid": "בק\"ק"
+            },
+            {
+                "ltype": "st",
+                "pos": "NPR",
+                "rom": "tsuzmir",
+                "start": 10,
+                "ycode": "qvzmyr",
+                "yid": "צוזמיר"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBN",
+                "rom": "gevezn",
+                "start": 11,
+                "ycode": "geVezN",
+                "yid": "געװעזן"
+            }
+        ],
+        "tree": "(IP-MAT (ADVP (ADV akh)) (BEF bin) (NP-SBJ (PRO ikh)) (NP-PRD (D der) (H gual) (H hdm) (PP (H mn) (H hkdusim)) (PP (H bk\"k) (NPR tsuzmir))) (VBN gevezn))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.4.31"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "den",
+                "start": 1,
+                "ycode": "deN",
+                "yid": "דען"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "tsvishn",
+                "start": 2,
+                "ycode": "qVy$N",
+                "yid": "צװישן"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "di",
+                "start": 3,
+                "ycode": "dy",
+                "yid": "די"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "kdushim",
+                "start": 4,
+                "ycode": "kdv$yM",
+                "yid": "קדושים"
+            },
+            {
+                "ltype": "st",
+                "pos": "BEF",
+                "rom": "iz",
+                "start": 5,
+                "ycode": "Ayz",
+                "yid": "איז"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBN",
+                "rom": "gevezn",
+                "start": 6,
+                "ycode": "geVezN",
+                "yid": "געװעזן"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO$",
+                "rom": "meyn",
+                "start": 7,
+                "ycode": "mYN",
+                "yid": "מײן"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "fetir",
+                "start": 8,
+                "ycode": "fetyr",
+                "yid": "פֿעטיר"
+            },
+            {
+                "gloss": "the_famous",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "hmpurmim",
+                "start": 9,
+                "ycode": "hmpvrmyM",
+                "yid": "המפּורמים"
+            },
+            {
+                "gloss": "the_leader",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "hktsin",
+                "start": 10,
+                "ycode": "hkqyN",
+                "yid": "הקצין"
+            },
+            {
+                "gloss": "teacher_our_and_rabbi_our",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "muhr\"r",
+                "start": 11,
+                "ycode": "mvhr\"r",
+                "yid": "מוהר\"ר"
+            },
+            {
+                "ltype": "st",
+                "pos": "NPR",
+                "rom": "valf",
+                "start": 12,
+                "ycode": "VAalF",
+                "yid": "װאַלף"
+            },
+            {
+                "gloss": "support_and_leader",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "p\"u",
+                "start": 13,
+                "ycode": "p\"Av",
+                "yid": "פּ\"או"
+            },
+            {
+                "gloss": "that_community_holy",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "dk\"k",
+                "start": 14,
+                "ycode": "dk\"k",
+                "yid": "דק\"ק"
+            },
+            {
+                "gloss": "aforesaid",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "hn\"l",
+                "start": 15,
+                "ycode": "hn\"l",
+                "yid": "הנ\"ל"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "der",
+                "start": 16,
+                "ycode": "der",
+                "yid": "דער"
+            },
+            {
+                "ltype": "st",
+                "pos": "HVF",
+                "rom": "hat",
+                "start": 17,
+                "ycode": "hAat",
+                "yid": "האַט"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "zikh",
+                "start": 18,
+                "ycode": "zyX",
+                "yid": "זיך"
+            },
+            {
+                "end": 20,
+                "ltype": "s",
+                "pos": "P~D",
+                "rom": "tsum",
+                "start": 19,
+                "ycode": "qvM",
+                "yid": "צום"
+            },
+            {
+                "ltype": "t",
+                "pos": "P",
+                "rom": "tsu",
+                "split_after": true,
+                "start": 19,
+                "ycode": "qv",
+                "yid": "צו"
+            },
+            {
+                "ltype": "t",
+                "pos": "D",
+                "rom": "m",
+                "split_before": true,
+                "start": 20,
+                "ycode": "m",
+                "yid": "מ"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "erstn",
+                "start": 21,
+                "ycode": "erstN",
+                "yid": "ערסטן"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBN-IPP",
+                "rom": "lazn",
+                "start": 22,
+                "ycode": "lAazN",
+                "yid": "לאַזן"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "um",
+                "start": 23,
+                "ycode": "AvM",
+                "yid": "אום"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "daz",
+                "start": 24,
+                "ycode": "dAaz",
+                "yid": "דאַז"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "khiut",
+                "start": 25,
+                "ycode": "xyivt",
+                "yid": "כיִוט"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "brengn",
+                "start": 26,
+                "ycode": "brengN",
+                "yid": "ברענגן"
+            }
+        ],
+        "tree": "(IP-MAT (CONJ den) (PP (P tsvishn) (NP (D di) (N kdushim))) (BEF iz) (VBN gevezn) (NP-SBJ (PRO$ meyn) (N fetir) (H hmpurmim) (H hktsin) (H muhr\"r) (NPR valf) (NP-PRN (H p\"u) (H dk\"k) (H hn\"l)) (IP-MAT-REL (NP-SBJ (D der)) (HVF hat) (NP-1 (PRO zikh)) (PP-2 (P tsu@) (NP (D @m) (ADJ erstn))) (VBN-IPP lazn) (IP-INF (NP-SBJ (-NONE- *arb*)) (NP-ACC (-NONE- *ICH*-1)) (PP (-NONE- *ICH*-2)) (PP (P um) (NP (D daz) (N khiut))) (VB brengn)))))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.4.32"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "das",
+                "start": 1,
+                "ycode": "dS",
+                "yid": "דת"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "gruzi",
+                "start": 2,
+                "ycode": "grvzy",
+                "yid": "גרוזי"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "ns",
+                "start": 3,
+                "ycode": "ns",
+                "yid": "נס"
+            },
+            {
+                "ltype": "st",
+                "pos": "PUNC",
+                "rom": ",",
+                "start": 4,
+                "ycode": ",",
+                "yid": ","
+            },
+            {
+                "ltype": "st",
+                "pos": "C",
+                "rom": "vas",
+                "start": 5,
+                "ycode": "VAas",
+                "yid": "װאַס"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "ez",
+                "start": 6,
+                "ycode": "ez",
+                "yid": "עז"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBN",
+                "rom": "gsehn",
+                "start": 7,
+                "ycode": "gsehN",
+                "yid": "גסעהן"
+            },
+            {
+                "ltype": "st",
+                "pos": "BEF",
+                "rom": "izt",
+                "start": 8,
+                "ycode": "Ayzt",
+                "yid": "איזט"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "zelbig",
+                "start": 9,
+                "ycode": "zelbyg",
+                "yid": "זעלביג"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBF",
+                "rom": "veys",
+                "start": 10,
+                "ycode": "VYs",
+                "yid": "װײס"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "di",
+                "start": 11,
+                "ycode": "dy",
+                "yid": "די"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "gntsi",
+                "start": 12,
+                "ycode": "gnqy",
+                "yid": "גנצי"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "mdinh",
+                "start": 13,
+                "ycode": "mdynh",
+                "yid": "מדינה"
+            },
+            {
+                "ltype": "st",
+                "pos": "NPR",
+                "rom": "pulin",
+                "start": 14,
+                "ycode": "pvlyN",
+                "yid": "פּולין"
+            }
+        ],
+        "tree": "(IP-MAT (NP-LFD (D das) (ADJ gruzi) (N ns) (PUNC ,) (CP-REL (WNP-1 (-NONE- 0)) (C vas) (IP-SUB (NP-SBJ-RSP-1 (PRO ez)) (VBN gsehn) (BEF izt)))) (NP-ACC-RSP (ADJ zelbig)) (VBF veys) (NP-SBJ (D di) (ADJ gntsi) (N mdinh) (NPR pulin)))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.4.33"
+    },
+    {
+        "leaves": [],
+        "tree": "(CODE <P_17.5>)",
+        "tree_id": "notreeid"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "Q",
+                "rom": "alz",
+                "start": 1,
+                "ycode": "Aalz",
+                "yid": "אַלז"
+            },
+            {
+                "ltype": "st",
+                "pos": "X",
+                "rom": "zen",
+                "start": 2,
+                "ycode": "zeN",
+                "yid": "זען"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "irh",
+                "start": 3,
+                "ycode": "Ayrh",
+                "yid": "אירה"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "libh",
+                "start": 4,
+                "ycode": "lybh",
+                "yid": "ליבה"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "leyt",
+                "start": 5,
+                "ycode": "lYt",
+                "yid": "לײט"
+            },
+            {
+                "ltype": "st",
+                "pos": "WPRO",
+                "rom": "vaz",
+                "start": 6,
+                "ycode": "VAaz",
+                "yid": "װאַז"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "ikh",
+                "start": 7,
+                "ycode": "AyX",
+                "yid": "איך"
+            },
+            {
+                "ltype": "st",
+                "pos": "HVF",
+                "rom": "hab",
+                "start": 8,
+                "ycode": "hAab",
+                "yid": "האַב"
+            },
+            {
+                "ltype": "st",
+                "pos": "VBN",
+                "rom": "gtahn",
+                "start": 9,
+                "ycode": "gtAahN",
+                "yid": "גטאַהן"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "vegn",
+                "start": 10,
+                "ycode": "VegN",
+                "yid": "װעגן"
+            },
+            {
+                "ltype": "st",
+                "pos": "Q",
+                "rom": "kll",
+                "start": 11,
+                "ycode": "kll",
+                "yid": "קלל"
+            },
+            {
+                "ltype": "st",
+                "pos": "NPR",
+                "rom": "isral",
+                "start": 12,
+                "ycode": "AysrAal",
+                "yid": "איסראַל"
+            },
+            {
+                "ltype": "st",
+                "pos": "MDF",
+                "rom": "zalt",
+                "start": 13,
+                "ycode": "zAalt",
+                "yid": "זאַלט"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "ihr",
+                "start": 14,
+                "ycode": "Ayhr",
+                "yid": "איהר"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "mir",
+                "start": 15,
+                "ycode": "myr",
+                "yid": "מיר"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "gdenkn",
+                "start": 16,
+                "ycode": "gdenkN",
+                "yid": "גדענקן"
+            },
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "un'",
+                "start": 17,
+                "ycode": "Avn'",
+                "yid": "אונ'"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "zalkhs",
+                "start": 18,
+                "ycode": "zAalxs",
+                "yid": "זאַלכס"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "sfr",
+                "start": 19,
+                "ycode": "sfr",
+                "yid": "ספֿר"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "um",
+                "start": 20,
+                "ycode": "AvM",
+                "yid": "אום"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "teyer",
+                "start": 21,
+                "ycode": "tYer",
+                "yid": "טײער"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "gelt",
+                "start": 22,
+                "ycode": "gelt",
+                "yid": "געלט"
+            },
+            {
+                "ltype": "st",
+                "pos": "TO",
+                "rom": "tsu",
+                "start": 23,
+                "ycode": "qv",
+                "yid": "צו"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "kafn",
+                "start": 24,
+                "ycode": "kAafN",
+                "yid": "קאַפֿן"
+            }
+        ],
+        "tree": "(IP-MAT (IP-MAT-1 (NP-ACC (Q alz) (X zen) (CODE (-NONE- {GLOSS:dos_alts})) (NP-VOC (PRO irh) (ADJ libh) (N leyt)) (CP-REL (WNP-2 (WPRO vaz)) (IP-SUB (NP-ACC (-NONE- *T*-2)) (NP-SBJ (PRO ikh)) (HVF hab) (VBN gtahn) (PP (P vegn) (NP (Q kll) (NPR isral)))))) (MDF zalt) (NP-SBJ (PRO ihr)) (NP-DTV (PRO mir)) (VB gdenkn)) (CONJP (CONJ un') (IP-MAT=1 (IP-INF (NP-ACC (ADJ zalkhs) (N sfr)) (PP (P um) (NP (ADJ teyer) (N gelt))) (TO tsu) (VB kafn)))))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.5.35"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "un'",
+                "start": 1,
+                "ycode": "Avn'",
+                "yid": "אונ'"
+            },
+            {
+                "ltype": "st",
+                "pos": "MDF",
+                "rom": "zalt",
+                "start": 2,
+                "ycode": "zAalt",
+                "yid": "זאַלט"
+            },
+            {
+                "ltype": "st",
+                "pos": "NEG",
+                "rom": "nit",
+                "start": 3,
+                "ycode": "nyt",
+                "yid": "ניט"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "meynn",
+                "start": 4,
+                "ycode": "mYnN",
+                "yid": "מײנן"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "ir",
+                "start": 5,
+                "ycode": "Ayr",
+                "yid": "איר"
+            },
+            {
+                "ltype": "st",
+                "pos": "DOF",
+                "rom": "tet",
+                "start": 6,
+                "ycode": "tet",
+                "yid": "טעט"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "mir",
+                "start": 7,
+                "ycode": "myr",
+                "yid": "מיר"
+            },
+            {
+                "ltype": "st",
+                "pos": "Q",
+                "rom": "etvaz",
+                "start": 8,
+                "ycode": "etVAaz",
+                "yid": "עטװאַז"
+            },
+            {
+                "ltype": "st",
+                "pos": "DR+P",
+                "rom": "dran",
+                "start": 9,
+                "ycode": "drAaN",
+                "yid": "דראַן"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "shengn",
+                "start": 10,
+                "ycode": "$engN",
+                "yid": "שענגן"
+            }
+        ],
+        "tree": "(IP-MAT (CONJ un') (NP-SBJ (-NONE- *con*)) (MDF zalt) (NEG nit) (VB meynn) (IP-MAT-THT (NP-SBJ (PRO ir)) (DOF tet) (NP-DTV (PRO mir)) (NP-ACC (Q etvaz)) (PP (DR+P dran)) (VB shengn)))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.5.36"
+    },
+    {
+        "leaves": [
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "un'",
+                "start": 1,
+                "ycode": "Avn'",
+                "yid": "אונ'"
+            },
+            {
+                "ltype": "st",
+                "pos": "MDF",
+                "rom": "zalt",
+                "start": 2,
+                "ycode": "zAalt",
+                "yid": "זאַלט"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "bdakht",
+                "start": 3,
+                "ycode": "bdAaxt",
+                "yid": "בדאַכט"
+            },
+            {
+                "ltype": "st",
+                "pos": "DR+P",
+                "rom": "droyz",
+                "start": 4,
+                "ycode": "drWz",
+                "yid": "דרױז"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "leyann",
+                "start": 5,
+                "ycode": "lYAanN",
+                "yid": "לײאַנן"
+            },
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "un'",
+                "start": 6,
+                "ycode": "Avn'",
+                "yid": "אונ'"
+            },
+            {
+                "ltype": "st",
+                "pos": "NEG",
+                "rom": "nit",
+                "start": 7,
+                "ycode": "nyt",
+                "yid": "ניט"
+            },
+            {
+                "ltype": "st",
+                "pos": "RP",
+                "rom": "eyn",
+                "start": 8,
+                "ycode": "AYN",
+                "yid": "אײן"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "zehn",
+                "start": 9,
+                "ycode": "zehN",
+                "yid": "זעהן"
+            },
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "un'",
+                "start": 10,
+                "ycode": "Avn'",
+                "yid": "אונ'"
+            },
+            {
+                "ltype": "st",
+                "pos": "DR+P",
+                "rom": "der_nakh",
+                "start": 11,
+                "ycode": "der_nAaX",
+                "yid": "דער_נאַך"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "an",
+                "start": 12,
+                "ycode": "AaN",
+                "yid": "אַן"
+            },
+            {
+                "ltype": "st",
+                "pos": "D",
+                "rom": "der",
+                "start": 13,
+                "ycode": "der",
+                "yid": "דער"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "vant",
+                "start": 14,
+                "ycode": "VAant",
+                "yid": "װאַנט"
+            },
+            {
+                "ltype": "st",
+                "pos": "TO",
+                "rom": "tsu",
+                "start": 15,
+                "ycode": "qv",
+                "yid": "צו"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "hengn",
+                "start": 16,
+                "ycode": "hengN",
+                "yid": "הענגן"
+            }
+        ],
+        "tree": "(IP-MAT (IP-MAT-1 (CONJ un') (NP-SBJ (-NONE- *con*)) (MDF zalt) (ADVP (ADV bdakht)) (PP (DR+P droyz)) (VB leyann)) (CONJP (CONJ un') (IP-MAT=1 (IP-MAT-2 (NEG nit) (RP eyn) (VB zehn)) (CONJP (CONJ un') (IP-MAT=2 (IP-INF (PP (DR+P der_nakh)) (PP (P an) (NP (D der) (N vant))) (TO tsu) (VB hengn)))))))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.5.37"
+    },
+    {
+        "leaves": [
+            {
+                "gloss": "in_merit",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "bzkhut",
+                "start": 1,
+                "ycode": "bzxvt",
+                "yid": "בזכוט"
+            },
+            {
+                "gloss": "this",
+                "ltype": "st",
+                "pos": "H",
+                "rom": "zh",
+                "start": 2,
+                "ycode": "z$",
+                "yid": "זש"
+            },
+            {
+                "ltype": "st",
+                "pos": "RDF",
+                "rom": "verdn",
+                "start": 3,
+                "ycode": "VerdN",
+                "yid": "װערדן"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "mir",
+                "start": 4,
+                "ycode": "myr",
+                "yid": "מיר"
+            },
+            {
+                "ltype": "st",
+                "pos": "RP-H",
+                "rom": "zukhh",
+                "start": 5,
+                "ycode": "zvxh",
+                "yid": "זוכה"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "zeyn",
+                "start": 6,
+                "ycode": "zYN",
+                "yid": "זײן"
+            },
+            {
+                "ltype": "st",
+                "pos": "C",
+                "rom": "alz",
+                "start": 7,
+                "ycode": "Aalz",
+                "yid": "אַלז"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "veytr",
+                "start": 8,
+                "ycode": "VYtr",
+                "yid": "װײטר"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "gruzi",
+                "start": 9,
+                "ycode": "grvzy",
+                "yid": "גרוזי"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "hern",
+                "start": 10,
+                "ycode": "herN",
+                "yid": "הערן"
+            },
+            {
+                "ltype": "st",
+                "pos": "RDF",
+                "rom": "vern",
+                "start": 11,
+                "ycode": "VerN",
+                "yid": "װערן"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "ibr",
+                "start": 12,
+                "ycode": "Aybr",
+                "yid": "איבר"
+            },
+            {
+                "ltype": "st",
+                "pos": "PRO",
+                "rom": "unts",
+                "start": 13,
+                "ycode": "AvnQ",
+                "yid": "אונץ"
+            },
+            {
+                "ltype": "st",
+                "pos": "VB",
+                "rom": "hltn",
+                "start": 14,
+                "ycode": "hltN",
+                "yid": "הלטן"
+            },
+            {
+                "ltype": "st",
+                "pos": "CONJ",
+                "rom": "un'",
+                "start": 15,
+                "ycode": "Avn'",
+                "yid": "אונ'"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADV",
+                "rom": "veytr",
+                "start": 16,
+                "ycode": "VYtr",
+                "yid": "װײטר"
+            },
+            {
+                "ltype": "st",
+                "pos": "P",
+                "rom": "fun",
+                "start": 17,
+                "ycode": "fvN",
+                "yid": "פֿון"
+            },
+            {
+                "ltype": "st",
+                "pos": "ADJ",
+                "rom": "zelkhi",
+                "start": 18,
+                "ycode": "zelxy",
+                "yid": "זעלכי"
+            },
+            {
+                "ltype": "st",
+                "pos": "N",
+                "rom": "blbulim",
+                "start": 19,
+                "ycode": "blbvlyM",
+                "yid": "בלבולים"
+            },
+            {
+                "ltype": "st",
+                "pos": "VAN",
+                "rom": "bfreyat",
+                "start": 20,
+                "ycode": "bfrYAat",
+                "yid": "בפֿרײאַט"
+            },
+            {
+                "ltype": "st",
+                "pos": "BEF",
+                "rom": "zeyn",
+                "start": 21,
+                "ycode": "zYN",
+                "yid": "זײן"
+            }
+        ],
+        "tree": "(IP-MAT (PP (H bzkhut) (H zh)) (RDF verdn) (NP-SBJ (PRO mir)) (RP-H zukhh) (VB zeyn) (CP-THT (C alz) (IP-SUB (IP-SUB (ADVP (ADV veytr)) (NP-SBJ (ADJ gruzi) (N hern)) (RDF vern) (PP (P ibr) (NP (PRO unts))) (VB hltn)) (CONJP (CONJ un') (IP-SUB (NP-SBJ (-NONE- *pro*)) (ADVP (ADV veytr)) (PP (P fun) (NP (ADJ zelkhi) (N blbulim))) (VAN bfreyat) (BEF zeyn))))) (CODE (-NONE- {COM:hebrew_omitted})))",
+        "tree_id": "1743E-TESHUAT-PREFACE,17.5.38"
+    }
+]

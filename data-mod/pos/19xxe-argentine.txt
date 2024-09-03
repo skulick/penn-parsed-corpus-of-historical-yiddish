@@ -1,0 +1,377 @@
+SENT	19XXE-ARGENTINE,.2
+1	reb	NPR	ר'	r'	_
+2	borukhl	NPR	באָרוכל	bAorvxl	_
+3	un	CONJ	און	AvN	_
+4	blumele	NPR	בלומעלע	blvmele	_
+5	's	$	'ס	's	_
+6	kinder	N	קינדער	kynder	_
+7	lebn	VBF	לעבן	lebN	_
+8	in	P	אין	AyN	_
+9	argentine	NPR	אַרגענטינע	Aargentyne	_
+10	.	PUNC	.	.	_
+
+SENT	19XXE-ARGENTINE,.3
+1	zeyere	PRO$	זײערע	zYere	_
+2	fotografies	N	פֿאָטאָגראַפֿיִעס	fAotAogrAafyies	_
+3	hengen	VBF	הענגען	hengeN	_
+4	oyf	P	אױף	AWF	_
+5	der	D	דער	der	_
+6	vant	N	װאַנט	VAant	_
+7	in	P	אין	AyN	_
+8	a	D	אַ	Aa	_
+9	halben	ADJ	האַלבען	hAalbeN	_
+10	krayz	N	קרײַז	krYaz	_
+11	,	PUNC	,	,	_
+
+SENT	19XXE-ARGENTINE,.4
+1	un	CONJ	און	AvN	_
+2	unter	P	אונטער	Avnter	_
+3	zey	PRO	זײ	zY	_
+4	hengt	VBF	הענגט	hengt	_
+5	dos	D	דאָס	dAos	_
+6	bild	N	בילד	byld	_
+7	fun	P	פֿון	fvN	_
+8	kheyfetz-khayim	NPR	כײפֿעטז-כײַיִם	xYfetz-xYayiM	_
+9	,	PUNC	,	,	_
+10	vi	P	װי	Vy	_
+11	a	D	אַ	Aa	_
+12	shtern	N	שטערן	$terN	_
+13	in	P	אין	AyN	_
+14	a	D	אַ	Aa	_
+15	serp	N	סערפּ	serp	_
+16	fun	P	פֿון	fvN	_
+17	der	D	דער	der	_
+18	levone	N	לבֿנה	l~nh	_
+19	.	PUNC	.	.	_
+
+SENT	19XXE-ARGENTINE,.5
+1	der	D	דער	der	_
+2	tsadik	N	צאַדיק	qAadyk	_
+3	fun	P	פֿון	fvN	_
+4	radun	NPR	ראַדון	rAadvN	_
+5	iz	VBF	איז	Ayz	_
+6	a	D	אַ	Aa	_
+7	kleyn	ADJ	קלײן	klYN	_
+8	yidele	N	ייִדעלע	yyidele	_
+9	mit	P	מיט	myt	_
+10	groyse	ADJ	גרױסע	grWse	_
+11	oygen	N	אױגען	AWgeN	_
+12	ful	ADJ	פֿול	fvl	_
+13	mit	P	מיט	myt	_
+14	tsar	N	צער	qer	_
+15	un	CONJ	און	AvN	_
+16	gutskeyt	N	גוטסקײט	gvtskYt	_
+17	,	PUNC	,	,	_
+18-19	ongeton	RP~VAN	אָנגעטאָן	AongetAoN	_
+18	on	RP	אָן	AoN	_
+19	geton	VAN	געטאָן	getAoN	_
+20	in	P	אין	AyN	_
+21	a	D	אַ	Aa	_
+22	hoyekher	ADJ	הױעכער	hWexer	_
+23	vinterdikn	ADJ	װינטערדיקן	VynterdykN	_
+24	hitl	N	היטל	hytl	_
+25	.	PUNC	.	.	_
+
+SENT	19XXE-ARGENTINE,.6
+1	ven	C	װען	VeN	_
+2	beyde	Q	בײדע	bYde	_
+3	altitshke	N	אַלטיטשקע	Aaltyt$ke	_
+4	kukn	VBF	קוקן	kvkN	_
+5	oyf	P	אױף	AWF	_
+6	di	D	די	dy	_
+7	fotografies	N	פֿאָטאָגראַפֿיִעס	fAotAogrAafyies	_
+8	fun	P	פֿון	fvN	_
+9	zeyere	PRO$	זײערע	zYere	_
+10	zin	N	זין	zyN	_
+11	un	CONJ	און	AvN	_
+12	zeyer	PRO$	זײער	zYer	_
+13	blik	N	בליק	blyk	_
+14	falt	VBF	פֿאַלט	fAalt	_
+15-16	oyfn	P~D	אױפֿן	AWfN	_
+15	oyf	P	אױף	AWF	_
+16	n	D	נ	n	_
+17	tsadik	N	צאַדיק	qAadyk	_
+18	fun	P	פֿון	fvN	_
+19	radun	NPR	ראַדון	rAadvN	_
+20	,	PUNC	,	,	_
+21	farrikht	VBF	פֿאַרריכט	fAarryxt	_
+22	blumele	NPR	בלומעלע	blvmele	_
+23	dos	D	דאָס	dAos	_
+24	tikhl	N	טיכל	tyxl	_
+25-26	oyfn	P~D	אױפֿן	AWfN	_
+25	oyf	P	אױף	AWF	_
+26	n	D	נ	n	_
+27	kop	N	קאָפּ	kAop	_
+28	,	PUNC	,	,	_
+29	ire	PRO$	אירע	Ayre	_
+30	hor	N	האָר	hAor	_
+31	zoln	MDF	זאָלן	zAolN	_
+32	zikh	PRO	זיך	zyX	_
+33	nit	NEG	ניט	nyt	_
+34-35	aroyszen	ADV~VB	אַרױסזען	AarWszeN	_
+34	aroys	ADV	אַרױס	AarWs	_
+35	zen	VB	זען	zeN	_
+36	,	PUNC	,	,	_
+
+SENT	19XXE-ARGENTINE,.7
+1	un	CONJ	און	AvN	_
+2	reb	NPR	ר'	r'	_
+3	borukhlen	NPR	באָרוכלען	bAorvxleN	_
+4	dakht	VBF	דאַכט	dAaxt	_
+5	zikh	PRO	זיך	zyX	_
+6	az	C	אַז	Aaz	_
+7	er	PRO	ער	er	_
+8	hert	VBF	הערט	hert	_
+9	dem	D	דעם	deM	_
+10	kheyfetz-khaim	NPR	כײפֿעטז-חײם	xYfetz-HYM	_
+11	ziftsn	VB	זיפֿצן	zyfqN	_
+12	:	PUNC	:	:	_
+13	"	PUNC	"	"	_
+14	ay	INTJ	אײַ	AYa	_
+15	,	PUNC	,	,	_
+16	kinderlekh	N	קינדערלעך	kynderleX	_
+17	,	PUNC	,	,	_
+18	kinderlekh	N	קינדערלעך	kynderleX	_
+19	,	PUNC	,	,	_
+20	haynt-morgen	ADV	הײַנט-מאָרגען	hYant-mAorgeN	_
+21	kumt	VBF	קומט	kvmt	_
+22	meshiakh	NPR	מעשיִאַך	me$yiAaX	_
+
+SENT	19XXE-ARGENTINE,.8
+1	un	CONJ	און	AvN	_
+2	ir	PRO	איר	Ayr	_
+3	zayt	VBF	זײַט	zYat	_
+4	nokh	ADV	נאָך	nAoX	_
+5	nit	NEG	ניט	nyt	_
+6	greyt	ADJ	גרײט	grYt	_
+7	.	PUNC	.	.	_
+8	"	PUNC	"	"	_
+
+SENT	19XXE-ARGENTINE,.9
+1	bay	P	בײַ	bYa	_
+2	reb	NPR	ר'	r'	_
+3	borukhlen	NPR	באָרוכלען	bAorvxleN	_
+4	tsitert	VBF	ציטערט	qytert	_
+5	di	D	די	dy	_
+6	ash-groye	ADJ	אַש-גרױע	Aa$-grWe	_
+7	bord	N	באָרד	bAord	_
+8	,	PUNC	,	,	_
+
+SENT	19XXE-ARGENTINE,.10
+1	er	PRO	ער	er	_
+2	kukt	VBF	קוקט	kvkt	_
+3	oyf	P	אױף	AWF	_
+4	di	D	די	dy	_
+5	fotografies	N	פֿאָטאָגראַפֿיִעס	fAotAogrAafyies	_
+6	fun	P	פֿון	fvN	_
+7	zayne	PRO$	זײַנע	zYane	_
+8	zin	N	זין	zyN	_
+
+SENT	19XXE-ARGENTINE,.11
+1	un	CONJ	און	AvN	_
+2	murmelt	VBF	מורמעלט	mvrmelt	_
+3	:	PUNC	:	:	_
+4	ver	WPRO	װער	Ver	_
+5	veys	VBF	װײס	VYs	_
+6	tsi	C	צי	qy	_
+7	zey	PRO	זײ	zY	_
+8	hitn	VBF	היטן	hytN	_
+9	dort	ADV	דאָרט	dAort	_
+10	yidishkayt	N	ייִדישקײַט	yyidy$kYat	_
+11	,	PUNC	,	,	_
+
+SENT	19XXE-ARGENTINE,.12
+1	ver	WPRO	װער	Ver	_
+2	veys	VBF	װײס	VYs	_
+3	tsi	C	צי	qy	_
+4	zey	PRO	זײ	zY	_
+5	hitn	VBF	היטן	hytN	_
+6	op	RP	אָפּ	Aop	_
+7	shabes	N	שבת	$bS	_
+8	.	PUNC	.	.	_
+
+SENT	19XXE-ARGENTINE,.13
+1	reb	NPR	ר'	r'	_
+2	borukhl	NPR	באָרוכל	bAorvxl	_
+3	iz	VBF	איז	Ayz	_
+4	alle	Q	אַללע	Aalle	_
+5	zayne	PRO$	זײַנע	zYane	_
+6	yorn	N	יאָרן	yAorN	_
+7	a	D	אַ	Aa	_
+8	khevra-man	N	כעװראַ-מאַן	xeVrAa-mAaN	_
+9	in	P	אין	AyN	_
+10	khevra-poyelim	N	כעװראַ-פּױעלים	xeVrAa-pWelyM	_
+11	,	PUNC	,	,	_
+12	vu	WADV	װוּ	VU	_
+13	es	ES	עס	es	_
+14	dovnen	VBF	דאָװנען	dAoVneN	_
+15	di	D	די	dy	_
+16	frume	ADJ	פֿרומע	frvme	_
+17	baalei-melokhes	N	באַאַלעיִ-מלאָכות	bAaAaleyi-mlAoxvS	_
+18	.	PUNC	.	.	_
+
+SENT	19XXE-ARGENTINE,.14
+1	zint	C	זינט	zynt	_
+2	er	PRO	ער	er	_
+3	iz	BEF	איז	Ayz	_
+4	gekumen	VBN	געקומען	gekvmeN	_
+5	af	P	אַף	AaF	_
+6	der	D	דער	der	_
+7	elter	N	עלטער	elter	_
+8	un	CONJ	און	AvN	_
+9	di	D	די	dy	_
+10	kinder	N	קינדער	kynder	_
+11	holtn	VBF	האָלטן	hAoltN	_
+12	im	PRO	אים	AyM	_
+13	oys	RP	אױס	AWs	_
+14	,	PUNC	,	,	_
+15	hot	HVF	האָט	hAot	_
+16	er	PRO	ער	er	_
+17-18	oyfgehert	RP~VBN	אױפֿגעהערט	AWfgehert	_
+17	oyf	RP	אױף	AWF	_
+18	gehert	VBN	געהערט	gehert	_
+19	arbetn	VB	אַרבעטן	AarbetN	_
+20	.	PUNC	.	.	_
+
+SENT	19XXE-ARGENTINE,.15
+1	eyn	NUM	אײן	AYN	_
+2	mol	N	מאָל	mAol	_
+3	in	P	אין	AyN	_
+4	yor	N	יאָר	yAor	_
+5	vert	VBF	װערט	Vert	_
+6	er	PRO	ער	er	_
+7	tsurik	RP-ADV	צוריק	qvryk	_
+8	a	D	אַ	Aa	_
+9	baal-melokhe	N	בעל-מלאָכה	bel-mlAoxh	_
+10	.	PUNC	.	.	_
+
+SENT	19XXE-ARGENTINE,.16
+1	dos	D	דאָס	dAos	_
+2	iz	VBF	איז	Ayz	_
+3	oyf	P	אױף	AWF	_
+4	morgen	N	מאָרגען	mAorgeN	_
+5	nokh	P	נאָך	nAoX	_
+6	yom-kiper	NPR	יום-קיפּער	yvM-kyper	_
+7	ven	C	װען	VeN	_
+8	er	PRO	ער	er	_
+9	helft	VBF	העלפֿט	helft	_
+10	boyen	VB	בױען	bWeN	_
+11	di	D	די	dy	_
+12	sukke	N	סוקקע	svkke	_
+13	.	PUNC	.	.	_
+
+SENT	19XXE-ARGENTINE,.17
+1	emes	ADV	אמת	AmS	_
+2	,	PUNC	,	,	_
+3	er	PRO	ער	er	_
+4	aleyn	ADV	אַלײן	AalYN	_
+5	klopt	VBF	קלאָפּט	klAopt	_
+6	nit	NEG	ניט	nyt	_
+7	di	D	די	dy	_
+8	breter	N	ברעטער	breter	_
+
+SENT	19XXE-ARGENTINE,.18
+1	un	CONJ	און	AvN	_
+2	legt	VBF	לעגט	legt	_
+3	nit	NEG	ניט	nyt	_
+4	aroyf	ADV	אַרױף	AarWF	_
+5	dem	D	דעם	deM	_
+6	skhakh	N	סכך	sxX	_
+7	,	PUNC	,	,	_
+
+SENT	19XXE-ARGENTINE,.19
+1	ober	CONJ	אָבער	Aober	_
+2	er	PRO	ער	er	_
+3	derlangt	VBF	דערלאַנגט	derlAangt	_
+4	di	D	די	dy	_
+5	ayzerne	ADJ	אײַזערנע	AYazerne	_
+6	farroste	ADJ	פֿאַרראָסטע	fAarrAoste	_
+7	negl	N	נעגל	negl	_
+8	,	PUNC	,	,	_
+9	vos	C	װאָס	VAos	_
+10	er	PRO	ער	er	_
+11	hit	VBF	היט	hyt	_
+12	op	RP	אָפּ	Aop	_
+13	fun	P	פֿון	fvN	_
+14	yor	N	יאָר	yAor	_
+15	tsu	P	צו	qv	_
+16	yor	N	יאָר	yAor	_
+17	in	P	אין	AyN	_
+18	a	D	אַ	Aa	_
+19	blekhener	ADJ	בלעכענער	blexener	_
+20	kley	N	קלײ	klY	_
+21	.	PUNC	.	.	_
+
+SENT	19XXE-ARGENTINE,.20
+1	ven	C	װען	VeN	_
+2	di	D	די	dy	_
+3	shkheynim	N	שכנים	$xnyM	_
+4	barekhenen	VBF	באַרעכענען	bAarexeneN	_
+5	vifil	WPRO	װיפֿיל	Vyfyl	_
+6	di	D	די	dy	_
+7	sukke	N	סוקקע	svkke	_
+8	hot	HVF	האָט	hAot	_
+9-10	opgekost	RP~VBN	אָפּגעקאָסט	AopgekAost	_
+9	op	RP	אָפּ	Aop	_
+10	gekost	VBN	געקאָסט	gekAost	_
+11	un	CONJ	און	AvN	_
+12	vi	WPRO	װי	Vy	_
+13	fil	Q	פֿיל	fyl	_
+14	yeder	Q	יעדער	yeder	_
+15	shokhn	N	שכן	$xN	_
+16	darf	MDF	דאַרף	dAarF	_
+17	gebn	VB	געבן	gebN	_
+18	tsushtayer	N	צושטײַער	qv$tYaer	_
+19	,	PUNC	,	,	_
+20	fargest	VBF	פֿאַרגעסט	fAargest	_
+21	men	PRO	מען	meN	_
+22	an	P	אַן	AaN	_
+23	dem	D	דעם	deM	_
+24	kheylik	N	כײליק	xYlyk	_
+25	vos	C	װאָס	VAos	_
+26	hot	HVF	האָט	hAot	_
+27-28	arayngetrogn	ADV~VBN	אַרײַנגעטראָגן	AarYangetrAogN	_
+27	arayn	ADV	אַרײַן	AarYaN	_
+28	getrogn	VBN	געטראָגן	getrAogN	_
+29	reb	NPR	ר'	r'	_
+30	borukhl	NPR	באָרוכל	bAorvxl	_
+31	.	PUNC	.	.	_
+
+SENT	19XXE-ARGENTINE,.21
+1	fardrist	VBF	פֿאַרדריסט	fAardryst	_
+2	es	PRO	עס	es	_
+3	im	PRO	אים	AyM	_
+
+SENT	19XXE-ARGENTINE,.22
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	dermont	VBF	דערמאָנט	dermAont	_
+4	:	PUNC	:	:	_
+5	un	CONJ	און	AvN	_
+6	mayne	PRO$	מײַנע	mYane	_
+7	negl	N	נעגל	negl	_
+8	?	PUNC	?	?	_
+
+SENT	19XXE-ARGENTINE,.23
+1	di	D	די	dy	_
+2	shkheynim	N	שכנים	$xnyM	_
+3	lakhn	VBF	לאַכן	lAaxN	_
+
+SENT	19XXE-ARGENTINE,.24
+1	un	CONJ	און	AvN	_
+2	vintshn	VBF	װינטשן	Vynt$N	_
+3	im	PRO	אים	AyM	_
+4	er	PRO	ער	er	_
+5	zol	MDF	זאָל	zAol	_
+6-8	iberayor	P~D~N	איבערײַאָר	AyberYaAor	_
+6	iber	P	איבער	Ayber	_
+7	a	D	אַ	Aa	_
+8	yor	N	יאָר	yAor	_
+9	derlebn	VB	דערלעבן	derlebN	_
+10	tsu	TO	צו	qv	_
+11	derlangen	VB	דערלאַנגען	derlAangeN	_
+12	zayne	PRO$	זײַנע	zYane	_
+13	farroste	ADJ	פֿאַרראָסטע	fAarrAoste	_
+14	negl	N	נעגל	negl	_
+15	.	PUNC	.	.	_
+

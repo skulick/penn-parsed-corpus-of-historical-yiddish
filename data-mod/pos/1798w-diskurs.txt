@@ -1,0 +1,338 @@
+SENT	1798W-DISKURS,164.3
+1	anshl	NPR	אַנשל	Aan$l	_
+2	holander	NPR	האָלאַנדער	hAolAander	_
+3	kumt	VBF	קומט	kvmt	_
+4	in	P	אין	AyN	_
+5	shif	N	שיף	$yF	_
+
+SENT	1798W-DISKURS,164.4
+1	frogt	VBF	פֿראָגט	frAogt	_
+2	ken	MDF	קען	keN	_
+3	ikh	PRO	איך	AyX	_
+4	an	D	אַן	AaN	_
+5	huk-plats	N	הוק-פּלאַץ	hvk-plAaQ	_
+6	krign	VB	קריגן	krygN	_
+7	?	PUNC	?	?	_
+
+SENT	1798W-DISKURS,164.5
+1	shifer	N	שיפֿער	$yfer	_
+2	zogt	VBF	זאָגט	zAogt	_
+3	es	D	עס	es	_
+4	shif	N	שיף	$yF	_
+5	iz	VBF	איז	Ayz	_
+6	nokh	ADV	נאָך	nAoX	_
+7	ledig	ADJ	לעדיג	ledyg	_
+
+SENT	1798W-DISKURS,164.6
+1	gumpel	NPR	גומפּעל	gvmpel	_
+2	spanier	NPR	ספּאַניִער	spAanyier	_
+3	kumt	VBF	קומט	kvmt	_
+
+SENT	1798W-DISKURS,164.7
+1	un	CONJ	און	AvN	_
+2	frogt	VBF	פֿראָגט	frAogt	_
+3	akh	ADV	אַך	AaX	_
+4	nokh	P	נאָך	nAoX	_
+5	an	D	אַן	AaN	_
+6	huk-pletsie	N	הוק-פּלעציִע	hvk-pleqyie	_
+
+SENT	1798W-DISKURS,164.8
+1	shifer	N	שיפֿער	$yfer	_
+2	zogt	VBF	זאָגט	zAogt	_
+3	yu	INTJ	יו	yv	_
+
+SENT	1798W-DISKURS,164.9
+1	gumpel	NPR	גומפּעל	gvmpel	_
+2	get	VBF	גט	gt	_
+3	in	P	אין	AyN	_
+4	shif	N	שיף	$yF	_
+
+SENT	1798W-DISKURS,164.10
+1	un	CONJ	און	AvN	_
+2	zogt	VBF	זאָגט	zAogt	_
+3	o	INTJ	אָ	Ao	_
+4	vi	WADV	װי	Vy	_
+5	gut	ADJ	גוט	gvt	_
+
+SENT	1798W-DISKURS,164.11
+1	do	ADV	דאָ	dAo	_
+2	ken	MDF	קען	keN	_
+3	ikh	PRO	איך	AyX	_
+4	gut	ADV	גוט	gvt	_
+5	shlofn	VB	שלאָפֿן	$lAofN	_
+
+SENT	1798W-DISKURS,164.12
+1	nokh	ADV	נאָך	nAoX	_
+2	kaner	Q	קאַנער	kAaner	_
+3	do	ADV	דאָ	dAo	_
+
+SENT	1798W-DISKURS,164.13
+1	yo	INTJ	יאָ	yAo	_
+2	vor_haftig	ADV	װאָר_האַפֿטיג	VAor_hAaftyg	_
+3	,	PUNC	,	,	_
+4	do	DR	דאָ	dAo	_
+5	zitst	VBF	זיצט	zyqt	_
+6	nokh	ADV	נאָך	nAoX	_
+7	an	D	אַן	AaN	_
+8	mensh	N	מענש	men$	_
+9	in	P	אין	AyN	_
+
+SENT	1798W-DISKURS,164.14
+1	o	INTJ	אָ	Ao	_
+2	do	ADV	דאָ	dAo	_
+3	ken	MDF	קען	keN	_
+4	ikh	PRO	איך	AyX	_
+5	shlofn	VB	שלאָפֿן	$lAofN	_
+
+SENT	1798W-DISKURS,164.15
+1	gut	ADJ	גוט	gvt	_
+2	morgn	N	מאָרגן	mAorgN	_
+
+SENT	1798W-DISKURS,164.16
+1	o	INTJ	אָ	Ao	_
+2	anshl	NPR	אַנשל	Aan$l	_
+3	du	PRO	דו	dv	_
+4	bist	VBF	ביסט	byst	_
+5	es	PRO	עס	es	_
+
+SENT	1798W-DISKURS,164.17
+1	ikh	PRO	איך	AyX	_
+2	hob	HVF	האָב	hAob	_
+3	nit	NEG	ניט	nyt	_
+4	gevust	VBN	געװוּסט	geVUst	_
+5	dos	C	דאָס	dAos	_
+6	du	PRO	דו	dv	_
+7	akh	ADV	אַך	AaX	_
+8	in	P	אין	AyN	_
+9	itret	NPR	איטרעט	Aytret	_
+10	bist	VBF	ביסט	byst	_
+
+SENT	1798W-DISKURS,164.18
+1	ikh	PRO	איך	AyX	_
+2	hob	HVF	האָב	hAob	_
+3	gemant	VBN	געמאַנט	gemAant	_
+4	du	PRO	דו	dv	_
+5	bist	BEF	ביסט	byst	_
+6	shabes	N	שבת	$bS	_
+7	in	P	אין	AyN	_
+8	amsterdam	NPR	אַמסטערדאַם	AamsterdAaM	_
+9	gevezt	VBN	געװעזט	geVezt	_
+10	um	P	אום	AvM	_
+11	uf	RP	אוף	AvF	_
+12	gerufn	VAN	גערופֿן	gervfN	_
+13	tsu	TO	צו	qv	_
+14	vern	RD	װערן	VerN	_
+
+SENT	1798W-DISKURS,164.19
+1	for	P	פֿאָר	fAor	_
+2	akht	NUM	אַכט	Aaxt	_
+3	tog	N	טאָג	tAog	_
+4	shabes	N	שבת	$bS	_
+5	zenen	BEF	זענען	zeneN	_
+6	ale	Q	אַלע	Aale	_
+7	di	D	די	dy	_
+8	ketsinem	N	קעצינעם	keqyneM	_
+9	uf	RP	אוף	AvF	_
+10	gerufn	VAN	גערופֿן	gervfN	_
+11	gevorn	RDN	געװאָרן	geVAorN	_
+
+SENT	1798W-DISKURS,164.20
+1	hob	HVF	האָב	hAob	_
+2	ikh	PRO	איך	AyX	_
+3	gemant	VBN	געמאַנט	gemAant	_
+4	shabes	N	שבת	$bS	_
+5	kumt	VBF	קומט	kvmt	_
+6	es	PRO	עס	es	_
+7	on	P	אָן	AoN	_
+8	di	D	די	dy	_
+9	dalfonem	N	דאַלפֿאָנעם	dAalfAoneM	_
+
+SENT	1798W-DISKURS,164.21
+1	anshl	NPR	אַנשל	Aan$l	_
+2	vos	WPRO	װאָס	VAos	_
+3-4	manstu	VBF~PRO	מאַנסטו	mAanstv	_
+3	mans	VBF	מאַנס	mAans	_
+4	tu	PRO	טו	tv	_
+5	den	ADV	דען	deN	_
+6	dos	C	דאָס	dAos	_
+7	es	PRO	עס	es	_
+8	bey	P	בײ	bY	_
+9	uns	PRO	אונס	Avns	_
+10	tsu	RP	צו	qv	_
+11	geyt	VBF	גײט	gYt	_
+12	vi	P	װי	Vy	_
+13	bey	P	בײ	bY	_
+14	eykh	PRO	אײך	AYX	_
+15	leyt	N	לײט	lYt	_
+16	dos	C	דאָס	dAos	_
+17	khilek	N	חילוק	Hylvk	_
+18	gemakht	VAN	געמאַכט	gemAaxt	_
+19	vert	RDF	װערט	Vert	_
+20	tsvishn	P	צװישן	qVy$N	_
+21	kotsn	N	קצין	kqyN	_
+22	oder	CONJ	אָדער	Aoder	_
+23	gemaner	ADJ	געמאַנער	gemAaner	_
+24	man	N	מאַן	mAaN	_
+
+SENT	1798W-DISKURS,164.22
+1	mir	PRO	מיר	myr	_
+2	zenen	VBF	זענען	zeneN	_
+3	ale	Q	אַלע	Aale	_
+4	goer	ADV	גאָער	gAoer	_
+5	egal	ADJ	עגאַל	egAal	_
+
+SENT	1798W-DISKURS,164.23
+1	der	D	דער	der	_
+2	maneg	N	מנהיג	mnhyg	_
+3	is	VBF	איס	Ays	_
+4	niks	Q	ניקס	nyks	_
+5	beser	ADJR	בעסער	beser	_
+6	als	P	אַלס	Aals	_
+7	der	D	דער	der	_
+8	gemaner	ADJ	געמאַנער	gemAaner	_
+9	man	N	מאַן	mAaN	_
+
+SENT	1798W-DISKURS,164.24
+1	ale	Q	אַלע	Aale	_
+2	gor	ADV	גאָר	gAor	_
+3	tsu_gleykh	ADV	צו_גלײך	qv_glYX	_
+4	kenen	MDF	קענען	keneN	_
+5	dokh	ADV	דאָך	dAoX	_
+6	nit	NEG	ניט	nyt	_
+7	uf	RP	אוף	AvF	_
+8	gerufn	VAN	גערופֿן	gervfN	_
+9	vern	RD	װערן	VerN	_
+
+SENT	1798W-DISKURS,164.25
+1	gumpl	NPR	גומפּל	gvmpl	_
+2	yu	INTJ	יו	yv	_
+3	mar	CONJ	מאַר	mAar	_
+4	vorum	WPRO+P	װאָרום	VAorvM	_
+5	iz	BEF	איז	Ayz	_
+6	den	ADV	דען	deN	_
+7	iosef	NPR	איאָסעף	AyAoseF	_
+8	shu-ran-makher	NPR	שו-ראַן-מאַכער	$v-rAaN-mAaxer	_
+9	nit	NEG	ניט	nyt	_
+10	de	D	דע	de	_
+11	erste	ADJ	ערסטע	erste	_
+12	shabes	N	שבת	$bS	_
+13	uf	RP	אוף	AvF	_
+14	gerufn	VAN	גערופֿן	gervfN	_
+15	gevorn	RDN	געװאָרן	geVAorN	_
+
+SENT	1798W-DISKURS,164.26
+1	anshl	NPR	אַנשל	Aan$l	_
+2	du	PRO	דו	dv	_
+3	bist	VBF	ביסט	byst	_
+4	an	D	אַן	AaN	_
+5	rekhter	ADJ	רעכטער	rexter	_
+6	nar	N	נאַר	nAar	_
+
+SENT	1798W-DISKURS,164.27
+1	haftore	N	האַפֿטאָרע	hAaftAore	_
+2	vert	RDF	װערט	Vert	_
+3	dokh	ADV	דאָך	dAoX	_
+4	for_kaft	VAN	פֿאָר_קאַפֿט	fAor_kAaft	_
+
+SENT	1798W-DISKURS,164.28
+1	dokh	CONJ	דאָך	dAoX	_
+2	ikh	PRO	איך	AyX	_
+3	ze	VBF	זע	ze	_
+4	voul	ADV	װאָול	VAovl	_
+5	dos	C	דאָס	dAos	_
+6	du	PRO	דו	dv	_
+7	akh	ADV	אַך	AaX	_
+8	an	D	אַן	AaN	_
+9	soyne	N	שׂונא	CvnA	_
+10	bist	VBF	ביסט	byst	_
+11	fun	P	פֿון	fvN	_
+12	di	D	די	dy	_
+13	neye	ADJ	נײע	nYe	_
+14	kile	N	קילע	kyle	_
+
+SENT	1798W-DISKURS,164.29
+1	ikh	PRO	איך	AyX	_
+2	vil	MDF	װיל	Vyl	_
+3	amol	ADV	אַמאָל	AamAol	_
+4	meyn	PRO$	מײן	mYN	_
+5	bikhlekh	N	ביכלעך	byxleX	_
+6	fun	P	פֿון	fvN	_
+7	de	D	דע	de	_
+8	khinekh	N	חינוך	HynvX	_
+9	vos	C	װאָס	VAos	_
+10	ikh	PRO	איך	AyX	_
+11	hob	VBF	האָב	hAob	_
+12	leyenen	VB	לײענען	lYeneN	_
+
+SENT	1798W-DISKURS,164.30
+1	gumpl	NPR	גומפּל	gvmpl	_
+2	her	VBI	הער	her	_
+3	amol	ADV	אַמאָל	AamAol	_
+4	anshl	NPR	אַנשל	Aan$l	_
+
+SENT	1798W-DISKURS,164.31
+1	ikh	PRO	איך	AyX	_
+2	zog	VBF	זאָג	zAog	_
+3	dir	PRO	דיר	dyr	_
+4	meyn	PRO$	מײן	mYN	_
+5	herts	N	הערץ	herQ	_
+6	rekht	ADV	רעכט	rext	_
+7	araus	ADV	אַראַוס	AarAavs	_
+
+SENT	1798W-DISKURS,164.32
+1	du	PRO	דו	dv	_
+2	bist	VBF	ביסט	byst	_
+3	dir	PRO	דיר	dyr	_
+4	on	P	אָן	AoN	_
+5	mir	PRO	מיר	myr	_
+6	un	CONJ	און	AvN	_
+7	on	P	אָן	AoN	_
+8	fil	Q	פֿיל	fyl	_
+9	andere	ADJ	אַנדערע	Aandere	_
+10	leyt	N	לײט	lYt	_
+11	grob	ADV	גראָב	grAob	_
+12	toue	RP-H	טאָוע	tAove	_
+
+SENT	1798W-DISKURS,164.33
+1	ikh	PRO	איך	AyX	_
+2	bin	VBF	בין	byN	_
+3	bey	P	בײ	bY	_
+4	meyn	PRO$	מײן	mYN	_
+5	lebn	N	לעבן	lebN	_
+6	kan	Q	ק"ן	k"N	_
+7	soyne	N	שׂונא	CvnA	_
+8	fun	P	פֿון	fvN	_
+9	di	D	די	dy	_
+10	neye	ADJ	נײע	nYe	_
+11	kile	N	קילע	kyle	_
+
+SENT	1798W-DISKURS,164.34
+1	nor	CONJ	נאָר	nAor	_
+2	ikh	PRO	איך	AyX	_
+3	ze	VBF	זע	ze	_
+4	nit	NEG	ניט	nyt	_
+5	dos	C	דאָס	dAos	_
+6	ir	PRO	איר	Ayr	_
+7	leyt	N	לײט	lYt	_
+8	epes	Q	עפּעס	epes	_
+9	gebesert	ADJ	געבעסערט	gebesert	_
+10	zeyt	VBF	זײט	zYt	_
+
+SENT	1798W-DISKURS,164.35
+1	anshl	NPR	אַנשל	Aan$l	_
+2	vos	C	װאָס	VAos	_
+3	mir	PRO	מיר	myr	_
+4	gebesert	ADJ	געבעסערט	gebesert	_
+5	zenen	VBF	זענען	zeneN	_
+6	o	INTJ	אָ	Ao	_
+7	shma	H	שמאַ	$mAa	hear
+8	beni	H	בעני	beny	sons
+
+SENT	1798W-DISKURS,164.36
+1	den	ADV	דען	deN	_
+2-3	vastu	VBF~PRO	װאַסטו	VAastv	_
+2	vas	VBF	װאַס	VAas	_
+3	tu	PRO	טו	tv	_
+4	gor	ADV	גאָר	gAor	_
+5	niks	Q	ניקס	nyks	_
+

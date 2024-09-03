@@ -1,0 +1,3128 @@
+SENT	1819E-PERL,102.3
+1	in	P	אין	AyN	_
+2	veg	N	װעג	Veg	_
+3	hab	HVF	האַב	hAab	_
+4	ikh	PRO	איך	AyX	_
+5	der_tseylt	VBN	דער_צײלט	der_qYlt	_
+6	a	D	אַ	Aa	_
+7	mesh	N	מעש	me$	_
+8	vas	C	װאַס	VAas	_
+9	ver	WPRO	װער	Ver	_
+10	es	ES	עס	es	_
+11	hat	HVF	האַט	hAat	_
+12	zi	PRO	זי	zy	_
+13	gihert	VBN	גיהערט	gyhert	_
+14	hat	HVF	האַט	hAat	_
+15	gihat	VBN	גיהאַט	gyhAat	_
+16	ahrhur	H	אַהרהור	Aahrhvr	I_will_consider
+17	tshubh	H	טשובה	t$vbh	penitence
+
+SENT	1819E-PERL,102.4
+1	un	CONJ	און	AvN	_
+2	das	D	דת	dS	_
+3	iz	VBF	איז	Ayz	_
+4	di	D	די	dy	_
+5	mayse	N	מעשׂה	meCh	_
+
+SENT	1819E-PERL,102.5
+1	eyn_mal	ADV	אײנ_מאַל	AYn_mAal	_
+2	iz	BEF	איז	Ayz	_
+3	given	VBN	גיװען	gyVeN	_
+4	a	D	אַ	Aa	_
+5	mlkh	N	מלך	mlX	_
+
+SENT	1819E-PERL,102.6
+1	der	D	דער	der	_
+2	mlkh	N	מלך	mlX	_
+3	hat	HVF	האַט	hAat	_
+4	gihat	VBN	גיהאַט	gyhAat	_
+5	zeks	NUM	זעקס	zeks	_
+6	zun	N	זון	zvN	_
+7	un	CONJ	און	AvN	_
+8	eyn	D	אײן	AYN	_
+9	takhtir	N	טאַכטיר	tAaxtyr	_
+
+SENT	1819E-PERL,102.7
+1	di	D	די	dy	_
+2	takhtir	N	טאַכטיר	tAaxtyr	_
+3	iz	BEF	איז	Ayz	_
+4	bey	P	בײ	bY	_
+5	im	PRO	אים	AyM	_
+6	zeyer	ADV	זײער	zYer	_
+7	khsub	ADJ	כסוב	xsvb	_
+8	given	VBN	גיװען	gyVeN	_
+
+SENT	1819E-PERL,102.8
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	hat	HVF	האַט	hAat	_
+4	zi	PRO	זי	zy	_
+5	zeyer	ADV	זײער	zYer	_
+6	mkhbb	RP-H	מכבב	mxbb	_
+7	given	VBN	גיװען	gyVeN	_
+
+SENT	1819E-PERL,102.9
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	zikh	PRO	זיך	zyX	_
+4	mit	P	מיט	myt	_
+5	ir	PRO	איר	Ayr	_
+6	zeyer	ADV	זײער	zYer	_
+7	msese	RP-H	מסעסע	msese	_
+8	given	VBN	גיװען	gyVeN	_
+
+SENT	1819E-PERL,102.10
+1	amol	ADV	אַמאָל	AamAol	_
+2	iz	BEF	איז	Ayz	_
+3	er	PRO	ער	er	_
+4	mit	P	מיט	myt	_
+5	ir	PRO	איר	Ayr	_
+6	given	VBN	גיװען	gyVeN	_
+7	un	X	און	AvN	_
+8	eymn	X	אײמן	AYmN	_
+9	un	X	און	AvN	_
+10	epis	Q	עפּיס	epys	_
+11	atog	X	אַטאָג	AatAog	_
+
+SENT	1819E-PERL,102.11
+1	un	CONJ	און	AvN	_
+2	iz	BEF	איז	Ayz	_
+3	oyf	P	אױף	AWF	_
+4	ir	PRO	איר	Ayr	_
+5	brugz	ADJ	ברוגז	brvgz	_
+6	givarin	VBN	גיװאַרין	gyVAaryN	_
+
+SENT	1819E-PERL,102.12
+1	hat	HVF	האַט	hAat	_
+2	zikh	PRO	זיך	zyX	_
+3	im	PRO	אים	AyM	_
+4	aroys	ADV	אַרױס	AarWs	_
+5	gikhapt	VBN	גיכאַפּט	gyxAapt	_
+6	a	D	אַ	Aa	_
+7	vart	N	װאַרט	VAart	_
+8	der	D	דער	der	_
+9	nit_guter	ADJ	ניט_גוטער	nyt_gvter	_
+10	zal	MDF	ז"ל	z"l	_
+11	dikh	PRO	דיך	dyX	_
+12	avek	RP-ADV	אַװעק	AaVek	_
+13	nemin	VB	נעמין	nemyN	_
+14	bey	P	בײ	bY	_
+15	nakht	N	נאַכט	nAaxt	_
+
+SENT	1819E-PERL,102.13
+1	iz	BEF	איז	Ayz	_
+2	zi	PRO	זי	zy	_
+3	gigangin	VBN	גיגאַנגין	gygAangyN	_
+4	un	P	און	AvN	_
+5	ir	PRO$	איר	Ayr	_
+6	khdr	N	כדר	xdr	_
+7	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1819E-PERL,102.14
+1	in	P	אין	AyN	_
+2	der	D	דער	der	_
+3	fri	N	פֿרי	fry	_
+4	hat	HVF	האַט	hAat	_
+5	men	PRO	מען	meN	_
+6	nit	NEG	ניט	nyt	_
+7	givist	VBN	גיװיסט	gyVyst	_
+8	vu	WADV	װוּ	VU	_
+9	zi	PRO	זי	zy	_
+10	iz	VBF	איז	Ayz	_
+
+SENT	1819E-PERL,102.15
+1	hat	HVF	האַט	hAat	_
+2	zikh	PRO	זיך	zyX	_
+3	der	D	דער	der	_
+4	fatir	N	פֿאַטיר	fAatyr	_
+5	zeyer	ADV	זײער	zYer	_
+6	mtser	RP-H	מצער	mqer	_
+7	given	VBN	גיװען	gyVeN	_
+
+SENT	1819E-PERL,102.16
+1	un	CONJ	און	AvN	_
+2	iz	BEF	איז	Ayz	_
+3	gigangin	VBN	גיגאַנגין	gygAangyN	_
+4	zi	PRO	זי	zy	_
+5	zukhin	VB	זוכין	zvxyN	_
+6	ahin	ADV	אַהין	AahyN	_
+7	un	CONJ	און	AvN	_
+8	aher	ADV	אַהער	Aaher	_
+
+SENT	1819E-PERL,102.17
+1	iz	BEF	איז	Ayz	_
+2	oyf	RP	אױף	AWF	_
+3	gistanin	VBN	גיסטאַנין	gystAanyN	_
+4	der	D	דער	der	_
+5	sni	H	סני	sny	second
+6	lmlkhut	H	למלכוט	lmlxvt	to_kingship
+7	mkhms	ADV	מכמס	mxms	_
+8	er	PRO	ער	er	_
+9	hat	HVF	האַט	hAat	_
+10	gizehin	VBN	גיזעהין	gyzehyN	_
+11	der	D	דער	der	_
+12	mlekh	N	מלעך	mleX	_
+13	hat	VBF	האַט	hAat	_
+14	groys	ADJ	גרױס	grWs	_
+15	tser	N	צער	qer	_
+16	.	PUNC	.	.	_
+
+SENT	1819E-PERL,102.18
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	gibetin	VBN	גיבעטין	gybetyN	_
+4	az	C	אַז	Aaz	_
+5	men	PRO	מען	meN	_
+6	zal	MDF	ז"ל	z"l	_
+7	im	PRO	אים	AyM	_
+8	gebin	VB	געבין	gebyN	_
+9	eyn	D	אײן	AYN	_
+10	msrt	N	מסרט	msrt	_
+11	mit	P	מיט	myt	_
+12	eyn	D	אײן	AYN	_
+13	ferd	N	פֿערד	ferd	_
+14	un	CONJ	און	AvN	_
+15	gelt	N	געלט	gelt	_
+16	oyf	P	אױף	AWF	_
+17	hutsaes	N	הוצאַעס	hvqAaes	_
+18	.	PUNC	.	.	_
+
+SENT	1819E-PERL,102.19
+1	un	CONJ	און	AvN	_
+2	iz	BEF	איז	Ayz	_
+3	gigangin	VBN	גיגאַנגין	gygAangyN	_
+4	zi	PRO	זי	zy	_
+5	zukhin	VB	זוכין	zvxyN	_
+
+SENT	1819E-PERL,102.20
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	zi	PRO	זי	zy	_
+4	zeyer	ADV	זײער	zYer	_
+5	gizukht	VBN	גיזוכט	gyzvxt	_
+6	zeyer	ADV	זײער	zYer	_
+7	a	D	אַ	Aa	_
+8	langi	ADJ	לאַנגי	lAangy	_
+9	tseyt	N	צײט	qYt	_
+10	biz	C	ביז	byz	_
+11	er	PRO	ער	er	_
+12	hat	HVF	האַט	hAat	_
+13	zi	PRO	זי	zy	_
+14	gifunin	VBN	גיפֿונין	gyfvnyN	_
+
+SENT	1819E-PERL,102.21
+1	heynt	ADV	הײנט	hYnt	_
+2	der_tseylt	VBF	דער_צײלט	der_qYlt	_
+3	er	PRO	ער	er	_
+4	vi_azu	WADV	װי_אַזו	Vy_Aazv	_
+5	er	PRO	ער	er	_
+6	hat	HVF	האַט	hAat	_
+7	zi	PRO	זי	zy	_
+8	gizukht	VBN	גיזוכט	gyzvxt	_
+9	bis	C	ביס	bys	_
+10	er	PRO	ער	er	_
+11	hat	HVF	האַט	hAat	_
+12	zi	PRO	זי	zy	_
+13	gifunin	VBN	גיפֿונין	gyfvnyN	_
+
+SENT	1819E-PERL,102.22
+1	iz	BEF	איז	Ayz	_
+2	er	PRO	ער	er	_
+3	gigangin	VBN	גיגאַנגין	gygAangyN	_
+4	a	D	אַ	Aa	_
+5	langi	ADJ	לאַנגי	lAangy	_
+6	tseyt	N	צײט	qYt	_
+7	un	CONJ	און	AvN	_
+8	in	P	אין	AyN	_
+9	mdbriut	N	מדבריִוט	mdbryivt	_
+10	un	CONJ	און	AvN	_
+11	in	P	אין	AyN	_
+12	feldir	N	פֿעלדיר	feldyr	_
+13	un	CONJ	און	AvN	_
+14	in	P	אין	AyN	_
+15	veldir	N	װעלדיר	Veldyr	_
+
+SENT	1819E-PERL,102.23
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	zi	PRO	זי	zy	_
+4	gizukht	VBN	גיזוכט	gyzvxt	_
+5	zeyer	ADV	זײער	zYer	_
+6	eyn	D	אײן	AYN	_
+7	langi	ADJ	לאַנגי	lAangy	_
+8	tseyt	N	צײט	qYt	_
+
+SENT	1819E-PERL,102.24
+1	iz	BEF	איז	Ayz	_
+2	er	PRO	ער	er	_
+3	gigangin	VBN	גיגאַנגין	gygAangyN	_
+4	un	P	און	AvN	_
+5	in	P	אין	AyN	_
+6	mdbr	N	מדבר	mdbr	_
+
+SENT	1819E-PERL,102.25
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	gizehin	VBN	גיזעהין	gyzehyN	_
+4	avek	RP-ADV	אַװעק	AaVek	_
+5	fun	P	פֿון	fvN	_
+6	der	D	דער	der	_
+7	zeyt	N	זײט	zYt	_
+
+SENT	1819E-PERL,102.26
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	zikh	PRO	זיך	zyX	_
+4	meysb	RP-H	מײסב	mYsb	_
+5	given	VBN	גיװען	gyVeN	_
+6	bansher	C	באשר	bA$r	_
+7	ikh	PRO	איך	AyX	_
+8	gey	VBF	גײ	gY	_
+9	azu	ADV	אַזו	Aazv	_
+10	a	D	אַ	Aa	_
+11	langi	ADJ	לאַנגי	lAangy	_
+12	tseyt	N	צײט	qYt	_
+13	un	P	און	AvN	_
+14	der	D	דער	der	_
+15	mdbr	N	מדבר	mdbr	_
+16	un	CONJ	און	AvN	_
+17	kan	MDF	ק"ן	k"N	_
+18	zi	PRO	זי	zy	_
+19	nit	NEG	ניט	nyt	_
+20	gifunin	VB	גיפֿונין	gyfvnyN	_
+21	la	VBI	לאַ	lAa	_
+22	mikh	PRO	מיך	myX	_
+23	geyn	VB	גײן	gYN	_
+24	oyf	P	אױף	AWF	_
+25	dem	D	דעם	deM	_
+26	veg	N	װעג	Veg	_
+
+SENT	1819E-PERL,102.27
+1	tomir	ADV	טאָמיר	tAomyr	_
+2	vel	MDF	װעל	Vel	_
+3	ikh	PRO	איך	AyX	_
+4	kumin	VB	קומין	kvmyN	_
+5	tsu	P	צו	qv	_
+6	eyn	D	אײן	AYN	_
+7	ysub	N	יסוב	ysvb	_
+
+SENT	1819E-PERL,102.28
+1	iz	BEF	איז	Ayz	_
+2	er	PRO	ער	er	_
+3	gigangin	VBN	גיגאַנגין	gygAangyN	_
+4	a	D	אַ	Aa	_
+5	langi	ADJ	לאַנגי	lAangy	_
+6	tseyt	N	צײט	qYt	_
+
+SENT	1819E-PERL,102.29
+1	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+2	hat	HVF	האַט	hAat	_
+3	er	PRO	ער	er	_
+4	gizehin	VBN	גיזעהין	gyzehyN	_
+5	a	D	אַ	Aa	_
+6	shlas	N	שלאַס	$lAas	_
+7	un	CONJ	און	AvN	_
+8	askh	Q	אַסך	AasX	_
+9	kheylut	N	כײלוט	xYlvt	_
+10	steynir	N	סטײניר	stYnyr	_
+11	arum	ADV	אַרום	AarvM	_
+
+SENT	1819E-PERL,102.30
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	shlas	N	שלאַס	$lAas	_
+4	iz	BEF	איז	Ayz	_
+5	given	VBN	גיװען	gyVeN	_
+6	zeyer	ADV	זײער	zYer	_
+7	sheyn	ADJ	שײן	$YN	_
+
+SENT	1819E-PERL,102.31
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	kheylut	N	כײלוט	xYlvt	_
+4	zenin	BEF	זענין	zenyN	_
+5	arum	ADV	אַרום	AarvM	_
+6	gistanin	VBN	גיסטאַנין	gystAanyN	_
+7	ksdr	H	קסדר	ksdr	like_order
+8	zeyer	ADV	זײער	zYer	_
+9	feyn	ADJ	פֿײן	fYN	_
+
+SENT	1819E-PERL,102.32
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	murh	RP-H	מורה	mvrh	_
+4	gihat	VBN	גיהאַט	gyhAat	_
+5	fr	P	פֿר	fr	_
+6	di	D	די	dy	_
+7	kheylut	N	כײלוט	xYlvt	_
+
+SENT	1819E-PERL,103.33
+1	tomir	ADV	טאָמיר	tAomyr	_
+2	velin	MDF	װעלין	VelyN	_
+3	zey	PRO	זײ	zY	_
+4	im	PRO	אים	AyM	_
+5	nit	NEG	ניט	nyt	_
+6	lazin	VB	לאַזין	lAazyN	_
+7	areyn	ADV	אַרײן	AarYN	_
+8	geyn	VB	גײן	gYN	_
+
+SENT	1819E-PERL,103.34
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	zikh	PRO	זיך	zyX	_
+4	meysb	RP-H	מײסב	mYsb	_
+5	given	VBN	גיװען	gyVeN	_
+6	ikh	PRO	איך	AyX	_
+7	vel	MDF	װעל	Vel	_
+8	mikh	PRO	מיך	myX	_
+9	privin	VB	פּריװין	pryVyN	_
+
+SENT	1819E-PERL,103.35
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	ibr_gilazt	VBN	איבר_גילאַזט	Aybr_gylAazt	_
+4	das	D	דת	dS	_
+5	pferd	N	פּפֿערד	pferd	_
+
+SENT	1819E-PERL,103.36
+1	un	CONJ	און	AvN	_
+2	iz	BEF	איז	Ayz	_
+3	gigangin	VBN	גיגאַנגין	gygAangyN	_
+4-5	tsum	P~D	צום	qvM	_
+4	tsu	P	צו	qv	_
+5	m	D	מ	m	_
+6	shlas	N	שלאַס	$lAas	_
+
+SENT	1819E-PERL,103.37
+1	hat	HVF	האַט	hAat	_
+2	men	PRO	מען	meN	_
+3	im	PRO	אים	AyM	_
+4	gelazt	VBN	געלאַזט	gelAazt	_
+
+SENT	1819E-PERL,103.38
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	hat	HVF	האַט	hAat	_
+4	im	PRO	אים	AyM	_
+5	gar_nit	NEG	גאַר_ניט	gAar_nyt	_
+6	mekhb	RP-H	מעכב	mexb	_
+7	given	VBN	גיװען	gyVeN	_
+
+SENT	1819E-PERL,103.39
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	iz	BEF	איז	Ayz	_
+4	gigangin	VBN	גיגאַנגין	gygAangyN	_
+5	fun	P	פֿון	fvN	_
+6	eyn	D	אײן	AYN	_
+7	khdr	N	כדר	xdr	_
+8-9	tsum	P~D	צום	qvM	_
+8	tsu	P	צו	qv	_
+9	m	D	מ	m	_
+10	andrin	ADJ	אַנדרין	AandryN	_
+
+SENT	1819E-PERL,103.40
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	hat	HVF	האַט	hAat	_
+4	im	PRO	אים	AyM	_
+5	nit	NEG	ניט	nyt	_
+6	gvert	VBN	גװערט	gVert	_
+
+SENT	1819E-PERL,103.41
+1	iz	BEF	איז	Ayz	_
+2	er	PRO	ער	er	_
+3	gikumin	VBN	גיקומין	gykvmyN	_
+4	tsu	P	צו	qv	_
+5	eyn	D	אײן	AYN	_
+6	palits	N	פּאַליץ	pAalyQ	_
+
+SENT	1819E-PERL,103.42
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	gizehin	VBN	גיזעהין	gyzehyN	_
+4	der	D	דער	der	_
+5	mlkh	N	מלך	mlX	_
+6	zitst	VBF	זיצט	zyqt	_
+7	dort	ADV	דאָרט	dAort	_
+8	un	P	און	AvN	_
+9	eyn	D	אײן	AYN	_
+10	krun	N	קרון	krvN	_
+11	un	CONJ	און	AvN	_
+12	eyn_skh	Q	אײנ_סך	AYn_sX	_
+13	kheyles	N	כײלעס	xYles	_
+14	shteyen	VBF	שטײען	$tYeN	_
+15	arum	P	אַרום	AarvM	_
+16	im	PRO	אים	AyM	_
+17	un	CONJ	און	AvN	_
+18	eyn_skh	Q	אײנ_סך	AYn_sX	_
+19	shpilin	VBF	שפּילין	$pylyN	_
+20	oyf	P	אױף	AWF	_
+21	klim	N	קלים	klyM	_
+22	fr	P	פֿר	fr	_
+23	im	PRO	אים	AyM	_
+24	un	CONJ	און	AvN	_
+25	es	PRO	עס	es	_
+26	iz	BEF	איז	Ayz	_
+27	dort	ADV	דאָרט	dAort	_
+28	zeyer	ADV	זײער	zYer	_
+29	sheyn	ADJ	שײן	$YN	_
+30	un	CONJ	און	AvN	_
+31	feyn	ADJ	פֿײן	fYN	_
+32	given	VBN	גיװען	gyVeN	_
+
+SENT	1819E-PERL,103.43
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	mlkh	N	מלך	mlX	_
+4	un	CONJ	און	AvN	_
+5	keynr	Q	קײנר	kYnr	_
+6	fun	P	פֿון	fvN	_
+7	zey	PRO	זײ	zY	_
+8	hat	HVF	האַט	hAat	_
+9	im	PRO	אים	AyM	_
+10	gar_nit	NEG	גאַר_ניט	gAar_nyt	_
+11	gifregt	VBN	גיפֿרעגט	gyfregt	_
+
+SENT	1819E-PERL,103.44
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	hat	HVF	האַט	hAat	_
+4	dart	ADV	דאַרט	dAart	_
+5	gizehin	VBN	גיזעהין	gyzehyN	_
+6	guti	ADJ	גוטי	gvty	_
+7	makhlim	N	מאַכלים	mAaxlyM	_
+
+SENT	1819E-PERL,103.45
+1	iz	BEF	איז	Ayz	_
+2	er	PRO	ער	er	_
+3	gigangin	VBN	גיגאַנגין	gygAangyN	_
+
+SENT	1819E-PERL,103.46
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	gigesin	VBN	גיגעסין	gygesyN	_
+
+SENT	1819E-PERL,103.47
+1	un	CONJ	און	AvN	_
+2	iz	BEF	איז	Ayz	_
+3	gigangin	VBN	גיגאַנגין	gygAangyN	_
+
+SENT	1819E-PERL,103.48
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	zikh	PRO	זיך	zyX	_
+4	gleygt	VBN	גלײגט	glYgt	_
+5	in	P	אין	AyN	_
+6	eyn	D	אײן	AYN	_
+7	vinkili	N	װינקילי	Vynkyly	_
+8	er	PRO	ער	er	_
+9	zal	MDF	ז"ל	z"l	_
+10	zehin	VB	זעהין	zehyN	_
+11	vas	WPRO	װאַס	VAas	_
+12	dortin	ADV	דאָרטין	dAortyN	_
+13	vet	MDF	װעט	Vet	_
+14	zikh	PRO	זיך	zyX	_
+15	tun	VB	טון	tvN	_
+
+SENT	1819E-PERL,103.49
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	gizehen	VBN	גיזעהען	gyzeheN	_
+4	der	D	דער	der	_
+5	mlkh	N	מלך	mlX	_
+6	hat	HVF	האַט	hAat	_
+7	giheysin	VBN	גיהײסין	gyhYsyN	_
+8	men	PRO	מען	meN	_
+9	zal	MDF	ז"ל	z"l	_
+10	brengin	VB	ברענגין	brengyN	_
+11	di	D	די	dy	_
+12	mlkhh	N	מלכה	mlxh	_
+
+SENT	1819E-PERL,103.50
+1	iz	BEF	איז	Ayz	_
+2	men	PRO	מען	meN	_
+3	gigangin	VBN	גיגאַנגין	gygAangyN	_
+4	zi	PRO	זי	zy	_
+5	brengin	VB	ברענגין	brengyN	_
+
+SENT	1819E-PERL,103.51
+1	iz	BEF	איז	Ayz	_
+2	dartin	ADV	דאַרטין	dAartyN	_
+3	given	VBN	גיװען	gyVeN	_
+4	eyn	D	אײן	AYN	_
+5	grusir	ADJ	גרוסיר	grvsyr	_
+6	res	N	רעס	res	_
+7	un	CONJ	און	AvN	_
+8	eyn	D	אײן	AYN	_
+9	grusi	ADJ	גרוסי	grvsy	_
+10	smkhh	N	סמכה	smxh	_
+
+SENT	1819E-PERL,103.52
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	kapeliut	N	קאַפּעליִוט	kAapelyivt	_
+4	habin	HVF	האַבין	hAabyN	_
+5	zeyer	ADV	זײער	zYer	_
+6	gispilt	VBN	גיספּילט	gyspylt	_
+7	un	CONJ	און	AvN	_
+8	gizingin	VBN	גיזינגין	gyzyngyN	_
+9	veyl	C	װײל	VYl	_
+10	men	PRO	מען	meN	_
+11	hat	HVF	האַט	hAat	_
+12	gibrakht	VBN	גיבראַכט	gybrAaxt	_
+13	di	D	די	dy	_
+14	mlkhh	N	מלכה	mlxh	_
+
+SENT	1819E-PERL,103.53
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	hat	HVF	האַט	hAat	_
+4	ir	PRO	איר	Ayr	_
+5	gestelt	VBN	געסטעלט	gestelt	_
+6	eyn	D	אײן	AYN	_
+7	shtil	N	שטיל	$tyl	_
+
+SENT	1819E-PERL,103.54
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	hat	HVF	האַט	hAat	_
+4	zi	PRO	זי	zy	_
+5	gizetst	VBN	גיזעצט	gyzeqt	_
+6	lebin	P	לעבין	lebyN	_
+7	im	PRO	אים	AyM	_
+
+SENT	1819E-PERL,103.55
+1	un	CONJ	און	AvN	_
+2	das	D	דת	dS	_
+3	iz	BEF	איז	Ayz	_
+4	given	VBN	גיװען	gyVeN	_
+5	di	D	די	dy	_
+6	bt	H	בט	bt	daughter
+7	mlkh	H	מלך	mlX	king
+
+SENT	1819E-PERL,103.56
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	hat	HVF	האַט	hAat	_
+4	zi	PRO	זי	zy	_
+5	gizehin	VBN	גיזעהין	gyzehyN	_
+
+SENT	1819E-PERL,103.57
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	zi	PRO	זי	zy	_
+4	der_kent	VBN	דער_קענט	der_kent	_
+
+SENT	1819E-PERL,103.58
+1	nakh	P	נ"ך	n"X	_
+2	dem	D	דעם	deM	_
+3	hat	HVF	האַט	hAat	_
+4	di	D	די	dy	_
+5	mlkhh	N	מלכה	mlxh	_
+6	eyn	D	אײן	AYN	_
+7	kuk	N	קוק	kvk	_
+8	gitan	VBN	גיטאַן	gytAaN	_
+
+SENT	1819E-PERL,103.59
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	gizehin	VBN	גיזעהין	gyzehyN	_
+4	eynir	PRO	אײניר	AYnyr	_
+5	ligt	VBF	ליגט	lygt	_
+6	in	P	אין	AyN	_
+7	eyn	D	אײן	AYN	_
+8	vinkli	N	װינקלי	Vynkly	_
+
+SENT	1819E-PERL,103.60
+1	hat	HVF	האַט	hAat	_
+2	zi	PRO	זי	zy	_
+3	im	PRO	אים	AyM	_
+4	der_kent	VBN	דער_קענט	der_kent	_
+
+SENT	1819E-PERL,103.61
+1	iz	BEF	איז	Ayz	_
+2	zi	PRO	זי	zy	_
+3	oyf	RP	אױף	AWF	_
+4	gistanin	VBN	גיסטאַנין	gystAanyN	_
+5	fun	P	פֿון	fvN	_
+6	der	D	דער	der	_
+7	shtul	N	שטול	$tvl	_
+
+SENT	1819E-PERL,103.62
+1	un	CONJ	און	AvN	_
+2	iz	BEF	איז	Ayz	_
+3	tsu	P	צו	qv	_
+4	im	PRO	אים	AyM	_
+5	gigangin	VBN	גיגאַנגין	gygAangyN	_
+
+SENT	1819E-PERL,103.63
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	im	PRO	אים	AyM	_
+4	an	RP	אַן	AaN	_
+5	girirt	VBN	גירירט	gyryrt	_
+
+SENT	1819E-PERL,103.64
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	im	PRO	אים	AyM	_
+4	gifregt	VBN	גיפֿרעגט	gyfregt	_
+5-6	kenstu	VBF~PRO	קענסטו	kenstv	_
+5	kens	VBF	קענס	kens	_
+6	tu	PRO	טו	tv	_
+7	mikh	PRO	מיך	myX	_
+
+SENT	1819E-PERL,103.65
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	ir	PRO	איר	Ayr	_
+4	gienfrt	VBN	גיִענפֿרט	gyienfrt	_
+5	yu	INTJ	יו	yv	_
+6	ikh	PRO	איך	AyX	_
+7	ken	VBF	קען	keN	_
+8	dikh	PRO	דיך	dyX	_
+
+SENT	1819E-PERL,103.66
+1	du	PRO	דו	dv	_
+2	bist	VBF	ביסט	byst	_
+3	di	D	די	dy	_
+4	bt	H	בט	bt	daughter
+5	mlkh	H	מלך	mlX	king
+6	vas	C	װאַס	VAas	_
+7	iz	BEF	איז	Ayz	_
+8	fr_falin	VX	פֿר_פֿאַלין	fr_fAalyN	_
+9	givarin	RDN	גיװאַרין	gyVAaryN	_
+
+SENT	1819E-PERL,103.67
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	zi	PRO	זי	zy	_
+4	gifregt	VBN	גיפֿרעגט	gyfregt	_
+5	vi	WADV	װי	Vy	_
+6-7	kumstu	VBF~PRO	קומסטו	kvmstv	_
+6	kums	VBF	קומס	kvms	_
+7	tu	PRO	טו	tv	_
+8	aher	ADV	אַהער	Aaher	_
+
+SENT	1819E-PERL,103.68
+1	hat	HVF	האַט	hAat	_
+2	zi	PRO	זי	zy	_
+3	im	PRO	אים	AyM	_
+4	gienfrt	VBN	גיִענפֿרט	gyienfrt	_
+5	veyl	C	װײל	VYl	_
+6	dem	D	דעם	deM	_
+7	tatin	N	טאַטין	tAatyN	_
+8	hat	HVF	האַט	hAat	_
+9	zikh	PRO	זיך	zyX	_
+10	im	PRO	אים	AyM	_
+11	aroys	ADV	אַרױס	AarWs	_
+12	gikhapt	VBN	גיכאַפּט	gyxAapt	_
+13	das	D	דת	dS	_
+14	vort	N	װאָרט	VAort	_
+15	heynu	ADV	הײנו	hYnv	_
+16	az	C	אַז	Aaz	_
+17	der	D	דער	der	_
+18	nit_guter	ADJ	ניט_גוטער	nyt_gvter	_
+19	zal	MDF	ז"ל	z"l	_
+20	dikh	PRO	דיך	dyX	_
+21	nemen	VB	נעמען	nemeN	_
+
+SENT	1819E-PERL,103.69
+1	un	CONJ	און	AvN	_
+2	da	ADV	דאַ	dAa	_
+3	iz	VBF	איז	Ayz	_
+4	das	D	דת	dS	_
+5	urt	N	אורט	Avrt	_
+6	vas	C	װאַס	VAas	_
+7	iz	VBF	איז	Ayz	_
+8	nit_gut	ADJ	ניט_גוט	nyt_gvt	_
+
+SENT	1819E-PERL,103.70
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	ir	PRO	איר	Ayr	_
+4	der_tseylt	VBN	דער_צײלט	der_qYlt	_
+5	az	C	אַז	Aaz	_
+6	ir	PRO$	איר	Ayr	_
+7	fatir	N	פֿאַטיר	fAatyr	_
+8	iz	VBF	איז	Ayz	_
+9	zikh	PRO	זיך	zyX	_
+10	zeyer	ADV	זײער	zYer	_
+11	mitser	RP-H	מיצער	myqer	_
+
+SENT	1819E-PERL,103.71
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	zukht	VBF	זוכט	zvxt	_
+4	zi	PRO	זי	zy	_
+5	kmh	H	קמה	kmh	a_few
+6	ukmh	H	אוקמה	Avkmh	and_a_few
+7	snim	N	סנים	snyM	_
+
+SENT	1819E-PERL,103.72
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	zi	PRO	זי	zy	_
+4	gefregt	VBN	געפֿרעגט	gefregt	_
+5	vi_azoy	WADV	װי_אַזױ	Vy_AazW	_
+6	ken	MDF	קען	keN	_
+7	ikh	PRO	איך	AyX	_
+8	dikh	PRO	דיך	dyX	_
+9	aroys	ADV	אַרױס	AarWs	_
+10	nemen	VB	נעמען	nemeN	_
+
+SENT	1819E-PERL,103.73
+1	hat	HVF	האַט	hAat	_
+2	zi	PRO	זי	zy	_
+3	im	PRO	אים	AyM	_
+4	gienfrt	VBN	גיִענפֿרט	gyienfrt	_
+5	du	PRO	דו	dv	_
+6	kanst	MDF	קאַנסט	kAanst	_
+7	mikh	PRO	מיך	myX	_
+8	nit	NEG	ניט	nyt	_
+9	aroys	ADV	אַרױס	AarWs	_
+10	nemn	VB	נעמן	nemN	_
+11	seydin	ADV	סײדין	sYdyN	_
+12	az	C	אַז	Aaz	_
+13	du	PRO	דו	dv	_
+14	zalst	MDF	זאַלסט	zAalst	_
+15	dir	PRO	דיר	dyr	_
+16	oys	RP	אױס	AWs	_
+17	kloybin	VB	קלױבין	klWbyN	_
+18	eyn	D	אײן	AYN	_
+19	ort	N	אָרט	Aort	_
+20	un	CONJ	און	AvN	_
+21	zalst	MDF	זאַלסט	zAalst	_
+22	dort	ADV	דאָרט	dAort	_
+23	zitsin	VB	זיצין	zyqyN	_
+24	eyn	D	אײן	AYN	_
+25	yar	N	יאַר	yAar	_
+
+SENT	1819E-PERL,103.74
+1	un	CONJ	און	AvN	_
+2	eyn	D	אײן	AYN	_
+3	gants	ADJ	גאַנץ	gAanQ	_
+4	yar	N	יאַר	yAar	_
+5-6	zaltstu	MDF~PRO	זאַלטסטו	zAaltstv	_
+5	zalts	MDF	זאַלץ	zAalQ	_
+6	tu	PRO	טו	tv	_
+7	beynkin	VB	בײנקין	bYnkyN	_
+8	nakh	P	נ"ך	n"X	_
+9	mir	PRO	מיר	myr	_
+
+SENT	1819E-PERL,103.75
+1	zalst	MDF	זאַלסט	zAalst	_
+2	mikh	PRO	מיך	myX	_
+3	arus	ADV	אַרוס	Aarvs	_
+4	nemin	VB	נעמין	nemyN	_
+
+SENT	1819E-PERL,103.76
+1	un	CONJ	און	AvN	_
+2	ven	C	װען	VeN	_
+3	du	PRO	דו	dv	_
+4	vest	MDF	װעסט	Vest	_
+5	habin	VB	האַבין	hAabyN	_
+6	tseyt	N	צײט	qYt	_
+7-8	zalstu	MDF~PRO	זאַלסטו	zAalstv	_
+7	zals	MDF	זאַלס	zAals	_
+8	tu	PRO	טו	tv	_
+9	rk	ADV	רק	rk	_
+10	beynkin	VB	בײנקין	bYnkyN	_
+11	un	CONJ	און	AvN	_
+12	velin	VB	װעלין	VelyN	_
+13	un	CONJ	און	AvN	_
+14	hofin	VB	האָפֿין	hAofyN	_
+15	mikh	PRO	מיך	myX	_
+16	aroys	ADV	אַרױס	AarWs	_
+17	tsu	TO	צו	qv	_
+18	nemin	VB	נעמין	nemyN	_
+
+SENT	1819E-PERL,104.77
+1	un	CONJ	און	AvN	_
+2	zalst	MDF	זאַלסט	zAalst	_
+3	fastin	VB	פֿאַסטין	fAastyN	_
+
+SENT	1819E-PERL,104.78
+1	un	CONJ	און	AvN	_
+2	in	P	אין	AyN	_
+3	dem	D	דעם	deM	_
+4	intirstin	ADJS	אינטירסטין	AyntyrstyN	_
+5	tag	N	תּג	Tg	_
+6	fun	P	פֿון	fvN	_
+7	dem	D	דעם	deM	_
+8	yor	N	יאָר	yAor	_
+9-10	zalstu	MDF~PRO	זאַלסטו	zAalstv	_
+9	zals	MDF	זאַלס	zAals	_
+10	tu	PRO	טו	tv	_
+11	fastin	VB	פֿאַסטין	fAastyN	_
+12	un	CONJ	און	AvN	_
+13	nit	NEG	ניט	nyt	_
+14	shlafin	VB	שלאַפֿין	$lAafyN	_
+15	dem	D	דעם	deM	_
+16	gantsin	ADJ	גאַנצין	gAanqyN	_
+17	met_let	N	מעט_לעט	met_let	_
+
+SENT	1819E-PERL,104.79
+1	iz	BEF	איז	Ayz	_
+2	er	PRO	ער	er	_
+3	gigangin	VBN	גיגאַנגין	gygAangyN	_
+
+SENT	1819E-PERL,104.80
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	azu	ADV	אַזו	Aazv	_
+4	gitan	VBN	גיטאַן	gytAaN	_
+
+SENT	1819E-PERL,104.81
+1	un	CONJ	און	AvN	_
+2-3	tsum	P~D	צום	qvM	_
+2	tsu	P	צו	qv	_
+3	m	D	מ	m	_
+4	suf	N	סוף	svF	_
+5	yur	N	יור	yvr	_
+6	dem	D	דעם	deM	_
+7	intirstin	ADJS	אינטירסטין	AyntyrstyN	_
+8	tag	N	תּג	Tg	_
+9	hat	HVF	האַט	hAat	_
+10	er	PRO	ער	er	_
+11	gifast	VBN	גיפֿאַסט	gyfAast	_
+
+SENT	1819E-PERL,104.82
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	nit	NEG	ניט	nyt	_
+4	gishlafin	VBN	גישלאַפֿין	gy$lAafyN	_
+
+SENT	1819E-PERL,104.83
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	zikh	PRO	זיך	zyX	_
+4	oyf	RP	אױף	AWF	_
+5	gihubin	VBN	גיהובין	gyhvbyN	_
+
+SENT	1819E-PERL,104.84
+1	un	CONJ	און	AvN	_
+2	iz	BEF	איז	Ayz	_
+3	ahin	ADV	אַהין	AahyN	_
+4	gigangin	VBN	גיגאַנגין	gygAangyN	_
+5	heynu	ADV	הײנו	hYnv	_
+6	tsu	P	צו	qv	_
+7	der	D	דער	der	_
+8	bt	H	בט	bt	daughter
+9	mlkh	H	מלך	mlX	king
+10	zi	PRO	זי	zy	_
+11	aroys	ADV	אַרױס	AarWs	_
+12	tsu	TO	צו	qv	_
+13	nemin	VB	נעמין	nemyN	_
+
+SENT	1819E-PERL,104.85
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	der_zehin	VBN	דער_זעהין	der_zehyN	_
+4	eyn	D	אײן	AYN	_
+5	boym	N	בױם	bWM	_
+
+SENT	1819E-PERL,104.86
+1	uf	P	אוף	AvF	_
+2	dem	D	דעם	deM	_
+3	boym	N	בױם	bWM	_
+4	habin	HVF	האַבין	hAabyN	_
+5	givaksin	VBN	גיװאַקסין	gyVAaksyN	_
+6	zeyer	ADV	זײער	zYer	_
+7	seynh	ADJ	סײנה	sYnh	_
+8	epil	N	עפּיל	epyl	_
+
+SENT	1819E-PERL,104.87
+1	hat	HVF	האַט	hAat	_
+2	zikh	PRO	זיך	zyX	_
+3	im	PRO	אים	AyM	_
+4	zeyer	ADV	זײער	zYer	_
+5	giglust	VBN	גיגלוסט	gyglvst	_
+
+SENT	1819E-PERL,104.88
+1	un	CONJ	און	AvN	_
+2	iz	BEF	איז	Ayz	_
+3	gigangin	VBN	גיגאַנגין	gygAangyN	_
+
+SENT	1819E-PERL,104.89
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	gigesin	VBN	גיגעסין	gygesyN	_
+4	fun	P	פֿון	fvN	_
+5	zey	PRO	זײ	zY	_
+
+SENT	1819E-PERL,104.90
+1	tikf	ADV	טיקף	tykF	_
+2	vi	C	װי	Vy	_
+3	er	PRO	ער	er	_
+4	hat	HVF	האַט	hAat	_
+5	gigesin	VBN	גיגעסין	gygesyN	_
+6	dem	D	דעם	deM	_
+7	epil	N	עפּיל	epyl	_
+8	iz	BEF	איז	Ayz	_
+9	er	PRO	ער	er	_
+10	anider	ADV	אַנידער	Aanyder	_
+11	gefalin	VBN	געפֿאַלין	gefAalyN	_
+
+SENT	1819E-PERL,104.91
+1	un	CONJ	און	AvN	_
+2	es	ES	עס	es	_
+3	hat	HVF	האַט	hAat	_
+4	im	PRO	אים	AyM	_
+5	an	RP	אַן	AaN	_
+6	gikhapt	VBN	גיכאַפּט	gyxAapt	_
+7	eyn	D	אײן	AYN	_
+8	shlaf	N	שלאַף	$lAaF	_
+
+SENT	1819E-PERL,104.92
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	gishlafin	VBN	גישלאַפֿין	gy$lAafyN	_
+4	zeyer	ADV	זײער	zYer	_
+5	eyn	D	אײן	AYN	_
+6	langi	ADJ	לאַנגי	lAangy	_
+7	tseyt	N	צײט	qYt	_
+
+SENT	1819E-PERL,104.93
+1	hat	HVF	האַט	hAat	_
+2	der	D	דער	der	_
+3	msrt	N	מסרט	msrt	_
+4	im	PRO	אים	AyM	_
+5	givekt	VBN	גיװעקט	gyVekt	_
+
+SENT	1819E-PERL,104.94
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	hat	HVF	האַט	hAat	_
+4	im	PRO	אים	AyM	_
+5	nit	NEG	ניט	nyt	_
+6	gikent	MDN	גיקענט	gykent	_
+7	der_vekin	VB	דער_װעקין	der_VekyN	_
+
+SENT	1819E-PERL,104.95
+1	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+2	hat	HVF	האַט	hAat	_
+3	er	PRO	ער	er	_
+4	zikh	PRO	זיך	zyX	_
+5	uf	RP	אוף	AvF	_
+6	gikhapt	VBN	גיכאַפּט	gyxAapt	_
+7	fun	P	פֿון	fvN	_
+8	dem	D	דעם	deM	_
+9	shlaf	N	שלאַף	$lAaF	_
+
+SENT	1819E-PERL,104.96
+1	fregt	VBF	פֿרעגט	fregt	_
+2	er	PRO	ער	er	_
+3	dem	D	דעם	deM	_
+4	msrt	N	מסרט	msrt	_
+5	vi	WADV	װי	Vy	_
+6	bin	VBF	בין	byN	_
+7	ikh	PRO	איך	AyX	_
+8	un	P	און	AvN	_
+9	der	D	דער	der	_
+10	velt	N	װעלט	Velt	_
+
+SENT	1819E-PERL,104.97
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	im	PRO	אים	AyM	_
+4	der_tseylt	VBN	דער_צײלט	der_qYlt	_
+5	di	D	די	dy	_
+6	gantsi	ADJ	גאַנצי	gAanqy	_
+7	mayse	N	מעשׂה	meCh	_
+
+SENT	1819E-PERL,104.98
+1	du	PRO	דו	dv	_
+2	shlafst	VBF	שלאַפֿסט	$lAafst	_
+3	shun	ADV	שון	$vN	_
+4	zeyer	ADV	זײער	zYer	_
+5	eyn	D	אײן	AYN	_
+6	langi	ADJ	לאַנגי	lAangy	_
+7	tseyt	N	צײט	qYt	_
+
+SENT	1819E-PERL,104.99
+1	es	ES	עס	es	_
+2	iz	VBF	איז	Ayz	_
+3	shun	ADV	שון	$vN	_
+4	kmh	H	קמה	kmh	a_few
+5	snim	N	סנים	snyM	_
+6	az	C	אַז	Aaz	_
+7	du	PRO	דו	dv	_
+8	shlafst	VBF	שלאַפֿסט	$lAafst	_
+
+SENT	1819E-PERL,104.100
+1	un	CONJ	און	AvN	_
+2	ikh	PRO	איך	AyX	_
+3	hab	HVF	האַב	hAab	_
+4	mikh	PRO	מיך	myX	_
+5	mefarnes	RP-H	מפֿרנס	mfrns	_
+6	given	VBN	גיװען	gyVeN	_
+7	fun	P	פֿון	fvN	_
+8	di	D	די	dy	_
+9	firut	N	פֿירוט	fyrvt	_
+
+SENT	1819E-PERL,104.101
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	zikh	PRO	זיך	zyX	_
+4	zeyer	ADV	זײער	zYer	_
+5	mtser	RP-H	מצער	mqer	_
+6	given	VBN	גיװען	gyVeN	_
+
+SENT	1819E-PERL,104.102
+1	un	CONJ	און	AvN	_
+2	iz	BEF	איז	Ayz	_
+3	ahin	ADV	אַהין	AahyN	_
+4	gigangin	VBN	גיגאַנגין	gygAangyN	_
+
+SENT	1819E-PERL,104.103
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	zi	PRO	זי	zy	_
+4	gifunin	VBN	גיפֿונין	gyfvnyN	_
+5	dort	ADV	דאָרט	dAort	_
+6	heynu	ADV	הײנו	hYnv	_
+7	di	D	די	dy	_
+8	bt	H	בט	bt	daughter
+9	mlkh	H	מלך	mlX	king
+
+SENT	1819E-PERL,104.104
+1	hat	HVF	האַט	hAat	_
+2	zi	PRO	זי	zy	_
+3	zikh	PRO	זיך	zyX	_
+4	fr	P	פֿר	fr	_
+5	im	PRO	אים	AyM	_
+6	zeyer	ADV	זײער	zYer	_
+7	giklagt	VBN	גיקלאַגט	gyklAagt	_
+8	un	CONJ	און	AvN	_
+9	zeyer	ADV	זײער	zYer	_
+10	zikh	PRO	זיך	zyX	_
+11	mtser	RP-H	מצער	mqer	_
+12	given	VBN	גיװען	gyVeN	_
+
+SENT	1819E-PERL,104.105
+1	fun	P	פֿון	fvN	_
+2	eyn	D	אײן	AYN	_
+3	tag	N	תּג	Tg	_
+4	vegin	N	װעגין	VegyN	_
+5-6	hastu	HVF~PRO	האַסטו	hAastv	_
+5	has	HVF	האַס	hAas	_
+6	tu	PRO	טו	tv	_
+7	an	RP	אַן	AaN	_
+8	givarin	VBN	גיװאַרין	gyVAaryN	_
+9	khlumr	N	כלומר	xlvmr	_
+10	ibr	P	איבר	Aybr	_
+11	dem	D	דעם	deM	_
+12	vas	C	װאַס	VAas	_
+13	du	PRO	דו	dv	_
+14	hast	HVF	האַסט	hAast	_
+15	zikh	PRO	זיך	zyX	_
+16	nit	NEG	ניט	nyt	_
+17	gekent	MDN	געקענט	gekent	_
+18	eyn	RP	אײן	AYN	_
+19	haltin	VB	האַלטין	hAaltyN	_
+20	eyn	D	אײן	AYN	_
+21	tag	N	תּג	Tg	_
+
+SENT	1819E-PERL,104.106
+1	un	CONJ	און	AvN	_
+2	hast	HVF	האַסט	hAast	_
+3	gigesin	VBN	גיגעסין	gygesyN	_
+4	dem	D	דעם	deM	_
+5	epil	N	עפּיל	epyl	_
+
+SENT	1819E-PERL,104.107
+1	ibr	P	איבר	Aybr	_
+2	dem	D	דעם	deM	_
+3	hast	HVF	האַסט	hAast	_
+4	an	RP	אַן	AaN	_
+5	givarin	VBN	גיװאַרין	gyVAaryN	_
+
+SENT	1819E-PERL,104.108
+1	varin	CONJ	װאַרין	VAaryN	_
+2	du	PRO	דו	dv	_
+3	zalst	MDF	זאַלסט	zAalst	_
+4	given	BEN	גיװען	gyVeN	_
+5	kumin	VBN	קומין	kvmyN	_
+6	un	P	און	AvN	_
+7	dem	D	דעם	deM	_
+8	tag	N	תּג	Tg	_
+9	vals	VLF	װאַלס	VAals	_
+10	tu	PRO	טו	tv	_
+11	mikh	PRO	מיך	myX	_
+12	aroys	ADV	אַרױס	AarWs	_
+13	ginumin	VBN	גינומין	gynvmyN	_
+
+SENT	1819E-PERL,104.109
+1	lusmir	H	לוסמיר	lvsmyr	UNKNOWN
+2	nit	NEG	ניט	nyt	_
+3	tsu	TO	צו	qv	_
+4	esin	VB	עסין	esyN	_
+5	iz	VBF	איז	Ayz	_
+6	zeyer	ADV	זײער	zYer	_
+7	eyn	D	אײן	AYN	_
+8	shveri	ADJ	שװערי	$Very	_
+9	zakh	N	זאַך	zAaX	_
+10	bifrat	ADV	בפֿרט	bfrt	_
+11	dem	D	דעם	deM	_
+12	intirstin	ADJS	אינטירסטין	AyntyrstyN	_
+13	tag	N	תּג	Tg	_
+14	.	PUNC	.	.	_
+
+SENT	1819E-PERL,104.110
+1	demilt	ADV	דעמילט	demylt	_
+2	iz	VBF	איז	Ayz	_
+3	zikh	PRO	זיך	zyX	_
+4	der	D	דער	der	_
+5	itsr_hre	N	איצר_הרע	Ayqr_hre	_
+6	zeyer	ADV	זײער	zYer	_
+7	mtgbr	ADJ	מטגבר	mtgbr	_
+
+SENT	1819E-PERL,104.111
+1	el	H	על	el	on
+2	kn	H	קן	kN	yes
+3-4	zalstu	MDF~PRO	זאַלסטו	zAalstv	_
+3	zals	MDF	זאַלס	zAals	_
+4	tu	PRO	טו	tv	_
+5	dir	PRO	דיר	dyr	_
+6	vidr	ADV	װידר	Vydr	_
+7	oys	RP	אױס	AWs	_
+8	kloybin	VB	קלױבין	klWbyN	_
+9	eyn	D	אײן	AYN	_
+10	ort	N	אָרט	Aort	_
+
+SENT	1819E-PERL,104.112
+1	un	CONJ	און	AvN	_
+2	zalst	MDF	זאַלסט	zAalst	_
+3	vidir	ADV	װידיר	Vydyr	_
+4	zitsin	VB	זיצין	zyqyN	_
+5	dort	ADV	דאָרט	dAort	_
+6	eyn	D	אײן	AYN	_
+7	yar	N	יאַר	yAar	_
+
+SENT	1819E-PERL,104.113
+1	un	CONJ	און	AvN	_
+2	in	P	אין	AyN	_
+3	dem	D	דעם	deM	_
+4	intrstin	ADJS	אינטרסטין	AyntrstyN	_
+5	tag	N	תּג	Tg	_
+6-7	zalstu	MDF~PRO	זאַלסטו	zAalstv	_
+6	zals	MDF	זאַלס	zAals	_
+7	tu	PRO	טו	tv	_
+8	shun	ADV	שון	$vN	_
+9	megin	MD	מעגין	megyN	_
+10	esin	VB	עסין	esyN	_
+
+SENT	1819E-PERL,104.114
+1	nor	CONJ	נאָר	nAor	_
+2	zalst	MDF	זאַלסט	zAalst	_
+3	nit	NEG	ניט	nyt	_
+4	shlafin	VB	שלאַפֿין	$lAafyN	_
+
+SENT	1819E-PERL,104.115
+1	un	CONJ	און	AvN	_
+2	zalst	MDF	זאַלסט	zAalst	_
+3	keyn	Q	קײן	kYN	_
+4	veyn	N	װײן	VYN	_
+5	nit	NEG	ניט	nyt	_
+6	trinkin	VB	טרינקין	trynkyN	_
+7	kdi	ADV	קדי	kdy	_
+8	du	PRO	דו	dv	_
+9	zalst	MDF	זאַלסט	zAalst	_
+10	nit	NEG	ניט	nyt	_
+11	shlafin	VB	שלאַפֿין	$lAafyN	_
+
+SENT	1819E-PERL,104.116
+1	varin	CONJ	װאַרין	VAaryN	_
+2	der	D	דער	der	_
+3	eikr	N	עיִקר	eyikr	_
+4	iz	VBF	איז	Ayz	_
+5	der	D	דער	der	_
+6	shlaf	N	שלאַף	$lAaF	_
+
+SENT	1819E-PERL,104.117
+1	iz	BEF	איז	Ayz	_
+2	er	PRO	ער	er	_
+3	gigangin	VBN	גיגאַנגין	gygAangyN	_
+
+SENT	1819E-PERL,104.118
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	azu	ADV	אַזו	Aazv	_
+4	gitan	VBN	גיטאַן	gytAaN	_
+
+SENT	1819E-PERL,104.119
+1	dem	D	דעם	deM	_
+2	intirstin	ADJS	אינטירסטין	AyntyrstyN	_
+3	tag	N	תּג	Tg	_
+4	iz	BEF	איז	Ayz	_
+5	er	PRO	ער	er	_
+6	ahin	ADV	אַהין	AahyN	_
+7	gigangin	VBN	גיגאַנגין	gygAangyN	_
+
+SENT	1819E-PERL,104.120
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	gizehin	VBN	גיזעהין	gyzehyN	_
+4	eyn	D	אײן	AYN	_
+5	kval	N	קװאַל	kVAal	_
+6	geyn	VB	גײן	gYN	_
+
+SENT	1819E-PERL,104.121
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	mrah	N	מראַה	mrAah	_
+4	fun	P	פֿון	fvN	_
+5	dem	D	דעם	deM	_
+6	kval	N	קװאַל	kVAal	_
+7	iz	BEF	איז	Ayz	_
+8	gven	VBN	גװען	gVeN	_
+9	rut	ADJ	רוט	rvt	_
+
+SENT	1819E-PERL,104.122
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	rikh	N	ריך	ryX	_
+4	iz	BEF	איז	Ayz	_
+5	gven	VBN	גװען	gVeN	_
+6	fun	P	פֿון	fvN	_
+7	veyn	N	װײן	VYN	_
+
+SENT	1819E-PERL,104.123
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	gifregt	VBN	גיפֿרעגט	gyfregt	_
+4	dem	D	דעם	deM	_
+5	msrt	N	מסרט	msrt	_
+6-7	hastu	HVF~PRO	האַסטו	hAastv	_
+6	has	HVF	האַס	hAas	_
+7	tu	PRO	טו	tv	_
+8	gizehin	VBN	גיזעהין	gyzehyN	_
+
+SENT	1819E-PERL,105.125
+1	das	D	דת	dS	_
+2	iz	VBF	איז	Ayz	_
+3	eyn	D	אײן	AYN	_
+4	kval	N	קװאַל	kVAal	_
+
+SENT	1819E-PERL,105.126
+1	ker	MDF	קער	ker	_
+2	tsu	TO	צו	qv	_
+3	zeyn	VB	זײן	zYN	_
+4	un	P	און	AvN	_
+5	im	PRO	אים	AyM	_
+6	vasir	N	װאַסיר	VAasyr	_
+
+SENT	1819E-PERL,105.127
+1	un	CONJ	און	AvN	_
+2	di	D	די	dy	_
+3	mrah	N	מראַה	mrAah	_
+4	iz	VBF	איז	Ayz	_
+5	rut	ADJ	רוט	rvt	_
+
+SENT	1819E-PERL,105.128
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	rikh	N	ריך	ryX	_
+4	iz	VBF	איז	Ayz	_
+5	fun	P	פֿון	fvN	_
+6	veyn	N	װײן	VYN	_
+
+SENT	1819E-PERL,105.129
+1	un	CONJ	און	AvN	_
+2	iz	BEF	איז	Ayz	_
+3	gigangin	VBN	גיגאַנגין	gygAangyN	_
+
+SENT	1819E-PERL,105.130
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	epis	Q	עפּיס	epys	_
+4	fr_zikht	VBN	פֿר_זיכט	fr_zyxt	_
+5	fun	P	פֿון	fvN	_
+6	dem	D	דעם	deM	_
+7	kval	N	קװאַל	kVAal	_
+
+SENT	1819E-PERL,105.131
+1	iz	BEF	איז	Ayz	_
+2	er	PRO	ער	er	_
+3	tikf	ADV	טיקף	tykF	_
+4	anidr	ADV	אַנידר	Aanydr	_
+5	gifalin	VBN	גיפֿאַלין	gyfAalyN	_
+
+SENT	1819E-PERL,105.132
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	gishlafin	VBN	גישלאַפֿין	gy$lAafyN	_
+4	kmh	H	קמה	kmh	a_few
+5	snim	H	סנים	snyM	years
+6	zibitsig	NUM	זיביציג	zybyqyg	_
+7	yor	N	יאָר	yAor	_
+
+SENT	1819E-PERL,105.133
+1	zenin	BEF	זענין	zenyN	_
+2	gigangin	VBN	גיגאַנגין	gygAangyN	_
+3	eyn_skh	Q	אײנ_סך	AYn_sX	_
+4	kheyles	N	כײלעס	xYles	_
+5	mit	P	מיט	myt	_
+6	di	D	די	dy	_
+7	ubazin	N	אובאַזין	AvbAazyN	_
+8	vas	C	װאַס	VAas	_
+9	geiain	VBF	געיִאַין	geyiAayN	_
+10	zey	PRO	זײ	zY	_
+11	nakh	RP	נ"ך	n"X	_
+
+SENT	1819E-PERL,105.134
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	msrt	N	מסרט	msrt	_
+4	hat	HVF	האַט	hAat	_
+5	zikh	PRO	זיך	zyX	_
+6	bey	RP	בײ	bY	_
+7	haltin	VBN	האַלטין	hAaltyN	_
+8	fr	P	פֿר	fr	_
+9	di	D	די	dy	_
+10	kheylut	N	כײלוט	xYlvt	_
+
+SENT	1819E-PERL,105.135
+1	nakh	P	נ"ך	n"X	_
+2	dem	D	דעם	deM	_
+3	iz	BEF	איז	Ayz	_
+4	gigangin	VBN	גיגאַנגין	gygAangyN	_
+5	eyn	D	אײן	AYN	_
+6	karisi	N	קאַריסי	kAarysy	_
+
+SENT	1819E-PERL,105.136
+1	un	CONJ	און	AvN	_
+2	dort	ADV	דאָרט	dAort	_
+3	iz	BEF	איז	Ayz	_
+4	gizesin	VBN	גיזעסין	gyzesyN	_
+5	di	D	די	dy	_
+6	bt	H	בט	bt	daughter
+7	mlkh	H	מלך	mlX	king
+
+SENT	1819E-PERL,105.137
+1	hat	HVF	האַט	hAat	_
+2	zi	PRO	זי	zy	_
+3	zikh	PRO	זיך	zyX	_
+4	gistelt	VBN	גיסטעלט	gystelt	_
+5	lebin	P	לעבין	lebyN	_
+6	im	PRO	אים	AyM	_
+
+SENT	1819E-PERL,105.138
+1	un	CONJ	און	AvN	_
+2	iz	BEF	איז	Ayz	_
+3	arop	ADV	אַראָפּ	AarAop	_
+4	gigangin	VBN	גיגאַנגין	gygAangyN	_
+
+SENT	1819E-PERL,105.139
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	zikh	PRO	זיך	zyX	_
+4	gzetst	VBN	גזעצט	gzeqt	_
+5	lebin	P	לעבין	lebyN	_
+6	im	PRO	אים	AyM	_
+
+SENT	1819E-PERL,105.140
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	im	PRO	אים	AyM	_
+4	der_kent	VBN	דער_קענט	der_kent	_
+
+SENT	1819E-PERL,105.141
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	im	PRO	אים	AyM	_
+4	zeyer	ADV	זײער	zYer	_
+5	givekt	VBN	גיװעקט	gyVekt	_
+
+SENT	1819E-PERL,105.142
+1	er	PRO	ער	er	_
+2	hat	HVF	האַט	hAat	_
+3	zikh	PRO	זיך	zyX	_
+4	abir	CONJ	אַביר	Aabyr	_
+5	nit	NEG	ניט	nyt	_
+6	gikent	MDN	גיקענט	gykent	_
+7	der_vekin	VB	דער_װעקין	der_VekyN	_
+
+SENT	1819E-PERL,105.143
+1	hat	HVF	האַט	hAat	_
+2	zi	PRO	זי	zy	_
+3	an	RP	אַן	AaN	_
+4	gihubin	VBN	גיהובין	gyhvbyN	_
+5	tsu	TO	צו	qv	_
+6	klagin	VB	קלאַגין	klAagyN	_
+7	uf	P	אוף	AvF	_
+8	im	PRO	אים	AyM	_
+9	bansher	ADV	באשר	bA$r	_
+10	azu	ADV	אַזו	Aazv	_
+11	fil	Q	פֿיל	fyl	_
+12	un	CONJ	און	AvN	_
+13	azu	ADV	אַזו	Aazv	_
+14	fil	Q	פֿיל	fyl	_
+15	igieue	N	איגיִעוע	Aygyieve	_
+16	un	CONJ	און	AvN	_
+17	tirkhes	N	טירכעס	tyrxes	_
+
+SENT	1819E-PERL,105.144
+1	azu	ADV	אַזו	Aazv	_
+2	fil	Q	פֿיל	fyl	_
+3	yarin	N	יאַרין	yAaryN	_
+4	vas	C	װאַס	VAas	_
+5	du	PRO	דו	dv	_
+6	mutshst	VBF	מוטשסט	mvt$st	_
+7	dikh	PRO	דיך	dyX	_
+8	un	CONJ	און	AvN	_
+9	hariviest	VBF	האַריװיִעסט	hAaryVyiest	_
+10	azu	ADV	אַזו	Aazv	_
+11	lang	ADV	לאַנג	lAang	_
+12	kdi	ADV	קדי	kdy	_
+13	az	C	אַז	Aaz	_
+14	du	PRO	דו	dv	_
+15	zalst	MDF	זאַלסט	zAalst	_
+16	mikh	PRO	מיך	myX	_
+17	aroys	ADV	אַרױס	AarWs	_
+18	nemen	VB	נעמען	nemeN	_
+
+SENT	1819E-PERL,105.145
+1	un	CONJ	און	AvN	_
+2	fun	P	פֿון	fvN	_
+3	eyn	D	אײן	AYN	_
+4	tag	N	תּג	Tg	_
+5	vegin	N	װעגין	VegyN	_
+6	vas	C	װאַס	VAas	_
+7	du	PRO	דו	dv	_
+8	hast	HVF	האַסט	hAast	_
+9	gikant	MDN	גיקאַנט	gykAant	_
+10	mikh	PRO	מיך	myX	_
+11	aroys	ADV	אַרױס	AarWs	_
+12	nemin	VB	נעמין	nemyN	_
+13-14	hastu	HVF~PRO	האַסטו	hAastv	_
+13	has	HVF	האַס	hAas	_
+14	tu	PRO	טו	tv	_
+15	gar	ADV	גאַר	gAar	_
+16	an	RP	אַן	AaN	_
+17	givarin	VBN	גיװאַרין	gyVAaryN	_
+
+SENT	1819E-PERL,105.146
+1	un	CONJ	און	AvN	_
+2	zi	PRO	זי	zy	_
+3	hat	HVF	האַט	hAat	_
+4	zeyer	ADV	זײער	zYer	_
+5	giveynt	VBN	גיװײנט	gyVYnt	_
+
+SENT	1819E-PERL,105.147
+1	zi	PRO	זי	zy	_
+2	hat	HVF	האַט	hAat	_
+3	gizagt	VBN	גיזאַגט	gyzAagt	_
+4	es	ES	עס	es	_
+5	iz	VBF	איז	Ayz	_
+6	eyn	D	אײן	AYN	_
+7	grus	ADJ	גרוס	grvs	_
+8	rkhmnes	N	רכמנעס	rxmnes	_
+9	uf	P	אוף	AvF	_
+10	dir	PRO	דיר	dyr	_
+11	un	CONJ	און	AvN	_
+12	uf	P	אוף	AvF	_
+13	mir	PRO	מיר	myr	_
+
+SENT	1819E-PERL,105.148
+1	azu	ADV	אַזו	Aazv	_
+2	eyn	D	אײן	AYN	_
+3	langi	ADJ	לאַנגי	lAangy	_
+4	tseyt	N	צײט	qYt	_
+5	vas	C	װאַס	VAas	_
+6	ikh	PRO	איך	AyX	_
+7	bin	VBF	בין	byN	_
+8	da	ADV	דאַ	dAa	_
+9	un	CONJ	און	AvN	_
+10	kan	MDF	ק"ן	k"N	_
+11	nit	NEG	ניט	nyt	_
+12	aroys	ADV	אַרױס	AarWs	_
+13	uku	H	אוקו	Avkv	etc.
+
+SENT	1819E-PERL,105.149
+1	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+2	hat	HVF	האַט	hAat	_
+3	zi	PRO	זי	zy	_
+4	ginumin	VBN	גינומין	gynvmyN	_
+5	eyn	D	אײן	AYN	_
+6	fatsheyle	N	פֿאַטשײלע	fAat$Yle	_
+7	fun	P	פֿון	fvN	_
+8	dem	D	דעם	deM	_
+9	kop	N	קאָפּ	kAop	_
+
+SENT	1819E-PERL,105.150
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	uf	P	אוף	AvF	_
+4	ir	PRO	איר	Ayr	_
+5	an	RP	אַן	AaN	_
+6	gshribin	VBN	גשריבין	g$rybyN	_
+7	mit	P	מיט	myt	_
+8	iri	PRO$	אירי	Ayry	_
+9	trerin	N	טרערין	treryN	_
+
+SENT	1819E-PERL,105.151
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	anidir	ADV	אַנידיר	Aanydyr	_
+4	gileygt	VBN	גילײגט	gylYgt	_
+5	lebin	P	לעבין	lebyN	_
+6	im	PRO	אים	AyM	_
+
+SENT	1819E-PERL,105.152
+1	un	CONJ	און	AvN	_
+2	iz	BEF	איז	Ayz	_
+3	oyf	RP	אױף	AWF	_
+4	gistanin	VBN	גיסטאַנין	gystAanyN	_
+
+SENT	1819E-PERL,105.153
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	zikh	PRO	זיך	zyX	_
+4	areyn	ADV	אַרײן	AarYN	_
+5	gizetst	VBN	גיזעצט	gyzeqt	_
+6	un	P	און	AvN	_
+7	der	D	דער	der	_
+8	karisi	N	קאַריסי	kAarysy	_
+
+SENT	1819E-PERL,105.154
+1	un	CONJ	און	AvN	_
+2	iz	BEF	איז	Ayz	_
+3	avek	RP-ADV	אַװעק	AaVek	_
+4	gifarin	VBN	גיפֿאַרין	gyfAaryN	_
+
+SENT	1819E-PERL,105.155
+1	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+2	hat	HVF	האַט	hAat	_
+3	er	PRO	ער	er	_
+4	zikh	PRO	זיך	zyX	_
+5	uf	RP	אוף	AvF	_
+6	gikhapt	VBN	גיכאַפּט	gyxAapt	_
+
+SENT	1819E-PERL,105.156
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	gifregt	VBN	גיפֿרעגט	gyfregt	_
+4	dem	D	דעם	deM	_
+5	msrh	N	מסרה	msrh	_
+6	vi	WADV	װי	Vy	_
+7	bin	VBF	בין	byN	_
+8	ikh	PRO	איך	AyX	_
+9	in	P	אין	AyN	_
+10	der	D	דער	der	_
+11	velt	N	װעלט	Velt	_
+
+SENT	1819E-PERL,105.157
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	im	PRO	אים	AyM	_
+4	der_tseylt	VBN	דער_צײלט	der_qYlt	_
+5	di	D	די	dy	_
+6	gantsi	ADJ	גאַנצי	gAanqy	_
+7	mesh	N	מעש	me$	_
+8	un	CONJ	און	AvN	_
+9	az	C	אַז	Aaz	_
+10	askh	Q	אַסך	AasX	_
+11	kheilut	N	כעיִלוט	xeyilvt	_
+12	zenen	BEF	זענען	zeneN	_
+13	durkh	RP	דורך	dvrX	_
+14	gegangin	VBN	געגאַנגין	gegAangyN	_
+15	az	C	אַז	Aaz	_
+16	es	ES	עס	es	_
+17	iz	BEF	איז	Ayz	_
+18	da	ADV	דאַ	dAa	_
+19	given	VBN	גיװען	gyVeN	_
+20	di	D	די	dy	_
+21	karisi	N	קאַריסי	kAarysy	_
+22	az	C	אַז	Aaz	_
+23	zi	PRO	זי	zy	_
+24	hat	HVF	האַט	hAat	_
+25	giveynt	VBN	גיװײנט	gyVYnt	_
+26	ibr	P	איבר	Aybr	_
+27	im	PRO	אים	AyM	_
+28	un	CONJ	און	AvN	_
+29	zi	PRO	זי	zy	_
+30	hat	HVF	האַט	hAat	_
+31	gishrigin	VBN	גישריגין	gy$rygyN	_
+32	es	ES	עס	es	_
+33	iz	VBF	איז	Ayz	_
+34	eyn	D	אײן	AYN	_
+35	grus	ADJ	גרוס	grvs	_
+36	rkhmnes	N	רכמנעס	rxmnes	_
+37	oyf	P	אױף	AWF	_
+38	dir	PRO	דיר	dyr	_
+39	un	CONJ	און	AvN	_
+40	oyf	P	אױף	AWF	_
+41	mir	PRO	מיר	myr	_
+42	uku	H	אוקו	Avkv	etc.
+43	khn"l	H	כנ"ל	xn"l	as_is_mentioned_before
+
+SENT	1819E-PERL,105.158
+1	der_veyl	ADV	דער_װײל	der_VYl	_
+2	hat	HVF	האַט	hAat	_
+3	er	PRO	ער	er	_
+4	eyn	D	אײן	AYN	_
+5	blik	N	בליק	blyk	_
+6	gitan	VBN	גיטאַן	gytAaN	_
+
+SENT	1819E-PERL,105.159
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	der_zehin	VBN	דער_זעהין	der_zehyN	_
+4	di	D	די	dy	_
+5	fatsheyle	N	פֿאַטשײלע	fAat$Yle	_
+6	ligt	VBF	ליגט	lygt	_
+7	lebin	P	לעבין	lebyN	_
+8	im	PRO	אים	AyM	_
+
+SENT	1819E-PERL,105.160
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	gifregt	VBN	גיפֿרעגט	gyfregt	_
+4	fun	P	פֿון	fvN	_
+5	vanen	WADV	װאַנען	VAaneN	_
+6	iz	VBF	איז	Ayz	_
+7	dos	D	דאָס	dAos	_
+
+SENT	1819E-PERL,105.161
+1	hot	HVF	האָט	hAot	_
+2	er	PRO	ער	er	_
+3	im	PRO	אים	AyM	_
+4	gienfrt	VBN	גיִענפֿרט	gyienfrt	_
+5	zi	PRO	זי	zy	_
+6	hat	HVF	האַט	hAat	_
+7	es	PRO	עס	es	_
+8	ibr_gilazt	VBN	איבר_גילאַזט	Aybr_gylAazt	_
+
+SENT	1819E-PERL,105.162
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	uf	P	אוף	AvF	_
+4	ir	PRO	איר	Ayr	_
+5	an	RP	אַן	AaN	_
+6	gishribin	VBN	גישריבין	gy$rybyN	_
+7	mit	P	מיט	myt	_
+8	iri	PRO$	אירי	Ayry	_
+9	trerin	N	טרערין	treryN	_
+
+SENT	1819E-PERL,105.163
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	ginumn	VBN	גינומן	gynvmN	_
+4	di	D	די	dy	_
+5	fatsheyle	N	פֿאַטשײלע	fAat$Yle	_
+
+SENT	1819E-PERL,105.164
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	zi	PRO	זי	zy	_
+4	uf	RP	אוף	AvF	_
+5	gihubin	VBN	גיהובין	gyhvbyN	_
+6	akegin	P	אַקעגין	AakegyN	_
+7	der	D	דער	der	_
+8	zun	N	זון	zvN	_
+
+SENT	1819E-PERL,105.165
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	an	RP	אַן	AaN	_
+4	gihubin	VBN	גיהובין	gyhvbyN	_
+5	tsu	TO	צו	qv	_
+6	zehin	VB	זעהין	zehyN	_
+7	di	D	די	dy	_
+8	utiut	N	אוטיִוט	Avtyivt	_
+
+SENT	1819E-PERL,105.166
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	ibr_leynt	VBN	איבר_לײנט	Aybr_lYnt	_
+4	vas	WPRO	װאַס	VAas	_
+5	dart	ADV	דאַרט	dAart	_
+6	iz	BEF	איז	Ayz	_
+7	gishtanin	VBN	גישטאַנין	gy$tAanyN	_
+8	ir	PRO$	איר	Ayr	_
+9	klagin	N	קלאַגין	klAagyN	_
+10	un	CONJ	און	AvN	_
+11	ir	PRO$	איר	Ayr	_
+12	gishrey	N	גישרײ	gy$rY	_
+13	khn"l	H	כנ"ל	xn"l	as_is_mentioned_before
+
+SENT	1819E-PERL,105.167
+1	un	CONJ	און	AvN	_
+2	dart	ADV	דאַרט	dAart	_
+3	iz	BEF	איז	Ayz	_
+4	gishtanin	VBN	גישטאַנין	gy$tAanyN	_
+5	gishribin	ADJ	גישריבין	gy$rybyN	_
+6	az	C	אַז	Aaz	_
+7	heynt	ADV	הײנט	hYnt	_
+8	iz	VBF	איז	Ayz	_
+9	zi	PRO	זי	zy	_
+10	shun	ADV	שון	$vN	_
+11	nit	NEG	ניט	nyt	_
+12	un	P	און	AvN	_
+13	dem	D	דעם	deM	_
+14	shlas	N	שלאַס	$lAas	_
+15	vas	C	װאַס	VAas	_
+16	oybin	ADV	אױבין	AWbyN	_
+17	iz	BEF	איז	Ayz	_
+18	gishtanin	VBN	גישטאַנין	gy$tAanyN	_
+
+SENT	1819E-PERL,106.168
+1	nar	CONJ	נאַר	nAar	_
+2	er	PRO	ער	er	_
+3	zal	MDF	ז"ל	z"l	_
+4	zukhin	VB	זוכין	zvxyN	_
+5	eyn	D	אײן	AYN	_
+6	gildinim	ADJ	גילדינים	gyldynyM	_
+7	barg	N	באַרג	bAarg	_
+8	mit	P	מיט	myt	_
+9	eyn	D	אײן	AYN	_
+10	perlinim	ADJ	פּערלינים	perlynyM	_
+11	shlas	N	שלאַס	$lAas	_
+
+SENT	1819E-PERL,106.169
+1	dart	ADV	דאַרט	dAart	_
+2-3	verstu	RDF~PRO	װערסטו	Verstv	_
+2	vers	RDF	װערס	Vers	_
+3	tu	PRO	טו	tv	_
+4	mikh	PRO	מיך	myX	_
+5	gifunin	VB	גיפֿונין	gyfvnyN	_
+
+SENT	1819E-PERL,106.170
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	ibr_gilazt	VBN	איבר_גילאַזט	Aybr_gylAazt	_
+4	dem	D	דעם	deM	_
+5	msrh	N	מסרה	msrh	_
+
+SENT	1819E-PERL,106.171
+1	un	CONJ	און	AvN	_
+2	iz	BEF	איז	Ayz	_
+3	shun	ADV	שון	$vN	_
+4	aleyn	ADV	אַלײן	AalYN	_
+5	gigangin	VBN	גיגאַנגין	gygAangyN	_
+6	zi	PRO	זי	zy	_
+7	zukhin	VB	זוכין	zvxyN	_
+
+SENT	1819E-PERL,106.172
+1	un	CONJ	און	AvN	_
+2	iz	BEF	איז	Ayz	_
+3	gigangin	VBN	גיגאַנגין	gygAangyN	_
+
+SENT	1819E-PERL,106.173
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	zi	PRO	זי	zy	_
+4	gizukht	VBN	גיזוכט	gyzvxt	_
+5	kmh	H	קמה	kmh	a_few
+6	snim	H	סנים	snyM	years
+
+SENT	1819E-PERL,106.174
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	zikh	PRO	זיך	zyX	_
+4	meysb	RP-H	מײסב	mYsb	_
+5	given	VBN	גיװען	gyVeN	_
+6	az	C	אַז	Aaz	_
+7	in	P	אין	AyN	_
+8	eysub	N	אײסוב	AYsvb	_
+9	gifunt	VBF	גיפֿונט	gyfvnt	_
+10	zikh	PRO	זיך	zyX	_
+11	bvdei	ADV	בװדעיִ	bVdeyi	_
+12	nit	NEG	ניט	nyt	_
+13	keyn	Q	קײן	kYN	_
+14	gildinir	ADJ	גילדיניר	gyldynyr	_
+15	barg	N	באַרג	bAarg	_
+16	un	CONJ	און	AvN	_
+17	ein	D	עיִן	eyiN	_
+18	perlinir	ADJ	פּערליניר	perlynyr	_
+19	shlas	N	שלאַס	$lAas	_
+
+SENT	1819E-PERL,106.175
+1	varin	CONJ	װאַרין	VAaryN	_
+2	er	PRO	ער	er	_
+3	iz	BEF	איז	Ayz	_
+4	gven	VBN	גװען	gVeN	_
+5	ginit	ADJ	גיניט	gynyt	_
+6	un	P	און	AvN	_
+7	di	D	די	dy	_
+8	krainikis	N	קראַיִניקיס	krAayinykys	_
+
+SENT	1819E-PERL,106.176
+1	el	H	על	el	on
+2	kn	H	קן	kN	yes
+3	vel	MDF	װעל	Vel	_
+4	ikh	PRO	איך	AyX	_
+5	geyn	VB	גײן	gYN	_
+6	in	P	אין	AyN	_
+7	mdbriut	N	מדבריִוט	mdbryivt	_
+8	dartin	ADV	דאַרטין	dAartyN	_
+9	zukhin	VB	זוכין	zvxyN	_
+
+SENT	1819E-PERL,106.177
+1	iz	BEF	איז	Ayz	_
+2	er	PRO	ער	er	_
+3	gigangin	VBN	גיגאַנגין	gygAangyN	_
+4	zi	PRO	זי	zy	_
+5	zukhin	VB	זוכין	zvxyN	_
+6	in	P	אין	AyN	_
+7	mdrbiut	N	מדרביִוט	mdrbyivt	_
+8	kmh	H	קמה	kmh	a_few
+9	ukmh	H	אוקמה	Avkmh	and_a_few
+10	snim	H	סנים	snyM	years
+
+SENT	1819E-PERL,106.178
+1	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+2	hat	HVF	האַט	hAat	_
+3	er	PRO	ער	er	_
+4	der_zehin	VBN	דער_זעהין	der_zehyN	_
+5	zeyer	ADV	זײער	zYer	_
+6	eyn	D	אײן	AYN	_
+7	grusin	ADJ	גרוסין	grvsyN	_
+8	mentsh	N	מענטש	ment$	_
+9	vas	C	װאַס	VAas	_
+10	di	D	די	dy	_
+11	groys	N	גרױס	grWs	_
+12	iz	BEF	איז	Ayz	_
+13	geven	VBN	געװען	geVeN	_
+14	nit	NEG	ניט	nyt	_
+15	mentshlikh	ADJ	מענטשליך	ment$lyX	_
+
+SENT	1819E-PERL,106.179
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	gitragin	VBN	גיטראַגין	gytrAagyN	_
+4	eyn	D	אײן	AYN	_
+5	grusin	ADJ	גרוסין	grvsyN	_
+6	boym	N	בױם	bWM	_
+7	vas	C	װאַס	VAas	_
+8	un	P	און	AvN	_
+9	isub	N	איסוב	Aysvb	_
+10	gufunt	VBF	גופֿונט	gvfvnt	_
+11	zikh	PRO	זיך	zyX	_
+12	nit	NEG	ניט	nyt	_
+13	zu	ADV	זו	zv	_
+14	eyn	D	אײן	AYN	_
+15	gruser	ADJ	גרוסער	grvser	_
+16	boym	N	בױם	bWM	_
+
+SENT	1819E-PERL,106.180
+1	der	D	דער	der	_
+2	mentsh	N	מענטש	ment$	_
+3	hat	HVF	האַט	hAat	_
+4	im	PRO	אים	AyM	_
+5	gifregt	VBN	גיפֿרעגט	gyfregt	_
+6	ver	WPRO	װער	Ver	_
+7-8	bistu	VBF~PRO	ביסטו	bystv	_
+7	bis	VBF	ביס	bys	_
+8	tu	PRO	טו	tv	_
+
+SENT	1819E-PERL,106.181
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	im	PRO	אים	AyM	_
+4	gienfirt	VBN	גיִענפֿירט	gyienfyrt	_
+5	ikh	PRO	איך	AyX	_
+6	bin	VBF	בין	byN	_
+7	eyn	D	אײן	AYN	_
+8	mentsh	N	מענטש	ment$	_
+
+SENT	1819E-PERL,106.182
+1	hat	HVF	האַט	hAat	_
+2	zikh	PRO	זיך	zyX	_
+3	der	D	דער	der	_
+4	grusir	ADJ	גרוסיר	grvsyr	_
+5	mentsh	N	מענטש	ment$	_
+6	fr_vindirt	VBN	פֿר_װינדירט	fr_Vyndyrt	_
+
+SENT	1819E-PERL,106.183
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	gizagt	VBN	גיזאַגט	gyzAagt	_
+4	ikh	PRO	איך	AyX	_
+5	bin	VBF	בין	byN	_
+6	shun	ADV	שון	$vN	_
+7	azu	ADV	אַזו	Aazv	_
+8	eyn	D	אײן	AYN	_
+9	langi	ADJ	לאַנגי	lAangy	_
+10	tseyt	N	צײט	qYt	_
+11	in	P	אין	AyN	_
+12	der	D	דער	der	_
+13	mdbr	N	מדבר	mdbr	_
+
+SENT	1819E-PERL,106.184
+1	hab	HVF	האַב	hAab	_
+2	ikh	PRO	איך	AyX	_
+3	keyn_mal	ADV	קײנ_מאַל	kYn_mAal	_
+4	da	ADV	דאַ	dAa	_
+5	nit	NEG	ניט	nyt	_
+6	gizehin	VBN	גיזעהין	gyzehyN	_
+7	keyn	Q	קײן	kYN	_
+8	mentsh	N	מענטש	ment$	_
+
+SENT	1819E-PERL,106.185
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	im	PRO	אים	AyM	_
+4	der_tseylt	VBN	דער_צײלט	der_qYlt	_
+5	di	D	די	dy	_
+6	gantsi	ADJ	גאַנצי	gAanqy	_
+7	mesh	N	מעש	me$	_
+8	un	CONJ	און	AvN	_
+9	az	C	אַז	Aaz	_
+10	er	PRO	ער	er	_
+11	zukht	VBF	זוכט	zvxt	_
+12	a	D	אַ	Aa	_
+13	gildinim	ADJ	גילדינים	gyldynyM	_
+14	barg	N	באַרג	bAarg	_
+15	un	CONJ	און	AvN	_
+16	a	D	אַ	Aa	_
+17	perlinim	ADJ	פּערלינים	perlynyM	_
+18	shlas	N	שלאַס	$lAas	_
+
+SENT	1819E-PERL,106.186
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	im	PRO	אים	AyM	_
+4	gienfrt	VBN	גיִענפֿרט	gyienfrt	_
+5	es	PRO	עס	es	_
+6	iz	VBF	איז	Ayz	_
+7	bvdai	ADV	בװדאַיִ	bVdAayi	_
+8	nit	NEG	ניט	nyt	_
+9	fr_handin	ADJ	פֿר_האַנדין	fr_hAandyN	_
+
+SENT	1819E-PERL,106.187
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	im	PRO	אים	AyM	_
+4	mdkhh	RP-H	מדכה	mdxh	_
+5	given	VBN	גיװען	gyVeN	_
+
+SENT	1819E-PERL,106.188
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	im	PRO	אים	AyM	_
+4	gizagt	VBN	גיזאַגט	gyzAagt	_
+5	men	PRO	מען	meN	_
+6	hat	HVF	האַט	hAat	_
+7	dir	PRO	דיר	dyr	_
+8	eyn	RP	אײן	AYN	_
+9	giret	VBN	גירעט	gyret	_
+10	eyn	D	אײן	AYN	_
+11	narishkeyt	N	נאַרישקײט	nAary$kYt	_
+
+SENT	1819E-PERL,106.189
+1	varin	CONJ	װאַרין	VAaryN	_
+2	es	PRO	עס	es	_
+3	gifunt	VBF	גיפֿונט	gyfvnt	_
+4	zikh	PRO	זיך	zyX	_
+5	budai	ADV	בודאַיִ	bvdAayi	_
+6	nit	NEG	ניט	nyt	_
+
+SENT	1819E-PERL,106.190
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	zeyer	ADV	זײער	zYer	_
+4-5	angihubin	RP~VBN	אַנגיהובין	AangyhvbyN	_
+4	an	RP	אַן	AaN	_
+5	gihubin	VBN	גיהובין	gyhvbyN	_
+6	tsu	TO	צו	qv	_
+7	veynin	VB	װײנין	VYnyN	_
+
+SENT	1819E-PERL,106.191
+1	heynu	ADV	הײנו	hYnv	_
+2	der	D	דער	der	_
+3	sni	H	סני	sny	second
+4	lmlkhes	H	למלכעס	lmlxes	to_kingship
+5	hat	HVF	האַט	hAat	_
+6	zeyer	ADV	זײער	zYer	_
+7	giveynt	VBN	גיװײנט	gyVYnt	_
+
+SENT	1819E-PERL,106.192
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	gizagt	VBN	גיזאַגט	gyzAagt	_
+4	es	PRO	עס	es	_
+5	gifunt	VBF	גיפֿונט	gyfvnt	_
+6	zikh	PRO	זיך	zyX	_
+7	budai	ADV	בודאַיִ	bvdAayi	_
+8	yu	ADV	יו	yv	_
+
+SENT	1819E-PERL,106.193
+1	es	PRO	עס	es	_
+2	muz	MDF	מוז	mvz	_
+3	zikh	PRO	זיך	zyX	_
+4	ergits	ADV	ערגיץ	ergyQ	_
+5	gifunin	VB	גיפֿונין	gyfvnyN	_
+
+SENT	1819E-PERL,106.194
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	hat	HVF	האַט	hAat	_
+4	im	PRO	אים	AyM	_
+5	mdkhh	RP-H	מדכה	mdxh	_
+6	gven	VBN	גװען	gVeN	_
+
+SENT	1819E-PERL,106.195
+1	heynu	ADV	הײנו	hYnv	_
+2	der	D	דער	der	_
+3	vildir	ADJ	װילדיר	Vyldyr	_
+4	mentsh	N	מענטש	ment$	_
+5	hat	HVF	האַט	hAat	_
+6	im	PRO	אים	AyM	_
+7	mdkhh	RP-H	מדכה	mdxh	_
+8	given	VBN	גיװען	gyVeN	_
+
+SENT	1819E-PERL,106.196
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	im	PRO	אים	AyM	_
+4	gizagt	VBN	גיזאַגט	gyzAagt	_
+5	men	PRO	מען	meN	_
+6	hat	HVF	האַט	hAat	_
+7	dir	PRO	דיר	dyr	_
+8	eyn	D	אײן	AYN	_
+9	narishkeyt	N	נאַרישקײט	nAary$kYt	_
+10	eyn	RP	אײן	AYN	_
+11	giret	VBN	גירעט	gyret	_
+
+SENT	1819E-PERL,106.197
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	hat	HVF	האַט	hAat	_
+4	gizagt	VBN	גיזאַגט	gyzAagt	_
+5	der	D	דער	der	_
+6	sni	H	סני	sny	second
+7	lmlkhes	H	למלכעס	lmlxes	to_kingship
+8	es	PRO	עס	es	_
+9	iz	VBF	איז	Ayz	_
+10	bvday	ADV	בװדײַ	bVdYa	_
+11	fr_handin	ADJ	פֿר_האַנדין	fr_hAandyN	_
+12	ergits	ADV	ערגיץ	ergyQ	_
+
+SENT	1819E-PERL,106.198
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	im	PRO	אים	AyM	_
+4	gizagt	VBN	גיזאַגט	gyzAagt	_
+5	der	D	דער	der	_
+6	vildr	ADJ	װילדר	Vyldr	_
+7	mentsh	N	מענטש	ment$	_
+8-9	tsum	P~D	צום	qvM	_
+8	tsu	P	צו	qv	_
+9	m	D	מ	m	_
+10	sni	H	סני	sny	second
+11	lmlkhes	H	למלכעס	lmlxes	to_kingship
+12	nakh	P	נ"ך	n"X	_
+13	meyn	PRO$	מײן	mYN	_
+14	rieh	N	ריִעה	ryieh	_
+15	nakh	P	נ"ך	n"X	_
+16	muz	MDF	מוז	mvz	_
+17	das	D	דת	dS	_
+18	eyn	D	אײן	AYN	_
+19	narishkeyt	N	נאַרישקײט	nAary$kYt	_
+
+SENT	1819E-PERL,106.199
+1	nar	CONJ	נאַר	nAar	_
+2	veyl	C	װײל	VYl	_
+3	du	PRO	דו	dv	_
+4	sparst	VBF	ספּאַרסט	spAarst	_
+5	zikh	PRO	זיך	zyX	_
+6	bkn	C	בקן	bkN	_
+7	ikh	PRO	איך	AyX	_
+8	bin	VBF	בין	byN	_
+9	eyn	D	אײן	AYN	_
+10	mmunh	N	ממונה	mmvnh	_
+11	ibr	P	איבר	Aybr	_
+12	ali	Q	אַלי	Aaly	_
+13	khies	N	חיות	HyvS	_
+14	vel	MDF	װעל	Vel	_
+15	ikh	PRO	איך	AyX	_
+16	dir	PRO	דיר	dyr	_
+17	tsu_lib	P	צו_ליב	qv_lyb	_
+18	tan	VB	טאַן	tAaN	_
+
+SENT	1819E-PERL,106.200
+1	un	CONJ	און	AvN	_
+2	vel	MDF	װעל	Vel	_
+3	tsum	ADV	צום	qvM	_
+4	oyf	RP	אױף	AWF	_
+5	rufin	VB	רופֿין	rvfyN	_
+6	ali	Q	אַלי	Aaly	_
+7	khiut	N	כיִוט	xyivt	_
+
+SENT	1819E-PERL,106.201
+1	zey	PRO	זײ	zY	_
+2	loyfn	VBF	לױפֿן	lWfN	_
+3	oys	RP	אױס	AWs	_
+4	gar	ADV	גאַר	gAar	_
+5	di	D	די	dy	_
+6	velt	N	װעלט	Velt	_
+
+SENT	1819E-PERL,106.202
+1	tomir	ADV	טאָמיר	tAomyr	_
+2	vet	MDF	װעט	Vet	_
+3	visin	VB	װיסין	VysyN	_
+4	eyni	PRO	אײני	AYny	_
+5	fun	P	פֿון	fvN	_
+6	zey	PRO	זײ	zY	_
+7	fun	P	פֿון	fvN	_
+8	dem	D	דעם	deM	_
+9	berg	N	בערג	berg	_
+10	mit	P	מיט	myt	_
+11	dem	D	דעם	deM	_
+12	shlas	N	שלאַס	$lAas	_
+13	hn"l	H	הנ"ל	hn"l	aforesaid
+
+SENT	1819E-PERL,106.203
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	tsum	ADV	צום	qvM	_
+4	oyf	RP	אױף	AWF	_
+5	girufin	VBN	גירופֿין	gyrvfyN	_
+6	ali	Q	אַלי	Aaly	_
+7	khiut	N	כיִוט	xyivt	_
+8	fun	P	פֿון	fvN	_
+9	kleyn	ADJ	קלײן	klYN	_
+10	biz	P	ביז	byz	_
+11	grus	ADJ	גרוס	grvs	_
+
+SENT	1819E-PERL,106.204
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	zey	PRO	זײ	zY	_
+4	gifregt	VBN	גיפֿרעגט	gyfregt	_
+
+SENT	1819E-PERL,106.205
+1	habin	HVF	האַבין	hAabyN	_
+2	zey	PRO	זײ	zY	_
+3	ali	Q	אַלי	Aaly	_
+4	gienfrt	VBN	גיִענפֿרט	gyienfrt	_
+5	zey	PRO	זײ	zY	_
+6	habn	HVF	האַבן	hAabN	_
+7	nit	NEG	ניט	nyt	_
+8	gizehin	VBN	גיזעהין	gyzehyN	_
+
+SENT	1819E-PERL,106.206
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	im	PRO	אים	AyM	_
+4	gizagt	VBN	גיזאַגט	gyzAagt	_
+5-6	zestu	VBF~PRO	זעסטו	zestv	_
+5	zes	VBF	זעס	zes	_
+6	tu	PRO	טו	tv	_
+
+SENT	1819E-PERL,106.207
+1	men	PRO	מען	meN	_
+2	hat	HVF	האַט	hAat	_
+3	dir	PRO	דיר	dyr	_
+4	eyn	D	אײן	AYN	_
+5	narishkeyt	N	נאַרישקײט	nAary$kYt	_
+6	eyn	RP	אײן	AYN	_
+7	giret	VBN	גירעט	gyret	_
+
+SENT	1819E-PERL,107.208
+1	az	C	אַז	Aaz	_
+2	du	PRO	דו	dv	_
+3	vilst	MDF	װילסט	Vylst	_
+4	mikh	PRO	מיך	myX	_
+5	falgin	VB	פֿאַלגין	fAalgyN	_
+6	ker	VBI	קער	ker	_
+7	dikh	PRO	דיך	dyX	_
+8	um	RP	אום	AvM	_
+
+SENT	1819E-PERL,107.209
+1	varin	CONJ	װאַרין	VAaryN	_
+2	du	PRO	דו	dv	_
+3	vest	MDF	װעסט	Vest	_
+4	bvdai	ADV	בװדאַיִ	bVdAayi	_
+5	nit	NEG	ניט	nyt	_
+6	gifunin	VB	גיפֿונין	gyfvnyN	_
+
+SENT	1819E-PERL,107.210
+1	varin	CONJ	װאַרין	VAaryN	_
+2	es	PRO	עס	es	_
+3	iz	VBF	איז	Ayz	_
+4	nit	NEG	ניט	nyt	_
+5	a	ADV	אַ	Aa	_
+6	uf	P	אוף	AvF	_
+7	der	D	דער	der	_
+8	velt	N	װעלט	Velt	_
+
+SENT	1819E-PERL,107.211
+1	un	CONJ	און	AvN	_
+2	dr	D	דר	dr	_
+3	sni	H	סני	sny	second
+4	lmlkhut	H	למלכוט	lmlxvt	to_kingship
+5	hat	HVF	האַט	hAat	_
+6	zikh	PRO	זיך	zyX	_
+7	zeyer	ADV	זײער	zYer	_
+8	gispart	VBN	גיספּאַרט	gyspAart	_
+
+SENT	1819E-PERL,107.212
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	gizagt	VBN	גיזאַגט	gyzAagt	_
+4	es	PRO	עס	es	_
+5	muz	MDF	מוז	mvz	_
+6	bvdai	ADV	בװדאַיִ	bVdAayi	_
+7	yu	ADV	יו	yv	_
+8	zeyn	VB	זײן	zYN	_
+
+SENT	1819E-PERL,107.213
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	im	PRO	אים	AyM	_
+4	gizagt	VBN	גיזאַגט	gyzAagt	_
+5	der	D	דער	der	_
+6	vildir	ADJ	װילדיר	Vyldyr	_
+7	ments	N	מענץ	menQ	_
+8	tsu	P	צו	qv	_
+9	sni	H	סני	sny	second
+10	lmlkhes	H	למלכעס	lmlxes	to_kingship
+11	ikh	PRO	איך	AyX	_
+12	hab	VBF	האַב	hAab	_
+13	eyn	D	אײן	AYN	_
+14	brudir	N	ברודיר	brvdyr	_
+15	un	P	און	AvN	_
+16	der	D	דער	der	_
+17	mdbr	N	מדבר	mdbr	_
+
+SENT	1819E-PERL,107.214
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	iz	VBF	איז	Ayz	_
+4	eyn	D	אײן	AYN	_
+5	mmunh	N	ממונה	mmvnh	_
+6	ibr	P	איבר	Aybr	_
+7	ali	Q	אַלי	Aaly	_
+8	oyfes	N	עופֿות	evfvS	_
+
+SENT	1819E-PERL,107.215
+1	tomir	ADV	טאָמיר	tAomyr	_
+2	veysin	VBF	װײסין	VYsyN	_
+3	zey	PRO	זײ	zY	_
+4	mkhms	ADV	מכמס	mxms	_
+5	zey	PRO	זײ	zY	_
+6	fliain	VBF	פֿליִאַין	flyiAayN	_
+7	hoykh	ADV	הױך	hWX	_
+8	un	P	און	AvN	_
+9	dem	D	דעם	deM	_
+10	oyr	N	אור	Avr	_
+
+SENT	1819E-PERL,107.216
+1	tomir	ADV	טאָמיר	tAomyr	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zey	PRO	זײ	zY	_
+4	gizehin	VBN	גיזעהין	gyzehyN	_
+5	dem	D	דעם	deM	_
+6	barg	N	באַרג	bAarg	_
+7	mit	P	מיט	myt	_
+8	dem	D	דעם	deM	_
+9	shlas	N	שלאַס	$lAas	_
+
+SENT	1819E-PERL,107.217
+1-2	zalstu	MDF~PRO	זאַלסטו	zAalstv	_
+1	zals	MDF	זאַלס	zAals	_
+2	tu	PRO	טו	tv	_
+3	geyn	VB	גײן	gYN	_
+4	tsu	P	צו	qv	_
+5	im	PRO	אים	AyM	_
+
+SENT	1819E-PERL,107.218
+1	un	CONJ	און	AvN	_
+2	zalst	MDF	זאַלסט	zAalst	_
+3	im	PRO	אים	AyM	_
+4	zagin	VB	זאַגין	zAagyN	_
+5	az	C	אַז	Aaz	_
+6	ikh	PRO	איך	AyX	_
+7	hab	HVF	האַב	hAab	_
+8	dikh	PRO	דיך	dyX	_
+9	gishikt	VBN	גישיקט	gy$ykt	_
+10	tsu	P	צו	qv	_
+11	im	PRO	אים	AyM	_
+
+SENT	1819E-PERL,107.219
+1	iz	BEF	איז	Ayz	_
+2	er	PRO	ער	er	_
+3	gigangin	VBN	גיגאַנגין	gygAangyN	_
+4	kmh	H	קמה	kmh	a_few
+5	ukmh	H	אוקמה	Avkmh	and_a_few
+6	snim	H	סנים	snyM	years
+7	im	PRO	אים	AyM	_
+8	zukhin	VB	זוכין	zvxyN	_
+
+SENT	1819E-PERL,107.220
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	vidir	ADV	װידיר	Vydyr	_
+4	gifunin	VBN	גיפֿונין	gyfvnyN	_
+5	zeyer	ADV	זײער	zYer	_
+6	eyn	D	אײן	AYN	_
+7	grusin	ADJ	גרוסין	grvsyN	_
+8	mentsh	N	מענטש	ment$	_
+9	khn"l	H	כנ"ל	xn"l	as_is_mentioned_before
+
+SENT	1819E-PERL,107.221
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	oykh	ADV	אױך	AWX	_
+4	gitragin	VBN	גיטראַגין	gytrAagyN	_
+5	eyn	D	אײן	AYN	_
+6	grusin	ADJ	גרוסין	grvsyN	_
+7	boym	N	בױם	bWM	_
+
+SENT	1819E-PERL,107.222
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	im	PRO	אים	AyM	_
+4	oykh	ADV	אױך	AWX	_
+5	azu	ADV	אַזו	Aazv	_
+6	gifregt	VBN	גיפֿרעגט	gyfregt	_
+7	vi	P	װי	Vy	_
+8	dr	D	דר	dr	_
+9	erstir	ADJ	ערסטיר	erstyr	_
+
+SENT	1819E-PERL,107.223
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	im	PRO	אים	AyM	_
+4	gienfrt	VBN	גיִענפֿרט	gyienfrt	_
+5	di	D	די	dy	_
+6	gantsi	ADJ	גאַנצי	gAanqy	_
+7	mesh	N	מעש	me$	_
+8	un	CONJ	און	AvN	_
+9	az	C	אַז	Aaz	_
+10	dr	D	דר	dr	_
+11	bruder	N	ברודער	brvder	_
+12	hat	HVF	האַט	hAat	_
+13	im	PRO	אים	AyM	_
+14	gishikt	VBN	גישיקט	gy$ykt	_
+15	tsu	P	צו	qv	_
+16	im	PRO	אים	AyM	_
+
+SENT	1819E-PERL,107.224
+1	er	PRO	ער	er	_
+2	hat	HVF	האַט	hAat	_
+3	im	PRO	אים	AyM	_
+4	oykh	ADV	אױך	AWX	_
+5	mdkhh	RP-H	מדכה	mdxh	_
+6	given	VBN	גיװען	gyVeN	_
+7	bansher	C	באשר	bA$r	_
+8	es	PRO	עס	es	_
+9	gifunt	VBF	גיפֿונט	gyfvnt	_
+10	zikh	PRO	זיך	zyX	_
+11	bvday	ADV	בװדײַ	bVdYa	_
+12	nit	NEG	ניט	nyt	_
+
+SENT	1819E-PERL,107.225
+1	un	CONJ	און	AvN	_
+2	dr	D	דר	dr	_
+3	sni	H	סני	sny	second
+4	lmlkhut	H	למלכוט	lmlxvt	to_kingship
+5	hat	HVF	האַט	hAat	_
+6	im	PRO	אים	AyM	_
+7	oykh	ADV	אױך	AWX	_
+8	zeyer	ADV	זײער	zYer	_
+9	mptsir	RP-H	מפּציר	mpqyr	_
+10	given	VBN	גיװען	gyVeN	_
+11	es	PRO	עס	es	_
+12	iz	VBF	איז	Ayz	_
+13	bvday	ADV	בװדײַ	bVdYa	_
+14	yu	ADV	יו	yv	_
+15	da	ADV	דאַ	dAa	_
+
+SENT	1819E-PERL,107.226
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	im	PRO	אים	AyM	_
+4	gizagt	VBN	גיזאַגט	gyzAagt	_
+5	ikh	PRO	איך	AyX	_
+6	bin	VBF	בין	byN	_
+7	eyn	D	אײן	AYN	_
+8	mmunh	N	ממונה	mmvnh	_
+9	ibr	P	איבר	Aybr	_
+10	ali	Q	אַלי	Aaly	_
+11	oyfes	N	עופֿות	evfvS	_
+
+SENT	1819E-PERL,107.227
+1	vel	MDF	װעל	Vel	_
+2	ikh	PRO	איך	AyX	_
+3	zi	PRO	זי	zy	_
+4	rufin	VB	רופֿין	rvfyN	_
+
+SENT	1819E-PERL,107.228
+1	tomir	ADV	טאָמיר	tAomyr	_
+2	veysin	VBF	װײסין	VYsyN	_
+3	zey	PRO	זײ	zY	_
+
+SENT	1819E-PERL,107.229
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	tsum	ADV	צום	qvM	_
+4	oyf	RP	אױף	AWF	_
+5	girufin	VBN	גירופֿין	gyrvfyN	_
+6	ali	Q	אַלי	Aaly	_
+7	oyfes	N	עופֿות	evfvS	_
+
+SENT	1819E-PERL,107.230
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	ali	Q	אַלי	Aaly	_
+4	gifregt	VBN	גיפֿרעגט	gyfregt	_
+5	fun	P	פֿון	fvN	_
+6	kleyn	ADJ	קלײן	klYN	_
+7	biz	P	ביז	byz	_
+8	grus	ADJ	גרוס	grvs	_
+
+SENT	1819E-PERL,107.231
+1	habin	HVF	האַבין	hAabyN	_
+2	zey	PRO	זײ	zY	_
+3	im	PRO	אים	AyM	_
+4	gienfrt	VBN	גיִענפֿרט	gyienfrt	_
+5	zey	PRO	זײ	zY	_
+6	veysin	VBF	װײסין	VYsyN	_
+7	nit	NEG	ניט	nyt	_
+8	fun	P	פֿון	fvN	_
+9	dem	D	דעם	deM	_
+10	barg	N	באַרג	bAarg	_
+11	mit	P	מיט	myt	_
+12	dem	D	דעם	deM	_
+13	shlas	N	שלאַס	$lAas	_
+
+SENT	1819E-PERL,107.232
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	im	PRO	אים	AyM	_
+4	gizagt	VBN	גיזאַגט	gyzAagt	_
+5	zest	VBF	זעסט	zest	_
+
+SENT	1819E-PERL,107.233
+1	es	PRO	עס	es	_
+2	iz	VBF	איז	Ayz	_
+3	bvday	ADV	בװדײַ	bVdYa	_
+4	nit	NEG	ניט	nyt	_
+5	da	ADV	דאַ	dAa	_
+6	uf	P	אוף	AvF	_
+7	dr	D	דר	dr	_
+8	velt	N	װעלט	Velt	_
+
+SENT	1819E-PERL,107.234
+1	az	C	אַז	Aaz	_
+2	du	PRO	דו	dv	_
+3	vilst	MDF	װילסט	Vylst	_
+4	mikh	PRO	מיך	myX	_
+5	falgin	VB	פֿאַלגין	fAalgyN	_
+6	ker	VBI	קער	ker	_
+7	dikh	PRO	דיך	dyX	_
+8	um	RP	אום	AvM	_
+
+SENT	1819E-PERL,107.235
+1	varin	CONJ	װאַרין	VAaryN	_
+2	es	PRO	עס	es	_
+3	iz	VBF	איז	Ayz	_
+4	bvdai	ADV	בװדאַיִ	bVdAayi	_
+5	nit	NEG	ניט	nyt	_
+6	da	ADV	דאַ	dAa	_
+7	oyf	P	אױף	AWF	_
+8	der	D	דער	der	_
+9	velt	N	װעלט	Velt	_
+
+SENT	1819E-PERL,107.236
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	der	D	דער	der	_
+4	sni	H	סני	sny	second
+5	lmlkhes	H	למלכעס	lmlxes	to_kingship
+6	hat	HVF	האַט	hAat	_
+7	zikh	PRO	זיך	zyX	_
+8	zeyer	ADV	זײער	zYer	_
+9	gispart	VBN	גיספּאַרט	gyspAart	_
+
+SENT	1819E-PERL,107.237
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	gizagt	VBN	גיזאַגט	gyzAagt	_
+4	es	PRO	עס	es	_
+5	iz	VBF	איז	Ayz	_
+6	bvdai	ADV	בװדאַיִ	bVdAayi	_
+7	yu	ADV	יו	yv	_
+8	da	ADV	דאַ	dAa	_
+9	oyf	P	אױף	AWF	_
+10	der	D	דער	der	_
+11	velt	N	װעלט	Velt	_
+
+SENT	1819E-PERL,107.238
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	im	PRO	אים	AyM	_
+4	gizagt	VBN	גיזאַגט	gyzAagt	_
+5	veyter	ADV	װײטער	VYter	_
+6	un	P	און	AvN	_
+7	der	D	דער	der	_
+8	mdbr	N	מדבר	mdbr	_
+9	gifunt	VBF	גיפֿונט	gyfvnt	_
+10	zikh	PRO	זיך	zyX	_
+11	dart	ADV	דאַרט	dAart	_
+12	meyn	PRO$	מײן	mYN	_
+13	brudir	N	ברודיר	brvdyr	_
+
+SENT	1819E-PERL,107.239
+1	er	PRO	ער	er	_
+2	iz	VBF	איז	Ayz	_
+3	eyn	D	אײן	AYN	_
+4	mmunh	N	ממונה	mmvnh	_
+5	ibr	P	איבר	Aybr	_
+6	ali	Q	אַלי	Aaly	_
+7	vintin	N	װינטין	VyntyN	_
+
+SENT	1819E-PERL,107.240
+1	un	CONJ	און	AvN	_
+2	zey	PRO	זײ	zY	_
+3	loyfin	VBF	לױפֿין	lWfyN	_
+4	oys	RP	אױס	AWs	_
+5	gar	ADV	גאַר	gAar	_
+6	di	D	די	dy	_
+7	velt	N	װעלט	Velt	_
+
+SENT	1819E-PERL,107.241
+1	tomir	ADV	טאָמיר	tAomyr	_
+2	veysin	VBF	װײסין	VYsyN	_
+3	zey	PRO	זײ	zY	_
+
+SENT	1819E-PERL,107.242
+1	iz	BEF	איז	Ayz	_
+2	er	PRO	ער	er	_
+3	gigangin	VBN	גיגאַנגין	gygAangyN	_
+4	kmh	H	קמה	kmh	a_few
+5	ukmh	H	אוקמה	Avkmh	and_a_few
+6	snim	H	סנים	snyM	years
+7	zukhin	VB	זוכין	zvxyN	_
+
+SENT	1819E-PERL,107.243
+1	ht	HVF	הט	ht	_
+2	er	PRO	ער	er	_
+3	vidr	ADV	װידר	Vydr	_
+4	gifunin	VBN	גיפֿונין	gyfvnyN	_
+5	eyn	D	אײן	AYN	_
+6	grusin	ADJ	גרוסין	grvsyN	_
+7	mentshn	N	מענטשן	ment$N	_
+8	khn"l	H	כנ"ל	xn"l	as_is_mentioned_before
+
+SENT	1819E-PERL,107.244
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	oykh	ADV	אױך	AWX	_
+4	gtragin	VBN	גטראַגין	gtrAagyN	_
+5	eyn	D	אײן	AYN	_
+6	grusin	ADJ	גרוסין	grvsyN	_
+7	boym	N	בױם	bWM	_
+
+SENT	1819E-PERL,107.245
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	im	PRO	אים	AyM	_
+4	oykh	ADV	אױך	AWX	_
+5	gifregt	VBN	גיפֿרעגט	gyfregt	_
+6	khn"l	H	כנ"ל	xn"l	as_is_mentioned_before
+
+SENT	1819E-PERL,107.246
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	im	PRO	אים	AyM	_
+4	oykh	ADV	אױך	AWX	_
+5	gienfrt	VBN	גיִענפֿרט	gyienfrt	_
+6	di	D	די	dy	_
+7	gantsi	ADJ	גאַנצי	gAanqy	_
+8	mesh	N	מעש	me$	_
+9	khn"l	H	כנ"ל	xn"l	as_is_mentioned_before
+
+SENT	1819E-PERL,107.247
+1	hat	HVF	האַט	hAat	_
+2	im	PRO	אים	AyM	_
+3	der	D	דער	der	_
+4	mensh	N	מענש	men$	_
+5	oykh	ADV	אױך	AWX	_
+6	mdkhh	RP-H	מדכה	mdxh	_
+7	given	VBN	גיװען	gyVeN	_
+
+SENT	1819E-PERL,107.248
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	sni	H	סני	sny	second
+4	lmlkhut	H	למלכוט	lmlxvt	to_kingship
+5	hat	HVF	האַט	hAat	_
+6	im	PRO	אים	AyM	_
+7	zeyer	ADV	זײער	zYer	_
+8	gibetin	VBN	גיבעטין	gybetyN	_
+
+SENT	1819E-PERL,108.249
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	im	PRO	אים	AyM	_
+4	gzagt	VBN	גזאַגט	gzAagt	_
+5	er	PRO	ער	er	_
+6	vet	MDF	װעט	Vet	_
+7	im	PRO	אים	AyM	_
+8	tsu_lib	P	צו_ליב	qv_lyb	_
+9	tan	VB	טאַן	tAaN	_
+
+SENT	1819E-PERL,108.250
+1	un	CONJ	און	AvN	_
+2	vet	MDF	װעט	Vet	_
+3	fun	P	פֿון	fvN	_
+4	zeynit	PRO$	זײניט	zYnyt	_
+5	vegn	N	װעגן	VegN	_
+6	tsum	ADV	צום	qvM	_
+7	oyf	RP	אױף	AWF	_
+8	rufin	VB	רופֿין	rvfyN	_
+9	ali	Q	אַלי	Aaly	_
+10	vintn	N	װינטן	VyntN	_
+
+SENT	1819E-PERL,108.251
+1	un	CONJ	און	AvN	_
+2	vet	MDF	װעט	Vet	_
+3	zey	PRO	זײ	zY	_
+4	fregn	VB	פֿרעגן	fregN	_
+
+SENT	1819E-PERL,108.252
+1	ht	HVF	הט	ht	_
+2	er	PRO	ער	er	_
+3	zey	PRO	זײ	zY	_
+4	grufin	VBN	גרופֿין	grvfyN	_
+
+SENT	1819E-PERL,108.253
+1	zenin	BEF	זענין	zenyN	_
+2	gikumin	VBN	גיקומין	gykvmyN	_
+3	ali	Q	אַלי	Aaly	_
+4	vintn	N	װינטן	VyntN	_
+
+SENT	1819E-PERL,108.254
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	ali	Q	אַלי	Aaly	_
+4	gifregt	VBN	גיפֿרעגט	gyfregt	_
+
+SENT	1819E-PERL,108.255
+1	habn	HVF	האַבן	hAabN	_
+2	zey	PRO	זײ	zY	_
+3	keynir	Q	קײניר	kYnyr	_
+4	nit	NEG	ניט	nyt	_
+5	givist	VBN	גיװיסט	gyVyst	_
+6	fun	P	פֿון	fvN	_
+7	dem	D	דעם	deM	_
+8	barg	N	באַרג	bAarg	_
+9	mit	P	מיט	myt	_
+10	dem	D	דעם	deM	_
+11	shlas	N	שלאַס	$lAas	_
+
+SENT	1819E-PERL,108.256
+1	ht	HVF	הט	ht	_
+2	er	PRO	ער	er	_
+3	im	PRO	אים	AyM	_
+4	gizagt	VBN	גיזאַגט	gyzAagt	_
+5	der	D	דער	der	_
+6	mentsh	N	מענטש	ment$	_
+7-8	tsum	P~D	צום	qvM	_
+7	tsu	P	צו	qv	_
+8	m	D	מ	m	_
+9	sni	H	סני	sny	second
+10	lmlkhes	H	למלכעס	lmlxes	to_kingship
+11-12	zestu	VBF~PRO	זעסטו	zestv	_
+11	zes	VBF	זעס	zes	_
+12	tu	PRO	טו	tv	_
+13	az	C	אַז	Aaz	_
+14	men	PRO	מען	meN	_
+15	hat	HVF	האַט	hAat	_
+16	dir	PRO	דיר	dyr	_
+17	eyn	D	אײן	AYN	_
+18	narishkeyt	N	נאַרישקײט	nAary$kYt	_
+19	dr_tseylt	VBN	דר_צײלט	dr_qYlt	_
+
+SENT	1819E-PERL,108.257
+1	ht	HVF	הט	ht	_
+2	an	RP	אַן	AaN	_
+3	gihubin	VBN	גיהובין	gyhvbyN	_
+4	dr	D	דר	dr	_
+5	sni	H	סני	sny	second
+6	lmlkhut	H	למלכוט	lmlxvt	to_kingship
+7	zeyer	ADV	זײער	zYer	_
+8	tsu	TO	צו	qv	_
+9	veynn	VB	װײנן	VYnN	_
+
+SENT	1819E-PERL,108.258
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	gizagt	VBN	גיזאַגט	gyzAagt	_
+4	ikh	PRO	איך	AyX	_
+5	veys	VBF	װײס	VYs	_
+6	es	PRO	עס	es	_
+7	iz	VBF	איז	Ayz	_
+8	bvday	ADV	בװדײַ	bVdYa	_
+9	yu	ADV	יו	yv	_
+10	da	ADV	דאַ	dAa	_
+
+SENT	1819E-PERL,108.259
+1	dr_veyl	ADV	דר_װײל	dr_VYl	_
+2	hat	HVF	האַט	hAat	_
+3	er	PRO	ער	er	_
+4	gizehin	VBN	גיזעהין	gyzehyN	_
+5	az	C	אַז	Aaz	_
+6	es	ES	עס	es	_
+7	iz	BEF	איז	Ayz	_
+8-9	angikumin	RP~VBN	אַנגיקומין	AangykvmyN	_
+8	an	RP	אַן	AaN	_
+9	gikumin	VBN	גיקומין	gykvmyN	_
+10	nakh	ADV	נ"ך	n"X	_
+11	eyn	D	אײן	AYN	_
+12	vint	N	װינט	Vynt	_
+
+SENT	1819E-PERL,108.260
+1	hat	HVF	האַט	hAat	_
+2	zikh	PRO	זיך	zyX	_
+3	der	D	דער	der	_
+4	mmunh	N	ממונה	mmvnh	_
+5	uf	P	אוף	AvF	_
+6	im	PRO	אים	AyM	_
+7	gibeyzirt	VBN	גיבײזירט	gybYzyrt	_
+8	vas	WPRO	װאַס	VAas	_
+9-10	hastu	HVF~PRO	האַסטו	hAastv	_
+9	has	HVF	האַס	hAas	_
+10	tu	PRO	טו	tv	_
+11	zikh	PRO	זיך	zyX	_
+12	azu	ADV	אַזו	Aazv	_
+13	fr_spetikt	VBN	פֿר_ספּעטיקט	fr_spetykt	_
+14	tsu	TO	צו	qv	_
+15	kumin	VB	קומין	kvmyN	_
+
+SENT	1819E-PERL,108.261
+1	ikh	PRO	איך	AyX	_
+2	hab	HVF	האַב	hAab	_
+3	dekh_guzr	RP-H	דעכ_גוזר	dex_gvzr	_
+4	given	VBN	גיװען	gyVeN	_
+5	az	C	אַז	Aaz	_
+6	es	ES	עס	es	_
+7	zalin	MDF	זאַלין	zAalyN	_
+8	kumin	VB	קומין	kvmyN	_
+9	ali	Q	אַלי	Aaly	_
+10	vintin	N	װינטין	VyntyN	_
+
+SENT	1819E-PERL,108.262
+1	fr	P	פֿר	fr	_
+2	vas	WPRO	װאַס	VAas	_
+3-4	bistu	BEF~PRO	ביסטו	bystv	_
+3	bis	BEF	ביס	bys	_
+4	tu	PRO	טו	tv	_
+5	nit	NEG	ניט	nyt	_
+6	gikumin	VBN	גיקומין	gykvmyN	_
+7	mit	P	מיט	myt	_
+8	zey	PRO	זײ	zY	_
+
+SENT	1819E-PERL,108.263
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	im	PRO	אים	AyM	_
+4	gienfirt	VBN	גיִענפֿירט	gyienfyrt	_
+5	ikh	PRO	איך	AyX	_
+6	hab	HVF	האַב	hAab	_
+7	mikh	PRO	מיך	myX	_
+8	fr_zamt	VBN	פֿר_זאַמט	fr_zAamt	_
+9	mkhmt	ADV	מכמט	mxmt	_
+10	ikh	PRO	איך	AyX	_
+11	hab	HVF	האַב	hAab	_
+12	bdarft	MDN	בדאַרפֿט	bdAarft	_
+13	ap	RP	אַפּ	Aap	_
+14	tragin	VB	טראַגין	trAagyN	_
+15	eyn	D	אײן	AYN	_
+16	bt	H	בט	bt	daughter
+17	mlkh	H	מלך	mlX	king
+18	tsu	P	צו	qv	_
+19	eyn	D	אײן	AYN	_
+20	gildinim	ADJ	גילדינים	gyldynyM	_
+21	barg	N	באַרג	bAarg	_
+22	mit	P	מיט	myt	_
+23	eyn	D	אײן	AYN	_
+24	perlinim	ADJ	פּערלינים	perlynyM	_
+25	shlas	N	שלאַס	$lAas	_
+
+SENT	1819E-PERL,108.264
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	zikh	PRO	זיך	zyX	_
+4	zeyer	ADV	זײער	zYer	_
+5	der_freyt	VBN	דער_פֿרײט	der_frYt	_
+
+SENT	1819E-PERL,108.265
+1	heynu	ADV	הײנו	hYnv	_
+2	der	D	דער	der	_
+3	sni	H	סני	sny	second
+4	lmlkhut	H	למלכוט	lmlxvt	to_kingship
+5	hat	HVF	האַט	hAat	_
+6	zikh	PRO	זיך	zyX	_
+7	zeyer	ADV	זײער	zYer	_
+8	der_freyt	VBN	דער_פֿרײט	der_frYt	_
+9	vas	C	װאַס	VAas	_
+10	er	PRO	ער	er	_
+11	hat	HVF	האַט	hAat	_
+12	shun	ADV	שון	$vN	_
+13	zoykhe	RP-H	זוכה	zvxh	_
+14	gevehin	VBN	געװעהין	geVehyN	_
+15	tsu	TO	צו	qv	_
+16	herin	VB	הערין	heryN	_
+17	das	D	דת	dS	_
+18	vas	C	װאַס	VAas	_
+19	er	PRO	ער	er	_
+20	vil	MDF	װיל	Vyl	_
+
+SENT	1819E-PERL,108.266
+1	hat	HVF	האַט	hAat	_
+2	gifregt	VBN	גיפֿרעגט	gyfregt	_
+3	der	D	דער	der	_
+4	mmunh	N	ממונה	mmvnh	_
+5	ibr	P	איבר	Aybr	_
+6	vintin	N	װינטין	VyntyN	_
+7	dem	D	דעם	deM	_
+8	vint	N	װינט	Vynt	_
+9	vas	WPRO	װאַס	VAas	_
+10	iz	VBF	איז	Ayz	_
+11	dartin	ADV	דאַרטין	dAartyN	_
+12	toyar	ADJ	טױאַר	tWAar	_
+
+SENT	1819E-PERL,108.267
+1	hat	HVF	האַט	hAat	_
+2	er	PRO	ער	er	_
+3	im	PRO	אים	AyM	_
+4	gizagt	VBN	גיזאַגט	gyzAagt	_
+5	dort	ADV	דאָרט	dAort	_
+6	iz	VBF	איז	Ayz	_
+7	aldung	Q	אַלדונג	Aaldvng	_
+8	toyair	ADJ	טױאַיִר	tWAayir	_
+
+SENT	1819E-PERL,108.268
+1	hat	HVF	האַט	hAat	_
+2	zikh	PRO	זיך	zyX	_
+3	an	RP	אַן	AaN	_
+4	girufin	VBN	גירופֿין	gyrvfyN	_
+5	dr	D	דר	dr	_
+6	mmunh	N	ממונה	mmvnh	_
+7	ibr	P	איבר	Aybr	_
+8	vintin	N	װינטין	VyntyN	_
+
+SENT	1819E-PERL,108.269
+1	un	CONJ	און	AvN	_
+2	ht	HVF	הט	ht	_
+3	gizagt	VBN	גיזאַגט	gyzAagt	_
+4-5	tsum	P~D	צום	qvM	_
+4	tsu	P	צו	qv	_
+5	m	D	מ	m	_
+6	sni	H	סני	sny	second
+7	lmlkhut	H	למלכוט	lmlxvt	to_kingship
+8	bansher	C	באשר	bA$r	_
+9	azu	ADV	אַזו	Aazv	_
+10	eyn	D	אײן	AYN	_
+11	langi	ADJ	לאַנגי	lAangy	_
+12	tseyt	N	צײט	qYt	_
+13	vas	C	װאַס	VAas	_
+14	du	PRO	דו	dv	_
+15	zukhst	VBF	זוכסט	zvxst	_
+16	zi	PRO	זי	zy	_
+17	un	CONJ	און	AvN	_
+18	vifil	WQ	װיפֿיל	Vyfyl	_
+19	ygyeut	N	יגיעוט	ygyevt	_
+20	du	PRO	דו	dv	_
+21	hast	HVF	האַסט	hAast	_
+22	gihat	VBN	גיהאַט	gyhAat	_
+23	bkn	X	בקן	bkN	_
+24	tomir	ADV	טאָמיר	tAomyr	_
+25-26	vestu	MDF~PRO	װעסטו	Vestv	_
+25	ves	MDF	װעס	Ves	_
+26	tu	PRO	טו	tv	_
+27	heynt	ADV	הײנט	hYnt	_
+28	habin	VB	האַבין	hAabyN	_
+29	amnieh	N	אַמניִעה	Aamnyieh	_
+30	mkhmt	P	מכמט	mxmt	_
+31	gelt	N	געלט	gelt	_
+
+SENT	1819E-PERL,108.270
+1	el	H	על	el	on
+2	kn	H	קן	kN	yes
+3	vel	MDF	װעל	Vel	_
+4	ikh	PRO	איך	AyX	_
+5	dir	PRO	דיר	dyr	_
+6	gibin	VB	גיבין	gybyN	_
+7	a	D	אַ	Aa	_
+8	kli	N	קלי	kly	_
+9	az	C	אַז	Aaz	_
+10	ven	C	װען	VeN	_
+11	du	PRO	דו	dv	_
+12	vest	MDF	װעסט	Vest	_
+13	areyn	ADV	אַרײן	AarYN	_
+14	tun	VB	טון	tvN	_
+15	di	D	די	dy	_
+16	hant	N	האַנט	hAant	_
+17-18	vestu	MDF~PRO	װעסטו	Vestv	_
+17	ves	MDF	װעס	Ves	_
+18	tu	PRO	טו	tv	_
+19	fun	P	פֿון	fvN	_
+20	dart	ADV	דאַרט	dAart	_
+21	aroys	ADV	אַרױס	AarWs	_
+22	nemin	VB	נעמין	nemyN	_
+23	gelt	N	געלט	gelt	_
+
+SENT	1819E-PERL,108.271
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	giheysin	VBN	גיהײסין	gyhYsyN	_
+4	dem	D	דעם	deM	_
+5	vint	N	װינט	Vynt	_
+6	az	C	אַז	Aaz	_
+7	er	PRO	ער	er	_
+8	zal	MDF	ז"ל	z"l	_
+9	im	PRO	אים	AyM	_
+10	tragin	VB	טראַגין	trAagyN	_
+11	ahin	ADV	אַהין	AahyN	_
+
+SENT	1819E-PERL,108.272
+1	iz	BEF	איז	Ayz	_
+2	gikumin	VBN	גיקומין	gykvmyN	_
+3	dr	D	דר	dr	_
+4	stirum_vint	N	סטירומ_װינט	styrvm_Vynt	_
+
+SENT	1819E-PERL,108.273
+1	un	CONJ	און	AvN	_
+2	ht	HVF	הט	ht	_
+3	im	PRO	אים	AyM	_
+4	ahin	ADV	אַהין	AahyN	_
+5	gitragn	VBN	גיטראַגן	gytrAagN	_
+
+SENT	1819E-PERL,108.274
+1	un	CONJ	און	AvN	_
+2	ht	HVF	הט	ht	_
+3	im	PRO	אים	AyM	_
+4	gibrakht	VBN	גיבראַכט	gybrAaxt	_
+5	tsu	P	צו	qv	_
+6	toyair	N	טױאַיִר	tWAayir	_
+
+SENT	1819E-PERL,108.275
+1	zenin	BEF	זענין	zenyN	_
+2	dort	ADV	דאָרט	dAort	_
+3	gishtanin	VBN	גישטאַנין	gy$tAanyN	_
+4	kheyles	N	כײלעס	xYles	_
+
+SENT	1819E-PERL,108.276
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	im	PRO	אים	AyM	_
+4	nit	NEG	ניט	nyt	_
+5	gilazt	VBN	גילאַזט	gylAazt	_
+6	un	P	און	AvN	_
+7	shtot	N	שטאָט	$tAot	_
+8	arayn	ADV	אַרײַן	AarYaN	_
+
+SENT	1819E-PERL,108.277
+1	un	CONJ	און	AvN	_
+2	hat	HVF	האַט	hAat	_
+3	aroys	ADV	אַרױס	AarWs	_
+4	ginumin	VBN	גינומין	gynvmyN	_
+5	gelt	N	געלט	gelt	_
+
+SENT	1819E-PERL,108.278
+1	ht	HVF	הט	ht	_
+2	er	PRO	ער	er	_
+3	arayn	ADV	אַרײַן	AarYaN	_
+4	gitan	VBN	גיטאַן	gytAaN	_
+5	di	D	די	dy	_
+6	hant	N	האַנט	hAant	_
+7	un	P	און	AvN	_
+8	der	D	דער	der	_
+9	kli	N	קלי	kly	_
+
+SENT	1819E-PERL,108.279
+1	un	CONJ	און	AvN	_
+2	ht	HVF	הט	ht	_
+3	zey	PRO	זײ	zY	_
+4	mskhd	RP-H	מסכד	msxd	_
+5	given	VBN	גיװען	gyVeN	_
+
+SENT	1819E-PERL,108.280
+1	un	CONJ	און	AvN	_
+2	iz	BEF	איז	Ayz	_
+3	areyn	ADV	אַרײן	AarYN	_
+4	gigangin	VBN	גיגאַנגין	gygAangyN	_
+5	in	P	אין	AyN	_
+6	stat	N	סטאַט	stAat	_
+7	areyn	ADV	אַרײן	AarYN	_
+
+SENT	1819E-PERL,108.281
+1	es	PRO	עס	es	_
+2	iz	BEF	איז	Ayz	_
+3	given	VBN	גיװען	gyVeN	_
+4	eyn	D	אײן	AYN	_
+5	sheyni	ADJ	שײני	$Yny	_
+6	stat	N	סטאַט	stAat	_
+
+SENT	1819E-PERL,108.282
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	iz	BEF	איז	Ayz	_
+4	gigangin	VBN	גיגאַנגין	gygAangyN	_
+5	tsu	P	צו	qv	_
+6	eyn	D	אײן	AYN	_
+7	gvir	N	גבֿיר	g~yr	_
+
+SENT	1819E-PERL,108.283
+1	un	CONJ	און	AvN	_
+2	ht	HVF	הט	ht	_
+3	zikh	PRO	זיך	zyX	_
+4	an	RP	אַן	AaN	_
+5	gidungin	VBN	גידונגין	gydvngyN	_
+6	kest	N	קעסט	kest	_
+
+SENT	1819E-PERL,108.284
+1	varin	CONJ	װאַרין	VAaryN	_
+2	men	PRO	מען	meN	_
+3	bdarf	MDF	בדאַרף	bdAarF	_
+4	zikh	PRO	זיך	zyX	_
+5	dartin	ADV	דאַרטין	dAartyN	_
+6	fr_zamin	VB	פֿר_זאַמין	fr_zAamyN	_
+
+SENT	1819E-PERL,108.285
+1	varin	CONJ	װאַרין	VAaryN	_
+2	men	PRO	מען	meN	_
+3	muz	MDF	מוז	mvz	_
+4	zehn	VB	זעהן	zehN	_
+5	mit	P	מיט	myt	_
+6	khkmh	N	כקמה	xkmh	_
+7	un	CONJ	און	AvN	_
+8	seykhl	N	שׂכל	Cxl	_
+9	men	PRO	מען	meN	_
+10	zal	MDF	ז"ל	z"l	_
+11	zi	PRO	זי	zy	_
+12	aroys	ADV	אַרױס	AarWs	_
+13	nemin	VB	נעמין	nemyN	_
+
+SENT	1819E-PERL,108.286
+1	vi_azu	WADV	װי_אַזו	Vy_Aazv	_
+2	er	PRO	ער	er	_
+3	hat	HVF	האַט	hAat	_
+4	zi	PRO	זי	zy	_
+5	aroys	ADV	אַרױס	AarWs	_
+6	ginumin	VBN	גינומין	gynvmyN	_
+7	hat	HVF	האַט	hAat	_
+8	er	PRO	ער	er	_
+9	nisht	NEG	נישט	ny$t	_
+10	dr_tseylt	VBN	דר_צײלט	dr_qYlt	_
+
+SENT	1819E-PERL,108.287
+1-2	tsum	P~D	צום	qvM	_
+1	tsu	P	צו	qv	_
+2	m	D	מ	m	_
+3	suf	N	סוף	svF	_
+4	hat	HVF	האַט	hAat	_
+5	er	PRO	ער	er	_
+6	zi	PRO	זי	zy	_
+7	aroys	ADV	אַרױס	AarWs	_
+8	ginumin	VBN	גינומין	gynvmyN	_
+

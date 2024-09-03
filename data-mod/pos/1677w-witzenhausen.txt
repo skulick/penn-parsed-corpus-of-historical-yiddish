@@ -1,0 +1,348 @@
+SENT	1677W-WITZENHAUSEN,162.3
+1	akh	ADV	אַך	AaX	_
+2	ven	C	װען	VeN	_
+3	ayner	Q	אײַנער	AYaner	_
+4	mekht	MDF	מעכט	mext	_
+5	velen	MD	װעלען	VeleN	_
+6	fragen	VB	פֿראַגען	frAageN	_
+7	,	PUNC	,	,	_
+8	im	X	אים	AyM	_
+9	ken	X	קען	keN	_
+10	dos	C	דאָס	dAos	_
+11	azoy	ADV	אַזױ	AazW	_
+12	fil	Q	פֿיל	fyl	_
+13	iz	BEF	איז	Ayz	_
+14	on	P	אָן	AoN	_
+15	ayner	D	אײַנער	AYaner	_
+16	hatoke	N	העתּקה	heTkh	_
+17	gelegen	VBN	געלעגען	gelegeN	_
+18	,	PUNC	,	,	_
+19	dos	C	דאָס	dAos	_
+20	talmy	NPR	טאַלמי	tAalmy	_
+21	ha-meylekh	H	האַ-מלך	hAa-mlX	the_king
+22	hot	HVF	האָט	hAot	_
+23	lozen	VBN-IPP	לאָזען	lAozeN	_
+24	zibentsig	NUM	זיבענציג	zybenqyg	_
+25	zekeynem	N	זעקײנעם	zekYneM	_
+26	holen	VB	האָלען	hAoleN	_
+27	fun	P	פֿון	fvN	_
+28	ierusolayim	NPR	איערוסאָלײַיִם	AyervsAolYayiM	_
+29	un	CONJ	און	AvN	_
+30	hi	ADV	הי	hy	_
+31	tut	VBF	טוט	tvt	_
+32	es	PRO	עס	es	_
+33	an	D	אַן	AaN	_
+34	man	N	מאַן	mAaN	_
+35	alaynt	ADJ	אַלײַנט	AalYant	_
+36	iz	VBF	איז	Ayz	_
+37	der	D	דער	der	_
+38	terets	N	תּירוץ	TyrvQ	_
+39	,	PUNC	,	,	_
+40	talmy	NPR	טאַלמי	tAalmy	_
+41	ha	H	האַ	hAa	the
+42	meylekh	H	מלך	mlX	king
+43	hot	HVF	האָט	hAot	_
+44	drum	DR+P	דרום	drvM	_
+45	fil	Q	פֿיל	fyl	_
+46	genumen	VBN	גענומען	genvmeN	_
+47	er	PRO	ער	er	_
+48	hot	HVF	האָט	hAot	_
+49	velen	MDN-IPP	װעלען	VeleN	_
+50	zen	VB	זען	zeN	_
+51	oyb	C	אױב	AWb	_
+52	zi	PRO	זי	zy	_
+53	ale	Q	אַלע	Aale	_
+54	glaykh	ADV	גלײַך	glYaX	_
+55	verden	RDF	װערדען	VerdeN	_
+56	shraybn	VB	שרײַבן	$rYabN	_
+57	ayner	PRO	אײַנער	AYaner	_
+58	az	P	אַז	Aaz	_
+59	vi	P	װי	Vy	_
+60	der	D	דער	der	_
+61	ander	ADJ	אַנדער	Aander	_
+62	.	PUNC	.	.	_
+
+SENT	1677W-WITZENHAUSEN,162.4
+1	nun	INTJ	נ	n	_
+2	,	PUNC	,	,	_
+3	do	ADV	דאָ	dAo	_
+4	iz	BEF	איז	Ayz	_
+5	ayn	D	אײַן	AYaN	_
+6	nes	N	נס	ns	_
+7	geshen	VBN	געשען	ge$eN	_
+8	al-pi	H	אַל-פּי	Aal-py	according_to
+9	ruekh	H	רוח	rvH	spirit
+10	hakoydesh	H	האַקױדעש	hAakWde$	the_holy
+11	dos	C	דאָס	dAos	_
+12	zi	PRO	זי	zy	_
+13	ale	Q	אַלע	Aale	_
+14	glaykh	ADV	גלײַך	glYaX	_
+15	for_taytsht	VBN	פֿאָר_טײַטשט	fAor_tYat$t	_
+16	un	CONJ	און	AvN	_
+17	geshriben	VBN	געשריבען	ge$rybeN	_
+18	hoben	HVF	האָבען	hAobeN	_
+
+SENT	1677W-WITZENHAUSEN,163.5
+1	obr	CONJ	אָבר	Aobr	_
+2	ven	C	װען	VeN	_
+3	man	PRO	מאַן	mAaN	_
+4	vil	MDF	װיל	Vyl	_
+5	fregen	VB	פֿרעגען	fregeN	_
+6	man	PRO	מאַן	mAaN	_
+7	hot	HVF	האָט	hAot	_
+8	dokh	ADV	דאָך	dAoX	_
+9	yu	ADV	יו	yv	_
+10	in	P	אין	AyN	_
+11	k{ile}	H	ק{עילױ}	k{eylW}	community
+12	k{edoyshe}	H	ק{עדױשע}	k{edW$e}	holy
+13	farara	NPR	פֿאַראַראַ	fAarAarAa	_
+14	gehat	VBN	געהאַט	gehAat	_
+15	meie	X	מעיִע	meyie	_
+16	khakhomen	N	כאַכאָמען	xAaxAomeN	_
+17	gedoylem	N	געדױלעם	gedWleM	_
+18	di	WPRO	די	dy	_
+19	do	ADV	דאָ	dAo	_
+20	hoben	HVF	האָבען	hAobeN	_
+21	maytik	RP-H	מײַטיק	mYatyk	_
+22	gevezen	VBN	געװעזען	geVezeN	_
+23	toyre	H	תּורה	Tvrh	Torah
+24	neviem	H	נעװיִעם	neVyieM	Prophets
+25	u-ksuvem	H	או-קסוּװעם	Av-ksUVeM	and_Writings
+26	leloshen	H	לעלאָשען	lelAo$eN	to_language
+27	sfardem	NPR	ספֿאַרדעם	sfAardeM	_
+28	un	CONJ	און	AvN	_
+29	akh	ADV	אַך	AaX	_
+30	hot	HVF	האָט	hAot	_
+31	medines	N	מדינות	mdynvS	_
+32	holand	NPR	האָלאַנד	hAolAand	_
+33	shnas	H	שנת	$nS	year_of
+34	khameyshes	H	כאַמײשעס	xAamY$es	five
+35	alofem	H	אַלאָפֿעם	AalAofeM	thousands
+36	379	NUM	379	379	_
+37	lepak	H	לעפּאַק	lepAak	to_detail_small
+38	in	P	אין	AyN	_
+39	dem	D	דעם	deM	_
+40	mokem	N	מקום	mkvM	_
+41	dort	NPR	דאָרט	dAort	_
+42	oder	CONJ	אָדער	Aoder	_
+43	dort_rekht	NPR	דאָרט_רעכט	dAort_rext	_
+44	gehat	VBN	געהאַט	gehAat	_
+45	25	NUM	25	25	_
+46	melumodem	N	מעלומאָדעם	melvmAodeM	_
+47	gedoylem	N	געדױלעם	gedWleM	_
+48	di	WPRO	די	dy	_
+49	do	ADV	דאָ	dAo	_
+50	hoben	HVF	האָבען	hAobeN	_
+51	toyre	H	תּורה	Tvrh	Torah
+52	neviem	H	נעװיִעם	neVyieM	Prophets
+53	u-ksuvem	H	או-קסוּװעם	Av-ksUVeM	and_Writings
+54	maytik	RP-H	מײַטיק	mYatyk	_
+55	gevezen	VBN	געװעזען	geVezeN	_
+56	un	CONJ	און	AvN	_
+57	vi	WADV	װי	Vy	_
+58	lozt	VBF	לאָזט	lAozt	_
+59	man	PRO	מאַן	mAaN	_
+60	es	PRO	עס	es	_
+61	den	ADV	דען	deN	_
+62	nun	ADV	נ	n	_
+63	shteyn	VB	שטײן	$tYN	_
+64	uf	P	אוף	AvF	_
+65	aynen	D	אײַנען	AYaneN	_
+66	man	N	מאַן	mAaN	_
+67	der	WPRO	דער	der	_
+68	es	PRO	עס	es	_
+69	maytik	RP-H	מײַטיק	mYatyk	_
+70	iz	VBF	איז	Ayz	_
+71	un	CONJ	און	AvN	_
+72	on	P	אָן	AoN	_
+73	aynen	PRO	אײַנען	AYaneN	_
+74	,	PUNC	,	,	_
+75	der	WPRO	דער	der	_
+76	di	D	די	dy	_
+77	hatoke	N	העתּקה	heTkh	_
+78	helft	VBF	העלפֿט	helft	_
+79	iber	RP	איבער	Ayber	_
+80	leynen	VB	לײנען	lYneN	_
+81	do	ADV	דאָ	dAo	_
+82	gib	VBF	גיב	gyb	_
+83	ikh	PRO	איך	AyX	_
+84	den	D	דען	deN	_
+85	terets	N	תּירוץ	TyrvQ	_
+
+SENT	1677W-WITZENHAUSEN,163.6
+1	ikh	PRO	איך	AyX	_
+2	hob	HVF	האָב	hAob	_
+3	in	P	אין	AyN	_
+4	aynem	D	אײַנעם	AYaneM	_
+5	seyfer	N	ספֿר	sfr	_
+6	geleyent	VBN	געלײענט	gelYent	_
+7	dos	C	דאָס	dAos	_
+8	ayner	PRO	אײַנער	AYaner	_
+9	shraybt	VBF	שרײַבט	$rYabt	_
+10	in	P	אין	AyN	_
+11	zayner	PRO$	זײַנער	zYaner	_
+12	hakdome	N	האַקדאָמע	hAakdAome	_
+13	un	CONJ	און	AvN	_
+14	fregt	VBF	פֿרעגט	fregt	_
+15	ayn	D	אײַן	AYaN	_
+16	kashe	N	קשיא	k$yA	_
+
+SENT	1677W-WITZENHAUSEN,163.7
+1	vi	WADV	װי	Vy	_
+2	kumt	VBF	קומט	kvmt	_
+3	es	ES	עס	es	_
+4	,	PUNC	,	,	_
+5	dos	C	דאָס	dAos	_
+6	itsundert	ADV	איצונדערט	Ayqvndert	_
+7	kumt	VBF	קומט	kvmt	_
+8	ayn	D	אײַן	AYaN	_
+9	gemayner	ADJ	געמײַנער	gemYaner	_
+10	,	PUNC	,	,	_
+11	shlekhter	ADJ	שלעכטער	$lexter	_
+12	lamden	N	לאַמדען	lAamdeN	_
+13	un	CONJ	און	AvN	_
+14	fregt	VBF	פֿרעגט	fregt	_
+15	ayn	D	אײַן	AYaN	_
+16	groyse	ADJ	גרױסע	grWse	_
+17	kashe	N	קשיא	k$yA	_
+18	uf	P	אוף	AvF	_
+19	poskem	H	פּאָסקעם	pAoskeM	adjudicators
+20	hageoynem	H	האַגעױנעם	hAageWneM	the_Geonim
+21	hakadmoynem	H	האַקאַדמױנעם	hAakAadmWneM	the_first
+22	?	PUNC	?	?	_
+
+SENT	1677W-WITZENHAUSEN,163.8
+1	vi	WADV	װי	Vy	_
+2	shayekh	ADJ	שײך	$YX	_
+3	,	PUNC	,	,	_
+
+SENT	1677W-WITZENHAUSEN,163.9
+1	hoben	HVF	האָבען	hAobeN	_
+2	es	PRO	עס	es	_
+3	zelkhe	ADJ	זעלכע	zelxe	_
+4	geoynem	N	געױנעם	geWneM	_
+5	gedoylem	N	געדױלעם	gedWleM	_
+6	nit	NEG	ניט	nyt	_
+7	gezen	VBN	געזען	gezeN	_
+8	oder	CONJ	אָדער	Aoder	_
+9	do	ADV	דאָ	dAo	_
+10	on	RP	אָן	AoN	_
+11	geshtoysen	VBN	געשטױסען	ge$tWseN	_
+12	?	PUNC	?	?	_
+
+SENT	1677W-WITZENHAUSEN,163.10
+1	entvert	VBF	ענטװערט	entVert	_
+2	er	PRO	ער	er	_
+
+SENT	1677W-WITZENHAUSEN,163.11
+1	un	CONJ	און	AvN	_
+2	sprikht	VBF	ספּריכט	spryxt	_
+3	es	PRO	עס	es	_
+4	iz	VBF	איז	Ayz	_
+5	ayn	D	אײַן	AYaN	_
+6	moshel	N	מאָשעל	mAo$el	_
+
+SENT	1677W-WITZENHAUSEN,163.12
+1	es	ES	עס	es	_
+2	geyt	VBF	גײט	gYt	_
+3	do	ADV	דאָ	dAo	_
+4	ayn	D	אײַן	AYaN	_
+5	riz	N	ריז	ryz	_
+6	,	PUNC	,	,	_
+7	der	D	דער	der	_
+8	kan	MDF	ק"ן	k"N	_
+9	gor	ADV	גאָר	gAor	_
+10	vayt	ADV	װײַט	VYat	_
+11	zen	VB	זען	zeN	_
+
+SENT	1677W-WITZENHAUSEN,163.13
+1	do	ADV	דאָ	dAo	_
+2	kumt	VBF	קומט	kvmt	_
+3	ayn	D	אײַן	AYaN	_
+4	getsverglayn	N	געצװערגלײַן	geqVerglYaN	_
+
+SENT	1677W-WITZENHAUSEN,163.14
+1	dos	D	דאָס	dAos	_
+2	nemt	VBF	נעמט	nemt	_
+3	er	PRO	ער	er	_
+4	uf	P	אוף	AvF	_
+5	di	D	די	dy	_
+6	aksl	N	אַקסל	Aaksl	_
+
+SENT	1677W-WITZENHAUSEN,163.15
+1	do	ADV	דאָ	dAo	_
+2	kan	MDF	ק"ן	k"N	_
+3	dos	D	דאָס	dAos	_
+4	klayne	ADJ	קלײַנע	klYane	_
+5	getsverglayn	N	געצװערגלײַן	geqVerglYaN	_
+6	nokh	ADV	נאָך	nAoX	_
+7	vayter	ADVR	װײַטער	VYater	_
+8	zen	VB	זען	zeN	_
+9	az	P	אַז	Aaz	_
+10	der	D	דער	der	_
+11	groyse	ADJ	גרױסע	grWse	_
+12	riz	N	ריז	ryz	_
+
+SENT	1677W-WITZENHAUSEN,163.16
+1	azoy	ADV	אַזױ	AazW	_
+2	akh	ADV	אַך	AaX	_
+3	di	D	די	dy	_
+4	geoynem	N	געױנעם	geWneM	_
+5	gedoylem	N	געדױלעם	gedWleM	_
+6	hoben	HVF	האָבען	hAobeN	_
+7	gor	ADV	גאָר	gAor	_
+8	vayt	ADV	װײַט	VYat	_
+9	gezen	VBN	געזען	gezeN	_
+
+SENT	1677W-WITZENHAUSEN,163.17
+1	un	CONJ	און	AvN	_
+2	der	D	דער	der	_
+3	gemayne	ADJ	געמײַנע	gemYane	_
+4	lamden	N	לאַמדען	lAamdeN	_
+5	nemt	VBF	נעמט	nemt	_
+6	ire	PRO$	אירע	Ayre	_
+7	sforim	N	ספֿרים	sfryM	_
+8	in	P	אין	AyN	_
+9	di	D	די	dy	_
+10	hant	N	האַנט	hAant	_
+
+SENT	1677W-WITZENHAUSEN,163.18
+1	un	CONJ	און	AvN	_
+2	lernet	VBF	לערנעט	lernet	_
+3	do	ADV	דאָ	dAo	_
+4	inen	ADV	אינען	AyneN	_
+
+SENT	1677W-WITZENHAUSEN,163.19
+1	ale	Q	אַלע	Aale	_
+2	di	D	די	dy	_
+3	kashes	N	קשיות	k$yvS	_
+4	vos	C	װאָס	VAos	_
+5	den	D	דען	deN	_
+6	geoynem	N	געױנעם	geWneM	_
+7	iz	BEF	איז	Ayz	_
+8	kashe	RP-H	קשיא	k$yA	_
+9	gevezen	VBN	געװעזען	geVezeN	_
+10	hot	VBF	האָט	hAot	_
+11	er	PRO	ער	er	_
+12	for	P	פֿאָר	fAor	_
+13	zikh	PRO	זיך	zyX	_
+
+SENT	1677W-WITZENHAUSEN,163.20
+1	mag	MDF	מאַג	mAag	_
+2	den	ADV	דען	deN	_
+3	laykht	ADV	לײַכט	lYaxt	_
+4	,	PUNC	,	,	_
+5	dos	C	דאָס	dAos	_
+6	er	PRO	ער	er	_
+7	nokh	ADV	נאָך	nAoX	_
+8	ayn	D	אײַן	AYaN	_
+9	venig	Q	װעניג	Venyg	_
+10	vayter	ADVR	װײַטער	VYater	_
+11	kan	MDF	ק"ן	k"N	_
+12	zen	VB	זען	zeN	_
+13	un	CONJ	און	AvN	_
+14	ayn	D	אײַן	AYaN	_
+15	kashe	N	קשיא	k$yA	_
+16	oys	RP	אױס	AWs	_
+17	finden	VB	פֿינדען	fyndeN	_
+

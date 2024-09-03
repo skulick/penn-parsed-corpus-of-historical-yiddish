@@ -1,0 +1,377 @@
+SENT	1600E-MAGID,170.3
+1	den	D	דען	deN	_
+2	mizmer	N	מיזמור	myzmvr	_
+3	hot	HVF	האָט	hAot	_
+4	gemakht	VBN	געמאַכט	gemAaxt	_
+5	doved	NPR	דאָװעד	dAoVed	_
+6	dos	C	דאָס	dAos	_
+7	in	PRO	אין	AyN	_
+8	zol	MDF	זאָל	zAol	_
+9	zingen	VB	זינגען	zyngeN	_
+10	der	D	דער	der	_
+11	menatseyekh	N	מנצח	mnqH	_
+
+SENT	1600E-MAGID,170.4
+1	dos	D	דאָס	dAos	_
+2	zeyn	VBF	זײן	zYN	_
+3	di	D	די	dy	_
+4	leviem	N	לעװיִעם	leVyieM	_
+5	az	C	אַז	Aaz	_
+6	gedakht	VAN	געדאַכט	gedAaxt	_
+7	iz	BEF	איז	Ayz	_
+8	oyben	ADV	אױבען	AWbeN	_
+9	tsvey	NUM	צװײ	qVY	_
+10	mol	N	מאָל	mAol	_
+11	dos	C	דאָס	dAos	_
+12	di	D	די	dy	_
+13	leviem	N	לעװיִעם	leVyieM	_
+14	heysen	VBF	הײסען	hYseN	_
+15	menatskhem	N	מענאַצכעם	menAaqxeM	_
+
+SENT	1600E-MAGID,171.5
+1	zogt	VBF	זאָגט	zAogt	_
+2	der	D	דער	der	_
+3	posek	N	פּסוק	psvk	_
+4	alhi	ADV	אַלהי	Aalhy	_
+5	,	PUNC	,	,	_
+6	dos	C	דאָס	dAos	_
+7	doved	NPR	דאָװעד	dAoVed	_
+8	hot	HVF	האָט	hAot	_
+9	den	D	דען	deN	_
+10	mizmer	N	מיזמור	myzmvr	_
+11	gemakht	VBN	געמאַכט	gemAaxt	_
+12	,	PUNC	,	,	_
+13	dos	C	דאָס	dAos	_
+14	in	PRO	אין	AyN	_
+15	der	D	דער	der	_
+16	leyvi	N	לװי	lVy	_
+17	zol	MDF	זאָל	zAol	_
+18	zingen	VB	זינגען	zyngeN	_
+19	mit	P	מיט	myt	_
+20	geden	N	געדען	gedeN	_
+21	mit	P	מיט	myt	_
+22	azoy	ADV	אַזױ	AazW	_
+23	eyn	D	אײן	AYN	_
+24	nigen	N	ניגען	nygeN	_
+25	,	PUNC	,	,	_
+26	der	WPRO	דער	der	_
+27	hipsh	ADJ	היפּש	hyp$	_
+28	iz	VBF	איז	Ayz	_
+29	tsu	TO	צו	qv	_
+30	spilen	VB	ספּילען	spyleN	_
+31	oyf	P	אױף	AWF	_
+32	azoy	ADV	אַזױ	AazW	_
+33	eyn	D	אײן	AYN	_
+34	harf	N	האַרף	hAarF	_
+35	dos	WPRO	דאָס	dAos	_
+36	do	ADV	דאָ	dAo	_
+37	heyst	VBF	הײסט	hYst	_
+38	smines	N	סמינעס	smynes	_
+39	der_vayl	ADV	דער_װײַל	der_VYal	_
+40	akht	NUM	אַכט	Aaxt	_
+41	zeyten	N	זײטען	zYteN	_
+42	deron	DR+P	דעראָן	derAoN	_
+43	zayn	VBF	זײַן	zYaN	_
+
+SENT	1600E-MAGID,171.6
+1	tsu	P	צו	qv	_
+2	dem	D	דעם	deM	_
+3	zelbigen	ADJ	זעלביגען	zelbygeN	_
+4	vor	VBF	װאָר	VAor	_
+5	der	D	דער	der	_
+6	dozig	ADJ	דאָזיג	dAozyg	_
+7	mizmer	N	מיזמור	myzmvr	_
+8	tsu	P	צו	qv	_
+9	doved	NPR	דאָװעד	dAoVed	_
+
+SENT	1600E-MAGID,171.7
+1	er	PRO	ער	er	_
+2	sprakh	VBF	ספּראַך	sprAaX	_
+3	doved	NPR	דאָװעד	dAoVed	_
+4	got	NPR	גאָט	gAot	_
+5	shtrof	VBI	שטראָף	$trAoF	_
+6	mikh	PRO	מיך	myX	_
+7	nit	NEG	ניט	nyt	_
+8	mit	P	מיט	myt	_
+9	daynem	PRO$	דײַנעם	dYaneM	_
+10	tsoren	N	צאָרען	qAoreN	_
+
+SENT	1600E-MAGID,171.8
+1	in	CONJ	אין	AyN	_
+2	di	PRO	די	dy	_
+3	zolst	MDF	זאָלסט	zAolst	_
+4	mikh	PRO	מיך	myX	_
+5	nit	NEG	ניט	nyt	_
+6	kestigen	VB	קעסטיגען	kestygeN	_
+7	,	PUNC	,	,	_
+8	mit	P	מיט	myt	_
+9	daynem	PRO$	דײַנעם	dYaneM	_
+10	grim	ADJ	גרים	gryM	_
+11	tsoren	N	צאָרען	qAoreN	_
+
+SENT	1600E-MAGID,171.9
+1	der_barem	VBI	דער_באַרעם	der_bAareM	_
+2	mikh	PRO	מיך	myX	_
+3	got	NPR	גאָט	gAot	_
+
+SENT	1600E-MAGID,171.10
+1	den	CONJ	דען	deN	_
+2	ikh	PRO	איך	AyX	_
+3	bin	BEF	בין	byN	_
+4	fershniten	VAN	פֿערשניטען	fer$nyteN	_
+5	in	CONJ	אין	AyN	_
+6	fer_dorben	VAN	פֿער_דאָרבען	fer_dAorbeN	_
+7	mit	P	מיט	myt	_
+8	mogeren	ADJ	מאָגערען	mAogereN	_
+9	koyekh	N	כּוח	KvH	_
+
+SENT	1600E-MAGID,171.11
+1	heyl	VBI	הײל	hYl	_
+2	mikh	PRO	מיך	myX	_
+
+SENT	1600E-MAGID,171.12
+1	den	CONJ	דען	deN	_
+2	zi	PRO	זי	zy	_
+3	zeynen	BEF	זײנען	zYneN	_
+4	dr_shroken	VBN	דר_שראָקען	dr_$rAokeN	_
+5	mayn	PRO$	מײַן	mYaN	_
+6	bayn	N	בײַן	bYaN	_
+
+SENT	1600E-MAGID,171.13
+1	un	CONJ	און	AvN	_
+2	mayn	PRO$	מײַן	mYaN	_
+3	layb	N	לײַב	lYab	_
+4	iz	BEF	איז	Ayz	_
+5	zer	ADV	זער	zer	_
+6	der_shroken	VBN	דער_שראָקען	der_$rAokeN	_
+
+SENT	1600E-MAGID,171.14
+1	un	CONJ	און	AvN	_
+2	du	PRO	דו	dv	_
+3	,	PUNC	,	,	_
+4	got	NPR	גאָט	gAot	_
+5	,	PUNC	,	,	_
+6	biz	P	ביז	byz	_
+7	ken	P	קען	keN	_
+8	vi	WADV	װי	Vy	_
+9	lang	ADV	לאַנג	lAang	_
+10-11	verstu	RDF~PRO	װערסטו	Verstv	_
+10	vers	RDF	װערס	Vers	_
+11	tu	PRO	טו	tv	_
+12	dos	D	דאָס	dAos	_
+13	tsi	RP	צי	qy	_
+14	zehen	VB	זעהען	zeheN	_
+15	in	CONJ	אין	AyN	_
+16	verst	RDF	װערסט	Verst	_
+17	inz	PRO	אינז	Aynz	_
+18	nit	NEG	ניט	nyt	_
+19	heylen	VB	הײלען	hYleN	_
+
+SENT	1600E-MAGID,171.15
+1	vider	ADV	װידער	Vyder	_
+2	ker	VBI	קער	ker	_
+3	,	PUNC	,	,	_
+4	got	NPR	גאָט	gAot	_
+5	,	PUNC	,	,	_
+
+SENT	1600E-MAGID,171.16
+1	in	CONJ	אין	AyN	_
+2	tsi	VBI	צי	qy	_
+3	oys	RP	אױס	AWs	_
+4	mayn	PRO$	מײַן	mYaN	_
+5	layb	N	לײַב	lYab	_
+
+SENT	1600E-MAGID,171.17
+1	helf	VBI	העלף	helF	_
+2	mir	PRO	מיר	myr	_
+3-4	im	P~D	אים	AyM	_
+3	i	P	אי	Ay	_
+4	m	D	מ	m	_
+5	vilen	N	װילען	VyleN	_
+6	dayn	PRO$	דײַן	dYaN	_
+7	khesed	N	חסד	Hsd	_
+
+SENT	1600E-MAGID,171.18
+1	den	CONJ	דען	deN	_
+2	es	ES	עס	es	_
+3	iz	VBF	איז	Ayz	_
+4	nit	NEG	ניט	nyt	_
+5	in	P	אין	AyN	_
+6	toyt	N	טױט	tWt	_
+7	dayn	PRO$	דײַן	dYaN	_
+8	gedekhenis	N	געדעכעניס	gedexenys	_
+
+SENT	1600E-MAGID,171.19
+1	eyner	PRO	אײנער	AYner	_
+2	,	PUNC	,	,	_
+3	der	WPRO	דער	der	_
+4	do	ADV	דאָ	dAo	_
+5	shtarbt	VBF	שטאַרבט	$tAarbt	_
+6	,	PUNC	,	,	_
+7	kon	MDF	קאָן	kAoN	_
+8	dikh	PRO	דיך	dyX	_
+9	nit	NEG	ניט	nyt	_
+10	gedenken	VB	געדענקען	gedenkeN	_
+
+SENT	1600E-MAGID,171.20
+1	un	CONJ	און	AvN	_
+2	oykh	ADV	אױך	AWX	_
+3	in	P	אין	AyN	_
+4	der	D	דער	der	_
+5	grib	N	גריב	gryb	_
+6	,	PUNC	,	,	_
+7	ver	WPRO	װער	Ver	_
+8	kon	MDF	קאָן	kAoN	_
+9	dikh	PRO	דיך	dyX	_
+10	loyben	VB	לױבען	lWbeN	_
+11	ven	C	װען	VeN	_
+12	er	PRO	ער	er	_
+13	nin	ADV	נין	nyN	_
+14	toyt	ADJ	טױט	tWt	_
+15	iz	VBF	איז	Ayz	_
+
+SENT	1600E-MAGID,171.21
+1	derim	DR+P	דערים	deryM	_
+2	loz	VBI	לאָז	lAoz	_
+3	mikh	PRO	מיך	myX	_
+4	leben	VB	לעבען	lebeN	_
+
+SENT	1600E-MAGID,171.22
+1	ver	RDF	װער	Ver	_
+2	ikh	PRO	איך	AyX	_
+3	dikh	PRO	דיך	dyX	_
+4	yu	ADV	יו	yv	_
+5	loyben	VB	לױבען	lWbeN	_
+
+SENT	1600E-MAGID,171.23
+1	ikh	PRO	איך	AyX	_
+2	bin	VBF	בין	byN	_
+3	mid	ADJ	מיד	myd	_
+4	fin	P	פֿין	fyN	_
+5	vegen	N	װעגען	VegeN	_
+6	mayn	PRO$	מײַן	mYaN	_
+7	ziftsen	N	זיפֿצען	zyfqeN	_
+
+SENT	1600E-MAGID,171.24
+1	ikh	PRO	איך	AyX	_
+2	makh	VBF	מאַך	mAaX	_
+3	mies	ADV	מיאוס	myAvs	_
+4	,	PUNC	,	,	_
+5	az	P	אַז	Aaz	_
+6	ein	D	עיִן	eyiN	_
+7	shpeybikht	N	שפּײביכט	$pYbyxt	_
+
+SENT	1600E-MAGID,171.25
+1	in	CONJ	אין	AyN	_
+2	bezilper	VBF	בעזילפּער	bezylper	_
+3	ale	Q	אַלע	Aale	_
+4	nakht	N	נאַכט	nAaxt	_
+5	mayn	PRO$	מײַן	mYaN	_
+6	bet	N	בעט	bet	_
+
+SENT	1600E-MAGID,171.26
+1	ikh	PRO	איך	AyX	_
+2	vesh	VBF	װעש	Ve$	_
+3	mayn	PRO$	מײַן	mYaN	_
+4	bet	N	בעט	bet	_
+
+SENT	1600E-MAGID,171.27
+1	in	CONJ	אין	AyN	_
+2	mit	P	מיט	myt	_
+3	mayne	PRO$	מײַנע	mYane	_
+4	treheren	N	טרעהערען	trehereN	_
+5	makh	VBF	מאַך	mAaX	_
+6	ikh	PRO	איך	AyX	_
+7	faykht	ADJ	פֿײַכט	fYaxt	_
+
+SENT	1600E-MAGID,171.28
+1	es	ES	עס	es	_
+2	iz	BEF	איז	Ayz	_
+3	fer_tinkelt	VAN	פֿער_טינקעלט	fer_tynkelt	_
+4	mayn	PRO$	מײַן	mYaN	_
+5	oyg	N	אױג	AWg	_
+6	fin	P	פֿין	fyN	_
+7	vegen	N	װעגען	VegeN	_
+8	tsoren	N	צאָרען	qAoreN	_
+
+SENT	1600E-MAGID,171.29
+1	es	PRO	עס	es	_
+2	iz	BEF	איז	Ayz	_
+3	fer_eltert	VAN	פֿער_עלטערט	fer_eltert	_
+4	fin	P	פֿין	fyN	_
+5	vegen	N	װעגען	VegeN	_
+6	al	Q	אַל	Aal	_
+7	mayn	PRO$	מײַן	mYaN	_
+8	leydiger	N	לײדיגער	lYdyger	_
+9	di	WPRO	די	dy	_
+10	mikh	PRO	מיך	myX	_
+11	meytser	RP-H	מײצער	mYqer	_
+12	zayn	VBF	זײַן	zYaN	_
+
+SENT	1600E-MAGID,171.30
+1	doved	NPR	דאָװעד	dAoVed	_
+2	shprokh	VBF	שפּראָך	$prAoX	_
+3	vayter	ADV	װײַטער	VYater	_
+4	kert	VBI	קערט	kert	_
+5	ub	RP	אוב	Avb	_
+6	fin	P	פֿין	fyN	_
+7	mir	PRO	מיר	myr	_
+8	avek	ADV	אַװעק	AaVek	_
+9	ir	PRO	איר	Ayr	_
+10	al	Q	אַל	Aal	_
+11	di	WPRO	די	dy	_
+12	inrekht	N	אינרעכט	Aynrext	_
+13	verken	VBF	װערקען	VerkeN	_
+
+SENT	1600E-MAGID,171.31
+1	ir	PRO	איר	Ayr	_
+2	vert	RDF	װערט	Vert	_
+3	nimer	ADV	נימער	nymer	_
+4	niks	Q	ניקס	nyks	_
+5	kenen	MD	קענען	keneN	_
+6	tin	VB	טין	tyN	_
+
+SENT	1600E-MAGID,171.32
+1	den	CONJ	דען	deN	_
+2	got	NPR	גאָט	gAot	_
+3	hot	HVF	האָט	hAot	_
+4	gehert	VBN	געהערט	gehert	_
+5	dos	D	דאָס	dAos	_
+6	kol	N	קול	kvl	_
+7	fin	P	פֿין	fyN	_
+8	maynem	PRO$	מײַנעם	mYaneM	_
+9	veynen	N	װײנען	VYneN	_
+10	mayn	PRO$	מײַן	mYaN	_
+11	tfile	N	תּפֿילה	Tfylh	_
+
+SENT	1600E-MAGID,171.33
+1	zey	PRO	זײ	zY	_
+2	veren	RDF	װערען	VereN	_
+3	fer_shemt	VAN	פֿער_שעמט	fer_$emt	_
+4	veren	RD	װערען	VereN	_
+5	oykh	ADV	אױך	AWX	_
+6	der_shroken	VAN	דער_שראָקען	der_$rAokeN	_
+7	veren	RD	װערען	VereN	_
+8	,	PUNC	,	,	_
+
+SENT	1600E-MAGID,171.34
+1	zey	PRO	זײ	zY	_
+2	veren	RDF	װערען	VereN	_
+3	zikh	PRO	זיך	zyX	_
+4	der_shreken	VB	דער_שרעקען	der_$rekeN	_
+5	al	Q	אַל	Aal	_
+6	mayne	PRO$	מײַנע	mYane	_
+7	faynd	N	פֿײַנד	fYand	_
+
+SENT	1600E-MAGID,171.35
+1	un	CONJ	און	AvN	_
+2	zey	PRO	זײ	zY	_
+3	veren	RDF	װערען	VereN	_
+4	vider	ADV	װידער	Vyder	_
+5	amol	ADV	אַמאָל	AamAol	_
+6	fer_shemt	VAN	פֿער_שעמט	fer_$emt	_
+7	veren	RD	װערען	VereN	_
+8	in	P	אין	AyN	_
+9	ein	D	עיִן	eyiN	_
+10	oygen_blik	N	אױגענ_בליק	AWgen_blyk	_
+

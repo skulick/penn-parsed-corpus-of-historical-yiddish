@@ -1,0 +1,854 @@
+SENT	1717E-POZNAN,84.3
+1	mir	PRO	מיר	myr	_
+2	habin	HVF	האַבין	hAabyN	_
+3	gimeynt	VBN	גימײנט	gymYnt	_
+4	mir	PRO	מיר	myr	_
+5	zeynn	VBF	זײנן	zYnN	_
+6	foygil_freya	ADJ	פֿױגיל_פֿרײאַ	fWgyl_frYAa	_
+
+SENT	1717E-POZNAN,84.4
+1	ez	ES	עז	ez	_
+2	zeynn	BEF	זײנן	zYnN	_
+3	ihudim	N	איהודים	AyhvdyM	_
+4	vidr	ADV	װידר	Vydr	_
+5	oys	P	אױס	AWs	_
+6	dem	D	דעם	deM	_
+7	mkum	N	מקום	mkvM	_
+8	gigngin	VBN	גיגנגין	gygngyN	_
+
+SENT	1717E-POZNAN,84.5
+1	erst	ADV	ערסט	erst	_
+2	hat	HVF	האַט	hAat	_
+3	mn	PRO	מן	mN	_
+4	zi	PRO	זי	zy	_
+5	vidr	ADV	װידר	Vydr	_
+6	tan	DON-IPP	טאַן	tAaN	_
+7	oyf	RP	אױף	AWF	_
+8	fangin	VB	פֿאַנגין	fAangyN	_
+
+SENT	1717E-POZNAN,84.6
+1	aroys	ADV	אַרױס	AarWs	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zi	PRO	זי	zy	_
+4	bfelin	VB	בפֿעלין	bfelyN	_
+5	tan	DON-IPP	טאַן	tAaN	_
+
+SENT	1717E-POZNAN,84.7
+1	ez	ES	עז	ez	_
+2	zal	MDF	ז"ל	z"l	_
+3	zikh	PRO	זיך	zyX	_
+4	keyn	Q	קײן	kYN	_
+5	ihuda	N	איהודאַ	AyhvdAa	_
+6	veyzin	VB	װײזין	VYzyN	_
+7	un	CONJ	און	AvN	_
+8	kumin	VB	קומין	kvmyN	_
+9	tsu	TO	צו	qv	_
+10	gan	VB	גאַן	gAaN	_
+
+SENT	1717E-POZNAN,84.8
+1	den	CONJ	דען	deN	_
+2	zi	PRO	זי	zy	_
+3	kenn	MDF	קענן	kenN	_
+4	keyn	Q	קײן	kYN	_
+5	ihuda	N	איהודאַ	AyhvdAa	_
+6	fr	P	פֿר	fr	_
+7	zikh	PRO	זיך	zyX	_
+8	zehn	VB	זעהן	zehN	_
+
+SENT	1717E-POZNAN,84.9
+1	zi	PRO	זי	zy	_
+2	zagin	VBF	זאַגין	zAagyN	_
+3	zi	PRO	זי	zy	_
+4	kumin	VBF	קומין	kvmyN	_
+5	nar	FP	נאַר	nAar	_
+6	oys	RP	אױס	AWs	_
+7	spehin	VB	ספּעהין	spehyN	_
+
+SENT	1717E-POZNAN,84.10
+1	vas	WPRO	װאַס	VAas	_
+2	habin	HVF	האַבין	hAabyN	_
+3	mir	PRO	מיר	myr	_
+4	zikh	PRO	זיך	zyX	_
+5	da	ADV	דאַ	dAa	_
+6	gizelt	MDN	גיזעלט	gyzelt	_
+7	gidenkin	VB	גידענקין	gydenkyN	_
+
+SENT	1717E-POZNAN,84.11
+1	vaul	ADV	װאַול	VAavl	_
+2	gau_vaust	VBN	גאַו_װאַוסט	gAav_VAavst	_
+3	zi	PRO	זי	zy	_
+4	verin	RDF	װערין	VeryN	_
+5	uns	PRO	אונס	Avns	_
+6	das	D	דת	dS	_
+7	nit	NEG	ניט	nyt	_
+8	shenkin	VB	שענקין	$enkyN	_
+
+SENT	1717E-POZNAN,84.12
+1	abr	CONJ	אַבר	Aabr	_
+2	mir	PRO	מיר	myr	_
+3	habin	HVF	האַבין	hAabyN	_
+4	gmeynt	VBN	גמײנט	gmYnt	_
+5	zi	PRO	זי	zy	_
+6	vern	RDF	װערן	VerN	_
+7	nemn	VB	נעמן	nemN	_
+8	unzr	PRO$	אונזר	Avnzr	_
+9	hub	N	הוב	hvb	_
+10	un	CONJ	און	AvN	_
+11	gut	N	גוט	gvt	_
+
+SENT	1717E-POZNAN,84.13
+1	mir	PRO	מיר	myr	_
+2	habin	HVF	האַבין	hAabyN	_
+3	abr	ADV	אַבר	Aabr	_
+4	nit	NEG	ניט	nyt	_
+5	gitrakht	VBN	גיטראַכט	gytrAaxt	_
+6	zi	PRO	זי	zy	_
+7	vern	RDF	װערן	VerN	_
+8	nemn	VB	נעמן	nemN	_
+9	unzr	PRO$	אונזר	Avnzr	_
+10	blut	N	בלוט	blvt	_
+
+SENT	1717E-POZNAN,84.14
+1	halupi	H	האַלופּי	hAalvpy	the_major-generals_of
+2	rasi	H	ראַסי	rAasy	heads
+3	ktsini	H	קציני	kqyny	leaders
+4	khilh	H	כילה	xylh	community
+5	habn	HVF	האַבן	hAabN	_
+6	fr	P	פֿר	fr	_
+7	di	D	די	dy	_
+8	enim	H	ענים	enyM	poor_ones
+9	uabiunim	H	אואַביִונים	AvAabyivnyM	and_paupers
+10	tun	DON-IPP	טון	tvN	_
+11	zargin	VB	זאַרגין	zAargyN	_
+12	un	CONJ	און	AvN	_
+13	peuluth	N	פּעולוטה	pevlvth	_
+14	gitan	VBN	גיטאַן	gytAaN	_
+15	dz	C	דז	dz	_
+16	eyn	D	אײן	AYN	_
+17	srrh	N	סררה	srrh	_
+18	hat	HVF	האַט	hAat	_
+19	zi	PRO	זי	zy	_
+20	hundrt	NUM	הונדרט	hvndrt	_
+21	sefil	N	סעפֿיל	sefyl	_
+22	kerin	N	קערין	keryN	_
+23	tan	DON-IPP	טאַן	tAaN	_
+24	bergin	VB	בערגין	bergyN	_
+
+SENT	1717E-POZNAN,84.15
+1	iz	BEF	איז	Ayz	_
+2	daz	D	דאַז	dAaz	_
+3	falk	N	פֿאַלק	fAalk	_
+4	nahint	ADV	נאַהינט	nAahynt	_
+5	an	P	אַן	AaN	_
+6	mkum	N	מקום	mkvM	_
+7	gikumn	VBN	גיקומן	gykvmN	_
+
+SENT	1717E-POZNAN,84.16
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	di	D	די	dy	_
+4	miln	N	מילן	mylN	_
+5	avek	RP-ADV	אַװעק	AaVek	_
+6	ginumin	VBN	גינומין	gynvmyN	_
+
+SENT	1717E-POZNAN,84.17
+1	vi	WADV	װי	Vy	_
+2	bitr	ADJ	ביטר	bytr	_
+3	iz	BEF	איז	Ayz	_
+4	givezin	VBN	גיװעזין	gyVezyN	_
+5	unzir	PRO$	אונזיר	Avnzyr	_
+6	lebin	N	לעבין	lebyN	_
+
+SENT	1717E-POZNAN,84.18
+1	mir	PRO	מיר	myr	_
+2	habn	HVF	האַבן	hAabN	_
+3	nit	NEG	ניט	nyt	_
+4	gihat	VBN	גיהאַט	gyhAat	_
+5	eyn	D	אײן	AYN	_
+6	kind	N	קינד	kynd	_
+7	eyn	D	אײן	AYN	_
+8	stikl	N	סטיקל	stykl	_
+9	brut	N	ברוט	brvt	_
+10	tsu	TO	צו	qv	_
+11	gebn	VB	געבן	gebN	_
+
+SENT	1717E-POZNAN,84.19
+1	vi	WADV	װי	Vy	_
+2	zeynin	BEF	זײנין	zYnyN	_
+3	mir	PRO	מיר	myr	_
+4	in	P	אין	AyN	_
+5	tsruth	N	צרוטה	qrvth	_
+6	gizesin	VBN	גיזעסין	gyzesyN	_
+
+SENT	1717E-POZNAN,84.20
+1	eynr	PRO	אײנר	AYnr	_
+2	hut	HVF	הוט	hvt	_
+3	dem	D	דעם	deM	_
+4	andrn	ADJ	אַנדרן	AandrN	_
+5	sir	ADV	סיר	syr	_
+6	lebdikr	ADJ	לעבדיקר	lebdykr	_
+7	hoyt	N	הױט	hWt	_
+8	oyf	RP	אױף	AWF	_
+9	gigesin	VBN	גיגעסין	gygesyN	_
+
+SENT	1717E-POZNAN,84.21
+1	oykh	ADV	אױך	AWX	_
+2	habin	HVF	האַבין	hAabyN	_
+3	mir	PRO	מיר	myr	_
+4	nist	Q	ניסט	nyst	_
+5	ghat	VBN	גהאַט	ghAat	_
+6	tsu	TO	צו	qv	_
+7	trinkn	VB	טרינקן	trynkN	_
+8	tseytn	P	צײטן	qYtN	_
+9	vsr	N	װסר	Vsr	_
+10	vas	C	װאַס	VAas	_
+11	da	ADV	דאַ	dAa	_
+12	habin	HVF	האַבין	hAabyN	_
+13	tun	DON-IPP	טון	tvN	_
+14	stinkn	VB	סטינקן	stynkN	_
+
+SENT	1717E-POZNAN,84.22
+1	den	CONJ	דען	deN	_
+2	daz	D	דאַז	dAaz	_
+3	falk	N	פֿאַלק	fAalk	_
+4	habin	HVF	האַבין	hAabyN	_
+5	avek	RP-ADV	אַװעק	AaVek	_
+6	gitragin	VBN	גיטראַגין	gytrAagyN	_
+
+SENT	1717E-POZNAN,85.24
+1	zeynin	BEF	זײנין	zYnyN	_
+2	dr_nakh	DR+P	דר_נאַך	dr_nAaX	_
+3	andri	ADJ	אַנדרי	Aandry	_
+4	gikumin	VBN	גיקומין	gykvmyN	_
+
+SENT	1717E-POZNAN,85.25
+1	mn	PRO	מן	mN	_
+2	zal	MDF	ז"ל	z"l	_
+3	zi	PRO	זי	zy	_
+4	veyzn	VB	װײזן	VYzN	_
+5	via	WADV	װיִאַ	VyiAa	_
+6	gelt	N	געלט	gelt	_
+7	iz	BEF	איז	Ayz	_
+8	fr_grabin	VAN	פֿר_גראַבין	fr_grAabyN	_
+
+SENT	1717E-POZNAN,85.26
+1	eynr	PRO	אײנר	AYnr	_
+2	den	D	דען	deN	_
+3	andrn	ADJ	אַנדרן	AandrN	_
+4	habin	HVF	האַבין	hAabyN	_
+5	zikh	PRO	זיך	zyX	_
+6	gigebin	VBN	גיגעבין	gygebyN	_
+7	in	P	אין	AyN	_
+8	di	D	די	dy	_
+9	tir	N	טיר	tyr	_
+
+SENT	1717E-POZNAN,85.27
+1	tsu	TO	צו	qv	_
+2	sreybn	VB	סרײבן	srYbN	_
+3	als	Q	אַלס	Aals	_
+4	ver	VBF	װער	Ver	_
+5	tsu	ADV	צו	qv	_
+6	vinig	Q	װיניג	Vynyg	_
+7	al	Q	אַל	Aal	_
+8	daz	D	דאַז	dAaz	_
+9	ppir	N	פּפּיר	ppyr	_
+
+SENT	1717E-POZNAN,85.28
+1	habin	HVF	האַבין	hAabyN	_
+2	gizagt	VBN	גיזאַגט	gyzAagt	_
+3-4	tsum	P~D	צום	qvM	_
+3	tsu	P	צו	qv	_
+4	m	D	מ	m	_
+5	erstn	ADJ	ערסטן	erstN	_
+6	viln	MDF	װילן	VylN	_
+7	mir	PRO	מיר	myr	_
+8	nemn	VB	נעמן	nemN	_
+9	eyer	PRO$	אײער	AYer	_
+10	gelt	N	געלט	gelt	_
+
+SENT	1717E-POZNAN,85.29
+1	der_nakh	DR+P	דער_נאַך	der_nAaX	_
+2	mizt	MDF	מיזט	myzt	_
+3	ir	PRO	איר	Ayr	_
+4	kumin	VB	קומין	kvmyN	_
+5	fun	P	פֿון	fvN	_
+6	di	D	די	dy	_
+7	velt	N	װעלט	Velt	_
+
+SENT	1717E-POZNAN,85.30
+1	vert	RDF	װערט	Vert	_
+2	den	ADV	דען	deN	_
+3	arop	ADV	אַראָפּ	AarAop	_
+4	kumn	VB	קומן	kvmN	_
+5	fun	P	פֿון	fvN	_
+6	himl	N	הימל	hyml	_
+7	eyer	PRO$	אײער	AYer	_
+8	gat	NPR	גאַט	gAat	_
+
+SENT	1717E-POZNAN,85.31
+1	mir	PRO	מיר	myr	_
+2	veln	MDF	װעלן	VelN	_
+3	eykh	PRO	אײך	AYX	_
+4	makhin	VB	מאַכין	mAaxyN	_
+5	tsu	P	צו	qv	_
+6	sandin	N	סאַנדין	sAandyN	_
+7	un	CONJ	און	AvN	_
+8	tsu	P	צו	qv	_
+9	spat	N	ספּאַט	spAat	_
+
+SENT	1717E-POZNAN,85.32
+1	ez	PRO	עז	ez	_
+2	zeynin	BEF	זײנין	zYnyN	_
+3	givezin	VBN	גיװעזין	gyVezyN	_
+4	bez"h	H	בעז"ה	bez"h	in_world_this
+5	eytil	ADJ	אײטיל	AYtyl	_
+6	roybir	N	רױביר	rWbyr	_
+7	in	CONJ	אין	AyN	_
+8	mardr	N	מאַרדר	mAardr	_
+
+SENT	1717E-POZNAN,85.33
+1	zi	PRO	זי	zy	_
+2	hubin	VBF	הובין	hvbyN	_
+3	vilekht	ADV	װילעכט	Vylext	_
+4	an	D	אַן	AaN	_
+5	ardir	N	אַרדיר	Aardyr	_
+
+SENT	1717E-POZNAN,85.34
+1	zi	PRO	זי	zy	_
+2	habn	HVF	האַבן	hAabN	_
+3	gihat	VBN	גיהאַט	gyhAat	_
+4	di	D	די	dy	_
+5	..li.nakht	X	..לי.נאַכט	..ly.nAaxt	_
+
+SENT	1717E-POZNAN,85.35
+1	zi	PRO	זי	zy	_
+2	verin	RDF	װערין	VeryN	_
+3	alz	Q	אַלז	Aalz	_
+4	oys	RP	אױס	AWs	_
+5	reysin	VB	רײסין	rYsyN	_
+6	kh"v	H	כ"װ	x"V	have_mercy_and_peace
+7	habin	HVF	האַבין	hAabyN	_
+8	mir	PRO	מיר	myr	_
+9	gidakht	VBN	גידאַכט	gydAaxt	_
+
+SENT	1717E-POZNAN,85.36
+1	...	PUNC	...	...	_
+2	hat	HVF	האַט	hAat	_
+3	uns	PRO	אונס	Avns	_
+4	mktun	H	מקטון	mktvN	from_small
+5	ved	H	װעד	Ved	und_to
+6	gdul	H	גדול	gdvl	great
+7	eyn_vek	ADV	אײנ_װעק	AYn_Vek	_
+8	ginumn	VBN	גינומן	gynvmN	_
+
+SENT	1717E-POZNAN,85.37
+1	un	CONJ	און	AvN	_
+2	men	PRO	מען	meN	_
+3	hat	HVF	האַט	hAat	_
+4	unz	PRO	אונז	Avnz	_
+5	nit	NEG	ניט	nyt	_
+6	glazin	VBN	גלאַזין	glAazyN	_
+7	eyn	D	אײן	AYN	_
+8	suh	N	סוה	svh	_
+9	pruth	N	פּרוטה	prvth	_
+
+SENT	1717E-POZNAN,85.38
+1	ez	ES	עז	ez	_
+2	iz	BEF	איז	Ayz	_
+3	mkoym	RP-H	מקױם	mkWM	_
+4	givarn	VBN	גיװאַרן	gyVAarN	_
+5	vathh	H	װאַטהה	VAathh	and_you_will_fall
+6	thrd	H	טהרד	thrd	you_will_fall
+7	mth	H	מטה	mth	death
+8	mth	H	מטה	mth	death
+
+SENT	1717E-POZNAN,85.39
+1	daz	D	דאַז	dAaz	_
+2	heyst	VBF	הײסט	hYst	_
+3	.ikh	X	.איך	.AyX	_
+4	gleykh	ADV	גלײך	glYX	_
+5	az	C	אַז	Aaz	_
+6	mn	PRO	מן	mN	_
+7	het	HVF	העט	het	_
+8	der_slagn	VBN	דער_סלאַגן	der_slAagN	_
+9	ekhi	H	עכי	exy	UNKNOWN
+10	hsub	H	הסוב	hsvb	UNKNOWN
+11	nmth	H	נמטה	nmth	UNKNOWN
+12	tuan	DOF	טואַן	tvAaN	_
+13	unzri	PRO$	אונזרי	Avnzry	_
+14	khkhmim	N	ככמים	xxmyM	_
+15	zagn	VB	זאַגן	zAagN	_
+
+SENT	1717E-POZNAN,85.40
+1	...	PUNC	...	...	_
+2	eyn	D	אײן	AYN	_
+3	gzirh	N	גזירה	gzyrh	_
+4	iz	BEF	איז	Ayz	_
+5	das	D	דת	dS	_
+6	givezin	VBN	גיװעזין	gyVezyN	_
+7	dz	C	דז	dz	_
+8	eyn	D	אײן	AYN	_
+9	fatr	N	פֿאַטר	fAatr	_
+10	hat	HVF	האַט	hAat	_
+11	nist	NEG	ניסט	nyst	_
+12	givaust	VBN	גיװאַוסט	gyVAavst	_
+13	fun	P	פֿון	fvN	_
+14	zeyn	PRO$	זײן	zYN	_
+15	kind	N	קינד	kynd	_
+
+SENT	1717E-POZNAN,85.41
+1	un	CONJ	און	AvN	_
+2	az	C	אַז	Aaz	_
+3	daz	D	דאַז	dAaz	_
+4	kind	N	קינד	kynd	_
+5	hat	HVF	האַט	hAat	_
+6	gzehn	VBN	גזעהן	gzehN	_
+7	mn	PRO	מן	mN	_
+8	vil	MDF	װיל	Vyl	_
+9	zeyn	PRO$	זײן	zYN	_
+10	fatr	N	פֿאַטר	fAatr	_
+11	un	CONJ	און	AvN	_
+12	mutr	N	מוטר	mvtr	_
+13	hrg'in	VB	הרג'אין	hrg'AyN	_
+14	iz	BEF	איז	Ayz	_
+15	ez	PRO	עז	ez	_
+16	avek	RP-ADV	אַװעק	AaVek	_
+17	glafin	VBN	גלאַפֿין	glAafyN	_
+18	gsvind	ADV	גסװינד	gsVynd	_
+
+SENT	1717E-POZNAN,85.42
+1	un	CONJ	און	AvN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zikh	PRO	זיך	zyX	_
+4	in	P	אין	AyN	_
+5	lekhr	N	לעכר	lexr	_
+6	tun	DON-IPP	טון	tvN	_
+7	fr_stekin	VB	פֿר_סטעקין	fr_stekyN	_
+
+SENT	1717E-POZNAN,85.43
+1	mit	P	מיט	myt	_
+2	shtroy	N	שטרױ	$trW	_
+3	hubin	HVF	הובין	hvbyN	_
+4	zi	PRO	זי	zy	_
+5	zikh	PRO	זיך	zyX	_
+6	tun	DON-IPP	טון	tvN	_
+7	tsu	RP	צו	qv	_
+8	dekin	VB	דעקין	dekyN	_
+
+SENT	1717E-POZNAN,85.44
+1	froyan	N	פֿרױאַן	frWAaN	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zi	PRO	זי	zy	_
+4	gitan	VBN	גיטאַן	gytAaN	_
+5	...	PUNC	...	...	_
+6	i	C	אי	Ay	_
+7	ir	ADV	איר	Ayr	_
+8	dikh	PRO	דיך	dyX	_
+9	...l	X	...ל	...l	_
+10	kuglin	N	קוגלין	kvglyN	_
+11	titn	VBF	טיטן	tytN	_
+
+SENT	1717E-POZNAN,85.45
+1	az	P	אַז	Aaz	_
+2	eyn	D	אײן	AYN	_
+3	poyk	N	פּױק	pWk	_
+4	iz	BEF	איז	Ayz	_
+5	gisvalin	VBN	גיסװאַלין	gysVAalyN	_
+6	ir	PRO$	איר	Ayr	_
+7	guf	N	גוף	gvF	_
+8	un	CONJ	און	AvN	_
+9	hend	N	הענד	hend	_
+10	un	CONJ	און	AvN	_
+11	fisn	N	פֿיסן	fysN	_
+12	oyf	P	אױף	AWF	_
+13	fil	Q	פֿיל	fyl	_
+14	zelkhi	ADJ	זעלכי	zelxy	_
+15	di	WPRO	די	dy	_
+16	kenin	VBF	קענין	kenyN	_
+17	nit	NEG	ניט	nyt	_
+18	hin	RP-ADV	הין	hyN	_
+19	un	CONJ	און	AvN	_
+20	nit	NEG	ניט	nyt	_
+21	aeyn_her	ADV	אַײנ_הער	AaYn_her	_
+
+SENT	1717E-POZNAN,85.46
+1	mn	PRO	מן	mN	_
+2	ken	MDF	קען	keN	_
+3	nakh	ADV	נ"ך	n"X	_
+4	nit	NEG	ניט	nyt	_
+5	visn	VB	װיסן	VysN	_
+6	vas	WPRO	װאַס	VAas	_
+7	mit	P	מיט	myt	_
+8	zi	PRO	זי	zy	_
+9	iz	VBF	איז	Ayz	_
+10	...	PUNC	...	...	_
+11	mer	Q	מער	mer	_
+
+SENT	1717E-POZNAN,85.47
+1	vi	WADV	װי	Vy	_
+2	hat	HVF	האַט	hAat	_
+3	daz	D	דאַז	dAaz	_
+4	kenn	MDN-IPP	קענן	kenN	_
+5	gut	NPR	גוט	gvt	_
+6	tsu	RP	צו	qv	_
+7	zehn	VB	זעהן	zehN	_
+
+SENT	1717E-POZNAN,85.48
+1	zind	P	זינד	zynd	_
+2	titum	NPR	טיטום	tytvM	_
+3	rse	N	רסע	rse	_
+4	iz	BEF	איז	Ayz	_
+5	das	D	דת	dS	_
+6	nit	NEG	ניט	nyt	_
+7	gishehin	VBN	גישעהין	gy$ehyN	_
+
+SENT	1717E-POZNAN,85.49
+1	zi	PRO	זי	zy	_
+2	habin	HVF	האַבין	hAabyN	_
+3	gishprokhin	VBN	גישפּראָכין	gy$prAoxyN	_
+4	vau	WADV	װאַו	VAav	_
+5	iz	VBF	איז	Ayz	_
+6	eyer	PRO$	אײער	AYer	_
+7	got	NPR	גאָט	gAot	_
+
+SENT	1717E-POZNAN,85.50
+1	laz	VBF	לאַז	lAaz	_
+2	er	PRO	ער	er	_
+3	zikh	PRO	זיך	zyX	_
+4	an	RP	אַן	AaN	_
+5	nemin	VB	נעמין	nemyN	_
+6	az	C	אַז	Aaz	_
+7	ir	PRO	איר	Ayr	_
+8	kumt	VBF	קומט	kvmt	_
+9	tsu	P	צו	qv	_
+10	spat	N	ספּאַט	spAat	_
+
+SENT	1717E-POZNAN,85.51
+1	ven	C	װען	VeN	_
+2	mir	PRO	מיר	myr	_
+3	veltin	MDF	װעלטין	VeltyN	_
+4	dem	D	דעם	deM	_
+5	khilul	H	כילול	xylvl	desecration
+6	hsm	H	הסם	hsM	the_name
+7	sreybin	VB	סרײבין	srYbyN	_
+8	fun	P	פֿון	fvN	_
+9	di	D	די	dy	_
+10	sul	N	סול	svl	_
+11	mekhtin	MDF	מעכטין	mextyN	_
+12	zeyn	VB	זײן	zYN	_
+13	gantsi	ADJ	גאַנצי	gAanqy	_
+14	bikhr	N	ביכר	byxr	_
+15	ful	ADJ	פֿול	fvl	_
+
+SENT	1717E-POZNAN,85.52
+1	viln	MDF	װילן	VylN	_
+2	mir	PRO	מיר	myr	_
+3	der_fun	DR+P	דער_פֿון	der_fvN	_
+4	fr_meydn	VB	פֿר_מײדן	fr_mYdN	_
+
+SENT	1717E-POZNAN,85.53
+1	eyn	D	אײן	AYN	_
+2	teyl	N	טײל	tYl	_
+3	vas	C	װאַס	VAas	_
+4	zi	PRO	זי	zy	_
+5	habin	HVF	האַבין	hAabyN	_
+6	fun	P	פֿון	fvN	_
+7	di	D	די	dy	_
+8	kli	H	קלי	kly	tool
+9	kuds	H	קודס	kvds	holy
+10	ginumin	VBN	גינומין	gynvmyN	_
+11	viln	MDF	װילן	VylN	_
+12	mir	PRO	מיר	myr	_
+13	bsheydn	VB	בשײדן	b$YdN	_
+
+SENT	1717E-POZNAN,85.54
+1	es	ES	עס	es	_
+2	zeynin	BEF	זײנין	zYnyN	_
+3	givezin	VBN	גיװעזין	gyVezyN	_
+4	kroynin	N	קרױנין	krWnyN	_
+5	un	CONJ	און	AvN	_
+6	blekh	N	בלעך	bleX	_
+7	un	CONJ	און	AvN	_
+8	prukhthn	N	פּרוכטהן	prvxthN	_
+9	fun	P	פֿון	fvN	_
+10	fr	P	פֿר	fr	_
+11	tseytn	N	צײטן	qYtN	_
+12	her	ADV	הער	her	_
+13	vas	C	װאַס	VAas	_
+14	da	ADV	דאַ	dAa	_
+15	hat	HVF	האַט	hAat	_
+16	mkdis	RP-H	מקדיס	mkdys	_
+17	givezn	VBN	גיװעזן	gyVezN	_
+18	der	D	דער	der	_
+19	reykhir	ADJ	רײכיר	rYxyr	_
+20	r'	NPR	ר'	r'	_
+21	hirs	NPR	הירס	hyrs	_
+22	un	CONJ	און	AvN	_
+23	der	D	דער	der	_
+24	reykhir	ADJ	רײכיר	rYxyr	_
+25	r'	NPR	ר'	r'	_
+26	ber	NPR	בער	ber	_
+27	oykh	ADV	אױך	AWX	_
+28	meyn	PRO$	מײן	mYN	_
+29	fetir	N	פֿעטיר	fetyr	_
+30	r'	NPR	ר'	r'	_
+31	yshei	NPR	ישעיִ	y$eyi	_
+32	flotsker	NPR	פֿלאָצקער	flAoqker	_
+33	un	CONJ	און	AvN	_
+34	di	D	די	dy	_
+35	andri	ADJ	אַנדרי	Aandry	_
+36	mikhtnim	N	מיכטנים	myxtnyM	_
+
+SENT	1717E-POZNAN,85.55
+1	das	D	דת	dS	_
+2	iz	BEF	איז	Ayz	_
+3	givezin	VBN	גיװעזין	gyVezyN	_
+4	fun	P	פֿון	fvN	_
+5	kmh	H	קמה	kmh	a_few
+6	snim	N	סנים	snyM	years
+
+SENT	1717E-POZNAN,85.56
+1	oykh	ADV	אױך	AWX	_
+2	hktsin	H	הקצין	hkqyN	the_leader
+3	r'	NPR	ר'	r'	_
+4	beril	NPR	בעריל	beryl	_
+5	hat	HVF	האַט	hAat	_
+6	gigebin	VBN	גיגעבין	gygebyN	_
+7	eyn	D	אײן	AYN	_
+8	prukhth	N	פּרוכטה	prvxth	_
+9	in	P	אין	AyN	_
+10	sul	N	סול	svl	_
+
+SENT	1717E-POZNAN,85.57
+1	ez	PRO	עז	ez	_
+2	iz	BEF	איז	Ayz	_
+3	reykh	ADJ	רײך	rYX	_
+4	givezin	VBN	גיװעזין	gyVezyN	_
+5	in	P	אין	AyN	_
+6	zilbr	N	זילבר	zylbr	_
+7	un	CONJ	און	AvN	_
+8	gald	N	גאַלד	gAald	_
+9	gar	ADV	גאַר	gAar	_
+10	ful	Q	פֿול	fvl	_
+
+SENT	1717E-POZNAN,85.58
+1	vi	WADV	װי	Vy	_
+2	fil	Q	פֿיל	fyl	_
+3	toyznt	NUM	טױזנט	tWznt	_
+4	gildr	N	גילדר	gyldr	_
+5	hat	HVF	האַט	hAat	_
+6	es	PRO	עס	es	_
+7	an	RP	אַן	AaN	_
+8	gitrafn	VBN	גיטראַפֿן	gytrAafN	_
+
+SENT	1717E-POZNAN,85.59
+1	zi	PRO	זי	zy	_
+2	zeynin	BEF	זײנין	zYnyN	_
+3	der_mit	DR+P	דער_מיט	der_myt	_
+4	in	P	אין	AyN	_
+5	klustr	N	קלוסטר	klvstr	_
+6	arayn	ADV	אַרײַן	AarYaN	_
+7	gilafin	VBN	גילאַפֿין	gylAafyN	_
+8	un	CONJ	און	AvN	_
+9	gshprokhin	VBN	גשפּראָכין	g$prAoxyN	_
+10	yudn	N	יודן	yvdN	_
+11	fr	P	פֿר	fr	_
+12	feyar	N	פֿײאַר	fYAar	_
+13	zalt	MDF	זאַלט	zAalt	_
+14	ir	PRO	איר	Ayr	_
+15	eykh	PRO	אײך	AYX	_
+16	heynt	ADV	הײנט	hYnt	_
+17	hitn	VB	היטן	hytN	_
+
+SENT	1717E-POZNAN,85.60
+1	vasir	N	װאַסיר	VAasyr	_
+2	zalt	MDF	זאַלט	zAalt	_
+3	ir	PRO	איר	Ayr	_
+4	eykh	PRO	אײך	AYX	_
+5	lazin	VB	לאַזין	lAazyN	_
+6	tragin	VB	טראַגין	trAagyN	_
+7	oyf	P	אױף	AWF	_
+8	di	D	די	dy	_
+9	dekhir	N	דעכיר	dexyr	_
+
+SENT	1717E-POZNAN,85.61
+1	ir	PRO	איר	Ayr	_
+2	vert	RDF	װערט	Vert	_
+3	bkumin	VB	בקומין	bkvmyN	_
+4	feyar	N	פֿײאַר	fYAar	_
+5	daz	C	דאַז	dAaz	_
+6	ir	PRO	איר	Ayr	_
+7	vert	RDF	װערט	Vert	_
+8	eykh	PRO	אײך	AYX	_
+9	fr_stekin	VB	פֿר_סטעקין	fr_stekyN	_
+10	in	P	אין	AyN	_
+11	di	D	די	dy	_
+12	lekhir	N	לעכיר	lexyr	_
+
+SENT	1717E-POZNAN,85.62
+1	ibr	P	איבר	Aybr	_
+2	di	D	די	dy	_
+3	ihudim	N	איהודים	AyhvdyM	_
+4	iz	BEF	איז	Ayz	_
+5	leydr	ADV	לײדר	lYdr	_
+6	varn	RDN	װאַרן	VAarN	_
+7	an	RP	אַן	AaN	_
+8	gebn	VAN	געבן	gebN	_
+9	eyn	D	אײן	AYN	_
+10	mtirh	N	מטירה	mtyrh	_
+11	vi	C	װי	Vy	_
+12	zi	PRO	זי	zy	_
+13	brengn	VBF	ברענגן	brengN	_
+14	oyf	P	אױף	AWF	_
+15	der	D	דער	der	_
+16	shants	N	שאַנץ	$AanQ	_
+17	kuglin	N	קוגלין	kvglyN	_
+18	unt	CONJ	אונט	Avnt	_
+19	pulvir	N	פּולװיר	pvlVyr	_
+20	tsu	RP	צו	qv	_
+21	tsu	TO	צו	qv	_
+22	firn	VB	פֿירן	fyrN	_
+
+SENT	1717E-POZNAN,86.64
+1	drum	DR+P	דרום	drvM	_
+2	habin	HVF	האַבין	hAabyN	_
+3	zi	PRO	זי	zy	_
+4	gilazt	VBN	גילאַזט	gylAazt	_
+5	oys	RP	אױס	AWs	_
+6	rufin	VB	רופֿין	rvfyN	_
+7	mit	P	מיט	myt	_
+8	pukin	N	פּוקין	pvkyN	_
+9	un	CONJ	און	AvN	_
+10	trumitn	N	טרומיטן	trvmytN	_
+11	di	D	די	dy	_
+12	vas	C	װאַס	VAas	_
+13	das	D	דת	dS	_
+14	mkum	N	מקום	mkvM	_
+15	vern	RDF	װערן	VerN	_
+16	eyn	RP	אײן	AYN	_
+17	nemn	VB	נעמן	nemN	_
+18	zalin	MDF	זאַלין	zAalyN	_
+19	di	D	די	dy	_
+20	yudn	N	יודן	yvdN	_
+21	titn	VB	טיטן	tytN	_
+
+SENT	1717E-POZNAN,86.65
+1	drey	NUM	דרײ	drY	_
+2	tag	N	תּג	Tg	_
+3	hat	HVF	האַט	hAat	_
+4	mn	PRO	מן	mN	_
+5	zi	PRO	זי	zy	_
+6	gebn	VBN	געבן	gebN	_
+7	tseyt	N	צײט	qYt	_
+8	zi	PRO	זי	zy	_
+9	zaln	MDF	זאַלן	zAalN	_
+10	zeyn	BE	זײן	zYN	_
+11	an	RP	אַן	AaN	_
+12	gbreyt	VAN	גברײט	gbrYt	_
+
+SENT	1717E-POZNAN,86.66
+1	den	CONJ	דען	deN	_
+2	zi	PRO	זי	zy	_
+3	viln	MDF	װילן	VylN	_
+4	zikh	PRO	זיך	zyX	_
+5	ir	PRO$	איר	Ayr	_
+6	lebn	N	לעבן	lebN	_
+7	in	P	אין	AyN	_
+8	starim	N	סטאַרים	stAaryM	_
+9	vagin	VB	װאַגין	VAagyN	_
+
+SENT	1717E-POZNAN,86.67
+1	du	PRO	דו	dv	_
+2	vas	C	װאַס	VAas	_
+3	verin	RDF	װערין	VeryN	_
+4	fun	P	פֿון	fvN	_
+5	zi	PRO	זי	zy	_
+6	ibr_bleybn	VB	איבר_בלײבן	Aybr_blYbN	_
+7	zalin	MDF	זאַלין	zAalyN	_
+8	di	D	די	dy	_
+9	ful_makht	N	פֿול_מאַכט	fvl_mAaxt	_
+10	ibr	P	איבר	Aybr	_
+11	di	D	די	dy	_
+12	ihudim	N	איהודים	AyhvdyM	_
+13	habn	VB	האַבן	hAabN	_
+
+SENT	1717E-POZNAN,86.68
+1	zi	PRO	זי	zy	_
+2	habin	HVF	האַבין	hAabyN	_
+3	gitan	DON	גיטאַן	gytAaN	_
+4	oyf	RP	אױף	AWF	_
+5	bitn	VB	ביטן	bytN	_
+6	al	Q	אַל	Aal	_
+7	di	D	די	dy	_
+8	poyarin	N	פּױאַרין	pWAaryN	_
+9	fun	P	פֿון	fvN	_
+10	di	D	די	dy	_
+11	derfir	N	דערפֿיר	derfyr	_
+12	zi	PRO	זי	zy	_
+13	zalin	MDF	זאַלין	zAalyN	_
+14	zikh	PRO	זיך	zyX	_
+15	ir	PRO$	איר	Ayr	_
+16	hek	N	העק	hek	_
+17	val	ADV	װאַל	VAal	_
+18	an	RP	אַן	AaN	_
+19	sarfin	VB	סאַרפֿין	sAarfyN	_
+20	zi	PRO	זי	zy	_
+21	zalin	MDF	זאַלין	zAalyN	_
+22	zikh	PRO	זיך	zyX	_
+23	dan	ADV	דאַן	dAaN	_
+24	di	D	די	dy	_
+25	ihudim	N	איהודים	AyhvdyM	_
+26	nukm_unutr	RP-H	נוקמ_ונוטר	nvkm_vnvtr	_
+27	zeyn	VB	זײן	zYN	_
+28	tsu	TO	צו	qv	_
+29	fr_tilgn	VB	פֿר_טילגן	fr_tylgN	_
+30	grus	ADJ	גרוס	grvs	_
+31	unt	CONJ	אונט	Avnt	_
+32	kleyn	ADJ	קלײן	klYN	_
+
+SENT	1717E-POZNAN,86.69
+1	den	D	דען	deN	_
+2	firdn	ADJ	פֿירדן	fyrdN	_
+3	tag	N	תּג	Tg	_
+4	in	P	אין	AyN	_
+5	khuds	N	כודס	xvds	_
+6	ab	NPR	אַב	Aab	_
+7	bey	P	בײ	bY	_
+8	nakht	N	נאַכט	nAaxt	_
+9	hat	HVF	האַט	hAat	_
+10	hk"bh	H	הק"בה	hk"bh	the_holy_blessed_he
+11	unzir	PRO$	אונזיר	Avnzyr	_
+12	zind	N	זינד	zynd	_
+13	gidakht	VBN	גידאַכט	gydAaxt	_
+
+SENT	1717E-POZNAN,86.70
+1	di	D	די	dy	_
+2	turin	N	טורין	tvryN	_
+3	fun	P	פֿון	fvN	_
+4	di	D	די	dy	_
+5	thfilh	N	טהפֿילה	thfylh	_
+6	hat	HVF	האַט	hAat	_
+7	er	PRO	ער	er	_
+8	gitan	DON	גיטאַן	gytAaN	_
+9	tsu	RP	צו	qv	_
+10	shlisn	VB	שליסן	$lysN	_
+11	oykh	ADV	אױך	AWX	_
+12	fun	P	פֿון	fvN	_
+13	di	D	די	dy	_
+14	trerin	N	טרערין	treryN	_
+15	vas	C	װאַס	VAas	_
+16	mir	PRO	מיר	myr	_
+17	habin	HVF	האַבין	hAabyN	_
+18	gitan	DON	גיטאַן	gytAaN	_
+19	fr_gisn	VB	פֿר_גיסן	fr_gysN	_
+
+SENT	1717E-POZNAN,86.71
+1	vi	WADV	װי	Vy	_
+2	habin	HVF	האַבין	hAabyN	_
+3	mir	PRO	מיר	myr	_
+4	zikh	PRO	זיך	zyX	_
+5	gitan	DON	גיטאַן	gytAaN	_
+6	al	Q	אַל	Aal	_
+7	hurbn	VB	הורבן	hvrbN	_
+8	...	PUNC	...	...	_
+

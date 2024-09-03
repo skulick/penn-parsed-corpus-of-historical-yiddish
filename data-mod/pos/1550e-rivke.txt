@@ -1,0 +1,34 @@
+SENT	1550E-RIVKE,45.3
+1	vi	C	װי	Vy	_
+2	eyn	D	אײן	AYN	_
+3	isho	H	אישאָ	Ay$Ao	woman
+4	zal	MDF	ז"ל	z"l	_
+5	zikh	PRO	זיך	zyX	_
+6	fleysig	ADV	פֿלײסיג	flYsyg	_
+7	mian	VB	מיִאַן	myiAaN	_
+8	dz	C	דז	dz	_
+9	zi	PRO	זי	zy	_
+10	iri	PRO$	אירי	Ayry	_
+11	kindr	N	קינדר	kyndr	_
+12	zal	MDF	ז"ל	z"l	_
+13	tsu	P	צו	qv	_
+14	turh	H	טורה	tvrh	Torah
+15	vmesim	H	װמעסים	VmesyM	and_deeds
+16	tubim	H	טובים	tvbyM	good
+17	drtsian	VB	דרציִאַן	drqyiAaN	_
+18	du	ADV	דו	dv	_
+19	vern	RDF	װערן	VerN	_
+20	zi	PRO	זי	zy	_
+21	di	D	די	dy	_
+22	leyt	N	לײט	lYt	_
+23	benshn	VB	בענשן	ben$N	_
+24	vol	N	װאָל	VAol	_
+25	dem	D	דעם	deM	_
+26	boym	N	בױם	bWM	_
+27	di	WPRO	די	dy	_
+28	zilkhi	ADJ	זילכי	zylxy	_
+29	frukht	N	פֿרוכט	frvxt	_
+30	hat	HVF	האַט	hAat	_
+31	mkhn	VBN-IPP	מכן	mxN	_
+32	bliain	VB	בליִאַין	blyiAayN	_
+

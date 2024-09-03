@@ -1,0 +1,95 @@
+SENT	1478W-LETTER-REGENSBURG,156.3
+1	liebe	ADJ	ליִעבע	lyiebe	_
+2	froyndin	N	פֿרױנדין	frWndyN	_
+3	,	PUNC	,	,	_
+4	du	PRO	דו	dv	_
+5	liebe	ADJ	ליִעבע	lyiebe	_
+6	kron	N	קראָן	krAoN	_
+7	,	PUNC	,	,	_
+8	ikh	PRO	איך	AyX	_
+9	kasven	VBF	כּתבֿען	KS~eN	_
+10	dir	PRO	דיר	dyr	_
+11	fil	Q	פֿיל	fyl	_
+12	,	PUNC	,	,	_
+
+SENT	1478W-LETTER-REGENSBURG,156.4
+1	du	PRO	דו	dv	_
+2	entv{erst}	VBF	ענטװ{ערסט}	entV{erst}	_
+3	mir	PRO	מיר	myr	_
+4	nikhtsit	Q	ניכציט	nyxqyt	_
+5	.	PUNC	.	.	_
+
+SENT	1478W-LETTER-REGENSBURG,156.5
+1	ob	C	אָב	Aob	_
+2	du	PRO	דו	dv	_
+3	nit	NEG	ניט	nyt	_
+4	kasven	VB	כּתבֿען	KS~eN	_
+5	kanst	MDF	קאַנסט	kAanst	_
+6	on	P	אָן	AoN	_
+7	di	D	די	dy	_
+8	inoyem	N	אינױעם	AynWeM	_
+9	?	PUNC	?	?	_
+
+SENT	1478W-LETTER-REGENSBURG,156.6
+1	ikh	PRO	איך	AyX	_
+2	ver	RDF	װער	Ver	_
+3	morgen	ADV	מאָרגען	mAorgeN	_
+4	mit	P	מיט	myt	_
+5	dem	D	דעם	deM	_
+6	iren	N	אירען	AyreN	_
+7	reden	VB	רעדען	redeN	_
+8	,	PUNC	,	,	_
+9	ob	C	אָב	Aob	_
+10	ikh	PRO	איך	AyX	_
+11	deyn	PRO$	דײן	dYN	_
+12	zakh	N	זאַך	zAaX	_
+13	kont	MDF	קאָנט	kAont	_
+14	tsu	P	צו	qv	_
+15	guet	N	גועט	gvet	_
+16	ous	RP	אָוס	Aovs	_
+17	makhen	VB	מאַכען	mAaxeN	_
+18	.	PUNC	.	.	_
+
+SENT	1478W-LETTER-REGENSBURG,156.7
+1	shik	VBI	שיק	$yk	_
+2	di	D	די	dy	_
+3	haub	N	האַוב	hAavb	_
+4	vider	ADV	װידער	Vyder	_
+5	heraus	ADV	העראַוס	herAavs	_
+6	.	PUNC	.	.	_
+
+SENT	1478W-LETTER-REGENSBURG,156.8
+1	hays	VBI	הײַס	hYas	_
+2	das	D	דת	dS	_
+3	lokh	N	לאָך	lAoX	_
+4	doheran	DR+P	דאָהעראַן	dAoherAaN	_
+5	fer_makhen	VB	פֿער_מאַכען	fer_mAaxeN	_
+6	.	PUNC	.	.	_
+
+SENT	1478W-LETTER-REGENSBURG,156.9
+1	kokh	VBI	קאָך	kAoX	_
+2	rayn	ADJ	רײַן	rYaN	_
+3	pulver	N	פּולװער	pvlVer	_
+4	in	P	אין	AyN	_
+5	aynem	D	אײַנעם	AYaneM	_
+6	apel	N	אַפּעל	Aapel	_
+7	.	PUNC	.	.	_
+
+SENT	1478W-LETTER-REGENSBURG,156.10
+1	host	VBF	האָסט	hAost	_
+2	vol	ADV	װאָל	VAol	_
+3	h	H	ה	h	the
+4	yomem	H	יאָמעם	yAomeM	UNKNOWN
+5	.	PUNC	.	.	_
+
+SENT	1478W-LETTER-REGENSBURG,156.11
+1	shrayb	VBI	שרײַב	$rYab	_
+2	guet	ADJ	גועט	gvet	_
+3	doytsh	N	דױטש	dWt$	_
+4	.	PUNC	.	.	_
+
+SENT	1478W-LETTER-REGENSBURG,156.12
+1	nay	X	נײַ	nYa	_
+2	ayn	X	אײַן	AYaN	_
+3	.	PUNC	.	.	_
+

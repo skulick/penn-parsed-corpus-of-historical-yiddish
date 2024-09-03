@@ -1,0 +1,1020 @@
+SENT	1723W-SIMKHES,63.3
+1	moshol	N	מאָשאָל	mAo$Aol	_
+2	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,63.4
+1	eyner	PRO	אײנער	AYner	_
+2	hot	HVF	האָט	hAot	_
+3	gehot	VBN	געהאָט	gehAot	_
+4	eyn	D	אײן	AYN	_
+5	shenen	ADJ	שענען	$eneN	_
+6	gorten	N	גאָרטען	gAorteN	_
+7	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,63.5
+1	un	CONJ	און	AvN	_
+2	eyn	D	אײן	AYN	_
+3	fogel	N	פֿאָגעל	fAogel	_
+4	iz	BEF	איז	Ayz	_
+5	ale	Q	אַלע	Aale	_
+6	tog	N	טאָג	tAog	_
+7	kumen	VBN	קומען	kvmeN	_
+
+SENT	1723W-SIMKHES,63.6
+1	un	CONJ	און	AvN	_
+2	hot	HVF	האָט	hAot	_
+3	grosen	ADJ	גראָסען	grAoseN	_
+4	shoden	N	שאָדען	$AodeN	_
+5	geton	VBN	געטאָן	getAoN	_
+6-7	im	P~D	אים	AyM	_
+6	i	P	אי	Ay	_
+7	m	D	מ	m	_
+8	gorten	N	גאָרטען	gAorteN	_
+9	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,63.7
+1	nun	INTJ	נ	n	_
+2	der	D	דער	der	_
+3	her	N	הער	her	_
+4	iz	BEF	איז	Ayz	_
+5	im	PRO	אים	AyM	_
+6-7	nokhgeshtanden	RP~VBN	נאָכגעשטאַנדען	nAoxge$tAandeN	_
+6	nokh	RP	נאָך	nAoX	_
+7	geshtanden	VBN	געשטאַנדען	ge$tAandeN	_
+
+SENT	1723W-SIMKHES,63.8
+1	un	CONJ	און	AvN	_
+2	hot	HVF	האָט	hAot	_
+3	im	PRO	אים	AyM	_
+4	gefangen	VBN	געפֿאַנגען	gefAangeN	_
+5	in	P	אין	AyN	_
+6	zeyner	PRO$	זײנער	zYner	_
+7	nets	N	נעץ	neQ	_
+8	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,63.9
+1	un	CONJ	און	AvN	_
+2	in	P	אין	AyN	_
+3	rogez	N	ראָגעז	rAogez	_
+4	hot	HVF	האָט	hAot	_
+5	er	PRO	ער	er	_
+6	den	D	דען	deN	_
+7	fogel	N	פֿאָגעל	fAogel	_
+8	velen	MDN-IPP	װעלען	VeleN	_
+9	memis	RP-H	מעמיס	memys	_
+10	zeyn	VB	זײן	zYN	_
+11	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,63.10
+1	hot	HVF	האָט	hAot	_
+2	der	D	דער	der	_
+3	fogel	N	פֿאָגעל	fAogel	_
+4	tsu	P	צו	qv	_
+5	im	PRO	אים	AyM	_
+6-7	ongefangen	RP~VBN	אָנגעפֿאַנגען	AongefAangeN	_
+6	on	RP	אָן	AoN	_
+7	gefangen	VBN	געפֿאַנגען	gefAangeN	_
+8	tsu	TO	צו	qv	_
+9	reden	VB	רעדען	redeN	_
+10	:	PUNC	:	:	_
+11	ikh	PRO	איך	AyX	_
+12	bin	VBF	בין	byN	_
+13	eyn	D	אײן	AYN	_
+14	kleyn	ADJ	קלײן	klYN	_
+15	fegelkhe	N	פֿעגעלכע	fegelxe	_
+16	,	PUNC	,	,	_
+
+SENT	1723W-SIMKHES,64.11
+1	vos	WPRO	װאָס	VAos	_
+2-3	verstu	RDF~PRO	װערסטו	Verstv	_
+2	vers	RDF	װערס	Vers	_
+3	tu	PRO	טו	tv	_
+4	for	P	פֿאָר	fAor	_
+5	eyn	D	אײן	AYN	_
+6	nutsen	N	נוצען	nvqeN	_
+7	hoben	VB	האָבען	hAobeN	_
+8	,	PUNC	,	,	_
+9	vens	C	װענס	Vens	_
+10	tu	PRO	טו	tv	_
+11	mikh	PRO	מיך	myX	_
+12	verst	RDF	װערסט	Verst	_
+13-14	umbrengen	RP~VB	אומברענגען	AvmbrengeN	_
+13	um	RP	אום	AvM	_
+14	brengen	VB	ברענגען	brengeN	_
+15	?	PUNC	?	?	_
+
+SENT	1723W-SIMKHES,64.12
+1	ikh	PRO	איך	AyX	_
+2	vil	MDF	װיל	Vyl	_
+3	dikh	PRO	דיך	dyX	_
+4	vos	Q	װאָס	VAos	_
+5	lernen	VB	לערנען	lerneN	_
+6	,	PUNC	,	,	_
+7	doz	WPRO	דאָז	dAoz	_
+8	vert	RDF	װערט	Vert	_
+9	dir	PRO	דיר	dyr	_
+10	fil	Q	פֿיל	fyl	_
+11	tsu	P	צו	qv	_
+12	nuts	N	נוץ	nvQ	_
+13	kumen	VB	קומען	kvmeN	_
+14	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,64.13
+1	on	P	אָן	AoN	_
+2	mir	PRO	מיר	myr	_
+3-4	verstu	RDF~PRO	װערסטו	Verstv	_
+3	vers	RDF	װערס	Vers	_
+4	tu	PRO	טו	tv	_
+5	dikh	PRO	דיך	dyX	_
+6	venig	Q	װעניג	Venyg	_
+7	loben	VB	לאָבען	lAobeN	_
+
+SENT	1723W-SIMKHES,64.14
+1	un	CONJ	און	AvN	_
+2	verst	RDF	װערסט	Verst	_
+3	nit	NEG	ניט	nyt	_
+4	zat	ADJ	זאַט	zAat	_
+5	vern	VB	װערן	VerN	_
+6	fun	P	פֿון	fvN	_
+7	mir	PRO	מיר	myr	_
+8	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,64.15
+1	azo	ADV	אַזאָ	AazAo	_
+2	hot	HVF	האָט	hAot	_
+3	er	PRO	ער	er	_
+4	dem	D	דעם	deM	_
+5	fogel	N	פֿאָגעל	fAogel	_
+6	leben	VB	לעבען	lebeN	_
+7	gelozt	VBN	געלאָזט	gelAozt	_
+8	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,64.16
+1	derkegen	DR+P	דערקעגען	derkegeN	_
+2	hot	HVF	האָט	hAot	_
+3	der	D	דער	der	_
+4	fogel	N	פֿאָגעל	fAogel	_
+5	im	PRO	אים	AyM	_
+6	gelernt	VBN	געלערנט	gelernt	_
+7	dreyerley	NUM	דרײערלײ	drYerlY	_
+8	zakhen	N	זאַכען	zAaxeN	_
+9	un	CONJ	און	AvN	_
+10	tsu	P	צו	qv	_
+11	im	PRO	אים	AyM	_
+12	gezogt	VBN	געזאָגט	gezAogt	_
+13	:	PUNC	:	:	_
+14	nem	VBI	נעם	neM	_
+15	di	D	די	dy	_
+16	dreyerley	NUM	דרײערלײ	drYerlY	_
+17	zakhen	N	זאַכען	zAaxeN	_
+18	vol	ADV	װאָל	VAol	_
+19	in	P	אין	AyN	_
+20	akht	N	אַכט	Aaxt	_
+21	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,64.17
+1	eyns	PRO	אײנס	AYns	_
+2	iz	VBF	איז	Ayz	_
+3	,	PUNC	,	,	_
+4	du	PRO	דו	dv	_
+5	zolst	MDF	זאָלסט	zAolst	_
+6	dikh	PRO	דיך	dyX	_
+7	nit	NEG	ניט	nyt	_
+8	m'tsar	RP-H	מ'צער	m'qer	_
+9	zeyn	VB	זײן	zYN	_
+10	auf	P	אַוף	AavF	_
+11	dem	D	דעם	deM	_
+12	alem	Q	אַלעם	AaleM	_
+13	,	PUNC	,	,	_
+14	vos	WPRO	װאָס	VAos	_
+15	du	PRO	דו	dv	_
+16	nun	ADV	נ	n	_
+17	forloren	VBN	פֿאָרלאָרען	fAorlAoreN	_
+18	host	HVF	האָסט	hAost	_
+19	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,64.18
+1	doz	D	דאָז	dAoz	_
+2	andre	ADJ	אַנדרע	Aandre	_
+3	iz	VBF	איז	Ayz	_
+4	,	PUNC	,	,	_
+5	du	PRO	דו	dv	_
+6	zolst	MDF	זאָלסט	zAolst	_
+7	nit	NEG	ניט	nyt	_
+8	forlangen	VB	פֿאָרלאַנגען	fAorlAangeN	_
+9	,	PUNC	,	,	_
+10	vos	WPRO	װאָס	VAos	_
+11	du	PRO	דו	dv	_
+12	nit	NEG	ניט	nyt	_
+13	kanst	MDF	קאַנסט	kAanst	_
+14	arlangen	VB	אַרלאַנגען	AarlAangeN	_
+15	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,64.19
+1	doz	D	דאָז	dAoz	_
+2	drite	ADJ	דריטע	dryte	_
+3	iz	VBF	איז	Ayz	_
+4	,	PUNC	,	,	_
+5	du	PRO	דו	dv	_
+6	zolst	MDF	זאָלסט	zAolst	_
+7	nit	NEG	ניט	nyt	_
+8	glauben	VB	גלאַובען	glAavbeN	_
+9	,	PUNC	,	,	_
+10	vos	WPRO	װאָס	VAos	_
+11	nit	NEG	ניט	nyt	_
+12	kan	MDF	ק"ן	k"N	_
+13	gezeyn	VB	געזײן	gezYN	_
+14	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,64.20
+1	di	D	די	dy	_
+2	dreyerley	NUM	דרײערלײ	drYerlY	_
+3-4	verstu	RDF~PRO	װערסטו	Verstv	_
+3	vers	RDF	װערס	Vers	_
+4	tu	PRO	טו	tv	_
+5	mit	P	מיט	myt	_
+6	der	D	דער	der	_
+7	tseyt	N	צײט	qYt	_
+8	erforen	VB	ערפֿאָרען	erfAoreN	_
+9	,	PUNC	,	,	_
+10	vos	WPRO	װאָס	VAos	_
+11	der	D	דער	der	_
+12	nutsen	N	נוצען	nvqeN	_
+13	derfun	DR+P	דערפֿון	derfvN	_
+14	iz	VBF	איז	Ayz	_
+15	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,64.21
+1	nun	INTJ	נ	n	_
+2	der	D	דער	der	_
+3	her	N	הער	her	_
+4	fun	P	פֿון	fvN	_
+5	dem	D	דעם	deM	_
+6	gorten	N	גאָרטען	gAorteN	_
+7	hot	HVF	האָט	hAot	_
+8	zikh	PRO	זיך	zyX	_
+9	m'samekh	RP-H	מ'ס	m's	_
+10	gevezen	VBN	געװעזען	geVezeN	_
+11	,	PUNC	,	,	_
+12	als	C	אַלס	Aals	_
+13	er	PRO	ער	er	_
+14	di	D	די	dy	_
+15	dreyerley	N	דרײערלײ	drYerlY	_
+16	gelernt	VBN	געלערנט	gelernt	_
+17	hot	HVF	האָט	hAot	_
+
+SENT	1723W-SIMKHES,64.22
+1	un	CONJ	און	AvN	_
+2	hot	HVF	האָט	hAot	_
+3	dem	D	דעם	deM	_
+4	fogel	N	פֿאָגעל	fAogel	_
+5	lozen	VBN-IPP	לאָזען	lAozeN	_
+6	fligen	VB	פֿליגען	flygeN	_
+7	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,64.23
+1	azo	ADV	אַזאָ	AazAo	_
+2	bald	ADV	באַלד	bAald	_
+3	iz	BEF	איז	Ayz	_
+4	der	D	דער	der	_
+5	fogel	N	פֿאָגעל	fAogel	_
+6	geflogen	VBN	געפֿלאָגען	geflAogeN	_
+7	auf	P	אַוף	AavF	_
+8	eyn	D	אײן	AYN	_
+9	hokhen	ADJ	האָכען	hAoxeN	_
+10	baum	N	באַום	bAavM	_
+
+SENT	1723W-SIMKHES,64.24
+1	un	CONJ	און	AvN	_
+2	hot	HVF	האָט	hAot	_
+3	auf	P	אַוף	AavF	_
+4	dem	D	דעם	deM	_
+5	herrn	N	העררן	herrN	_
+6	fun	P	פֿון	fvN	_
+7	gorten	N	גאָרטען	gAorteN	_
+8	gerufen	VBN	גערופֿען	gervfeN	_
+9	:	PUNC	:	:	_
+10	ey	INTJ	אײ	AY	_
+11	du	PRO	דו	dv	_
+12	nar	N	נאַר	nAar	_
+13	,	PUNC	,	,	_
+14-15	zelstu	MDF~PRO	זעלסטו	zelstv	_
+14	zels	MDF	זעלס	zels	_
+15	tu	PRO	טו	tv	_
+16	visen	VB	װיסען	VyseN	_
+17	,	PUNC	,	,	_
+18	vos	WPRO	װאָס	VAos	_
+19	du	PRO	דו	dv	_
+20	on	P	אָן	AoN	_
+21	mir	PRO	מיר	myr	_
+22	forloren	VBN	פֿאָרלאָרען	fAorlAoreN	_
+23	host	HVF	האָסט	hAost	_
+24	,	PUNC	,	,	_
+25-26	geherstu	MDF~PRO	געהערסטו	geherstv	_
+25	gehers	MDF	געהערס	gehers	_
+26	tu	PRO	טו	tv	_
+27	dikh	PRO	דיך	dyX	_
+28	m'tsar	RP-H	מ'צער	m'qer	_
+29	tsu	TO	צו	qv	_
+30	zeyn	VB	זײן	zYN	_
+31	driber	DR+P	דריבער	dryber	_
+32	ale	Q	אַלע	Aale	_
+33	deyne	PRO$	דײנע	dYne	_
+34	tog	N	טאָג	tAog	_
+35	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,64.25
+1	hot	HVF	האָט	hAot	_
+2	er	PRO	ער	er	_
+3	den	D	דען	deN	_
+4	fogel	N	פֿאָגעל	fAogel	_
+5	gefregt	VBN	געפֿרעגט	gefregt	_
+6	:	PUNC	:	:	_
+7	vos	WPRO	װאָס	VAos	_
+8	hob	HVF	האָב	hAob	_
+9	ikh	PRO	איך	AyX	_
+10	den	ADV	דען	deN	_
+11	on	P	אָן	AoN	_
+12	dir	PRO	דיר	dyr	_
+13	forloren	VBN	פֿאָרלאָרען	fAorlAoreN	_
+14	?	PUNC	?	?	_
+
+SENT	1723W-SIMKHES,64.26
+1	hot	HVF	האָט	hAot	_
+2	im	PRO	אים	AyM	_
+3	der	D	דער	der	_
+4	fogel	N	פֿאָגעל	fAogel	_
+5	geentfert	VBN	געענטפֿערט	geentfert	_
+6	:	PUNC	:	:	_
+7-8	hestu	HVF~PRO	העסטו	hestv	_
+7	hes	HVF	העס	hes	_
+8	tu	PRO	טו	tv	_
+9	mikh	PRO	מיך	myX	_
+10-11	umgebrokht	RP~VBN	אומגעבראָכט	AvmgebrAoxt	_
+10	um	RP	אום	AvM	_
+11	gebrokht	VBN	געבראָכט	gebrAoxt	_
+12	,	PUNC	,	,	_
+13-14	hestu	HVF~PRO	העסטו	hestv	_
+13	hes	HVF	העס	hes	_
+14	tu	PRO	טו	tv	_
+15	in	P	אין	AyN	_
+16	mir	PRO	מיר	myr	_
+17	gefunden	VBN	געפֿונדען	gefvndeN	_
+18	eyn	D	אײן	AYN	_
+19	perl	N	פּערל	perl	_
+20	.	PUNC	.	.	_
+21	iz	VBF	איז	Ayz	_
+22	greser	ADJ	גרעסער	greser	_
+23	als	P	אַלס	Aals	_
+24	eyn	D	אײן	AYN	_
+25	genzen_ey	N	גענזענ_ײ	genzen_Y	_
+26	,	PUNC	,	,	_
+
+SENT	1723W-SIMKHES,64.27
+1	den	ADV	דען	deN	_
+2-3	hestu	HVF~PRO	העסטו	hestv	_
+2	hes	HVF	העס	hes	_
+3	tu	PRO	טו	tv	_
+4	ale	Q	אַלע	Aale	_
+5	deyne	PRO$	דײנע	dYne	_
+6	tog	N	טאָג	tAog	_
+7	genugen	Q	גענוגען	genvgeN	_
+8	reykhtum	N	רײכטום	rYxtvM	_
+9	gehot	VBN	געהאָט	gehAot	_
+10	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,64.28
+1	vi	C	װי	Vy	_
+2	der	D	דער	der	_
+3	her	N	הער	her	_
+4	zolkhes	ADJ	זאָלכעס	zAolxes	_
+5	gehert	VBN	געהערט	gehert	_
+6	hot	HVF	האָט	hAot	_
+7	,	PUNC	,	,	_
+8	iz	BEF	איז	Ayz	_
+9	er	PRO	ער	er	_
+10	nider	ADV	נידער	nyder	_
+11	gefalen	VBN	געפֿאַלען	gefAaleN	_
+12	for	P	פֿאָר	fAor	_
+13	shreken	N	שרעקען	$rekeN	_
+
+SENT	1723W-SIMKHES,64.29
+1	un	CONJ	און	AvN	_
+2	hot	HVF	האָט	hAot	_
+3	shtark	ADV	שטאַרק	$tAark	_
+4	getrauert	VBN	געטראַוערט	getrAavert	_
+5	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,64.30
+1	dokh	ADV	דאָך	dAoX	_
+2	hot	HVF	האָט	hAot	_
+3	er	PRO	ער	er	_
+4	zikh	PRO	זיך	zyX	_
+5	dermindert	VBN	דערמינדערט	dermyndert	_
+
+SENT	1723W-SIMKHES,64.31
+1	un	CONJ	און	AvN	_
+2	hot	HVF	האָט	hAot	_
+3-4	tsum	P~D	צום	qvM	_
+3	tsu	P	צו	qv	_
+4	m	D	מ	m	_
+5	fogel	N	פֿאָגעל	fAogel	_
+6	geret	VBN	גערעט	geret	_
+7	shmeykheldige	ADJ	שמײכעלדיגע	$mYxeldyge	_
+8	red	N	רעד	red	_
+9	:	PUNC	:	:	_
+10	kum	VBI	קום	kvM	_
+11	tsu	P	צו	qv	_
+12	mir	PRO	מיר	myr	_
+13	!	PUNC	!	!	_
+
+SENT	1723W-SIMKHES,64.32
+1	ikh	PRO	איך	AyX	_
+2	vil	MDF	װיל	Vyl	_
+3	dikh	PRO	דיך	dyX	_
+4	halten	VB	האַלטען	hAalteN	_
+5	vi	P	װי	Vy	_
+6	meyn	PRO$	מײן	mYN	_
+7	kind	N	קינד	kynd	_
+8	,	PUNC	,	,	_
+
+SENT	1723W-SIMKHES,64.33
+1	vi	P	װי	Vy	_
+2	shvartsapfel	N	שװאַרצאַפּפֿעל	$VAarqAapfel	_
+3	fun	P	פֿון	fvN	_
+4	meyn	PRO$	מײן	mYN	_
+5	aug	N	אַוג	Aavg	_
+6	vil	MDF	װיל	Vyl	_
+7	ikh	PRO	איך	AyX	_
+8	dikh	PRO	דיך	dyX	_
+9	halten	VB	האַלטען	hAalteN	_
+10	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,64.34
+1	kum	VBI	קום	kvM	_
+2	neyert	FP	נײערט	nYert	_
+3	tsu	P	צו	qv	_
+4	mir	PRO	מיר	myr	_
+5	!	PUNC	!	!	_
+
+SENT	1723W-SIMKHES,64.35
+1	mit	P	מיט	myt	_
+2	zolkhe	ADJ	זאָלכע	zAolxe	_
+3	red	N	רעד	red	_
+4	hot	HVF	האָט	hAot	_
+5	er	PRO	ער	er	_
+6	gemeynt	VBN	געמײנט	gemYnt	_
+7	,	PUNC	,	,	_
+8	den	D	דען	deN	_
+9	fogel	N	פֿאָגעל	fAogel	_
+10	tsu	P	צו	qv	_
+11	zikh	PRO	זיך	zyX	_
+12	bekumen	VB	בעקומען	bekvmeN	_
+13	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,64.36
+1	hot	HVF	האָט	hAot	_
+2	der	D	דער	der	_
+3	fogel	N	פֿאָגעל	fAogel	_
+4	tsu	P	צו	qv	_
+5	im	PRO	אים	AyM	_
+6-7	ongefangen	RP~VBN	אָנגעפֿאַנגען	AongefAangeN	_
+6	on	RP	אָן	AoN	_
+7	gefangen	VBN	געפֿאַנגען	gefAangeN	_
+8	:	PUNC	:	:	_
+9	du	PRO	דו	dv	_
+10	groser	ADJ	גראָסער	grAoser	_
+11	nar	N	נאַר	nAar	_
+12	,	PUNC	,	,	_
+13	hob	HVF	האָב	hAob	_
+14	ikh	PRO	איך	AyX	_
+15	dir	PRO	דיר	dyr	_
+16	nit	NEG	ניט	nyt	_
+17	gelernt	VBN	געלערנט	gelernt	_
+18	,	PUNC	,	,	_
+19	dreyerley	NUM	דרײערלײ	drYerlY	_
+20	zakhen	N	זאַכען	zAaxeN	_
+21-22	zolstu	MDF~PRO	זאָלסטו	zAolstv	_
+21	zols	MDF	זאָלס	zAols	_
+22	tu	PRO	טו	tv	_
+23-24	nokhkumen	RP~VB	נאָכקומען	nAoxkvmeN	_
+23	nokh	RP	נאָך	nAoX	_
+24	kumen	VB	קומען	kvmeN	_
+25	?	PUNC	?	?	_
+
+SENT	1723W-SIMKHES,64.37
+1	du	PRO	דו	dv	_
+2	zolst	MDF	זאָלסט	zAolst	_
+3	nit	NEG	ניט	nyt	_
+4	ziftsen	VB	זיפֿצען	zyfqeN	_
+5	auf	P	אַוף	AavF	_
+6	vos	WPRO	װאָס	VAos	_
+7	du	PRO	דו	dv	_
+8	forloren	VBN	פֿאָרלאָרען	fAorlAoreN	_
+9	host	HVF	האָסט	hAost	_
+10	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,64.38
+1	du	PRO	דו	dv	_
+2	zolst	MDF	זאָלסט	zAolst	_
+3	nit	NEG	ניט	nyt	_
+4	forlangen	VB	פֿאָרלאַנגען	fAorlAangeN	_
+5	,	PUNC	,	,	_
+6	vos	WPRO	װאָס	VAos	_
+7	du	PRO	דו	dv	_
+8	nit	NEG	ניט	nyt	_
+9	kanst	MDF	קאַנסט	kAanst	_
+10	arlangen	VB	אַרלאַנגען	AarlAangeN	_
+11	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,64.39
+1	du	PRO	דו	dv	_
+2	zolst	MDF	זאָלסט	zAolst	_
+3	nit	NEG	ניט	nyt	_
+4	glauben	VB	גלאַובען	glAavbeN	_
+5	,	PUNC	,	,	_
+6	vos	WPRO	װאָס	VAos	_
+7	nit	NEG	ניט	nyt	_
+8	zeyn	VB	זײן	zYN	_
+9	kan	MDF	ק"ן	k"N	_
+10	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,64.40
+1	itsund	ADV	איצונד	Ayqvnd	_
+2-3	bistu	VBF~PRO	ביסטו	bystv	_
+2	bis	VBF	ביס	bys	_
+3	tu	PRO	טו	tv	_
+4	ale	Q	אַלע	Aale	_
+5	drey	NUM	דרײ	drY	_
+6	over	RP-H	עבֿר	e~r	_
+7	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,64.41
+1	du	PRO	דו	dv	_
+2	vilst	MDF	װילסט	Vylst	_
+3	mikh	PRO	מיך	myX	_
+4	vider	ADV	װידער	Vyder	_
+5	hoben	VB	האָבען	hAobeN	_
+
+SENT	1723W-SIMKHES,64.42
+1	un	CONJ	און	AvN	_
+2	kanst	MDF	קאַנסט	kAanst	_
+3	mikh	PRO	מיך	myX	_
+4	nit	NEG	ניט	nyt	_
+5	arlangen	VB	אַרלאַנגען	AarlAangeN	_
+6	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,64.43
+1	du	PRO	דו	dv	_
+2	tust	DOF	טוסט	tvst	_
+3	trauern	VB	טראַוערן	trAaverN	_
+
+SENT	1723W-SIMKHES,64.44
+1	un	CONJ	און	AvN	_
+2	bist	VBF	ביסט	byst	_
+3	dikh	PRO	דיך	dyX	_
+4	m'tsara	RP-H	מ'צאַראַ	m'qAarAa	_
+5	auf	P	אַוף	AavF	_
+6	vos	WPRO	װאָס	VAos	_
+7	du	PRO	דו	dv	_
+8	forloren	VBN	פֿאָרלאָרען	fAorlAoreN	_
+9	host	HVF	האָסט	hAost	_
+10	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,64.45
+1	du	PRO	דו	dv	_
+2	tust	DOF	טוסט	tvst	_
+3	glauben	VB	גלאַובען	glAavbeN	_
+4	,	PUNC	,	,	_
+5	vu	WADV	װוּ	VU	_
+6	nit	NEG	ניט	nyt	_
+7	iz	VBF	איז	Ayz	_
+8	tsu	TO	צו	qv	_
+9	glauben	VB	גלאַובען	glAavbeN	_
+10	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,64.46
+1	du	PRO	דו	dv	_
+2	meynst	VBF	מײנסט	mYnst	_
+3	,	PUNC	,	,	_
+4	ikh	PRO	איך	AyX	_
+5	hob	VBF	האָב	hAob	_
+6	eyn	D	אײן	AYN	_
+7	perl	N	פּערל	perl	_
+8	bey	P	בײ	bY	_
+9	mir	PRO	מיר	myr	_
+10	als	P	אַלס	Aals	_
+11	eyn	D	אײן	AYN	_
+12	genzen_ey	N	גענזענ_ײ	genzen_Y	_
+13	gros	ADJ	גראָס	grAos	_
+14	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,64.47
+1	eyn	D	אײן	AYN	_
+2	genzen_ey	N	גענזענ_ײ	genzen_Y	_
+3	iz	VBF	איז	Ayz	_
+4	nokh	ADV	נאָך	nAoX	_
+5	eyn	NUM	אײן	AYN	_
+6	mol	N	מאָל	mAol	_
+7	azo	ADV	אַזאָ	AazAo	_
+8	gros	ADJ	גראָס	grAos	_
+9	als	P	אַלס	Aals	_
+10	meyn	PRO$	מײן	mYN	_
+11	gants	ADJ	גאַנץ	gAanQ	_
+12	leyb	N	לײב	lYb	_
+13	un	CONJ	און	AvN	_
+14	leben	N	לעבען	lebeN	_
+15	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,64.48
+1	nun	INTJ	נ	n	_
+2	nem	VBI	נעם	neM	_
+3	beser	ADV	בעסער	beser	_
+4	in	P	אין	AyN	_
+5	akht	N	אַכט	Aaxt	_
+6	di	D	די	dy	_
+7	dreyerley	NUM	דרײערלײ	drYerlY	_
+8	zakhen	N	זאַכען	zAaxeN	_
+9	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,64.49
+1	doz	D	דאָז	dAoz	_
+2	moshol	N	מאָשאָל	mAo$Aol	_
+3	shtet	VBF	שטעט	$tet	_
+4	in	P	אין	AyN	_
+5	sif're	H	סיפֿ'רע	syf're	book
+6	musor	H	מוסאָר	mvsAor	morality
+7	,	PUNC	,	,	_
+
+SENT	1723W-SIMKHES,64.50
+1	un	CONJ	און	AvN	_
+2	iz	VBF	איז	Ayz	_
+3	eyn	D	אײן	AYN	_
+4	k'lal	N	ק'לאַל	k'lAal	_
+5	in	P	אין	AyN	_
+6	yir'as	H	ייִר'אַס	yyir'Aas	UNKNOWN
+7	shomayim	H	שאָמײַיִם	$AomYayiM	heavens
+8	,	PUNC	,	,	_
+9	der	D	דער	der	_
+10	mensh	N	מענש	men$	_
+11	zol	MDF	זאָל	zAol	_
+12	in	P	אין	AyN	_
+13	akht	N	אַכט	Aaxt	_
+14	nemen	VB	נעמען	nemeN	_
+15	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,64.51
+1	doz	D	דאָז	dAoz	_
+2	moshol	N	מאָשאָל	mAo$Aol	_
+3	iz	BEF	איז	Ayz	_
+4	gemeynt	VAN	געמײנט	gemYnt	_
+5	:	PUNC	:	:	_
+6	der	D	דער	der	_
+7	mensh	N	מענש	men$	_
+8	forlangt	VBF	פֿאָרלאַנגט	fAorlAangt	_
+9	,	PUNC	,	,	_
+10	vos	WPRO	װאָס	VAos	_
+11	er	PRO	ער	er	_
+12	nit	NEG	ניט	nyt	_
+13	kann	MDF	קאַנן	kAanN	_
+14	arlangen	VB	אַרלאַנגען	AarlAangeN	_
+15	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,64.52
+1	er	PRO	ער	er	_
+2	vil	MDF	װיל	Vyl	_
+3	hoben	VB	האָבען	hAobeN	_
+4	ashirus	N	אַשירוס	Aa$yrvs	_
+
+SENT	1723W-SIMKHES,64.53
+1	un	CONJ	און	AvN	_
+2	forbrengt	VBF	פֿאָרברענגט	fAorbrengt	_
+3	zeyne	PRO$	זײנע	zYne	_
+4	yor	N	יאָר	yAor	_
+5	driber	DR+P	דריבער	dryber	_
+6	,	PUNC	,	,	_
+
+SENT	1723W-SIMKHES,65.55
+1	un	CONJ	און	AvN	_
+2	er	PRO	ער	er	_
+3	kan	MDF	ק"ן	k"N	_
+4	ez	PRO	עז	ez	_
+5	nit	NEG	ניט	nyt	_
+6	arlangen	VB	אַרלאַנגען	AarlAangeN	_
+7	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,65.56
+1	ven	C	װען	VeN	_
+2	er	PRO	ער	er	_
+3	nokh	ADV	נאָך	nAoX	_
+4	azo	ADV	אַזאָ	AazAo	_
+5	fil	Q	פֿיל	fyl	_
+6	hot	VBF	האָט	hAot	_
+7	,	PUNC	,	,	_
+8	iz	VBF	איז	Ayz	_
+9	er	PRO	ער	er	_
+10	nit	NEG	ניט	nyt	_
+11	reykh	ADJ	רײך	rYX	_
+12	genugen	Q	גענוגען	genvgeN	_
+13	,	PUNC	,	,	_
+14	vi	WADV	װי	Vy	_
+15	shon	ADV	שאָן	$AoN	_
+16	oben	ADV	אָבען	AobeN	_
+17	gemelt	VAN	געמעלט	gemelt	_
+18	iz	BEF	איז	Ayz	_
+19	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,65.57
+1	der	D	דער	der	_
+2	mensh	N	מענש	men$	_
+3	zorgt	VBF	זאָרגט	zAorgt	_
+
+SENT	1723W-SIMKHES,65.58
+1	un	CONJ	און	AvN	_
+2	iz	VBF	איז	Ayz	_
+3	zikh	PRO	זיך	zyX	_
+4	m'tsar	RP-H	מ'צער	m'qer	_
+5	,	PUNC	,	,	_
+6	ven	C	װען	VeN	_
+7	er	PRO	ער	er	_
+8	epes	Q	עפּעס	epes	_
+9	forlirt	VBF	פֿאָרלירט	fAorlyrt	_
+10	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,65.59
+1	voz	WPRO	װאָז	VAoz	_
+2	helft	VBF	העלפֿט	helft	_
+3	es	PRO	עס	es	_
+4	im	PRO	אים	AyM	_
+5	?	PUNC	?	?	_
+
+SENT	1723W-SIMKHES,65.60
+1	es	PRO	עס	es	_
+2	iz	VBF	איז	Ayz	_
+3	nit	NEG	ניט	nyt	_
+4	tsu	TO	צו	qv	_
+5	venden	VB	װענדען	VendeN	_
+6	,	PUNC	,	,	_
+7	vi	WADV	װי	Vy	_
+8	nun	ADV	נ	n	_
+9	oben	ADV	אָבען	AobeN	_
+10	ba'arikhus	H	באַ'אַריכוס	bAa'Aaryxvs	in_length
+11	derfun	DR+P	דערפֿון	derfvN	_
+12	geshriben	VBN	געשריבען	ge$rybeN	_
+13	hob	HVF	האָב	hAob	_
+14	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,65.61
+1	der	D	דער	der	_
+2	mensh	N	מענש	men$	_
+3	tut	DOF	טוט	tvt	_
+4	glauben	VB	גלאַובען	glAavbeN	_
+5	,	PUNC	,	,	_
+6	voz	WPRO	װאָז	VAoz	_
+7	nit	NEG	ניט	nyt	_
+8	tsu	TO	צו	qv	_
+9	glauben	VB	גלאַובען	glAavbeN	_
+10	iz	VBF	איז	Ayz	_
+11	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,65.62
+1	er	PRO	ער	er	_
+2	glaubt	VBF	גלאַובט	glAavbt	_
+3	dem	D	דעם	deM	_
+4	yetser_horo	N	יעצער_האָראָ	yeqer_hAorAo	_
+
+SENT	1723W-SIMKHES,65.63
+1	un	CONJ	און	AvN	_
+2	hot	VBF	האָט	hAot	_
+3	in	P	אין	AyN	_
+4	zeyne	PRO$	זײנע	zYne	_
+5	gedanken	N	געדאַנקען	gedAankeN	_
+6	,	PUNC	,	,	_
+7	er	PRO	ער	er	_
+8	vert	RDF	װערט	Vert	_
+9	nit	NEG	ניט	nyt	_
+10	geshtroft	VAN	געשטראָפֿט	ge$trAoft	_
+11	auf	P	אַוף	AavF	_
+12	zeyne	PRO$	זײנע	zYne	_
+13	averos	N	אַװעראָס	AaVerAos	_
+14	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,65.64
+1	zolkhes	ADJ	זאָלכעס	zAolxes	_
+2	iz	VBF	איז	Ayz	_
+3	nit	NEG	ניט	nyt	_
+4	tsu	TO	צו	qv	_
+5	glauben	VB	גלאַובען	glAavbeN	_
+6	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,65.65
+1	gotes	NPR$	גאָטעס	gAotes	_
+2	shtrof	N	שטראָף	$trAoF	_
+3	zeynen	VBF	זײנען	zYneN	_
+4	fil	Q	פֿיל	fyl	_
+5	auf	P	אַוף	AavF	_
+6	dizer	D	דיזער	dyzer	_
+7	velt	N	װעלט	Velt	_
+8	un	CONJ	און	AvN	_
+9	auf	P	אַוף	AavF	_
+10	yener	D	יענער	yener	_
+11	velt	N	װעלט	Velt	_
+12	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,65.66
+1	vi	WADV	װי	Vy	_
+2	bald	ADV	באַלד	bAald	_
+3	iz	BEF	איז	Ayz	_
+4	es	PRO	עס	es	_
+5	mit	P	מיט	myt	_
+6	den	D	דען	deN	_
+7	menshen	N	מענשען	men$eN	_
+8	geshehen	VBN	געשעהען	ge$eheN	_
+9	!	PUNC	!	!	_
+
+SENT	1723W-SIMKHES,65.67
+1	vi	WADV	װי	Vy	_
+2	fil	Q	פֿיל	fyl	_
+3	m'komos	H	מ'קאָמאָס	m'kAomAos	UNKNOWN
+4	zeyn	BEF	זײן	zYN	_
+5-6	untergangen	RP~VBN	אונטערגאַנגען	AvntergAangeN	_
+5	unter	RP	אונטער	Avnter	_
+6	gangen	VBN	גאַנגען	gAangeN	_
+7	in	P	אין	AyN	_
+8	erdtsiternis	N	ערדציטערניס	erdqyternys	_
+9	,	PUNC	,	,	_
+10	fil	Q	פֿיל	fyl	_
+11	in	P	אין	AyN	_
+12	volkenbrust	N	װאָלקענברוסט	VAolkenbrvst	_
+13	,	PUNC	,	,	_
+14	grose	ADJ	גראָסע	grAose	_
+15	vaser	N	װאַסער	VAaser	_
+16	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,65.68
+1	eyn	D	אײן	AYN	_
+2	shoo	N	שאָאָ	$AoAo	_
+3	,	PUNC	,	,	_
+4	eyn	D	אײן	AYN	_
+5	rega	N	רעגאַ	regAa	_
+6	iz	VBF	איז	Ayz	_
+7	der	D	דער	der	_
+8	mensh	N	מענש	men$	_
+9	nit	NEG	ניט	nyt	_
+10	zikher	ADJ	זיכער	zyxer	_
+11	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,65.69
+1	nun	ADV	נ	n	_
+2	vorum	WPRO+P	װאָרום	VAorvM	_
+3	tut	DOF	טוט	tvt	_
+4	der	D	דער	der	_
+5	mensh	N	מענש	men$	_
+6	zukhen	VB	זוכען	zvxeN	_
+7	di	D	די	dy	_
+8	velt	N	װעלט	Velt	_
+9	tsu	TO	צו	qv	_
+10	hoben	VB	האָבען	hAobeN	_
+11	un	CONJ	און	AvN	_
+12	tut	DOF	טוט	tvt	_
+13	nit	NEG	ניט	nyt	_
+14	trakhten	VB	טראַכטען	trAaxteN	_
+15	als	C	אַלס	Aals	_
+16	der	D	דער	der	_
+17	tot	N	טאָט	tAot	_
+18	im	PRO	אים	AyM	_
+19	tut	DOF	טוט	tvt	_
+20	zukhen	VB	זוכען	zvxeN	_
+21	?	PUNC	?	?	_
+
+SENT	1723W-SIMKHES,65.70
+1	er	PRO	ער	er	_
+2	mag	MDF	מאַג	mAag	_
+3	bald	ADV	באַלד	bAald	_
+4	shterben	VB	שטערבען	$terbeN	_
+5	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,65.71
+1	vi	WADV	װי	Vy	_
+2	ve	ADJ	װע	Ve	_
+3	iz	VBF	איז	Ayz	_
+4	die	D	דיִע	dyie	_
+5	zelbige	ADJ	זעלביגע	zelbyge	_
+6	sho	N	שעה	$eh	_
+7	,	PUNC	,	,	_
+8	ven	C	װען	VeN	_
+9	man	PRO	מאַן	mAaN	_
+10	mit	P	מיט	myt	_
+11	lere	ADJ	לערע	lere	_
+12	hant	N	האַנט	hAant	_
+13	kumt	VBF	קומט	kvmt	_
+14	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,65.72
+1	ven	C	װען	VeN	_
+2	der	D	דער	der	_
+3	mensh	N	מענש	men$	_
+4	gleykh	ADV	גלײך	glYX	_
+5	lang	ADV	לאַנג	lAang	_
+6	leben	VB	לעבען	lebeN	_
+7	tut	DOF	טוט	tvt	_
+8	,	PUNC	,	,	_
+9	hot	VBF	האָט	hAot	_
+10	er	PRO	ער	er	_
+11	dokh	ADV	דאָך	dAoX	_
+12	vetog	N	װעטאָג	VetAog	_
+13	genugen	Q	גענוגען	genvgeN	_
+14	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,65.73
+1	er	PRO	ער	er	_
+2	derlebt	VBF	דערלעבט	derlebt	_
+3	grose	ADJ	גראָסע	grAose	_
+4	leyd	N	לײד	lYd	_
+5	,	PUNC	,	,	_
+6	zeyne	PRO$	זײנע	zYne	_
+7	freynd	N	פֿרײנד	frYnd	_
+8	un	CONJ	און	AvN	_
+9	zeyne	PRO$	זײנע	zYne	_
+10	kinder	N	קינדער	kynder	_
+11	shterben	VBF	שטערבען	$terbeN	_
+12	for	P	פֿאָר	fAor	_
+13	im	PRO	אים	AyM	_
+14	un	CONJ	און	AvN	_
+15	zunst	ADV	זונסט	zvnst	_
+16	tsors	N	צאָרס	qAors	_
+17	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,65.74
+1	dokh	ADV	דאָך	dAoX	_
+2	vil	MDF	װיל	Vyl	_
+3	der	D	דער	der	_
+4	mensh	N	מענש	men$	_
+5	zikh	PRO	זיך	zyX	_
+6	nit	NEG	ניט	nyt	_
+7	bedenken	VB	בעדענקען	bedenkeN	_
+8	l'tshuvo	H	ל'טשוּװאָ	l't$UVAo	to_repentance
+9	,	PUNC	,	,	_
+10	ven	C	װען	VeN	_
+11	er	PRO	ער	er	_
+12	gleykh	ADV	גלײך	glYX	_
+13	fil	Q	פֿיל	fyl	_
+14	mol	N	מאָל	mAol	_
+15	geshtroft	VAN	געשטראָפֿט	ge$trAoft	_
+16	vert	RDF	װערט	Vert	_
+17	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,65.75
+1	doz	D	דאָז	dAoz	_
+2	makht	VBF	מאַכט	mAaxt	_
+3	baavonosenu	H	באַאַװאָנאָסענו	bAaAaVAonAosenv	for_sins_our
+4	horabim	H	האָראַבים	hAorAabyM	the_many
+5	als	Q	אַלס	Aals	_
+
+SENT	1723W-SIMKHES,65.76
+1	veyl	C	װײל	VYl	_
+2	der	D	דער	der	_
+3	yetser_horo	N	יעצער_האָראָ	yeqer_hAorAo	_
+4	fun	P	פֿון	fvN	_
+5	yugent	N	יוגענט	yvgent	_
+6	auf	RP	אַוף	AavF	_
+7	bey	P	בײ	bY	_
+8	im	PRO	אים	AyM	_
+9	iber	P	איבער	Ayber	_
+10	hant	N	האַנט	hAant	_
+11	hot	HVF	האָט	hAot	_
+12	genumen	VBN	גענומען	genvmeN	_
+13	,	PUNC	,	,	_
+14	get	VBF	גט	gt	_
+15	er	PRO	ער	er	_
+16	zeyn	PRO$	זײן	zYN	_
+17	gevonheyt	N	געװאָנהײט	geVAonhYt	_
+18	nokh	RP	נאָך	nAoX	_
+19	;	PUNC	;	;	_
+
+SENT	1723W-SIMKHES,65.77
+1	treyb	VBI	טרײב	trYb	_
+2	di	D	די	dy	_
+3	kats	N	קאַץ	kAaQ	_
+4	fun	P	פֿון	fvN	_
+5	feyer	N	פֿײער	fYer	_
+6	,	PUNC	,	,	_
+7	kumt	VBF	קומט	kvmt	_
+8	zi	PRO	זי	zy	_
+9	alemol	ADV	אַלעמאָל	AalemAol	_
+10	vider	ADV	װידער	Vyder	_
+11	,	PUNC	,	,	_
+12	veyl	C	װײל	VYl	_
+13	zi	PRO	זי	zy	_
+14	azo	ADV	אַזאָ	AazAo	_
+15	gevont	ADJ	געװאָנט	geVAont	_
+16	iz	VBF	איז	Ayz	_
+17	.	PUNC	.	.	_
+
+SENT	1723W-SIMKHES,65.78
+1	azo	ADV	אַזאָ	AazAo	_
+2	akh	ADV	אַך	AaX	_
+3	der	D	דער	der	_
+4	mensh	N	מענש	men$	_
+5	.	PUNC	.	.	_
+
