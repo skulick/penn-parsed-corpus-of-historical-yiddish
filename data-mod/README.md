@@ -95,6 +95,6 @@ Since the main focus is NLP applications, I was concerned, for now, only with tw
 
 # Contact
 
-For anything related to these particular issues of conversion: `skulick@ldc.upenn.edu`
+For anything related to the conversion from PPCHY to this data-mod directory, please contact Seth Kulick (skulick@ldc.upenn.edu).
 
 
